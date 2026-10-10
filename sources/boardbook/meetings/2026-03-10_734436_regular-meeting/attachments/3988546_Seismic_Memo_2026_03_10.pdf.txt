@@ -1,0 +1,222 @@
+To:​   Board of Education
+From:​ Dr. Jon Franco, Senior Chief of Operations
+Cc:​   Dr. Kimberlee Armstrong, Superintendent
+       Deborah Kafoury, Chief of Staff
+RE:​   Seismic Memo
+Date:​ March 10, 2026
+
+
+
+
+Resolution 7109 establishes the criteria and intent for prioritizing seismic retrofits. It contemplates that all
+high-risk schools will not be addressed within a single bond cycle. Specifically, it directs Portland Public
+Schools (PPS) to use current seismic assessment data to identify and prioritize schools that pose the
+greatest risk of injury or death in a significant earthquake, and to clearly communicate the criteria used to
+determine the sequence of retrofits.
+
+We acknowledge that discussion of a significant earthquake can cause concern and anxiety. We affirm at
+all times that we are focused on ensuring the safety of all of our children and staff in our buildings and are
+working to devise a plan to prioritize the work across our many buildings to do that.
+
+Holmes and PPS Partnership
+
+Holmes was engaged by PPS to:
+
+    ●​ Complete a district-wide seismic risk assessment of PPS school facilities, and
+    ●​ Use those results to help PPS identify a first tranche of seismic retrofit projects that could be
+       delivered with up to approximately 100 million dollars of 2025 bond funding for 8-10 schools
+       dedicated to addressing high seismic risks with the District1.
+
+This memo summarizes the technical approach Holmes used, in partnership with PPS, to recommend
+schools and project types for this first phase of work, and how that approach aligns with Resolution 7109
+including:
+
+    1.​ Metrics and Formula Used to Identify Retrofit Candidates
+    2.​ Seismic and facility metrics
+
+
+Identification of Schools
+
+Holmes and PPS explored several options combining available data into ranking formulas resulting in the
+identification and prioritization of schools for seismic retrofits. The metrics utilized in these formulas
+include the following:
+1
+ The budget for seismic retrofits from the 2025 bond is principally created by savings on other 2025 bond
+projects. PPS continues to track progress towards those savings goals and accelerate the seismic retrofit
+work whenever possible.
+
+                                                                                                          Page 1
+        Seismic Risk Score (Holmes)​
+        Each distinct “building part” on a campus was assigned a Seismic Risk Score from 1 to 10, where
+        higher scores indicate poorer expected performance and greater life-safety risk in an earthquake.
+        Scores were based on building type, construction era, and observed or documented seismic
+        vulnerabilities.
+
+        Deferred Maintenance Score (PPS)​
+        A 0–5 score (higher means more need) representing overall facility condition and backlog of
+        deferred maintenance work. This score is relevant to seismic retrofit prioritization because it
+        reflects the extent of prior structural, envelope and roof investments made at each campus. The
+        Deferred Maintenance score also incorporates an equity adjustment recognizing CSI/TSI
+        status.
+
+        Enrollment / “Right-sizing” Indicator (PPS)​
+        A simple Yes/No indicator of whether a school’s enrollment reflects the number of students who
+        would benefit from improved seismic performance using a threshold of 300 students. Given the
+        rightsizing process that we will be engaging in, we assessed the projected enrollment of our
+        school sites over the next 3 years. Schools not meeting the enrollment threshold of 300 were not
+        prioritized for this first round of recommendations.
+
+Because these measures use different scoring scales, we first convert the Seismic Risk and Deferred
+Maintenance scores to a common 0‑to‑1 scale, and treat Yes/No answers (like Enrollment) as 1 or 0. This
+lets us combine them fairly in one formula so that the stated weights (90 percent seismic, 5 percent
+maintenance, 5 percent enrollment) accurately reflect their influence.
+
+Final recommended formula
+Holmes developed and tested several weighting formulas to see how campus rankings changed when
+different metrics were emphasised. This sensitivity testing allowed PPS and Holmes to confirm which
+schools consistently appeared as high priorities when seismic risk was emphasized, and to understand
+how rankings would shift if non‑seismic factors were given more weight.
+
+After review with PPS, the following formula was recommended as the primary technical tool for
+identifying high-priority full campus retrofits:
+
+𝑆𝑐𝑜𝑟𝑒 = 0. 90×(𝐻𝑖𝑔ℎ𝑒𝑠𝑡 𝐶𝑎𝑚𝑝𝑢𝑠 𝑆𝑒𝑖𝑠𝑚𝑖𝑐 𝑅𝑖𝑠𝑘 𝑆𝑐𝑜𝑟𝑒) + 0. 05×(𝐷𝑒𝑓𝑒𝑟𝑟𝑒𝑑 𝑀𝑎𝑖𝑛𝑡𝑒𝑛𝑎𝑛𝑐𝑒) + 0. 05×(𝐸𝑛𝑟𝑜𝑙𝑙𝑚𝑒𝑛𝑡)
+
+In practical terms, this formula prioritizes campuses with the greatest potential for structural failure or
+collapse in an earthquake, while modestly accounting for facility condition and the number of students
+served.
+
+This structure reflects Resolution 7109’s direction to prioritize schools that “pose the greatest risk of injury
+or death in a significant seismic event”, while recognizing that modestly combining seismic work with
+existing facility needs and serving more students can provide additional benefit.
+
+
+
+
+                                                                                                         Page 2
+Interpreting the formula
+Across the different scenarios, a consistent group of high-risk campuses repeatedly appeared near the
+top of the rankings. In particular (in alphabetical order), Fernwood (Beverly Cleary), Glencoe, Grout,
+Jackson, Kelly, Rose City Park, and Roseway Heights appeared in the top ten for more than half of the
+formulas that were tested. These patterns gave PPS and Holmes confidence that the formulas were
+identifying a common core of high-risk schools, even when non-seismic factors were varied.
+
+The final recommended formula was then applied to all campuses to generate a primary ranked list. This
+ranked list was not treated as a strict “top N” selection. Instead, it was used to:
+
+    ●​ Highlight a manageable group of highest-scoring campuses for further review, and
+
+    ●​ Provide a consistent, data-driven starting point for conversations about scope, cost, and phasing.
+
+Joint discussions between Holmes and PPS
+Holmes worked with PPS facilities and operations staff to refine the shortlist to a program that:
+
+    ●​ Would have the greatest impact on reducing life-safety risk across the overall building stock,
+       in keeping with Resolution 7109, and
+
+    ●​ Could realistically be delivered within approximately 100 million dollars and the Board’s direction
+       to address 8–10 schools in this first phase.
+
+Key considerations in those discussions included:
+
+    ●​ The type and extent of high-risk structural deficiencies at each campus,
+
+    ●​ The likely rough order of magnitude (ROM) cost to achieve a meaningful seismic improvement,
+
+    ●​ The practicality of combining or staging work, and
+
+    ●​ The need to balance a small number of full campus projects with a larger number of targeted
+       interventions that collectively protect more students.
+
+Some high‑risk campuses would require very large investments to achieve a full seismic retrofit. In these
+cases, PPS concluded, in consultation with Holmes, that more detailed investigation and scope
+refinement, along with long-range facilities planning, should occur before committing a substantial portion
+of this first bond allocation. These campuses remain high priorities for future funding. Sequencing reflects
+affordability and deliverability constraints within this bond cycle, not a diminished commitment to the
+safety of the students served in those buildings.
+
+For other campuses, the data showed that targeted Unreinforced Masonry (URM) or building‑part retrofits
+could produce a large reduction in life safety risk at significantly lower cost than a full campus retrofit.
+These opportunities became key components of the recommended program.
+
+In interpreting these results, it was also important to note how “building parts” were defined. The
+underlying seismic assessments (Phase 1) were scoped and completed before PPS decided to use them
+
+
+                                                                                                      Page 3
+for district-wide risk scoring (Phase 2). Holmes engineers grouped spaces into building parts based on
+available drawings and site observations. In some cases, a single building part encompasses a large floor
+area, and a more granular subdivision would more clearly distinguish the different risk characteristics of
+the spaces. Rather than re-segment every campus, Holmes and PPS relied on our detailed familiarity with
+each school to recognize where this coarser grouping might either mask a high-risk area or make an
+entire campus appear higher-risk when only part of a building is driving the score. For example, a
+gymnasium, classroom wing, and administration area may be grouped together for scoring purposes even
+though their seismic vulnerabilities differ, requiring engineering judgment when interpreting campus-level
+scores.
+
+With that shared understanding of the data and its limitations, Holmes and PPS shaped a package of
+projects that fits within the available anticipated budget to reduce seismic risk across the district.
+
+Types of Projects Recommended
+The resulting program under the 2025 bond includes three main project types, each linked to the risk
+metrics:
+
+    1.​ Full campus retrofits
+
+             ●​ Applied at the highest-priority campuses per the seismic formula and engineering
+                review, where multiple building parts exhibit very high Seismic Risk Scores.
+
+             ●​ Full campus projects provide comprehensive risk reduction for those schools, addressing
+                multiple interacting deficiencies.
+
+    2.​ Targeted retrofits – high-risk building parts
+
+             ●​ Focused on specific buildings or building parts that contribute heavily to a campus’s
+                Seismic Risk Score.
+
+             ●​ These projects were chosen where strengthening those elements will significantly
+                reduce both part-level and campus-level seismic risk, for example, URM
+                gymnasiums or classroom wings.
+
+    3.​ Targeted retrofits – localized URM at egress or high-occupancy areas
+
+             ●​ Focused on local URM walls or components near main egress routes, gyms,
+                auditoriums, and other high-occupancy spaces.
+
+             ●​ Even when these localized elements do not substantially change the overall Seismic Risk
+                Score for the campus, strengthening them provides strong “value for money” from a life
+                safety perspective, because they directly reduce the risk in spaces where many students
+                and staff may be present during an event. These items have been previously identified in
+                the Holmes report table in the “Small Project Opportunities, Relative Low Cost to High
+                Safety Return”.
+
+Across all project types, the primary objective is to reduce the likelihood of serious injury or loss of life
+during a seismic event, particularly in spaces where students and staff are most likely to be present.
+
+                                                                                                           Page 4
+First Phase within a Longer-Term Program
+Resolution 7109 recognizes that the seismic risk within PPS cannot be fully addressed in a single bond
+cycle. The 2025 bond allocation for seismic work represents a first phase, focusing on the highest-risk
+buildings and the most cost-effective risk-reduction opportunities identified by the current assessment.
+Exclusion from this initial phase does not indicate lower priority; rather, it reflects sequencing, affordability,
+and deliverability constraints within this bond cycle.
+
+Holmes recommends that:
+
+    ●​ The Seismic Risk Scores and URM information developed in this study continue to be used as
+       a primary technical tool for future bond planning, grant applications (such as the State’s
+       Seismic Rehabilitation Grant Program), and capital programming.
+
+    ●​ Schools that were identified as high-risk but not advanced in this bond cycle, particularly those
+       with complex or high-cost retrofit needs, be prioritized for further investigation and future
+       planning and funding.
+
+In this way, PPS can continue to act on the commitments in Resolution 7109: using transparent,
+data-driven criteria, focusing first on the highest-risk buildings, and advancing a multi-bond, multi-year
+strategy to bring all high-risk schools to an acceptable standard of seismic safety.
+
+
+
+
+                                                                                                           Page 5
+

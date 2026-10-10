@@ -1,0 +1,224 @@
+Enterprise Resource Planning (ERP)
+Modernization
+Program Update
+Board Discussion
+Feb. 24, 2026
+
+
+
+
+                                     1
+Agenda
+
+• Quick Refresh: Program Charter & Scope
+
+• Technical Solution - vendor selection              Board Work Session
+                                                     (03/31)
+
+
+• Implementation Partner - RFP status and timeline
+
+• Next Steps
+
+
+
+
+                                                                          2
+Program Charter:
+ERP Modernization
+                                                                    The program is funded
+  A tightly coordinated multi-year program to redesign how          via 2020 & 2025 bonds
+   people, processes, and technology work together
+across PPS to streamline work and unlock better outcomes.
+                                                             This transformation will be enabled by
+                                                             the implementation of a new ERP that
+    The opportunity is to devote more time, resources,         best serves PPS for the long-term
+    and energy toward student learning and success.
+
+                                                                   The current PPS ERP was
+       The challenge is to build efficient workflows,
+                                                               implemented 25 years ago and no
+     driven by meaningful data using modern tools,           longer has the capability or flexibility
+     that result in better decision-making across PPS.        to best serve a modern K-12 district
+
+
+                                                                                                        3
+Scope of Impact:
+                     - 8,000+ system users
+Business Functions   - 1,000’s of vendors & contractors
+                     - 100’s of reporting requirements
+                     - $2B budget
+
+
+
+
+                                                          4
+ERP Solution
+Timeline to Contract Signature
+                              Milestone                          Date
+       RFP Issued                                         November 14, 2025
+
+       Proposals Due                                       January 8, 2026
+
+       Proposal Scoring complete = Finalists Selected      January 22, 2026
+
+       Software Demonstrations and Interviews            Jan. 28 - Feb. 2, 2026
+
+       Demo Scoring complete = Scoring closed              February 4, 2026
+
+       Leadership Reviews                                 February 10, 2026
+
+       Notice of Intent to Award                          February 12, 2026
+
+       Inform at Board Work Session                       February 24, 2026
+
+       Contract Negotiations (5 weeks - estimated)      Feb 16 - March 20, 2026
+
+       Board Work Session                                   March 31, 2026
+
+       Board Regular Session (consent agenda)               April 14, 2026        5
+Intent to Award
+
+ERP Technical Solution = Workday
+
+
+
+
+Technical Implementation team = Accenture & Meridian
+
+
+
+
+Lead Contractor = Meridian
+
+
+
+
+                                                       6
+RFP for Implementation Services
+Program Management (PM)                     Organizational Change Management (OCM)
+    Strategy and Roadmap                        Strategy and Roadmap
+                                                Stakeholder and Impact Assessment
+    Program Governance
+                                                Readiness and Sentiment Analysis
+    Program Planning and Status Reporting
+                                                Governance Model
+    Success Metrics / KPI’s
+                                                Success Metrics / KPI’s
+    Business Process Fit Gap Analysis           Organizational Change Management
+    Workﬂow Development                         Process Improvement
+
+    Risk Management                             Communications and Engagement
+                                                Workforce Enablement
+    Test Planning and Execution
+                                                Training Assessment and Curriculum Design
+    Training Planning and Execution
+                                                Adoption, Readiness, and Cutover Support
+                                                                                            7
+Implementation Services
+Program Mgmt & Change Mgmt
+                        Milestone                          Date
+RFP Issued                                           January 13, 2026
+                                                                                          PPS
+Proposals Due                                        February 12, 2026
+
+Proposal Scoring complete = Finalists Selected       February 20, 2026
+
+Finalist Interviews                                  March 2 - 5, 2026                   Mutual
+Interview Scoring complete = Scoring Closed           March 6, 2026
+                                                                                      Accountability
+
+Notice of Intent to Award                            March 12 , 2026
+                                                                              ERP                      PM / OCM
+Contract Negotiations                            March 16 - March 20, 2026
+                                                                             Vendor                     Vendor
+Board Work Session                                    March 31, 2026
+
+Board Regular Session                                  April 14, 2026
+
+
+                                                                                                              8
+Estimated Cost
+ERP Vendor Contract                  Implementation Services          Range of
+(Meridian / Accenture / Workday)   (To Be Awarded on March 12)   total contract cost
+
+   User Licenses,                                                      $40M
+either 5 yr or 10 year
+     agreement
+                                            Program
+                                           Management
+  Implementation
+  Costs over 18-24
+      months
+                                             Change
+                                           Management
+     Product and
+  Technical support                                                    $28M
+    for 12 months
+                                                                                       9
+Combined Timeline
+                                                                                                                       We are here
+
+
+                  Dec. ‘25                Jan. ‘26                                 Feb. ‘26                            March ‘26                        April ‘26
+
+                                   Proposals Due (01/08)                            Notice of Intent to
+                                    Evaluation process                              Award (02/12)
+                                    kickoff (01/09)                                                          Board Work Session
+                                                            Proposal Scoring                                                                               Board Meeting
+                                                                                                             (02/24) - inform -
+                                                            Complete (01/22)                                                                               (04/14)
+ERP Tech Vendor
+                                                                     Vendor Demos (01/27-30)
+                  RFP Available     Proposal Scoring                   Demo
+                                                                      Scoring                  Contract Negotiations                         Board Work Session
+                  through 01/08      01/13 - 01/22
+                                                                                                                                             (03/31)
+
+
+
+
+                                                                                   Proposals Due      Proposal Scoring            Notice of Intent to
+                                    RFP Published
+                                                                                   (02/12)            Complete (02/20)            Award (03/12)
+                                    (01/13)
+Implementation
+Services Vendor   RFP Creation /                                                                            Vendor       Interview Scoring
+                                            RFP Publicly Available               Proposal Scoring
+                    Approval                                                                              Interviews     Complete (03/06)
+
+
+
+
+                                                                                                                                                                           1
+                                                                                                                                                                           0
+Next Update
+ March 31
+
+              1
+              1
+Appendix
+
+
+
+
+           12
+What is an “ERP”
+• An Enterprise Resource Planning (ERP) system is an integrated software platform that manages core
+  business processes — ﬁnance, human resources, procurement, payroll, operations, and inventory
+
+• The goal of an ERP is to streamline operations, improve data accuracy, and enable better
+  decision-making by providing real-time visibility across all departments.
+
+• The ERP is the digital backbone —connecting people, processes, and data - to drive smarter, faster, and
+  more eﬃcient operations.
+
+• Our goal is to replace fragmented legacy systems and spreadsheets with a uniﬁed platform that will:
+
+   •   Automate workﬂows, streamlines review and approval cycles, and reduces manual effort
+   •   Provides a single source of truth across different dimensions for the whole district
+   •   Supports compliance, security, reporting, and analytics
+   •   Scales with modern technology and changing business needs
+                                                                                                        1
+                                                                                                        3
+

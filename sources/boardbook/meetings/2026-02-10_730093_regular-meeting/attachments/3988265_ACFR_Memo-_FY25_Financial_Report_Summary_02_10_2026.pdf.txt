@@ -1,0 +1,363 @@
+                Michelle Morrison
+                Chief Financial Officer
+
+
+                                            MEMORANDUM
+DATE            February 5, 2026, and February 10, 2026
+TO              Portland Public Schools Audit Committee and Board of Education
+FROM            Michelle Morrison, Chief Financial Officer
+CC              Dr. Kimberlee Armstrong
+                Rachel Hopper, Senior Director of Finance
+                Janise Hansen, Internal Performance Auditor
+SUBJECT         Audit Committee FY25 Financial Report Summary
+
+Summary Overview
+This concise review of the 2024-25 Annual Comprehensive Financial Report (ACFR) has been prepared in
+response to a request for a clear, high-level interpretation of the technical aspects of the report. This
+summary highlights specific items throughout the ACFR that may be of interest to various stakeholders,
+and provides staff-developed explanations for those items. This summary should not be relied upon in
+lieu of the data and narrative within the actual ACFR.
+
+The Purpose of the Document
+The financial report is developed by staff to the Government Finance Officers Association (GFOA) and
+Generally Accepted Accounting Procedures (GAAP) standards. The Governmental Accounting Standards
+Board (GASB) is the source of GAAP used by state and local governments in the United States. As with
+most of the entities involved in creating GAAP in the United States, it is a private, non-governmental
+organization. The District is required by law to produce an annual report and submit it to an
+independent auditor for review and certification prior to submission to the Board, Secretary of State,
+Oregon Department of Education, and other entities for disclosure.
+
+Points of Interest
+Correspondence (pp. 1-8) - The Transmittal Letter is from the District Financial Officer to viewers at large.
+The Independent Auditor’s Report is correspondence regarding the work the auditor performs to test the
+District’s internal controls and discusses the auditor’s relationship to the District.
+
+Certificate of Excellence (pp. 12) - The Certificate of Achievement for Excellence in Financial Reporting for
+the prior year and issued by the Government Finance Officers Association. This certificate represents the
+District met best practices in disclosure, content, and formatting for highest impact.
+
+Management’s Discussion and Analysis (MD&A) and Basic Financial Statements (pp.17-28) - This is a
+lengthy narrative that explains differences between the reported year and prior year’s report. Many of
+the tables following the MD&A express the District’s financial position in corporate (for profit) terms,
+which can be challenging to interpret.
+
+
+
+                                                                                                           1
+Schedule of Revenue, Expenditures, and Changes in Fund Balance, General Fund (p. 37) - This table is
+commonly referenced for operational finance with budgetary context. A specific point of interest to both
+potential lenders (bond buyers) and bargaining units is the Fund Balance. Lenders track Fund Balance as
+an indicator of financial stability and management. Bargaining units tend to view an excessive fund
+balance as unequitable for their members.
+
+Notes to Basic Financial Statements (pp.56-101) - This section provides detail for all of the Districts assets
+and liabilities and provides information regarding GAAP and the GASB standards and their application.
+Items include a description of the GASB reporting requirements and information about Other
+Post-Employment Benefits (OPEB), pension obligations, and debt.
+
+Schedule of Revenues and Expenditures by Fund (pp. 98-105) - These tables are reconciled to data
+collected by the Oregon Department of Education, in accordance with the state account code structure
+prescribed by the Program and Budgeting Manual. The budget document is developed using the same
+account code structure at a higher level (for appropriations).
+
+Statistical Section (pp. 107-132) - This section contains longitudinal data for the region and the District
+and provides stakeholders “trends” for demographics, tax collections, net position, fund balance, and
+economics.
+
+Single Audit Section (pp. 135-147)- Participation in Federal Programs requires an added layer of reporting
+and disclosure. The auditors introduce their position related to testing requirements of federal Uniform
+Guidance and certify the revenue and expenditures of the District’s Federal Programs. Annually, they
+select specific programs for additional testing and report on findings. For FY25, the Title I Grants, Child
+Nutrition Cluster, and Education Stability Fund were selected for testing.
+
+Compliance Section (pp. 148) - This is a closing note from the independent auditor with a summary of
+activities and compliance.
+
+Findings and Corrective Action Plans
+
+Staff Pre-Note on Findings: The 2024-25 Fiscal year was over 50% completed prior to the current
+Financial Leadership Team. Federal Program findings were procedural and control compliance, not a loss
+or misuse of funds. State Program findings were procedural and control compliance, not a loss or
+misuse of funds.
+
+Per Uniform Guidance (which GFOA best practices align with and support), a Corrective Action Plan
+(CAP) is explicitly required for all current-year audit findings, including those related to the Schedule of
+Expenditures of Federal Awards (SEFA). Please see the audit findings and corresponding Corrective
+Action Plans below.
+
+Federal Program Finding 2025-001
+
+
+                                                                                                            2
+                Michelle Morrison
+                Chief Financial Officer
+
+
+Criteria: Under 2 CFR 200.510(b), the District is required to prepare a Schedule of Expenditures of
+Federal Awards (SEFA) for the period covered by the auditee's financial statements that includes the
+total federal awards expended as determined in accordance with 2 CFR 200.502. Additionally, the District
+has the responsibility for establishing and maintaining effective internal control over financial reporting
+and compliance.
+
+Condition: A significant deficiency in internal controls over financial reporting was related to the
+District’s preparation of the SEFA and the recording of grant- related balances. During our audit
+procedures, it was noted the SEFA misstated expenditures for various federal programs prior to being
+corrected. Additionally, the District had recorded unavailable revenue as federal grant revenue in the
+Capital Projects Fund and misclassified revenue between various federal and state grants in the Special
+Revenue
+Fund.
+
+Cause: The cause appears to be related to staff turnover.
+
+Effect or potential effect: The Schedule of Federal Awards misstated federal expenditures for various
+federal programs prior to being corrected. These adjustments impacted revenue in the Capital Projects
+Fund and the Special Revenue Fund. Additionally, there were misstatements of revenue related to state
+funds found during other audit procedures unrelated to the Schedule of Federal Awards.
+
+Recommendation: Management should implement compensating controls over grant revenues, grant
+receivables, and unavailable grant revenue. Additionally, management should implement compensating
+controls over the preparation of the schedule of federal expenditures.
+
+Views of responsible officials:The District understands and concurs with this finding.
+
+Corrective Action Plan: The Chief Financial Officer will ensure that there is at least a two-tier
+transactional review by managers to ensure that grant revenues, receivables, and unavailable grant
+revenue are correctly documented, effective immediately.
+
+Federal Program Finding 2025-002
+
+Award Year: 2024-2025
+Federal program: U.S. Department of Agriculture – 10.553, 10.555,10.559, 10.582 Child Nutrition Cluster
+Pass-through entity: Oregon Department of Education
+
+Criteria: Per 2 CFR 200.303, a non-Federal entity must “establish and maintain effective internal control
+over the Federal award that provides reasonable assurance that the non-Federal entity is managing the
+
+
+                                                                                                         3
+Federal award in compliance with Federal statutes, regulations, and the terms and conditions of the
+Federal award.”
+
+Condition: The District could not provide documentation of review and approval of the indirect costs
+charged to the federal program. The deficiency in controls over compliance related to indirect costs is
+considered a significant deficiency.
+
+Cause: The cause appears to be related to staff turnover.
+
+Effect or potential effect: There is potential for indirect costs in excess of the allowed indirect cost
+rate to be charged to the federal program.
+
+Questioned Costs: No questioned costs identified.
+
+Context: The District appears to have not retained documentation of review and approval of the indirect
+costs charged to the federal program.
+
+Recommendation: The District should ensure controls related to compliance with indirect cost
+requirements are implemented.
+
+Corrective Action Plan: The Chief Financial Officer will ensure staff retain documentation of review and
+approval of the indirect costs charged to the federal programs, effective immediately.
+
+Federal Program Finding 2025-003
+
+Award Year: 2024-2025
+Federal program: U.S. Department of Education – 84.010 Title I Grants to Local Educational Agencies
+(Title 1, Part A of the ESEA)
+Pass-through entity: Oregon Department of Education
+
+Criteria: Per 2 CFR 200.303, a non-Federal entity must “establish and maintain effective internal control
+over the Federal award that provides reasonable assurance that the non-Federal entity is managing the
+Federal award in compliance with Federal statutes, regulations, and the terms and conditions of the
+Federal award.”
+
+Condition: The District could not provide documentation of review and approval of the indirect costs
+charged to the federal program. The deficiency in controls over compliance related to indirect costs is
+considered a significant deficiency.
+
+Cause: The cause appears to be related to staff turnover.
+
+Effect or potential effect: There is potential for indirect costs excess of the allowed indirect cost rate to
+be charged to the federal program.
+                                                                                                           4
+                Michelle Morrison
+                Chief Financial Officer
+
+
+
+Questioned Costs: No questioned costs identified.
+
+Context: The District appears to have not retained documentation of review and approval of the indirect
+costs charged to the federal program.
+
+Recommendation: The District should ensure controls related to compliance with indirect cost
+requirements are implemented.
+
+Corrective Action Plan: The Chief Financial Officer will ensure staff retain documentation of review and
+approval of the indirect costs charged to the federal programs, effective immediately.
+
+Federal Program Finding 2025-004
+
+Award Year: 2024-2025
+Federal program: U.S. Department of Education – 84.010 Title I Grants to Local Educational Agencies
+(Title 1, Part A of the ESEA)
+Pass-through entity: Oregon Department of Education
+
+Criteria: Per 2 CFR 200.303, a non-Federal entity must “establish and maintain effective internal control
+over the Federal award that provides reasonable assurance that the non-Federal entity is managing the
+Federal award in compliance with Federal statutes, regulations, and the terms and conditions of the
+Federal award.”
+
+Condition: The District could not provide documentation of time and effort certifications or an
+acceptable alternative for payroll charged to the federal program. The deficiency in controls over
+compliance related to reporting is considered a significant deficiency.
+
+Cause: The cause appears to be related to staff turnover.
+
+Effect or potential effect: Without adequate controls over allowable costs related to payroll, the District
+could charge unallowable costs to the grant.
+
+Questioned Costs: No questioned costs identified.
+
+Context: Out of a population of 5,107 payroll transactions, excluding related benefits, totaling
+$6,240,176, a sample of 40 transactions, totaling $42,514, was selected. Of the sample selected, the
+District could not provide documentation of time and effort certifications or an acceptable
+alternative for 10 transactions, totaling $22,591.
+
+
+                                                                                                         5
+Recommendation: The District should ensure controls related to compliance with allowable
+costs requirements related to payroll are implemented.
+
+Corrective Action Plan: The Chief Financial Officer will ensure notification to federally funded employees
+of their funding source twice a year and will make sure supervisors get reports and sign certifications for
+work duties in compliance with the federal grants twice a year.
+
+Federal Program Finding 2025-005
+
+Award Year: 2024-2025
+Federal program: U.S. Department of Education – 84.425 Education Stabilization Fund
+Pass-through entity: Oregon Department of Education
+
+Criteria: Per 2 CFR 200.303, a non-Federal entity must “establish and maintain effective internal control
+over the Federal award that provides reasonable assurance that the non-Federal entity is managing the
+Federal award in compliance with Federal statutes, regulations, and the terms and conditions of the
+Federal award.”
+
+Condition: The District could not provide documentation of review and approval of the indirect costs
+charged to the federal program. Additionally, indirect costs in excess of the allowed indirect cost rate of
+4.51% were charged to the federal program prior to being corrected. The deficiency in controls over
+compliance related to indirect costs is considered a significant deficiency.
+
+Cause: The cause appears to be related to staff turnover and errors in the calculation to determine
+indirect costs originally charged to the federal program.
+
+Effect or potential effect: Audit procedures identified indirect costs of $1,603 in excess of the allowed
+indirect cost rate charged to the federal program prior to being corrected.
+
+Questioned Costs: As the error was corrected, no questioned costs were identified.
+
+Context: Indirect costs for the fiscal year were recalculated based on total expenditures charged to the
+grant.
+
+Recommendation: The District should ensure controls related to compliance with indirect cost
+requirements are implemented.
+
+Corrective Action Plan: The Chief Financial Officer will ensure staff retain documentation of review and
+approval of the indirect costs charged to the federal programs, effective immediately.
+
+Federal Program Finding 2025-006
+Award Year: 2024-2025
+Federal program: U.S. Department of Education – 84.425 Education Stabilization Fund.
+                                                                                                         6
+                Michelle Morrison
+                Chief Financial Officer
+
+
+Pass-through entity: Oregon Department of Education
+
+Criteria: Per 2 CFR 200.303, a non-Federal entity must “establish and maintain effective internal control
+over the Federal award that provides reasonable assurance that the non-Federal entity is managing the
+Federal award in compliance with Federal statutes, regulations, and the terms and conditions of the
+Federal award.”
+
+Condition: The District could not provide documentation of review and approval of the ESSER Annual
+Performance Report submitted to the Oregon Department of Education. The deficiency in controls over
+compliance related to reporting is considered a significant deficiency.
+
+Cause: The cause appears to be related to staff turnover.
+
+Effect or potential effect: Without adequate controls over reporting, the District could submit reports
+with errors or fail to comply with the reporting requirements of federal programs.
+
+Questioned Costs: No questioned costs identified.
+
+Context: For the one report the District was required to submit to the Oregon Department of Education,
+the District could not provide documentation of the review and approval of the report prior to being
+submitted.
+
+Recommendation: The District should ensure controls related to compliance with reporting
+requirements are implemented.
+
+Corrective Action Plan: The Chief Financial Officer will ensure staff retain documentation of the review
+and approval of grant reports prior to being submitted, effective immediately.
+
+State Program Compliance Findings and Corrective Action Plans
+
+In connection with auditor testing, no evidence was found that the District was not insubstantial
+compliance with certain provisions of laws, regulations, contracts, and grants, including the provisions of
+Oregon Revised Statutes as specified in Oregon Administrative Rules 162-10-000 through 162-10-330 of
+the Minimum Standards for Audits of Oregon Municipal Corporations, except for:
+
+State Finding 2025-007
+
+Oregon Local Budget Law requires that differences in expenditures in excess of 10% are approved
+through a Supplemental Budget process. The Appropriations Changes made in June did not satisfy Local
+Budget Law and the Supplemental Budget process was not completed. The auditors have reported a
+                                                                                                          7
+Finding of “Significant Deficiency in Internal Controls over Compliance with State Laws” as expenditures
+exceeded appropriation levels by major fund and function by more than 10%.
+
+Context: The District had expenditures on a budgetary basis which exceeded appropriations by $4,147
+thousand for General Fund – Instruction and by $3,584 thousand for Special Revenue Fund – Support
+Services.
+
+Corrective Action Plan: District staff use multiple analytics softwares to monitor and project end-of-year
+expenditures by fund, function, and object. Monitored budget appropriations against actual
+expenditures. Appropriations adjusted to include any targeted carryover identified in the prior year
+annual financial report. The Chief Financial Officer will ensure monitoring measures for appropriations
+are in place in compliance with Local Budget Law, effective immediately.
+
+State Finding 2025-008
+
+Oregon Local Budget Law requires a series of publications to adopt a supplemental budget rather than
+budget transfers.
+
+Context: The District utilized the process for budget transfers rather than a supplemental budget for a
+reduction in appropriations without the required publications.
+
+Corrective Action Plan: The Chief Financial Officer will ensure monitoring measures for appropriations
+and any required modifications to the adopted budget are in place and in compliance with Local Budget
+Law including publications, effective immediately.
+
+State Finding 2025-009
+
+The Oregon State School Fund (SSF) includes a "Teacher Experience Factor" in its equalization formula to
+adjust for higher salary costs in districts with more experienced educators. It calculates the difference
+between a district's average teacher experience and the statewide average, adding or subtracting $25
+per weighted student for each year of difference.
+
+Context: Out of a sample of 60 teachers selected, there were variances between the District’s records
+and the years of experience reported to the Oregon Department of Education for four teachers.
+
+Corrective Action Plan: The Chief Financial Officer will collaborate with the Chief Human Resources
+Officer to audit teacher experience to ensure accuracy in reporting to the Oregon Department of
+education, effective immediately.
+
+References
+Oregon Department of Education Program and Budgeting Manual      Uniform Guidance
+Government Finance Officers Association     Governmental Accounting Standards Board
+Oregon Secretary of State - Audits Division
+
+
+                                                                                                        8
+

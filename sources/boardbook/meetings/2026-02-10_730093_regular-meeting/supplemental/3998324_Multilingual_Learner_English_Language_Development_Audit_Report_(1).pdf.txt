@@ -1,0 +1,1301 @@
+​The Office of Internal Performance Audit​
+
+
+         ​Internal Audit Report​
+
+​Multilingual Learner / English Language​
+    ​Development - Compliance Audit​
+
+
+                      ​Issue Date: February 2026​
+
+                           ​Senior Internal Performance Auditor​
+                                              ​Janise Hansen, CIA​
+
+                                  ​Internal Performance Auditor​
+                                            ​Mary Catherine Moore​
+                               ​Internal Performance Audit Report​
+            ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+
+                                      ​Table of Contents​
+
+
+
+​ etter of Transmittal …………………………………………………………………………….​ ​3-4​
+L
+​About the Office of Internal Performance Audit ……………………………………………...​ ​5​
+ ​Executive Summary …………………………………………………………………………….​ ​6-7​
+  ​Background ………………………………………………………………………………………​ ​8​
+   ​Prior Audit History ………………………………………………………………………………​ ​8​
+    ​Roles and Responsibilities …………………………………………………………………….​ ​8​
+     ​Audit Objective ………………………………………………………………………………….​ ​8-9​
+      ​Scope of the Audit ………………………………………………………………………………​ ​9​
+       ​Audit Approach and Methodology …………………………………………………………….​ ​9-10​
+        ​Conclusion ……………………………………………………………………………………… 10​
+         ​Procedures, Testing, Results, and Management response ………………………………... 11-24​
+               ​Procedure 1: Identification and Assessment of Emerging Bilingual Students ………. 11-13​
+                ​Procedure 2: Required Communications with Student Families …………………..…. 14-17​
+                 ​Procedure 3: Title III ELD Family Informational Sessions ……………………..……… 18-20​
+              ​Procedure 4: Annual Assessment, Exiting, and Post Exit Monitoring ………………... 21-24​
+          ​Appendix A: Administrative Directive 6.10.040-AD …………….………………………….. 25-26​
+           ​Appendix B: PPS Board Goal for Third Grade Reading: ……………………….………….. 27​
+
+
+
+
+                                                                                       ​Page​​2​​of​​27​
+                                   ​Internal Performance Audit Report​
+                ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+
+                                           ​Letter of Transmittal​
+​February 4, 2026​
+
+
+​ ortland Public Schools - Audit Committee​
+P
+​501 North Dixon Street​
+ ​Portland, OR 97227​
+
+​ he Office of Internal Performance Audit (OIPA) has completed the Multilingual Learner (ML) /​
+T
+​English Language Development (ELD) - Compliance Audit. The audit was included in the Audit​
+ ​Plan approved by the Portland Public Schools (PPS) Board of Education on January 11, 2022,​
+  ​resolution number 6428.​
+
+​ he​ ​objective​​of​​the​​audit​​was​​to​​determine​​if​​the​​school​​district​​has​​adequate​​internal​​controls​
+T
+​to​​ensure​​compliance​​with​​PPS​​policy,​​administrative​​directives,​​state,​​and​​federal​​requirements​
+ ​stating​​in​​part,​​public​​schools​​must​​take​​affirmative​​steps​​to​​ensure​​students​​with​​limited​​English​
+  ​proficiency​ ​can​ ​meaningfully​ ​participate​ ​in​ ​their​ ​educational​ ​programs​ ​and​ ​services.​ ​Key​
+   ​compliance categories include:​
+
+    ​​
+    ●       I​dentification and assessment of ML students.​
+    ​●​      ​Required communications with the student's family.​
+     ​●​      ​Title III ELD Family Informational Sessions.​
+      ​●​       ​Annual​ ​ELPA​ ​(English​ ​Language​ ​Proficiency​​Assessment)​​Summative,​​Exiting​​the​​ELD​
+               ​Program, and Post-Exit Monitoring.​
+
+​ o​ ​achieve​​the​​audit​​objective,​​we​​selected​​a​​total​​of​​190​​students​​for​​testing.​ ​For​​each​​of​​the​
+T
+​students​​tested,​​we​​obtained​​evidence​​to​​determine​​whether​​the​​school​​district​​met​​each​​of​​the​
+ ​requirements for the key compliance categories identified above.​
+
+​ ased​​on​​the​​results​​of​​the​​audit,​​we​​found​​internal​​controls​​need​​to​​be​​strengthened​​to​​maintain​
+B
+​the​ ​overall​ ​integrity​ ​of​ ​the​ ​school​ ​district’s​ ​compliance​ ​with​ ​applicable​ ​requirements​ ​to​ ​ensure​
+ ​students​ ​with​ ​limited​ ​English​ ​proficiency​ ​can​ ​meaningfully​ ​participate​ ​in​ ​their​ ​educational​
+  ​programs​​and​​services.​ ​The​​audit​​did​​not​​identify​​any​​evidence​​of​​intentional​​fraud,​​or​​a​​lack​​of​
+   ​care.​ ​However,​​the​​audit​​did​​identify​​instances​​of​​noncompliance​​in​​each​​of​​the​​key​​categories​
+    ​we​ ​tested,​ ​as​ ​well​ ​as​ ​some​ ​opportunities​ ​for​ ​process​ ​improvement.​ ​The​ ​corresponding​ ​audit​
+     ​results and recommendations are included in this audit report.​
+
+​ eginning​ ​the​ ​2025-2026​ ​school​ ​year,​ ​there​ ​was​ ​some​ ​restructuring​ ​of​ ​staff​ ​responsibilities​
+B
+​within​​the​​Funded​​Programs​​and​​the​​Multilingual​​Services​​teams.​ ​Staff​​performing​​the​​functions​
+ ​discussed​​in​​this​​audit​​were​​previously​​considered​​part​​of​​the​​Funded​​Programs​​team,​​and​​are​
+  ​now​​part​​of​​the​​Multilingual​​Services​​team.​ ​As​​a​​result,​​when​​referring​​to​​the​​testing​​performed​
+   ​as​ ​part​ ​of​ ​this​ ​audit,​ ​there​ ​are​ ​references​ ​to​ ​the​ ​Funded​ ​Programs​ ​team;​ ​however,​ ​the​
+    ​recommendations​ ​are​ ​made​ ​to​ ​the​ ​Multilingual​ ​Services​ ​team​ ​that​ ​will​ ​need​ ​to​​implement​​the​
+     ​recommendations in this report to ensure compliance.​
+
+​ dditionally,​ ​PPS​ ​is​ ​discontinuing​ ​the​ ​use​ ​of​ ​the​ ​term​ ​English​ ​Language​ ​Learners,​​commonly​
+A
+​referred​​to​​as​​ELLs,​​to​​refer​​to​​students​​who​​are​​eligible​​to​​receive​​support​​to​​ensure​​the​​student​
+ ​with​ ​limited​ ​English​ ​proficiency​ ​can​ ​meaningfully​ ​participate​​in​​their​​educational​​programs​​and​
+  ​services.​ ​Instead,​ ​PPS​ ​now​ ​recognizes​ ​students​ ​for​ ​whom​ ​English​ ​is​ ​not​ ​their​ ​first​ ​or​ ​home​
+
+
+
+                                                                                                       ​Page​​3​​of​​27​
+                                ​Internal Performance Audit Report​
+             ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+l​anguage​​from​​an​​asset-based​​perspective;​ ​therefore,​​we​​refer​​to​​these​​students​​as​​Multilingual​
+ ​Learners (MLs).​
+
+​ e​ ​extend​ ​our​ ​appreciation​ ​to​ ​the​ ​staff​ ​within​ ​Funded​ ​Programs​ ​and​ ​Multilingual​ ​Services​
+W
+​teams for their assistance and cooperation during the course of the audit.​
+
+​ e​ ​look​ ​forward​ ​to​ ​meeting​ ​with​ ​you​​at​​an​​upcoming​​Audit​​Committee​​meeting​​to​​discuss​​the​
+W
+​report’s​ ​results​ ​and​ ​recommendations.​ ​Thank​ ​you​ ​for​ ​your​ ​ongoing​ ​support​ ​of​ ​the​ ​Office​ ​of​
+ ​Internal Performance Audit.​
+
+   J​ anise Hansen​                                                       ​ ary Catherine Moore​
+                                                                          M
+​Janise Hansen, CIA​                                                   ​Mary Catherine Moore​
+ ​Senior Internal Performance Auditor​                                  ​Internal Performance Auditor​
+
+
+
+
+                                                                                                  ​Page​​4​​of​​27​
+                                 ​Internal Performance Audit Report​
+              ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+
+                    ​About the Office of Internal Performance Audit​
+
+​Purpose and Mission​
+
+​ tate​ ​and​ ​local​ ​governments​ ​can​ ​enhance​ ​credibility​ ​with​ ​the​ ​taxpayers​ ​by​ ​implementing​
+S
+​performance​​audits​​to​​support​​accountability​​and​​ensure​​that​​tax​​dollars​​are​​spent​​as​​effectively​
+ ​as possible.​
+
+​ ortland​ ​Public​ ​Schools​ ​(PPS)​ ​performance​ ​auditing,​ ​conducted​ ​by​ ​the​ ​Office​ ​of​ ​Internal​
+P
+​Performance​​Audit​​(OIPA),​​is​​an​​objective​​and​​systematic​​examination​​of​​evidence​​to​​provide​​an​
+ ​independent​​assessment​​of​​a​​government​​organization,​​program,​​activity,​​or​​function.​ ​The​​goal​
+  ​of​ ​these​ ​audits​ ​is​ ​to​ ​improve​ ​program​ ​effectiveness;​ ​improve​ ​the​ ​equity​ ​of​ ​service​ ​delivery;​
+   ​provide​ ​useful,​ ​objective,​ ​and​ ​timely​ ​information;​ ​strengthen​ ​administrative​ ​and​ ​management​
+    ​systems​ ​and​ ​controls;​​facilitate​​decision-making​​by​​parties​​with​​responsibility​​for​​overseeing​​or​
+     ​initiating​ ​corrective​ ​action;​ ​and​ ​improve​ ​student​ ​achievement​ ​District-wide.​ ​The​ ​objectives​ ​of​
+      ​performance​ ​audits​ ​vary,​ ​but​ ​generally​ ​address​ ​whether​ ​PPS​ ​is​ ​operating​ ​economically​ ​and​
+       ​efficiently, and/or whether it is achieving desired results.​
+
+​ he​​purpose​​of​​the​​internal​​performance​​audit​​function​​is​​to​​help​​improve​​the​​accountability​​and​
+T
+​performance of PPS through independent auditing and reporting.​
+
+​Independence and Objectivity​
+
+​ he​​OIPA​​Senior​​Internal​​Performance​​Auditor​​is​​hired,​​evaluated,​​and​​may​​only​​be​​removed​​by​
+T
+​the​ ​PPS​ ​Board​ ​of​ ​Education.​ ​Reporting​ ​directly​ ​to​ ​the​ ​PPS​ ​Board​ ​of​ ​Education​ ​is​ ​meant​ ​to​
+ ​ensure​ ​the​ ​work​​of​​the​​OIPA​​is​​independent,​​impartial,​​and​​objective​​so​​stakeholders​​can​​trust​
+  ​the audit results and recommendations.​
+
+​Standards​
+
+​ he​ ​OIPA​ ​adheres​ ​to​ ​very​ ​rigorous​ ​and​ ​demanding​ ​professional​ ​auditing​ ​requirements​
+T
+​described​ ​in​ ​Generally​ ​Accepted​ ​Government​ ​Auditing​​Standards,​​or​​more​​commonly​​referred​
+ ​to as GAGAS or the Yellow Book.​
+
+​Authority and Responsibilities​
+
+​ he​ ​authority​ ​and​ ​responsibilities​ ​of​ ​the​ ​OIPA​​are​​defined​​in​​its​​charter​​and​​PPS​​Board​​Policy​
+T
+​1.60.040-P, both approved by the PPS Board of Education.​
+
+
+
+
+                                                                                                       ​Page​​5​​of​​27​
+                                     ​Internal Performance Audit Report​
+                  ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+
+                                            ​Executive Summary​
+​ ortland​​Public​​Schools​​(PPS)​​policy​​and​​administrative​​directives,​​as​​well​​as​​state​​and​​federal​
+P
+​laws,​ ​require​ ​school​ ​districts​ ​to​ ​take​ ​affirmative​ ​steps​ ​to​ ​ensure​ ​students​ ​with​ ​limited​ ​English​
+ ​proficiency​ ​can​ ​meaningfully​ ​participate​ ​in​ ​their​ ​educational​ ​programs​ ​and​ ​services.​ ​In​ ​PPS,​
+  ​students​ ​for​ ​whom​ ​English​ ​is​ ​not​ ​their​ ​first​ ​or​ ​home​ ​language​ ​are​ ​recognized​ ​from​ ​an​
+   ​asset-based​ ​perspective;​ ​therefore,​ ​PPS​ ​refers​ ​to​ ​these​ ​students​ ​as​ ​Multilingual​ ​Learners​
+    ​(MLs).​ ​Ensuring​ ​MLs​ ​receive​ ​appropriate​ ​support​ ​to​​improve​​English​​proficiency​​can​​result​​in​
+     ​better​ ​academic​ ​outcomes,​ ​engagement​ ​in​ ​their​​communities,​​and​​supports​​the​​PPS​​Board​​of​
+      ​Education’s goal related to third grade reading.​
+
+​ he​​Multilingual​​Learner​​(ML)​​/​​English​​Language​​Development​​(ELD)​​-​​Compliance​​Audit​​was​
+T
+​included​ ​in​ ​the​ ​Audit​ ​Plan​ ​approved​ ​by​ ​the​ ​PPS​ ​Board​ ​of​ ​Education​ ​on​ ​January​ ​11,​ ​2022,​
+ ​resolution number 6428.​
+
+​ he​ ​objective​​of​​the​​audit​​was​​to​​determine​​if​​the​​school​​district​​has​​adequate​​internal​​controls​
+T
+​to​ ​ensure​ ​compliance​ ​with​ ​applicable​ ​requirements​ ​stating​ ​in​ ​part,​ ​public​ ​schools​ ​must​ ​take​
+ ​affirmative​​steps​​to​​ensure​​students​​with​​limited​​English​​proficiency​​can​​meaningfully​​participate​
+  ​in their educational programs and services. Key compliance categories include:​
+
+      ​​
+      ●       I​dentification and assessment of MLs students.​
+      ​●​      ​Required communications with the student's family​​1​.​ ​
+       ​●​      ​Title III ELD Family Informational Sessions.​
+        ​●​       ​Annual​ ​ELPA​ ​(English​ ​Language​ ​Proficiency​​Assessment)​​Summative,​​Exiting​​the​​ELD​
+                 ​Program, and Post-Exit Monitoring.​
+
+​ o​​meet​​the​​audit​​objective,​​we​​tested​​a​​total​​of​​190​​students​​to​​determine​​compliance​​related​​to​
+T
+​each of the key categories identified above.​
+
+​ ased​​on​​the​​results​​of​​the​​audit,​​we​​found​​internal​​controls​​need​​to​​be​​strengthened​​to​​maintain​
+B
+​the​ ​overall​ ​integrity​ ​of​ ​the​ ​school​ ​district’s​ ​compliance​ ​with​ ​applicable​ ​requirements​ ​to​ ​ensure​
+ ​students​ ​with​ ​limited​ ​English​ ​proficiency​ ​can​ ​meaningfully​ ​participate​ ​in​ ​their​ ​educational​
+  ​programs​​and​​services.​ ​The​​audit​​did​​not​​identify​​any​​evidence​​of​​intentional​​fraud,​​or​​a​​lack​​of​
+   ​care.​ ​However,​​the​​audit​​did​​identify​​instances​​of​​noncompliance​​in​​each​​of​​the​​key​​compliance​
+    ​categories​ ​we​ ​tested,​ ​as​ ​well​ ​as​ ​some​ ​opportunities​ ​for​ ​process​ ​improvement.​ ​The​
+     ​corresponding audit results and recommendations are included in this audit report.​
+
+​The audit made nine recommendations and management has agreed with all nine.​
+
+​Recommendations:​
+
+      ​1.​ ​We​ ​recommend​ ​that​ ​the​ ​Multilingual​ ​Services​ ​team​ ​strengthen​ ​its​ ​internal​ ​controls​ ​to​
+              ​ensure​ ​timely​ ​identification​ ​and​ ​assessment​ ​of​ ​students​ ​who​ ​may​ ​be​ ​eligible​ ​for​ ​ELD​
+            ​Program placement.​
+       ​2.​ ​We​​recommend​​the​​school​​district​​enhance​​its​​training​​for​​schools​​administration​​teams​
+               ​to​​improve​​accountability​​that​​will​​support​​the​​Multilingual​​Services​​team​​in​​their​​efforts​​to​
+                ​ensure​​the​​timely​​identification​​and​​assessment​​of​​students​​who​​may​​be​​eligible​​for​​ELD​
+             ​Program placement.​
+​1​
+   ​The term family is used to identify the student’s parent, guardian, or person in a parental relationship with the​
+​student.​
+
+
+                                                                                                         ​Page​​6​​of​​27​
+                             ​Internal Performance Audit Report​
+          ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​3.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​ ​team​​collaborate​​with​​the​​Chief​​of​​Schools​​to​
+                  ​develop​ ​and​ ​implement​ ​an​ ​accountability​ ​protocol​ ​that​ ​will​ ​support​ ​the​ ​Multilingual​
+                   ​Services​ ​team​ ​in​ ​their​ ​efforts​ ​to​ ​ensure​ ​the​ ​timely​ ​identification​ ​and​ ​assessment​ ​of​
+           ​students who may be eligible for ELD Program placement.​
+ ​4.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​​team​​strengthen​​internal​​controls​​designed​​to​
+            ​ensure the timely communication of the student’s eligibility for ELD Program placement.​
+  ​5.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​​team​​consult​​with​​the​​Office​​of​​Technology​​to​
+                    ​develop​​and​​utilize​​automated​​prompts​​in​​the​​Ellevation​​Tool​​to​​identify​​an​​error​​when​​a​
+                     ​field​​used​​to​​auto-generate​​the​​notification​​letter​​is​​blank,​​instead​​of​​generating​​the​​letter​
+             ​without the inclusion of the required contents in the letter.​
+   ​6.​ ​We​​recommend​​the​​Multilingual​​Services​​team​​strengthen​​internal​​controls​​to​​ensure​​all​
+                      ​schools​ ​serving​ ​ML​ ​students​ ​hold​ ​the​ ​required​ ​Title​ ​III​ ​ELD​ ​Family​ ​Informational​
+              ​Sessions.​
+    ​7.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​ ​team​​collaborate​​with​​the​​Chief​​of​​Schools​​to​
+                       ​develop​ ​and​ ​implement​ ​an​ ​accountability​ ​protocol​ ​that​ ​will​ ​support​ ​the​ ​Multilingual​
+                        ​Services​​team​​in​​their​​efforts​​to​​ensure​​all​​schools​​serving​​ML​​students​​hold​​the​​Title​​III​
+               ​ELD Family Informational Sessions.​
+     ​8.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​​team​​strengthen​​internal​​controls​​designed​​to​
+                         ​ensure​ ​compliance​ ​with​ ​the​ ​annual​ ​ELPA​ ​Summative​ ​and​ ​post-exit​ ​monitoring​
+                ​requirements.​
+      ​9.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​ ​team​​collaborate​​with​​the​​Chief​​of​​Schools​​to​
+                          ​develop​ ​and​ ​implement​ ​an​ ​accountability​ ​protocol​ ​that​ ​will​ ​support​ ​the​ ​Multilingual​
+                           ​Services​​team​​in​​their​​efforts​​to​​ensure​​the​​ELPA​​Summative​​is​​administered​​annually​​to​
+                            ​all​ ​ELD​ ​Program​ ​eligible​ ​students​ ​and​ ​the​ ​ELD​ ​Monitored​ ​Student​ ​Review​ ​Form​ ​is​
+                 ​completed.​
+
+
+
+
+                                                                                                              ​Page​​7​​of​​27​
+                                   ​Internal Performance Audit Report​
+                ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​Background Information​
+
+​ PS​ ​policy​ ​and​ ​administrative​ ​directives,​ ​as​ ​well​​as​​state​​and​​federal​​laws,​​require​​the​​school​
+P
+​district​ ​to​ ​take​ ​affirmative​ ​steps​ ​to​ ​ensure​ ​students​ ​with​ ​limited​ ​English​ ​proficiency​ ​can​
+ ​meaningfully participate in their educational programs and services.​
+
+​ PS​​is​​discontinuing​​the​​use​​of​​the​​term​​English​​Language​​Learners,​​commonly​​referred​​to​​as​
+P
+​ELLs,​​to​​refer​​to​​students​​who​​are​​eligible​​to​​receive​​support​​to​​ensure​​the​​student​​with​​limited​
+ ​English​ ​proficiency​ ​can​ ​meaningfully​ ​participate​ ​in​ ​their​ ​educational​ ​programs​ ​and​ ​services.​
+  ​Instead,​​PPS​​now​​recognizes​​students​​for​​whom​​English​​is​​not​​their​​first​​or​​home​​language​​from​
+   ​an​ ​asset-based​ ​perspective;​ ​therefore,​ ​we​ ​refer​ ​to​ ​these​ ​students​ ​as​ ​Multilingual​ ​Learners​
+    ​(MLs).​
+
+​ nsuring​ ​MLs​ ​receive​ ​appropriate​ ​support​ ​to​ ​improve​ ​English​ ​proficiency​ ​can​ ​result​ ​in​ ​better​
+E
+​academic​ ​outcomes,​ ​engagement​ ​in​ ​their​ ​communities,​ ​and​ ​supports​ ​the​ ​PPS​ ​Board​ ​of​
+ ​Education’s​ ​goal​ ​related​ ​to​ ​third​ ​grade​ ​reading.​ ​See​ ​details​​of​​the​​Board’s​​third​​grade​​reading​
+  ​goal in Appendix B.​
+
+​Prior Audit History​
+
+I​n​ ​October​​of​​2010,​​PPS’s​​District​​Performance​​Auditor​​issued​​the​​English​​Language​​Learners​
+ ​Performance​ ​Audit​​.​ ​We​ ​reviewed​ ​this​ ​audit​ ​report​ ​as​ ​part​ ​of​ ​our​ ​planning​ ​procedures​ ​for​ ​the​
+  ​audit. We noted no other audits related to English language development.​
+
+​Roles and Responsibilities​
+
+​ PS​ ​Management​ ​has​ ​the​ ​primary​ ​responsibility​ ​to​ ​establish,​ ​implement,​ ​and​​monitor​​internal​
+P
+​controls.​​The​​Office​​of​​Internal​​Performance​​Audit’s​​function​​is​​to​​assess​​and​​test​​those​​controls​
+ ​in​ ​order​ ​to​ ​provide​ ​reasonable​ ​assurance​ ​that​ ​the​ ​controls​ ​are​ ​adequate​ ​and​ ​operating​
+  ​effectively.​
+
+​ e​ ​conducted​ ​this​ ​performance​ ​audit​ ​in​ ​accordance​ ​with​ ​Generally​ ​Accepted​ ​Government​
+W
+​Auditing​​Standards​​(aka​​GAGAS),​​except​​that​​we​​have​​not​​had​​an​​external​​peer​​review.​ ​Those​
+ ​standards​ ​require​ ​that​ ​we​ ​plan​ ​and​ ​perform​ ​the​ ​audit​ ​to​ ​obtain​ ​sufficient​ ​and​ ​appropriate​
+  ​evidence​ ​to​ ​provide​ ​a​ ​reasonable​ ​basis​ ​for​ ​our​ ​findings​ ​and​ ​conclusions​ ​based​ ​on​ ​our​ ​audit​
+   ​objective.​ ​We​ ​believe​ ​that​ ​the​ ​evidence​ ​obtained​ ​provides​ ​a​ ​reasonable​ ​basis​​for​​our​​findings​
+    ​and conclusions based on our audit objective.​
+
+​Audit Objective​
+
+​ he​ ​objective​​of​​the​​audit​​was​​to​​determine​​if​​the​​school​​district​​has​​adequate​​internal​​controls​
+T
+​to​​ensure​​compliance​​with​​PPS​​policy​​and​​administrative​​directives,​​as​​well​​as​​state​​and​​federal​
+ ​requirements​ ​stating​​in​​part,​​public​​schools​​must​​take​​affirmative​​steps​​to​​ensure​​students​​with​
+  ​limited​ ​English​ ​proficiency​ ​can​ ​meaningfully​ ​participate​ ​in​ ​their​ ​educational​ ​programs​ ​and​
+   ​services. Key compliance categories include:​
+
+    ​​
+    ●       I​dentification and assessment of Multilingual Learner (ML) students.​
+    ​●​      ​Required communications with the student's family.​
+     ​●​      ​Title III ELD Family Informational Sessions.​
+      ​●​       ​Annual​ ​ELPA​ ​(English​ ​Language​ ​Proficiency​​Assessment)​​Summative,​​Exiting​​the​​ELD​
+               ​Program, and Post-Exit Monitoring.​
+
+
+                                                                                                        ​Page​​8​​of​​27​
+                               ​Internal Performance Audit Report​
+            ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​Below is a list of procedures performed for each of the key compliance categories:​
+
+       ​Procedure 1: Identification and Assessment of ML Students​
+
+           ​●​ D  ​ etermine​​if​​the​​school​​district​​is​​identifying​​newly​​enrolled​​students​​who​​need​​to​
+                  ​be screened for ELD Program placement eligibility.​
+            ​●​ ​Determine​ ​if​ ​identified​ ​students​ ​were​ ​assessed​​for​​the​​ELD​​Program​​placement​
+                   ​timely.​
+             ​●​ ​Assess​ ​the​ ​adequacy​ ​of​ ​internal​ ​controls​ ​designed​ ​to​ ​ensure​ ​the​ ​identification​
+                    ​and assessment of students who may be eligible for ELD Program placement.​
+
+       ​Procedure 2: Required Communications with Student Families​
+
+           ​●​ D ​ etermine​ ​if​ ​communications​ ​with​ ​families​ ​contained​ ​all​ ​required​ ​information,​
+                 ​were​ ​timely,​ ​and​ ​if​ ​applicable,​ ​were​ ​translated​ ​in​ ​the​ ​language​ ​selected​ ​by​ ​the​
+                  ​families for communication.​
+            ​●​ ​Assess​ ​the​ ​adequacy​ ​of​ ​internal​ ​controls​ ​designed​ ​to​ ​ensure​ ​compliance​ ​with​
+                   ​communications with families’ requirements.​
+
+       ​Procedure 3: Title III ELD Family Informational Sessions​
+
+           ​●​ D ​ etermine​ ​if​ ​all​ ​PPS​ ​schools​ ​who​ ​serve​ ​ML​ ​students​ ​provided​ ​evidence​ ​of​ ​the​
+                 ​completion of the required Title III ELD Family Informational Sessions.​
+            ​●​ ​Assess​ ​the​ ​adequacy​ ​of​ ​internal​ ​controls​ ​designed​ ​to​ ​ensure​ ​the​ ​Title​ ​III​ ​ELD​
+                  ​Family Informational Sessions are held.​
+
+       ​Procedure​ ​4:​ ​Annual​ ​ELPA​ ​(English​ ​Language​ ​Proficiency​ ​Assessment)​ ​Summative,​
+       ​ xiting the ELD Program, and Post-Exit Monitoring​
+       E
+
+           ​●​ D  ​ etermine​​whether​​all​​ML​​students,​​including​​students​​who​​were​​opted​​out​​of​​the​
+                  ​ELD Program, complete the required annual ELPA Summative.​
+            ​●​ ​Determine​ ​if​​the​​students​​with​​“Proficient”’​​test​​results​​were​​exited​​from​​the​​ELD​
+                   ​Program and were monitored for four years.​
+             ​●​ ​Assess​​the​​adequacy​​of​​internal​​controls​​designed​​to​​ensure​​compliance​​with​​the​
+                    ​annual​ ​ELPA​ ​Summative,​ ​exiting​ ​the​ ​ELD​ ​Program,​ ​and​ ​post-exit​ ​monitoring​
+                     ​requirements.​
+
+​Scope of the Audit​
+
+​The scope of the audit included the 2022-2024 school years ELD Program.​
+
+​Audit Approach and Methodology​
+
+​To achieve the audit objective, we performed the following procedures:​
+
+   ​​ R
+   ●      ​ eviewed applicable policies, procedures, administrative directives, and best practices.​
+   ​●​ ​Reviewed​ ​information​ ​related​ ​to​ ​English​ ​language​ ​development​ ​available​ ​on​ ​the​ ​PPS​
+          ​website.​
+    ​●​ ​Reviewed​ ​various​ ​publications​ ​related​ ​to​ ​the​ ​English​ ​language​ ​development​ ​issued​​by​
+           ​The Council of Great City Schools.​
+     ​●​ ​Reviewed supporting documentation for verification of compliance.​
+
+
+                                                                                                      ​Page​​9​​of​​27​
+                                 ​Internal Performance Audit Report​
+              ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+    ​●​ I​nterviewed​ ​staff​ ​within​ ​the​ ​Funded​ ​Programs,​ ​Multilingual​ ​Services,​ ​Academic​
+             ​Programs, Research Assessment & Account, and IT Business Systems Departments.​
+     ​●​ ​Interviewed teachers/instructional staff providing ELD instruction.​
+      ​●​ ​Observed classroom instruction.​
+       ​●​ ​When​​appropriate,​​a​​judgmental​​/​​haphazard​​sampling​​method​​was​​used​​to​​improve​​the​
+              ​overall efficiency of the audit.​
+        ​●​ ​Interviewed​ ​Oregon​ ​Department​ ​of​ ​Education​ ​staff​ ​in​ ​the​ ​Multilingual​ ​and​ ​Migrant​
+               ​Education department.​
+         ​●​ ​Analyzed​ ​available​ ​data​​to​​corroborate​​information​​obtained​​during​​interviews​​with​​PPS​
+                ​staff.​
+
+​Conclusion​
+
+​ ased​​on​​the​​results​​of​​the​​audit,​​we​​found​​internal​​controls​​need​​to​​be​​strengthened​​to​​maintain​
+B
+​the​ ​overall​ ​integrity​ ​of​ ​the​ ​school​ ​district’s​ ​compliance​ ​with​ ​PPS​ ​policy​ ​and​ ​administrative​
+ ​directives,​​as​​well​​as​​state​​and​​federal​​compliance​​requirements​​to​​ensure​​students​​with​​limited​
+  ​English​ ​proficiency​ ​can​ ​meaningfully​ ​participate​ ​in​ ​their​ ​educational​ ​programs​ ​and​ ​services.​
+   ​The​​audit​​did​​not​​identify​​any​​evidence​​of​​intentional​​fraud,​​or​​a​​lack​​of​​care.​ ​However,​​the​​audit​
+    ​did​​identify​​instances​​of​​noncompliance​​in​​each​​of​​the​​key​​compliance​​categories​​we​​tested,​​as​
+     ​well as some opportunities for process improvement.​
+
+
+
+
+                                                                                                     ​Page​​10​​of​​27​
+                                 ​Internal Performance Audit Report​
+              ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​Procedure 1: Identification and Assessment of Multilingual​​Language (ML) Students​
+
+    ​●​ D   ​ etermine​ ​if​ ​the​ ​school​ ​district​ ​is​ ​identifying​ ​newly​ ​enrolled​ ​students​ ​who​ ​need​ ​to​ ​be​
+          ​screened for ELD Program placement eligibility.​
+     ​●​ ​Determine if identified students were assessed for the ELD Program placement timely.​
+      ​●​ ​Assess​ ​the​ ​adequacy​ ​of​ ​internal​ ​controls​ ​designed​ ​to​ ​ensure​ ​the​ ​identification​ ​and​
+           ​assessment of students who may be eligible for ELD Program placement.​
+
+​Background Information:​
+
+​ hen​ ​a​ ​student​ ​enrolls​ ​at​ ​PPS,​ ​the​ ​Language​ ​Use​ ​Survey​​(LUS)​​is​​required​​to​​be​​completed​
+W
+​and​​entered​​into​​Synergy,​​the​​district’s​​student​​information​​system.​​The​​purpose​​of​​the​​LUS​​is​​to​
+ ​determine​​if​​the​​student’s​​current​​language​​exposure​​and​​use​​make​​the​​student​​eligible​​for​​ELD​
+  ​Program​​placement.​​If​​the​​LUS​​identifies​​a​​language​​other​​than​​English,​​as​​a​​language​​used​​or​
+   ​understood,​​the​​student​​may​​be​​eligible​​for​​ELD​​Program​​placement​​and​​must​​be​​evaluated​​for​
+    ​placement timely.​
+
+​ PS​ ​utilizes​ ​the​ ​ELPA​ ​(English​ ​Language​ ​Proficiency​ ​Assessment)​ ​Screener​ ​to​ ​measure​
+P
+​English​ ​language​ ​proficiency​ ​for​ ​students​ ​who​ ​may​ ​be​ ​eligible​ ​for​ ​placement​ ​in​ ​the​ ​ELD​
+ ​Program.​ ​The​ ​ELPA​ ​Screener​ ​is​ ​a​ ​placement​ ​test​ ​and​ ​evaluates​ ​listening,​ ​speaking,​​reading,​
+  ​and writing skills to help determine appropriate language support services.​
+
+​ wice​​a​​week,​​Funded​​Programs​​Department​​staff​​run​​a​​report​​in​​the​​Synergy​​to​​identify​​newly​
+T
+​enrolled​ ​students​ ​and​ ​upload​ ​the​ ​identified​ ​students​ ​into​ ​a​ ​smartsheet.​ ​Staff​ ​utilize​ ​the​
+ ​smartsheet​​to​​help​​monitor​​the​​identification​​and​​initial​​assessment​​to​​determine​​if​​the​​student​​is​
+  ​eligible for placement in the ELD Program.​
+
+          I​f​​a​​student​​is​​a​​transfer​​from​​another​​school​​district,​​Funded​​Programs​​Department​​staff​
+           ​reach​ ​out​ ​to​ ​the​ ​student’s​ ​prior​ ​school​ ​district​ ​to​ ​determine​ ​if​ ​the​ ​ELPA​ ​Screener​ ​has​
+            ​already​ ​been​ ​completed.​ ​If​ ​yes,​ ​they​ ​obtain​ ​the​ ​results​ ​and​ ​enter​ ​the​​information​​into​
+         ​Synergy. Placement in the ELD Program is based on the results of that assessment.​
+
+​ or​ ​newly​​enrolled​​students​​who​​were​​not​​previously​​assessed,​​Funded​​Programs​​Department​
+F
+​staff​​utilize​​the​​smartsheet​​to​​notify​​a​​student’s​​teacher/​​instructional​​staff,​​as​​well​​as​​the​​school​
+ ​administrators,​​that​​the​​ELPA​​Screener​​is​​required.​ ​It​​is​​then​​the​​responsibility​​of​​the​​student’s​
+  ​teacher/instructional​ ​staff​ ​and​​school​​administrators​​to​​ensure​​the​​student​​completes​​the​​ELPA​
+   ​Screener.​ ​Once​ ​completed,​ ​the​ ​student’s​ ​teacher/instructional​ ​staff​ ​updates​ ​the​ ​status​ ​of​ ​the​
+    ​student in the smartsheet from “Please Screen Student” to “Screening Completed.”​
+
+I​n​ ​support​ ​of​ ​the​ ​work​ ​of​ ​the​ ​Funded​ ​Programs​​Department​​staff,​​members​​of​​the​​Multilingual​
+ ​Services​​team​​would​​collect​​a​​list​​of​​students​​for​​whom​​the​​ELPA​​Screener​​was​​not​​completed​
+  ​within​​the​​expected​​timeframe​​and​​send​​it​​to​​the​​school​​administration​​team​​and​​the​​applicable​
+   ​Sr. Director of Schools to ask for support in getting the student’s ELPA Screener completed.​
+
+​ fter​ ​the​ ​student​ ​has​ ​completed​ ​the​ ​ELPA​ ​Screener,​ ​Funded​ ​Programs​ ​Department​ ​staff​
+A
+​download​ ​the​ ​results​ ​of​ ​the​ ​assessment​ ​from​ ​OSAS​ ​(Oregon​ ​Statewide​ ​Assessment​​System)​
+ ​and​​upload​​the​​results​​into​​Synergy.​ ​Students​​who​​score​​“Proficient”​​on​​the​​assessment​​are​​not​
+  ​eligible​ ​for​ ​the​ ​ELD​ ​Program​ ​placement.​​Students​​who​​do​​not​​score​​“Proficient”​​are​​flagged​​in​
+   ​Synergy as ML students eligible for ELD Program placement.​
+
+
+
+
+                                                                                                         ​Page​​11​​of​​27​
+                                 ​Internal Performance Audit Report​
+              ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​Compliance Requirements​​:​
+
+    ​●​ A  ​ t​ ​enrollment,​ ​the​ ​school​ ​district​ ​is​ ​required​ ​to​ ​utilize​​the​​LUS​​form​​to​​identify​​students​
+         ​who may be eligible for ELD Program placement.​
+     ​●​ ​When​​the​​LUS​​form​​identifies​​a​​student​​may​​be​​eligible,​​the​​school​​district​​is​​required​​to​
+          ​assess the student for ELD Program placement timely.​
+                 ​○​ ​The​​ELPA​​Screener​​is​​required​​within​​30​​calendar​​days​​for​​students​​that​​enroll​​on​
+                       ​or prior to the first day of the school year.​
+                  ​○​ ​If​ ​a​ ​student​ ​enrolls​ ​subsequent​ ​to​ ​the​ ​first​ ​day​ ​of​​school,​​the​​ELPA​​Screener​​is​
+                        ​required to be completed within 14 calendar days of enrollment.​
+
+​Testing and Results:​
+
+​ e​ ​tested​ ​50​ ​students​ ​from​ ​the​ ​2022-2024​ ​school​ ​years​ ​for​ ​the​ ​above-noted​ ​compliance​
+W
+​requirements.​ ​Testing​ ​identified​ ​the​ ​ELPA​ ​Screener​ ​for​ ​seven​ ​of​ ​the​ ​50​ ​students​ ​was​ ​not​
+ ​completed​​timely.​​The​​ELPA​​Screener​​for​​the​​seven​​students​​was​​late​​by:​​1,​​3,​​5,​​16,​​22,​​26​​and​
+  ​62​ ​calendar​​days.​​We​​also​​selected​​an​​additional​​10​​students​​from​​the​​2024-2025​​school​​year​
+   ​and noted one of the 10 was 19 calendar days late.​
+
+​ e​ ​noted​ ​the​ ​internal​ ​controls​ ​designed​ ​to​ ​ensure​ ​the​ ​timely​​identification​​and​​assessment​​of​
+W
+​students​ ​who​ ​may​ ​be​ ​eligible​ ​for​ ​ELD​ ​Program​ ​placement​ ​are​ ​performed​ ​by​ ​central​
+ ​administration​ ​staff​ ​within​ ​the​ ​Funded​ ​Programs​ ​Department​ ​who​ ​are​ ​not​ ​part​ ​of​ ​the​
+  ​teacher’s/instructional​ ​staff’s​ ​or​ ​school​ ​administrator’s​ ​management​ ​structure.​ ​Programmatic​
+   ​implementation​ ​and​ ​day-to-day​ ​execution​ ​of​ ​required​ ​activities—including​ ​student​​assessment​
+    ​administration,​ ​are​ ​the​ ​responsibility​ ​of​ ​school​ ​administrators​ ​and​ ​teachers/instructional​ ​staff,​
+     ​who​​operate​​outside​​of​​Funded​​Programs’​​supervisory​​authority.​ ​As​​a​​result,​​Funded​​Programs​
+      ​Department​​staff​​have​​little​​or​​no​​recourse​​when​​their​​notifications​​and​​reminder​​notification​​are​
+       ​not effective in ensuring the assessments are completed timely.​
+
+​ his​ ​limitation​ ​reflects​ ​the​ ​district’s​ ​governance​ ​and​ ​accountability​ ​structure,​ ​in​ ​which​ ​central​
+T
+​administration​ ​staff​ ​in​ ​Funded​ ​Programs​ ​do​ ​not​ ​have​ ​direct​ ​supervisory​ ​authority​ ​over​ ​school​
+ ​administrators​​or​​instructional​​staff.​​As​​such,​​delays​​or​​noncompliance​​at​​the​​school​​level​​are​​not​
+  ​indicative​​of​​a​​breakdown​​in​​the​​Funded​​Programs​​Department’s​​execution,​​but​​rather​​highlight​
+   ​the​​absence​​of​​a​​formal​​escalation​​or​​enforcement​​mechanism​​within​​the​​district’s​​accountability​
+    ​framework.​
+
+​ eginning​​the​​2025-2026​​school​​year,​​there​​has​​been​​some​​restructuring​​of​​staff​​responsibilities​
+B
+​within​ ​the​ ​Funded​ ​Programs​ ​team​ ​and​ ​the​ ​Multilingual​ ​Services​ ​team.​ ​Staff​ ​performing​ ​the​
+ ​functions​ ​discussed​ ​in​ ​this​​procedure​​were​​considered​​part​​of​​the​​Funded​​Programs​​team​​and​
+  ​now​ ​are​ ​part​ ​of​ ​the​ ​Multilingual​ ​Services​ ​team.​ ​As​ ​a​ ​result,​ ​when​ ​referring​ ​to​ ​the​ ​testing​
+   ​performed​ ​as​ ​part​ ​of​ ​this​ ​procedure,​ ​there​ ​are​ ​references​ ​to​ ​the​ ​Funded​ ​Programs​ ​team;​
+    ​however,​ ​the​ ​recommendations​ ​are​ ​made​ ​to​ ​the​ ​Multilingual​ ​Services​ ​team​ ​that​ ​will​ ​need​ ​to​
+     ​implement the recommendations in this report to ensure compliance.​
+
+​Recommendations:​
+
+    ​1.​ ​We​ ​recommend​ ​that​ ​the​ ​Multilingual​ ​Services​ ​team​ ​strengthen​ ​its​ ​internal​ ​controls​ ​to​
+           ​ensure​ ​timely​ ​identification​ ​and​ ​assessment​ ​of​ ​students​ ​who​ ​may​ ​be​ ​eligible​ ​for​ ​ELD​
+          ​Program placement.​
+     ​2.​ ​We​​recommend​​the​​school​​district​​enhance​​its​​training​​for​​schools​​administration​​teams​
+            ​to​​improve​​accountability​​that​​will​​support​​the​​Multilingual​​Services​​team​​in​​their​​efforts​​to​
+
+
+
+                                                                                                         ​Page​​12​​of​​27​
+                                 ​Internal Performance Audit Report​
+              ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+          ​ensure​​the​​timely​​identification​​and​​assessment​​of​​students​​who​​may​​be​​eligible​​for​​ELD​
+         ​ rogram placement.​
+         P
+    ​3.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​ ​team​​collaborate​​with​​the​​Chief​​of​​Schools​​to​
+           ​develop​ ​and​ ​implement​ ​an​ ​accountability​ ​protocol​ ​that​ ​will​ ​support​ ​the​ ​Multilingual​
+            ​Services​ ​team​ ​in​ ​their​ ​efforts​ ​to​ ​ensure​ ​the​ ​timely​ ​identification​ ​and​ ​assessment​ ​of​
+         ​students who may be eligible for ELD Program placement.​
+
+​ o​​assist​​the​​Multilingual​​Services​​team​​in​​implementation​​of​​these​​recommendations,​​below​​are​
+T
+​action items for consideration:​
+
+    ​●​ T    ​ wice​ ​a​ ​month,​ ​email​ ​the​ ​school​ ​administrators​ ​a​ ​list​ ​of​ ​outstanding​ ​assessments​​and​
+          ​request a status update for each.​
+     ​●​ ​Training​ ​for​ ​school​ ​administrators​ ​could​ ​be​ ​differentiated​ ​in​ ​a​ ​variety​ ​of​ ​ways.​ ​For​
+             ​example,​​training​​for​​first​​year​​school​​administrators​​could​​be​​more​​robust​​and​​detailed,​
+              ​while​ ​subsequent​ ​annual​ ​training​ ​could​ ​be​ ​more​ ​high-level​ ​focused​ ​on​​any​​changes​​in​
+               ​requirements,​​or​​process​​and​​procedures.​ ​Additionally,​​a​​training​​refresher​​course​​could​
+                ​be​ ​developed​ ​in​ ​Pepper​ ​and​ ​assigned​ ​to​ ​school​ ​administration​ ​teams​ ​based​​on​​input​
+                 ​from​ ​the​ ​Multilingual​ ​Services​ ​team​ ​who​ ​will​ ​have​ ​real-time​ ​understanding​ ​of​ ​any​
+           ​compliance concerns at each school.​
+      ​●​ ​When​ ​an​ ​assessment​ ​has​ ​not​ ​been​ ​administered​ ​within​ ​the​ ​required​ ​timeframe,​ ​notify​
+                  ​the​ ​Sr.​ ​Director​ ​of​ ​Schools​ ​and​ ​request​ ​their​ ​support​ ​and​​follow​​up​​with​​the​​schools​​to​
+            ​ensure the assessment is administered.​
+
+​Management’s Response to Recommendation 1, 2, and 3:​
+
+
+ ​ ecommendation 1: We agree with the recommendation and will include implementation​
+ R
+ ​actions in our implementation plan presented to the Audit Committee within 90 days. We​
+  ​have already begun tightening these systems and working with Funded Programs for a​
+   ​smooth transition of their previous proce​​ss, and p​​utting​​a system in place to ensure timely​
+    ​identification and assessment of students who may be eligible for ELD services.​
+
+ ​ ecommendation 2: We agree with the recommendation and will include implementation​
+ R
+ ​actions in our implementation plan presented to the Audit Committee within 90 days. We​
+  ​have begun conversations with Senior Leaders and will meet with Dr. Cardona, and others​
+   ​overseeing schools directly to ensure we are part of a capacity-building cycle of​​training​​for​
+    ​school administrators.​
+
+ ​ ecommendation 3: We agree with the recommendation and will include implementation​
+ R
+ ​actions in our implementation plan presented to the Audit Committee within 90 days. We​
+  ​have begun conversations with Senior Leaders and will meet with Dr. Cardona, and others​
+   ​overseeing schools directly to ensure we are part of a capacity-building cycle of trainings for​
+    ​school administrators. The MLL Services Team will provide guidance on the 2026-27 Core​
+     ​Program Guide for implementation as well as the​​Multilingual​​Services and Dual​
+ ​Language Immersion Program Guide coming Spring/Summer 2026.​
+
+
+
+
+                                                                                                            ​Page​​13​​of​​27​
+                                  ​Internal Performance Audit Report​
+               ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​Procedure 2: Required Communication with Student Families​
+
+    ​●​ D  ​ etermine​ ​if​ ​notification​ ​letters​ ​sent​ ​to​ ​families​​contained​​all​​required​​information,​​were​
+           ​timely,​ ​and​ ​if​ ​applicable,​ ​were​ ​translated​ ​in​ ​the​ ​language​ ​selected​ ​by​ ​the​ ​families​ ​for​
+         ​communication.​
+     ​●​ ​Assess​ ​the​ ​adequacy​ ​of​ ​internal​​controls​​designed​​to​​ensure​​notification​​letters​​contain​
+            ​all​​required​​information,​​are​​timely,​​and​​if​​applicable,​​are​​translated​​in​​the​​language​​that​
+          ​the families selected for communications.​
+
+​Background Information​
+
+​ nce​ ​a​​student​​has​​been​​assessed​​for​​ELD​​Program​​placement,​​the​​school​​district​​is​​required​
+O
+​to​ ​communicate​ ​the​ ​outcome​ ​of​ ​the​ ​assessment​ ​with​ ​the​ ​student’s​ ​family.​ ​The​ ​school​ ​district​
+ ​utilizes​ ​the​ ​ELPA​ ​Screener​ ​to​ ​determine​ ​whether​ ​the​ ​student​ ​is​ ​eligible​ ​for​ ​ELD​ ​Program​
+  ​placement.​ ​The​ ​results​ ​of​ ​the​ ​assessment​ ​are​ ​included​ ​in​ ​a​ ​notification​ ​of​ ​eligibility​
+   ​determination​ ​letter,​ ​called​ ​the​ ​Notification​ ​of​ ​Initial​ ​English​ ​Language​ ​Program​ ​Letter​ ​or​ ​a​
+    ​Notification of Not Qualifying for English Language Program Letter.​
+
+​ he​ ​notification​ ​of​ ​eligibility​ ​determination​ ​letter​ ​is​ ​generated​ ​by​ ​staff​ ​within​ ​the​ ​Funded​
+T
+​Programs​​Department​​utilizing​​the​​Ellevation​​Tool.​ ​The​​Ellevation​​Tool​​is​​a​​platform​​designed​​in​
+ ​part​ ​to​ ​assist​ ​the​ ​school​ ​district​ ​with​ ​the​ ​management​ ​of​ ​the​ ​English​ ​language​ ​services​ ​and​
+  ​includes​​a​​feature​​to​​automatically​​generate​​the​​notification​​of​​eligibility​​determination​​letters​​that​
+   ​are​ ​auto-filled​ ​with​​applicable​​student​​data,​​includes​​all​​required​​communication​​elements,​​and​
+    ​is translated into the language selected by families for communications.​
+
+​ ach​ ​night,​ ​there​ ​is​ ​an​ ​automated​ ​job​ ​to​ ​sync​ ​applicable​ ​information​ ​from​ ​Synergy​ ​with​ ​the​
+E
+​Ellevation​​Tool.​ ​The​​syncing​​of​​Synergy​​with​​the​​Ellevation​​Tool​​includes​​the​​identification​​of​​the​
+ ​assessment​ ​used​ ​for​ ​eligibility​ ​determination,​ ​the​ ​results​ ​of​ ​the​​assessment,​​and​​if​​applicable,​
+  ​the​​language​​selected​​by​​the​​families​​for​​communications​​from​​the​​school​​district.​ ​Following​​the​
+   ​syncing,​ ​the​ ​Ellevation​ ​Tool​ ​has​ ​all​ ​of​ ​the​ ​data​ ​elements​ ​necessary​ ​to​​generate​​notification​​of​
+    ​eligibility determination letters that are compliant with applicable requirements.​
+
+​ e​ ​noted​ ​the​ ​Ellevation​ ​Tool​ ​will​ ​generate​ ​those​ ​letters​ ​when​ ​prompted,​ ​even​ ​if​ ​all​ ​required​
+W
+​communication​ ​data​ ​elements​ ​are​ ​not​ ​available​ ​for​ ​inclusion​ ​in​ ​the​ ​letter.​ ​Meaning,​ ​if​ ​the​
+ ​assessment​​used​​and​​results​​of​​the​​assessment​​were​​not​​included​​in​​the​​Ellevation​​Tool,​​when​
+  ​prompted, the letters will still generate without the inclusion of that information.​
+
+​ ue​​to​​the​​reliability​​of​​the​​automated​​job​​that​​runs​​each​​night​​to​​sync​​the​​systems,​​the​​reason​
+D
+​the​​required​​information​​is​​not​​included​​in​​the​​Ellevation​​Tool​​is​​because​​that​​information​​has​​not​
+ ​been​​properly​​input​​into​​the​​Synergy​​system.​ ​For​​example,​​Funded​​Programs​​Department​​staff​
+  ​download​ ​the​ ​results​ ​of​ ​the​ ​assessment​ ​from​ ​OSAS​ ​(Oregon​ ​Statewide​ ​Assessment​​System)​
+   ​and​ ​upload​ ​those​ ​results​ ​into​ ​Synergy.​ ​If​ ​there​ ​were​ ​technical​ ​issues​ ​with​ ​the​ ​upload​ ​of​ ​this​
+    ​information​ ​into​ ​Synergy,​ ​the​ ​applicable​ ​information​ ​may​ ​not​ ​be​ ​included​​in​​Synergy​​and​​as​​a​
+     ​result,​ ​would​ ​not​ ​be​ ​included​ ​in​ ​the​ ​nightly​ ​syncing​ ​of​ ​Synergy​ ​and​ ​the​ ​Ellevation​ ​Tool.​
+      ​Additionally,​​it​​could​​be​​the​​case​​that​​staff​​upload​​the​​results​​of​​the​​assessment​​from​​OSAS​​into​
+       ​Synergy​​and​​then​​send​​the​​notification​​letters​​out​​the​​same​​day.​​Because​​the​​data​​from​​Synergy​
+        ​is​​not​​synced​​the​​same​​day,​​staff​​need​​to​​wait​​to​​generate​​the​​letters​​until​​the​​next​​day.​​This​​will​
+         ​allow​​the​​information​​from​​OSAS​​to​​be​​included​​in​​the​​nightly​​syncing​​of​​the​​Ellevation​​Tool​​with​
+          ​Synergy, before generating the notification letters in the Ellevation Tool.​
+
+
+
+
+                                                                                                           ​Page​​14​​of​​27​
+                                  ​Internal Performance Audit Report​
+               ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​ nce​ ​the​ ​notification​ ​of​ ​eligibility​ ​determination​ ​letters​ ​are​ ​generated​ ​in​ ​the​ ​Ellevation​ ​Tool,​
+O
+​Funded​ ​Programs​ ​Department​ ​staff​ ​then​ ​submit​ ​the​ ​letters​ ​to​​a​​contracted​​vendor​​for​​mailing.​
+ ​These​ ​letters​ ​are​ ​also​ ​submitted​ ​to​ ​the​ ​Office​ ​of​​Technology​​with​​a​​request​​to​​combine​​all​​the​
+  ​letters​ ​to​ ​a​ ​single​ ​PDF​ ​document​ ​that​ ​is​ ​saved​ ​in​ ​Docuware​ ​(the​ ​district’s​ ​document​
+   ​management system) for record retention.​
+
+​ uring​ ​the​ ​2024-2025​ ​school​ ​year,​ ​Funded​ ​Programs​ ​Department​​staff​​began​​to​​use​​the​​PPS​
+D
+​Remind​ ​app,​ ​instead​ ​of​ ​a​ ​contracted​​vendor,​​to​​mail/deliver​​the​​notification​​of​​determination​​of​
+ ​eligibility​ ​letter​ ​to​ ​families.​ ​The​ ​PPS​ ​Remind​ ​app​ ​allows​ ​families​ ​to​ ​receive​ ​text​ ​messages,​
+  ​emails,​ ​and​ ​calls​ ​from​ ​the​ ​students’​ ​teachers/instructional​ ​staff​ ​or​ ​schools.​ ​Staff​ ​are​ ​able​ ​to​
+   ​obtain​​a​​“read”​​receipt​​in​​the​​Remind​​app​​to​​ensure​​families​​have​​received​​the​​letter.​ ​If​​families​
+    ​have​ ​not​ ​registered​ ​for​ ​use​ ​of​ ​the​ ​Remind​ ​app,​ ​or​ ​if​ ​staff​ ​do​ ​not​​get​​a​​“read”​​receipt​​from​​the​
+     ​Remind​ ​app,​ ​Funded​ ​Programs​ ​Department​ ​staff​ ​emails​ ​the​ ​letter​ ​to​ ​the​ ​student’s​
+      ​teacher/instructional​​staff​​along​​with​​a​​request​​for​​the​​teacher/instructional​​staff​​to​​print​​the​​letter​
+       ​and send it home with the student.​
+
+​ uring​​the​​2025-2026​​school​​year,​​the​​PPS​​Remind​​app​​was​​replaced​​with​​ParentSquare.​ ​We​
+D
+​were​ ​informed​ ​the​ ​functionality​ ​of​ ​ParentSquare​ ​was​ ​the​​same,​​and​​in​​some​​ways​​better​​than​
+ ​the PPS Remind app.​
+
+​Compliance Requirements:​
+
+     ​●​ N  ​ otification​​of​​eligibility​​determination​​letters​​are​​required​​to​​be​​provided​​to​​families​​within​
+           ​30 calendar days of enrollment.​
+      ​●​ ​Notification of eligibility determination letters are required to:​
+                ​○​ ​If​ ​applicable,​ ​be​ ​provided​ ​in​ ​the​ ​language​ ​selected​ ​by​ ​the​ ​family​ ​to​ ​receive​
+                      ​communications from the school, and​
+                 ​○​ ​Identify​ ​the​ ​assessment​ ​used​ ​to​ ​determine​ ​eligibility​ ​and​ ​the​ ​results​ ​of​ ​the​
+                       ​assessment.​
+
+​Testing and Results:​
+
+​ e​ ​tested​ ​50​ ​students​ ​from​ ​the​ ​2022-2024​ ​school​ ​years​ ​for​ ​the​ ​above-noted​ ​compliance​
+W
+​requirements.​ ​We​ ​noted​ ​a​ ​minor​ ​change​ ​in​ ​the​ ​school​ ​district’s​ ​processes​ ​and​ ​procedures​
+ ​delivering​ ​the​ ​notification​ ​of​ ​eligibility​ ​letters​ ​for​ ​the​ ​2024-2025​ ​school​ ​year.​ ​As​ ​a​ ​result,​ ​we​
+  ​selected​​an​​additional​​10​​students​​from​​the​​2024-2025​​school​​year​​for​​testing.​ ​Testing​​identified​
+   ​the following results:​
+
+     ​●​ T    ​ he​ ​notification​​letters​​for​​12​​of​​the​​50​​students​​tested​​were​​not​​completed​​timely.​ ​The​
+              ​notification​ ​to​ ​the​ ​family​ ​for​ ​these​ ​students​ ​was​ ​late​ ​by​ ​a​ ​range​ ​between​ ​two​​and​​175​
+               ​calendar​​days.​​The​​specific​​number​​of​​calendar​​days​​late​​for​​each​​of​​the​​12​​are:​​2,​​5,​​8,​
+           ​8, 16, 26, 35, 41, 43, 54, 93, and 175.​
+                    ​○​ ​2024-2025​​Testing:​​Two​​of​​the​​10​​students​​tested​​were​​not​​completed​​timely.​​The​
+                          ​notifications were two and 16 calendar days late.​
+      ​●​ ​The​​notification​​letter​​did​​not​​identify​​the​​results​​of​​the​​assessment​​for​​10​​students​​of​​the​
+            ​50 tested students.​
+                     ​○​ ​2024-2025​ ​Testing:​ ​All​ ​10​ ​notification​ ​letters​ ​included​ ​the​ ​results​ ​of​ ​the​
+                           ​assessment.​
+       ​●​ ​The​​notification​​letter​​to​​the​​family​​was​​not​​translated​​in​​the​​language​​the​​family​​selected​
+             ​for communication from the school for four of the 50 students tested.​
+
+
+
+
+                                                                                                              ​Page​​15​​of​​27​
+                                 ​Internal Performance Audit Report​
+              ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+                 ​○​ 2  ​ 024-2025​ ​Testing:​ ​One​ ​of​ ​10​ ​was​ ​not​ ​translated​ ​to​ ​the​ ​language​ ​selected​​by​
+                        ​families for communication.​
+    ​●​ ​Multiple notification letters were sent to families for three of the 50 students.​
+                  ​○​ ​2024-2025​​Testing:​​Three​​of​​the​​10​​families​​were​​sent​​multiple​​notification​​letters,​
+                         ​each dated with a different date, but otherwise identical.​
+     ​ ​ ​Four​ ​of​ ​the​ ​50​ ​students​ ​we​ ​tested​ ​scored​ ​“proficient”​ ​on​ ​the​ ​assessment​ ​were​
+     ●
+          ​determined​​as​​not​​eligible​​for​​ELD​​Program​​placement.​​However,​​the​​Notification​​of​​Not​
+           ​Qualifying​ ​for​ ​English​ ​Language​ ​Development​ ​Program​ ​Letter​ ​was​ ​only​ ​sent​ ​to​​one​​of​
+            ​the​ ​four,​ ​and​ ​was​ ​74​​calendar​​days​​late.​ ​There​​is​​no​​evidence​​a​​notification​​letter​​was​
+         ​sent to the other three.​
+                   ​○​ ​2024-2025​ ​Testing:​ ​We​ ​noted​ ​none​ ​of​ ​the​ ​additional​ ​10​ ​students​ ​scored​
+                          ​proficient on the ELPA Screener.​
+
+​ eginning​​the​​2025-2026​​school​​year,​​there​​has​​been​​some​​restructuring​​of​​staff​​responsibilities​
+B
+​within​ ​the​ ​Funded​ ​Programs​ ​team​ ​and​ ​the​ ​Multilingual​ ​Services​ ​team.​ ​Staff​ ​performing​ ​the​
+ ​functions​ ​discussed​ ​in​ ​this​​procedure​​were​​considered​​part​​of​​the​​Funded​​Programs​​team​​and​
+  ​now​ ​are​ ​part​ ​of​ ​the​ ​Multilingual​ ​Services​ ​team.​ ​As​ ​a​ ​result,​ ​when​ ​referring​ ​to​ ​the​ ​testing​
+   ​performed​ ​as​ ​part​ ​of​ ​this​ ​procedure,​ ​there​ ​are​ ​references​ ​to​ ​the​ ​Funded​ ​Programs​ ​team;​
+    ​however,​ ​the​ ​recommendations​ ​are​ ​made​ ​to​ ​the​ ​Multilingual​ ​Services​ ​team​ ​that​ ​will​ ​need​ ​to​
+     ​implement the recommendations in this report to ensure compliance.​
+
+​Recommendations:​
+
+    ​4.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​​team​​strengthen​​internal​​controls​​designed​​to​
+          ​ensure the timely communication of the student’s eligibility for ELD Program placement.​
+     ​5.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​​team​​consult​​with​​the​​Office​​of​​Technology​​to​
+            ​develop​​and​​utilize​​automated​​prompts​​in​​the​​Ellevation​​Tool​​to​​identify​​an​​error​​when​​a​
+             ​field​​used​​to​​auto-generate​​the​​notification​​letter​​is​​blank,​​instead​​of​​generating​​the​​letter​
+           ​without the inclusion of the required contents in the letter.​
+
+​ o​ ​assist​ ​the​ ​Multilingual​ ​Services​ ​team​ ​in​ ​implementation​ ​of​ ​this​ ​recommendation,​​below​​are​
+T
+​action items for consideration:​
+
+    ​●​ P  ​ rovide​ ​additional​ ​training​ ​to​ ​staff​ ​on​ ​the​ ​functionality​ ​of​ ​the​ ​Ellevation​ ​Tool​ ​to​ ​ensure​
+          ​staff are able to utilize the full functionality of the Ellevation Tool.​
+     ​●​ ​Visually confirm contents and language of letters are accurate before sending the letter.​
+
+​Management’s Response to Recommendations 4 and 5:​
+
+
+ ​ ecommendation 4: We agree with the recommendation and will include implementation​
+ R
+ ​actions in our implementation plan presented to the Audit Committee within 90 days. We​
+  ​have already begun an automated system and data dashboard sharing that will help​
+   ​streamline the process of accurate and timely program placement. The MLL Services Team​
+    ​will provide guidance on the 2026-27 Core Program Guide for implementation as well as the​
+ ​ ultilingual Services and Dual Language Immersion Program Guide coming​
+ M
+ ​Spring/Summer 2026.​
+
+ ​ ecommendation 5: We agree with the recommendation and will include implementation​
+ R
+ ​actions in our implementation plan presented to the Audit Committee within 90 days. We will​
+
+
+
+                                                                                                           ​Page​​16​​of​​27​
+                             ​Internal Performance Audit Report​
+          ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+
+​ e meeting with the Office of Technology to create these automation prompts to be adjusted​
+b
+​within the 90 days.​
+
+
+
+
+                                                                               ​Page​​17​​of​​27​
+                                  ​Internal Performance Audit Report​
+               ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​Procedure 3: Title III ELD Family Informational Sessions​​2​
+
+      ​●​ D  ​ etermine​ ​if​ ​all​ ​schools​ ​serving​ ​ML​ ​students​ ​completed​ ​the​ ​required​ ​community​
+           ​engagement, called the Title III ELD Family Informational Sessions.​
+       ​●​ ​Assess​ ​the​ ​adequacy​ ​of​ ​internal​ ​controls​ ​designed​ ​to​ ​ensure​ ​all​ ​school​ ​serving​ ​ML​
+             ​students​ ​have​ ​the​ ​required​ ​community​ ​engagement,​ ​called​ ​the​ ​Title​ ​III​ ​ELD​ ​Family​
+            ​Informational Sessions.​
+
+​Background Information​
+
+​ PS​​is​​required​​to​​engage​​with​​parents​​and​​families​​of​​students​​who​​receive​​language​​services​
+P
+​as​​authentic​​partners​​in​​the​​decision​​making​​around​​programs,​​activities,​​and​​procedures.​ ​One​
+ ​of​ ​the​ ​ways​ ​PPS​ ​demonstrates​ ​compliance​ ​with​ ​this​ ​requirement​ ​is​ ​by​ ​holding​ ​a​ ​Title​ ​III​​ELD​
+  ​Family Informational Sessions at each school serving ML students.​
+
+​ o​​ensure​​each​​school​​conducts​​the​​required​​Title​​III​​ELD​​Family​​Informational​​Sessions,​​at​​the​
+T
+​beginning​​of​​each​​school​​year,​​the​​Funded​​Programs​​Department​​staff​​send​​an​​email​​reminder​
+ ​to​ ​the​ ​administration​ ​team​ ​at​ ​each​ ​school.​ ​The​​reminder​​includes​​information​​and​​support​​for​
+  ​the​ ​school​ ​administration​ ​team​ ​including​ ​a​ ​link​ ​to​ ​a​​Helpful​​Tips​​document​​where​​schools​​can​
+   ​view​ ​samples/templates​ ​of​ ​invitation​ ​fliers,​ ​and​ ​parent​ ​slideshows​ ​that​ ​are​ ​available​ ​in​ ​seven​
+    ​languages.​​The​​reminder​​also​​includes​​a​​link​​to​​contact​​information​​for​​interpretation​​services​​(if​
+     ​needed) to ensure the language needs of families are met.​
+
+​ chools​​can​​hold​​the​​Title​​III​​ELD​​Family​​Informational​​Sessions​ ​night​​at​​their​​building​​or​​work​
+S
+​with​ ​other​ ​schools​ ​in​ ​their​ ​cluster​​to​​hold​​a​​single​​informational​​session​​as​​a​​group.​ ​However,​
+ ​each​ ​of​ ​the​​schools​​must​​present​​its​​individual​​school​​data​​and​​programs​​of​​service.​ ​Schools,​
+  ​serving​ ​less​ ​than​ ​10​ ​ML​ ​students,​ ​can​ ​elect​ ​to​​invite​​parents​​to​​individual​​meetings.​ ​Possible​
+   ​meeting formats include:​
+
+      ​​
+      ●   ​ arent Circle, Coffee or Tea session.​
+          P
+      ​●​ ​During a regularly scheduled PTA meeting.​
+       ​●​ ​As part of the school’s Back to School Night.​
+        ​●​   ​Two​ ​or​ ​more​ ​schools​ ​combine​ ​and​ ​have​ ​a​ ​meeting​​together​​in​​the​​morning​​or​​evening​
+            ​meeting times.​
+      ​●​ ​Can​​be​​held​​as​​a​​separate​​event​​or​​combined​​with​​informational​​sessions​​related​​to​​the​
+             ​TAG (Talented and Gifted) program, Special Education or Title I​​3​​.​
+
+​ he​​Title​​III​​ELD​​Family​​Informational​​Sessions​​reminder​​instructs​​school​​administrative​​staff​​to​
+T
+​complete​​a​​short​​form,​​and​​provides​​a​​link​​to​​the​​form​​that​​documents​​information​​related​​to​​the​
+ ​event.​
+
+​ he​​Funded​​Programs​​Department​​staff​​maintains​​a​​tracking​​spreadsheet​​that​​is​​interfaced​​with​
+T
+​the​ ​form​ ​the​ ​school​ ​administrative​​staff​​complete​​following​​the​​event.​​As​​a​​result,​​when​​school​
+ ​administrative​ ​staff​ ​complete​ ​the​ ​form​ ​following​ ​the​ ​session,​ ​the​ ​tracking​ ​spreadsheet​ ​is​
+  ​automatically​​updated​​with​​the​​applicable​​information​​from​​the​​form.​ ​This​​tracking​​spreadsheet​
+
+​2​
+       ​Title III refers to Title III of the Elementary and Secondary Education Act which provides federal funds for​
+s​ ervices for English learners and immigrant students. As a recipient of Title III funds, PPS is required to adhere to​
+ ​federal grant compliance requirements which includes the “Title III ELD Family Informational Session”.​
+  ​3​
+      ​Title I refers to Title I of the Elementary and Secondary Education Act which provides federal funding to​
+   ​supplement state and local funding for low-achieving children, especially in high-poverty schools.​
+
+
+                                                                                                      ​Page​​18​​of​​27​
+                                 ​Internal Performance Audit Report​
+              ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​ rovides​​the​​Funded​​Programs​​Department​​staff​​with​​a​​tracking​​mechanism​​to​​ensure​​the​​Title​
+p
+​III ELD Family Informational Sessions is held.​
+
+​ hile​ ​Funded​ ​Programs​ ​Department​ ​staff​ ​perform​ ​the​ ​above​ ​noted​ ​procedures​ ​to​ ​ensure​
+W
+​compliance,​ ​execution​ ​of​ ​the​ ​Title​ ​III​ ​ELD​ ​Family​ ​Informational​ ​Session​​is​​the​​responsibility​​of​
+ ​the individual school’s administration team.​
+
+​Compliance Requirement:​
+
+​ ll​ ​schools​​serving​​ML​​students​​must​​hold​​a​​Title​​III​​ELD​​Family​​Informational​​Sessions​​by​​the​
+A
+​date​​identified​​annually​​by​​the​​Oregon​​Department​​of​​Education.​ ​That​​date​​was​ ​October​​27th,​
+ ​2023 for the 2023-2024 school year.​
+
+​Testing and Results:​
+
+​ e​ ​obtained​ ​the​ ​2023-2024​ ​Title​ ​III​ ​ELD​ ​Family​ ​Informational​ ​Sessions​ ​tracking​ ​spreadsheet​
+W
+​from​ ​the​ ​Funded​ ​Programs​ ​Department​ ​team.​ ​We​ ​compared​ ​the​​tracking​​sheet​​to​​a​​complete​
+ ​list of all PPS schools/alternative programs.​
+
+​ e​ ​noted​ ​the​ ​tracking​ ​spreadsheet​ ​did​ ​not​ ​include​ ​the​ ​meeting​ ​details​ ​for​ ​the​ ​Title​ ​III​ ​ELD​
+W
+​Family​ ​Informational​ ​Sessions​ ​for​ ​27​ ​schools/alternative​ ​programs.​ ​Seven​ ​of​ ​the​ ​27​
+ ​schools/alternative​​programs​​served​​less​​than​​10​​ML​​students​​and​​were​​not​​required​​to​​hold​​the​
+  ​information​ ​session.​ ​Funded​​Programs​​staff​​were​​able​​to​​reach​​out​​to​​12​​of​​the​​27​​schools​​to​
+   ​obtain​​evidence​​that​​their​​informational​​sessions​​were​​held.​​We​​were​​unable​​to​​obtain​​evidence​
+    ​that​​eight​​schools/alternative​​programs​​completed​​the​​required​​Title​​III​​ELD​​Family​​Informational​
+     ​Sessions.​
+
+​ e​​noted​​the​​district’s​​internal​​controls​​to​​ensure​​all​​schools​​serving​​ML​​students​​hold​​the​​Title​
+W
+​III​ ​ELD​ ​Family​ ​Informational​ ​Sessions​ ​are​ ​performed​ ​by​ ​central​ ​administration​ ​staff​ ​within​​the​
+ ​Funded​ ​Programs​ ​Department​ ​who​ ​are​ ​not​ ​part​ ​of​ ​the​ ​school​ ​administrator’s​ ​management​
+  ​structure.​ ​Execution​ ​of​ ​the​ ​Title​ ​III​ ​Family​ ​Informational​ ​Session​ ​is​ ​the​ ​responsibility​ ​of​ ​the​
+   ​individual​ ​school’s​ ​administration​ ​team​ ​who​ ​operate​ ​outside​ ​of​ ​the​ ​Funded​ ​Programs’​
+    ​supervisory​​authority.​ ​As​​a​​result,​​Funded​​Programs​​Department​​staff​​have​​little​​or​​no​​recourse​
+     ​when school administrators do not complete the form.​
+
+​ his​ ​limitation​ ​reflects​ ​the​ ​district’s​ ​governance​ ​and​ ​accountability​ ​structure,​ ​in​ ​which​ ​central​
+T
+​administration​ ​staff​ ​in​ ​Funded​ ​Programs​ ​do​ ​not​ ​have​ ​direct​ ​supervisory​ ​authority​ ​over​ ​school​
+ ​administrators​​or​​instructional​​staff.​​As​​such,​​delays​​or​​noncompliance​​at​​the​​school​​level​​are​​not​
+  ​indicative​​of​​a​​breakdown​​in​​the​​Funded​​Programs​​Department’s​​execution,​​but​​rather​​highlight​
+   ​the​​absence​​of​​a​​formal​​escalation​​or​​enforcement​​mechanism​​within​​the​​district’s​​accountability​
+    ​framework.​
+
+​ eginning​​the​​2025-2026​​school​​year,​​there​​has​​been​​some​​restructuring​​of​​staff​​responsibilities​
+B
+​within​ ​the​ ​Funded​ ​Programs​ ​team​ ​and​ ​the​ ​Multilingual​ ​Services​ ​team.​ ​Staff​ ​performing​ ​the​
+ ​functions​ ​discussed​ ​in​ ​this​​procedure​​were​​considered​​part​​of​​the​​Funded​​Programs​​team​​and​
+  ​now​ ​are​ ​part​ ​of​ ​the​ ​Multilingual​ ​Services​ ​team.​ ​As​ ​a​ ​result,​ ​when​ ​referring​ ​to​ ​the​ ​testing​
+   ​performed​ ​as​ ​part​ ​of​ ​this​ ​procedure,​ ​there​ ​are​ ​references​ ​to​ ​the​ ​Funded​ ​Programs​ ​team;​
+    ​however,​ ​the​ ​recommendations​ ​are​ ​made​ ​to​ ​the​ ​Multilingual​ ​Services​ ​team​ ​that​ ​will​ ​need​ ​to​
+     ​implement the recommendations in this report to ensure compliance.​
+
+
+
+
+                                                                                                       ​Page​​19​​of​​27​
+                                ​Internal Performance Audit Report​
+             ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​Recommendations:​
+
+    ​6.​ ​We​​recommend​​the​​Multilingual​​Services​​team​​strengthen​​internal​​controls​​to​​ensure​​all​
+            ​schools​ ​serving​ ​ML​ ​students​ ​hold​ ​the​ ​required​ ​Title​ ​III​ ​ELD​ ​Family​ ​Informational​
+          ​Sessions.​
+     ​7.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​ ​team​​collaborate​​with​​the​​Chief​​of​​Schools​​to​
+             ​develop​ ​and​ ​implement​ ​an​ ​accountability​ ​protocol​ ​that​ ​will​ ​support​ ​the​ ​Multilingual​
+              ​Services​​team​​in​​their​​efforts​​to​​ensure​​all​​schools​​serving​​ML​​students​​hold​​the​​Title​​III​
+           ​ELD Family Informational Sessions.​
+
+​ o​ ​assist​ ​the​ ​Funded​ ​Programs​ ​Department​ ​staff​ ​in​ ​implementation​ ​of​ ​this​ ​recommendation,​
+T
+​below are action items for consideration:​
+
+    ​●​ W​ hen​ ​the​ ​Title​ ​III​ ​ELD​ ​Family​ ​Informational​ ​Session​ ​completion​ ​form​ ​is​​not​​completed​
+         ​within​ ​one​ ​week​ ​of​ ​the​ ​scheduled​ ​event,​ ​notify​ ​the​​Sr.​​Director​​of​​Schools​​and​​request​
+          ​their​ ​support​ ​and​ ​follow​ ​up​ ​with​ ​the​ ​schools​ ​to​ ​ensure​ ​the​ ​Title​ ​III​ ​ELD​ ​Family​
+        ​Informational Sessions are held.​
+
+​Management’s Response to Recommendations 6 and 7:​
+
+
+ ​ ecommendation 6: We agree with the recommendation and will include implementation​
+ R
+ ​actions in our implementation plan presented to the Audit Committee within 90 days. We will​
+  ​work with the Chief of Schools to ensure we have systems of support in place for​
+   ​accountability and follow-through from schools.​
+
+ ​ ecommendation 7: We agree with the recommendation and will include implementation​
+ R
+ ​actions in our implementation plan presented to the Audit Committee within 90 days. We will​
+  ​work with the Chief of Schools to ensure we have systems of support in place for​
+   ​accountability and follow-through from schools.​
+
+
+
+
+                                                                                                     ​Page​​20​​of​​27​
+                                 ​Internal Performance Audit Report​
+              ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​Procedure 4: Annual Assessment, Exiting the ELD Program, and Post-Exit Monitoring​
+
+    ​1.​ ​Determine​​whether​​all​​eligible​​ML​​students,​​including​​students​​who​​were​​opted​​out​​of​​the​
+           ​ELD Program, completed the required annual ELPA Summative assessment.​
+     ​2.​ ​Determine​ ​if​ ​only​ ​the​ ​students​ ​who​ ​tested​ ​“Proficient”​ ​on​ ​the​ ​ELPA​ ​Summative​ ​were​
+            ​exited from the ELD program and if exited students were monitored for four years.​
+      ​3.​ ​Assess​​the​​adequacy​​of​​internal​​controls​​in​​place​​to​​ensure​​all​​students​​eligible​​for​​ELD​
+              ​services​​complete​​the​​ELPA​​Summative​​annually,​​and​​are​​exited​​from​​the​​ELD​​Program​
+             ​only after testing “Proficient” on the ELPA Summative.​
+
+​Background Information​
+
+​Annual ELPA Summative​
+
+​ ll​​ELD​​Program​​eligible​​students​​are​​required​​to​​complete​​the​​annual​​ELPA​​(English​​Language​
+A
+​Proficiency​ ​Assessment)​ ​Summative,​ ​including​ ​students​ ​who​ ​were​ ​opted​ ​out​ ​of​​ELD​​Program​
+ ​services.​
+
+          ​ amilies​​can​​choose​​to​​opt​​out​​their​​student​​from​​ELD​​Program​​services.​ ​However,​​PPS​
+          F
+          ​retains​ ​a​ ​responsibility​ ​to​ ​ensure​ ​the​ ​student​ ​has​ ​an​ ​equal​ ​opportunity​ ​to​ ​have​ ​their​
+           ​English​​language​​and​​academic​​needs​​met.​​Students​​not​​served/opted​​out​​of​​PPS’s​​ELD​
+            ​Program​ ​are​ ​required​ ​to​ ​participate​ ​in​ ​all​ ​state-required​ ​assessments,​ ​including​ ​the​
+         ​annual ELPA Summative.​
+
+I​n​ ​the​ ​school​ ​district’s​ ​student​ ​identification​ ​system​ ​(Synergy),​ ​students​ ​are​ ​flagged​ ​as​ ​ELD​
+ ​Program​ ​eligible​ ​based​ ​on​ ​the​ ​student’s​ ​score​ ​on​ ​the​ ​ELPA​ ​Screener.​ ​Even​ ​if​ ​a​ ​family​
+  ​subsequently​ ​opts​ ​the​ ​student​ ​out​ ​of​ ​the​ ​ELD​ ​Program,​ ​the​ ​flag​ ​identifying​ ​the​ ​student​ ​as​​an​
+   ​ELD Program eligible student remains in Synergy.​
+
+​ he​ ​Dashboard​ ​serves​ ​as​ ​a​ ​repository​ ​for​ ​demographic​ ​data,​ ​assessments,​ ​and​ ​other​
+T
+​documents,​ ​with​ ​all​ ​information​ ​uploaded​ ​directly​ ​from​ ​Synergy.​ ​The​ ​Dashboard​ ​platform​​also​
+ ​includes​​a​​feature​​to​​generate​​a​​list​​of​​students​​who​​are​​required​​to​​complete​​the​​annual​​ELPA​
+  ​Summative​​based​​on​​whether​​or​​not​​the​​student​​is​​flagged​​in​​Synergy​​as​​ELD​​Program​​eligible.​
+   ​An​ ​email​ ​is​ ​sent​ ​through​ ​the​ ​Admin​ ​Portal​​to​​inform​​schools​​and​​teachers/instructional​​staff​​of​
+    ​the​ ​K–12​ ​ELPA​ ​Summative​ ​testing​ ​window.​ ​It​ ​is​ ​the​ ​teachers/instructional​ ​staff​ ​and​ ​school​
+     ​administrators’​ ​responsibility​ ​to​ ​ensure​ ​the​ ​identified​ ​students​ ​complete​​the​​ELPA​​Summative​
+      ​during​​one​​of​​the​​testing​​window​​opportunities.​ ​If​​parents​​or​​guardians​​do​​not​​want​​their​​student​
+       ​to​​take​​the​​ELPA​​Summative​​Assessment,​​they​​must​​sign​​an​​exemption​​form.​​If​​the​​exemption​
+        ​form is not signed, PPS is required to have the student complete the assessment.​
+
+​Exiting the ELD Program​
+
+​ he​​ELD​​Program​​exit​​criteria​​must​​assess​​whether​​a​​child​​understands​​English​​well​​enough​​to​
+T
+​benefit​ ​from​ ​classes​ ​conducted​ ​in​ ​English.​ ​For​ ​that​ ​reason,​ ​the​ ​exit​ ​criteria​ ​must​ ​be​ ​the​
+ ​student’s​ ​level​ ​of​ ​English​ ​language​ ​proficiency,​ ​rather​ ​than​ ​whether​ ​the​ ​student​ ​meets​ ​state​
+  ​academic​​content​​standards.​ ​Oregon’s​​Department​​of​​Education​​issued​​an​​executive​​numbered​
+   ​memo​ ​(004-2018-19)​ ​stating​ ​the​ ​only​ ​allowable​ ​exit​ ​process​ ​for​ ​ML​ ​students​ ​is​ ​by​ ​scoring​
+    ​“proficient” on the ELPA Summative assessment.​
+
+​ he​ ​annual​ ​ELPA​ ​Summative​ ​assessment​ ​is​ ​conducted​ ​online​ ​through​ ​the​ ​Oregon​ ​Statewide​
+T
+​Assessment​ ​System​ ​(OSAS),​ ​and​ ​test​ ​results​ ​are​ ​automatically​ ​processed​ ​within​ ​OSAS.​
+
+
+
+                                                                                                       ​Page​​21​​of​​27​
+                                  ​Internal Performance Audit Report​
+               ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​ tudents​​who​​achieve​​a​​score​​of​​"Proficient"​​are​​exited​​from​​the​​ELD​​Program​​at​​the​​end​​of​​the​
+S
+​school year.​
+
+​Post-Exit Monitoring​
+
+​ nce​​a​​student​​has​​scored​​“Proficient”​​on​​the​​ELPA​​Summative,​​and​​has​​been​​exited​​from​​the​
+O
+​ELD Program at the end of the school year, the student must be monitored for four years.​
+
+​ uring​​each​​of​​the​​four​​years​​of​​monitoring,​​a​​student’s​​teacher/instructional​​staff​​completes​​the​
+D
+​ELD​ ​Monitored​ ​Student​ ​Review​ ​Form​ ​which​ ​identifies​ ​the​ ​student’s​ ​test​ ​scores,​ ​names​ ​and​
+ ​positions​​of​​PPS​​staff​​involved​​in​​the​​monitoring​​process​​and​​includes​​a​​determination​​of​​one​​of​
+  ​the below options:​
+
+    ​1.​ ​The​ ​student​ ​is​ ​making​ ​satisfactory​ ​academic​ ​progress,​ ​and​ ​should​ ​remain​ ​exited​ ​from​
+           ​the ELD Program, or​
+     ​2.​ ​The​ ​student​ ​appears​ ​to​ ​be​ ​struggling​ ​and​​should​​remain​​exited​​from​​the​​ELD​​Program​
+            ​with additional support, or​
+      ​3.​ ​The​ ​student​ ​appears​ ​to​ ​be​ ​struggling​ ​and​ ​the​ ​school​ ​team​ ​recommends​ ​the​ ​student​
+             ​reinstatement to the ELD Program.​
+
+​ rior​​to​​the​​implementation​​of​​the​​Ellevation​​Tool,​​a​​report​​was​​pulled​​from​​DashBoard​​to​​identify​
+P
+​students​​who​​needed​​to​​be​​monitored​​and​​a​​notice​​was​​sent​​to​​the​​school​​administration​​team,​
+ ​who​ ​then​ ​forwarded​​the​​notice​​to​​the​​student’s​​teacher/instructional​​staff.​ ​When​​the​​Ellevation​
+  ​tool​​was​​introduced​​in​​July​​2023,​​the​​ELD​​Monitor​​Review​​Form​​began​​being​​issued​​through​​the​
+   ​Ellevation​ ​Tool,​ ​and​ ​a​ ​Smartsheet​ ​was​ ​used​ ​to​ ​track​ ​its​ ​completion.​ ​The​ ​Post-Exit​ ​Monitoring​
+    ​consists​ ​of​ ​reviewing​ ​student​ ​academic​ ​progress​ ​in​ ​class(es)​ ​and​ ​can​ ​include​
+     ​teacher/instructional​ ​staff​ ​observations,​ ​work​ ​samples,​ ​grades,​ ​and​ ​state​ ​assessment​ ​data.​
+      ​During​ ​the​ ​four​ ​year​ ​monitoring,​ ​if​ ​a​ ​student​ ​appears​ ​to​ ​be​ ​struggling​ ​due​ ​to​ ​their​ ​language​
+       ​skills, it is possible for the student to be re-entered into the ELD Program with family consent.​
+
+​ he​ ​completed​ ​ELD​ ​Monitored​ ​Student​ ​Review​ ​Form​ ​is​ ​retained​ ​as​ ​evidence​ ​of​ ​the​ ​required​
+T
+​monitoring of ML students who have exited the ELD program.​
+
+​ o​​ensure​​compliance​​with​​the​​annual​​ELPA​​Summative,​​exiting​​the​​ELD​​Program,​​and​​post-exit​
+T
+​monitoring,​ ​staff​ ​within​ ​the​ ​Funded​ ​Program​ ​utilize​ ​Smartsheet​ ​for​ ​tracking​ ​and​ ​sending​
+ ​reminders​ ​to​ ​the​ ​student’s​ ​teacher/instructional​ ​staff​ ​to​ ​remind​ ​them​ ​to​ ​complete​ ​one​ ​of​ ​the​
+  ​requirements.​
+
+I​n​ ​support​ ​of​ ​the​ ​work​ ​of​ ​the​ ​Funded​ ​Programs​​Department​​staff,​​members​​of​​the​​Multilingual​
+ ​Services​ ​team​ ​would​ ​collect​ ​a​ ​list​ ​of​ ​students​ ​for​ ​whom​ ​the​ ​ELPA​ ​Summative​ ​and/or​ ​the​
+  ​post-exit​​monitoring​​was​​not​​completed​​within​​the​​expected​​timeframe​​and​​send​​it​​to​​the​​school​
+   ​administration​​team​​and​​the​​applicable​​Sr.​​Director​​of​​Schools​ ​to​​ask​​for​​support​​in​​getting​​the​
+    ​student’s ELPA Summative and/or post exit monitoring completed.​
+
+​Compliance Requirements​
+
+    ​●​ S    ​ tudents​ ​opted​ ​out​ ​of​ ​the​ ​ELD​ ​Program​ ​are​​required​​to​​participate​​in​​all​​state-required​
+           ​assessments, including the annual ELPA Summative.​
+     ​●​ ​Only​ ​students​ ​who​ ​scored​ ​proficient​ ​on​ ​the​ ​ELPA​ ​Summative​ ​assessment​ ​are​ ​exited​
+            ​from the ELD Program.​
+      ​●​ ​Students who have exited the ELD Program are monitored for four years.​
+
+
+
+                                                                                                            ​Page​​22​​of​​27​
+                                 ​Internal Performance Audit Report​
+              ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​Tests and Results:​
+
+​Annual ELPA Summative​
+
+​ e​​tested​​55​​students​​from​​the​​2023-2024​​school​​year​​to​​determine​​if​​all​​ELD​​program​​eligible​
+W
+​students,​ ​including​ ​those​ ​who​ ​had​ ​opted​​out​​of​​ELD​​services,​​participated​​in​​the​​annual​​ELPA​
+ ​Summative​ ​assessment.​ ​We​ ​noted​ ​there​ ​was​ ​no​ ​evidence​​that​​two​​of​​the​​55​​students​​tested​
+  ​completed the annual ELPA Summative.​
+
+​Exiting the ELD Program​
+
+​ e​​tested​​55​​students​​from​​the​​2023-2024​​school​​year​​to​​determine​​if​​students​​were​​only​​exited​
+W
+​from​​the​​ELD​​Program​​after​​scoring​​proficient​​on​​the​​ELPA​​Summative​​assessment.​ ​We​​noted​
+ ​all​​tested​​students​​were​​only​​exited​​from​​the​​ELD​​Program​​after​​scoring​​proficient​​on​​the​​ELPA​
+  ​Summative.​
+
+​Post-Exit Monitoring​
+
+​ e​​tested​​25​​students​​from​​the​​2023-2024​​school​​year​​to​​determine​​if​​students​​were​​monitored​
+W
+​for​ ​four​ ​years​ ​following​ ​their​ ​exit​ ​from​ ​the​ ​ELD​ ​Program.​ ​We​ ​noted​ ​no​ ​evidence​ ​that​ ​the​
+ ​post-exit monitoring was completed for one or more years for nine of the 25 students tested.​
+
+​ e​ ​noted​ ​the​ ​district’s​​internal​​controls​​to​​ensure​​compliance​​with​​requirements​​for​​the​​annual​
+W
+​ELPA​ ​Summative,​ ​exiting​​the​​ELD​​Program,​​and​​post-exit​​monitoring​​are​​performed​​by​​central​
+ ​administration​ ​staff​ ​within​​the​​Funded​​Programs​​Department.​ ​Execution​​of​​required​​activities​​-​
+  ​including​ ​administering​ ​the​ ​ELPA​ ​Summative,​ ​exiting​ ​the​ ​ELD​ ​Program,​ ​and​ ​completing​ ​the​
+   ​post-exit​ ​monitoring​ ​-​ ​are​ ​the​ ​responsibility​ ​of​ ​the​ ​teachers/instructional​ ​staff​ ​and​ ​school​
+    ​administrators​ ​who​ ​operate​ ​outside​ ​of​ ​Funded​ ​Programs’​ ​supervisory​ ​authority.​ ​As​ ​a​ ​result,​
+     ​Funded​ ​Programs​ ​Department​ ​staff​ ​have​ ​little​ ​or​ ​no​ ​recourse​ ​when​ ​their​ ​reminders​ ​are​ ​not​
+      ​effective​​in​​ensuring​​the​​ELPA​​Summative​​is​​administered​​to​​all​​ELD​​Program​​eligible​​students,​
+       ​exiting the ELD Program, or the ELD Monitored Student Review Form is not completed.​
+
+​ eginning​​the​​2025-2026​​school​​year,​​there​​has​​been​​some​​restructuring​​of​​staff​​responsibilities​
+B
+​within​ ​the​ ​Funded​ ​Programs​ ​team​ ​and​ ​the​ ​Multilingual​ ​Services​ ​team.​ ​Staff​ ​performing​ ​the​
+ ​functions​ ​discussed​ ​in​ ​this​​procedure​​were​​considered​​part​​of​​the​​Funded​​Programs​​team​​and​
+  ​now​ ​are​ ​part​ ​of​ ​the​ ​Multilingual​ ​Services​ ​team.​ ​As​ ​a​ ​result,​ ​when​ ​referring​ ​to​ ​the​ ​testing​
+   ​performed​ ​as​ ​part​ ​of​ ​this​ ​procedure,​ ​there​ ​are​ ​references​ ​to​ ​the​ ​Funded​ ​Programs​ ​team;​
+    ​however,​ ​the​ ​recommendations​ ​are​ ​made​ ​to​ ​the​ ​Multilingual​ ​Services​ ​team​ ​that​ ​will​ ​need​ ​to​
+     ​implement the recommendations in this report to ensure compliance.​
+
+​Recommendations:​
+
+    ​8.​ ​We​ ​recommend​ ​the​ ​Multilingual​ ​Services​​team​​strengthen​​internal​​controls​​designed​​to​
+            ​ensure​ ​compliance​ ​with​ ​the​ ​annual​ ​ELPA​ ​Summative​ ​and​ ​post-exit​ ​monitoring​
+          ​requirements.​
+     ​9.​ ​We​ ​recommend​ ​the​ ​Funded​ ​Programs​ ​Department​ ​staff​ ​collaborate​ ​with​ ​the​ ​Chief​ ​of​
+             ​Schools​ ​to​ ​develop​ ​and​ ​implement​ ​an​ ​accountability​ ​protocol​ ​that​ ​will​ ​support​ ​the​
+              ​Multilingual​​Services​​team​​in​​their​​efforts​​to​​ensure​​the​​ELPA​​Summative​​is​​administered​
+               ​annually​ ​to​ ​all​ ​ELD​ ​Program​ ​eligible​ ​students​ ​and​ ​the​ ​ELD​ ​Monitored​ ​Student​​Review​
+           ​Form is completed.​
+
+
+
+
+                                                                                                       ​Page​​23​​of​​27​
+                                ​Internal Performance Audit Report​
+             ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+​ o​​assist​​the​​Multilingual​​Services​​team​​in​​implementation​​of​​this​​recommendation,​​we​​included​
+T
+​the following action items for consideration:​
+
+    ​●​ W​ hen​ ​the​ ​annual​​ELPA​​Summative​​assessment​​has​​not​​been​​administered​​or​​the​​ELD​
+         ​Monitored​ ​Student​ ​Review​ ​Form​​is​​not​​completed​​within​​the​​required​​timeframe,​ ​notify​
+          ​the​ ​Sr.​ ​Director​ ​of​ ​Schools​ ​and​ ​request​ ​their​ ​support​ ​and​​follow​​up​​with​​the​​schools​​to​
+        ​ensure compliance.​
+
+​Management’s Response to Recommendation 8 and 9:​
+
+
+ ​ ecommendation 8: We agree with the recommendation and will include implementation​
+ R
+ ​actions in our implementation plan presented to the Audit Committee within 90 days. We will​
+  ​work with the Chief of Schools to ensure we have systems of support in place for​
+   ​accountability and follow-through from schools.​
+
+ ​ ecommendation 9: We agree with the recommendation and will include implementation​
+ R
+ ​actions in our implementation plan presented to the Audit Committee within 90 days. We will​
+  ​work with the Chief of Schools to ensure we have systems of support in place for​
+   ​accountability and follow-through from schools.​
+
+
+
+
+                                                                                                      ​Page​​24​​of​​27​
+                   ​Internal Performance Audit Report​
+​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+                             ​Appendix A​
+
+
+
+
+                                                                   ​Page​​25​​of​​27​
+                   ​Internal Performance Audit Report​
+​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+
+
+                                                                   ​Page​​26​​of​​27​
+                                    ​Internal Performance Audit Report​
+                 ​Multilingual Learner / English Language Development - Compliance Audit​
+
+
+                                                     ​Appendix B​
+
+​PPS Board of Education third grade reading goal:​
+
+​ e​​must​​accelerate​​achievement​​for​​students​​of​​color​​in​​order​​to​​eliminate​​persistent​​gaps.​​Our​
+W
+​goal​ ​is​ ​to​ ​close​ ​the​ ​opportunity​ ​and​ ​outcome​ ​gaps​ ​in​​third​​grade​​reading​​between​​students​​of​
+ ​color​ ​and​ ​their​ ​white​ ​peers​ ​by​ ​the​ ​metrics​ ​set​ ​forth,​ ​as​ ​measured​ ​by​ ​the​ ​Oregon​ ​State​
+  ​Assessment System (OSAS)​
+
+    ​​
+    ●        ​ frican - American Students by 5.5 percentage points per year​
+             A
+    ​●​      ​Pacific Islanders by 5.0 percentage points per year​
+     ​●​      ​Native - American Students by 6.1 percentage points per year​
+      ​●​      ​Latino Students by 3.9 percentage points per year​
+       ​●​      ​Asian Students by 2.6 percentage points per year​
+
+​ eading​ ​is​ ​arguably​ ​the​ ​most​ ​important​ ​and​ ​critical​ ​skill​ ​we​ ​teach​ ​in​​school.​​Therefore,​​a​​first​
+R
+​and​​critical​​step​​along​​the​​Graduate​​Portrait​​continuum​​is​​preparing​​all​​students​​to​​read​​to​​learn​
+ ​by the end of Grade 3.​
+
+​ uring​​the​​early​​elementary​​years,​​students​​transition​​from​​learning​​to​​read​​to​​reading​​to​​learn.​
+D
+​They​ ​move​ ​from​ ​learning​ ​alphabetic​ ​principles​ ​and​ ​decoding​ ​site​ ​words​ ​to​ ​making​ ​deep​
+ ​meaning of text to which they are exposed.​
+
+​ oundational​ ​reading​ ​skills​ ​unlock​ ​the​ ​pathways​ ​for​ ​all​ ​the​ ​learning​ ​in​ ​which​ ​students​ ​will​
+F
+​engage​​for​​the​​rest​​of​​their​​lives.​​Disciplinary​​literacy–the​​ability​​to​​read,​​write​​and​​reason​​across​
+ ​a​ ​variety​ ​of​ ​content​ ​areas​ ​such​ ​as​ ​science​ ​and​ ​social​ ​studies–begins​ ​with​ ​the​ ​ability​ ​to​
+  ​independently and fluently read for information with great understanding.​
+
+​ eading​​is​​a​​civil​​right​​and​​it​​is​​our​​responsibility​​to​​ensure​​that​​all​​students​​can​​read.​​The​​data​
+R
+​on​ ​reading​ ​are​ ​clear:​ ​students​ ​who​ ​do​ ​not​ ​read​ ​proficiently​ ​by​ ​3rd​ ​grade​ ​are​ ​four​​times​​more​
+ ​likely to leave high school without a diploma than are proficient readers.​
+
+​We must ensure that all students are reading on grade level by the end of their 3rd grade year.​
+
+
+
+
+                                                                                                       ​Page​​27​​of​​27​
+

@@ -1,0 +1,34 @@
+Purpose:    To document the FY 2027 (school year 2026‐2027) budget request for the Office of Internal Performance Audit (OIPA).
+
+
+                                                   FY 2027 Budget   FY 2026
+  Account                                              Request    Current Year       FY 2025                                   Notes
+     511220 Non‐Represented Staff
+     521000 PERS
+     521310 PERS UAL
+     522000 Social Security ‐ FICA
+                                                                                               To generate the estimated salary budget amount we used the
+     523100 Workers' Compensation
+                                                      417,929.38        394,273        369,682 current year (FY2026) budget and added 6% as an estimated
+     523200 Unemployment Compensation
+                                                                                               increase related to salary costs.
+     524100 Group Health Insurance
+     524200 Other Employer Paid Benefits
+     524300 Retiree Health Insurance
+     524530 Early Retirement Benefits
+
+
+                                                                                                 Professional development training ‐ 40 hours of audit related
+    531800 Local Mtgs/Non‐Instr Staff Dev                   3,996         3,996          3,996
+                                                                                                 training is required for both PPS Internal Auditors anually.
+    534100 Travel, Local In District
+    534200 Travel, Out of District
+                                                                                               Dues and fees for professional audit association memberships:
+    564000 Dues and Fees                                      500           500            500 Association of Local Government Auditors (ALGA) and the Institute
+                                                                                               of Internal Auditors (IIA)
+
+                                                                                           ‐
+                                                      422,425.38        398,769        374,178
+
+                              Estimated increase       23,656.38 Budget increase related to salary costs
+
