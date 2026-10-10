@@ -1,0 +1,626 @@
+school,school_type,metric,value,unit,as_of,source,notes
+ACCESS Academy,2-8,enrollment,324,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Access"
+ACCESS Academy,2-8,functional_capacity,294,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+ACCESS Academy,2-8,utilization,110,percent,2025-26,[BB:3997157 p.1],
+ACCESS Academy,2-8,program_type,Focus Option / Alternative,,2025-26,[BB:3997157 p.1],
+ACCESS Academy,2-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+ACCESS Academy,2-8,region_hs_pattern,Multiple areas (citywide),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Abernethy,K-5,enrollment,269,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Abernethy E.S."
+Abernethy,K-5,functional_capacity,441,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Abernethy,K-5,utilization,61,percent,2025-26,[BB:3997157 p.1],
+Abernethy,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Abernethy,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Abernethy,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Ainsworth,K-5,enrollment,560,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Ainsworth E.S."
+Ainsworth,K-5,functional_capacity,609,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Ainsworth,K-5,utilization,92,percent,2025-26,[BB:3997157 p.1],
+Ainsworth,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Ainsworth,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Ainsworth,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Alameda,K-5,enrollment,513,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Alameda E.S."
+Alameda,K-5,functional_capacity,771,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Alameda,K-5,utilization,67,percent,2025-26,[BB:3997157 p.1],
+Alameda,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Alameda,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Alameda,K-5,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Arleta,K-5,enrollment,230,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Arleta E.S."
+Arleta,K-5,functional_capacity,653,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Arleta,K-5,utilization,35,percent,2025-26,[BB:3997157 p.1],
+Arleta,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Arleta,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Arleta,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Astor,K-8,enrollment,400,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Astor"
+Astor,K-8,functional_capacity,603,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Astor,K-8,utilization,66,percent,2025-26,[BB:3997157 p.1],
+Astor,K-8,program_type,K-8 Neighborhood,,2025-26,[BB:3997157 p.1],
+Astor,K-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Astor,K-8,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Atkinson,K-5,enrollment,366,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Atkinson E.S."
+Atkinson,K-5,functional_capacity,519,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Atkinson,K-5,utilization,71,percent,2025-26,[BB:3997157 p.1],
+Atkinson,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Atkinson,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Atkinson,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Beach,K-5,enrollment,288,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Beach E.S."
+Beach,K-5,functional_capacity,639,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Beach,K-5,utilization,45,percent,2025-26,[BB:3997157 p.1],
+Beach,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Beach,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Beach,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Beaumont MS,MS,enrollment,416,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Beaumont M.S."
+Beaumont MS,MS,functional_capacity,727,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Beaumont MS,MS,utilization,57,percent,2025-26,[BB:3997157 p.1],
+Beaumont MS,MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Beaumont MS,MS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Beaumont MS,MS,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Benson Polytechnic HS,HS,enrollment,1025,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Benson Polytechnic H.S."
+Benson Polytechnic HS,HS,functional_capacity,2346,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Benson Polytechnic HS,HS,utilization,44,percent,2025-26,[BB:3997157 p.1],
+Benson Polytechnic HS,HS,program_type,Focus Option / Alternative,,2025-26,[BB:3997157 p.1],
+Benson Polytechnic HS,HS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Benson Polytechnic HS,HS,region_hs_pattern,Multiple areas (citywide),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Beverly Cleary,K-8,enrollment,480,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Beverly Cleary"
+Beverly Cleary,K-8,functional_capacity,558,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Beverly Cleary,K-8,utilization,86,percent,2025-26,[BB:3997157 p.1],
+Beverly Cleary,K-8,program_type,K-8 Neighborhood,,2025-26,[BB:3997157 p.1],
+Beverly Cleary,K-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Beverly Cleary,K-8,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Boise-Eliot/Humboldt,K-5,enrollment,294,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Boise-Eliot/Humboldt E.S."
+Boise-Eliot/Humboldt,K-5,functional_capacity,632,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Boise-Eliot/Humboldt,K-5,utilization,47,percent,2025-26,[BB:3997157 p.1],
+Boise-Eliot/Humboldt,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Boise-Eliot/Humboldt,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Boise-Eliot/Humboldt,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Bridger Creative Science,K-8,enrollment,446,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Bridger Creative Science School"
+Bridger Creative Science,K-8,functional_capacity,564,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Bridger Creative Science,K-8,utilization,79,percent,2025-26,[BB:3997157 p.1],
+Bridger Creative Science,K-8,program_type,Focus Option / Alternative,,2025-26,[BB:3997157 p.1],
+Bridger Creative Science,K-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Bridger Creative Science,K-8,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Bridlemile,K-5,enrollment,423,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Bridlemile E.S."
+Bridlemile,K-5,functional_capacity,621,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Bridlemile,K-5,utilization,68,percent,2025-26,[BB:3997157 p.1],
+Bridlemile,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Bridlemile,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Bridlemile,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Buckman,K-5,enrollment,283,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Buckman E.S."
+Buckman,K-5,functional_capacity,658,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Buckman,K-5,utilization,43,percent,2025-26,[BB:3997157 p.1],
+Buckman,K-5,program_type,Neighborhood / Focus Option,,2025-26,[BB:3997157 p.1],
+Buckman,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Buckman,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Capitol Hill,K-5,enrollment,325,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Capitol Hill E.S."
+Capitol Hill,K-5,functional_capacity,375,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Capitol Hill,K-5,utilization,87,percent,2025-26,[BB:3997157 p.1],
+Capitol Hill,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Capitol Hill,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Capitol Hill,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Chapman,K-5,enrollment,330,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Chapman E.S."
+Chapman,K-5,functional_capacity,513,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Chapman,K-5,utilization,64,percent,2025-26,[BB:3997157 p.1],
+Chapman,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Chapman,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Chapman,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Chief Joseph,K-5,enrollment,242,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Chief Joseph E.S."
+Chief Joseph,K-5,functional_capacity,444,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Chief Joseph,K-5,utilization,55,percent,2025-26,[BB:3997157 p.1],
+Chief Joseph,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Chief Joseph,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Chief Joseph,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Clark,K-5,enrollment,364,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Clark E.S."
+Clark,K-5,functional_capacity,470,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Clark,K-5,utilization,77,percent,2025-26,[BB:3997157 p.1],
+Clark,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Clark,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Clark,K-5,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Cleveland HS,HS,enrollment,1451,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Cleveland H.S."
+Cleveland HS,HS,functional_capacity,1647,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Cleveland HS,HS,utilization,88,percent,2025-26,[BB:3997157 p.1],
+Cleveland HS,HS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Cleveland HS,HS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Cleveland HS,HS,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Creston,K-5,enrollment,213,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Creston E.S."
+Creston,K-5,functional_capacity,357,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Creston,K-5,utilization,60,percent,2025-26,[BB:3997157 p.1],
+Creston,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Creston,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Creston,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+César Chávez,K-8,enrollment,443,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Cesar Chavez"
+César Chávez,K-8,functional_capacity,589,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+César Chávez,K-8,utilization,75,percent,2025-26,[BB:3997157 p.1],
+César Chávez,K-8,program_type,K-8 Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+César Chávez,K-8,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+César Chávez,K-8,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Dr. Martin Luther King Jr.,K-5,enrollment,319,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Dr. Martin Luther King Jr. E.S."
+Dr. Martin Luther King Jr.,K-5,functional_capacity,618,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Dr. Martin Luther King Jr.,K-5,utilization,52,percent,2025-26,[BB:3997157 p.1],
+Dr. Martin Luther King Jr.,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Dr. Martin Luther King Jr.,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Dr. Martin Luther King Jr.,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Duniway,K-5,enrollment,362,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Duniway E.S."
+Duniway,K-5,functional_capacity,525,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Duniway,K-5,utilization,69,percent,2025-26,[BB:3997157 p.1],
+Duniway,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Duniway,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Duniway,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Faubion,K-8,enrollment,600,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Faubion PK-8"
+Faubion,K-8,functional_capacity,710,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Faubion,K-8,utilization,84,percent,2025-26,[BB:3997157 p.1],
+Faubion,K-8,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Faubion,K-8,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Faubion,K-8,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Forest Park,K-5,enrollment,264,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Forest Park E.S."
+Forest Park,K-5,functional_capacity,519,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Forest Park,K-5,utilization,51,percent,2025-26,[BB:3997157 p.1],
+Forest Park,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Forest Park,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Forest Park,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Franklin HS,HS,enrollment,1780,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Franklin H.S."
+Franklin HS,HS,functional_capacity,1670,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Franklin HS,HS,utilization,107,percent,2025-26,[BB:3997157 p.1],
+Franklin HS,HS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Franklin HS,HS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Franklin HS,HS,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+George MS,MS,enrollment,358,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: George M.S."
+George MS,MS,functional_capacity,623,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+George MS,MS,utilization,57,percent,2025-26,[BB:3997157 p.1],
+George MS,MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+George MS,MS,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+George MS,MS,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Glencoe,K-5,enrollment,339,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Glencoe E.S."
+Glencoe,K-5,functional_capacity,573,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Glencoe,K-5,utilization,59,percent,2025-26,[BB:3997157 p.1],
+Glencoe,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Glencoe,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Glencoe,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Grant HS,HS,enrollment,2074,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Grant H.S."
+Grant HS,HS,functional_capacity,1935,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Grant HS,HS,utilization,107,percent,2025-26,[BB:3997157 p.1],
+Grant HS,HS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Grant HS,HS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Grant HS,HS,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Grout,K-5,enrollment,327,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Grout E.S."
+Grout,K-5,functional_capacity,490,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Grout,K-5,utilization,67,percent,2025-26,[BB:3997157 p.1],
+Grout,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Grout,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Grout,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Harriet Tubman MS,MS,enrollment,402,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Harriet Tubman M.S."
+Harriet Tubman MS,MS,functional_capacity,778,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Harriet Tubman MS,MS,utilization,52,percent,2025-26,[BB:3997157 p.1],
+Harriet Tubman MS,MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Harriet Tubman MS,MS,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Harriet Tubman MS,MS,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Harrison Park MS,MS,enrollment,419,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Harrison Park M.S."
+Harrison Park MS,MS,functional_capacity,902,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Harrison Park MS,MS,utilization,46,percent,2025-26,[BB:3997157 p.1],
+Harrison Park MS,MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Harrison Park MS,MS,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Harrison Park MS,MS,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Hayhurst,K-5,enrollment,290,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Hayhurst E.S."
+Hayhurst,K-5,functional_capacity,525,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Hayhurst,K-5,utilization,55,percent,2025-26,[BB:3997157 p.1],
+Hayhurst,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Hayhurst,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Hayhurst,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Hosford MS,MS,enrollment,528,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Hosford M.S."
+Hosford MS,MS,functional_capacity,711,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Hosford MS,MS,utilization,74,percent,2025-26,[BB:3997157 p.1],
+Hosford MS,MS,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Hosford MS,MS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Hosford MS,MS,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Ida B. Wells HS,HS,enrollment,1574,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Ida B. Wells-Barnett H.S."
+Ida B. Wells HS,HS,functional_capacity,1658,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Ida B. Wells HS,HS,utilization,95,percent,2025-26,[BB:3997157 p.1],
+Ida B. Wells HS,HS,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Ida B. Wells HS,HS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Ida B. Wells HS,HS,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Irvington,K-5,enrollment,259,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Irvington E.S."
+Irvington,K-5,functional_capacity,564,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Irvington,K-5,utilization,46,percent,2025-26,[BB:3997157 p.1],
+Irvington,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Irvington,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Irvington,K-5,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Jackson MS,MS,enrollment,689,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Jackson M.S."
+Jackson MS,MS,functional_capacity,936,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Jackson MS,MS,utilization,74,percent,2025-26,[BB:3997157 p.1],
+Jackson MS,MS,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Jackson MS,MS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Jackson MS,MS,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+James John,K-5,enrollment,365,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: James John E.S."
+James John,K-5,functional_capacity,544,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+James John,K-5,utilization,67,percent,2025-26,[BB:3997157 p.1],
+James John,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+James John,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+James John,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Jefferson HS,HS,enrollment,391,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Jefferson H.S."
+Jefferson HS,HS,functional_capacity,1590,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Jefferson HS,HS,utilization,25,percent,2025-26,[BB:3997157 p.1],
+Jefferson HS,HS,program_type,Focus Option / Alternative,,2025-26,[BB:3997157 p.1],
+Jefferson HS,HS,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Jefferson HS,HS,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Kellogg MS,MS,enrollment,531,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Kellogg M.S."
+Kellogg MS,MS,functional_capacity,746,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Kellogg MS,MS,utilization,71,percent,2025-26,[BB:3997157 p.1],
+Kellogg MS,MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Kellogg MS,MS,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Kellogg MS,MS,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Kelly,K-5,enrollment,411,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Kelly E.S."
+Kelly,K-5,functional_capacity,653,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Kelly,K-5,utilization,63,percent,2025-26,[BB:3997157 p.1],
+Kelly,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Kelly,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Kelly,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Lane MS (renamed Brentwood MS),MS,enrollment,447,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Lane M.S."
+Lane MS (renamed Brentwood MS),MS,functional_capacity,763,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Lane MS (renamed Brentwood MS),MS,utilization,59,percent,2025-26,[BB:3997157 p.1],
+Lane MS (renamed Brentwood MS),MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Lane MS (renamed Brentwood MS),MS,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Lane MS (renamed Brentwood MS),MS,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Laurelhurst,K-8,enrollment,610,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Laurelhurst"
+Laurelhurst,K-8,functional_capacity,657,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Laurelhurst,K-8,utilization,93,percent,2025-26,[BB:3997157 p.1],
+Laurelhurst,K-8,program_type,K-8 Neighborhood,,2025-26,[BB:3997157 p.1],
+Laurelhurst,K-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Laurelhurst,K-8,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+"Lee (Jason Lee; renamed - ""Sunrise"")",K-5,enrollment,251,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Lee E.S."
+"Lee (Jason Lee; renamed - ""Sunrise"")",K-5,functional_capacity,422,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+"Lee (Jason Lee; renamed - ""Sunrise"")",K-5,utilization,60,percent,2025-26,[BB:3997157 p.1],
+"Lee (Jason Lee; renamed - ""Sunrise"")",K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+"Lee (Jason Lee; renamed - ""Sunrise"")",K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+"Lee (Jason Lee; renamed - ""Sunrise"")",K-5,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Lent,K-5,enrollment,256,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Lent E.S."
+Lent,K-5,functional_capacity,798,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Lent,K-5,utilization,32,percent,2025-26,[BB:3997157 p.1],
+Lent,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Lent,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Lent,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Lewis,K-5,enrollment,259,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Lewis E.S."
+Lewis,K-5,functional_capacity,420,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Lewis,K-5,utilization,62,percent,2025-26,[BB:3997157 p.1],
+Lewis,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Lewis,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Lewis,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Lincoln HS,HS,enrollment,1647,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Lincoln H.S."
+Lincoln HS,HS,functional_capacity,1984,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Lincoln HS,HS,utilization,83,percent,2025-26,[BB:3997157 p.1],
+Lincoln HS,HS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Lincoln HS,HS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Lincoln HS,HS,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Llewellyn,K-5,enrollment,345,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Llewellyn E.S."
+Llewellyn,K-5,functional_capacity,507,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Llewellyn,K-5,utilization,68,percent,2025-26,[BB:3997157 p.1],
+Llewellyn,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Llewellyn,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Llewellyn,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Maplewood,K-5,enrollment,287,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Maplewood E.S."
+Maplewood,K-5,functional_capacity,465,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Maplewood,K-5,utilization,62,percent,2025-26,[BB:3997157 p.1],
+Maplewood,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Maplewood,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Maplewood,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Markham,K-5,enrollment,339,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Markham E.S."
+Markham,K-5,functional_capacity,510,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Markham,K-5,utilization,66,percent,2025-26,[BB:3997157 p.1],
+Markham,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Markham,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Markham,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Marysville,K-5,enrollment,307,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Marysville E.S."
+Marysville,K-5,functional_capacity,459,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Marysville,K-5,utilization,67,percent,2025-26,[BB:3997157 p.1],
+Marysville,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Marysville,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Marysville,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+McDaniel HS,HS,enrollment,1629,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Leodis V. McDaniel H.S."
+McDaniel HS,HS,functional_capacity,1735,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+McDaniel HS,HS,utilization,94,percent,2025-26,[BB:3997157 p.1],
+McDaniel HS,HS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+McDaniel HS,HS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+McDaniel HS,HS,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Metropolitan Learning Center (MLC),K-12,enrollment,275,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Metro. Learning Center"
+Metropolitan Learning Center (MLC),K-12,functional_capacity,487,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Metropolitan Learning Center (MLC),K-12,utilization,56,percent,2025-26,[BB:3997157 p.1],
+Metropolitan Learning Center (MLC),K-12,program_type,Focus Option / Alternative,,2025-26,[BB:3997157 p.1],
+Metropolitan Learning Center (MLC),K-12,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Metropolitan Learning Center (MLC),K-12,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Mt. Tabor MS,MS,enrollment,430,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Mt Tabor M.S."
+Mt. Tabor MS,MS,functional_capacity,729,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Mt. Tabor MS,MS,utilization,59,percent,2025-26,[BB:3997157 p.1],
+Mt. Tabor MS,MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Mt. Tabor MS,MS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Mt. Tabor MS,MS,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Ockley Green MS,MS,enrollment,460,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Ockley Green M.S."
+Ockley Green MS,MS,functional_capacity,648,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Ockley Green MS,MS,utilization,71,percent,2025-26,[BB:3997157 p.1],
+Ockley Green MS,MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Ockley Green MS,MS,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Ockley Green MS,MS,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Odyssey,K-8,enrollment,217,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Odyssey Program"
+Odyssey,K-8,functional_capacity,201,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Odyssey,K-8,utilization,108,percent,2025-26,[BB:3997157 p.1],
+Odyssey,K-8,program_type,K-8 Focus Option / Alternative,,2025-26,[BB:3997157 p.1],
+Odyssey,K-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Odyssey,K-8,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Peninsula,K-5,enrollment,239,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Peninsula E.S."
+Peninsula,K-5,functional_capacity,616,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Peninsula,K-5,utilization,39,percent,2025-26,[BB:3997157 p.1],
+Peninsula,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Peninsula,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Peninsula,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Richmond,K-5,enrollment,512,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Richmond E.S."
+Richmond,K-5,functional_capacity,723,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Richmond,K-5,utilization,71,percent,2025-26,[BB:3997157 p.1],
+Richmond,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Richmond,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Richmond,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Rieke,K-5,enrollment,264,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Rieke E.S."
+Rieke,K-5,functional_capacity,465,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Rieke,K-5,utilization,57,percent,2025-26,[BB:3997157 p.1],
+Rieke,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Rieke,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Rieke,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Rigler,K-5,enrollment,289,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Rigler E.S."
+Rigler,K-5,functional_capacity,654,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Rigler,K-5,utilization,44,percent,2025-26,[BB:3997157 p.1],
+Rigler,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Rigler,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Rigler,K-5,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Robert Gray MS,MS,enrollment,432,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Robert Gray M.S."
+Robert Gray MS,MS,functional_capacity,588,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Robert Gray MS,MS,utilization,73,percent,2025-26,[BB:3997157 p.1],
+Robert Gray MS,MS,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Robert Gray MS,MS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Robert Gray MS,MS,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Roosevelt HS,HS,enrollment,1419,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Roosevelt H.S."
+Roosevelt HS,HS,functional_capacity,1404,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Roosevelt HS,HS,utilization,101,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Roosevelt HS,HS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Roosevelt HS,HS,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Roosevelt HS,HS,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Rosa Parks,K-5,enrollment,160,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Rosa Parks E.S."
+Rosa Parks,K-5,functional_capacity,633,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Rosa Parks,K-5,utilization,25,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Rosa Parks,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Rosa Parks,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Rosa Parks,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Rose City Park,K-5,enrollment,417,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Rose City Park E.S."
+Rose City Park,K-5,functional_capacity,609,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Rose City Park,K-5,utilization,68,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Rose City Park,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Rose City Park,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Rose City Park,K-5,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Roseway Heights MS,MS,enrollment,572,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Roseway Heights M.S."
+Roseway Heights MS,MS,functional_capacity,806,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Roseway Heights MS,MS,utilization,71,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Roseway Heights MS,MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Roseway Heights MS,MS,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Roseway Heights MS,MS,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Sabin,K-5,enrollment,269,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Sabin E.S."
+Sabin,K-5,functional_capacity,621,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Sabin,K-5,utilization,43,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Sabin,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Sabin,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Sabin,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Scott,K-5,enrollment,476,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Scott E.S."
+Scott,K-5,functional_capacity,658,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Scott,K-5,utilization,72,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Scott,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Scott,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Scott,K-5,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Sellwood MS,MS,enrollment,564,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Sellwood M.S."
+Sellwood MS,MS,functional_capacity,683,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Sellwood MS,MS,utilization,83,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Sellwood MS,MS,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Sellwood MS,MS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Sellwood MS,MS,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Sitton,K-5,enrollment,345,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Sitton E.S."
+Sitton,K-5,functional_capacity,496,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Sitton,K-5,utilization,70,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Sitton,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Sitton,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Sitton,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Skyline,K-8,enrollment,207,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Skyline"
+Skyline,K-8,functional_capacity,285,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Skyline,K-8,utilization,73,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Skyline,K-8,program_type,K-8 Neighborhood,,2025-26,[BB:3997157 p.1],
+Skyline,K-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Skyline,K-8,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Stephenson,K-5,enrollment,281,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Stephenson E.S."
+Stephenson,K-5,functional_capacity,498,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Stephenson,K-5,utilization,56,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Stephenson,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Stephenson,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Stephenson,K-5,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Sunnyside Environmental,K-8,enrollment,485,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Sunnyside Environmental"
+Sunnyside Environmental,K-8,functional_capacity,546,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Sunnyside Environmental,K-8,utilization,89,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Sunnyside Environmental,K-8,program_type,K-8 Neighborhood / Focus Option,,2025-26,[BB:3997157 p.1],
+Sunnyside Environmental,K-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Sunnyside Environmental,K-8,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Vernon,K-8,enrollment,541,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Vernon"
+Vernon,K-8,functional_capacity,579,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Vernon,K-8,utilization,93,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Vernon,K-8,program_type,K-8 Neighborhood,,2025-26,[BB:3997157 p.1],
+Vernon,K-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Vernon,K-8,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Vestal,K-5,enrollment,283,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Vestal E.S."
+Vestal,K-5,functional_capacity,465,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Vestal,K-5,utilization,61,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Vestal,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Vestal,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Vestal,K-5,region_hs_pattern,Grant/McDaniel (NE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+West Sylvan MS,MS,enrollment,683,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: West Sylvan M.S."
+West Sylvan MS,MS,functional_capacity,987,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+West Sylvan MS,MS,utilization,69,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+West Sylvan MS,MS,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+West Sylvan MS,MS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+West Sylvan MS,MS,region_hs_pattern,Lincoln/Wells (West),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Whitman,K-5,enrollment,194,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Whitman E.S."
+Whitman,K-5,functional_capacity,442,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Whitman,K-5,utilization,44,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Whitman,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Whitman,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Whitman,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Winterhaven,K-8,enrollment,316,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Winterhaven"
+Winterhaven,K-8,functional_capacity,288,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Winterhaven,K-8,utilization,110,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Winterhaven,K-8,program_type,K-8 Focus Option / Alternative,,2025-26,[BB:3997157 p.1],
+Winterhaven,K-8,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Winterhaven,K-8,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Woodlawn,K-5,enrollment,323,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Woodlawn E.S."
+Woodlawn,K-5,functional_capacity,591,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Woodlawn,K-5,utilization,55,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Woodlawn,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Woodlawn,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Woodlawn,K-5,region_hs_pattern,Jefferson/Roosevelt (North),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Woodmere,K-5,enrollment,227,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Woodmere E.S."
+Woodmere,K-5,functional_capacity,490,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Woodmere,K-5,utilization,46,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Woodmere,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
+Woodmere,K-5,title_I,Y,Y/N,2025-26,[BB:3997157 p.1],
+Woodmere,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+Woodstock,K-5,enrollment,367,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Woodstock E.S."
+Woodstock,K-5,functional_capacity,621,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+Woodstock,K-5,utilization,59,percent,2025-26,[BB:3997157 p.1],computed (enrollment/capacity); printed % cut off at page edge
+Woodstock,K-5,program_type,Neighborhood / Immersion,,2025-26,[BB:3997157 p.1],
+Woodstock,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+Woodstock,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
+da Vinci Arts MS,MS,enrollment,429,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: DaVinci Arts M.S."
+da Vinci Arts MS,MS,functional_capacity,717,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
+da Vinci Arts MS,MS,utilization,60,percent,2025-26,[BB:3997157 p.1],
+da Vinci Arts MS,MS,program_type,Focus Option / Alternative,,2025-26,[BB:3997157 p.1],
+da Vinci Arts MS,MS,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
+da Vinci Arts MS,MS,region_hs_pattern,Multiple areas (citywide),,2026-10,[BB:14511742 p.19],"region assignment: inferred, consistent with region counts"
+Rosa Parks,K-5,projected_enrollment,161,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rosa Parks,K-5,average_class_size,23.0,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rosa Parks,K-5,FTE,13.0,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rosa Parks,K-5,student_to_FTE,12.4,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rosa Parks,K-5,general_fund_per_pupil,12869.57,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rosa Parks,K-5,subsidy_received_vs_district_avg,545049.34,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Whitman,K-5,projected_enrollment,196,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Whitman,K-5,average_class_size,21.8,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Whitman,K-5,FTE,15.0,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Whitman,K-5,student_to_FTE,13.1,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Whitman,K-5,general_fund_per_pupil,12204.08,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Whitman,K-5,subsidy_received_vs_district_avg,533103.54,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Creston,K-5,projected_enrollment,198,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Creston,K-5,average_class_size,28.3,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Creston,K-5,FTE,13.0,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Creston,K-5,student_to_FTE,15.3,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Creston,K-5,general_fund_per_pupil,10464.65,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Creston,K-5,subsidy_received_vs_district_avg,194135.21,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rieke,K-5,projected_enrollment,255,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rieke,K-5,average_class_size,23.2,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rieke,K-5,FTE,17.2,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rieke,K-5,student_to_FTE,14.9,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rieke,K-5,general_fund_per_pupil,10760.78,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Rieke,K-5,subsidy_received_vs_district_avg,325537.77,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Beach,K-5,projected_enrollment,286,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Beach,K-5,average_class_size,22.0,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Beach,K-5,FTE,20.0,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Beach,K-5,student_to_FTE,14.3,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Beach,K-5,general_fund_per_pupil,11160.84,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Beach,K-5,subsidy_received_vs_district_avg,479528.64,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Woodstock,K-5,projected_enrollment,351,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Woodstock,K-5,average_class_size,23.4,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Woodstock,K-5,FTE,22.2,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Woodstock,K-5,student_to_FTE,15.8,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Woodstock,K-5,general_fund_per_pupil,10096.87,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Woodstock,K-5,subsidy_received_vs_district_avg,215057.88,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Atkinson,K-5,projected_enrollment,358,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Atkinson,K-5,average_class_size,23.9,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Atkinson,K-5,FTE,22.0,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Atkinson,K-5,student_to_FTE,16.3,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Atkinson,K-5,general_fund_per_pupil,9810.06,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Atkinson,K-5,subsidy_received_vs_district_avg,116668.72,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Kelly,K-5,projected_enrollment,412,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Kelly,K-5,average_class_size,24.2,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Kelly,K-5,FTE,24.6,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Kelly,K-5,student_to_FTE,16.8,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Kelly,K-5,general_fund_per_pupil,9533.98,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Kelly,K-5,subsidy_received_vs_district_avg,20523.78,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Ainsworth,K-5,projected_enrollment,554,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Ainsworth,K-5,average_class_size,25.2,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Ainsworth,K-5,FTE,32.0,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Ainsworth,K-5,student_to_FTE,17.3,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Ainsworth,K-5,general_fund_per_pupil,9227.44,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Ainsworth,K-5,subsidy_received_vs_district_avg,-142227.74,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Richmond,K-5,projected_enrollment,505,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Richmond,K-5,average_class_size,28.1,students,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Richmond,K-5,FTE,26.0,FTE,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Richmond,K-5,student_to_FTE,19.5,ratio,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Richmond,K-5,general_fund_per_pupil,8221.78,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Richmond,K-5,subsidy_received_vs_district_avg,-637503.62,USD,projection (year not stated),[BB:14511742 p.7],"General Fund core staffing formulas only; vs K-12 baseline $9,484.17"
+Grant HS,HS,formula_general_fund_per_pupil,8010.06,USD,2026-27 (not stated),[BB:14511742 p.6],non-equity staffing formulas only
+Jefferson HS,HS,formula_general_fund_per_pupil,13638.41,USD,2026-27 (not stated),[BB:14511742 p.6],"""+70% more per student than Grant"""
+Jefferson HS,HS,enrollment_projection_supt_recommendation,459,students,2024-25 (baseline),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Jefferson HS,HS,enrollment_projection_supt_recommendation,391,students,2025-26,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Jefferson HS,HS,enrollment_projection_supt_recommendation,376,students,2026-27,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Jefferson HS,HS,enrollment_projection_supt_recommendation,552,students,2027-28 (transition begins),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Jefferson HS,HS,enrollment_projection_supt_recommendation,770,students,2028-29,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Jefferson HS,HS,enrollment_projection_supt_recommendation,1001,students,2029-30 (new building opens),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Jefferson HS,HS,enrollment_projection_supt_recommendation,1232,students,2030-31,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Grant HS,HS,enrollment_projection_supt_recommendation,2149,students,2024-25 (baseline),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Grant HS,HS,enrollment_projection_supt_recommendation,2059,students,2025-26,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Grant HS,HS,enrollment_projection_supt_recommendation,1970,students,2026-27,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Grant HS,HS,enrollment_projection_supt_recommendation,1833,students,2027-28 (transition begins),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Grant HS,HS,enrollment_projection_supt_recommendation,1659,students,2028-29,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Grant HS,HS,enrollment_projection_supt_recommendation,1519,students,2029-30 (new building opens),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Grant HS,HS,enrollment_projection_supt_recommendation,1416,students,2030-31,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+McDaniel HS,HS,enrollment_projection_supt_recommendation,1686,students,2024-25 (baseline),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+McDaniel HS,HS,enrollment_projection_supt_recommendation,1651,students,2025-26,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+McDaniel HS,HS,enrollment_projection_supt_recommendation,1639,students,2026-27,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+McDaniel HS,HS,enrollment_projection_supt_recommendation,1605,students,2027-28 (transition begins),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+McDaniel HS,HS,enrollment_projection_supt_recommendation,1595,students,2028-29,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+McDaniel HS,HS,enrollment_projection_supt_recommendation,1559,students,2029-30 (new building opens),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+McDaniel HS,HS,enrollment_projection_supt_recommendation,1524,students,2030-31,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Roosevelt HS,HS,enrollment_projection_supt_recommendation,1452,students,2024-25 (baseline),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Roosevelt HS,HS,enrollment_projection_supt_recommendation,1493,students,2025-26,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Roosevelt HS,HS,enrollment_projection_supt_recommendation,1461,students,2026-27,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Roosevelt HS,HS,enrollment_projection_supt_recommendation,1429,students,2027-28 (transition begins),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Roosevelt HS,HS,enrollment_projection_supt_recommendation,1309,students,2028-29,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Roosevelt HS,HS,enrollment_projection_supt_recommendation,1229,students,2029-30 (new building opens),[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Roosevelt HS,HS,enrollment_projection_supt_recommendation,1153,students,2030-31,[BB:3992589 p.2],Superintendent recommendation (Scenario C) enrollment summary
+Jefferson HS (current),HS,school_capacity,1590,students,2025-12,[BB:3992452 p.1],
+Jefferson HS (modernized),HS,school_capacity,1773,students,2025-12,[BB:3992452 p.1],
+Grant HS,HS,school_capacity,1935,students,2025-12,[BB:3992452 p.1],
+McDaniel HS,HS,school_capacity,1735,students,2025-12,[BB:3992452 p.1],
+Roosevelt HS,HS,school_capacity,1404,students,2025-12,[BB:3992452 p.1],
+Beverly Cleary,K-8,seismic_project,comprehensive campus retrofit (Fernwood),,construction Summer 2027-Summer 2028,[BB:3990267 p.9] [BB:3990267 p.10],2025 Bond; SRGP submitted
+Rose City Park,K-5,seismic_project,comprehensive campus retrofit,,construction Summer 2028-Summer 2029,[BB:3990267 p.9] [BB:3990267 p.11],2025 Bond; SRGP candidate
+Ainsworth,K-5,seismic_project,"targeted retrofit (Bldg B gym, G classrooms)",,Summer 2027 & 2028,[BB:3990267 p.9] [BB:3990267 p.12],2025 Bond; SRGP submitted
+Beach,K-5,seismic_project,targeted retrofit (URM walls at southern stairs),,Summer 2027 & 2028,[BB:3990267 p.9] [BB:3990267 p.13],2025 Bond
+Capitol Hill,K-5,seismic_project,"targeted retrofit (Bldgs A, D, E, F)",,Summer 2027 & 2028,[BB:3990267 p.9] [BB:3990267 p.14],2025 Bond
+Kelly,K-5,seismic_project,targeted retrofit (gym + locker room),,Summer 2027,[BB:3990267 p.9] [BB:3990267 p.15],2025 Bond
+Richmond,K-5,seismic_project,"targeted retrofit (URM basement, stage)",,Summer 2027 & 2028,[BB:3990267 p.9] [BB:3990267 p.16],2025 Bond
+Vernon,K-8,seismic_project,targeted retrofit (east gym wall),,Summer 2026,[BB:3990267 p.9] [BB:3990267 p.17],2020 Bond
+Winterhaven,K-8,seismic_project,targeted retrofit (south/west gym walls),,Summer 2026,[BB:3990267 p.9] [BB:3990267 p.18],2020 Bond
+César Chávez,K-8,seismic_project,roof seismic + bracing at egress,,Summer 2026,[BB:3990267 p.9] [BB:3990267 p.19],2017 Bond
+Vestal,K-5,seismic_project,roof seismic + URM load-bearing retrofit,,Summer 2026,[BB:3990267 p.9] [BB:3990267 p.21],2017 Bond
+Woodmere,K-5,seismic_project,roof seismic + URM at egress,,Summer 2026,[BB:3990267 p.9] [BB:3990267 p.22],2017 Bond
+Marshall campus,site,seismic_project,roof seismic + corridor retrofit,,Summer 2026,[BB:3990267 p.9] [BB:3990267 p.20],2017 Bond
+Beverly Cleary,K-8,seismic_high_risk_recurring_top10,Y,,2026-03-10,[BB:3988546 p.3],appeared in top ten for more than half of tested formulas (Fernwood = Beverly Cleary)
+Glencoe,K-5,seismic_high_risk_recurring_top10,Y,,2026-03-10,[BB:3988546 p.3],appeared in top ten for more than half of tested formulas (Fernwood = Beverly Cleary)
+Grout,K-5,seismic_high_risk_recurring_top10,Y,,2026-03-10,[BB:3988546 p.3],appeared in top ten for more than half of tested formulas (Fernwood = Beverly Cleary)
+Jackson MS,MS,seismic_high_risk_recurring_top10,Y,,2026-03-10,[BB:3988546 p.3],appeared in top ten for more than half of tested formulas (Fernwood = Beverly Cleary)
+Kelly,K-5,seismic_high_risk_recurring_top10,Y,,2026-03-10,[BB:3988546 p.3],appeared in top ten for more than half of tested formulas (Fernwood = Beverly Cleary)
+Rose City Park,K-5,seismic_high_risk_recurring_top10,Y,,2026-03-10,[BB:3988546 p.3],appeared in top ten for more than half of tested formulas (Fernwood = Beverly Cleary)
+Roseway Heights MS,MS,seismic_high_risk_recurring_top10,Y,,2026-03-10,[BB:3988546 p.3],appeared in top ten for more than half of tested formulas (Fernwood = Beverly Cleary)
+East Sylvan (site),,functional_capacity_statement,<360,students,2026-09,[BB:14493920 p.32],K-8/other-configuration site with functional capacity below 360
+Skyline,,functional_capacity_statement,<360,students,2026-09,[BB:14493920 p.32],functional capacity below 360
+Winterhaven,,functional_capacity_statement,<360,students,2026-09,[BB:14493920 p.32],functional capacity below 360
+Terwilliger (site),,functional_capacity_statement,<360,students,2026-09,[BB:14493920 p.32],functional capacity below 360
+Sunnyside Environmental,,functional_capacity_statement,~490,students,2026-09,[BB:14493920 p.32],"""just below 500 around 490"" (map table shows 546)"
+Robert Gray MS,,functional_capacity_statement,588,students,2026-09,[BB:14493920 p.32],smallest MS functional capacity
+George MS,,functional_capacity_statement,623,students,2026-09,[BB:14493920 p.32],second smallest MS
+Lewis,K-5,SEGC_projected_2025_26_enrollment_before_after_boundary_change,358 -> 281,students,2025-26 forecast (2022 plan),[BB:3997428 p.66],utilization 80.6% -> 63.3%; east part of Lewis area reassigned to Whitman
+Marysville,K-5,SEGC_enrollment_forecast,248 (2021-22); 246 -> 281 (2025-26 forecast before/after),students,2022 plan,[BB:3997428 p.48],boundary changes expected to impact 26 students
+Metropolitan Learning Center (MLC),K-12,MLC_9_12_enrollment,40,students,2025-26,[BB:3996961 p.13],"per-student cost $28,120 vs PPS 9-12 $8,729; projected savings from discontinuing HS grades $1.1M"
+Metropolitan Learning Center (MLC),K-12,MLC_9_12_projected_enrollment,38,students,projection,[BB:3996961 p.11],
+Kelly,K-5,nonresident_students,98,students,2024-25,[BB:3990672 p.3],69% of Russian Immersion program
+McDaniel HS,HS,nonresident_students,85,students,2024-25,[BB:3990672 p.3],5%
+Franklin HS,HS,nonresident_students,47,students,2024-25,[BB:3990672 p.3],3%
+Benson Polytechnic HS,HS,nonresident_students,54,students,2024-25,[BB:3990672 p.3],5%
+Lincoln HS,HS,nonresident_students,39,students,2024-25,[BB:3990672 p.3],2%
+Roseway Heights MS,MS,nonresident_students,33,students,2024-25,[BB:3990672 p.3],6%
+Rose City Park,K-5,nonresident_students,36,students,2024-25,[BB:3990672 p.3],17% of Vietnamese Immersion program
