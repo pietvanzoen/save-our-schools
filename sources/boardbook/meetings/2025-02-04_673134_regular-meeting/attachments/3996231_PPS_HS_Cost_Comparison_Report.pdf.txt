@@ -1,0 +1,1398 @@
+Portland Public Schools
+Attn: Dan Jung – Chief Operations Officer
+501 North Dixon St
+Portland, OR, 97227
+
+Re: PPS High School Cost Comparison
+
+Cornerstone Management Group (CMG) was tasked to review the current Portland Public
+Schools (PPS) High School Modernization projects that are in the process of Schematic
+Designs. These projects are the Cleveland High School (CHS project), the Jefferson High
+School (JHS) project, and the Ida B. Wells (IBW) project.
+
+As part of the review, CMG has reviewed documents provided by PPS, and compared these
+projects to the completed Lincoln High School (LHS) project, and also the Beaverton High
+School (BHS) project which is currently under construction.
+
+The CMG scope of work for this High School Cost Analysis is listed below:
+
+       1.     Receive and review PPS cost estimates and project information for:
+
+              a.     PPS Lincoln High School Modernization Project
+              b.     PPS Jefferson High School Modernization Project
+              c.     PPS Cleveland High School Modernization Project
+              d.     PPS Ida B. Wells High School Modernization Project
+              e.     Peer District High School Modernization Project
+                     I.     Beaverton High School Modernization Project
+
+       2.      Provide Deliverable including a summary of document and cost reviews,
+       interviews, conclusions, and recommendations regarding total Project Costs per PPS
+       Scope of work dated 9/9/24. Deliverable to include:
+
+              a.     Analysis of Project variables including building size (SF), project scope of
+              work, date of completion (and assumed escalation factor), temp housing or
+              classroom requirements, design standards, and other relevant factors
+              b.     Projects Hard Costs comparison
+              c.     Projects Soft Costs comparison and analysis
+              d.     Review of Market Conditions
+              e.     Review of PPS Budget Control measures
+              f.     Review of PPS Construction and Contract Administration processes
+
+CMG attended the following meetings to gather information and understand project details:
+
+       -      Initial scope review meeting with PPS held September 6, 2024
+       -      PPS staff discussion meeting October 24, 2024
+       -      Skanska meeting to discuss BHS and CHS November 21, 2024
+
+                              Cornerstone Management Group, Inc.
+       -        PPS and CHS team meetings November 22, 2024
+       -        PPS and JHS team meeting December 5, 2024
+       -        PPS team, Hoffman and Bora team meeting December 13, 2024
+       -        PPS team meeting to review updated HS cost summary December 16, 2024
+
+The following documents were received and reviewed by CMG:
+
+       -        Beaverton HS 50% CD cost estimate from Skanska dtd 10/17/24
+       -        Lincoln HS Final Pay Application #56 dtd 6/30/24
+       -        Cleveland HS 75% SD cost estimate from Skanska dtd 11/4/24
+       -        Cleveland HS 75% SD (post VE) cost estimate from Skanska dtd 11/15/24
+       -        Jefferson HS 50% SD cost estimate from Anderson Construction dtd 11/15/24
+       -        IDA B Wells 50% SD cost estimate from KJF Studio dtd 9/6/24
+       -        IDA B Wells 100% SD cost estimate from Hoffman dtd 11/18/24
+
+
+Introduction:
+
+
+After reviewing all as-built costs and cost estimates provided, and attending project team
+meetings, Cornerstone has identified the following areas that help to explain the difference
+between PPS project costs, and Beaverton HS project costs. PPS could decide to investigate
+some of these topics further to identify opportunities for scope change, scope reduction, and
+overall potential project cost reductions.
+
+
+The costs for the all projects are intended to be an analysis of the relative costs between
+High School projects and NOT a prediction of the actual final cost of any individual
+project. Major variables such as site conditions, construction / bid market conditions, and
+design changes will impact the actual final completed costs of the projects. Cornerstone has
+performed a General HS Cost Comparison based on the information provided, as to help
+Portland Public Schools determine areas for cost savings, and to also understand where
+differences in costs may be in relation to other projects.
+
+
+
+
+_______________
+
+John Abel
+
+Partner - CMG
+
+
+
+
+                              Cornerstone Management Group, Inc.
+                                                        High School Cost Comparison
+                                                        Scope Clarifications
+
+ 1   School                                              New Beaverton HS         New Lincoln HS       New Cleveland HS        New Jefferson HS      New Ida B. Wells HS
+ 2   Construction Phase                                  Under Construction        Complete 2022            start 2025             start 2025             start 2025
+ 3   Architect                                            BRIC Architecture             BORA                 Mahlum               BORA+Lever                BORA
+ 4   Contractor                                                 Skanska               Hoffman                Skanska                Andersen               Hoffman
+ 5   Basis of cost data                                         50% CD                   Final           75% SD Post VE             100% SD                100% SD
+ 6   Site Size                                                 47 acres                11 acres        2 sites (4 acres ea)        13.5 acres              35 acres
+ 7   Building sqft                                             300,978                295,489                316,000                322,451                324,593
+ 8   Students Served                                             1,500                  1,700                 1,700                  1,700                  1,700
+ 9   Teaching Stations                                            85                      83                    82                     73                     81
+10   Building Construction Cost of Work(COW)             $       152,112,133    $       138,233,708 $          253,814,338    $       248,551,562    $       227,268,254
+11   COW / sqft (Line 8/Line 7)                          $                505   $                468 $                  803   $                771   $               700
+12   Site Improvements Construction Costs                $         24,312,037   $         15,811,463 $            9,520,034   $        13,664,157    $        25,140,239
+13   Off-Site Improvements Construction Costs                       unknown                 unknown     mimimal required      $          3,562,077              unknown
+14                          subtotal COW, Site, Off-Site $       176,424,170    $       154,045,171 $          263,334,372    $       265,777,796    $       252,408,493
+15   GMP Contingency                                       included in COW        included in COW       included in COW         included in COW        included in COW
+16   GMP Escalation                                      $          2,734,680         not applicable $           22,780,277   $        31,909,455    $        32,154,276
+17                              subtotal Contingencies $            2,734,680   $                   - $          22,780,277   $        31,909,455    $        32,154,276
+
+18   Contractor/Trade Pre-Construction Fee             $           824,598      $         1,480,574   $         3,972,510     $          7,762,264   $           956,370
+19   Contractor General Conditions                     $        13,726,760      $       24,983,509    $        42,528,185     $        56,369,272    $       44,053,141
+20   Contractor Bond and Insurance                     $        10,785,230      $         2,780,521   $         7,575,937     $        11,540,331    $         9,078,751
+21   Contractor Fee                                    included above           $         5,745,875   $        10,983,915     $        13,999,207    $       10,782,130
+22                                            subtotal $        25,336,588      $       34,990,479    $        65,060,547     $        89,671,074    $       64,870,392
+23   Building Demo and Abatement                       $         7,439,130      $         2,338,689   $         6,776,022     $        15,390,411    $         7,330,008
+24   Building Deconstruction Premium                   not applicable                   N/A             Included above          Included above         Included above
+25   Site Athletic / Facilities Estimate               $         2,906,833      $         3,900,546   $        15,785,970     $        15,000,000    $       15,034,404
+26   Classroom Portables during construction           $         1,517,966              N/A                   N/A                  not applicable         not applicable
+27   FFE                                                     not included              not included          not included             not included          not included
+28   Green Energy 1.5% of PROJECT COSTS                    Not In Contract      $         3,000,000   $         5,749,806           included         $         5,576,964
+29   METRO SHS Tax                                               unknown                  unknown     $         3,833,208           included                    included
+30                            TOTAL CONSTRUCTION COST $      216,359,367        $      198,274,885    $      383,320,202      $       417,748,736    $      377,374,537
+31
+32   Scope Clarifications
+33   Basement Construction                                      N/A                      N/A           Est $6.5M premium        N/A       Est $3M premium
+34   Site Logistics Premium                                  Baseline $                  Yes          Est $29.5M premium Est $5M premium Est $5.3M premium
+35   Building Structure Type                                    Steel                   Steel              Mass Timber     Mass Timber       Mass Timber
+36   Building Structure Premium (Mass Timber)                Baseline $             Not in Project     Est $5.6M premium  $3M reduction  Est $6.2M premium
+37   Risk Category Level Design                                 Cat 4                   Cat 4                  Cat 4            Cat 4            Cat 4
+38   Sustainability Design and Goals (Electric Bldg)        Gas & Electric          Gas & Electric     Est $10M premium Est $10M premium Est $10M premium
+39   LEED Gold 1.5%                                              NO                      YES                    YES              YES              YES
+40   Diversity Goals                                         Baseline $                  Yes            Est $8M premium  Est $8M premium  Est $8M premium
+41   Health Center                                            Excluded                Excluded               Included         Included   Est $2M additional
+42   Teen Parent Center                                       Excluded                Included               Included         Included         Included
+43   Schedule Duration                                       43 months               36 months              33 months        42 months        36 months
+44   METRO SHS Tax                                          Not Included              Included               Included         Included         Included
+45   Kitchen / Servery                                      Not in Scope              Included               Included         Included         Included
+46   Kitchen / Servery                                      Not in Scope              Included          $3M est premium  $3M est premium  $3M est premium
+                                                        High School Cost Comparison                                         0
+                                                        BHS & LHS - Costs Escalated for Comparison
+
+ 1   School                                              New Beaverton HS         New Lincoln HS       New Cleveland HS           New Jefferson HS       New Ida B. Wells HS
+ 2   Construction Phase                                  Under Construction        Complete 2022             start 2025               start 2025              start 2025
+ 3   Architect                                            BRIC Architecture             BORA                  Mahlum                 BORA+Lever                 BORA
+ 4   Contractor                                                 Skanska               Hoffman                 Skanska                  Andersen                Hoffman
+ 5   Basis of cost data                                         50% CD                   Final            75% SD Post VE               100% SD                 100% SD
+ 6   Site Size                                                 47 acres                11 acres         2 sites (4 acres ea)          13.5 acres               35 acres
+ 7   Building sqft                                             300,978                295,489                 316,000                  322,451                 324,593
+ 8   Students Served                                             1,500                  1,700                  1,700                    1,700                   1,700
+ 9   Teaching Stations                                            85                      83                     82                       73                      81
+10   Building Construction Cost of Work(COW)             $       152,112,133    $       138,233,708 $            253,814,338    $         248,551,562    $       227,268,254
+11   COW / sqft (Line 8/Line 7)                          $                505   $                478 $                    812   $                  771   $                700
+12   Site Improvements Construction Costs                $         24,312,037   $         15,811,463 $              9,520,034   $          13,664,157    $         25,140,239
+13   Off-Site Improvements Construction Costs                       unknown                 unknown       mimimal required      $            3,562,077              unknown
+14                          subtotal COW, Site, Off-Site $       176,424,170    $       154,045,171 $            263,334,372    $         265,777,796    $       252,408,493
+15   GMP Contingency                                       included in COW        included in COW        included in COW           included in COW         included in COW
+16   GMP Escalation                                      $          2,734,680         not applicable $            22,780,277    $          31,909,455    $         32,154,276
+17                              subtotal Contingencies $            2,734,680   $                   - $           22,780,277    $          31,909,455    $         32,154,276
+
+18   Contractor/Trade Pre-Construction Fee             $           824,598      $         1,480,574   $         3,972,510       $          7,762,264     $            956,370
+19   Contractor General Conditions                     $        13,726,760      $       24,983,509    $        42,528,185       $         56,369,272     $        44,053,141
+20   Contractor Bond and Insurance                     $        10,785,230      $         2,780,521   $         7,575,937       $         11,540,331     $         9,078,751
+21   Contractor Fee                                    included above           $         5,745,875   $        10,983,915       $         13,999,207     $        10,782,130
+22                                            subtotal $        25,336,588      $       34,990,479    $        65,060,547       $         89,671,074     $        64,870,392
+23   Building Demo and Abatement                       $         7,439,130      $         2,338,689   $         6,776,022       $         15,390,411     $         7,330,008
+24   Building Deconstruction Premium                   not applicable                   N/A             Included above            Included above           Included above
+25   Site Athletic / Facilities Estimate               $         2,906,833      $         3,900,546   $        15,785,970       $         15,000,000     $        15,034,404
+26   Classroom Portables during construction           $         1,517,966              N/A                   N/A                     not applicable          not applicable
+27   FFE                                                     not included              not included          not included                not included            not included
+28   Green Energy 1.5% of PROJECT COSTS                    Not In Contract      $         3,000,000   $         5,749,806             included           $         5,576,964
+29   METRO SHS Tax                                               unknown                  unknown     $         3,833,208             included                       included
+30                            TOTAL CONSTRUCTION COST $      216,359,367        $      198,274,885    $       383,320,202       $       417,748,736      $      377,374,537
+31
+32   Cost Escalation Summary
+33   Bid Date                                                 June 2024              June 2019             June 2027 (est)          June 2027 (est)     June 2027 (est)
+34   Estimated Escalation % per Year                             5%                     5%             In estimate by CMGC      In estimate by CMGC In estimate by CMGC
+35   Escalate BHS and LHS to June 2027 for comparison
+36   Escalated Total Construction Costs               $         250,463,012 $          292,942,308 $           383,320,202 $            417,748,736 $           377,374,537
+37   Building sqft                                                  300,978                295,489                 316,000                  322,451                 324,593
+38   Construction $ / SF (Escalated to June 2027)     $              832.16 $               991.38 $              1,213.04 $               1,295.54 $              1,162.61
+39
+40
+Additional information regarding HS Cost Comparison Summary:
+
+
+The HS Cost Comparison Summary is meant to provide a side-by-side comparison of the
+current PPS Projects in design (CHS, JHS and IBW), one completed PPS project (LHS) and
+another district’s HS project in construction (BHS). Lines 1-9 include project specific information
+that is helpful when comparing the projects to each other. Lines 10-30 include project cost
+information that has been gathered and organized in a way to attempt to compare the projects
+to each other. Note that these are not meant to be exact comparisons, but rather estimated
+comparisons based on review of the cost estimates and as-built cost reports that were provided
+for review.
+
+
+Scope clarifications have been listed as well, with green or red cell coloring to assist with
+comparing and analyzing the projects. Green depicts that this is a comparable cost between the
+projects, and Red depicts that this is a cost premium for this project. Notes or costs have been
+included in these cells to draw attention to a project specific item. Again, the costs listed in these
+cells are estimated costs based on our review of the information provided.
+
+
+HS Cost Comparison Summary notes, conclusions and recommendations:
+
+
+Below are notes and additional information to support the HS Cost Comparison Summary.
+Conclusions and/or recommendations have been provided for some items to assist PPS in their
+review and confirmation of what the next steps may be to move forward with possible changes.
+
+
+   1. Building Size
+          a. The BHS and LHS projects are both close to 300,000sf
+          b. The current PPS high school projects average 320,000sf
+          c. The increase in SF is due to updated PPS standards
+          d. This addition SF accounts for approximately $24M of additional Project Costs
+              based on the escalated project $/SF amount.
+          e. Conclusion / Recommendation: We recommend that PPS revisit their standards
+              that led to the design increase in size of the new buildings. This is a large
+              increase in cost, so any area reduction would result in overall savings on the
+              projects.
+
+
+   2. Pre-Construction Services – Construction Management/General Contractor (CM/GC) and
+       Subcontractors
+          a. PPS projects include additional pre-construction scope of work that is beyond
+             what is included on the BHS project.
+          b. Those additional pre-construction efforts are valued at between $1.5M - $6.5M
+             depending on the project.
+
+                                Cornerstone Management Group, Inc.
+       c. It is difficult to identify potential savings that could be realized as a result of
+          added the PPS pre-construction work with the CM/GC and Subcontractors.
+       d. Conclusion / Recommendation: It is recommended that PPS review the pre-
+          construction requirements included in the CM/GC contracts to confirm that
+          overall value is being realized for the efforts of the contractors. We agree that
+          pre-construction work is beneficial, so the key is to confirm that the current effort
+          included in the estimates is what PPS wants completed.
+
+
+3. GMP (Guaranteed Max Price) Escalation
+     a. The Current PPS projects (CHS, JHS and IBW) include an estimated amount of
+        escalation dollars. This is included in the cost estimates in an attempt to predict
+        and account for inflation and cost increases that could occur between the time
+        that the cost estimate was completed and the future time when the project will
+        actually be bid out when the Bid Documents (drawings and specifications) are
+        completed.
+     b. For the LHS project, there is no escalation included as the project is complete.
+     c. On the BHS project, some escalation has been included in the GMP for the
+        Contractor, but this amount is much less than the PPS projects since bidding has
+        been completed on the project.
+     d. A second overall Cost Summary page has been added in an attempt to make the
+        bottom-line costs more comparable to each other. Escalation of the completed
+        LHS project and current BHS project has been estimated to mid-2027. This is the
+        time to which the current PPS cost estimates for CHS, JHS and IBW have been
+        escalated to.
+     e. Conclusion / Recommendation: The amount included in the current PPS projects
+        is an estimate and place holder at this time. The actual costs will be realized
+        when those projects are completed and bid out to subcontractors. PPS should
+        continue to review these costs in future estimates (DD and 50% CD estimates),
+        and as the time between the estimates and bid dates is reduced, the escalation
+        estimate amount should be reduced accordingly.
+
+
+4. CM/GC General Conditions (GC’s)
+     a. When comparing the projects, the General Conditions on the current PPS
+        projects are substantially higher than the GC’s on the BHS project.
+     b. If PPS can reduce costs by other means which are mentioned in this report, the
+        CM/GC General Conditions, and other contract markups (Fee, Bond, Insurance)
+        should also be reduced as well.
+     c. Conclusion / Recommendation: We recommend that PPS review the General
+        Conditions for each current cost estimate, and work with the CM/GC contractors
+        to find options and ways to reduce these costs. This could possibly include a
+        change in the PPS requirements listed in the CM/GC contracts, and the way
+        projects are managed including the project management software and systems
+        that PPS requires their teams to use.
+
+
+                           Cornerstone Management Group, Inc.
+5. Basement Construction
+      a. In general, Basement Construction work is a premium compared to above grade
+         construction work due to the need for additional excavation, foundations,
+         dewatering, and shoring walls to facilitate the work.
+      b. The Cleveland High School project includes significant basement construction
+         work. This is due to the site constraints at CHS, and building height restrictions
+         required to meet building code. This accounts for additional project construction
+         costs of approximately $6.5 million dollars.
+      c. Ida B Wells also includes some basement construction work as well. There is
+         about 37k SF of basement work, which accounts to an estimated premium
+         amount of $3.0 million dollars.
+      d. Conclusion / Recommendation: This is a site specific and code related item that
+         most likely can’t be changed or value engineered to reduce costs.
+
+
+6. Site Logistics Premiums
+       a. In general, Site Logistics costs are due to the general nature of the existing site
+          size, site constraints, or the site conditions that make it more difficult to complete
+          the work compared to a standard construction site. We have attempted to identify
+          unique site conditions that account for additional costs on the projects being
+          compared.
+       b. When comparing the various high school sites, it was clear that the Cleveland HS
+          project site includes some challenging site constraints. The small size of the site
+          (4 acres for the main HS building site), and its being surrounded by existing city
+          streets on all sides makes construction a challenge. Other factors also are
+          included in the site logistics premium as well, including trade parking and
+          contractor laydown areas.
+       c. There are some site logistics premiums that have been identified for the Ida B
+          Wells project as well. Those items include additional dewatering required,
+          temporary shoring, work for the Pool support building, and pedestrian flagging
+          and temporary barriers.
+       d. Conclusion / Recommendation: Site Logistics premiums are costs that are
+          inherent to a given project due to its location, and most likely cannot be reduced
+          via the Value Engineering process.
+
+
+7. Building Structure Type
+       a. The type of building structure can add overall costs to a construction project, and
+          there are options available to Owners and Design Teams when designing a new
+          building, or building addition.
+       b. Beaverton High School has been designed based on Structural Steel
+          Construction for the majority of the building systems, along with Concrete Tilt Up
+          construction for some large areas such as the Gymnasium for efficiency.
+
+
+                            Cornerstone Management Group, Inc.
+        c. Portland Public Schools has set a standard of using Mass Timber construction. It
+           is composed of multiple solid wood panels nailed or glued together, which
+           provide strength and stability. It's a low-carbon alternative to concrete and steel.
+           Mass Timber construction often also comes with a cost premium compared to
+           traditional steel construction.
+        d. The CHS project team has identified a premium of $5.6M, and the IBW project
+           team has identified a premium of $6.2M for the Mass Timber option.
+        e. The JHS project team has estimated a cost savings of $3M due to the savings in
+           time on the construction schedule of about 30 months for designing the building
+           with a Mass Timber structure.
+        f. Conclusion / Recommendation: This is an area we feel that PPS can consider
+           Value Engineering or design changes to reduce overall project costs. This would
+           require additional work by the PPS project teams to identify and confirm the
+           scope and potential savings.
+
+
+8.   Risk Category Level Design
+        a. All of the HS projects that we compared included a Risk Category 4 structure. It
+           was difficult to compare cost differences due to the Risk Category design and
+           construction, so for this analysis we did not identify any cost differences due to
+           this factor.
+        b. Conclusion / Recommendation: We do not feel this is a major difference between
+           the projects being compared.
+
+
+9. Sustainability Design and Goals / LEED Gold Design
+      a. When designing a building, the Owner has the option to either meet or exceed
+          the Building Codes and their requirements for Mechanical, Electrical and
+          Plumbing (MEP) Systems.
+      b. The Beaverton HS project includes MEP systems that meet Code at a minimum,
+          and are more traditional with a combination of Gas and Electric designs.
+      c. Portland Public Schools has identified this area as a priority and set standards
+          that exceed Building Code requirements in an effort to Design and Build buildings
+          that are sustainable, resilient, healthy, and efficient. All bond modernization
+          projects will be LEED Gold certified according to PPS.
+      d. With input from the project teams, this cost premium has been estimated to be
+          $10M per project for the current PPS High School projects being designed.
+      e. Conclusion / Recommendation: Designing the projects to a LEED Gold level is a
+          cost premium above what is required by Building Code. PPS could possibly
+          adjust its design standard and goals for the projects to realize cost savings.
+          Additional work by the PPS project teams would be needed to identify and
+          confirm the scope change and potential overall cost savings for the projects.
+
+
+
+
+                            Cornerstone Management Group, Inc.
+10. Energy Use Index (EUI)
+       a. We were not able to identify cost differences between the projects based on this
+          factor.
+
+
+11. Diversity Goals
+       a. When putting a project out to bid, or working with a CM/GC Contractor, the
+            Owner has options when establishing goals or requirements for Diversity on the
+            project, and among the Contractors and Subcontractors, etc.
+       b. PPS has established Diversity Goals that are to be met and included by the
+            CM/GC Contractor and their Subcontractors per contract
+       c. While comparing the projects, this was an area that we found costs to be higher
+            at PPS compared to the BHS project, due to the specific standards and goals
+            that are set for the PPS projects and teams.
+       d. The cost estimated premium for the PPS goals is $8M per HS project.
+       e. PPS could review these requirements with the specific project teams to help
+            identify actual savings amounts by project based on adjusting the Goals if so
+            desired.
+       f. Conclusion / Recommendation: The current standard and goal for the PPS
+            projects Diversity Goals is a cost premium compared to the BHS project. PPS
+            could adjust its standard and goals for the projects to realize cost savings.
+            Additional work by the PPS project teams would be needed to identify and
+            confirm the scope change and potential overall cost savings for the projects.
+
+
+12. Health Center, Teen Parent Center
+       a. On the HS Comparison Summary matrix, we have listed these items to inform
+           whether the project included these areas to help understand difference between
+           the scopes of work
+
+
+13. Project Schedule
+       a. The overall project schedule construction duration has been listed on the HS
+            Comparison Summary in order to understand what the listed project costs are
+            based on.
+       b. Each individual project team can review their project schedule, and determine if
+            there are options to reduce or adjust the schedule to realize cost savings.
+       c. On the CHS project, the project schedule was adjusted from 2 years to roughly 3
+            years of construction, and with that change an approximate savings of $53M was
+            realized. This savings has already been updated on the attached HS Cost
+            Comparison Summary.
+       d. Conclusion / Recommendation: PPS could review all project schedules to
+            confirm with the CM/GC contractors if adjustments to overall timelines could
+            reduce the estimated cost of the projects, similar to what the project team did on
+
+
+                           Cornerstone Management Group, Inc.
+               the CHS project. This would need to be weighed against the impacts that any
+               schedule changes would have on the district as a whole.
+
+
+   14. Metro SHS Tax (Supportive Housing Services)
+          a. Current estimates on the PPS HS projects include the SHS tax.
+          b. This is an amount of approximately $3.8M for each current PPS project.
+          c. We have not done a complete tax analysis to compare the BHS and PPS
+              projects, but it does appear that this is a Premium cost associated with doing
+              work in the Metro area.
+          d. This cost is listed only for informational purposes while comparing projects.
+
+
+   15. Kitchen / Servery
+           a. The BHS project did not include a Kitchen / Servery as part of the scope of work.
+           b. This component of the project was completed in a previous area of the school on
+              a previous project, so it is not included in the BHS Total Construction Cost.
+           c. The PPS projects all include the Kitchen / Servery as part of their scope of work.
+           d. This cost is listed as to identify costs included in the PPS Total Construction
+              Costs.
+
+Market Conditions:
+
+
+The past 5 years have been volatile in the Construction Market. Escalation of Construction
+Prices has ranged from a low of 3% per year (2020), to a high of 17% per year (2021). The
+average escalation over that time has been approximately 8% per year.
+
+Based on recent projects and bid results, we have seen increased competition and number of
+bids received. Contractors are eager to find work, and have less backlog of work on their books.
+PPS should continue to work with the CM/GC contractors to monitor and adjust the estimated
+escalation factors and dollar amounts in their estimates.
+
+Some options to control costs are:
+
+                   -   Pre-purchase materials when possible
+                   -   Pre-purchase of equipment when possible
+                   -   Utilize trade partners for scopes that are beneficial to PPS
+
+The trade partner process can be beneficial to gain contractor assistance during the design
+phase, improve design coordination, research existing conditions, pre-purchase long lead
+materials / equipment, and guarantee project labor forces for key trades. In some cases, we
+have found that utilizing the traditional design / bid / build (DBB) process can result in lower
+prices and be the best option for the Owner. We would recommend that each Trade Partner
+option being considered is weighed closely against the DBB process.
+
+
+                                Cornerstone Management Group, Inc.
+Final Notes and Summary:
+
+
+
+In our review and comparison of the projects, CMG feels there are areas that Portland Public
+Schools could benefit from additional review and Value Engineering to reduce overall project
+costs. In some cases, PPS would need to adjust goals and standards that have been put in
+place in order to realize the cost savings. There are policies, procedures, and standards that
+PPS has put into place over time that contribute to the higher prices for work on your projects.
+
+One advantage we have found in the CM/GC process is that contractors are typically willing to
+work with the school district and project teams to identify areas to modify scope or make other
+changes that can reduce overall costs for the projects. It is then up to the school district to
+review the options for savings, and make decisions to accept or reject them. Sometimes the
+cost savings options are tough decisions to make, but required to keep the project within the
+stated overall budget.
+
+Thank you again for the opportunity to review the projects, and help Portland Public Schools
+find areas to focus on in an effort to reduce the estimated costs of your current projects.
+
+
+
+
+Supporting Documents attached for reference:
+
+
+
+       -       Beaverton HS 50% CD cost estimate Summary from Skanska dtd 10/17/24
+       -       LHS Final Pay Application #56 dtd 6/30/24
+       -       CHS 75% SD (post VE) cost estimate Summary from Skanska dtd 11/15/24
+       -       JHS 50% SD cost estimate Summary from Anderson Construction dtd 11/15/24
+       -       IDA B Wells 100% SD cost estimate Summary from Hoffman dtd 11/18/24
+
+
+
+
+                               Cornerstone Management Group, Inc.
+ 1                             Beaverton HS 50% CD GMP (based on low bids)
+ 2   300,978 gsf
+ 3   Work Categories                                                         Cost            Cost/SF
+ 4   High Bid   Quantity of Bids
+ 5   Notes
+ 6   WC 12 - Demo and Abatement - BHS and West Annex                    $4,504,282 $14.97     $6,015,295
+ 7   WC 13 - Structural Concrete                                        $9,202,262 $30.57     $9,969,379
+ 8   WC 14 - Masonry                                                    $1,875,660   $6.23    $2,355,832
+ 9   WC 15 - Structural Steel                                          $16,770,021 $55.72    $21,561,514
+10   WC 16 - Metal Framing Insulation GB and Ceilings                  $19,340,894 $64.26    $19,340,894
+11   WC 17 - Waterproofing                                                 $412,030  $1.37     $512,349
+12   WC 18 - Metal Panels                                               $8,696,336 $28.89    $10,902,835
+13   WC 19 - Roofing                                                    $4,574,932 $15.20     $5,399,071
+14   WC 20 - Storefronts and Glazing                                    $2,566,028   $8.53    $3,181,248
+15   WC 21 - Elevators                                                     $706,360  $2.35     $755,650
+16   WC 22 - Fire Suppression                                           $1,220,326   $4.05    $1,751,400
+17   WC 23 - Plumbing and HVAC                                         $25,722,227 $85.46    $25,722,227
+18   WC 24 - Electrical and LV                                         $32,943,236 $109.45   $32,943,236
+19   WC 25 - Earthwork                                                 $16,272,911 $54.07    $26,423,874
+20   WC 26 - Site Concrete                                              $3,245,905 $10.78     $3,959,808
+21   WC 27 - Casework                                                   $1,415,913   $4.70    $3,621,800
+22   WC 28 - Fixed Audience Seating                                        $265,500  $0.88     $561,947
+23   WC 29 - DFH                                                        $3,040,428 $10.10     $3,250,552
+24   WC 30 - OH and Coiling Doors                                          $199,344  $0.66     $199,344
+25   WC 31 - Building Specialties                                       $1,353,923   $4.50    $2,467,471
+26   WC 32 - Tiling                                                        $205,923  $0.68     $292,951
+27   WC 33 - Wood Flooring                                                 $627,848  $2.09     $689,350
+28   WC 34 - Flooring                                                      $754,190  $2.51    $1,152,275
+29   WC 35 - Paint and Wall Coverings                                   $1,655,208   $5.50    $1,790,999
+30   WC 36 - Signage                                                       $235,900  $0.78     $320,665
+31   WC 37 - Folding Panel Partitions                                      $141,932  $0.47     $141,932
+32   WC 38 - Metal Lockers                                                 $464,789  $1.54     $636,890
+33   WC 39 - Theatre Equipment                                          $1,406,505   $4.67    $1,918,058
+34   WC 40 - Gym Equipment                                                 $431,843  $1.43     $488,137
+35   WC 41 - Window Coverings                                              $194,095  $0.64     $306,148
+36   WC 42 - Telescoping Bleachers                                         $420,950  $1.40     $465,821
+37   WC 43 - Metal Building Systems                                        $528,291  $1.76     $557,250
+38   WC 44 - Pavement Markings                                                   $0  $0.00            $0
+39   WC 45 - Landscaping                                                $3,088,135 $10.26     $3,269,758
+40   WC 46 - Fencing and Gates                                             $906,811  $3.01     $906,811
+41   WC 47 - Site Furnishings                                                    $0  $0.00            $0
+42   WC 48 - Rubberized Surfacing                                          $144,062  $0.48     $144,062
+43   WC 49 - Resinous Flooring                                             $285,224  $0.95     $498,114
+44   WC 50 - Site Concrete Curbs                                           $615,709  $2.05    $1,067,580
+45   WC 51 - Fireproofing                                                  $937,614  $3.12    $1,422,000
+46   WC 52 - Final Cleaning                                                $198,390  $0.66     $410,780
+47   WC 53 - Skylights                                                     $251,316  $0.83     $251,316
+48   WC 54 - Concrete Floor Finishes                                    $1,105,209   $3.67    $1,333,402
+49   WC 55 - Synthetic Field Drainage and Rock Base                              $0  $0.00            $0
+50   WC 56 - Finish Carpentry                                           $1,341,679   $4.46    $2,282,216
+51   Alternate No. 01: Add Running Track B208 in Main Gym B104             $453,527  $1.51     $453,527
+52   Alternate No. 10: West Athletic Fields                             $2,906,833   $9.66    $2,906,833
+53
+54   SUBTOTAL DIRECT CONSTRUCTION COSTS                              $173,630,501    $577     $204,602,601
+55
+56   Construction Contingency @ 5%                                     $8,681,525   $28.84
+57   Owner Contingency                                                  $563,645      $1.87
+58   Design/Estimating/Escalation Contingency 1.5% (5% at 100% DD)     $2,734,680     $9.09
+59   Overtime Contingency                                               $900,000      $2.99
+60   Builder's Risk - By Beaverton School District                             $0     $0.00
+61   General Conditions & General Requirements                        $13,778,251   $45.78
+62   Allowances - See follow-up document                                ($51,491)   ($0.17)
+63   Fee, Bond, SDI                                                   $10,366,540   $34.44
+64   General Liability Insurance (GLI) is OCIP not covered @ 0.2%       $418,690      $1.39
+65
+66      SUBTOTAL INDIRECT CONSTRUCTION COSTS                          $37,391,840    $124
+67
+68   Previously Contracted Scope EWA's
+69   EWA #1 - MEP Trade Partner Preconstruction Services                $212,154     $0.70
+70   EWA #2 - Portables Relocation                                     $1,517,966    $5.04
+71   EWA #3 - Framing Trade Partner Preconstruction Services              $52,444    $0.17
+72   EWA #4 - Conex Walkways                                              $38,504    $0.13
+73   EWA #5 - Merle Davies Abatement and Demo                          $2,934,848    $9.75
+74   Previously Contracted Scope COP's
+75   Change Order #1                                                     $11,208      $0.04
+76   Change Order #2                                                     $17,652      $0.06
+77   Change Order #3                                                     ($7,750)   ($0.03)
+78
+79       EWA's #1 - 5 Total & Executed Change Orders                   $4,777,026      $16
+80
+81         TOTAL GMP Value                                           $215,799,367    $717
+82   Preconstruction Services
+83   Skanska Preconstruction Services                                   $560,000     $1.86
+84
+85                      Preconstruction Total                           $560,000       $2
+86          TOTAL Contract Value                                     $216,359,367    $719
+                              Hoffman Pacificmark LLC JV                                                 3017293
+
+                                    805 SW Broadway Ste 2100
+                                     Portland, OR 97205-3361
+
+                          I     N      V       O       I       C          E
+To:
+PORTLAND PUBLIC SCHOOLS                          Invoice Date: 6/28/24                              56
+                                                                                     Application #: 55
+                                                 Remit To:
+                                                 Hoffman Pacificmark, LLC
+
+
+Attention: ERIK GERDING
+
+6030118 Lincoln HS
+
+
+
+      PAYROLL                                                                 0.00
+      PAYROLL BURDEN                                                          0.00
+      SALARIED PAYROLL                                                        0.00
+      MATERIALS 6030118                                                  5,446.99
+      MATERIALS 6039518                                                  6,340.86
+      FEE @ 3 % ON COST                                             192,167.04
+
+      SUB TOTAL                                                     203,954.89
+
+      INVOICE TOTAL                                                 203,954.89
+      BALANCE FORWARD                                                         0.00
+      TOTAL DUE                                                     203,954.89
+7/2/24
+CONTINUATION SHEET                                                                                                                                                                     AIA DOCUMENT G703
+AIA Document G702, APPLICATION AND CERTIFICATION FOR PAYMENT, containing                                                                                                                                                                                APPLICATION NO:              56
+Contractor's signed certification is attached.                                                                                                                                                                                                        APPLICATION DATE:              6/30/2024
+In tabulations below, amounts are stated to the nearest dollar.                                                                                                                                                                                              PERIOD TO:              6/30/2024
+Use Column I on Contracts where variable retainage for line items may apply.                                                                                                                                                                    ARCHITECT'S PROJECT NO:                  17011
+
+        A                                         B                                                                                                    C                  D                    E                F                                            G                       H                    I
+    ITEM                             DESCRIPTION OF WORK                                        ORIGINAL         CHANGES   CONTINGENCY             SCHEDULED               WORK COMPLETED                   MATERIALS       RETENTION             TOTAL            %              BALANCE             RETAINAGE
+    NO.                                                                                        (FINAL GMP)                     ALLOCATION            VALUE         FROM PREVIOUS           THIS PERIOD      PRESENTLY                           COMPLETED        (G ÷ C)          TO FINISH
+                                                                                                                                                                    APPLICATION                              STORED                             AND STORED                         (C - G)
+                                                                                                                                                                       (D + E)                                (NOT IN                             TO DATE
+                                                                                                                                                                                                              D OR E)                             (D+E+F)
+DIV 1        GENERAL REQUIREMENTS                                                                                                              $             -
+             01-012100 - Façade Mockup                                                    $         141,250.00                                 $      141,250.00   $      101,251.35                                    $        5,062.57   $       101,251.35       71.68% $        39,998.65
+             01-012200 - Work Platform at Theater                                         $          50,000.00             $    65,748.00      $      115,748.00   $      116,301.23                                    $        2,087.73   $       116,301.23      100.48% $          (553.23)
+             01-018000 - GC Covid Expenses                                                $                -               $ 1,328,582.43      $    1,328,582.43   $    1,325,075.78                                    $       66,253.79   $     1,325,075.78       99.74% $         3,506.65
+
+DIV 2        EXISTING CONDITIONS
+             02-024100 Demolition                                                         $       1,846,000.00             $     492,688.79    $    2,338,688.79   $    2,337,320.35                                    $        5,999.24   $     2,337,320.35         99.94% $       1,368.44
+
+DIV 3        CONCRETE
+             03-033000 - Cast-In-Place Concrete (Incl Tilt Panels)                        $       5,940,600.00             $ 2,075,508.15      $    8,016,108.15   $    7,991,667.72                                    $      344,520.07   $     7,991,667.72       99.70% $        24,440.43
+             03-034500 - Precast Architectural Concrete                                   $         362,252.00             $   375,287.47      $      737,539.47   $      667,169.70                                    $       28,091.08   $       667,169.70       90.46% $        70,369.77
+             03-035300 - Concrete Topping                                                 $         432,678.00             $    39,380.74      $      472,058.74   $      490,143.74                                    $       23,185.30   $       490,143.74      103.83% $       (18,085.00)
+
+DIV 4        MASONRY
+             04-042200 - Concrete Unit Masonry                                            $       1,946,410.00             $     160,035.00    $    2,106,445.00   $    2,074,356.00                                    $       98,502.20   $     2,074,356.00         98.48% $      32,089.00
+
+DIV 5        METALS
+             05-051200 - Structural Steel Framing                                         $      12,552,375.00             $ 3,498,679.92      $   16,051,054.92   $   16,043,089.86                                    $      745,479.29   $    16,043,089.86         99.95% $       7,965.06
+
+DIV 6        WOODS AND PLASTICS
+             06-060100 - Rough Carpentry                                                                                   $     349,267.00    $      349,267.00   $      349,267.00                                                        $       349,267.00      100.00%
+             06-064100 - Architectural Wood Casework                                      $       2,834,259.00             $     598,247.29    $    3,432,506.29   $    3,430,584.67                                    $      157,545.03   $     3,430,584.67       99.94% $         1,921.62
+
+DIV 7        THERMAL AND MOISTURE PROTECTION
+             07-071000 - Dampproofing and Waterproofing                                   $         222,068.00             $   121,932.35      $      344,000.35   $      333,814.35                                    $       14,164.75   $       333,814.35       97.04% $        10,186.00
+             07-075000 - Membrane Roofing                                                 $       2,913,605.00             $   774,327.76      $    3,687,932.76   $    3,687,932.76                                    $      162,730.10   $     3,687,932.76      100.00%
+             07-076200 - Sheet Metal Flashing and Trim                                    $       1,748,900.00             $ 1,630,591.92      $    3,379,491.92   $    3,351,917.63                                    $       96,343.05   $     3,351,917.63       99.18% $        27,574.29
+             07-077100 - Roof Specialties                                                 $          35,000.00             $   (32,300.79)     $        2,699.21   $        2,699.21                                    $          134.96   $         2,699.21      100.00% $            (0.00)
+
+DIV 8        OPENINGS
+             08-081000 - Doors and Frames                                                 $       1,481,050.00             $     192,865.15    $    1,673,915.15   $    1,643,210.64                                    $       66,869.71   $     1,643,210.64         98.17% $      30,704.51
+             08-081300 - Access Doors & Panels                                                                             $            -      $             -
+             08-083300 - Coiling Doors and Grilles                                        $         284,573.00             $      63,165.00    $      347,738.00   $      336,045.99                                    $       14,398.12   $       336,045.99       96.64% $        11,692.01
+             08-084400 - Curtain Wall and Glazed Assemblies                               $       3,051,094.00             $     202,610.62    $    3,253,704.62   $    3,287,207.36                                    $      156,998.43   $     3,287,207.36      101.03% $       (33,502.74)
+             08-086200 - Unit Skylights                                                   $         255,500.00             $      49,110.28    $      304,610.28   $      306,610.28                                    $       12,849.03   $       306,610.28      100.66% $        (2,000.00)
+
+DIV 9        FINISHES
+             09-092000 - Drywall, Taktl, Fireproofing, Fiberglass Windows                 $      24,549,397.00             $ 6,782,894.56      $   31,332,291.56   $   30,955,125.30   $           204.37               $    1,395,018.04   $    30,955,329.67       98.80%   $     376,961.89
+             09-093000 - Tiling                                                           $         530,893.00             $    78,508.09      $      609,401.09   $      609,506.24                                    $       29,194.56   $       609,506.24      100.02%   $        (105.15)
+             09-096200 - Specialty Flooring                                               $         336,017.00             $   (32,849.50)     $      303,167.50   $      285,082.50                                    $       14,107.98   $       285,082.50       94.03%   $      18,085.00
+             09-096400 - Wood Flooring                                                    $         345,309.00             $    43,983.59      $      389,292.59   $      389,292.59                                    $       15,393.00   $       389,292.59      100.00%
+             09-096500 - Carpet & Resilient Flooring                                      $       1,639,975.00             $   218,957.38      $    1,858,932.38   $    1,855,292.38                                    $       87,184.73   $     1,855,292.38       99.80%   $       3,640.00
+             09-099000 - Painting and Coating                                             $         688,631.00             $   349,030.96      $    1,037,661.96   $    1,030,107.73                                    $       38,270.92   $     1,030,107.73       99.27%   $       7,554.23
+
+DIV 10       SPECIALTIES
+             10-101100 - Visual Display Surfaces                                          $         294,045.00             $      58,003.92 $        352,048.92    $     311,402.60                                     $       14,884.78   $      311,402.60        88.45%   $      40,646.32
+             10-101400 - Signage & Photoluminescent Markings                              $         300,000.00             $     152,966.84 $        452,966.84    $     327,303.84                                     $        2,146.25   $      327,303.84        72.26%   $     125,663.00
+             10-102213 - Wire Mesh Partitions                                             $          61,775.00             $     (32,175.00) $        29,600.00    $      29,600.00                                     $          787.60   $       29,600.00       100.00%
+             10-102226 - Operable Partitions                                              $          37,448.00                               $        37,448.00    $      47,035.00                                     $        2,351.75   $       47,035.00       125.60%   $      (9,587.00)
+             10-102813 - Toilet Accessories & Toilet Partitions                           $         389,706.00             $      30,385.28 $        420,091.28    $     410,129.40                                     $       20,054.51   $      410,129.40        97.63%   $       9,961.88
+             10-105000 - Storage Specialties (Spacesaver)                                 $         161,717.00             $     206,117.85 $        367,834.85    $     343,794.45                                     $        7,966.91   $      343,794.45        93.46%   $      24,040.40
+             10-105100 - Lockers                                                          $         682,940.00             $     (35,866.08) $       647,073.92    $     647,073.92                                     $       22,791.79   $      647,073.92       100.00%   $           0.00
+             10-107500 - Flagpoles                                                        $          74,602.00             $      51,243.95 $        125,845.95    $     125,845.95                                     $        2,003.25   $      125,845.95       100.00%
+
+DIV 11       EQUIPMENT
+             11-111300 - Loading Dock Equipment                                           $         109,000.00             $     (84,635.00)   $       24,365.00   $       24,365.00                                                        $        24,365.00      100.00%
+             11-113100 - Residential Appliances                                           $          61,200.00             $      97,273.50    $      158,473.50   $      157,639.50                                    $        6,798.10   $       157,639.50       99.47% $           834.00
+             11-114000 - Food service Equipment                                           $         962,370.00             $     112,123.04    $    1,074,493.04   $    1,071,679.96                                    $       35,225.02   $     1,071,679.96       99.74% $         2,813.08
+             11-115000 - Educational and Scientific Equipment                             $           8,075.00             $       2,277.00    $       10,352.00   $       10,352.00                                    $          517.60   $        10,352.00      100.00%
+
+                AIA DOCUMENT G703 · CONTINUATION SHEET FOR G702 · 1992 EDITION · AIA · ©1992
+                THE AMERICAN INSTITUTE OF ARCHITECTS, 1735 NEW YORK AVENUE, N.W. WASHINGTON, D.C. 20006-5232                                                                                                                                                                              G703-1992
+CONTINUATION SHEET                                                                                                                                                                     AIA DOCUMENT G703
+AIA Document G702, APPLICATION AND CERTIFICATION FOR PAYMENT, containing                                                                                                                                                                                  APPLICATION NO:              56
+Contractor's signed certification is attached.                                                                                                                                                                                                          APPLICATION DATE:              6/30/2024
+In tabulations below, amounts are stated to the nearest dollar.                                                                                                                                                                                                PERIOD TO:              6/30/2024
+Use Column I on Contracts where variable retainage for line items may apply.                                                                                                                                                                      ARCHITECT'S PROJECT NO:                  17011
+
+     A                                            B                                                                                                    C                  D                    E                  F                                            G                       H                    I
+    ITEM                             DESCRIPTION OF WORK                                        ORIGINAL         CHANGES   CONTINGENCY             SCHEDULED               WORK COMPLETED                     MATERIALS       RETENTION             TOTAL            %              BALANCE             RETAINAGE
+    NO.                                                                                        (FINAL GMP)                     ALLOCATION            VALUE         FROM PREVIOUS           THIS PERIOD        PRESENTLY                           COMPLETED        (G ÷ C)          TO FINISH
+                                                                                                                                                                    APPLICATION                                STORED                             AND STORED                         (C - G)
+                                                                                                                                                                       (D + E)                                  (NOT IN                             TO DATE
+                                                                                                                                                                                                                D OR E)                             (D+E+F)
+             11-115300 - Laboratory Equipment                                             $          95,835.00             $     115,339.00 $         211,174.00   $      186,476.00                                      $        9,075.30   $       186,476.00         88.30% $      24,698.00
+             11-116100 - Theater & Stage Equip (Incl Theater Lighting Control)            $       2,000,388.00             $    (530,950.47) $      1,469,437.53   $    1,464,244.53                                      $       64,096.64   $     1,464,244.53         99.65% $       5,193.00
+             11-116600 - Athletic Equipment                                               $         513,254.00             $     391,225.00 $         904,479.00   $      881,713.50                                      $       28,273.18   $       881,713.50         97.48% $      22,765.50
+
+DIV 12       FURNISHINGS
+             12-122000 - Window Treatments                                                $         411,628.00             $      79,844.40    $      491,472.40   $      496,597.38                                      $       17,253.36   $       496,597.38      101.04% $        (5,124.98)
+             12-123500 - Specialty Casework (Music Storage)                               $         140,000.00             $     (26,122.36)   $      113,877.64   $       85,578.77                                      $          193.15   $        85,578.77       75.15% $        28,298.87
+             12-126100 - Fixed Audience Seating (Theater)                                 $         187,000.00             $      32,247.87    $      219,247.87   $      219,247.87                                      $       10,754.73   $       219,247.87      100.00%
+             12-126100 - Fixed Audience Seating (Field)                                   $         825,000.00             $     405,120.56    $    1,230,120.56   $    1,230,120.56                                                          $     1,230,120.56      100.00%
+
+DIV 13       SPECIAL CONSTRUCTION
+             13-132000 - Scoreboards and Track & Field                                    $         243,605.00             $    (143,787.00) $         99,818.00 $        99,818.00                                                           $       99,818.00       100.00%
+             13-133000 - Site Buildings                                                   $         443,032.00             $    (473,032.00) $        (30,000.00)                                                                                                               $     (30,000.00)
+             13-134000 - Isolated Slab System                                             $          86,625.00                               $         86,625.00 $        86,625.00                                       $        4,331.25   $       86,625.00       100.00%
+
+DIV 14       CONVEYING SYSTEMS
+             14-142000 - Elevators                                                        $         679,349.00             $      26,574.19    $     705,923.19    $     705,923.19                                       $       34,528.83   $      705,923.19       100.00% $             (0.00)
+             14-149000 - Vertical Platform Lifts                                          $          60,000.00             $     141,966.90    $     201,966.90    $     201,966.90                                       $        4,124.70   $      201,966.90       100.00%
+
+DIV 21       FIRE SUPPRESSION
+             21-210000 - Fire Suppression                                                 $       1,525,994.00             $      59,546.00    $    1,585,540.00   $    1,585,540.00                                      $       76,803.15   $     1,585,540.00      100.00% $              0.00
+
+DIV 22/23    PLUMBING /HVAC
+             23-230000/220000 - Plumbing, HVAC and Mech Controls                          $      18,220,982.00             $ 2,594,701.93      $   20,815,683.93   $   20,518,770.53   $        4,257.01                  $      945,848.82   $    20,523,027.54         98.59% $     292,656.39
+
+DIV 26/27/28 ELECTRICAL
+             26-260000 - Electrical                                                       $      19,961,915.00             $ 1,887,365.59      $   21,849,280.59   $   21,795,284.13                                      $      916,918.16   $    21,795,284.13         99.75% $      53,996.46
+
+DIV 31/33    EARTHWORK/PILING
+             31-311000 - Site Clearing                                                    $         472,535.00             $ (160,892.32)      $      311,642.68   $      361,298.65                                      $       18,064.93   $       361,298.65      115.93%   $     (49,655.97)
+             31-312000 - Earthwork                                                        $       7,068,815.00             $ 1,792,868.17      $    8,861,683.17   $    8,841,965.18                                      $      285,171.17   $     8,841,965.18       99.78%   $      19,717.99
+             31-314100 - Shoring                                                          $         464,409.00             $    43,736.65      $      508,145.65   $      511,409.72                                      $       25,044.20   $       511,409.72      100.64%   $      (3,264.07)
+             31-316300 - Bored Piles & Aggregate Piers                                    $       1,953,404.00             $   714,502.36      $    2,667,906.36   $    2,672,642.49                                      $      105,534.34   $     2,672,642.49      100.18%   $      (4,736.13)
+
+DIV 32       EXTERIOR IMPROVEMENTS
+             32-320000 - Site Furnishing                                                  $         296,054.00             $     (93,240.00)   $      202,814.00   $      204,389.00                                      $       10,005.95   $       204,389.00      100.78%   $       (1,575.00)
+             32-321700 - Athletic Surfacing (Track & Field Turf)                          $       2,379,801.00             $     290,624.49    $    2,670,425.49   $    2,670,425.49                                                          $     2,670,425.49      100.00%
+             32-323000 - Site Concrete (Flatwork & Walls)                                 $       3,206,654.00             $     979,027.13    $    4,185,681.13   $    4,211,156.68                                      $      114,728.60   $     4,211,156.68      100.61%   $     (25,475.55)
+             32-323100 - Fences and Gates                                                 $       1,076,640.00             $     141,660.21    $    1,218,300.21   $    1,218,963.53                                      $       11,295.72   $     1,218,963.53      100.05%   $        (663.32)
+             32-329000 - Planting & Irrigation                                            $       1,098,343.00             $    (166,818.72)   $      931,524.28   $      918,072.13                                      $       10,129.06   $       918,072.13       98.56%   $      13,452.15
+
+DIV 60       CONTINGENCY & ALLOWANCES
+             60-600001 - Allowance - Teen Parent Center                                   $         500,000.00             $ (335,933.78)      $      164,066.22   $     164,066.22                                                           $      164,066.22       100.00% $            (0.00)
+             60-600002 - Student Success Act Tax                                          $         718,836.00             $     23,510.00     $      742,346.00   $     717,297.71    $           985.61                 $       28,381.19   $      718,283.32        96.76% $        24,062.68
+             60-600004 - Allowance - Field Storage Building                               $         500,000.00             $ (500,000.00)      $             -
+             60-600006 - Owner Contingency                                                $       6,673,280.00             $ (5,672,631.03)    $    1,000,648.97                                                                                                                $   1,000,648.97
+             60-600007 - Yet to Buy                                                       $       7,903,804.00             $ (7,587,227.44)    $      316,576.56                                                                                                                $     316,576.56
+             60-600008 - PGE Duct Bank Reroute                                            $                -               $ 2,751,067.99      $    2,751,067.99   $    2,751,067.99                                      $       97,168.63   $     2,751,067.99      100.00%
+             60-610001 - Design Contingency                                               $       1,528,423.00             $ (1,528,422.04)    $            0.96                                                                                                                $           0.96
+             60-610002 - COW Construction Contingency                                     $       7,014,628.00             $ (6,046,798.93)    $      967,829.07                                                                                                                $     967,829.07
+             60-610004 - Phase 2 Escalation                                               $       1,730,621.00             $ (1,730,621.00)    $             -
+
+             GENERAL CONDITIONS
+             Job 6039518                                                                  $      23,543,310.00             $    (145,273.90) $     23,398,036.10   $   20,948,742.92   $        6,277.10                  $      830,718.54   $    20,955,020.02         89.56% $   2,443,016.08
+
+             01-006097 - Project Insurance                                                $         181,476.00             $       5,935.00    $      187,411.00   $      187,570.62   $           238.19                 $        6,523.21   $       187,808.81      100.21% $          (397.81)
+             01-006100 - GC Bond                                                          $       1,050,650.00             $      34,363.00    $    1,085,013.00   $    1,275,932.00                                      $       63,153.10   $     1,275,932.00      117.60% $      (190,919.00)
+             01-006200 - Subguard/Sub Bonds                                               $       1,552,483.00             $      55,614.00    $    1,608,097.00   $    1,407,452.92   $           (174.43)               $       64,363.49   $     1,407,278.49       87.51% $       200,818.51
+
+
+                AIA DOCUMENT G703 · CONTINUATION SHEET FOR G702 · 1992 EDITION · AIA · ©1992
+                THE AMERICAN INSTITUTE OF ARCHITECTS, 1735 NEW YORK AVENUE, N.W. WASHINGTON, D.C. 20006-5232                                                                                                                                                                                G703-1992
+CONTINUATION SHEET                                                                                                                                                                           AIA DOCUMENT G703
+AIA Document G702, APPLICATION AND CERTIFICATION FOR PAYMENT, containing                                                                                                                                                                                             APPLICATION NO:               56
+Contractor's signed certification is attached.                                                                                                                                                                                                                     APPLICATION DATE:               6/30/2024
+In tabulations below, amounts are stated to the nearest dollar.                                                                                                                                                                                                           PERIOD TO:               6/30/2024
+Use Column I on Contracts where variable retainage for line items may apply.                                                                                                                                                                                 ARCHITECT'S PROJECT NO:                   17011
+
+      A                                              B                                                                                                        C                  D                   E                   F                                                G                        H                    I
+     ITEM                               DESCRIPTION OF WORK                                         ORIGINAL             CHANGES   CONTINGENCY             SCHEDULED              WORK COMPLETED                     MATERIALS           RETENTION             TOTAL             %              BALANCE             RETAINAGE
+     NO.                                                                                           (FINAL GMP)                         ALLOCATION            VALUE        FROM PREVIOUS          THIS PERIOD         PRESENTLY                               COMPLETED         (G ÷ C)          TO FINISH
+                                                                                                                                                                           APPLICATION                                STORED                                 AND STORED                          (C - G)
+                                                                                                                                                                              (D + E)                                  (NOT IN                                 TO DATE
+                                                                                                                                                                                                                       D OR E)                                 (D+E+F)
+                01-610003 - General Conditions Contingency                                     $      1,177,166.00                 $ (1,177,273.73) $            (107.73) $      (3,053.54)                                                              $        (3,053.54)    2834.44% $          2,945.81
+                GC Fee (3%)                                                                    $      5,563,903.00                 $    181,972.00 $        5,745,875.00 $    5,553,707.96 $        192,167.04                       $      224,351.84   $     5,745,875.00      100.00% $             (0.00)
+                                                                                                                                                    $                -
+                        SUBTOTAL (EXCLUDES PRECON - PREVIOUSLY
+                             BILLED THROUGH SEPARATE PROJECT) $                                    190,380,556.00    $         -   $ 6,413,755.18      $ 196,794,311.18   $ 190,505,537.02   $      203,954.89   $               -   $    7,702,746.48   $   190,881,262.90          97.00% $   5,913,048.28    $               -
+
+                PRECONSTRUCTION (Previously billed under precon billings)
+                Job 6039318                                               $                           1,004,828.00                 $    (243,876.52)   $     760,951.48   $     760,951.48                                                               $      760,951.48        100.00%                       $               -
+                23-230000 Hydrotemp Mechanical                            $                             366,782.00                 $      (9,259.16)   $     357,522.84   $     357,522.84                                                               $      357,522.84        100.00%                       $               -
+                26-260000 Prairie Electric                                $                             275,000.00                 $       1,249.50    $     276,249.50   $     276,249.50                                                               $      276,249.50        100.00%                       $               -
+                09-092000 Performance Contracting                         $                                    -                   $      80,850.00    $      80,850.00   $      80,850.00                                                               $       80,850.00        100.00%                       $               -
+                31-316300 Hayward Baker                                   $                               5,000.00                 $            -      $       5,000.00   $       5,000.00                                                               $        5,000.00        100.00%                       $               -
+
+                    TOTAL (INCLUDES PRECON EFFECTIVE 08/2022)                                  $   192,032,166.00    $         -   $ 6,242,719.00      $ 198,274,885.00   $ 191,986,110.84   $      203,954.89   $               -                       $   192,361,836.72                 $   5,913,048.28    $               -
+
+
+
+
+AIA DOCUMENT G703 · CONTINUATION SHEET FOR G702 · 1992 EDITION · AIA · © 1992                                                                                                                                                                                                                                          G703-1992
+THE AMERICAN INSTITUTE OF ARCHITECTS, 1735 NEW YORK AVENUE, N.W. WASHINGTON, D.C. 20006-5292
+
+
+
+
+                  AIA DOCUMENT G703 · CONTINUATION SHEET FOR G702 · 1992 EDITION · AIA · ©1992
+                  THE AMERICAN INSTITUTE OF ARCHITECTS, 1735 NEW YORK AVENUE, N.W. WASHINGTON, D.C. 20006-5232                                                                                                                                                                                          G703-1992
+                                                                 Owners Statement of Value Report
+                                                                                                                            Company: Hoffman Pacificmark LLC JV - 00409
+
+Job Name: 6030118 - Lincoln HS                                                                                                                    As of Date       06/30/2024
+
+                                           Original         Budget      Change       Revised       Previous       Current                                      Estimated to
+              Cost Code                                                                                                          Billed to Date    % Cmpl
+                                           Budget         Adjustments   Orders       Budget         Billed        Month                                         Complete
+ 007082 - Business Tax                                0             0            0             0              0              0                0       0.00%                   0
+ 012100 - Facade Mockup                        141,250              0            0      141,250        101,251               0         101,251       71.68%           39,999
+ 012200 - Work Platform-Theater                 50,000              0      65,748       115,748        116,301               0         116,301      100.48%            (553)
+ 024100 - Demolition                         1,846,000              0     492,689      2,338,689     2,337,320               0        2,337,320      99.94%            1,368
+ 033000 - Cast-In-Place Concrete             5,940,600              0    2,254,495     8,195,095     7,990,391               0        7,990,391      97.50%          204,704
+ 034000 - Precast Concrete                            0             0       4,589         4,589          3,368               0            3,368      73.38%            1,221
+ 034500 - Precast Architectural Concrete       362,252              0     370,698       732,950        665,079               0         665,079       90.74%           67,872
+ 035300 - Concrete Topping                     432,678              0    (220,037)      212,641        490,144               0         490,144      230.50%        (277,503)
+ 042200 - Concrete Unit Masonry              1,946,410              0     157,772      2,104,182     2,074,356               0        2,074,356      98.58%           29,826
+ 050000 - Metals                                      0             0            0             0              0              0                0       0.00%                   0
+ 051200 - Structural Steel Framing          12,552,375              0    3,749,228    16,301,603    16,043,090               0       16,043,090      98.41%          258,513
+ 053000 - Metal Decking                               0             0            0             0              0              0                0       0.00%                   0
+ 054000 - Cold-Formed Metal Framing                   0             0            0             0              0              0                0       0.00%                   0
+ 054100 - Structural Metal Stud Framing               0             0            0             0              0              0                0       0.00%                   0
+ 055000 - Metal Fabrications                          0             0       2,443         2,443               0              0                0       0.00%            2,443
+ 055100 - Metal Stairs                                0             0            0             0              0              0                0       0.00%                   0
+ 057300 - Decorative Metal Railings                   0             0            0             0              0              0                0       0.00%                   0
+ 061000 - Rough Carpentry                             0             0     329,962       329,962        349,267               0         349,267      105.85%          (19,305)
+ 061600 - Sheathing                                   0             0            0             0              0              0                0       0.00%                   0
+ 062000 - Finish Carpentry                            0             0            0             0              0              0                0       0.00%                   0
+ 064100 - Architectural Wood Casework        2,834,259              0    1,454,237     4,288,496     3,430,585               0        3,430,585      80.00%          857,911
+ 071000 - Dampproofing and Waterproofing       222,068              0     121,932       344,000        333,814               0         333,814       97.04%           10,186
+ 071100 - Dampproofing                                0             0            0             0              0              0                0       0.00%                   0
+ 072100 - Thermal Insulation                          0             0            0             0              0              0                0       0.00%                   0
+ 072500 - Weather Barriers                            0             0            0             0              0              0                0       0.00%                   0
+ 074000 - Roofing and Siding Panels                   0             0            0             0              0              0                0       0.00%                   0
+ 075000 - Membrane Roofing                   2,913,605              0     774,328      3,687,933     3,687,933               0        3,687,933     100.00%                   0
+ 076000 - Flashing and Sheet Metal                    0             0    1,077,129     1,077,129       345,318               0         345,318       32.06%          731,811
+ 076100 - Sheet Metal Roofing                         0             0            0             0              0              0                0       0.00%                   0
+ 076200 - Sheet Metal Flashing and Trim      1,748,900              0    1,268,106     3,017,006     3,006,600               0        3,006,600      99.66%           10,406
+ 077100 - Roof Specialties                      35,000              0     (32,301)        2,699          2,699               0            2,699     100.00%                   0
+ 077600 - Roof Pavers                                 0             0            0             0              0              0                0       0.00%                   0
+ 078100 - Applied Fireproofing                        0             0            0             0              0              0                0       0.00%                   0
+ 078400 - Firestopping                                0             0            0             0              0              0                0       0.00%                   0
+ 079200 - Joint Sealants                              0             0            0             0              0              0                0       0.00%                   0
+ 079500 - Expansion Control                           0             0            0             0              0              0                0       0.00%                   0
+ 081000 - Doors and Frames                   1,481,050              0     281,740      1,762,790     1,676,534               0        1,676,534      95.11%           86,256
+ 083000 - Specialty Doors and Frames                  0             0       2,800         2,800               0              0                0       0.00%            2,800
+
+ Friday, June 28, 2024                                                                                                                                             Page 1 of 4
+                                          Original         Budget      Change         Revised         Previous       Current                                       Estimated to
+             Cost Code                                                                                                               Billed to Date    % Cmpl
+                                          Budget         Adjustments   Orders         Budget           Billed        Month                                          Complete
+083100 - Access Doors and Panels                     0             0              0               0              0               0                0       0.00%                   0
+083300 - Coiling Doors and Grilles            284,573              0      60,365         344,938          336,046                0         336,046       97.42%            8,892
+083500 - Folding Doors and Grilles                   0             0              0               0              0               0                0       0.00%                   0
+084100 - Entrances and Storefronts                   0             0       1,176           1,176            7,158                0            7,158     608.46%           (5,982)
+084400 - Curtain Wall and Glazed Assemb     3,051,094              0     305,427        3,356,521       3,246,725                0        3,246,725      96.73%          109,795
+085000 - Windows                                     0             0              0               0              0               0                0       0.00%                   0
+086200 - Unit Skylights                       255,500              0     295,132         550,632          306,610                0         306,610       55.68%          244,022
+087100 - Door Hardware                               0             0              0               0              0               0                0       0.00%                   0
+088000 - Glazing                                     0             0              0               0              0               0                0       0.00%                   0
+089000 - Louvers and Vents                           0             0              0               0              0               0                0       0.00%                   0
+092000 - Plaster and Gypsum Board          24,549,397              0   14,577,297      39,126,694      30,955,125              204       30,955,330      79.12%        8,171,364
+092216 - Non-Structural Metal Framing                0             0              0               0              0               0                0       0.00%                   0
+093000 - Tiling                               530,893              0     138,730         669,623          609,506                0         609,506       91.02%           60,116
+095000 - Ceilings                                    0             0              0               0              0               0                0       0.00%                   0
+095100 - Acoustical Ceilings                         0             0              0               0              0               0                0       0.00%                   0
+096200 - Specialty Flooring                   336,017              0      11,101         347,118          285,083                0         285,083       82.13%           62,035
+096400 - Wood Flooring                        345,309              0     111,817         457,126          389,293                0         389,293       85.16%           67,834
+096500 - Resilient Flooring                 1,639,975              0    1,468,771       3,108,746       1,855,292                0        1,855,292      59.68%        1,253,454
+096700 - Fluid-Applied Flooring                      0             0       3,640           3,640                 0               0                0       0.00%            3,640
+096800 - Carpeting                                   0             0              0               0              0               0                0       0.00%                   0
+098300 - Acoustic Finishes                           0             0              0               0              0               0                0       0.00%                   0
+099000 - Painting and Coating                 688,631              0     731,346        1,419,977       1,029,075                0        1,029,075      72.47%          390,902
+100000 - Specialties                                 0             0              0               0              0               0                0       0.00%                   0
+101100 - Visual Display Surfaces              294,045              0      89,957         384,002          311,403                0         311,403       81.09%           72,600
+101200 - Display Cases                               0             0              0               0              0               0                0       0.00%                   0
+101300 - Directories                                 0             0              0               0              0               0                0       0.00%                   0
+101400 - Signage                              300,000              0     263,383         563,383          327,304                0         327,304       58.10%          236,079
+102113 - Toilet Compartments                         0             0     (37,761)        (37,761)             984                0              984      [2.61%]         (38,745)
+102213 - Wire Mesh Partitions                  61,775              0     (32,175)         29,600           29,600                0           29,600     100.00%                   0
+102226 - Operable Partitions                   37,448              0              0       37,448           47,035                0           47,035     125.60%           (9,587)
+102813 - Toilet Accessories                   389,706              0      67,674         457,380          410,181                0         410,181       89.68%           47,199
+104400 - Fire Protection Specialties                 0             0            472             472        (1,036)               0           (1,036)   [219.54%]           1,508
+105000 - Storage Specialties                  161,717              0     206,118         367,835          343,794                0         343,794       93.46%           24,040
+105100 - Lockers                              682,940              0     (35,866)        647,074          647,074                0         647,074      100.00%                   0
+107500 - Flagpoles                             74,602              0      51,244         125,846          125,846                0         125,846      100.00%                   0
+111200 - Parking Control Equipment                   0             0              0               0              0               0                0       0.00%                   0
+111300 - Loading Dock Equipment               109,000              0     (84,635)         24,365           24,365                0           24,365     100.00%                   0
+113100 - Residential Appliances                61,200              0      97,274         158,474          157,640                0         157,640       99.47%              834
+114000 - Food service Equipment               962,370              0     112,123        1,074,493       1,071,680                0        1,071,680      99.74%            2,813
+115000 - Educational and Scientific Equ         8,075              0       2,277          10,352           10,352                0           10,352     100.00%                   0
+115100 - Library Equipment                           0             0              0               0              0               0                0       0.00%                   0
+115200 - Audio-Visual Equipment                      0             0              0               0              0               0                0       0.00%                   0
+115300 - Laboratory Equipment                  95,835              0     115,339         211,174          186,476                0         186,476       88.30%           24,698
+
+
+Friday, June 28, 2024                                                                                                                                                  Page 2 of 4
+                                          Original         Budget       Change       Revised       Previous       Current                                  Estimated to
+              Cost Code                                                                                                         Billed to Date   % Cmpl
+                                          Budget         Adjustments    Orders       Budget         Billed        Month                                     Complete
+116100 - Theater and Stage Equipment        2,000,388              0     (530,950)     1,469,438     1,464,245              0        1,464,245    99.65%           5,193
+116600 - Athletic Equipment                   513,254              0      593,190      1,106,444       881,714              0         881,714     79.69%         224,731
+122000 - Window Treatments                    411,628              0       79,844       491,472        168,508              0         168,508     34.29%         322,964
+123000 - Casework                                    0             0             0             0              0             0                0     0.00%                  0
+123100 - Manufactured Metal Casework          140,000              0       20,938       160,938         48,631              0           48,631    30.22%         112,307
+123500 - Specialty Casework                          0             0       33,085        33,085         36,948              0           36,948   111.68%          (3,863)
+124813 - Entrance Floor Mats and Frames              0             0             0             0              0             0                0     0.00%                  0
+126100 - Fixed Audience Seating-T             187,000              0       32,248       219,248        219,248              0         219,248    100.00%                  0
+126150 - Fixed Audience Seating-F             825,000              0      405,121      1,230,121     1,230,121              0        1,230,121   100.00%                  0
+129300 - Site Furnishings                            0             0             0             0              0             0                0     0.00%                  0
+129313 - Bicycle Racks                               0             0             0             0              0             0                0     0.00%                  0
+132000 - Scoreboards/Track Equip              243,605              0     (143,787)       99,818         99,818              0           99,818   100.00%                  0
+133000 - Site Buildings                       443,032              0     (473,032)      (30,000)              0             0                0     0.00%         (30,000)
+134000 - Isolated Slab System                  86,625              0             0       86,625         86,625              0           86,625   100.00%                  0
+142000 - Elevators                            679,349        (23,520)     471,364      1,127,193       705,923              0         705,923     62.63%         421,270
+149000 - Other Conveying Equipment             60,000              0      337,481       397,481        201,967              0         201,967     50.81%         195,514
+210000 - Fire Suppression                   1,525,994              0       96,343      1,622,337     1,585,540              0        1,585,540    97.73%          36,797
+220000 - Plumbing                           3,995,739              0     2,990,280     6,986,019    20,518,771         4,257        20,523,028   293.77%     (13,537,009)
+230000 - Heating, Ventilating, and Air     14,592,025              0      (23,978)    14,568,047              0             0                0     0.00%      14,568,047
+230800 - Commissioning of HVAC                       0             0             0             0              0             0                0     0.00%                  0
+230900 - Instrumentation and Control fo              0             0             0             0              0             0                0     0.00%                  0
+260000 - Electrical                        20,236,915              0     3,581,505    23,818,420    21,795,284              0       21,795,284    91.51%       2,023,136
+270000 - Communications                              0             0             0             0              0             0                0     0.00%                  0
+272000 - Data Communications                         0             0             0             0              0             0                0     0.00%                  0
+273000 - Voice Communications                        0             0             0             0              0             0                0     0.00%                  0
+274000 - Audio-Video Communications                  0             0             0             0              0             0                0     0.00%                  0
+280000 - Electronic Safety and Security              0             0             0             0              0             0                0     0.00%                  0
+281000 - Electronic Access Control & In              0             0             0             0              0             0                0     0.00%                  0
+282000 - Electronic Surveillance                     0             0             0             0              0             0                0     0.00%                  0
+283000 - Electronic Detection and Alarm              0             0             0             0              0             0                0     0.00%                  0
+310000 - Earthwork                                   0             0      218,286       218,286          1,962              0            1,962     0.90%         216,324
+311000 - Site Clearing                        472,535              0     (160,892)      311,643        310,406              0         310,406     99.60%           1,237
+312000 - Earthwork                          7,068,815              0     2,673,204     9,742,019     8,890,896              0        8,890,896    91.26%         851,123
+314100 - Shoring                              464,409              0       47,001       511,410        511,410              0         511,410    100.00%                  0
+316300 - Bored Piles                        1,531,404              0      466,221      1,997,625     1,997,625              0        1,997,625   100.00%                  0
+316613 - Aggregate Piers                      427,000              0      246,178       673,178        675,017              0         675,017    100.27%          (1,839)
+320000 - Site Furnishings                     296,054              0      (93,240)      202,814        204,389              0         204,389    100.78%          (1,575)
+321700 - Athletic Surfacing-T&F Turf        2,379,801              0      284,943      2,664,744     2,670,425              0        2,670,425   100.21%          (5,681)
+323000 - Site Concrete                      3,206,654              0      979,027      4,185,681     4,211,157              0        4,211,157   100.61%         (25,476)
+323100 - Fences & Gates                     1,076,640              0      202,412      1,279,052     1,218,964              0        1,218,964    95.30%          60,089
+329000 - Planting                           1,098,343              0      178,116      1,276,459       918,072              0         918,072     71.92%         358,387
+500001 - MLS Default                                 0             0             0             0       328,089              0         328,089      0.00%       (328,089)
+600000 - Contingency                                 0             0             0             0              0             0                0     0.00%                  0
+
+
+Friday, June 28, 2024                                                                                                                                          Page 3 of 4
+                                          Original         Budget      Change         Revised        Previous       Current                                     Estimated to
+               Cost Code                                                                                                            Billed to Date   % Cmpl
+                                          Budget         Adjustments   Orders         Budget          Billed        Month                                        Complete
+600001 - Allowance - Teen Parent Center       500,000              0     (335,934)        164,066        164,066                0         164,066    100.00%                   0
+600002 - Student Success Act                  718,836              0        23,510        742,346        717,298              986         718,283     96.76%           24,063
+600004 - Allowance - Field Storage            500,000              0     (500,000)              0               0               0                0     0.00%                   0
+600006 - Owner Contingency                  6,673,280              0   (15,019,744)    (8,346,464)              0               0                0     0.00%       (8,346,464)
+600007 - Yet to Buy                         7,903,804              0   (10,318,257)    (2,414,453)         1,033                0            1,033    [0.04%]      (2,415,486)
+600008 - PGE Duct Bank Reroute                       0             0     2,751,068      2,751,068      2,751,068                0        2,751,068   100.00%                   0
+610001 - Design Contingency                 1,528,423              0    (1,537,724)        (9,301)              0               0                0     0.00%           (9,301)
+610002 - COW Construction Contingency       7,014,628         23,520   (10,576,894)    (3,538,746)              0               0                0     0.00%       (3,538,746)
+610004 - Phase 2 Escalation                 1,730,621              0    (1,730,621)             0               0               0                0     0.00%                   0
+999900 - Fee                                5,563,903              0       181,972      5,745,875      5,553,708       192,167           5,745,875   100.00%                   0
+999950 -                                             0             0             0              0               0               0                0     0.00%                   0
+           Total                          163,522,253              0     6,124,067    169,646,320    165,535,587       197,614        165,733,201     97.69%        3,913,119
+
+           SALES TAX                                                                                            0              0                 0
+
+           RETENTION                                                                                            0              0                 0
+
+
+           Final Total                    163,522,253              0     6,124,067    169,646,320    165,535,587       197,614        165,733,201     93.15%        3,913,119
+
+
+
+
+Friday, June 28, 2024                                                                                                                                               Page 4 of 4
+                                                                         Voucher Listing
+Company: 00409 - Hoffman Pacificmark LLC JV                                                                                                       Cost Center: 6030118 - Lincoln HS
+
+Date Entered:             04-Jun-24                                                                                                                                    Page 1 of 1
+
+ Type           Voucher                        Explanation          Invoice Number               Vendor #                        Vendor Name                       Amount
+   JE           1475111                                                                                  0   Oregon CAT                                                     $221.00
+   JE           1482465                                                                                  0   603 Final CAT Entry                                            $764.61
+  PV            2887554       ASI-153 Facade & Weather Barri   ZERO VOUCHER                          56565   McKinstry Co. LLC                                                $0.00
+  PV            2899032       Subcontractor to incorporate a   200101447                            661044   Hydro-Temp Mechanical Inc.                                   $4,257.01
+  PV            2899138       ASI-153 Div.09 Drywall & Frami   3017065                                 213   Hoffman Specialty Contracting                                  $204.37
+
+                                                                                                                           Total for Job 6030118 - Lincoln HS            $5,446.99
+
+
+
+
+                                                                         Friday, June 28, 2024
+                                                                Voucher Detail by Cost Code
+Comapny: 00409 - Hoffman Pacificmark LLC JV                                                                                                             Cost Center: 6030118 - Lincoln HS
+                                                                                                                                                                             Page 1 of 1
+
+      Voucher          Type                      Explanation           Invoice Number              Vendor #                             Vendor Name                         Amount
+
+Cost Code       076000Flashing and Sheet Metal
+      2887554           PV     ASI-153 Facade & Weather Barri    ZERO VOUCHER                          56565      McKinstry Co. LLC                                                    $0.00
+
+                                                                                                                                                              Sub-total               $0.00
+Cost Code       092000Plaster and Gypsum Board
+      2899138           PV     ASI-153 Div.09 Drywall & Frami    3017065                                 213      Hoffman Specialty Contracting                                      $204.37
+
+                                                                                                                                                              Sub-total            $204.37
+Cost Code       220000Plumbing
+      2899032           PV     Subcontractor to incorporate a    200101447                            661044      Hydro-Temp Mechanical Inc.                                      $4,257.01
+
+                                                                                                                                                              Sub-total          $4,257.01
+Cost Code       600002Student Success Act
+      1475111           JE                                                                                    0   Oregon CAT                                                         $221.00
+
+      1482465           JE                                                                                    0   603 Final CAT Entry                                                $764.61
+
+                                                                                                                                                              Sub-total            $985.61
+
+                                                                                                                                 Sub-total for Job: 6030118 - Lincoln HS         $5,446.99
+
+
+
+
+                                                                           Friday, June 28, 2024
+                                                Voucher Summary by Cost Code
+Company: 00409 - Hoffman Pacificmark LLC                                                 Cost Center: 6030118 - Lincoln HS
+JV
+
+  Date Entered:    04-Jun-24                                                                                   Page 1 of 1
+
+     Cost Code                                                   Description                          Amount
+
+      076000        Flashing and Sheet Metal                                                                         $0.00
+      092000        Plaster and Gypsum Board                                                                       $204.37
+      220000        Plumbing                                                                                     $4,257.01
+      600002        Student Success Act                                                                            $985.61
+
+                   Total for Cost Center: 6030118 - Lincoln HS                                                   $5,446.99
+
+
+
+
+                                                                 Friday, June 28, 2024
+Oregon Corporate Activity Tax
+Thru 4/30/2024
+
+Job 6030118
+Lincoln High School
+
+
+
+
+                                6030118
+Thru 4/30/2024                            165,535,587.00
+Less Non- CAT Billings
+CAT Billings                              165,535,587.00
+Rate                                              0.376%
+6030118 CAT                                   622,910.41
+CAT from 6039518                               94,608.30
+Total CAT                                     717,518.71
+CAT Accrued (from 600002)                     717,297.71
+Current Month JE                                  221.00
+         Cleveland High School Modernization                                                Skanska USA Building
+         3400 SE 26th Avenue, Portland, Oregon 97202                                         1010 Flanders Street
+                                                  Suite 500
+         Reconciled 75% Schematic Design Estimate with VE                                     Portland, OR 97209
+
+                                            Estimate Cross-Tab Summary
+                                             C              D             E                  F             G                  H
+
+
+                                         75% SD Est Recon with         75% SD Estimate                    Variance 11-15-24         Notes
+                                         VE                            Recon
+
+                                                  316,000 gsf                 336,000 gsf                      (20,000) gsf
+Description                                Cost          Cost/SF         Cost               Cost/SF      Cost          Percent+/-
+
+
+01 MAIN BUILDING                         $208,120,913    $658.61     $230,617,777           $686.36   ($22,496,864)     -10.81%
+A SUBSTRUCTURE                            $20,874,332     $66.06      $21,546,832            $64.13    ($672,500)       -3.22%
+B SHELL                                   $71,301,724    $225.64      $83,551,870           $248.67   ($12,250,146)     -17.18%
+C INTERIORS                               $34,938,036    $110.56      $36,891,610           $109.80   ($1,953,574)      -5.59%
+
+D SERVICES                                $71,866,041    $227.42      $78,345,815           $233.17   ($6,479,774)      -9.02%
+  D10 CONVEYING - ELEVATORS                  $525,500      $1.66          $685,500            $2.04    ($160,000)       -30.45%
+
+  D20 PLUMBING                            $10,355,615     $32.77      $10,494,365            $31.23    ($138,750)       -1.34%
+  D30 HVAC - Option 2                     $27,566,230     $87.23      $32,990,730            $98.19   ($5,424,500)      -19.68%
+
+  D40 FIRE SUPPRESSION                     $2,313,411      $7.32       $2,368,911             $7.05     ($55,500)       -2.40%
+
+  D50 ELECTRICAL                          $31,105,285     $98.43      $31,806,309            $94.66    ($701,024)       -2.25%
+
+E EQUIPMENT & FURNISHINGS                  $8,432,863     $26.69       $9,573,733            $28.49   ($1,140,870)      -13.53%
+z GENERAL REQUIREMENTS                       $707,917      $2.24          $707,917            $2.11               $0     0.00%
+02 MAIN SITE IMPROVEMENTS                 $14,361,022     $45.45      $15,642,493            $46.56   ($1,281,471)      -8.92%
+
+G SITEWORK                                $14,276,431     $45.18      $15,557,902            $46.30   ($1,281,471)      -8.98%
+z GENERAL REQUIREMENTS                        $84,591      $0.27           $84,591            $0.27               $0     0.00%
+03 WAVERLEIGH IMPROVEMENTS - OPTION A        $200,001      $0.63          $200,001            $0.60               $0     0.00%
+
+G SITEWORK                                   $184,517      $0.58          $184,517            $0.55               $0     0.00%
+z GENERAL REQUIREMENTS                        $15,484      $0.05           $15,484            $0.05               $0     0.00%
+04 FIELD HOUSE - 11,000sf                  $5,184,157    $471.29       $5,184,157           $471.29               $0     0.00%
+
+                                        Building=11,0               Building=11,0
+                                        00sf                        00sf
+A SUBSTRUCTURE                              $1,040,943    $ 94.63       $1,040,943           $94.63               $0     0.00%
+
+B SHELL                                    $1,476,847    $ 134.26      $1,476,847           $134.26               $0     0.00%
+
+C INTERIORS                                  $736,045     $ 66.91         $736,045           $66.91               $0     0.00%
+
+D SERVICES                                 $1,805,120    $ 164.10      $1,805,120           $164.10               $0     0.00%
+
+  D20 PLUMBING                               $390,878     $ 35.53         $390,878           $35.53               $0     0.00%
+
+  D30 HVAC                                   $556,164     $ 50.56         $556,164           $50.56               $0     0.00%
+  D40 FIRE SUPPRESSION                        $68,324      $ 6.21          $68,324            $6.21               $0     0.00%
+  D50 ELECTRICAL                             $789,754     $ 71.80         $789,754           $71.80               $0     0.00%
+
+E EQUIPMENT & FURNISHINGS                     $69,564      $6.32           $69,564            $6.32               $0     0.00%
+
+G Building Sitework                           $10,388      $0.94           $10,388            $0.94               $0     0.00%
+z GENERAL REQUIREMENTS                        $45,250      $0.14           $45,250            $0.13               $0     0.00%
+                                             C              D             E                  F             G                  H
+
+
+                                         75% SD Est Recon with         75% SD Estimate                    Variance 11-15-24         Notes
+
+                                         VE                            Recon
+Description                                Cost        Cost/SF         Cost          Cost/SF             Cost          Cost/gsf
+
+05 STADIUM SITE IMPROVEMENTS              $10,601,813     $31.55      $11,104,843            $33.05    ($503,030)       -4.74%
+                                        Buildings=2,7    Site=28    Buildings=2,7      Site=283,
+                                        76sf             3,623      76sf               623
+A SUBSTRUCTURE                               $589,480    $ 212.35         $589,480          $212.35               $0     0.00%
+B SHELL                                    $1,129,225    $ 406.78      $1,129,225           $406.78               $0     0.00%
+C INTERIORS                                  $673,063     $ 61.19         $673,063          $242.46               $0     0.00%
+
+D SERVICES                                   $755,821    $272.27          $755,821          $272.27               $0     0.00%
+  D20 PLUMBING                               $445,524    $160.49          $445,524          $160.49               $0     0.00%
+
+  D30 HVAC                                   $119,889     $43.19          $119,889           $43.19               $0     0.00%
+  D40 FIRE SUPPRESSION                        $27,813     $10.02           $27,813           $10.02               $0     0.00%
+ D50 ELECTRICAL                                  $162,595      $58.57        $162,595        $58.57              $0     0.00%
+E EQUIPMENT & FURNISHINGS                         $15,000        $5.40        $15,000         $5.40              $0     0.00%
+
+F SPECIAL CONSTRUCTION                          $1,524,000       $5.37      $1,724,000        $6.08     ($200,000)     -13.12%
+G SITEWORK                                      $5,804,078     $18.37       $6,107,108       $21.53     ($303,030)      -5.22%
+
+z GENERAL REQUIREMENTS                           $111,146        $0.35       $111,146         $0.39              $0     0.00%
+06 26th AVENUE PARKING                          $1,735,033       $5.49      $2,035,033        $6.06     ($300,000)     -17.29%
+IMPROVEMENTS
+G SITEWORK                                      $1,670,987       $5.29      $1,970,987        $5.87     ($300,000)     -17.95%
+z GENERAL REQUIREMENTS                            $64,046       $ 0.20        $64,046         $0.19              $0     0.00%
+SUBTOTAL DIRECT CONSTRUCTION                  $240,202,939    $760.14     $264,784,304      $788.05    ($24,581,365)   -10.23%
+COSTS
+Q ALLOWANCES
+Overtime & Schedule related - ALLOWANCE          $1,078,414                  $20,826,714               ($19,748,300) -1831.24%
+
+OT lost productivity & GC's - ALLOWANCE            $921,926                  $17,822,626               ($16,900,700) -1833.19%
+
+Trade parking transportation/rental -            $2,400,000                  $2,400,000                          $0     0.00%
+ALLOWANCE
+Trade parking lost productivity -                $1,041,949                  $5,241,949                ($4,200,000) -403.09%
+ALLOWANCE
+Green Energy @ 1.5% total construction cost      $5,749,806                  $6,927,280                ($1,177,475)    -20.48%
+Alternative Procurement Strategy                 $6,248,659                  $7,248,659                ($1,000,000)    -16.00%
+
+ALLOWANCES                                       $17,440,753                 $60,467,228               ($43,026,475)   -246.70%
+
+
+                                              75% SD Est Recon with         75% SD Estimate                Variance 11-15-24      Notes
+
+                                              VE                            Recon
+                                                 C           D                E             F              G              H
+
+Description                                     Cost          Cost/SF       Cost            Cost/SF       Cost         Cost/gsf
+
+SUBTOTAL DIRECT CONST COSTS +                 $257,643,692    $815.33     $325,251,532      $968.01    ($67,607,840)   -28.15%
+ALLOWANCES
+Design/Estimating Contingency @ 10%              $24,020,294                 $26,478,430               ($2,458,136)    -10.23%
+Escalation to Midpoint - September 2027 @        $22,780,277                 $23,168,627                ($388,349)      -1.70%
+.25%/mos=8.75
+Construction Contingency @ 5%                    $12,882,185                 $16,262,577               ($3,380,392)    -26.24%
+
+Subtotal Contingency/Escalation                  $59,682,756                 $65,909,634               ($6,226,878)    -10.43%
+
+General Conditions & General Requirements        $42,528,185                 $42,528,185                         $0     0.00%
+Subtotal General Conditions & General            $42,528,185                 $42,528,185                         $0     0.00%
+Requirements
+Payment and Performance Bond @ 0.7%              $2,683,238                  $3,232,731                 ($549,493)     -20.48%
+Builder's Risk - by Owner                              $0                          $0                            $0     0.00%
+
+Subcontractor Default Insurance (SDI) @          $4,126,061                  $5,048,995                 ($922,934)     -22.37%
+1.25%
+General Liability Insurance GAP @ 0.2%             $766,638                    $923,637                 ($156,999)     -20.48%
+
+Metro SHS tax @ 1%                               $3,833,208                  $4,618,187                 ($784,979)     -20.48%
+
+Fee @ 2.95%                                      $10,983,915                 $13,233,270               ($2,249,355)    -20.48%
+
+Measure 118 not included                               $0                          $0                            $0     0.00%
+
+Moving costs by Owner                                  $0                          $0                            $0     0.00%
+Subtotal Indirect Costs                          $22,393,060                 $27,056,820               ($4,663,761)    -20.83%
+
+Preliminary Services Fee from RFP                  $139,650                    $139,650                          $0     0.00%
+Preconstruction Services Fee from RFP              $932,860                    $932,860                          $0     0.00%
+
+Subtotal Preconstruction Services                $1,072,510                  $1,072,510                          $0     0.00%
+
+
+         TOTAL 75% SD ESTIMATE                $383,320,202    $1,213.04   $461,818,681     $1,374.46   ($78,498,478)   -20.48%
+                                     Jefferson High School 100% SD Estimate 10-18-24
+              Spreadsheet Level               Takeoff Quantity    Total Cost/Unit   Total Amount
+
+
+
+
+A10 FOUNDATIONS                                                   322,451.00 GSF                        23.54 /GSF               7,590,259
+A20 SUBGRADE ENCLOSURES                                           322,451.00 GSF                          0.40 /GSF                 127,372
+B10 SUPERSTRUCTURE                                                322,451.00 GSF                       121.60 /GSF              39,211,573
+B20 EXTERIOR VERTICAL ENCLOSURES                                  322,451.00 GSF                        81.06 /GSF              26,139,485
+B30 EXTERIOR HORIZONTAL ENCLOSURES                                322,451.00 GSF                        17.01 /GSF               5,484,171
+C10 INTERIOR CONSTRUCTION                                         322,451.00 GSF                        67.67 /GSF              21,821,817
+C20 STAIRS                                                        322,451.00 GSF                          6.51 /GSF              2,099,301
+C30 INTERIOR FINISHES                                             322,451.00 GSF                        74.54 /GSF              24,034,746
+D10 CONVEYING                                                     322,451.00 GSF                          4.68 /GSF              1,510,484
+D20 PLUMBING / HVAC                                               322,451.00 GSF                       125.34 /GSF              40,416,911
+D40 FIRE PROTECTION                                               322,451.00 GSF                          6.91 /GSF              2,227,569
+D50 ELECTRICAL                                                    322,451.00 GSF                       132.56 /GSF              42,742,801
+E10 EQUIPMENT                                                     322,451.00 GSF                        16.85 /GSF               5,433,296
+E20 FURNISHINGS                                                   322,451.00 GSF                          5.58 /GSF              1,800,068
+F20 FACILITY REMEDIATION                                          322,451.00 GSF                        25.80 /GSF               8,318,931
+F30 DEMOLITION                                                    322,451.00 GSF                        21.93 /GSF               7,071,480
+G10 SITE PREPARATION                                              322,451.00 GSF                        56.27 /GSF              18,143,652
+G20 SITE IMPROVEMENTS                                             322,451.00 GSF                        43.67 /GSF              14,082,582
+Z10 GENERAL REQUIREMENTS                                          322,451.00 GSF                        85.02 /GSF              27,414,958
+
+
+
+                                            Estimate Totals
+                                     Description         Amount                                    Totals   Rate      st per Unit
+
+        Subtotal Direct Cost of                   295,671,457                     295,671,457
+        Work
+        Estimating & Design                        14,783,573                              5.000       %
+        Contingency
+        Escalation   to Nov 25                     16,853,273                              5.700       %
+        Escalation from Nov 25 to Mid Construction Aug 27 (on 50% of        15,056,182                                                 31,909,455
+        Subtotal Design Phase Contingencies                      46,693,028        342,364,485
+        Owner GMP Contingency - NIC
+        Construction Contingency                             17,118,224                          5.000 %                               63,811,252
+        Subtotal Construction Contingencies                      17,118,224        359,482,709
+        GCs Staff Labor & Support                                28,954,314
+        GCs Site Services - See Estimate
+        Subtotal GCs                                             28,954,314        388,437,023
+        Liability Ins. - NIC (DCIP)
+        Builders Risk Insurance - NIC
+        Non-Wrap Project Insurance                                3,495,933                      0.900 %
+        Sub Default Insurance                                     3,695,893                      1.250 %
+        Sub Default Insurance on Contingencies               797,641
+        Subtotal Insurances                                      7,989,467         396,426,490
+        GC Performance & Payment Bond                        3,550,864                           0.850 %
+
+        Subtotal Bonds                                           3,550,864         399,977,354
+        Fee                                                  13,999,207                          3.500 %
+
+        Subtotal Before Precon Agreement                         13,999,207        413,976,561
+        ACCO + CP Preconstruction & Early Investigation to        1,220,000
+        April 24
+        Early  Investigation Change Order                           250,000
+        ACCO + CP Preconstruction September 24 to Aug             2,302,176
+        25
+        Early Trade Partner Precon & BIM - In COW
+        Overall JHS Project Total                                3,772,176         417,748,737
+   BUILDING:  Ida B Wells High School Replacement Portland, OR                                JOB NO: ESTIMATOR: MT/DB/LL
+   LOCATION:  BORA                                                                            CHECKED BY: NI
+   ARCHITECT:
+   SUBJECT:   100% SD Estimate Rev0                                                                   DATE: 11/11/2024
+                                                                                                  DWG DATE: 10/14/2024
+
+                                  Description                                    Area                   $/sf              Total
+                      New Building Estimate                                            324,593         $926.43            $300,713,853
+                      Site Work Estimate                                            1,150,000           $66.66             $76,660,684
+                      GMP Estimate                                                     324,593       $1,162.61            $377,374,537
+                      Budget
+                      Owner Contingency
+
+
+
+                      Total GMP Value                                                                                     $377,374,537
+                                                      Cost Add / (Cost Deduct)
+   Alternate Pricing (including markups):                                        Alt 1:       Structural System                              TBD
+   Alt 2:     not used                                           TBD
+   Alt 3:     Structural - CLT Grade                           TBD
+   Alt 4:     Mechanical Plant                                  TBD
+   Alt 5:     Mechanical Distribution                          TBD
+   Alt 6:     Façade Materials                                  TBD
+   Alt 7:     Ceiling Fans in Classrooms                       TBD
+   Alt 8:     Green Roofs                                       TBD
+   Alt 9.:     Smoke Detection                                   TBD
+   Alt 10:     Generator                                        TBD
+   Alt 11:     1.5% GET Funds                                   TBD
+   Alt 12:     Mechanical Screening                            TBD
+   Alt 13:     Bleacher Location                                TBD
+   Alt 14:     Bleacher Capacity                                TBD
+   Alt 15:     Multiu-Purpose Field                             TBD
+   Alt 16:     Hitting Facility                                 TBD
+   Alt 17:     Artificial Turf                                   TBD
+
+
+
+
+     Allowance Pricing (incl. in estimate):
+     Wayfinding and Storytelling Scope              $500,000
+     Extrerior Mockup                                $200,000
+
+   NOTES
+   Excludes Contaminated Soil Costs (except as noted) Excludes Permits (other than Trade Permits) Excludes FF&E
+   Excludes Utility Connection Fees and Relocates (except as noted)
+
+
+
+
+BUILDING:   Ida B Wells High School Replacement                                                                                        JOB NO: 0
+LOCATION: Portland, OR                                                                                                               ESTIMATOR:
+MT/DB/LL
+ARCHITECT: BORA                                                                                                                     CHECKED BY: NI
+SUBJECT:    100% SD Estimate Rev0                                                                                                        DATE:
+11/11/2024
+DWG DATE: 10/14/2024
+BASE CONSTRUCTION SCOPE
+
+
+                                                               GSF                  324,593        1,150,000        324,593
+                                    Descritpion                             Building               Site           Total         Cost/GSF
+            A10 - Foundations                                                    $6,512,131                $0     $6,512,131        $20.06
+             A20 - Basement Construction                              $4,262,183           $0      $4,262,183     $13.13
+             B10 - Superstructure                                    $33,495,653           $0     $33,495,653    $103.19
+             B20 - Exterior Enclosure                                $20,395,404           $0     $20,395,404     $62.83
+             B30 - Roofing                                            $5,306,310           $0      $5,306,310     $16.35
+             C10 - Interior Construction                             $14,799,956           $0     $14,799,956     $45.60
+             C20 - Stairs                                             $1,258,000           $0      $1,258,000      $3.88
+             C30 - Interior Finishes                                 $15,644,368           $0     $15,644,368     $48.20
+             D10 - Conveying                                           $970,000            $0       $970,000       $2.99
+             D20 - Plumbing                                           $8,543,570           $0      $8,543,570     $26.32
+             D30 - HVAC                                              $29,670,303           $0     $29,670,303     $91.41
+             D40 - Fire Protection                                    $2,596,744           $0      $2,596,744      $8.00
+             D50 - Electrical                                        $33,844,271           $0     $33,844,271    $104.27
+             E10 - Equipment                                          $4,825,000           $0      $4,825,000     $14.86
+             E20 - Furnishings                                        $4,220,737           $0      $4,220,737     $13.00
+             F10 - Special Construction                                      $0            $0             $0       $0.00
+             F20 - Selective Building Demolition                             $0            $0             $0       $0.00
+             G10 - Site Preparation                                          $0    $11,861,377    $11,861,377     $36.54
+             G20 - Site Improvements                                         $0    $28,639,575    $28,639,575     $88.23
+             G30 - Site Mechanical Utilities                                 $0     $3,503,700     $3,503,700     $10.79
+             G40 - Site Electrical Utilities                                 $0     $3,500,000     $3,500,000     $10.78
+             G90 - Other Site Construction                                   $0            $0             $0       $0.00
+             Z40 - General Requirements/Logistics                            $0            $0             $0       $0.00
+             Subtotal                                               $186,344,630   $47,504,651   $233,849,281    $720.44
+                                                                        $574.09        $41.31        $720.44
+MARK-
+UPS          Contingencies & Escalation
+   12.50%      Design Contingency                                    $23,293,079    $5,938,081    $29,231,160     $90.05
+    5.00%      Construction Contingency                               $9,317,231    $2,375,233    $11,692,464     $36.02
+   13.75%      Esc. to Midpoint of Construction (5% to June 2027)    $25,622,387    $6,531,890    $32,154,276     $99.06
+             General Conditions, Requirements & Logistics
+               Pre-Construction Services                               $762,091      $194,279       $956,370       $2.95
+               General Conditions, Requirements & Logistics          $35,104,090    $8,949,051    $44,053,141    $135.72
+             Insurances
+   1.107%      Subcontractor Default Insurance (SDI)                  $2,707,471     $690,213      $3,397,684     $10.47
+   0.649%      Hoffman Bond                                           $1,922,791     $490,175      $2,412,966      $7.43
+  by owner     Builder's Risk Insurance                                      $0            $0             $0       $0.00
+   0.379%      Offsite GL and Professional Liability Insur            $1,122,863     $286,250      $1,409,113      $4.34
+    0.50%      DSIP Difference in Coverage                            $1,481,349     $377,639      $1,858,988      $5.73
+               requirements
+             Taxes
+  Excluded     City of Portland Clean Energy Tax - NIC                       $0            $0             $0       $0.00
+             Fees & Non Marked Up Costs
+    2.90%      Contractor Fee, including CAT                          $8,591,824    $2,190,305    $10,782,130     $33.22
+TOTAL DIRECT CONSTRUCTION COST                                      $296,269,806   $75,527,767   $371,797,573   $1,145.43
+    1.50% Allowance for Green Energy Technology                       $4,444,047    $1,132,917     $5,576,964
+TOTAL with Green Energy Technology                                  $300,713,853   $76,660,684   $377,374,537   $1,162.61
+

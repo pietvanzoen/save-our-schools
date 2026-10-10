@@ -1,0 +1,1296 @@
+     ATHLETIC FACILITY IMPROVEMENTS
+     Facility needs are based on the PPS Ed Spec and Long Range Facility Plan
+                                                                                    LRFP Hubs and Middle Schools               High School Sites
+     [letter] after an item indicates a content note; see Notes below this chart.
+
+     High School Athletic Hubs
+     Jackson HUB [c]                                                                  X      X            $27,264,266 X [f]             $17,721,773
+     Marshall Campus HUB [c]                                                          X      X             $6,173,370 X [h]               $6,173,370
+     Whitaker HUB [c]                                                                 X      X            $30,098,187
+     Middle School Turf & Lights
+     West Sylvan [c]                                                                  X                                    X            $13,333,614
+     Ockley Green [c]                                                                 X      X            $13,333,614
+     George [c]                                                                       X      X            $13,333,614
+     Hosford [c]                                                                      X                                  X [d]
+     Lane [c]                                                                         X      X            $13,333,614
+     Beaumont [c]                                                                     X
+     Roseway Heights [c]                                                              X      X            $13,333,614
+     High School Improvements
+     Roosevelt Turf Baseball, Softball and Hitting Facility [c] [e]                                                        X            $10,249,328
+     Grant Lights [a]                                                                                                      X              $1,471,570
+     Grant Seating [a]                                                                                                     X              $5,264,320
+     Franklin Upper (turf, lights, hitting facility) [c]                              X                                    X            $13,208,346
+     Powell Park Turf [d]                                                                                                X [d]
+     Other
+     HS Turf and Track Replacement in next 10 years                                                                      X [g]          $11,400,000
+
+                                                                                                        $116,870,280                    $78,822,321
+
+     NOTES:
+      - 2024 planning assumptions:
+      - Estimates based on historic PPS project data: $31/SF is used to calculate project costs for turf fields based on turf field projects at Wells,
+     Jefferson, Marhsall, and McDaniel, hard costs are adjusted to 2022 costs and escalation applied. Assumptions also include $790k for field
+     lighting plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022 costs. Middle school
+     fields assumed to be combined use Soccer/Football/Lacrosse with Baseball and Softball. Estimated field area is an average; surveyed site
+     conditions will determine actual project area.
+
+     a) Improvement per PPS Board of Education resolution.
+     b) Improvement to support PIL HS and Youth; mixed funding including community, PPS Facilities.
+     c) Ed Spec requirement and/or Long Range Facility Plan improvement priority.
+     d) Cleveland HS athletic facilities as a stand-alone scope are not incorporated into 2024 athletic facility bond planning, they are under the
+     modernization project budget.
+     e) RHS field athletics scope is assumed to be a single project for efficiency in permitting processes.
+     f) Assumes phase I of permitted master plan.
+     g) Facilities maintenance plan is attached.
+     h) Assumes retaining existing athletic facilities and adding a multi-use field and lights.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                                                2024
+   Jackson Hub-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                               AREA / QTY          UNIT COST         COST
+                 Turf Multiuse Field                                            190,000                $31        $5,890,000
+                 Lights                                                    allowance [7]         $815,000           $815,000
+                 Hitting Facility                                                  9,825              $350        $3,438,750
+                 Turf Field at SW area of site                                   94,000                $28        $2,632,000
+                 SUBTOTAL                                                                                       $12,775,750
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                             $1,277,575
+
+
+                 FF&E ($25/sf interior space) [2]                                                                   $245,625
+
+
+                 JURISDICTIONAL REQUIREMENTS (30%) [4]*                                                           $3,832,725
+
+
+                 SOFT COSTS (18%) [5]                                                                             $2,299,635
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $1,916,363
+
+
+                 SUBTOTAL                                                                                       $22,347,673
+
+
+                 ADJUSTMENT TO 2025 START                                                                         $1,823,570
+                 ESCALATION                                                                                       $3,093,023
+
+
+                 TOTAL                                                                                        $27,264,266
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4]* Conditions of Approval for the Conditional Use Master Plan under permit 2022-185273-000-00-LU
+                 include required improvements per City of Portland Title 33 Code 33.258.070 Nonconforming
+                 Development; contingency is increased to account for the scope of these requirements and anticipated
+                 building permit complexity related to site topography, and soils conditions..
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+Jackson Hub-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $22,347,673        $893,907          2023
+                                                     $23,241,579        $929,663          2024
+
+
+
+
+          Total at start of work, 2025: $24,171,243
+
+Jackson Hub Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $24,171,243            $966,850           1            $25,138,092    $5,027,618           20.00%
+Escalation (% per year):  4%             $804,419           2            $20,914,893    $5,228,723           25.00%
+                                         $627,447           3            $16,313,616    $4,894,085           30.00%
+                                         $456,781           4            $11,876,313    $5,938,156           50.00%
+                                         $237,526           5             $6,175,683    $6,175,683          100.00%
+            Total Escalation:         $3,093,023                         Total Cost: $27,264,266
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   Marshall Hub-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                               AREA / QTY         UNIT COST          COST
+                 Turf Multiuse Field                                             84,000                $31        $2,604,000
+                 Lights                                                       allowance          $815,000           $815,000
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $3,419,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $341,900
+
+
+                 JURISDICTIONAL REQUIREMENTS (5%) [4]                                                               $170,950
+
+
+                 SOFT COSTS (18%) [5]                                                                               $615,420
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                      $512,850
+
+
+                 SUBTOTAL                                                                                        $5,060,120
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $412,906
+                 ESCALATION                                                                                         $700,344
+
+
+                 TOTAL                                                                                          $6,173,370
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+Marshall Hub-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%    $5,060,120        $202,405          2023
+                                                      $5,262,525        $210,501          2024
+
+
+
+
+          Total at start of work, 2025: $5,473,026
+
+Marshall Hub Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                          Investment
+                                                                       Remaining                          Target % of
+                                                                       Replacements                       Remaining
+                                      Escalation           Year        + Escalation  Investment Target    Replacements
+Project costs:     $5,473,026            $218,921           1             $5,691,947    $1,138,389            20.00%
+Escalation (% per year):  4%             $182,142           2             $4,735,700    $1,183,925            25.00%
+                                         $142,071           3             $3,693,846    $1,108,154            30.00%
+                                         $103,428           4             $2,689,120    $1,344,560            50.00%
+                                          $53,782           5             $1,398,342    $1,398,342           100.00%
+            Total Escalation:           $700,344                         Total Cost:         $6,173,370
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                        2024
+Whitaker Hub-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $24,670,550        $986,822          2023
+                                                     $25,657,372      $1,026,295          2024
+
+
+
+
+          Total at start of work, 2025: $26,683,667
+
+Whitaker Hub Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $26,683,667          $1,067,347           1            $27,751,014    $5,550,203           20.00%
+Escalation (% per year):  4%             $888,032           2            $23,088,843     $5,772,211          25.00%
+                                         $692,665           3            $18,009,298    $5,402,789           30.00%
+                                         $504,260           4            $13,110,769    $6,555,384           50.00%
+                                         $262,215           5             $6,817,600    $6,817,600          100.00%
+            Total Escalation:         $3,414,520                         Total Cost: $30,098,187
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-04-29
+                 DESCRIPTION OF WORK [1]                               AREA / QTY          UNIT COST         COST
+                 Turf Multiuse Fields - 2 @ 190,000sf each                      380,000                $28      $10,640,000
+                 Lights                                                       allowance          $815,000           $815,000
+                 Hitting Facility                                                  9,800              $350        $3,430,000
+                 Parking                                                      allowance          $100,000           $100,000
+                 SUBTOTAL: HARD COSTS [5]                                                                       $14,985,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                             $1,498,500
+
+
+                 FF&E ($25/sf interior space) [2]                                                                   $245,000
+
+
+                 JURISDICTIONAL REQUIREMENTS (20%) [4]                                                            $2,997,000
+
+
+                 SOFT COSTS (18%) [5]                                                                             $2,697,300
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $2,247,750
+
+
+                 SUBTOTAL                                                                                       $24,670,550
+
+
+                 ADJUSTMENT TO 2025 START                                                                         $2,013,117
+                 ESCALATION                                                                                       $3,414,520
+
+
+                 TOTAL                                                                                        $30,098,187
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+   West Sylvan-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                                 AREA / QTY       UNIT COST          COST
+                 Turf Multiuse Field                                            190,000                $31        $5,890,000
+                 Lights                                                       allowance          $815,000           $815,000
+
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $6,705,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $670,500
+
+
+                 JURISDICTIONAL REQUIREMENTS (20%) [4]                                                            $1,341,000
+
+
+                 SOFT COSTS (18%) [5]                                                                             $1,206,900
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $1,005,750
+
+
+                 SUBTOTAL                                                                                       $10,929,150
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $891,819
+                 ESCALATION                                                                                       $1,512,646
+
+
+                 TOTAL                                                                                        $13,333,614
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements under City of Beaverton development and building code are assumed to
+                 add to project scope. For sites with redevelopment within the last 10 years, 5% contingency carried, for
+                 sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+West Sylvan-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $10,929,150        $437,166          2023
+                                                     $11,366,316        $454,653          2024
+
+
+
+
+          Total at start of work, 2025: $11,820,969
+
+West Sylvan Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $11,820,969            $472,839           1            $12,293,807    $2,458,761           20.00%
+Escalation (% per year):  4%             $393,402           2            $10,228,448     $2,557,112          25.00%
+                                         $306,853           3             $7,978,189    $2,393,457           30.00%
+                                         $223,389           4             $5,808,122    $2,904,061           50.00%
+                                         $116,162           5             $3,020,223    $3,020,223          100.00%
+            Total Escalation:         $1,512,646                         Total Cost: $13,333,614
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   Ockley Green-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                                 AREA / QTY       UNIT COST          COST
+                 Turf Multiuse Field                                            190,000                $31        $5,890,000
+                 Lights                                                       allowance          $815,000           $815,000
+
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $6,705,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $670,500
+
+
+                 JURISDICTIONAL REQUIREMENTS (20%) [4]                                                            $1,341,000
+
+
+                 SOFT COSTS (18%) [5]                                                                             $1,206,900
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $1,005,750
+
+
+                 SUBTOTAL                                                                                       $10,929,150
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $891,819
+                 ESCALATION                                                                                       $1,512,646
+
+
+                 TOTAL                                                                                        $13,333,614
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+Ockley Green-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $10,929,150        $437,166          2023
+                                                     $11,366,316        $454,653          2024
+
+
+
+
+          Total at start of work, 2025: $11,820,969
+
+Ockley Green Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $11,820,969            $472,839           1            $12,293,807    $2,458,761           20.00%
+Escalation (% per year):  4%             $393,402           2            $10,228,448     $2,557,112          25.00%
+                                         $306,853           3             $7,978,189    $2,393,457           30.00%
+                                         $223,389           4             $5,808,122    $2,904,061           50.00%
+                                         $116,162           5             $3,020,223    $3,020,223          100.00%
+            Total Escalation:         $1,512,646                         Total Cost: $13,333,614
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   George-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                                 AREA / QTY       UNIT COST          COST
+                 Turf Multiuse Field                                            190,000                $31        $5,890,000
+                 Lights                                                       allowance          $815,000           $815,000
+
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $6,705,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $670,500
+
+
+                 JURISDICTIONAL REQUIREMENTS (20%) [4]                                                            $1,341,000
+
+
+                 SOFT COSTS (18%) [5]                                                                             $1,206,900
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $1,005,750
+
+
+                 SUBTOTAL                                                                                       $10,929,150
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $891,819
+                 ESCALATION                                                                                       $1,512,646
+
+
+                 TOTAL                                                                                        $13,333,614
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+George-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $10,929,150        $437,166          2023
+                                                     $11,366,316        $454,653          2024
+
+
+
+
+          Total at start of work, 2025: $11,820,969
+
+George Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $11,820,969            $472,839           1            $12,293,807    $2,458,761           20.00%
+Escalation (% per year):  4%             $393,402           2            $10,228,448     $2,557,112          25.00%
+                                         $306,853           3             $7,978,189    $2,393,457           30.00%
+                                         $223,389           4             $5,808,122    $2,904,061           50.00%
+                                         $116,162           5             $3,020,223    $3,020,223          100.00%
+            Total Escalation:         $1,512,646                         Total Cost: $13,333,614
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   Hosford-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                                 AREA / QTY       UNIT COST          COST
+                 Turf Multiuse Field                                            190,000                $31        $5,890,000
+                 Lights                                                       allowance          $815,000           $815,000
+
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $6,705,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $670,500
+
+
+                 JURISDICTIONAL REQUIREMENTS (20%) [4]                                                            $1,341,000
+
+
+                 SOFT COSTS (18%) [5]                                                                             $1,206,900
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $1,005,750
+
+
+                 SUBTOTAL                                                                                       $10,929,150
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $891,819
+                 ESCALATION                                                                                       $1,512,646
+
+
+                 TOTAL                                                                                        $13,333,614
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+Hosford-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $10,929,150        $437,166          2023
+                                                     $11,366,316        $454,653          2024
+
+
+
+
+          Total at start of work, 2025: $11,820,969
+
+Hosford Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $11,820,969            $472,839           1            $12,293,807    $2,458,761           20.00%
+Escalation (% per year):  4%             $393,402           2            $10,228,448     $2,557,112          25.00%
+                                         $306,853           3             $7,978,189    $2,393,457           30.00%
+                                         $223,389           4             $5,808,122    $2,904,061           50.00%
+                                         $116,162           5             $3,020,223    $3,020,223          100.00%
+            Total Escalation:         $1,512,646                         Total Cost: $13,333,614
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   Lane-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                                 AREA / QTY       UNIT COST          COST
+                 Turf Multiuse Field                                            190,000                $31        $5,890,000
+                 Lights                                                       allowance          $815,000           $815,000
+
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $6,705,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $670,500
+
+
+                 JURISDICTIONAL REQUIREMENTS (20%) [4]                                                            $1,341,000
+
+
+                 SOFT COSTS (18%) [5]                                                                             $1,206,900
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $1,005,750
+
+
+                 SUBTOTAL                                                                                       $10,929,150
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $891,819
+                 ESCALATION                                                                                       $1,512,646
+
+
+                 TOTAL                                                                                        $13,333,614
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+Lane-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $10,929,150        $437,166          2023
+                                                     $11,366,316        $454,653          2024
+
+
+
+
+          Total at start of work, 2025: $11,820,969
+
+Lane Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $11,820,969            $472,839           1            $12,293,807    $2,458,761           20.00%
+Escalation (% per year):  4%             $393,402           2            $10,228,448     $2,557,112          25.00%
+                                         $306,853           3             $7,978,189    $2,393,457           30.00%
+                                         $223,389           4             $5,808,122    $2,904,061           50.00%
+                                         $116,162           5             $3,020,223    $3,020,223          100.00%
+            Total Escalation:         $1,512,646                         Total Cost: $13,333,614
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   Beaumont-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                                 AREA / QTY       UNIT COST          COST
+                 Turf Multiuse Field                                            190,000                $31        $5,890,000
+                 Lights                                                       allowance          $815,000           $815,000
+
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $6,705,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $670,500
+
+
+                 JURISDICTIONAL REQUIREMENTS (20%) [4]                                                            $1,341,000
+
+
+                 SOFT COSTS (18%) [5]                                                                             $1,206,900
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $1,005,750
+
+
+                 SUBTOTAL                                                                                       $10,929,150
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $891,819
+                 ESCALATION                                                                                       $1,512,646
+
+
+                 TOTAL                                                                                        $13,333,614
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+Beaumont-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $10,929,150        $437,166          2023
+                                                     $11,366,316        $454,653          2024
+
+
+
+
+          Total at start of work, 2025: $11,820,969
+
+Beaumont Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $11,820,969            $472,839           1            $12,293,807    $2,458,761           20.00%
+Escalation (% per year):  4%             $393,402           2            $10,228,448     $2,557,112          25.00%
+                                         $306,853           3             $7,978,189    $2,393,457           30.00%
+                                         $223,389           4             $5,808,122    $2,904,061           50.00%
+                                         $116,162           5             $3,020,223    $3,020,223          100.00%
+            Total Escalation:         $1,512,646                         Total Cost: $13,333,614
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   Roseway Heights-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                                 AREA / QTY       UNIT COST          COST
+                 Turf Multiuse Field                                            190,000                $31        $5,890,000
+                 Lights                                                       allowance          $815,000           $815,000
+
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $6,705,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $670,500
+
+
+                 JURISDICTIONAL REQUIREMENTS (20%) [4]                                                            $1,341,000
+
+
+                 SOFT COSTS (18%) [5]                                                                             $1,206,900
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $1,005,750
+
+
+                 SUBTOTAL                                                                                       $10,929,150
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $891,819
+                 ESCALATION                                                                                       $1,512,646
+
+
+                 TOTAL                                                                                        $13,333,614
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+Roseway Heights-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $10,929,150        $437,166          2023
+                                                     $11,366,316        $454,653          2024
+
+
+
+
+          Total at start of work, 2025: $11,820,969
+
+Roseway Heights Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $11,820,969            $472,839           1            $12,293,807    $2,458,761           20.00%
+Escalation (% per year):  4%             $393,402           2            $10,228,448     $2,557,112          25.00%
+                                         $306,853           3             $7,978,189    $2,393,457           30.00%
+                                         $223,389           4             $5,808,122    $2,904,061           50.00%
+                                         $116,162           5             $3,020,223    $3,020,223          100.00%
+            Total Escalation:         $1,512,646                         Total Cost: $13,333,614
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   RHS Field Athletics-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                               AREA / QTY          UNIT COST         COST
+                 Turf Baseball & Softball Field                                 112,098                $31        $3,475,038
+
+
+                 Hitting Facility                                                  6,000              $350        $2,100,000
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $5,575,038
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $557,504
+
+
+                 FF&E ($25/sf interior space) [2]                                                                   $150,000
+
+
+                 JURISDICTIONAL REQUIREMENTS (5%) [4]                                                               $278,752
+
+
+                 SOFT COSTS (18%) [5]                                                                             $1,003,507
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                      $836,256
+
+
+                 SUBTOTAL                                                                                        $8,401,056
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $685,526
+                 ESCALATION                                                                                       $1,162,746
+
+
+                 TOTAL                                                                                        $10,249,328
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+RHS Field Athletics-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%    $8,401,056        $336,042          2023
+                                                      $8,737,098        $349,484          2024
+
+
+
+
+             Total at start of work, 2025: $9,086,582
+
+RHS Field Athletics Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:     $9,086,582            $363,463           1             $9,450,046    $1,890,009           20.00%
+Escalation (% per year):  4%             $302,401           2             $7,862,438    $1,965,610           25.00%
+                                         $235,873           3             $6,132,702     $1,839,811          30.00%
+                                         $171,716           4             $4,464,607    $2,232,303           50.00%
+                                          $89,292           5             $2,321,596    $2,321,596          100.00%
+            Total Escalation:         $1,162,746                         Total Cost: $10,249,328
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+   GHS Lights-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                               AREA / QTY         UNIT COST         COST
+
+
+                 Lights                                                       allowance          $815,000          $815,000
+
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                          $815,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                                $81,500
+
+
+                 JURISDICTIONAL REQUIREMENTS (5%) [4]                                                                $40,750
+
+
+                 SOFT COSTS (18%) [5]                                                                              $146,700
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                     $122,250
+
+
+                 SUBTOTAL                                                                                        $1,206,200
+
+
+                 ADJUSTMENT TO 2025 START                                                                            $98,426
+                 ESCALATION                                                                                        $166,944
+
+
+                 TOTAL                                                                                          $1,471,570
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+GHS Lights-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%    $1,206,200         $48,248           2023
+                                                      $1,254,448         $50,178           2024
+
+
+
+
+          Total at start of work, 2025: $1,304,626
+
+GHS Lights Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                          Investment
+                                                                       Remaining                          Target % of
+                                                                       Replacements                       Remaining
+                                      Escalation           Year        + Escalation  Investment Target    Replacements
+Project costs:     $1,304,626             $52,185           1             $1,356,811       $271,362           20.00%
+Escalation (% per year):  4%              $43,418           2             $1,128,867       $282,217           25.00%
+                                          $33,866           3               $880,516       $264,155           30.00%
+                                          $24,654           4               $641,016       $320,508           50.00%
+                                          $12,820           5               $333,328       $333,328          100.00%
+            Total Escalation:           $166,944                         Total Cost:         $1,471,570
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                        2024
+   GHS Seating-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK [1]                               AREA / QTY         UNIT COST         COST
+
+
+                 Seating walls and landscape                                  allowance        $2,500,000         $2,500,000
+                 Site development at field and seating                        allowance          $500,000          $500,000
+
+
+                 SUBTOTAL: HARD COSTS [2]                                                                        $3,000,000
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                              $300,000
+
+
+                 JURISDICTIONAL REQUIREMENTS (5%) [4]                                                                $25,000
+
+
+                 SOFT COSTS (18%) [5]                                                                              $540,000
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                     $450,000
+
+
+                 SUBTOTAL                                                                                        $4,315,000
+
+
+                 ADJUSTMENT TO 2025 START                                                                          $352,104
+                 ESCALATION                                                                                        $597,216
+
+
+                 TOTAL                                                                                          $5,264,320
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+GHS Seating-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%    $4,315,000        $172,600          2023
+                                                      $4,487,600        $179,504          2024
+
+
+
+
+          Total at start of work, 2025: $4,667,104
+
+GHS Seating Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                          Investment
+                                                                       Remaining                          Target % of
+                                                                       Replacements                       Remaining
+                                      Escalation           Year        + Escalation  Investment Target    Replacements
+Project costs:     $4,667,104            $186,684           1             $4,853,788      $970,758            20.00%
+Escalation (% per year):  4%             $155,321           2             $4,038,352    $1,009,588            25.00%
+                                         $121,151           3             $3,149,914      $944,974            30.00%
+                                          $88,198           4             $2,293,138    $1,146,569            50.00%
+                                          $45,863           5             $1,192,432    $1,192,432           100.00%
+            Total Escalation:           $597,216                         Total Cost:         $5,264,320
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                        2024
+   FHS-Bond Planning
+   SCOPE         For escalation, see next page
+                 See numbered notes below. Hard costs are 2022 values.
+         Updated: 2024-12-11
+                 DESCRIPTION OF WORK                                   AREA / QTY          UNIT COST         COST
+                 Turf Baseball & Softball Field                                 138,672                $31        $4,298,832
+                 Lights                                                       allowance          $815,000           $815,000
+                 Hitting Facility                                                  6,000              $350        $2,100,000
+
+
+                 SUBTOTAL                                                                                        $7,213,832
+
+
+                 SCOPE & DESIGN CONTINGENCY (10%) [3]                                                               $721,383
+
+
+                 FF&E ($25/sf interior space) [2]                                                                   $150,000
+
+
+                 JURISDICTIONAL REQUIREMENTS (5%) [4]                                                               $360,692
+
+
+                 SOFT COSTS (18%) [5]                                                                             $1,298,490
+
+
+                 PROJECT CONTINGENCY (15%) [6]                                                                    $1,082,075
+
+
+                 SUBTOTAL                                                                                       $10,826,471
+
+
+                 ADJUSTMENT TO 2025 START                                                                           $883,440
+                 ESCALATION                                                                                       $1,498,435
+
+
+                 TOTAL                                                                                        $13,208,346
+
+
+                 NOTES:
+                 [1] Assumes building athletic facilities to the requirements identified in the PPS 2017 HS Ed Spec and the
+                 PPS Long Range Facility Plan with combined use fields to support Soccer/Football/Lacrosse; with
+                 Baseball and Softball. Field area in sf is preliminary.
+                 [2] Historic PPS project data: $31/SF is used to calculate project costs for turf fields. This is based on
+                 historic data from turf field projects at Wells, Jefferson, Marshall, and McDaniel. $790k for field lighting
+                 plus $25k allowance for electrical service based on Musco ROM (quote) from late 2019, adjusted to 2022
+                 costs. FFE is estimated as an allowance of $25/sf for half of existing interior space area and all of new
+                 interior space area where included in projects.
+                 [3] Scope contingency assumption is 10% of anticipated hard costs to account for program support
+                 unknowns.
+                 [4] Jurisdictional requirements including but not limited to required improvements per City of Portland
+                 Title 33 Code 33.258.070 Nonconforming Development and for building permit approval (where needed)
+                 are assumed to add to project scope. For sites with redevelopment within the last 10 years, 5%
+                 contingency carried, for sites with no redevelopment within the last 10 years, 20% contingency carried.
+                 [5] Historic PPS project data.
+                 [6] Project contingency assumption of 15% to account for unforseen conditions.
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                                       2024
+FHS-Bond Planning
+ESCALATION For scope planning, see previous page
+
+Escalated + Soft Costs                             Starting BalanceEscalation (4%/year)
+                                                                                  Calendar Year
+                                                4%   $10,826,471        $433,059          2023
+                                                     $11,259,530        $450,381          2024
+
+
+
+
+          Total at start of work, 2025: $11,709,911
+
+FHS Projection
+The investment target is calculated as a percentage of the starting balance for each year.
+                                                                                                         Investment
+                                                                       Remaining                         Target % of
+                                                                       Replacements                      Remaining
+                                      Escalation           Year        + Escalation  Investment Target   Replacements
+Project costs:    $11,709,911            $468,396           1            $12,178,308    $2,435,662           20.00%
+Escalation (% per year):  4%             $389,706           2            $10,132,352    $2,533,088           25.00%
+                                         $303,971           3             $7,903,235    $2,370,970           30.00%
+                                         $221,291           4             $5,753,555    $2,876,777           50.00%
+                                         $115,071           5             $2,991,849    $2,991,849          100.00%
+            Total Escalation:         $1,498,435                         Total Cost: $13,208,346
+
+
+
+
+PPS BOND PLANNING - ATHLETIC IMPROVEMENTS                                                                       2024
+       Turf Fields and Track replacements by end of life year
+       Site Name                          Site Address          REPLACEMEN 2029         2030         2031         2032         2033         2034
+                                                                T DATE
+       RIEKE (Parks) Field - Multisport   1405 SW VERMONT              2029             (      -   ) (      -   ) (      -   ) (      -   ) (      -   )
+       FRANKLIN Field - Multisport        5405 SE WOODWARD             2029             (      -   ) (      -   ) (      -   ) (      -   ) (      -   )
+       MARSHALL Field - Multisport        3905 SE 91ST AVE             2030 (     -   )              (      -   ) (      -   ) (      -   ) (      -   )
+       JEFFERSON Track                    5210 N KERBY                 2032 (     -   ) (      -   ) (      -   )              (      -   ) (      -   )
+       FRANKLIN Track                     5405 SE WOODWARD             2032 (     -   ) (      -   ) (      -   )              (      -   ) (      -   )
+       MARSHALL Track                     3905 SE 91ST AVE             2033 (     -   ) (      -   ) (      -   ) (      -   )              (      -   )
+       ROOSEVELT Field - Multisport       6941 N CENTRAL               2034 (     -   ) (      -   ) (      -   ) (      -   ) (      -   )
+       Grant Upper Field - Ball           3499 NE US Grant Pl          2034 (     -   ) (      -   ) (      -   ) (      -   ) (      -   )
+       MCDANIEL Field - Ball              2735 NE 82ND AVE             2034 (     -   ) (      -   ) (      -   ) (      -   ) (      -   )
+       MCDANIEL Field - Multisport        2735 NE 82ND AVE             2034 (     -   ) (      -   ) (      -   ) (      -   ) (      -   )
+       IDA B WELLS Track                  1151 SW VERMONT              2035 (     -   ) (      -   ) (      -   ) (      -   ) (      -   ) (      -   )
+       LINCOLN Field - Multisport         1600 SW SALMON               2035 (     -   ) (      -   ) (      -   ) (      -   ) (      -   ) (      -   )
+
+
+
+
+PPS - Maintenance Planning - Athletic Fields                                                                                                               2024
+

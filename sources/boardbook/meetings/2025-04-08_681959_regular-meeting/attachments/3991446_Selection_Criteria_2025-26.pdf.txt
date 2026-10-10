@@ -1,0 +1,45 @@
+                                     2025-26 Selection Criteria
+
+                 AREA                           DESCRIPTION             POINTS
+  Inclusion                                                   (Entered by Inclusion staff)
+  Diagnosed Condition                  MECP                   10
+  No Disability                        None                   00
+
+  Income                                                      (auto assigned in CP)
+  Under 100% of FPL                    Elig                   200
+  Public Assistance                    TANF/SSI               200
+  Foster Child                         Foster                 200
+  Verified Homeless                    Homeless               200
+  100-130% of FPL                      130%                   100
+  130-200% of FPL                      200%                   50
+  Over 200% of FPL                     Over                   00
+
+  Other Factors                                               (entered by FA team)
+  Transfer from other HS or EHS        Tran or EHS            75
+  Referral from another agency         Ref                    50
+  Sibling enrolled in last 5 years     Sib                    10
+  Other environmental factors:         Need                   10 pts per issue
+  former or current parental
+  incarceration, divorce,
+  drug/alcohol addiction,
+  domestic violence, child
+  abuse/neglect, death or
+  significant health need in
+  household, presence of
+  significant community
+  violence, parent in military,
+  English language learners,
+  unstable or poor housing
+  conditions, or other priority
+  population status
+
+  Age                                                         (auto assigned in CP)
+  Four by September 1st                Four                   100
+  Four by December 1st                 3½                     50
+  Three                                Three                  00
+
+
+
+
+Approved by PPS Policy Council March 12, 2024    ​                    Selection Criteria 2025.RM
+

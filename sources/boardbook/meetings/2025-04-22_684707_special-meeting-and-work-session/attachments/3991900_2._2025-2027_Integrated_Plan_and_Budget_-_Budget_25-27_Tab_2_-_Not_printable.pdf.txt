@@ -1,0 +1,733 @@
+                              2. 2025-2025 Integrated Plan and Budget - Budget 2025-27 Tab 2
+
+
+Zoom in and scroll to view.
+Blue highlighting indicates updated activities based on ODE’s revised High School Success (HSS) preliminary allocations released on March 26, 2025.
+                                                                                                          Early
+     Outco                                                                                                Literacy    EIIS                 SIA                      FSI (CSI/TSI) Perkins      Early Literacy                                                                                             Perkins      Early Literacy
+     me and                                                         25-27                         Perkins Success     Allowable HSS        Allowable                Activity      Activity     Success         EIIS Activity                                 Total Activity                 FSI (CSI/TSI) Activity     Success         EIIS Activity                                 Total Activity 2025-27
+     Strateg                                                Partner Biennium                      Functio Allowable   Expenditu Activity   Use       Object FTE 25- Budget 25- Budget 25-      Activity Budget Budget 25- HSS Activity      SIA Activity     Budget 2025-26                 Activity      Budget 26-   Activity Budget Budget 26- HSS Activity      SIA Activity     Budget 2026-27 Biennium
+ID # y       Activity                                       ship    FTE Total   FTE Type          n Code Use Code     re Area   Category   Category Code    26      26            26           25-26           26            Budget 25-26   Budget 25-26     (autosum)          FTE 26-27   Budget 26-27 27            26-27           27            Budget 26-27   Budget 26-27     (autosum)      Activity Budget
+             Total Allocation                                                                                                                                        $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65       $61,652,406.96                            $470,328.00    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,167,367.59 $124,819,774.55
+             Unbudgeted (Autocalculate)                                                                                                                                    $0.00       $0.00             $0.00       $0.00         -$0.00          $0.00               -$0.00                      $0.00 $20,769.60             $0.00       $0.00          $0.00          $0.00     $20,769.60     $566,778.60
+             Total Budgeted Amounts (Autosum)                                                                                                                        $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65       $61,652,406.96                      $0.00 $449,558.40    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,146,597.99 $124,252,995.95
+1            Indirect/Administration                                                                 2600                                           690                           $20,769.60       $143,797.00   $5,401.65   $506,255.52    $463,525.41         $1,139,749.19                                             $143,797.00   $5,401.65    $526,919.01    $456,427.89 $1,132,545.56    $2,272,294.74
+2    AA2     Professional development and                                                                                                  WRE      31X                                                                                      $900,000.00          $900,000.00                                                                                       $900,000.00    $900,000.00   $1,800,000.00
+             implementation of curricular resources for
+             K-12
+     AA2      Professional development and                               8      Language:                                                  WRE      111     4                                                                                  $509,340.87       $509,340.87 4                                                                                         $539,901.32      $539,901.32    $1,049,242.19
+              implementation of curricular resources for                        English
+              K-12 - DLI/ELD Program Support                                    Language
+                                                                                Development
+
+
+     AA2      Professional development and                                      Language:                                                  WRE      2XX     FRINGE                                                                             $168,388.09       $168,388.09 FRINGE                                                                                    $178,491.38      $178,491.38     $346,879.47
+              implementation of curricular resources for                        English
+              K-12 - DLI/ELD Program Support FRINGE                             Language
+                                                                                Development
+
+
+9    AA3      Additional Special Education support                     25.5     Special                                                    H&S      111     12.75                                                                            $1,431,125.02      $1,431,125.02 12.75                                                                                  $1,516,992.54    $1,516,992.54    $2,948,117.56
+                                                                                Education
+                                                                                (all positions)
+
+
+10   AA3      Additional Special Education support                              N/A                                                        H&S      2XX     FRINGE                                                                             $473,129.93       $473,129.93 FRINGE                                                                                    $501,517.73      $501,517.73     $974,647.66
+              FRINGE
+11     $0.00 PK to 3rd grade transition supports and                                                                                       WRE      31X                                                                                         $60,000.00        $60,000.00                                                                                            $60,000.00       $60,000.00     $120,000.00
+             resources
+17   AA1      Instructional Coaches at identified schools              116      General:                                                   WRE      111     58                                                                               $7,385,442.60      $7,385,442.60 58                                                                                     $7,828,569.15    $7,828,569.15   $15,214,011.75
+              K-5                                                               Elementary
+                                                                                Teacher
+18   AA1      Instructional Coaches at identified schools                       General:                                                   WRE      2XX     FRINGE                                                                           $2,441,627.32      $2,441,627.32 FRINGE                                                                                 $2,588,124.96    $2,588,124.96    $5,029,752.28
+              K-5 FRINGE                                                        Elementary
+                                                                                Teacher
+19   AA1      Instructional Coaches at identified schools               23      General:                                                   WRE      111     11.5                                                                             $1,464,355.00      $1,464,355.00 11.5                                                                                   $1,552,216.30    $1,552,216.30    $3,016,571.30
+              6-12                                                              Multiple
+                                                                                subjects
+                                                                                teacher
+                                                                                (middle/high
+                                                                                school)
+
+20   AA1      Instructional Coaches at identified schools                       General:                                                   WRE      2XX     FRINGE                                                                             $484,115.76       $484,115.76 FRINGE                                                                                    $513,162.71      $513,162.71     $997,278.47
+              6-12 FRINGE                                                       Multiple
+                                                                                subjects
+                                                                                teacher
+                                                                                (middle/high
+                                                                                school)
+
+27   AA1      Kindergarten Educational Assistants at                    23      Other: Other                                               WRE      112     11.5                                                                               $588,569.36       $588,569.36 11.5                                                                                      $623,883.52      $623,883.52    $1,212,452.88
+              schools                                                           staff position
+                                                                                not listed
+28   AA1      Kindergarten Educational Assistants at                            Other: Other                                               WRE      2XX     FRINGE                                                                             $194,581.03       $194,581.03 FRINGE                                                                                    $206,255.89      $206,255.89     $400,836.92
+              schools FRINGE                                                    staff position
+                                                                                not listed
+35   SS4      Tiered RJ/SEL intervention support and                     8      Supports:                                                  H&S      111     4                                                                                  $339,160.65       $339,160.65 4                                                                                         $359,510.29      $359,510.29     $698,670.94
+              development                                                       Social
+                                                                                Emotional
+                                                                                Learning
+                                                                                (SEL)
+
+36   SS4      Tiered RJ/SEL intervention support and                            Supports:                                                  H&S      2XX     FRINGE                                                                             $112,126.51       $112,126.51 FRINGE                                                                                    $118,854.10      $118,854.10     $230,980.61
+              development FRINGE                                                Social
+                                                                                Emotional
+                                                                                Learning
+                                                                                (SEL)
+
+37   AA3      Intervention tracking resources                                                                                              H&S      470                                                                                        $140,000.00       $140,000.00                                                                                           $140,000.00      $140,000.00     $280,000.00
+38   AT1      MTSS coaching and PD support                               2      Supports:                                                  H&S      111     1                                                                                   123,420.72       $123,420.72 1                                                                                         $130,825.96      $130,825.96     $254,246.68
+                                                                                Other
+39   AT1      MTSS coaching and PD support FRINGE                               Supports:                                                  H&S      2XX     FRINGE                                                                               40,802.89        $40,802.89 FRINGE                                                                                      40,802.89       $40,802.89      $81,605.78
+                                                                                Other
+40   AT1      MTSS coaching PD and curriculum                                                                                              H&S      4XX                                                                                        $250,000.00       $250,000.00                                                                                           $250,000.00      $250,000.00     $500,000.00
+              resources
+     AT2      MTSS Coaching and PD Support -                             6      Health:                                                    H&S      111     3                                                                                  $382,005.65       $382,005.65 3                                                                                         $404,925.99      $404,925.99     $786,931.64
+              Community School Project                                          QMHP/Psyc
+                                                                                hologist/LCS
+                                                                                W
+     AT2      MTSS Coaching and PD Support -                                    Health:                                                    H&S      2XX     FRINGE                                                                             $126,291.07       $126,291.07 FRINGE                                                                                    $133,868.53      $133,868.53     $260,159.60
+              Community School FRINGE                                           QMHP/Psyc
+                                                                                hologist/LCS
+                                                                                W
+41   SS1      Mental Health, Substance Use, Behavioral                 40.2     Health:                                                    H&S      111     20.1                                                                             $2,275,841.91      $2,275,841.91 20.1                                                                                   $2,412,392.43    $2,412,392.43    $4,688,234.34
+              Health supports                                                   QMHP/Psyc
+                                                                                hologist/LCS
+                                                                                W
+42   SS1      Mental Health, Substance Use, Behavioral                          Health:                                                    H&S      2XX     FRINGE                                                                             $752,393.34       $752,393.34 FRINGE                                                                                    $797,536.94      $797,536.94    $1,549,930.28
+              Health supports FRINGE                                            QMHP/Psyc
+                                                                                hologist/LCS
+                                                                                W
+                                                                                                   Early
+     Outco                                                                                         Literacy    EIIS                 SIA                      FSI (CSI/TSI) Perkins      Early Literacy                                                                                             Perkins      Early Literacy
+     me and                                                   25-27                        Perkins Success     Allowable HSS        Allowable                Activity      Activity     Success         EIIS Activity                                 Total Activity                 FSI (CSI/TSI) Activity     Success         EIIS Activity                                 Total Activity 2025-27
+     Strateg                                          Partner Biennium                     Functio Allowable   Expenditu Activity   Use       Object FTE 25- Budget 25- Budget 25-      Activity Budget Budget 25- HSS Activity      SIA Activity     Budget 2025-26                 Activity      Budget 26-   Activity Budget Budget 26- HSS Activity      SIA Activity     Budget 2026-27 Biennium
+ID # y       Activity                                 ship    FTE Total   FTE Type         n Code Use Code     re Area   Category   Category Code    26      26            26           25-26           26            Budget 25-26   Budget 25-26     (autosum)          FTE 26-27   Budget 26-27 27            26-27           27            Budget 26-27   Budget 26-27     (autosum)      Activity Budget
+             Total Allocation                                                                                                                                 $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65       $61,652,406.96                            $470,328.00    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,167,367.59 $124,819,774.55
+             Unbudgeted (Autocalculate)                                                                                                                             $0.00       $0.00             $0.00       $0.00         -$0.00          $0.00               -$0.00                      $0.00 $20,769.60             $0.00       $0.00          $0.00          $0.00     $20,769.60     $566,778.60
+             Total Budgeted Amounts (Autosum)                                                                                                                 $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65       $61,652,406.96                      $0.00 $449,558.40    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,146,597.99 $124,252,995.95
+43   SS1     Mental Health, Substance Use, Behavioral                                                                               H&S      31X                                                                                    $1,000,000.00        $1,000,000.00                                                                                       $900,000.00    $900,000.00   $1,900,000.00
+             Health PD, supports and resources
+
+44   AT3     Specialized supports to provide                       5.5    Other: Other                                              H&S      111     2.75                                                                               $311,371.41       $311,371.41 2.75                                                                                      $330,053.69      $330,053.69     $641,425.10
+             accommodations, crisis response &                            staff position
+             recovery                                                     not listed
+45   AT3     Specialized supports to provide                              Other: Other                                              H&S      2XX     FRINGE                                                                             $102,939.39       $102,939.39 FRINGE                                                                                    $109,115.75      $109,115.75     $212,055.14
+             accommodations, crisis response &                            staff position
+             recovery FRINGE                                              not listed
+46   AT3     Specialized supports and resources to                                                                                  H&S      8XX                                                                                        $100,000.00       $100,000.00                                                                                           $100,000.00      $100,000.00     $200,000.00
+             provide accommodations, crisis response
+             & recovery
+49   SS4     School-based Social Workers                           50     Supports:                                                 H&S      111     25                                                                               $2,830,649.14      $2,830,649.14 25                                                                                     $3,000,488.09    $3,000,488.09    $5,831,137.23
+                                                                          School
+                                                                          Counselor/S
+                                                                          chool Social
+                                                                          Worker
+
+50   SS4     School-based Social Workers FRINGE                           Supports:                                                 H&S      2XX     FRINGE                                                                             $935,812.61       $935,812.61 FRINGE                                                                                    $991,961.36      $991,961.36    $1,927,773.97
+                                                                          School
+                                                                          Counselor/S
+                                                                          chool Social
+                                                                          Worker
+
+51   LT1     School-based Restorative Justice support              30     Equity/Divers                                             H&S      111     15                                                                               $1,271,852.43      $1,271,852.43 15                                                                                     $1,348,163.58    $1,348,163.58    $2,620,016.01
+                                                                          ity/Inclusion
+                                                                          (incl. Migrant
+                                                                          & Indian Ed)
+
+
+52   SS4     School-based Restorative Justice support                     Equity/Divers                                             H&S      2XX     FRINGE                                                                             $420,474.42       $420,474.42 FRINGE                                                                                    $445,702.88      $445,702.88     $866,177.30
+             FRINGE                                                       ity/Inclusion
+                                                                          (incl. Migrant
+                                                                          & Indian Ed)
+
+
+53   CU1     CBO allocations                             Commu                                                                      H&S      8XX                                                                                        $867,103.48       $867,103.48                                                                                           $867,103.48      $867,103.48    $1,734,206.96
+                                                         nity-
+                                                         Based
+                                                         Organiz
+                                                         ation
+
+56   CU1     Student affinity groups and leadership                                                                                 OCG      8XX                                                                                         $75,000.00        $75,000.00                                                                                            $75,000.00       $75,000.00     $150,000.00
+             opportunities for students of color
+     CU1     PPS Charter School additional equity                                                                                   WRE      31X                                                                                         $22,000.00        $22,000.00                                                                                            $22,000.00       $22,000.00      $44,000.00
+             allocation per ADMw + Poverty
+57   CU1     RESJ Culturally Specific Community          Commu                                                                      OCG      8XX                                                                                      $5,300,000.00      $5,300,000.00                                                                                        $5,300,000.00    $5,300,000.00   $10,600,000.00
+             Partnership services                        nity-
+                                                         Based
+                                                         Organiz
+                                                         ation
+
+58   AT2     Supports for Native students                Indian    2.88   Equity/Divers                                             WRE      111     1.44                                                                               $122,097.83       $122,097.83 1.44                                                                                      $129,423.70      $129,423.70     $251,521.53
+                                                         Commu            ity/Inclusion
+                                                         nity-            (incl. Migrant
+                                                         Based            & Indian Ed)
+                                                         Organiz
+                                                         ation
+
+59   AT2     Supports for Native students FRINGE         Indian           Equity/Divers                                             WRE      2XX     FRINGE                                                                              $40,365.54        $40,365.54 FRINGE                                                                                     $42,787.48       $42,787.48      $83,153.02
+                                                         Commu            ity/Inclusion
+                                                         nity-            (incl. Migrant
+                                                         Based            & Indian Ed)
+                                                         Organiz
+                                                         ation
+
+60   AT2     Supports and resources for Native students Indian                                                                      WRE      410                                                                                         $42,592.27        $42,592.27                                                                                            $30,000.00       $30,000.00      $72,592.27
+                                                        Commu
+                                                        nity-
+                                                        Based
+                                                        Organiz
+                                                        ation
+
+     AA3     Learning Acceleration Programming                      2     Other: Other                                              WRE      113     1                                                                                  $182,125.97       $182,125.97 1                                                                                         $193,053.52      $193,053.52     $375,179.49
+                                                                          staff position
+                                                                          not listed
+     AA3     Learning Acceleration Programming                                    $0.00                                             WRE      2XX     FRINGE                                                                              $60,210.84        $60,210.84 FRINGE                                                                                     $63,823.49       $63,823.49     $124,034.33
+             FRINGE
+     AA3     Learning Acceleration Specialists (New in     $0.00   102            $0.00                                             WRE      111     51                                                                               $6,220,616.72      $6,220,616.72 51                                                                                     $6,593,853.73    $6,593,853.73   $12,814,470.45
+             FY25)
+     AA3     Learning Acceleration Specialists Fringe      $0.00                  $0.00                                             WRE      2XX     FRINGE                                                                           $2,056,535.89      $2,056,535.89 FRINGE                                                                                 $2,179,928.04    $2,179,928.04    $4,236,463.93
+             (New in FY25)
+61   LT1     Support the implementation of EWIS                           Other: Other                         STF                           111                                                                                                                 $0.00                                                                                                                 $0.00            $0.00
+             software and supports                                        staff position
+                                                                          not listed
+62   AT3     Support the implementation of EWIS                                                                STF                           2XX                                                                                                                 $0.00                                                                                                                 $0.00            $0.00
+             software and supports FRINGE
+     AT3     EWIS Software                                                                                     SSS                           31X                                                        $119,770.62                                       $119,770.62                                                           $119,770.62                                      $119,770.62     $239,541.23
+                                                                                                Early
+     Outco                                                                                      Literacy    EIIS                 SIA                      FSI (CSI/TSI) Perkins        Early Literacy                                                                                           Perkins       Early Literacy
+     me and                                                     25-27                   Perkins Success     Allowable HSS        Allowable                Activity      Activity       Success         EIIS Activity                               Total Activity                 FSI (CSI/TSI) Activity      Success         EIIS Activity                               Total Activity 2025-27
+     Strateg                                            Partner Biennium                Functio Allowable   Expenditu Activity   Use       Object FTE 25- Budget 25- Budget 25-        Activity Budget Budget 25- HSS Activity      SIA Activity   Budget 2025-26                 Activity      Budget 26-    Activity Budget Budget 26- HSS Activity      SIA Activity   Budget 2026-27 Biennium
+ID # y       Activity                                   ship    FTE Total   FTE Type    n Code Use Code     re Area   Category   Category Code    26      26            26             25-26           26            Budget 25-26   Budget 25-26   (autosum)          FTE 26-27   Budget 26-27 27             26-27           27            Budget 26-27   Budget 26-27   (autosum)      Activity Budget
+             Total Allocation                                                                                                                               $938,838.10 $470,328.00      $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65     $61,652,406.96                            $470,328.00     $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,167,367.59 $124,819,774.55
+             Unbudgeted (Autocalculate)                                                                                                                           $0.00       $0.00              $0.00       $0.00         -$0.00          $0.00             -$0.00                      $0.00 $20,769.60              $0.00       $0.00          $0.00          $0.00     $20,769.60     $566,778.60
+             Total Budgeted Amounts (Autosum)                                                                                                               $938,838.10 $470,328.00      $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65     $61,652,406.96                      $0.00 $449,558.40     $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,146,597.99 $124,252,995.95
+63   AA2     Targeted additional PD for TSI/CSI Schools                                                                                   31X                                                                                                                 $0.00                                                                                                             $0.00           $0.00
+
+     AA3     School-based improvement supports at                  4.88     Supports:                                                     111      4.88       $340,686                                                                                 $340,686.07                                                                                                                 $0.00     $340,686.07
+             TSI/CSI schools                                                Other
+     AA3     School-based improvement supports at                           Supports:                                                     2XX      FRINGE     $112,631                                                                                 $112,630.81                                                                                                                 $0.00     $112,630.81
+             TSI/CSI schools FRINGE                                         Other
+     AA3     Non FTE School-based improvement                                                                                             4XX                 $485,521                                                                                 $485,521.22                                                                                                                 $0.00     $485,521.22
+             supports at TSI/CSI schools
+67   GR4     CTE equipment enhancement and                                                11311                                           546000                          $20,000.00                                                                    $20,000.00                               $20,000.00                                                                   $20,000.00      $40,000.00
+             expansion to meet industry standards
+             (Lincoln Health Science, Benson Mass
+             Comms)
+71   GR4     CTE software and digital resources for                                       11311                                           547000                          $50,000.00                                                                    $50,000.00                               $50,000.00                                                                   $50,000.00     $100,000.00
+             POS instruction and student support (Audio
+             Engineering: ProTools; Automotive: Zeus
+             Diagnostic; Business: Stukent, LivePlan,
+             Cengage Accounting, Capsim; Computer
+             Science: Blackbird, CoderZ, CodeHS;
+             Mass Communications: SnoSites
+
+
+68   GR4                                                                                  11311                                           548000                         $181,632.00                                                                   $181,632.00                              $181,632.00                                                                  $181,632.00     $363,264.00
+             CTE computer hardware upgrades (64
+             Macbook Pro McDaniel Digital Media Labs)
+69   GR4     CTE curriculum development and                                               22133                                           513300                           $2,215.85                                                                      $2,215.85                               $2,215.85                                                                    $2,215.85        $4,431.70
+             instructional improvement aligned with
+             industry needs (all schools all POS)
+     GR4     FRINGE CTE curriculum development and                                        22133                                           52XXXX                            $775.60                                                                        $775.60                                  $775.60                                                                      $775.60        $1,551.20
+             instructional improvement aligned with
+             industry needs (all schools all POS)
+70   GR4     CTE curriculum development and                                               22133                                           512100                          $12,411.90                                                                    $12,411.90                               $12,411.90                                                                   $12,411.90      $24,823.80
+             instructional improvement aligned with
+             industry needs (all schools all POS)
+     GR4     FRINGE CTE curriculum development and                                        22133                                           52XXXX                           $4,103.55                                                                      $4,103.55                               $4,103.55                                                                    $4,103.55        $8,207.10
+             instructional improvement aligned with
+             industry needs (all schools all POS)
+72   GR4     CTE outreach and promotion for middle                                        21262                                           513300                           $1,899.30                                                                      $1,899.30                               $1,899.30                                                                    $1,899.30        $3,798.60
+             and high school students (by POS)
+             (McDaniel, Franklin, and Lincoln; 8th grade
+             nights at all schools; community based
+             events such as Good In The Hood)
+
+
+73   GR4     FRINGE CTE outreach and promotion for                                        21262                                           52XXXX                            $664.80                                                                        $664.80                                  $664.80                                                                      $664.80        $1,329.60
+             middle and high school students (by POS)
+             (McDaniel, Franklin, and Lincoln; 8th grade
+             nights at all schools; community based
+             events such as Good In The Hood)
+
+
+76   GR4     CTE outreach and promotion for middle                                        21262                                           512100                           $8,274.60                                                                      $8,274.60                               $8,274.60                                                                    $8,274.60      $16,549.20
+             and high school students (by POS)
+             (McDaniel, Franklin, and Lincoln; 8th grade
+             nights at all schools; community based
+             events such as Good In The Hood)
+
+
+77   GR4     FRINGE CTE outreach and promotion for                                        21262                                           52XXXX                           $2,735.70                                                                      $2,735.70                               $2,735.70                                                                    $2,735.70        $5,471.40
+             middle and high school students (by POS)
+             (McDaniel, Franklin, and Lincoln; 8th grade
+             nights at all schools; community based
+             events such as Good In The Hood)
+
+
+78   GR4     CTE industry partnerships and work-based                                     22133                                           513300                           $3,228.81                                                                      $3,228.81                               $3,228.81                                                                    $3,228.81        $6,457.62
+             learning opportunities (For all POS-
+             Program Advisory Committee meetings for
+             all, Industry site visits)
+79   GR4     FRINGE CTE industry partnerships and                                         22133                                           52XXXX                           $1,130.16                                                                      $1,130.16                               $1,130.16                                                                    $1,130.16        $2,260.32
+             work-based learning opportunities (For all
+             POS-Program Advisory Committee
+             meetings for all, Industry site visits)
+80   GR4     CTE industry partnerships and work-based                                     22133                                           512100                          $45,510.30                                                                    $45,510.30                               $45,510.30                                                                   $45,510.30      $91,020.60
+             learning opportunities (For all POS-
+             Program Advisory Committee meetings for
+             all, Industry site visits)
+81   GR4     FRINGE CTE industry partnerships and                                         22133                                           52XXXX                          $15,046.35                                                                    $15,046.35                               $15,046.35                                                                   $15,046.35      $30,092.70
+             work-based learning opportunities (For all
+             POS-Program Advisory Committee
+             meetings for all, Industry site visits)
+                                                                                              Early
+     Outco                                                                                    Literacy    EIIS                 SIA                      FSI (CSI/TSI) Perkins      Early Literacy                                                                                             Perkins       Early Literacy
+     me and                                                    25-27                  Perkins Success     Allowable HSS        Allowable                Activity      Activity     Success         EIIS Activity                                 Total Activity                 FSI (CSI/TSI) Activity      Success         EIIS Activity                                 Total Activity 2025-27
+     Strateg                                           Partner Biennium               Functio Allowable   Expenditu Activity   Use       Object FTE 25- Budget 25- Budget 25-      Activity Budget Budget 25- HSS Activity        SIA Activity   Budget 2025-26                 Activity      Budget 26-    Activity Budget Budget 26- HSS Activity        SIA Activity   Budget 2026-27 Biennium
+ID # y       Activity                                  ship    FTE Total   FTE Type   n Code Use Code     re Area   Category   Category Code    26      26            26           25-26           26            Budget 25-26     Budget 25-26   (autosum)          FTE 26-27   Budget 26-27 27             26-27           27            Budget 26-27     Budget 26-27   (autosum)      Activity Budget
+             Total Allocation                                                                                                                            $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65       $61,652,406.96                            $470,328.00     $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,167,367.59 $124,819,774.55
+             Unbudgeted (Autocalculate)                                                                                                                        $0.00       $0.00             $0.00       $0.00         -$0.00          $0.00               -$0.00                      $0.00 $20,769.60              $0.00       $0.00          $0.00          $0.00     $20,769.60     $566,778.60
+             Total Budgeted Amounts (Autosum)                                                                                                            $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65       $61,652,406.96                      $0.00 $449,558.40     $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,146,597.99 $124,252,995.95
+82   GR5     CTE professional development for teachers                                  22413                                           513300                         $1,709.37                                                                        $1,709.37                              $1,709.37                                                                  $1,709.37       $3,418.74
+             and CTE staff (SXSW Edu, PBL Works for
+             leads in all POS, Oregon ACTE, ACTE
+             Best Practices, Advanced CTE, American
+             Society for Engineering Education,
+             Journalism Educators Association
+             Conference, American Culinary Federation
+             Conference, Oregon Business Educators
+             Association Conference, ITEEA
+             (International Technology and Engineering
+             Educators Association )
+
+
+
+83   GR5     FRINGE CTE professional development                                        22413                                           52XXXX                           $598.32                                                                         $598.32                                  $598.32                                                                        $598.32        $1,196.64
+             for teachers and CTE staff (SXSW Edu,
+             PBL Works for leads in all POS, Oregon
+             ACTE, ACTE Best Practices, Advanced
+             CTE, American Society for Engineering
+             Education, Journalism Educators
+             Association Conference, American Culinary
+             Federation Conference, Oregon Business
+             Educators Association Conference, ITEEA
+             (International Technology and Engineering
+             Educators Association )
+
+
+
+84   GR5     CTE professional development for teachers                                  22413                                           512100                         $7,998.78                                                                        $7,998.78                               $7,998.78                                                                      $7,998.78      $15,997.56
+             and CTE staff (SXSW Edu, PBL Works for
+             leads in all POS, Oregon ACTE, ACTE
+             Best Practices, Advanced CTE, American
+             Society for Engineering Education,
+             Journalism Educators Association
+             Conference, American Culinary Federation
+             Conference, Oregon Business Educators
+             Association Conference, ITEEA
+             (International Technology and Engineering
+             Educators Association )
+
+
+
+85   GR5     FRINGE CTE professional development                                        22413                                           52XXXX                         $2,644.51                                                                        $2,644.51                               $2,644.51                                                                      $2,644.51        $5,289.02
+             for teachers and CTE staff (SXSW Edu,
+             PBL Works for leads in all POS, Oregon
+             ACTE, ACTE Best Practices, Advanced
+             CTE, American Society for Engineering
+             Education, Journalism Educators
+             Association Conference, American Culinary
+             Federation Conference, Oregon Business
+             Educators Association Conference, ITEEA
+             (International Technology and Engineering
+             Educators Association )
+
+
+
+86   GR5     CTE professional development for teachers                                  22413                                           534200                        $52,178.50                                                                      $52,178.50                               $52,178.50                                                                     $52,178.50     $104,357.00
+             and CTE staff (SXSW Edu, PBL Works for
+             leads in all POS, Oregon ACTE, ACTE
+             Best Practices, Advanced CTE, American
+             Society for Engineering Education,
+             Journalism Educators Association
+             Conference, American Culinary Federation
+             Conference, Oregon Business Educators
+             Association Conference, ITEEA
+             (International Technology and Engineering
+             Educators Association )
+
+
+
+87   GR5     CTE professional development for teachers                                  22413                                           531800                        $34,800.00                                                                      $34,800.00                               $34,800.00                                                                     $34,800.00      $69,600.00
+             and CTE staff (SXSW Edu, PBL Works for
+             leads in all POS, Oregon ACTE, ACTE
+             Best Practices, Advanced CTE, American
+             Society for Engineering Education,
+             Journalism Educators Association
+             Conference, American Culinary Federation
+             Conference, Oregon Business Educators
+             Association Conference, ITEEA
+             (International Technology and Engineering
+             Educators Association )
+
+
+
+328 GR1      Implement standards based Equitable                                                                   DP PL                8XX      0                                                                 $100,000.00                       $100,000.00                                                                            $100,000.00                      $100,000.00     $200,000.00
+             Grading Practices
+329 GR5      Provide culturally responsive and                                                                     DP PL                8XX                                                                        $200,000.00                       $200,000.00                                                                            $200,000.00                      $200,000.00     $400,000.00
+             sustaining practices PD
+     GR5     Provide culturally responsive and                                                                     DP PL                8XX                                                                                                           $14,648.00                                                                                                              $14,648.00       $29,296.00
+             sustaining practices PD - extended hours
+                                                                                                                                                                                                                     $14,648.00                                                                                                               $14,648.00
+                                                                                                       Early
+     Outco                                                                                             Literacy    EIIS                  SIA                      FSI (CSI/TSI) Perkins      Early Literacy                                                                                               Perkins      Early Literacy
+     me and                                                       25-27                        Perkins Success     Allowable HSS         Allowable                Activity      Activity     Success         EIIS Activity                                   Total Activity                 FSI (CSI/TSI) Activity     Success         EIIS Activity                                   Total Activity 2025-27
+     Strateg                                              Partner Biennium                     Functio Allowable   Expenditu Activity    Use       Object FTE 25- Budget 25- Budget 25-      Activity Budget Budget 25- HSS Activity        SIA Activity     Budget 2025-26                 Activity      Budget 26-   Activity Budget Budget 26- HSS Activity        SIA Activity     Budget 2026-27 Biennium
+ID # y       Activity                                     ship    FTE Total   FTE Type         n Code Use Code     re Area   Category    Category Code    26      26            26           25-26           26            Budget 25-26     Budget 25-26     (autosum)          FTE 26-27   Budget 26-27 27            26-27           27            Budget 26-27     Budget 26-27     (autosum)      Activity Budget
+             Total Allocation                                                                                                                                      $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65         $61,652,406.96                            $470,328.00    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,167,367.59 $124,819,774.55
+             Unbudgeted (Autocalculate)                                                                                                                                  $0.00       $0.00             $0.00       $0.00         -$0.00          $0.00                 -$0.00                      $0.00 $20,769.60             $0.00       $0.00          $0.00          $0.00     $20,769.60     $566,778.60
+             Total Budgeted Amounts (Autosum)                                                                                                                      $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65         $61,652,406.96                      $0.00 $449,558.40    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,146,597.99 $124,252,995.95
+     GR5     Provide culturally responsive and                                                                              DP PL                 8XX                                                                                                               $5,352.00                                                                                                        $5,352.00      $10,704.00
+             sustaining practices PD - fringe                                                                                                                                                                                   $5,352.00                                                                                                              $5,352.00
+330 GR2     HS College Coordinators                                   20      Supports:                                     CLO STA               112       10                                                                                                   $783,268.09         10                                                                                            $890,105.39   $1,673,373.48
+                                                                              Other                                         *Must lead
+                                                                                                                            to college
+                                                                                                                            credit*
+                                                                                                                                                                                                                             $783,268.09                                                                                                               $890,105.39
+331 GR2     HS College Coordinators FRINGE                                                                                  CLO STA               2XX                                                                                                            $465,143.83                                                                                                              $488,401.02     $953,544.85
+                                                                                                                            *Must lead
+                                                                                                                            to college
+                                                                                                                            credit*
+                                                                                                                                                                                                                             $465,143.83                                                                                                               $488,401.02
+332 GR2     Learning Acceleration Instructional                      11.68    Supports:                                     CLO STA               111       5.84                                                                                                 $634,332.15        5.84                                                                                                  $666,048.76    $1,300,380.91
+            Specialist                                                        Intervention                                  *Must lead
+                                                                              Specialist                                    to college
+                                                                                                                            credit*
+                                                                                                                                                                                                                             $634,332.15                                                                                                               $666,048.76
+333 GR2     Learning Acceleration Instructional                                                                             CLO STA               2XX                                                                                                            $351,214.85                                                                                                              $319,498.24     $670,713.09
+            Specialist FRINGE                                                                                               *Must lead
+                                                                                                                            to college
+                                                                                                                            credit*
+                                                                                                                                                                                                                             $351,214.85                                                                                                               $319,498.24
+334 GR4     CTE teaching staff at Alliance Natural                   0.38     Arts                                          CTE STA               111       0.19                                                                                                  $21,765.50        0.19                                                                                                   $21,765.50       $43,531.00
+            Resources                                                         (Applied):                                    *Start
+                                                                              CTE                                           Up/Approv
+                                                                              (Approved                                     ed CTE
+                                                                              Program of                                    POS*
+                                                                              Study)
+                                                                                                                                                                                                                               $21,765.50                                                                                                                $21,765.50
+335 GR4     CTE teaching staff at Alliance Natural                                                                          CTE STA               2XX                                                                                                             $11,821.29                                                                                                               $11,821.29       $23,642.58
+            Resources FRINGE                                                                                                *Start
+                                                                                                                            Up/Approv
+                                                                                                                            ed CTE
+                                                                                                                            POS*
+                                                                                                                                                                                                                               $11,821.29                                                                                                                $11,821.29
+336 GR4     CTE central office staff (Asst Director and                4      Arts                                          CTE STA               113        2                                                                                                   $261,100.47         2                                                                                                    $274,155.49     $535,255.96
+            1 CTE TOSA) (all POS)                                             (Applied):                                    *Start
+                                                                              CTE                                           Up/Approv
+                                                                              (Approved                                     ed CTE
+                                                                              Program of                                    POS*
+                                                                              Study)
+                                                                                                                                                                                                                             $261,100.47                                                                                                               $274,155.49
+337 GR4     CTE central office staff (Asst Director and                                                                     CTE STA               2XX                                                                                                            $133,280.17                                                                                                              $139,944.18     $273,224.35
+            1 CTE TOSA) FRINGE                                                                                              *Start
+                                                                                                                            Up/Approv
+                                                                                                                            ed CTE
+                                                                                                                            POS*
+                                                                                                                                                                                                                             $133,280.17                                                                                                               $139,944.18
+338 AT3     MS 8th Gr Student Success Mgr                              2      Other: Other                                  DP MS8                113        1                                                               $121,498.00                         $121,498.00         1                                                                 $127,572.90                        $127,572.90     $249,070.90
+                                                                              staff position
+                                                                              not listed
+339 AT3     MS 8th Gr Student Success Mgr FRINGE                                                                            DP MS8                2XX                                                                          $44,100.00                         $44,100.00                                                                             $44,100.00                        $44,100.00      $88,200.00
+
+340 GR2     Maintain systems to ensure equitable                                                                            DP PL                 8XX                                                                        $135,000.00                         $135,000.00                                                                           $135,000.00                        $135,000.00     $270,000.00
+            assignment to advanced courses
+341 AT2     Implement programming to support 8th-9th                                                                        DP PL                 13X                                                                          $26,000.00                         $26,000.00                                                                             $26,000.00                        $26,000.00      $52,000.00
+            grade transition
+342 AT2     Implement programming to support 8th-9th                                                                        DP PL                 2XX                                                                           $6,200.00                           $6,200.00                                                                             $6,200.00                         $6,200.00      $12,400.00
+            grade transition FRINGE
+     AT2    Implement programming to support 8th-9th                                                                        DP PL                 8XX                                                                           $2,000.00                           $2,000.00                                                                             $2,000.00                         $2,000.00        $4,000.00
+            grade transition OTHER
+     AT3    Implement 8th grade on-track systems and                                                                        DP MS8                13X                                                                          $70,000.00                         $70,000.00                                                                             $70,000.00                        $70,000.00     $140,000.00
+            college & career programming - extended
+            hours
+343 AT3     Implement 8th grade on-track systems and                                                                        DP MS8                2XX                                                                          $18,732.00                         $18,732.00                                                                             $18,732.00                        $18,732.00      $37,464.00
+            college & career programming - FRINGE
+
+344 AT3     Implement 8th grade on-track systems and                                                                        DP MS8                8XX                                                                          $91,268.00                         $91,268.00                                                                             $91,268.00                        $91,268.00     $182,536.00
+            college & career programming - OTHER
+
+345 GR2     Provide advanced coursework supports for                                                                        CLO PL     WRE        8XX                                                                        $110,000.00       $120,000.00       $230,000.00                                                                           $230,000.00                        $230,000.00     $460,000.00
+            focal student groups                                                                                            *Must lead
+                                                                                                                            to college
+                                                                                                                            credit*
+346 GR2     Enhance or expand advanced course                                                                               CLO CUR WRE           8XX                                                                                          $124,648.00       $124,648.00                                                                                             $124,648.00      $124,648.00     $249,296.00
+            curriculum - OTHER                                                                                              *Must lead
+                                                                                                                            to college
+                                                                                                                            credit*
+346 GR2     Enhance or expand advanced course                                                                               CLO CUR WRE           8XX                                                                                           $20,000.00        $20,000.00                                                                                              $20,000.00       $20,000.00      $40,000.00
+            curriculum - extended hours                                                                                     *Must lead
+                                                                                                                            to college
+                                                                                                                            credit*
+346 GR2     Enhance or expand advanced course                                                                               CLO CUR WRE           8XX                                                                                            $5,352.00          $5,352.00                                                                                              $5,352.00        $5,352.00      $10,704.00
+            curriculum - FRINGE                                                                                             *Must lead
+                                                                                                                            to college
+                                                                                                                            credit*
+                                                                                                       Early
+     Outco                                                                                             Literacy    EIIS                  SIA                      FSI (CSI/TSI) Perkins      Early Literacy                                                                                             Perkins      Early Literacy
+     me and                                                         25-27                      Perkins Success     Allowable HSS         Allowable                Activity      Activity     Success         EIIS Activity                                 Total Activity                 FSI (CSI/TSI) Activity     Success         EIIS Activity                                 Total Activity 2025-27
+     Strateg                                                Partner Biennium                   Functio Allowable   Expenditu Activity    Use       Object FTE 25- Budget 25- Budget 25-      Activity Budget Budget 25- HSS Activity        SIA Activity   Budget 2025-26                 Activity      Budget 26-   Activity Budget Budget 26- HSS Activity        SIA Activity   Budget 2026-27 Biennium
+ID # y       Activity                                       ship    FTE Total   FTE Type       n Code Use Code     re Area   Category    Category Code    26      26            26           25-26           26            Budget 25-26     Budget 25-26   (autosum)          FTE 26-27   Budget 26-27 27            26-27           27            Budget 26-27     Budget 26-27   (autosum)      Activity Budget
+             Total Allocation                                                                                                                                      $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65       $61,652,406.96                            $470,328.00    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,167,367.59 $124,819,774.55
+             Unbudgeted (Autocalculate)                                                                                                                                  $0.00       $0.00             $0.00       $0.00         -$0.00          $0.00               -$0.00                      $0.00 $20,769.60             $0.00       $0.00          $0.00          $0.00     $20,769.60     $566,778.60
+             Total Budgeted Amounts (Autosum)                                                                                                                      $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65       $61,652,406.96                      $0.00 $449,558.40    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,146,597.99 $124,252,995.95
+347 GR2      Expand advanced course options and                                                                             CLO PL                8XX                                                                       $140,650.00                         $140,650.00                                                                        $140,650.00                   $140,650.00     $281,300.00
+             "advanced coursework for all" programs                                                                         *Must lead
+                                                                                                                            to college
+                                                                                                                            credit*
+     GR2     Expand advanced course options and                                                                             CLO PL                13X                                                                          $14,648.00                       $14,648.00                                                                             $14,648.00                      $14,648.00      $29,296.00
+             "advanced coursework for all" programs -                                                                       *Must lead
+             extended hours                                                                                                 to college
+                                                                                                                            credit*
+     GR2     Expand advanced course options and                                                                             CLO PL                2XX                                                                           $5,352.00                         $5,352.00                                                                             $5,352.00                       $5,352.00      $10,704.00
+             "advanced coursework for all" programs -                                                                       *Must lead
+             fringe                                                                                                         to college
+                                                                                                                            credit*
+348 GR4      Expand college & career awareness,                                                                             DP OCG                8XX                                                                          $96,000.00                       $96,000.00                                                                             $96,000.00                      $96,000.00     $192,000.00
+             exploration, and preparation activities
+     GR4     Expand college & career awareness,                                                                             DP OCG                13X                                                                          $40,000.00                       $40,000.00                                                                             $40,000.00                      $40,000.00      $80,000.00
+             exploration, and preparation activities -
+             extended hours
+     GR4     Expand college & career awareness,                                                                             DP OCG                2XX                                                                          $14,000.00                       $14,000.00                                                                             $14,000.00                      $14,000.00      $28,000.00
+             exploration, and preparation activities -
+             fringe
+349 GR4                                                                                                                     CTE PL                13X                                                                          $70,000.00                       $70,000.00                                                                             $70,000.00                      $70,000.00     $140,000.00
+                                                                                                                            *Start
+                                                                                                                            Up/Approv
+                                                                                                                            ed CTE
+             CTE industry certification and credentialing
+                                                                                                                            POS*
+             support for students (all POS)
+350 GR4                                                                                                                     CTE ESF               2XX                                                                        $230,896.22                       $230,896.22                                                                             $80,081.55                      $80,081.55     $310,977.77
+                                                                                                                            *Start
+                                                                                                                            Up/Approv
+             CTE equipment enhancement and
+                                                                                                                            ed CTE
+             expansion to meet industry standards (all
+                                                                                                                            POS*
+             POS)
+     GR4                                                                                                                    CTE ESF               8XX                                                                        $150,000.00                       $150,000.00                                                                           $150,000.00                      $150,000.00     $300,000.00
+                                                                                                                            *Start
+                                                                                                                            Up/Approv
+                                                                                                                            ed CTE
+             CTE computer hardware upgrades
+                                                                                                                            POS*
+             (Roosevelt Engineering and Construction)
+351 GR4                                                                                                                     CTE ESF               460                                                                        $175,000.00                       $175,000.00                                                                           $175,000.00                      $175,000.00     $350,000.00
+                                                                                                                            *Start
+                                                                                                                            Up/Approv
+             CTE software and digital resources for
+                                                                                                                            ed CTE
+             POS instruction and student support (all
+                                                                                                                            POS*
+             POS)
+352 GR4                                                                                                                     CTE CUR               480                                                                        $120,000.00                       $120,000.00                                                                           $120,000.00                      $120,000.00     $240,000.00
+                                                                                                                            *Start
+                                                                                                                            Up/Approv
+             CTE curriculum development and
+                                                                                                                            ed CTE
+             instructional improvement aligned with
+                                                                                                                            POS*
+             industry needs (all POS)
+353 GR4                                                                                                                     CTE OCG               470                                                                          $10,000.00                       $10,000.00                                                                             $10,000.00                      $10,000.00      $20,000.00
+                                                                                                                            *Start
+                                                                                                                            Up/Approv
+             CTE outreach and promotion for high
+                                                                                                                            ed CTE
+             school students (all POS Franklin and
+                                                                                                                            POS*
+             McDaniel)
+354 GR4                                                                                                                     CTE MS8               5XX                                                                          $14,629.37                       $14,629.37                                                                             $14,629.37                      $14,629.37      $29,258.74
+                                                                                                                            *Start
+                                                                                                                            Up/Approv
+                                                                                                                            ed CTE
+             CTE outreach and promotion for 8th grade
+                                                                                                                            POS*
+             students (all POS Franklin and McDaniel)
+355 GR4                                                                                                                     CTE OCG               8XX                                                                          $48,000.00                       $48,000.00                                                                             $48,000.00                      $48,000.00      $96,000.00
+                                                                                                                            *Start
+                                                                                                                            Up/Approv
+                                                                                                                            ed CTE
+             CTE industry partnerships and work-based
+                                                                                                                            POS*
+             learning opportunities (all POS)
+     GR4                                                                                                                    CTE PL                13X                                                                          $96,000.00                       $96,000.00                                                                             $96,000.00                      $96,000.00     $192,000.00
+                                                                                                                            *Start
+                                                                                                                            Up/Approv
+                                                                                                                            ed CTE
+             CTE professional development for teachers
+                                                                                                                            POS*
+             (all POS)
+358 AT3      Student Attendance Coaches                                 26      Supports:                                   DP STA                111       13                                                              $1,045,026.50                     $1,045,026.50        13                                                               $1,097,277.83                   $1,097,277.83    $2,142,304.33
+                                                                                Other
+359 AT3      Student Attendance Coaches FRINGE                                                                              DP STA                2XX                                                                        $622,795.50                       $622,795.50                                                                           $653,935.28                      $653,935.28    $1,276,730.78
+360 GR3      Freshman Success Team teacher release                      32      General:                                    DP STA                111       16                                                              $1,597,440.00                     $1,597,440.00        16                                                               $1,677,312.00                   $1,677,312.00    $3,274,752.00
+             time                                                               Multiple
+                                                                                subjects
+                                                                                teacher
+                                                                                (middle/high
+                                                                                school)
+
+361 GR3      Freshman Success Team teacher release                                                                          DP STA                2XX                                                                        $913,072.00                       $913,072.00                                                                           $958,725.60                      $958,725.60    $1,871,797.60
+             time FRINGE
+                                                                                                      Early
+     Outco                                                                                            Literacy    EIIS                 SIA                      FSI (CSI/TSI) Perkins        Early Literacy                                                                                               Perkins      Early Literacy
+     me and                                                        25-27                      Perkins Success     Allowable HSS        Allowable                Activity      Activity       Success         EIIS Activity                                   Total Activity                 FSI (CSI/TSI) Activity     Success         EIIS Activity                                   Total Activity 2025-27
+     Strateg                                               Partner Biennium                   Functio Allowable   Expenditu Activity   Use       Object FTE 25- Budget 25- Budget 25-        Activity Budget Budget 25- HSS Activity        SIA Activity     Budget 2025-26                 Activity      Budget 26-   Activity Budget Budget 26- HSS Activity        SIA Activity     Budget 2026-27 Biennium
+ID # y       Activity                                      ship    FTE Total   FTE Type       n Code Use Code     re Area   Category   Category Code    26      26            26             25-26           26            Budget 25-26     Budget 25-26     (autosum)          FTE 26-27   Budget 26-27 27            26-27           27            Budget 26-27     Budget 26-27     (autosum)      Activity Budget
+             Total Allocation                                                                                                                                      $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65         $61,652,406.96                            $470,328.00    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,167,367.59 $124,819,774.55
+             Unbudgeted (Autocalculate)                                                                                                                                  $0.00       $0.00             $0.00       $0.00         -$0.00          $0.00                 -$0.00                      $0.00 $20,769.60             $0.00       $0.00          $0.00          $0.00     $20,769.60     $566,778.60
+             Total Budgeted Amounts (Autosum)                                                                                                                      $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65         $61,652,406.96                      $0.00 $449,558.40    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,146,597.99 $124,252,995.95
+362 GR3      Instructional Coach/Freshman Success                      25      General:                                    DP STA               111         12.5                                                          $1,284,220.00                         $1,284,220.00       12.5                                                           $1,348,431.00                 $1,348,431.00   $2,632,651.00
+             Team Lead                                                         Multiple
+                                                                               subjects
+                                                                               teacher
+                                                                               (middle/high
+                                                                               school)
+
+363 GR3      Instructional Coach/Freshman Success                                                                          DP STA               2XX                                                                          $726,537.50                         $726,537.50                                                                           $762,864.38                        $762,864.38    $1,489,401.88
+             Team Lead FRINGE
+364 AA3      Other Support Staff at Identified High                   12.5     General:                                    DP STA               111         6.25                                                                                                 $719,364.00        6.25                                                                                                  $755,332.20    $1,474,696.20
+             Schools                                                           Multiple
+                                                                               subjects
+                                                                               teacher
+                                                                               (middle/high
+                                                                               school)
+                                                                                                                                                                                                                             $719,364.00                                                                                                               $755,332.20
+365 AA3      Other Support Staff at Identified High                                                                        DP STA               2XX                                                                                                              $445,042.00                                                                                                              $467,294.10     $912,336.10
+             Schools FRINGE                                                                                                                                                                                                  $445,042.00                                                                                                               $467,294.10
+366 GR3      Freshman Success Team TOSA                                 2      General:                                    DP STA               111          1                                                                                                   $114,555.26         1                                                                                                    $120,283.02     $234,838.28
+                                                                               Multiple
+                                                                               subjects
+                                                                               teacher
+                                                                               (middle/high
+                                                                               school)
+                                                                                                                                                                                                                             $114,555.26                                                                                                               $120,283.02
+367 GR3      Freshman Success Team TOSA FRINGE                                                                             DP STA               2XX                                                                                                               $62,217.34                                                                                                               $65,328.21     $127,545.55
+                                                                                                                                                                                                                              $62,217.34                                                                                                                $65,328.21
+368 AT3      Maintain systems to ensure on-time                                                                            DP PL       WRE      8XX                                                                          $120,000.00                         $120,000.00                                                                           $135,000.00                        $135,000.00     $255,000.00
+             graduation
+369 GR5      Support teaming structures for authentic                                                                      DP PL                13X                                                                            $73,240.00                         $73,240.00                                                                             $73,240.00                        $73,240.00     $146,480.00
+             educator collaboration
+370 GR5      Support teaming structures for authentic                                                                      DP PL                2XX                                                                            $26,760.00                         $26,760.00                                                                             $26,760.00                        $26,760.00      $53,520.00
+             educator collaboration FRINGE
+     GR5     Support teaming structures for authentic                                                                      DP PL                8XX                                                                            $45,000.00                         $45,000.00                                                                             $45,000.00                        $45,000.00      $90,000.00
+             educator collaboration CONTRACT
+371 AT1      Improve school climate and reduce chronic                                                                     DP OCG      WRE      8XX                                                                                             $50,000.00        $50,000.00                                                                                              $50,000.00       $50,000.00     $100,000.00
+             absenteeism
+     AT1     Improve school climate and reduce chronic                                                                     DP OCG      WRE      13X                                                                                             $98,959.31        $98,959.31                                                                                              $98,959.31       $98,959.31     $197,918.62
+             absenteeism - extended hours
+     AT1     Improve school climate and reduce chronic                                                                     DP OCG      WRE      2XX                                                                                             $26,891.27        $26,891.27                                                                                              $26,891.27       $26,891.27      $53,782.54
+             absenteeism - fringe
+372 CU1      Expand culturally specific partnerships for                                                                   DP OCG      WRE      8XX                                                                                            $310,000.00       $310,000.00                                                                                             $310,000.00      $310,000.00     $620,000.00
+             focal student groups
+     CU1     Expand culturally specific partnerships for                                                                   DP OCG               13X                                                                            $21,399.26                         $21,399.26                                                                             $21,399.26                        $21,399.26      $42,798.52
+             focal student groups - extended hours
+
+     CU1     Expand culturally specific partnerships for                                                                   DP OCG               2XX                                                                             $7,818.74                           $7,818.74                                                                             $7,818.74                         $7,818.74      $15,637.48
+             focal student groups - fringe
+     LT3     TNTP- Year-long sequence of                                                              PDC                                       31X                                             $400,000.00                                                      $400,000.00                                              $700,000.00                                                     $700,000.00    $1,100,000.00
+             asynchronous and synchronous Science of
+             Reading PD for licensed educators in up to
+             20 K-5 school staffs, school leaders,
+             instructional coaches, and K-3 educators
+             (research modules and research-to-
+             practice modules applying knowledge to
+             adopted HQIM)--K-3 staff only
+
+
+     LT3     Ex Hours for part-time staff to attend                                                   PDC                                       13X                                                $4,080.00                                                        $4,080.00                                               $4,080.00                                                       $4,080.00        $8,160.00
+             Science of Reading PD-- extended hours
+
+     LT3     Ex Hours for part-time staff to attend                                                   PDC                                       2XX                                                $1,920.00                                                        $1,920.00                                               $1,920.00                                                       $1,920.00        $3,840.00
+             Science of Reading PD-- extended hours
+             FRINGE
+     LT4     Early Literacy Coaches -part-time literacy                 5      Literacy               PDC                                       111     5                                       $551,809.00                                                      $551,809.00 5                                            $579,400.00                                                     $579,400.00    $1,131,209.00
+             coach for each school participating in                            Coach
+             Science of Reading PD--role is to
+             coach/support "bridge to practice" of new
+             learning in PK-3 ELA lessons
+
+
+     LT4     Early Literacy Coaches - part-time literacy                                              PDC                                       2XX                                             $259,675.00                                                      $259,675.00                                              $272,658.00                                                     $272,658.00     $532,333.00
+             coach for each school participating in
+             Science of Reading PD--role is to
+             coach/support "bridge to practice" of new
+             learning in PK-3 ELA lessons- FRINGE
+
+
+     LT3     Early Literacy Specialist - TOSA supporting                1      Literacy               PDC                                       111     1                                       $132,400.00                                                      $132,400.00 1                                            $138,520.00                                                     $138,520.00     $270,920.00
+             cadre of Early Literacy Coaches, Science                          Specialist
+             of Reading PD school cohort, and district-
+             wide PK-3 foundational literacy PD
+                                                                                                      Early
+     Outco                                                                                            Literacy    EIIS                 SIA                      FSI (CSI/TSI) Perkins      Early Literacy                                                                                           Perkins      Early Literacy
+     me and                                                      25-27                        Perkins Success     Allowable HSS        Allowable                Activity      Activity     Success         EIIS Activity                               Total Activity                 FSI (CSI/TSI) Activity     Success         EIIS Activity                               Total Activity 2025-27
+     Strateg                                             Partner Biennium                     Functio Allowable   Expenditu Activity   Use       Object FTE 25- Budget 25- Budget 25-      Activity Budget Budget 25- HSS Activity      SIA Activity   Budget 2025-26                 Activity      Budget 26-   Activity Budget Budget 26- HSS Activity      SIA Activity   Budget 2026-27 Biennium
+ID # y       Activity                                    ship    FTE Total   FTE Type         n Code Use Code     re Area   Category   Category Code    26      26            26           25-26           26            Budget 25-26   Budget 25-26   (autosum)          FTE 26-27   Budget 26-27 27            26-27           27            Budget 26-27   Budget 26-27   (autosum)      Activity Budget
+             Total Allocation                                                                                                                                    $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65     $61,652,406.96                            $470,328.00    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,167,367.59 $124,819,774.55
+             Unbudgeted (Autocalculate)                                                                                                                                $0.00       $0.00             $0.00       $0.00         -$0.00          $0.00             -$0.00                      $0.00 $20,769.60             $0.00       $0.00          $0.00          $0.00     $20,769.60     $566,778.60
+             Total Budgeted Amounts (Autosum)                                                                                                                    $938,838.10 $470,328.00     $3,131,583.38 $125,172.27 $13,162,643.56 $43,823,841.65     $61,652,406.96                      $0.00 $449,558.40    $3,259,403.11 $125,172.27 $13,699,894.32 $45,612,569.89 $63,146,597.99 $124,252,995.95
+     LT3     Early Literacy Specialist - TOSA supporting                                              PDC                                       2XX                                             $47,600.00                                                   $47,600.00                                              $50,480.00                                               $50,480.00      $98,080.00
+             cadre of Early Literacy Coaches, Science
+             of Reading PD school cohort, and district-
+             wide PK-3 foundational literacy PD-
+             FRINGE
+
+     LT2     Summer Acceleration Academy- Student                                                     ELPSS                                     other                                         $195,100.00                                                  $195,100.00                                                    $0.00                                                       $0.00        $195,100.00
+             bus transportation (morning and midday)
+             for students attending Summer
+             Acceleration Academy. Includes students
+             who qualify for specialized transportation,
+             as designated in their IEP.
+
+
+     LT2     Summer Acceleration Academy for up to                                                    ELPSS                                     111                                           $148,609.00                                                  $148,609.00                                              $113,636.00                                                 $113,636.00        $262,245.00
+             450 students at designated PPS sites
+             (supporting literacy PD, materials, and
+             staffing for grades 1-3)--licensed salaries
+
+
+     LT2     Summer Acceleration Academy for up to                                                    ELPSS                                     2XX                                            $47,556.00                                                   $47,556.00                                               $36,364.00                                                  $36,364.00         $83,920.00
+             450 students at designated PPS sites
+             (supporting literacy PD, materials, and
+             staffing for grades 1-3)--licensed salaries
+             FRINGE
+
+     LT2     Summer Acceleration Academy for up to                                                    ELPSS                                     112                                            $41,199.00                                                   $41,199.00                                               $40,110.00                                                  $40,110.00         $81,309.00
+             450 students at designated PPS sites
+             (supporting literacy PD, materials, and
+             staffing for grades 1-3)--classified salaries
+
+
+     LT2     Summer Acceleration Academy for up to                                                    ELPSS                                     2XX                                            $13,183.00                                                   $13,183.00                                               $12,837.00                                                  $12,837.00         $26,020.00
+             450 students at designated PPS sites
+             (supporting literacy PD, materials, and
+             staffing for grades 1-3)--classified salaries
+             FRINGE
+
+     LT2                                                                                              ELPSS                                     other                                         $138,000.00                                                  $138,000.00                                              $116,484.00                                                 $116,484.00        $254,484.00
+     LT2     Summer Acceleration Academy-                                                             ELPSS                                     4XX                                            $16,353.00                                                   $16,353.00                                                    $0.00                                                       $0.00         $16,353.00
+             Consumables. Mid-morning snacks for
+             students.
+     LT2     High-impact tutoring- vendor contracts                                                   SGHDT                                     31X                                           $157,971.38                                                  $157,971.38                                              $175,170.11                                                 $175,170.11     $333,141.49
+     LT2     Literacy interventionists (assigned to                  5       Literacy                 SGHDT                                     111     5                                     $565,985.00                                                  $565,985.00 5                                            $594,284.00                                                 $594,284.00    $1,160,269.00
+             provide direct intervention to students in                      Interventionis
+             need of Tier 3 reading intervention at                          t
+             designated sites)
+     LT2     Literacy interventionists (assigned to                                                   SGHDT                                     2XX                                           $266,346.00                                                  $266,346.00                                              $279,663.00                                                 $279,663.00   ID
+             provide direct intervention to students in
+             need of Tier 3 reading intervention at
+             designated sites)-FRINGE
+

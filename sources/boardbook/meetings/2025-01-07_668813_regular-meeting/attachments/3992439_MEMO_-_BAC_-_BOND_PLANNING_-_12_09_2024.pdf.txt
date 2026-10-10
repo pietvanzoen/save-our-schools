@@ -1,0 +1,362 @@
+                            PORTLAND PUBLIC SCHOOLS
+                            OFFICE OF OPERATIONS
+                            501 North Dixon Street / Portland, OR 97227
+                            Telephone: (503) 916-2000
+                            Mailing Address: P. O. Box 3107 / 97208-3107
+
+
+
+
+                                                MEMO
+
+Date:           December 13, 2024
+To:             Bond Accountability Committee
+From:           Dan Jung, Chief Operating Officer
+Subject:        General Obligation Bond Planning
+
+
+
+Overview
+The Bond Accountability Committee Charters states that the Committee will review future bond planning
+processes and materials and provide advice to the Board, prior to bond referral, on:
+
+    ●   Cost estimating processes related to proposed modernization efforts, new construction projects
+        and other potential scopes of work.
+    ●   Bond development risk management strategies including project cost escalation assumptions,
+        contingency assumptions, bond management cost estimates, etc.
+
+This memo provides information on up to date general obligation bond (GO bond) planning and cost
+estimating.
+
+Background
+Portland Public Schools (PPS) began holding public meetings to plan for the next GO bond in early 2025.
+Over the following months, both the scope and estimated budget for the GO bond evolved significantly.
+On May 29, 2024, PPS staff met with members of the Budget Advisory Committee (BAC) to review the
+proposed scopes of work and cost estimation methodologies. By June 2025, as the total budget for the
+GO bond approached $3 billion, the Board directed staff to shift the target date for the GO bond ballot to
+May 2025, and paused planning discussions. Recognizing that the scope of work might continue to
+change, further BAC discussions on the GO bond were also put on hold.
+
+Planning restarted when PPS’s Board of Education subcommittee, the School Facilities Improvement
+Oversight Committee (SFIOC), began meeting in October 2024. The SFIOC established key planning
+parameters, including:
+
+    ●   A total bond target between $1.5 and $1.8 billion
+    ●   A plan for an 8-year bond cycle
+    ●   Retaining the existing tax rate
+    ●   Aiming for a May 2025 ballot measure
+
+The SFIOC has held three meetings to date. Following its most recent meeting on December 2, the
+committee appears prepared to recommend a GO bond with an estimated scope of work totaling around
+$1.8 billion for referral to the Board of Education.
+                                                                                                         1
+PPS now seeks the BAC's review of the details outlined below. We ask for your input on the
+reasonableness of the cost estimation methods used to develop the proposed scopes of work, as well as
+the risk management strategies in place.
+
+Specifically, we request your assessment of whether you find that it is reasonable to conclude the
+proposed $1.8 billion budget is sufficient to complete the scope of work outlined in the GO bond
+option.
+
+Scope of Work
+A. Physical Facility Improvements - $290M
+Deferred Maintenance & Priority Scopes of Work - $190M
+As detailed in the Board meeting materials, PPS is confronting substantial facility needs, with an overall
+cost that exceeds several billion dollars. Although there is some flexibility in how these needs are
+categorized, we generally classify physical facility improvements into three primary categories:
+
+    1. Deferred Maintenance (addressing failed assets)
+    2. Capital Renewal (planning for assets beyond their expected useful life)
+    3. Priority Scopes of Work (new improvements or upgrades)
+
+Deferred Maintenance: The District’s deferred maintenance backlog is substantial, with thousands of
+assets in need of replacement, totaling more than $1 billion. PPS’s overall facility condition index is rated
+as “poor,” and staff have estimated that it would require approximately $700 million over the next 10
+years to improve the District-wide rating to a “fair” level.
+
+Capital Renewal: According to the APPA benchmark, annual investment in capital renewal should be 3%
+of the Current Replacement Value (CRV), equating to roughly $171 million per year. While this is a broad
+estimate not specific to PPS, it is reasonable to assume over $100 million per year would be needed to
+maintain the existing conditions of PPS facilities.
+
+Priority Scopes of Work: Priority projects that fall outside of deferred maintenance include seismic
+retrofits, athletic facility upgrades, the addition of air conditioning, security improvements, and other
+critical needs. PPS’s Long Range Facilities Plan (and other capital planning documents) identify
+substantive upgrade needs in these areas.
+
+Given the scope of PPS’s facility needs, an allocation of $190 million, over 8 to 10 years, represents a
+significant but relatively modest investment, considering the size of the District’s portfolio and its current
+condition. The 2025 GO bond is planned to provide flexibility in use of these funds, allowing the district
+to address its highest facility priorities over the next decade.
+
+At this stage, specific scopes of work and detailed cost estimates have not yet been defined. However,
+it is anticipated that the funding will support the completion of over 100 capital projects.
+
+Below is a sample overview of how these funds could be distributed over the term of the bond.
+
+
+
+
+                                                                                                             2
+Athletic Improvements - $79M
+The 2025 GO bond proposal includes specific projects and budgets for the planned athletic
+improvements. The estimating model for these athletic projects follows a similar approach to the
+modernization projects:
+
+                Hard Costs + Soft Costs + Contingencies = Total Project Cost
+
+Attached are detailed budget breakdowns for each identified project. A few important notes:
+
+Hard Costs: The scope of each project varies, but many are based on work PPS has completed in recent
+years, such as new turf fields, lighting, hitting facilities, etc. As a result, much of the hard cost data is
+derived from these recent, similar projects. All assumptions regarding hard costs are clearly noted in the
+attached documents.
+
+Soft Costs: Similarly soft cost estimates are based on recent projects. We have applied an 18% design
+contingency to most projects; exceptions are noted.
+
+Furniture, Fixtures, and Equipment (FF&E): Some projects will require new athletic equipment to
+become complete and usable. A FF&E markup has been applied to those projects.
+
+Contingencies: Given that many of these projects are still in the early planning stages and based on zero
+percent design, various contingencies have been included to address potential future cost risks. These
+contingencies encompass:
+
+    ●   Scope/Design Contingency: Given that the estimated costs are based on historical data from
+        similar projects, we apply a 10% scope/design contingency. This helps account for potential
+        site-specific considerations that may require additional work, such as extra walking paths, stairs,
+        or lighting due to unique site grading or other factors.
+
+    ●   Jurisdictional Requirements: The base hard cost data is often drawn from larger projects, and
+        does not account for jurisdictional requirements such as land use conditions of approval or
+                                                                                                            3
+         unexpected permit requirements. A contingency is applied to address any unanticipated
+         compliance requirements or required improvements.
+
+    ●    Project Contingency: A standard practice at PPS is to apply a 10% contingency for new
+         construction projects and a 15% contingency for renovations. Although many of the athletic
+         improvements are new construction, a significant portion of the work involves civil engineering
+         and is therefore subject to higher risk due to unknown underground conditions. As a result, we
+         have applied a 15% project contingency to all projects to account for unforeseen circumstances.
+
+    ●    Cost Escalation: As detailed project schedules and sequencing are still being developed, and
+         given that the athletic improvements must be coordinated with other capital projects, we
+         estimate that all work will be completed over 8 to 10 years. To account for inflation and potential
+         price increases, we have factored in 5 years of cost escalation (from the base year 2025) at a rate
+         of 4% per year for all projects. We acknowledge that this method overestimates some projects
+         (those being completed sooner) and underestimates the later projects, but we believe this is a
+         reasonable approach to the athletic improvements scope as a whole.
+
+Based on the estimating approach and risk management strategies, we are confident that the full
+scope of the athletic improvement projects can be completed within the allocated budget.
+
+B. Educational & Technology Improvements - $242M
+Technology Improvements - $176M
+This budget has been created from an eight-year bond timeline and includes 2 four-year cycles.
+
+ Project                    Years 1-4 Amount           Years 5-8 Amount           Total
+
+ Business                   $38 million                $0                         $38 million
+ Modernization/ERP
+
+ Staff & Student Device     $35 million                $35 million                $70 million
+ Refresh
+
+ Data Center/Classroom      $25.5 million              $25 million                $50.5 million
+ Tech/Infrastructure
+
+ Cybersecurity              $3.5 million               $4 million                 $7.5 million
+
+ HVAC and Energy            $10 million                $0                         $10 million
+ Sustainability
+
+ Total                      $112 million               $64 million                $176 million
+
+Project Notes:
+    ● The Business Modernization/ERP system serves as the fundamental backbone supporting the HR
+        and all financial systems within the district. During Bond 2020, the ERP was designated for
+        planning stages; however, the 2020 bond funds were not designated to cover the complete
+        implementation costs. This request encompasses the necessary funding for the acquisition,
+        implementation, and staffing of the system project, as well as the transition of the district from
+        the previous ERP (PeopleSoft) system.
+    ● Staff and student device refresh: Presently, General Funds are inadequate to address
+        district-wide device replacement for students and staff since their initial deployment in
+        2020-2021. It is imperative that staff and students have access to reliable and secure technology
+                                                                                                           4
+        for classroom usage and homework assignments. While we strive to extend the lifecycle of
+        devices to 5 years, this is becoming increasingly more difficult to accomplish due the rate of
+        change of technology and the additional usage placed on devices by staff and students.
+    ●   K-12 cyber attacks persist as a significant concern for school districts nationwide. The need
+        remains to continuously update existing systems and adopt innovative practices to prevent cyber
+        security attacks from disrupting our educational processes, data, and systems.
+    ●   The PPS Data Center, being the focal point of all technical operations across the district, is
+        projected to reach its end of life in 2025. It necessitates the replacement of the chiller, UPS, and
+        other essential infrastructure components to ensure the continuity of technical operations.
+    ●   Bond 2020 did not include provisions for the replacement of classroom technology or
+        infrastructure in any of the schools improved with funds from Bonds 2012 or 2017. The
+        technology in Bond 2012 schools is now outdated and requires replacement to comply with the
+        District's technology standards. While Bond 2017 schools have relatively newer technology
+        compared to Bond 2012, the Wifi system will approach its end of life between 2025-2027,
+        necessitating additional funds for its replacement. Additionally, large space areas (gymnasiums,
+        theaters, etc.) were not within the scope of the 2020 Classroom Modernization project. This
+        bond will provide specific projection and sound capabilities tailored to these larger spaces.
+    ●   HVAC and Energy Sustainability: Across the district, the majority of our network distribution
+        closets lack adequate cooling to maintain efficient and sustainable operations. Most dedicated
+        network rooms do not have any form of access control. This bond will enable us to implement
+        both temperature control and the necessary access control measures to secure these critical and
+        sensitive locations.
+
+Physical Education - $10M
+In accordance with the Division 22 Physical Education (PE) requirements from the Oregon Department of
+Education, PPS must fully comply with the mandated PE minutes. To meet this requirement, PPS has
+undertaken modifications at schools over the last 2 years to expand PE spaces and offerings. To achieve
+full compliance, additional PE spaces need to be identified at six remaining six: Cesar Chavez, da Vinci,
+George, Ockley Green, Metropolitan Learning Center, and Winterhaven. Each of these schools has
+unique space needs, necessitating resources to both initiate and complete the projects.
+
+The GO bond budget allocates $10 million to cover the cost of this work, approximately $1.6 million per
+school. While the specific solutions for each site have not yet been determined, we anticipate that the
+allocated amount will be sufficient to complete the required improvements, based on previous projects.
+Any savings from this work will be redirected to the Program Contingency fund. Should additional
+funding be required, it will be drawn from the available Program Contingency.
+
+We are confident that the allocated budget is sufficient to address the PE needs at the six schools.
+
+Curriculum - $56M
+The proposed project scope is $7M each year through 2030-31, totalling $56M. This Bond Curriculum
+Update at $7M Annually, outlines revised curriculum schedule, further considerations and next steps. It’s
+important to note, bond funds are not intended to be the sole source supporting curriculum adoptions
+moving forward, and this approach provides foundation support.
+
+Because the curriculum budget is a fixed annual allocation designated to support new curriculum
+adoptions, which are supplemented by additional non-bond funding, we are confident that the $56
+million will be effectively used to address the curricular needs as outlined.
+
+
+
+
+                                                                                                           5
+C. Modernizations - $1.150B
+The May 29 BAC meeting focused on the modernization projects. The meeting materials are attached for
+reference. During the session, staff reviewed the cost estimating methodology and underlying
+assumptions that led to the project cost estimates outlined below:
+
+
+
+
+Acknowledging the high total project costs for the three schools, the District has recently decided to
+reassess the project designs and budgets. To achieve this, the project teams have been tasked with
+developing updated, high-level designs that aim to reduce overall costs while maintaining the core scope
+and academic programs. The revised funding and budget targets for each project are as follows:
+
+
+
+
+By reimagining the high school modernization projects with an emphasis on preserving essential
+academic programs, Portland Public Schools (PPS) stands to realize up to $470 million in savings. These
+savings will be reinvested into the modernization of elementary and middle schools, ensuring that
+improvements are made district-wide.
+
+To restate and clarify, PPS plans to allocate $1.15 billion in the upcoming General Obligation (GO) bond
+for the modernization of Jefferson, Ida B. Wells, and Cleveland High Schools. When combined with the
+allocation from the 2020 GO bond, the total funding for these projects will be $1.556 billion. The revised
+                                                                                                          6
+target budget for these three projects is $1.086 billion, resulting in a $470 million difference between the
+total funding and the target budgets.
+
+If one or more of the high school projects encounter budget challenges, this $470 million will serve as a
+flexible buffer to cover any potential shortfalls. However, the primary goal is to use the savings from the
+budget difference to support the modernization of future elementary and/or middle schools. The
+specific schools, scope of work, and number of schools to be modernized will be determined at a later
+stage.
+
+This approach not only provides a significant cost buffer to ensure that the high school projects remain
+within budget, but also enables continued investment in the modernization of schools across the district.
+
+Based on this approach, we are confident that the three high school modernization projects will be
+completed within the available funding.
+
+D. Administration and Contingency - $166M
+Administration - $83M
+Program administration includes the resources required to manage and support the bond work, covering
+staff, bond issuance costs, insurance, and other related expenses.
+
+From 2021 to 2023, Portland Public Schools (PPS) spent approximately $37 million for bond program
+administration, averaging approximately $12 million annually. Annual expenses fluctuate depending on
+the number and complexity of active projects, as well as the timing of significant expenditures, such as
+bond insurance payments. It's important to note that these costs are not uniform throughout the
+program’s lifecycle. Initial costs tend to be lower, accelerate as new projects kick off, and taper off as the
+program nears completion.
+
+Given that PPS oversees multiple overlapping GO bond programs, this structure provides opportunities
+for cost efficiencies. However, it also requires careful oversight to track individual program expenses, as
+some costs are shared across different GO bond authorizations
+
+For the 2020 GO bond program, the administration budget is set at $62 million (6% of the project budget
+for the bond), of which $20 million has been spent. With approximately 46% of the budget spent to date,
+we anticipate that total administration costs will remain close to, but below the allocated amount.
+
+The upcoming 2025 GO bond presents a unique challenge compared to previous bonds, due to its size,
+scope, and other variables. The budget for administration of the 2025 GO bond is set at $83 million,
+which is 5% of the bond project budget, an ambitious but achievable target. The 2025 GO bond has a
+significant amount of large modernization work, which is less burdensome for adminstrative budgeting
+than smaller projects. OSM will strategically design the mix of direct PPS employees and contracted
+administrative positions to provide the expertise necessary at an efficient cost. It will be important to
+keep a close eye on administration costs as the program evolves, the modernization budgets become
+solidified, and additional projects become clear to ensure that the program’s administrative budget
+evolves with the program’s project makeup.
+
+We are confident that the full GO bond program can be successfully managed and delivered within the
+available funding.
+
+Contingency - $83M
+Program contingency is a risk management tool used to buffer against unanticipated costs, such as:
+
+    ●   Higher than anticipated cost escalation
+                                                                                                              7
+    ●   Costs associated with longer than estimated project schedules
+    ●   Building code or zoning code changes
+    ●   Emergency facility needs
+    ●   Or any other unforeseen cost, either discretionary or nondiscretionary
+
+The majority of the funding in the proposed plan is allocated to modernizations, totaling $1.150 billion.
+As mentioned earlier, the goal is to complete the three high school modernization projects with just
+$640 million of the proposed GO bond funding, significantly below the total amount allocated for
+modernizations. Any savings from the high school projects will be redirected to modernizing elementary
+and middle schools. This strategy creates a strong risk management framework for modernizations,
+eliminating the need for additional program contingencies.
+
+Of the remaining budget, $190 million is earmarked for deferred maintenance, functioning as a
+"spend-up" allotment, and the curriculum budget represents an annual allocation that supports ongoing
+work, supplemented by non-bond resources. Leaving a remaining scope of work - including athletics,
+technology, physical education and administration costs - totaling approximately $350 million.
+
+The proposed option includes an $83 million program contingency (5% of the total bond amount),
+designed to address (i) unanticipated cost overruns, and (ii) any additional discretionary scope within the
+GO bond’s language and parameters.
+
+A few important notes:
+    ● PPS traditionally supplements the program contingency with any bond sale premiums and
+        interest earnings. While these additional revenue sources are not guaranteed, historical trends
+        suggest they will likely add tens of millions to the total budget.
+    ● PPS has submitted an application for the Oregon School Capital Improvement Matching (OSCIM)
+        Program. If awarded this would increase the program contingency by as much as $12 million.
+    ● All program contingency funds are ultimately allocated to GO bond projects.
+
+We are confident that the program contingency is sufficient to cover unforeseen expenses and that the
+$1.8 billion budget will be adequate to complete the proposed GO bond scope of work.
+
+
+
+Resources
+    -   Exhibit A: Proposed General Obligation Bond Option (12.13.2024)
+    -   Athletic Facility Improvements
+    -   Bond Curriculum Update (11.25.2024)
+    -   May 29, 2024 Material: Presentation
+    -   May 29, 2024 Material: Cost Model Workbook
+
+
+
+
+                                                                                                          8
+

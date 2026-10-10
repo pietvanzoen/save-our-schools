@@ -1,0 +1,332 @@
+       PPS Perkins Needs Assessment:
+      Aligning CTE with Priority Sectors
+Regional Workforce Trends in Priority Sectors
+Portland’s economy is experiencing robust growth in four priority industries – advanced
+manufacturing, construction, clean energy, and health care – as identified by
+Worksystems. Key labor market trends include:
+
+Advanced Manufacturing: The Portland metro is a national leader in high-tech
+manufacturing (e.g. semiconductors) and related industries. The sector employs over 70,000
+workers regionally, with an average wage above $130k​(worksystems.org). Although five-year
+job growth has been steady at 5%​(worksystems.org), output has surged (gross regional product
+up 85% since 2019), reflecting increasing productivity and investment, worksystems.org.
+Emerging skill needs center on semiconductor manufacturing and advanced machining – fueled
+by soaring demand and federal CHIPS Act investments, worksystems.org– as well as automation
+and robotics to drive innovation. Employers report strong demand for technicians (e.g.
+semiconductor processing techs, machinists, welders) with wages in the ~$27–32/hr range​
+(worksystems.org), indicating a need for a talent pipeline in these trades.​
+
+Construction: The construction industry in the Portland-Vancouver metro area is booming,
+adding over 28,000 jobs since 2015 (about 40% growth)​(worksystems.org). 2023 it accounted
+for 51,600 jobs, with an average annual wage of over $105k​(worksystems.org). Construction
+employment will continue rising (another ~11,500 high-paying jobs by 2032) amid major
+infrastructure and development projects​(worksystems.org). Skilled trades are especially in
+demand – carpenters (6,900+ jobs), laborers (5,500+ jobs), electricians (~4,600 jobs), and
+plumbers (~2,600 jobs) are among the top occupations, often earning $25–47 per hour​
+(worksystems.org). An aging workforce (many nearing retirement) and ongoing public
+investments have created an urgent need for new trade entrants​(worksystems.org). Industry
+stakeholders are emphasizing apprenticeships and training programs to meet the labor shortfall
+in construction.​
+
+Clean Energy: A regional transition to clean, renewable energy is underway, driving
+cross-sector workforce needs. Broadly defined, the clean energy sector (including renewable
+energy generation, energy efficiency, and related green construction/manufacturing roles)
+employs about 139,500 workers in the metro area​(worksystems.org) – a high concentration
+(LQ 1.8) relative to the nation​. With an average wage of $114,725, these roles provide an
+opportunity for economic mobility for many students. Five-year job growth is ~8%​
+(worksystems.org) and expected to accelerate as Oregon invests in sustainable infrastructure
+(solar, wind, energy-efficient buildings, electric transportation). Industry demands span
+multiple disciplines: construction trades (e.g. electricians, HVAC installers, solar installers) to
+build and retrofit green buildings​(worksystems.org), manufacturers of clean technology
+(batteries, electric vehicles, etc.), and technicians to operate and maintain renewable energy
+systems. Key employers range from utilities (PGE, Pacific Power) to clean-tech firms (e.g.
+Vestas, ESS Inc)​(worksystems.org). This sector’s growth calls for workers with traditional skills
+(e.g. electrical, carpentry, with a green focus) and new skills in emerging technologies like solar
+PV, energy storage, and electric vehicle infrastructure.​
+
+Health Care: The health care and social assistance sector is expanding rapidly in Portland,
+driven by an aging population and rising demand for health services​(worksystems.org).
+Regional health care employment tops 109,700 jobs with 9% growth in the past five years​
+(worksystems.org), and an average wage around $81k​(worksystems.org). Major hospital
+systems (Legacy, Providence, Kaiser, OHSU) are among the largest employers​
+(worksystems.org). Emerging skill needs include not only traditional roles like nurses and
+medical assistants, but also behavioral health professionals and medical office/support staff.
+Behavioral health is a critical growth area – the region faces a shortage of qualified mental
+health and substance abuse support workers​(worksystems.org). Many health careers offer
+entry-level opportunities without a four-year degree; nearly 60% of health jobs paying $22+/hr
+do not require a bachelor’s​(worksystems.org) Growing occupations include medical assistants,
+health information technicians, licensed practical nurses, and peer support specialists​
+(worksystems.org). High retirement rates (and burnout from the pandemic) further intensify the
+need to train new healthcare workers across clinical and support roles​(worksystems.org)​
+
+
+Current CTE Offerings and Gaps Analysis
+Portland Public Schools offers a broad array of Career & Technical Education programs, with 78
+state-approved CTE programs of study across 11 high school campuses. These programs span six
+career clusters – including Health Sciences and Industrial & Engineering Systems, which
+correspond to the priority sectors – and fields like Business, Arts/Communication,
+Agriculture/Natural Resources, and Human Services​. This breadth provides many students with
+exposure to technical skills, but alignment with regional workforce needs in the four
+high-growth sectors is uneven.
+
+Alignment with Priority Sectors: Some PPS programs are well-aligned with local industry
+demand. For example, the district’s Health Sciences pathways (e.g. medical professions or
+bio-science programs at certain high schools) feed into the healthcare talent pipeline by teaching
+anatomy, patient care, and even offering certifications like CNA or First Aid. Similarly, several
+Industrial & Engineering Systems programs cover skills relevant to manufacturing and
+construction – such as welding, engineering design, automotive technology, and construction
+trades – which map to advanced manufacturing and construction jobs. Flagship career-tech
+schools like Benson Polytechnic High School historically offer manufacturing technology,
+electrical, architectural design, and automotive programs, producing graduates who often enter
+apprenticeships or technical college in related fields. These existing programs provide a
+foundation to build, indicating that PPS has some infrastructure for the targeted industries.
+However, significant gaps exist between current offerings and emerging workforce needs in the
+priority sectors:
+
+Advanced Manufacturing: Despite the region’s leadership in high-tech manufacturing, PPS
+has limited CTE programs explicitly focused on modern manufacturing technology (e.g.
+semiconductor fabrication, robotics, precision machining). Traditional manufacturing classes
+(welding, wood/metal shop or basic engineering) exist, but advanced manufacturing pathways
+that incorporate electronics, automation, and clean-room processes are sparse. There is an
+opportunity to introduce or expand mechatronics, electronics fabrication, or industrial
+automation programs to meet the growing demand for semiconductors and advanced
+manufacturing workforces​(worksystems.org). Without such programs, employers in the
+booming high-tech manufacturing arena may face a shortage of entry-level technicians familiar
+with industry-grade equipment and processes.​
+
+Construction Trades: PPS offers construction technology or woodworking programs at only a
+few high schools, meaning many students lack access to this career pathway. Given the urgent
+demand for skilled construction labor region-wide​(worksystems.org), the current scale of
+construction-related CTE programs may be insufficient. For instance, if only one or two
+campuses have building trades programs, the output of graduates ready for apprenticeships is
+relatively low. Gaps include specialty trades exposure (plumbing, HVAC, electrical) – students
+may not get hands-on experience in these areas unless they attend the one school with a
+construction program. To meet employer demand, new or expanded programs (or magnet
+initiatives) in the building trades could be warranted, so that students across the district can
+prepare for high-wage construction careers.​
+
+Clean Energy: There is currently no dedicated “clean energy” CTE program in PPS, even
+though sustainability and energy technology are fast-growing fields. Clean energy elements are
+touched on indirectly in other programs (for example, an environmental science course or a unit
+on solar power in a construction class). Still, a coherent program of study focused on renewable
+energy, energy efficiency, or green technology is lacking. This represents a gap in preparing
+students for the burgeoning green economy. A Renewable Energy Technology program –
+covering solar panel installation, wind/energy generation, battery storage, and green building
+design – could fill this void and align directly with Portland’s climate and infrastructure
+initiatives. Likewise, automotive technology programs could expand to include electric vehicle
+(EV) maintenance and charging infrastructure, bridging into clean transportation careers.
+Without explicitly addressing clean energy skills, PPS is missing an opportunity to train students
+for a sector employing over 139,000 locally​(worksystems.org) and growing in importance.​
+
+Healthcare & Social Assistance: PPS’s health science programs are a strength, but they
+could be broadened to address emerging needs like behavioral health and healthcare
+administration. For example, existing programs often focus on general medical or biomedical
+themes; there is room to add mental and behavioral health support pathways, given the acute
+regional demand for those roles​(worksystems.org). Additionally, internships or clinical
+experiences in hospitals and clinics (e.g. through partnerships with major healthcare providers)
+are limited by capacity – more opportunities are needed so interested students districtwide can
+get real-world healthcare experience. Another gap is in continuity to postsecondary:
+strengthening connections to nursing programs or allied health training at local colleges would
+help students seamlessly transition into the healthcare workforce pipeline. Ensuring every high
+school has some offering in the health sciences (or access via cross-enrollment) would improve
+equity of access to this high-demand field.​
+
+In summary, while PPS’s 79 CTE programs cover many career fields, they do not fully reflect the
+current labor market priorities. High-growth sectors like advanced manufacturing, clean energy,
+and construction are under-represented in the CTE portfolio, signaling a need for new programs
+or expansion. Strengthening these areas (without neglecting existing popular programs) will
+better align student skills with employer demand and address gaps where local industries are
+clamoring for talent.
+
+
+Investment Strategies & Partnership Integration for
+Industry Alignment
+PPS can leverage its current Perkins-funded initiatives and partnership models to ensure CTE
+program growth aligns with regional industry needs. Current investment areas under Perkins V
+– such as Program Advisory Councils, Work-Based Learning, curriculum development, and
+industry-recognized credentials – provide a foundation for strengthening the connection
+between education and the workforce. The district’s strategy is to go beyond standalone classes
+by involving industry and community partners in CTE. Key approaches include:
+
+Program Advisory Councils (PACs): Every CTE program convenes industry advisors who
+guide curriculum and program improvements. PPS can maximize PAC impact by recruiting
+representatives from the priority sectors (advanced manufacturing, construction, clean energy,
+healthcare) to these councils. Regular consultation with employers ensures that programs stay
+up-to-date with evolving industry needs and technologies​. For example, industry advisors in
+manufacturing can suggest emerging skills (like CNC programming or quality control standards)
+to incorporate into coursework. In healthcare, hospital partners on advisory boards can help
+align high school training with entry-level job requirements. Strengthening PACs and giving
+them a strategic role in program design will keep career pathways relevant and demand-driven.​
+
+Work-Based Learning (WBL): PPS already invests Perkins funds to expand work-based
+learning opportunities such as internships, job shadows, and project-based learning with
+industry. These efforts directly support alignment by giving students hands-on experience in
+high-demand fields. For instance, internships with local manufacturing firms or hospitals allow
+students to apply skills in real workplaces and understand industry expectations. The district’s
+Partnership Engagement Menu outlines numerous ways businesses can engage – from offering
+industry projects for students to providing internships and mentorship​. By leveraging this menu
+and coordinating through College & Career Centers, PPS can scale up WBL in the four target
+sectors. Emphasizing quality WBL (with training plans and reflection) helps students build the
+“soft skills” and technical competencies employers seek, making graduates more work-ready.​
+Curriculum Development & Industry Credentials: Ongoing curriculum modernization is
+funded in part by Perkins to ensure programs integrate new technologies and standards. PPS
+can channel these funds to update curricula aligned with industry 4.0 practices (e.g. adding
+modules on renewable energy in science or CAD/CNC in manufacturing classes). Collaboration
+with local community colleges (many of which receive Perkins funds too) can create alignment
+between high school programs and college technical courses, ensuring a smoother student
+transition In addition, supporting students in earning industry-recognized credentials is a
+priority – for example, OSHA-10 safety certification in construction, Certified Nursing Assistant
+(CNA) or First Responder certifications in health, or AutoCAD and SolidWorks certifications in
+engineering. These credentials give students tangible proof of skills employers recognize,
+thereby tightening the linkage between CTE outcomes and workforce entry. PPS’s investments
+in credential exam fees, teacher training, and equipment all contribute to programs that meet
+industry standards.​
+
+Cross-Functional Partnership Teams: Beyond traditional advisory roles, PPS has
+pioneered a cross-functional team approach to CTE partnerships. This model brings educators,
+industry professionals, workforce agencies, and community organizations together as a
+collaborative team to solve workforce challenges​. Instead of isolated, one-off partnerships,
+cross-functional teams work on coordinated strategies – for example, a healthcare team might
+include teachers, hospital HR staff, a community college nursing instructor, and a workforce
+board representative working collectively to expand a pathway for future medical assistants. By
+working in tandem, these stakeholders can align curriculum, work-based experiences, and
+hiring practices to ensure students graduate with in-demand skills. The power of this approach
+is that it moves beyond transactional engagements (like a company donating equipment) toward
+deeper co-development of programs. Cross-functional teams focus on shared goals such as
+diversifying the talent pipeline or updating training for emerging technologies, and they iterate
+solutions together. PPS’s use of this model (supported by its CTE team)will enhance employer
+engagement and keep programs responsive to economic shifts. For example, a cross-sector clean
+energy team could help design a new renewable energy CTE program, with input on everything
+from curriculum to internship placements. This integrated partnership strategy ensures
+sustainable alignment, as solutions are developed collaboratively and are more likely to endure
+changes in staffing or funding​.​
+
+Pathway Ecosystem Model: PPS also adopts a Pathway Ecosystem framework, which
+envisions every CTE pathway supported by a network of partners (industry, post-secondary,
+nonprofits, government, cultural institutions) working in concert​. This systemic approach,
+funded partly through Perkins innovation grants and local initiatives, ensures students get
+layered support and real-world exposure throughout their journey. For instance, a health
+science pathway in an ecosystem might include a university dual-credit agreement, a hospital
+internship program, a nonprofit providing career mentors, and a government workforce agency
+supplying labor market data. Such an ecosystem makes the career pathway more sustainable,
+equitable, and adaptable. It helps institutionalize partnerships so that even if a champion leaves,
+the path continues with multiple stakeholders invested. Students benefit through consistent
+industry interaction (not just a single job shadow but ongoing engagement) and smoother
+transitions to college or apprenticeships. By integrating this model, PPS can leverage
+cross-sector resources – for example, using Worksystems labor market reports to inform
+programs, or tapping state apprenticeship agencies to connect students with apprenticeships –
+thereby fully aligning CTE programs with regional workforce development efforts.​
+
+In summary, PPS’s current Perkins investments in advisory councils, work-based learning,
+curriculum, and credentials can be strategically deployed to bolster industry alignment,
+especially when combined with innovative partnership structures. Through substantial advisory
+input, experiential learning, up-to-date curricula, and collaborative cross-functional teams, the
+district can ensure its CTE programs directly support the talent needs of Portland’s growth
+sectors while providing students with relevant, work-ready skills.
+
+
+Actionable Recommendations for Alignment and
+Growth
+To maximize CTE alignment with regional economic needs, PPS should undertake targeted
+actions in program development, partnerships, and resource allocation. Below are strategic
+recommendations to guide program expansion, funding, and partnerships – all with an
+emphasis on enhancing student access, equity, and long-term pathway sustainability in
+advanced manufacturing, construction, clean energy, and healthcare:
+
+Expand High-Demand CTE Pathways: Allocate funding to develop new programs and
+enhance capacity in the priority sectors. For example, establish a Renewable Energy Technology
+program (focused on solar, wind, and energy efficiency) to directly address the clean energy
+workforce gap, and consider a specialized Advanced Manufacturing or mechatronics program in
+partnership with a community college or industry consortium (leveraging the semiconductor
+initiative momentum​(worksystems.org)). Similarly, construction trades programs could be
+expanded to additional high schools or created regional trades skill centers so more students can
+access carpentry, electrical, and plumbing training. Add a Behavioral Health/Patient Care
+pathway to prepare students for roles like medical assistant, phlebotomist, or peer recovery
+mentor, tapping into local hospital partnerships. Direct a significant portion of Perkins V and
+local CTE funds toward these new or expanded programs (for equipment, teacher training, and
+facility needs), as these fields align with Portland’s highest-growth jobs. By increasing CTE slots
+in these areas, PPS will produce more graduates with skills matching critical job openings,
+supporting student success and regional workforce needs.​
+
+Strengthen Industry & Education Partnerships: Deepen collaboration with employers,
+labor unions, post-secondary institutions, and workforce boards to ensure programs remain
+tightly aligned with industry trends. Form sector-specific advisory committees or industry
+roundtables for each priority sector (if not already in place) – e.g. a Healthcare Advisory Panel
+with local hospital and clinic representatives, a Manufacturing Advisory with tech
+manufacturers like Intel or local fabrication shops, etc. – to provide ongoing feedback and
+pledges of support (guest instructors, site visits, donated equipment). Implement the
+cross-functional team approach by convening working groups for each sector that include CTE
+teachers, industry experts, Worksystems or workforce agency staff, and community partners to
+co-design solutions (such as updating curriculum or coordinating internships)​. Seek out
+partnership agreements with organizations already active in these workforce areas: for instance,
+partner with union apprenticeship programs in construction (electricians, carpenters unions) to
+create a direct bridge from high school to apprenticeship, or with primary healthcare providers
+to guarantee clinical internship slots for students. Leverage Worksystems’ support (as the
+regional workforce board) to connect with their initiatives – for example, collaborate on utilizing
+the Portland Clean Energy Fund grants for youth training in clean energy jobs​
+(greaterportlandinc.com). PPS can integrate real-world industry expertise into CTE by
+formalizing and expanding these partnerships. This will yield benefits like curriculum
+co-development, teacher externships in industry, and a pipeline for students to jobs or further
+training. Employer engagement should be a key performance metric – e.g., each program of
+study in a priority sector should have at least one active industry partner per student, and each
+partner should commit to specific activities (advisory participation, hosting interns, etc.). These
+partnerships will keep CTE programs agile and demand-driven.​
+
+Enhance Work-Based Learning & Credentials: Increase work-based learning
+opportunities and embed industry credentials in all priority-sector programs to improve student
+readiness for high-wage careers. Work with industry and community partners to increase the
+number of internships, apprenticeships, and job shadow placements available to CTE students.
+For example, expand the SummerWorks or similar internship programs in coordination with
+Worksystems so that every student in an advanced manufacturing or construction pathway gets
+a paid summer internship or apprenticeship exposure before graduation​(worksystems.org).
+Integrate pre-apprenticeship models into high school programs – for instance, align
+construction programs with BOLI-certified pre-apprenticeship curricula so students can directly
+enter apprenticeships with advanced standing. Ensure students have access to earn relevant
+certifications: OSHA 10 and Forklift Operator (for construction/manufacturing safety),
+CAD/CAM software certifications for engineering, NABCEP entry-level solar installer
+certification for a future clean energy program, and Basic Life Support or Certified Medical
+Assistant credentials for health students. Perkins funds can subsidize certification exam fees and
+support teacher professional development to implement these credentials.
+
+Additionally, coal-credit agreements should be considered at th local colleges (like Portland
+Community College) so that students in these CTE programs can earn college credit or even
+complete the first term of a technical certificate while in high school. By graduation, students
+could have both a high school diploma and industry-recognized credentials or credits,
+dramatically improving their employability and postsecondary transition. Making work-based
+learning a graduation expectation for CTE concentrators (with adequate support to find
+placements) and tracking credential attainment will help institutionalize this focus. These efforts
+will produce a workforce-ready graduate with practical experience and verifiable skills aligning
+with industry requirements.​
+
+Promote Access, Equity & Pathway Sustainability: Ensure that the expansion of CTE
+opportunities in these sectors is equitable and sustainable for the long term. Intentional
+outreach and support are needed to include historically underrepresented students (girls,
+students of color, low-income students, students with disabilities) in high-demand programs
+like manufacturing, construction, and STEM fields. Partner with community organizations with
+equity expertise to improve recruitment and retention – for example, collaborate with Oregon
+Tradeswomen, Constructing Hope, and Portland YouthBuilders to engage female and BIPOC
+youth in construction trades​(worksystems.org) These organizations can provide role models,
+workshops, and pre-entry training that build confidence and interest among underrepresented
+students. Similarly, culturally responsive strategies and wrap-around supports (career coaches,
+mentorship programs, transportation assistance, childcare for teen parents, etc.) should be
+utilized to minimize barriers to participation​(greaterportlandinc.com). On the sustainability
+front, advocate for stable funding streams: prioritize Perkins and state CTE funds toward these
+high-growth sector programs in future budgets, and pursue supplementary grants (such as
+Future Ready Oregon or federal innovation grants) to invest in equipment and teacher training.
+Develop a teacher talent pipeline for these programs by offering current industry professionals a
+pathway into teaching (e.g., through restricted CTE licensure programs)​(pps.net) and
+supporting existing teachers with externships to keep skills current. Finally, embed the
+partnership ecosystem approach into policy so that each program has multiple partners
+co-invested in its success – this distributed support will make programs resilient to changes. By
+focusing on equity and sustainable practices, PPS can ensure that all students have access to
+these high-opportunity pathways and that the programs will thrive for years to come,
+continually adapting to the region’s economic evolution.
+
+These recommendations provide a roadmap for aligning Portland Public Schools’ CTE offerings
+with the region’s priority workforce sectors. BPPS can create a future-ready CTE ecosystem by
+strategically expanding programs, tightening partnership linkages, enriching work-based
+learning, and prioritizing equity and sustainability, Such an ecosystem will produce
+well-prepared graduates for careers in advanced manufacturing, construction, clean energy, and
+healthcare – thereby meeting employer demands and fostering economic growth, empowering
+students with the skills and opportunities to succeed in high-wage, high-demand industries.
+

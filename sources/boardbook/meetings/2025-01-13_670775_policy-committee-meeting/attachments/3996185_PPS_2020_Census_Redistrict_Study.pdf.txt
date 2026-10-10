@@ -1,0 +1,149 @@
+2020 Census Redistricting Study:
+Portland Public Schools
+Date: 2022-03-14
+
+
+
+
+PRC’s mission is to be a world-class center of training and knowledge for solutions to problems in applied
+demography, including population estimates, projections, geospatial analysis, and census-taking.
+
+
+
+
+Population Research Center, College of Urban and Public Affairs, Portland State University
+Mail Code PRC, PO Box 751, Portland, OR 97207
+Phone: +1 503-725-3922, Email: askprc@pdx.edu, Website: pdx.edu/prc
+Background
+
+ORS 332.132 provides that, if a school district is zoned, it “shall divide the district into the necessary
+number of zones as nearly equal in population, as shown by the latest federal census, as practicable,
+taking into account attendance areas where possible.” Portland Public Schools (PPS) requested from the
+Population Research Center (PRC) a proposal for two scenarios for new boundaries for its board member
+electoral districts (“zones”) that meet these requirements. This summary report describes the data and
+methodology used to conduct the redistricting analysis, along with final results.
+
+
+Data
+
+ORS requires use of the latest federal census data, which motivated the use of the Public Law 94-171
+Redistricting Data File from the 2020 Census, released during August, 2021.[1]. The redistricting analysis
+was conducted during census tabulation block level geography, which is the smallest geographic unit at
+which population and housing counts are available. Block boundaries for the 2020 Census were obtained
+from the US Census Bureau.[2] Building footprints from the Oregon Department of Geology and Mineral
+Industries (DOGAMI) Statewide building footprints for Oregon (SFBO) dataset were also used to model
+spatial population distribution.[3]
+
+
+Methodology
+
+PRC developed a Geographic Information System (GIS) workflow to accomplish the following tasks:
+
+    •   Determine the current population of each board member zone and the total population of the
+        district;
+    •   Adjust boundaries of the current districts so as to make zones as equal in population as feasible,
+        and such that the spread between the lowest and highest population zones is under 10 percent.
+These goals were accomplished by adjusting boundaries inside the perimeter of the district by following
+existing geographic and political boundaries such as major roads, parks or public spaces, neighborhood
+association and coalition boundaries, city and UGB boundaries, and school attendance zones.
+In some cases, census blocks do not align with the boundaries of PPS’s jurisdiction. When this occurred,
+the total population of a census block was allocated into building footprints within the block, in
+proportion to the square footage of the building footprints. Then, the population on either side of a line
+drawn through a block was included with the population of the other blocks wholly contained on either
+side (Figure 1). This methodology yields more accurate estimates of population than simpler methods.[4]
+ Figure 1: Example population estimation per building footprint within a block.
+ Red boundaries indicate a census block. Black boundaries indicate a building.
+ Numbers indicate an actual (if known) or estimated population per building
+ within the block (summing to the block population as reported from the 2020
+ Census). Figure adapted from [4].
+
+
+Results
+
+In the current boundaries, the 2020 Census found that Zones 1 and especially 2,3 grew more quickly than
+average, and as a result would need to contract. Zones 4,5,6,7 grew less than average and would need to
+add population (Table 1). The total population of the PPS district is 519,967, translating to a target
+population (average) of 74,281 persons per district.
+Table 1: Population of PPS Board Member Zones as of 2020 Census
+
+ Baseline: Current Zones                           1        2        3         4        5        6        7
+ TOTAL Population                                75,048   79,330   79,540   72,145   70,934   71,346   71,624
+    Deviation:                                      767    5,049    5,259   -2,136   -3,347   -2,935   -2,657
+       Percent                                    1.0%     6.8%     7.1%     -2.9%    -4.5%    -4.0%    -3.6%
+ Non-Hispanic, by race:
+    White                                        58,295   56,596   57,356   44,825   50,907   48,637   48,353
+    Black                                         1,752    5,455    2,395    6,545    3,916    2,728    2,135
+    American Indian/Alaska Native (AIAN)            495      447      520      511      376      380      425
+    Asian                                         3,635    3,185    6,622    2,941    3,253    7,170    6,919
+    Native Hawaiian or Pacific Islander (NHPI)      183      185      155      672      153      316      342
+    Other                                           513      584      583      462      425      533      422
+    Two or more races, of which:                  5,288    5,839    5,524    5,494    4,863    5,128    5,285
+      Black and White                               689      803      724    1,079      841      681      752
+      AIAN and White                                920    1,182      964    1,119      848    1,064    1,075
+      Asian and White                             1,927    1,816    2,037    1,312    1,498    1,614    1,655
+      Other combinations                          1,752    2,038    1,799    1,984    1,676    1,769    1,803
+ Hispanic:
+    (Any race)                                    4,887    7,039    6,385   10,695    7,041    6,454    7,743
+To generate the redistricting proposal, two alternatives were generated:
+
+    •   Plan A attempts to preserve the current boundaries as much as possible.
+            o Plan A.1 was the initial version presented on February 22, 2022, and
+            o Plan A.2 was a new version presented on March 14, 2022, which modifies Zones 4 and 5
+                in order to keep the Cully neighborhood within one zone.
+    •   Plan B reconfigures board member zones to accord to high school attendance zones.
+After consideration at the February 22 meeting and a follow up work session on February 28, the PPS
+Board opted to pursue Plan A.2. Where changes to the current board member zones were needed, they
+were done in consideration of neighborhood association boundaries, and natural boundaries such as water
+or major roads. PRC determined that under both plans, the proposed zones did not cause any incumbent
+member of the board to reside in a different zone from the one in which they were elected.
+Compared to baseline, the proposed boundaries have a maximum spread between largest and smallest
+districts of 0.9% (was: 11.6%).
+Table 2: Population of PPS Board Member Zones under 2020 Census Redistricting Proposals
+
+ Plan A.2                                         1     2       3     4       5     6       7
+ TOTAL Population                              73,994 74,373 74,142 74,632 74,131 74,631 74,064
+    Deviation:                                   -287     92   -139    351   -150    350   -217
+       Percent                                  -0.4%  0.1% -0.2%    0.5% -0.2%    0.5% -0.3%
+ Non-Hispanic, by race:
+    White                                      57,219 52,568 53,045 46,263 53,001 52,488 50,385
+    Black                                       1,767 5,492 2,324 7,046 3,722 2,500 2,075
+    American Indian/Alaska Native (AIAN)          476    433    512    533    436    334    430
+    Asian                                       3,693  3,001  6,387  2,937  3,920  6,573  7,214
+    Native Hawaiian or Pacific Islander (NHPI)    182    198    151    666    195    246    368
+    Other                                         490    537    560    497    441    553    444
+    Two or more races, of which                 5,327 5,474 5,081 5,677 5,111 5,441 5,310
+      Black and White                             694    793    674 1,122     868    686    732
+      AIAN and White                              887 1,127     920 1,127     925 1,074 1,112
+      Asian and White                           1,998 1,647 1,841 1,377 1,527 1,857 1,612
+      Other combinations                        1,748 1,907 1,646 2,051 1,791 1,824 1,854
+ Hispanic:
+    (Any race)                                  4,840 6,670 6,082 11,013 7,305 6,496 7,838
+
+A basic map of the proposed zones under Plan A.2 is provided below (Figure 2). Additional maps are
+included as attachments with additional detail.
+                     Baseline                                           Plan A.2
+
+
+
+
+ Figure 2: Proposed PPS Board Member Zones (see attachments for further detail).
+
+
+Enclosures
+
+   1. GIS format (shapefile) boundaries
+   2. PDF format maps
+   3. 2020 Census PL94-171 data for census blocks in the State of Oregon are available in repackaged
+      form at https://pdx.edu/prc/census-data-oregon
+References
+
+[1] U.S. Census Bureau. 2020 Census: P.L. 94-171 Redistricting Data File. August 16, 2021. URL:
+https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html
+[2] U.S. Census Bureau. 2020 Census: P.L. 94-171 Redistricting Data Shapefiles. January 25, 2021. URL:
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2020.html
+[3] Williams, M. “Statewide building footprints for Oregon: Release 1.0 (SFBO-1)”. Oregon Department
+of Geology and Mineral Industries (DOGAMI), 2021. URL: https://www.oregongeology.org/pubs/dds/p-
+SBFO-1.htm
+[4] Lwin, K and Murayama, Y. “A GIS Approach to Estimation of Building Population for Micro-spatial
+Analysis”. Transactions in GIS, 2009, 1394): 401-414. doi: 10.1111/j.1467-9671.2009.01171.x
+

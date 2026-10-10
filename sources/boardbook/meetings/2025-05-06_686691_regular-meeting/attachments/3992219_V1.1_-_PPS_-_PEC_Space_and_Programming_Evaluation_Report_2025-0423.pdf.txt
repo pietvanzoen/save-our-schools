@@ -1,0 +1,1842 @@
+Portland Public Schools
+   PPS - Administration and Operations
+PEC Space and Programming Evaluation
+                           April 23, 2025
+@2025 Mackenzie Engineering Inc. Unless noted, all text, video recordings, photos, drawings, computer generated images and/or statements are owned by
+Mackenzie and protected by copyright and/or other intellectual property laws. No part of these pages, either text or image may be reproduced, modified,
+stored in a retrieval system or retransmitted, in any form or by any means, electronic, mechanical, or otherwise without prior written permission. Mackenzie®,
+and M.™ and all corresponding logos and designs are service marks and/or registered service marks of Mackenzie Engineering Inc. All rights reserved.
+
+The information in this document has been obtained from sources believed reliable. Our findings have been based on limited information and on-site observa-
+tion. Because of the limited scope of our initial review, these preliminary findings should not be used as a principal basis for any decision relating to the site
+and/or building, and confirmation of the information contained within this document with the applicable government body may be necessary.
+TABLE OF CONTENTS
+          INTRODUCTIONS
+           Project Team                                                  00-ii
+           Project Scope                                                 00-iv
+
+          EXECUTIVE SUMMARY
+           Key Findings: Phase I                                         01-02
+           Key Finding: Phase II                                         01-04
+           Recommended Next Steps                                         01-11
+
+          PHASE I A
+           Peer District Interview and Tours                            02-01
+             Seattle School District                                    02-02
+             Beaverton School District                                  02-06
+             Edmonds School District                                    02-10
+             San Francisco School District                               02-14
+             Sacramento School District                                  02-16
+             Salem-Keizer School District                                02-18
+           Focus Groups Discussion                                      02-20
+             Summary                                                    02-20
+             Results                                                     02-21
+
+          PHASE I B
+           Department Interviews Summary                                03-03
+              Administration Interview Summary                          03-04
+              Shop Interview Summary                                    03-05
+              Warehouse Interview Summary                               03-06
+           PEC Space and Programming Report Recommendations Summary     03-09
+              Program Matrix - Scheme 1                                  03-12
+              Program Matrix - Scheme 2                                  03-13
+              Program Matrix - Scheme 3                                  03-14
+           Property Search Recommendations                               03-16
+
+          APPENDIX (PROVIDED AS A SEPARATED DOCUMENT)
+           Appendix 1: Consultant Biographies
+           Appendix A: PEC Space and Programming Evaluation Details
+           Appendix B: Assumptions for PEC Space and Programming
+           Appendix C: Existing Prophet Center Plans for Generating Gross
+                       Square Footage
+           Appendix D: Programming Questions
+           Appendix E: Mackenzie Memorandum - PPS PEC Operations Facility
+                       Zoning Requirements
+           Appendix F: Mackenzie Memorandum - PPS PEC Structural Requirements
+THIS PAGE INTENTIONALLY LEFT BLANK
+Introductions
+
+
+
+
+                0
+PROJECT TEAM
+PORTLAND PUBLIC SCHOOLS
+   Dan Jung
+   Dana White
+   Kristen Cowden
+   Julie Roeder
+   Joanna Evenson
+
+
+
+
+ALBINA VISION TRUST
+   Carly Harrison
+   Micah Greenberg
+
+
+
+
+MACKENZIE
+   Jeff Humphreys
+   Cathy Bowman
+   Seth Bradshaw
+   Quincey Gerow
+
+
+
+BAINBRIDGE ARCHITECTS
+   Marisa O‘Gorman
+   Rachel Becker
+
+
+
+MAKERS
+   Beth Batchelder
+   Diego Rodriguez
+   Julie Bassuk
+
+
+
+
+RAYOND WEST
+   CJ Hilliard
+
+
+
+
+    Portland Public Schools   PPS Prophet Center   April, 2025
+
+                                      ii
+PROJECT SCOPE
+On February 20, 2024, the Board of Education
+passed Resolution 6861 as adopted, which
+authorized the Superintendent to direct staﬀ to
+prepare for the sale of the Prophet Education
+Center (PEC) and relocate functions via a series
+of transactions that would be “all-in cost neutral”
+to the Portland Public School District (District or
+PPS). In response to the resolution, staﬀ engaged
+a consultant team comprised of Bainbridge,
+Mackenzie, MAKERS, and Raymond West to
+update required adjacencies and minimum criteria
+for maintenance and operations functions; and
+Bainbridge to update required adjacencies and
+minimum criteria for administration functions.
+
+This project is divided into two phases:
+
+   Phase 1A (Discovery) is focused on researching,
+    interviewing, and touring peer districts to
+    understand operations and compare facility use
+    and operations.
+   Phase 1B (Visioning) updates current and future
+    space needs and required adjacencies, develops
+    a conceptual layout for a future facility.
+The final deliverable will be space and programming
+recommendations and a timeline that will inform a
+property search, selection, ad District relocation.
+
+
+
+
+                                                      iii
+THIS PAGE INTENTIONALLY LEFT BLANK
+Executive Summary
+
+
+
+
+                    1
+EXECUTIVE SUMMARY
+KEY FINDINGS - PHASE 1A
+
+
+Best Practices Study of Peer Districts
+The consultant team researched over 10 districts
+with the following goals:
+
+   Learn how peer organizations site, size, and
+    design administration and maintenance and
+    operations (M&O) facilities
+   Highlight trends, exemplary practices, and
+    lessons learned relevant to the District
+   Inform potential adjustments to adjacencies and
+    space and programming assumptions
+
+
+
+The following six districts were chosen based
+on their size, urban context, and facility age or
+because they have recently modernized facilities.
+All six districts were interviewed and three were
+selected for tours. Interviews focused on a variety
+of topics, including facility siting, adjacencies, and
+space needs for administration and maintenance
+and operations functions. Seattle was highlighted
+as the most similar to PPS based on number
+of students and schools, San Francisco and
+Sacramento were also noted to be similar.
+
+
+
+
+    Portland Public Schools                 PPS Prophet Center   April, 2025
+
+                                                     01-02
+                               PPS             SEATTLE            SAN                   SACRAMENTO               SALEM-KEIZER            BEAVERTON             EDMONDS
+                                                               FRANCISCO
+
+    STUDENTS                 44,000             49,000             49,000                    41,000                   39,000                 38,000               21,000
+    SCHOOLS                     81                104                132                        75                      65                      56                  34
+    TOURED                                          Y                                                                                            Y                   Y
+    ADMIN FACILITIES       JOINT ADMIN        JOINT ADMIN       2 MAIN ADMIN                     1                       3                       1                   1
+                             / M&O/             / M&O/
+                           WAREHOUSE          WAREHOUSE      8 ANCILLARY ADMIN
+                             FACILITY           FACILITY
+
+    MAINTENANCE              2 ADMIN /       2 ANCILLARY
+                                                                MAINTENANCE             MAINTENANCE SITE          1 WAREHOUSE /           MAINTENANCE         MAINTENANCE /
+                                                                / WAREHOUSE                                       MAINTENANCE               CAMPUS             TRANSIT HQ
+    FACILITIES              WAREHOUSE        WAREHOUSES            CAMPUS                                            CENTER
+                              FACILITY        (PLANS TO
+    WAREHOUSE                                CONSOLIDATE
+                                                                                              1 HQ                                      2 TRANSPORTATION             1
+                                                                                       1 CENTRAL KITCHEN /         1 IT FACILITY           / WAREHOUSE
+    FACILITIES             1 TRANSPORT-          TO 1)
+                                                                                           WAREHOUSE           1 NUTRITION SERVICES
+                          ACTION FACILITY
+
+    FACILITY DISTANCE          N/A                N/A          2.75 MILES MAIN          5.25 MILES ADMIN -      2.25 MILES ADMIN -       1.6 MILES ADMIN      1 MILE ADMIN -
+                                                                ADMIN - M&O                    M&O                     M&O                    - M&O                M&O
+
+                                                                                           5 MILES M&O-            2 MILES M&O-          1.75 MILES M&O-       1 MILE M&O-
+                                                                                           WAREHOUSE                 NUTRITION             WAREHOUSE           WAREHOUSE
+
+    TOTAL EXISTING           339,636           361,595
+    NET SF:
+    OPERATIONS FACILITY NET SQUARE FOOTAGE
+                          EXISTING SF /     EXISTING SF /    EXISTING SF / IDEAL SF   EXISTING SF / IDEAL SF   EXISTING SF / IDEAL SF   EXISTING SF /         EXISTING SF /
+                          RECOMMENDED       IDEAL SF                                                                                    IDEAL SF              IDEAL SF
+                          SF
+
+    MULTI-CRAFT SHOP        15,654 /           11,500 /              N/A                18,511 / 16,000          4,100 / 4,100           3,300 / 3,300        7,500 / 7,500
+                             6,800              8,500
+    MECHANICAL SHOP1        16,993 /           18,852 /              N/A                 6,653 / 8,000         10,000 / NOTED            2,700 / 2,700        6,100 / 6,100
+                             10,625             5,200                                                          AS INADEQUATE
+    ELECTRICAL SHOP         12,526 /        4,000 / 3,000            N/A                  3,611 / 1500                                   4,900 / 4,900          600 / 600
+                             2,975
+    MUSIC SHOP            8,054 / 1,403     2,056 / 2,0002           N/A                       N/A                     N/A                     N/A                 N/A
+    WAREHOUSE               98,807 /           85,000 /      112,000 / MORE             70,000 / 70,000         26,000 / 60,000             27,800 /             9,600 /
+                             85,300            65,0003           NEEDED                                                                      27,800              23,000
+    NUTRITION SERVICES      25,296 /           29,000 /       OUTSOURCED                33,000 / 33,000         21,000 / 21,000          OUTSOURCED / NEED
+                                                                                                                                        FOR CENTRAL KITCHEN
+                                                                                                                                                                700 / CENTRAL
+                                                                                                                                                               KITCHEN IN EACH
+                             22,768             23,000                                                                                                             SCHOOL
+
+    PARKING                 54,000 /          151,000 /      113,000 / 85,000          415,000 / 88,000             228,000 /              200,000 /            158,000 /
+                             78,000            85,000                                                                110,000                58,000               41,000
+    TOTAL EXISTING          177,330           150,408
+    NET SF:
+1
+ PPS - Mechanical Shop includes Plumbing, HVAC, Sheet Metal Shop, Machinist & Metal Shop. Seattle has
+reduced their Mechanical Shop as they are funded to replace mechanical units, boilers, etc. in lieu of fixing,
+They also do not include metal shop in the mechanical shop area.
+2
+ Seattle has reduced their required square footage for music shop by storing instruments at individual
+schools.
+
+3
+    Seattle does not store or compile science kits in their warehouse.
+
+
+
+
+                                                                                 01-03
+EXECUTIVE SUMMARY
+Major Themes
+Key findings from peer district interviews and site
+tours around location and number of facilities,
+administrative space standards, maintenance and
+operations spaces, and funding are summarized
+below.
+
+
+Location and Facility Numbers                             Maintenance and Operations Spaces
+   In all but one district, co-location of
+                                                             The PPS food service central distribution model
+    administrative and operational functions was
+                                                              was viewed as ideal. Nutrition services space
+    seen as ideal. If co-location was not possible due
+                                                              varies between a full-service central kitchen to
+    to space constraints, headquarters functions
+                                                              outsourced food production and delivery.
+    were often grouped in multiple locations.
+                                                             Peer district trades and warehouse space is
+   Multiple locations increase operating costs
+                                                              smaller than at the District. Warehouse space
+    and impact communication and organizational
+                                                              depends on multiple factors, including storage
+    cohesion.
+                                                              system eﬃciency, inventory/surplus practices,
+   A central location is critical to operations,             and available storage in schools or other
+    preferably with proximity to freeways for                 facilities.
+    eﬃcient district-wide access.
+                                                             Dedicated shops are most common, though
+   Parking is a priority. All peer districts interviewed     Salem-Keizer and Edmonds have shared shop
+    aside from San Francisco have ample, free                 spaces with dedicated storage.
+    parking for staﬀ and visitors. Many are also close
+                                                             Shared shop designed to be ﬂexible, depending
+    to transit.                                               on staﬀ size and workload, is an exemplary
+                                                              practice.
+Administrative Spaces                                        Music repair is outsourced in most districts, with
+   Each staﬀ is provided a workspace. None of                the exception being Seattle.
+    the peer districts follow a shared workstation           The approach to maintaining schools can
+    model, even when some remote or hybrid work               inﬂuence headquarters shop size, as maintaining
+    is allowed.                                               a variety of existing systems requires more
+   Space standards are beneficial. All peer                  storage than an approach that replaces all parts
+    districts saw benefit in standardization and              and systems with consistent selection.
+    intentional space planning to promote ﬂexibility         Peer district research indicates that other
+    as departments grow or shrink in size and the             districts have smaller shops than PPS.
+    workplace evolves.
+   Enclosed meeting space is essential. Conference       Funding
+    rooms and private phone rooms are critical for
+    collaboration and virtual meetings.                      Bond and/or levy funding is used by Seattle and
+                                                              Beaverton to support facilities operations.
+   Open or ﬂex space does not work. Open
+    collaboration spaces were typically seen as              Bond staﬀ are embedded with other operations,
+    disruptive or underutilized.                              such as maintenance and real estate
+
+
+
+
+    Portland Public Schools                  PPS Prophet Center                        April, 2025
+
+                                                      01-04
+THIS PAGE INTENTIONALLY LEFT BLANK
+EXECUTIVE SUMMARY
+KEY FINDINGS - PHASE 1B
+
+Summary of Project Scope
+The objective of Phase 1b was to further refine
+the minimum square footage criteria needs for
+administrative oﬃce space and the operations/
+warehouse spaces. This phase built upon the              During these programming interviews, PPS and
+insights gathered during Phase 1a, including best        the consultant teams reviewed the programming
+practices and lessons learned from peer district         questionnaires, gathered detailed information,
+tours and interviews. Additionally, previously           and toured existing spaces to assess current
+completed reports were referenced to incorporate         conditions and uncover potential opportunities
+relevant information and avoid duplicative eﬀorts.       for improvement. A key focus of these discussions
+                                                         was understanding how a potential physical
+A highlight of the scope of work completed by            separation between administration and operations
+Bainbridge and Mackenzie are as follows:                 could impact departmental workﬂows and explore
+                                                         potential eﬃciencies. While oﬀ site departments
+   Conducted interviews with all Chief’s and/or         and storage facilities were evaluated to establish an
+    department representatives                           overall big picture, these spaces were excluded from
+   Verified existing oﬃce and storage space and         the reccomended square footage.
+    identified other misc. needs
+                                                         The information gathered was compiled into a
+   Discussed operational impacts with each              comprehensive programming spreadsheet that
+    department should a future facility be split into    detailed each department’s staﬀ counts, workspace
+    two separate sites (Administration/Operations)       types (e.g., private oﬃces vs. workstations), storage
+   Created programming sheet for each Chief/            needs, and required support spaces necessary for
+    Department identifying staﬀ counts, types            eﬃcient, high-quality operations. (See Appendix
+    of workspaces, and required support spaces.          A) Standardized square footage allocations were
+    A programming sheet was also created for             applied to each space type to determine the total
+    the required shared spaces. (i.e. Board Room,        usable area required per department.
+    Professional Development/Event spaces,
+                                                         In parallel, PPS and the consultant team developed
+    Mother’s Rooms, etc .). These sheets can be
+                                                         a programming sheet for shared spaces should the
+    found in the Appendix of the full report draft.
+                                                         facilities be separated into two facilities (Operations
+   Identified satellite and hoteling spaces required    and Administration), including the lobby, board
+    by departments if split into two sites               room, conference rooms, and other supportive
+Bainbridge and Mackenzie collaborated closely with       or code-required areas not assigned to specific
+PPS to develop targeted programming questions            departments.
+aimed at confirming departmental staﬀ counts
+                                                         These detailed programming sheets served as the
+and identifying space needs based on key findings
+                                                         foundation for creating three potential schemes/
+from Phase 1a. The consultant team were requested
+                                                         scenarios to address the district’s future real estate
+to work with the current staﬀ counts, as of March
+                                                         needs.
+2025 (without increase or reduction). Future
+growth or any changes to current operations were
+not accounted for in the space and programming
+evaluation. These questions, along with data
+collected in Spring 2024 and a summary of the
+Phase 1a Focus Group meeting, were shared with
+each department Chief in advance of in-person
+meetings.
+
+
+
+
+    Portland Public Schools                PPS Prophet Center                          April, 2025
+
+                                                      01-06
+Summary of PEC Space and                                                 STAFF   CURRENT       MIN       PERCENT
+Programming Evaluation Report                                           COUNT    GROSS SF    GROSS SF   REDUCTION
+
+The three schemes that were evaluated are the         SCHEME 1
+following:
+                                                      SINGLE SITE        691      339,636     278,557      18%
+Scheme 1 – A combined administration and              SCHEME 2
+operations facility, like the PEC with improved
+                                                      ADMINISTRATION     577      115,218     113,544      1.5%
+eﬃciencies.
+
+Scheme 2 – Two separate facilities, one for
+                                                      OPERATIONS         114      224,418     168,121      25%
+Administration and one for Operations. The            CENTER
+operations facility will be primarily shops,
+                                                      TOTAL              691      339,636     281,665      17%
+warehouse space, and nutritional services, and
+excludes administrative staﬀ that have preference
+of being located at the operations facility.          SCHEME 3
+                                                      ADMINISTRATION*    419      189,106     91,369       -2.5%
+Scheme 3 – Two separate facilities, one for
+Administration and one for Operations with each       OPERATIONS         272      250,530     190,395      24%
+department located at their preferred facility.       CENTER
+The following is a breakdown of departments at        TOTAL              691      339,636     281,764      17%
+each facility:
+                                                       * Scheme 3 does not permit opportunities for sharing some
+                                                       of the large Administrative Support Spaces such as the
+   Administration Facility                            Professional Development/Event and Large Conference Rooms
+      Superintendent                                  accommodating 20-25+ people. Therefore these rooms have
+                                                       been allocated to Administration in lieu of Operations to
+      Chief of Staﬀ                                   eliminate duplication of spaces.
+      Chief Financial Oﬃcer
+      General Counsel
+      Chief of Human Resources
+      Chief Accountability and Equity Oﬃcer
+      Chief Academic Oﬃcer
+      Chief of Student Success Services
+      Chief of Schools
+
+
+   Operations Facility
+      Fabrication & Shop; Maintenance (COO)
+      Nutritional Service (COO)
+      Warehouse (COO)
+      Chief Operating Oﬃcer (COO)
+        • Oﬃce of School Modernization (OSM)
+        • Security Services
+        • Real Estate & Construction (REC)
+      Oﬃce of Technology Information Services
+       (OTIS)
+
+
+
+
+                                                    01-07
+EXECUTIVE SUMMARY CONT.
+The recommended range for each of the three
+diﬀerent schemes to aid in a property search
+analysis are as follows. Please note that the range is
+rounded to the nearest thousand.
+
+Scheme 1 –
+
+   Combined Facility - 279,000 SF - 307,000 SF
+Scheme 2 –
+
+   Administration Facility with Operations Staﬀ -
+    114,000 SF - 125,000 SF
+   Operations Facility without Operations Staﬀ -
+    168,000 SF - 186,000 SF
+Scheme 3 –
+
+   Administration Facility without Operations Staﬀ
+    - 96,000 SF - 106,000 SF
+   Operation Facility with Operations Staﬀ -
+    191,000 SF - 210,000 SF needs.
+After completion of the programming schemes,
+Portland Public Schools preference is to remain
+in a similar model as the existing Prophet Center,
+Scheme 1, where all departments are co-located
+in one facility. With the understanding that a site/
+property that can accommodate a unique program
+such as Portland Public Schools – Administration
+and Operational needs is limited. The second
+preferred scheme is Scheme 3, with select
+departments located at the Operations Facility.
+
+
+
+
+    Portland Public Schools                PPS Prophet Center   April, 2025
+
+                                                     01-08
+THIS PAGE INTENTIONALLY LEFT BLANK
+THIS PAGE INTENTIONALLY LEFT BLANK
+NEXT STEPS
+The consultant team’s recommendations for
+Portland Public Schools are as follows:
+
+Identify Potential Sites/Properties for Purchase and
+Test Fit the preferred Scheme for the Site/Property.
+
+   Once PPS has identified potential sites /
+    properties that they feel meets the minimum
+    criteria, it is encouraged that the District have
+    the consultant team complete a test fit to ensure
+    that all program elements identified in the PEC
+    space and programming evaluation will fit within
+    the space. Identify advantages and challenges
+    to each potential site/property before making a
+    final purchase.
+Complete a cost estimate of each test fit completed
+
+   Once the consultant team has provided a test
+    fit conceptual design for each site/property
+    a comprehensive cost estimate should be
+    completed by a cost estimator. The cost should
+    not only include the cost of the construction but
+    also soft costs, which are inclusive of consultant
+    fees for design services, surveys, permitting,
+    furniture, fixture and equipment (FF&E), moving
+    costs, etc.
+
+
+
+
+                                                     01-11
+THIS PAGE INTENTIONALLY LEFT BLANK
+PHASE I A - DISCOVERY
+Best Practice of Peer Districts
+
+
+
+
+                                  2
+FACILITY TOUR - SEATTLE
+SEATTLE PUBLIC SCHOOLS
+Seattle Public Schools (SPS) was chosen due to having a similar size and urban context to PPS, in addition
+to having the closest facility match. SPS has 49,000 students across 104 schools. Their administrative
+and M&O functions are co-located in a single 350,000 ft2 building (John Stanford Center of Educational
+Excellence), much like the Prophet Education Center. SPS has two ancillary warehouse sites for surplus
+storage that will soon be consolidated to one. The team interviewed leadership from across SPS
+departments and toured their headquarters.
+
+
+
+
+Fig 1. John Stanford Center                           Fig 2. Music Shop
+
+
+
+
+Fig 3. Electrical Shop                                Fig 4. Kitchen
+
+
+
+    Portland Public Schools               PPS Prophet Center                      April, 2025
+
+                                                  02-02
+Fig 5. Warehouse           Fig 6. Warehouse Staging
+
+
+
+
+Fig 7. Loading Dock        Fig 8. Paint Shop
+
+
+
+
+Fig 9. Carpentry Shop      Fig 10. Boardroom
+
+
+
+
+                        02-03
+FACILITY TOUR - SEATTLE
+
+
+
+
+Fig 11. Typical Enclosed Rooms            Fig 12. Typical Open Oﬃce
+
+
+
+
+Fig 13. Typical Open Oﬃce                 Fig 14. Typical Workstation
+
+
+
+
+   Portland Public Schools       PPS Prophet Center                     April, 2025
+
+                                       02-04
+FACILITY INTERVIEW - SEATTLE
+Siting and Adjacency                                         When SPS consolidates their ancillary
+                                                              warehouses, they will be reducing storage space
+   Having a single site is beneficial to relationships
+                                                              from 40,000 ft2 to 20,000 ft2. The warehouses
+    between administration and M&O departments,
+                                                              currently dedicate 10,000 ft2 to Capital
+    even allowing the superintendent to maintain
+                                                              Projects & Planning, equipment, furniture, and
+    face-to-face connections with staﬀ. M&O
+                                                              technology, and 30,000 ft2 to surplus.
+    departments appreciate easy access to
+    supportive services from administrative                  SPS recently renovated their central kitchen
+    departments like HR, payroll, and legal.                  space, however it could be reduced by 25%
+                                                              (~23,000 ft2) due to continually evolving
+   Having a single site is challenging when
+                                                              operations.
+    managing the staﬀ/visitor parking overlap with
+    ﬂeet parking and maintenance/delivery vehicle
+    circulation.                                          Administration
+   SPS would consider adding a satellite                    When SPS moved into the JSC (John Stanford
+    maintenance facility in North Seattle to                  Center) in 2002/2003 the Admin space was
+    better serve schools farthest away from the               planned with enclosed spaces at the core and
+    headquarters, but have chosen to remain co-               workstations along the perimeter to maximize
+    located.                                                  natural light. Private oﬃces were designated for
+                                                              managers and above and other enclosed rooms
+   SPS headquarters is located near major
+                                                              were utilized for storage and conference space.
+    highways and transit routes, which helps reduce
+    parking demand for staﬀ but more importantly             The original standardized workstation layout
+    improves access for families and visitors.                remains largely unchanged, however, SPS noted
+                                                              staﬀ space would benefit from lower panel
+*SPS noted that the consolidation of sites means
+                                                              heights and station sizes could be reduced to
+fewer buildings to monitor and maintain. It is also
+                                                              increase capacity if/when needed.
+beneficial for implementing safety and security
+measures.                                                    Location breakdown/adjacencies for Admin
+                                                              departments
+                                                                3rd Floor – Teaching and Learning, HR,
+Maintenance and Operations
+                                                                 Finance, Legal, Finance, Superintendent and
+   SPS divides their maintenance crew shifts on an              Chiefs
+    80:20 night/day schedule, reserving the day for             2nd Floor – Facilities, Maintenance, Real Estate
+    emergency work and the night for scheduled                   & Construction, IT, Training, Transportation and
+    maintenance. This reduces their windshield time              shops
+    and eases staﬀ parking demand.                              1st Floor – Legal, Accounting, Purchasing,
+   SPS utilizes both their in-house maintenance                 Security and Boardroom
+    team and contractors to cover district wide              Most meeting rooms can be scheduled by
+    maintenance. They appreciate the ﬂexibility               all staﬀ/departments. There are very few
+    provided by access to both options.                       dedicated conference rooms. SJC Identified
+   SPS is the only district the team interviewed             need for more small private rooms for internal
+    that has an in-house music repair program.                meetings/virtual calls since larger meeting
+    Their shop is slightly smaller than PPS with no           rooms are usually occupied
+    additional storage space; it was described as too        Originally leadership did not want a library/s
+    cramped for their need.                                   of Curriculum Materials as part of the admin
+   SPS tries to limit the storage of old or reused           space, however, these areas are now on the 3rd
+    parts, preferring to replace with new parts               ﬂoor and take up all common space which was
+    and systems when possible. Their shops are                previously under-utilized.
+    designed to be ﬂexible to be rearranged to suit          Most employees are assigned a dedicated
+    diﬀerent teams and needs.                                 workspace except for IT which has remained
+                                                              partially remote.
+
+
+
+
+                                                      02-05
+FACILITY TOUR - BEAVERTON
+BEAVERTON SCHOOL DISTRICT
+Beaverton School District (BSD) was selected as a peer district because of its geographic adjacency
+and recently remodeled headquarters. BSD has 49,000 students across 56 schools. They have four main
+sites that support their administration and M&O functions, three of which are located within two miles
+of one another: a new administration headquarters (2021), a maintenance campus, and a transportation
+maintenance center with warehouse capacity. They have an additional transportation yard with warehouse
+capacity across the district. The team interviewed Steven Sparks, the Executive Administrator for Long
+Range Planning and toured the maintenance campus and administration headquarters.
+
+
+
+
+Fig 15. Beaverton Maintenance Yard                  Fig 16. Carpentry Shop
+
+
+
+
+Fig 17. Shop Parts Storage                          Fig 18. Building One Warehous
+
+
+
+    Portland Public Schools             PPS Prophet Center                     April, 2025
+
+                                                02-06
+Fig 19. Machine Shop                 Fig 20. Building Two Warehouse
+
+
+
+
+Fig 21. Boardroom                    Fig 22. Multipurpose Training Room
+
+
+
+
+Fig 23. Open Collaboration Area      Fig 24. Shared Breakroom
+
+
+
+
+                                  02-07
+FACILITY TOUR - BEAVERTON
+
+
+
+
+Fig 25. Typical Open Oﬃce                        Fig 26. Typical Phone Room
+
+
+
+
+Fig 27. Typical Shared Staﬀ Break/Copy Area      Fig 28. Typical Workstation
+
+
+
+
+   Portland Public Schools              PPS Prophet Center                     April, 2025
+
+                                              02-08
+FACILITY INTERVIEW - BEAVERTON
+Siting and Adjacency                                      Administration
+   Administrative departments located in an                  The 2021 relocation to administrative
+    adjacent building to the BSD M&O campus                    headquarters was an opportunity to consolidate
+    include property managers, bond, and facility              multiple departments and separate “back of
+    project managers.                                          house” from Administrative functions.
+   Most other administrative departments                     IT and Library Services could not relocate due to
+    were consolidated into the newly acquired                  lack of a loading dock.
+    administration headquarters.                              To reduce the square footage needed for the
+                                                               new site, the district recommended digitizing
+Maintenance and Operations                                     paper records and applying space standards;
+   BSD delivers directly to and stores many items             6x8 typical workstations, approx. 4x6 for staﬀ
+    at schools throughout the district, resulting in           who spend time in schools (such as Teaching
+    a smaller storage footprint at the maintenance             and Learning).
+    campus.                                                   BSD utilized the existing oﬃces in their new
+   The district would like to shift towards a central         building which dictated the size for newly built
+    warehouse (similar to PPS), in which case                  oﬃces.
+    they would need a roughly 20,000 ft2 facility.            Initial planning took place in 2020 when hybrid/
+    Currently the warehouses are split between                 remote work was prevalent, so BDS considered
+    long- and short-term storage needs with                    unassigned workspaces but as planning
+    furniture, athletic equipment, and many other              progressed BDS shifted to mostly dedicated
+    supplies stored at schools.                                workspace. Space is assigned 1:1 if staﬀ is in
+   BSD is developing storage standards for each               oﬃce 3+ days. This is the majority except for IT
+    school and redeveloping a transportation facility          who is primarily remote.
+    to be able to store surplus furniture and relieve         When converting the old Admin building, BSD
+    excess storage at the schools.                             was able to create a large conference center
+   BSD has funds to replace most systems instead              which works well for Professional Development,
+    of repairing existing structures, which often              training and large meetings.
+    requires additional parts storage. Because of             Lessons learned included-
+    this, their shop space is much smaller.                      Felt they were too concerned with making the
+   Nutrition services has a small test kitchen and               space feel super open – workstation panels
+    outsources most food production for the district              are too low, lack of privacy, open oﬃce space
+    for an additional cost.                                       is very loud, staﬀ complain about distractions.
+                                                                  BDS ended up building out more spaces for
+                                                                  private work/collaboration areas after move-in.
+                                                                 Open collaboration spaces aren’t used as much
+                                                                  as they envisioned – mostly used for lunch/
+                                                                  break areas
+
+
+
+
+                                                       02-09
+FACILITY TOUR - EDMONDS
+EDMONDS SCHOOL DISTRICT
+Edmonds School District (ESD) is smaller than PPS with 21,000 students across 34 schools but was
+chosen to highlight a newly constructed maintenance and operations facility. The district has three sites
+that support their administrative and M&O functions, all within a mile of one another: an administrative
+headquarters, a new maintenance and transportation facility (2015), and a small warehouse. The team
+interviewed Nick Chou and Will Thomsen, design and construction managers for the new M&O facility and
+toured their maintenance facility.
+
+
+
+
+Fig 29. ESD Maintenance & Transportation Facility      Fig 30. Parts Storage
+
+
+
+
+Fig 31. Carpentry Shop                                 Fig 32. Carpentry Shop
+
+
+
+    Portland Public Schools              PPS Prophet Center                       April, 2025
+
+                                                    02-10
+Fig 33. Machine Shop        Fig 34. Machine Shop
+
+
+
+
+Fig 35. Vehicle Repair
+
+
+
+
+                         02-11
+FACILITY INTERVIEW - EDMONDS
+Siting and Adjacency                                     Administration
+   Construction on the new maintenance and                  Most of the discussion with Edmonds centered
+    transportation facility began with site work in           around their newer Operations facilities.
+    2007 ($4-5 million) and finished with facility           The current Administration building is about
+    construction in 2015 ($30 million). Funding               57,000 SF and was built in 1991 with capacity for
+    was obtained through a bond that included                 250 staﬀ.
+    renovations for most schools in the district to
+    help support its passage.                                5 minute drive from new Ops site and 15 minutes
+                                                              from the warehouse.
+   Combining operations and maintenance with
+    vehicle repair has been invaluable to the                Workspaces are assigned 1:1 even though a
+    eﬃciency of maintaining ESD’s ﬂeet.                       hybrid schedule is allowed (1-1.5 days/week
+                                                              remote)
+   ESD has noticed maintenance and operations
+    staﬀ can feel disconnected from administration           Supervisors, Assistant Supervisors and Directors
+    due to having separate sites and acknowledge              get private oﬃces.
+    a single site would be ideal if given funds and          Workstations are 9x9. Each department has
+    adequate property.                                        some control over the configuration of their
+   The district hopes to add a warehouse to their            stations.
+    current site as the current warehouse is across          Current workstations are older and don’t allow
+    the freeway and diﬃcult to easily access.                 for much ﬂexibility or ability to respond to
+                                                              diﬀerent work styles.
+Maintenance and Operations                                   The current building meets most of ESD’s needs,
+   ESD shops are highly ﬂexible in design to                 however, more small meeting rooms for virtual
+    respond to change over time in operational                calls would be helpful.
+    practices, district wide policies, technology, and       Challenges:
+    other factors.
+                                                                The building is completely open and sound
+   The district allocated extra shop space to                   transfer is an issue between departments/
+    account for future growth, which has been                    ﬂoors. ESD would prefer departments be
+    beneficial to work safety and maintaining robust             separated for better privacy.
+    and stable materials storage.                               Insuﬃcient parking – when the public comes
+                                                                 people often need to park oﬀ-site
+   ESD budgeted an estimated $1 million to equip
+    their shops with newer technology, tools, and            It was determined that a tour of the Admin
+    equipment.                                                Building would not be very informative, so only
+                                                              the Ops sites were visited.
+   ESD plans to add a 15,000-20,000 ft2
+    warehouse. They would need an additional
+    5,000 ft2 if plans included food service storage.
+   ESD’s four high schools also serve as central
+    kitchen facilities to meet the production needs
+    of the entire district.
+
+
+
+
+    Portland Public Schools                 PPS Prophet Center                        April, 2025
+
+                                                      02-12
+THIS PAGE INTENTIONALLY LEFT BLANK
+FACILITY INTERVIEW - SAN FRANCISCO
+SAN FRANCISCO UNIFIED SCHOOL DISTRICT
+San Francisco Unified School District (SFUSD) was selected based on its similar size and urban context to
+PPS. SFUSD has 49,000 students across 132 schools. They have 11 sites that contain their administrative
+and M&O functions: two main administrative oﬃces, eight ancillary administrative buildings, and a
+maintenance building co-located with their central warehouse. The team interviewed Karen Sullivan, the
+Executive Director of Capital Planning.
+
+
+Siting and Adjacency                                      Administration
+   SFUSD feels that, due to the ease and                     Administrative Staﬀ are primarily in 2 buildings
+    availability of virtual conferencing, having               in downtown San Francisco. (Staﬀ counts for
+    separate Administrative and M&O sites does                 each were not shared)
+    not hinder communication and operation. The                  135 Van Ness – built 1926, 116,087 sf
+    cultural divide between departments is more of
+                                                                   • Real Estate, Bond, Construction, Facilities,
+    a barrier than location.                                         Payroll, Budget etc.
+   All SFUSD facilities are close to transit, reducing          555 Franklin – built 1965, 69,767 sf
+    parking needs.                                                 • Superintendent, Legal, Communications,
+   SFUSD’s two major admin sites are within                         Academic/Instruction (Classified Staﬀ),
+    walking distance of each other which is                          Enrollment, Board Room etc.
+    beneficial to workﬂow. Both buildings are also                 • This site receives most of the public and
+    in close proximity to City Hall which is helpful                 student/family visits and interactions.
+    since they are a strong partner.                          There are no published space standards. They
+                                                               are currently at capacity for Admin space at the
+Maintenance and Operations                                     2 main buildings. Their methods have been:
+   If it passes, their next bond will support much              Shrink workstations as needed to
+    needed renovations and the addition of a central              accommodate departments.
+    kitchen to the district’s warehouse. This will               Move groups who can function independently
+    cause a shift in their model from outsourced/                 out of the main administration buildings
+    straight-to-school delivery to preparing their                into ancillary buildings, e.g. Early Education,
+                                                                  Curriculum and Nutrition Services.
+    own food.
+                                                                 SFUSD would like to enact more intentional
+   Most supplies are delivered direct to schools,                space planning by utilizing space standards
+    saving space in their warehouse.                              instead of reacting to running out of space.
+   The district takes a mixed approach to                    Most staﬀ are in the oﬃce 5 days a week. If staﬀ
+    addressing maintenance – assessing costs                   can do your job virtually, you can request 1-2
+    to repair, reviewing the frequency of repairs              remote workdays per week, however, this is not
+    needed, and then weighing against the cost of              the norm.
+    replacing with new systems.
+                                                              Both main admin buildings have adequate
+   SFUSD has an internal furniture exchange                   medium and large conference space. Additional
+    system that allows schools to list unused                  small conf spaces/phone rooms for 1-2 people
+    furniture for other schools to claim prior to              would be beneficial for virtual meetings.
+    surplus.
+
+
+
+
+    Portland Public Schools                 PPS Prophet Center                          April, 2025
+
+                                                       02-14
+THIS PAGE INTENTIONALLY LEFT BLANK
+FACILITY INTERVIEW - SACRAMENTO
+SACRAMENTO CITY UNIFIED SCHOOL DISTRICT
+Sacramento City Unified School District (SCUSD) was chosen because of its similar size and urban
+context to PPS. SCUSD has 41,000 students across 75 schools. They have three sites that support their
+administrative and M&O functions: an administrative headquarters, a maintenance and custodial site, and
+a new central kitchen facility (2022) co-located with their warehouse and transportation center. The team
+interviewed Chris Ralston, the Assistant Superintendent of Facility Support Services.
+
+
+Siting and Adjacency                                        Administration
+   SCUSD prefers a clear delineation between                   Administrative Staﬀ are primarily located at the
+    administration and M&O departments, noting                   Serna Center.
+    improved operational eﬃciency due to limiting                  20 year old facility
+    administrator inﬂuence on crew priorities and
+                                                                   Approx. 155,000 sf, 500 staﬀ
+    workﬂow.
+                                                                SCUSD is trying to reset space standards that
+   SCUSD’s maintenance facility is not centrally                have deteriorated over time by reconfiguring
+    sited, however its proximity to major highways               quadrants of workstations at the Serna center.
+    allows better access to schools than a central               Workstations are 48 sf, 64 sf and 92 sf based on
+    location.                                                    role, however, that needs further evaluation.
+   The Serna Center, SCUSD’s Administration                    Director positions and above receive standard
+    Building, is centrally located but is not near               oﬃces, approx. 120-150 sf.. Superintendent,
+    major freeways so commute times to schools                   Deputy Superintendent and CEO positions
+    can be longer. It has ample parking and access               receive larger oﬃces with internal meeting
+    to transit, which is beneficial.                             space.
+                                                                All staﬀ are in 5 days a week. There is no remote
+Maintenance and Operations                                       or hybrid work.
+   The Central Kitchen facility is 30-40,000 ft2 and           The Serna center was designed with ample
+    has a capacity to produce over 40,000 meals                  conference space that can be reserved for in-
+    daily, ready to deliver to schools the following             person and virtual meetings.
+    day.
+                                                                There are some large conference rooms at Serna
+   The district typically replaces old infrastructure           that can be used for professional development
+    with new to comply with California laws.                     and some spaces at middle schools, but
+    Maintenance only stocks a few commonly used                  Facilities is always being asked to build a
+    items or those that are more conveniently                    Professional Development Center.
+    ordered in bulk, allowing their staﬀ to purchase
+    supplies at stores as needed to reduce storage
+    space.
+   The district uses schools that have been
+    closed for additional storage, however they
+    are systematically removing this storage and
+    surplusing these properties. They have minimal
+    storage at open schools.
+
+
+
+
+    Portland Public Schools                 PPS Prophet Center                           April, 2025
+
+                                                         02-16
+THIS PAGE INTENTIONALLY LEFT BLANK
+FACILITY INTERVIEW - SALEM-KEIZER
+SALEM-KEIZER PUBLIC SCHOOLS
+Salem-Keizer Public Schools (SKPS) was chosen because of its similar size to PPS. SKPS has 39,000
+students across 65 schools. Their district administrative and M&O functions are contained in eight
+sites across the city: three administrative facilities; two transportation centers; and one facility each for
+technology services, maintenance and warehousing, and food and nutrition. The team interviewed their
+Coordinator of Operations and Logistics and two Business Solutions Analysts from their Bond department.
+
+
+Siting and Adjacency                                         can purchase various oﬃce, classroom, first
+                                                             aid, custodial and other supplies through a
+   SKPS has done the best they can to maximize
+                                                             cooperative agreement and SKPS delivers the
+    investments and eﬃciencies but would prefer
+                                                             supplies.
+    to co-locate more of their functions since
+    balancing the adjacency needs of separated              Curriculum is primarily stored at schools; 500 ft2
+    departments has been a logistical challenge for          of warehouse space is reserved for curriculum.
+    them.                                                   Food and Nutrition Services acts as a central
+   Purchasing and Procurement and Real Estate/              distribution site for food that is delivered to
+    Property Services are the two administrative             schools during the night and early morning and
+    departments co-located with the maintenance              then prepared at the schools.
+    and warehouse facility.
+                                                         Administration
+Maintenance and Operations                                  Currently administrative staﬀ are spread out
+   SKPS has a dedicated wood shop; other shop               across sites, but area grouped on similar
+    space is co-mingled in a bay system.                     departments to promote workﬂow and
+                                                             eﬃciency.
+   Maintenance staﬀ often save and repurpose
+    parts, requiring a significant amount of shop              Lancaster Professional Center (LPC) 35,000 sf,
+    space dedicated to storage.                                 approx. 115 staﬀ –
+                                                                 • Superintendent’s Oﬃce and key
+   While their maintenance space is adequate, they                 administrative departments
+    would prefer to double their current parking
+                                                               Student & Family Services (SFS) 48,000 sf,
+    footprint to accommodate more ﬂeet.
+                                                                approx. 230 staﬀ –
+   Their warehouse stocks three months of                       • Hub for departments focused on providing
+    supplies to accommodate for surges and                          essential services to students and families
+    changing needs. SKPS continually monitors their                 like McKinney-Vento, SPED and Language
+    inventory and consumption to better anticipate                  services
+    needs.                                                       • This is leased space but owned facilities are
+   Furniture surplus is dispersed across the district              preferred.
+    but will be centralized in 5,000-6,000 ft2                 Portland Road Professional Center (PPC) 9,644
+    of racked storage at their M&O facility once                sf –
+    renovations are complete.                                    • Curriculum/Instruction, Nursing and
+                                                                    Library/Media
+   SKPS also maintains an internal store (Central
+    Stores) at their warehouse that serves other            Microsoft Teams software has been invaluable
+    Oregon school districts, public agencies, and            for remote communication for departments and
+    community non-profits. These organizations               staﬀ at diﬀerent locations.
+
+
+
+
+    Portland Public Schools                 PPS Prophet Center                        April, 2025
+
+                                                     02-18
+   SKPS noted space standards are highly aﬀected
+    by what space is available and constrained by
+    budget issues. As they move forward with new
+    furniture, standards are being implemented.
+   Due to the shift to virtual meetings, staﬀ would
+    prefer taller panels to help with distractions.
+   Headsets have been issued to help with noise
+    issues, and conference rooms are reservable for
+    virtual meetings. No special “zoom” rooms are
+    provided for this purpose.
+   Administrators, directors, coordinators and
+    managers all typically have oﬃces.
+   Most staﬀ are in 5 days a week, workspaces are
+    assigned 1:1.
+   SKPS often outsources space when needed for
+    large meetings or professional development,
+    due to a deficiency in spaces large enough to
+    accommodate these functions.
+
+
+
+
+                                                       02-19
+FOCUS GROUP DISCUSSION
+Summary
+A focus group was held with department leaders on            Focus group attendees highlighted this project’s
+November 25, 2024, to review peer district findings          opportunity to help contribute to the mission of the
+and discuss their potential relevance to PPS. Major          Albina Vision Trust. Attendees are looking forward
+themes from that discussion are listed below.                to the potential of reviewing team space, reducing
+                                                             windshield time, and forming right-size facilities
+   Co-location is important. Co-location is
+                                                             and infrastructure. They hope this eﬀort will result
+    important to PPS culture and eﬃciency and
+                                                             in spaces that encourage collaboration, streamline
+    there will be impacts to separating some
+                                                             processes, and are safe and welcoming to staﬀ and
+    functions currently co-located at the Prophet
+                                                             the community.
+    Center; specifics to be discussed in the
+    next project phase. Though not currently
+    at the Prophet Center, co-locating district-
+    wide administrative departments as well as
+    transportation with maintenance and operations
+    could significantly reduce unproductive travel
+    time and should be explored further in this
+    project.
+   Property criteria priorities include a central
+    location, adequate staff parking, and safety and
+    security for the site and building.
+   If in multiple locations, facilities should ideally be
+    no more than 10 minutes driving distance apart,
+    although this will be impacted by a variety of
+    factors including time of day.
+   There are a range of opinions about parking.
+    Some focus group attendees believe that
+    providing parking for employees is important
+    to recruitment and retention. Others hope to
+    reduce free parking to inﬂuence behavior and
+    progress toward climate justice goals. Parking
+    can be a hiring incentive and is essential for
+    departments that require staff to have personal
+    vehicles.
+   Human Resources (HR) support is desired.
+    Many departments would prefer to have on-site
+    HR representation to facilitate the hiring process
+    and support staﬀ.
+   Public access is most critical for education-
+    based departments.
+   An appropriately designed and outfitted
+    emergency operations center (EOC) is a
+    priority, with secondary facilities at each site.
+
+
+
+
+    Portland Public Schools                   PPS Prophet Center                         April, 2025
+
+                                                        02-20
+Polling Results on Key Issues
+Focus group attendees were polled anonymously around six key questions, which helped facilitate
+discussion around polling results. Polling outcomes and discussion highlights are shown below.
+
+How important is it to PPS culture to be co-located?
+
+   68% of PPS focus group attendees feel it is important or very important to PPS culture to co-locate all
+    departments.
+   Some attendees noted an interest in learning more about other departments’ operations as part of this
+    assessment and relocation and anticipate new opportunities to collaborate.
+
+
+
+
+How important is it to PPS efficiency to be co-located?
+
+   78% of PPS focus group attendees feel it is important or very important for eﬃciency to co-locate all
+    PPS departments.
+   Proximity to security services and HR is important for providing a streamlined M&O application and
+    hiring process. Co-location allows HR to easily conduct in-person interviews and security services to
+    provide badges for new hires.
+   Staﬀ at the oﬀ-site transportation facility sometimes perform HR-related job functions to support the
+    staﬀ’s need for in-person communication.
+   Transportation would prefer to be co-located with other M&O departments that would benefit from
+    proximity to vehicle maintenance, namely nutrition services.
+   There are administrative staﬀ at satellite sites that would benefit from co-location with the rest of PPS
+    staﬀ in a new facility.
+   Co-located departments make it easier for new school staﬀ, especially principals, to navigate district
+    services.
+
+
+
+
+                                                    02-21
+FOCUS GROUP DISCUSSION CONT.
+What should be the maximum travel time between sites if in multiple locations?
+
+   48% of focus group attendees feel that 5-10 minutes of travel time between sites is ideal.
+   One attendee noted that a lack of parking results in staﬀ needing to locate oﬀ-site parking, further
+    impacting travel time.
+
+
+
+
+Assuming convenient transit access, what percentage of staff would IDEALLY have a dedicated parking
+space?
+
+   43% of PPS focus group attendees believe that between 50-75% of staﬀ should have dedicated parking
+    spaces at a new headquarters facility, with 43% believing between 76-99% of staﬀ will need dedicated
+    parking spaces.
+   Attendees suggested providing shared parking similar to the current arrangement between PPS and
+    the Moda Center.
+   Transit is too limited for staﬀ to eﬃciently commute from the PEC to various schools each day.
+   Paid parking is not feasible for all staﬀ. Some staﬀ use their personal vehicles for work, which requires
+    an on-site parking spot.
+   Safety is a concern for oﬀ-site parking.
+
+
+
+
+    Portland Public Schools                PPS Prophet Center                         April, 2025
+
+                                                    02-22
+What is the most important site or property criteria? (Participants chose up to two)
+
+   PPS focus group attendees prioritized a central location within the district (38%), adequate staﬀ
+    parking (25%), and safety and security (20%) as their most important site or property criteria.
+   Transportation noted an estimate of 4,000 additional miles a week in windshield time because of their
+    location at the edge of the district.
+   Proximity to transit is a priority for visiting families.
+   Attendees stated the importance of a new facility being designed to make families feel welcome and
+    served by PPS.
+
+
+
+
+                                                        02-23
+THIS PAGE INTENTIONALLY LEFT BLANK
+PHASE I B - VISIONING
+Refinement of the PEC Space
+and Programming Report
+Recommendations Summary
+
+
+
+
+                              3
+THIS PAGE INTENTIONALLY LEFT BLANK
+DEPARTMENT INTERVIEW SUMMARY
+ In order to prepare the PEC Space and
+ Programming Evaluation Report, Bainbridge and
+ Mackenzie conducted interviews with each Portland
+ Public School department. Each department
+ received a standard set of questions, as well as
+ department specific questions to address distinct
+ needs that each department may have. We
+ challenged each department to think of eﬃciencies
+ that could be achieved if they were located in a new
+ modern facility. Each department also received
+ information on the peer district findings compiled in
+ Phase 1A as a comparison of where their department
+ stood in comparison to their peers.
+
+ Upon completion of the department interviews,
+ the warehouse storage facility was toured by each
+ department with the consultants to understand, the
+ current rotation of inventory, the management of
+ inventory, the lay down space required, receiving
+ and shipping requirements, what are items that
+ are no longer required by PPS that can be either
+ donated or purged, and utilization of the loading
+ docks.
+
+
+
+
+                                                    03-03
+INTERVIEW SUMMARY CONT.
+Programming Phase included the                                  Two rooms of this size were added to the
+following:                                                      administrative support spaces
+                                                               Large event and professional development
+   Conducted 20 interviews with Chief’s and/or                 spaces with room to accommodate 50+
+    department representatives                                  people were identified as a need by at least
+   Site verified all existing oﬃce space,                      3 departments. It was noted that when these
+    documented current storage and identified                   spaces are needed groups have to go to a
+    other misc. needs                                           diﬀerent facility or must rent space which has
+                                                                cost and eﬃciency implications.
+   Discussed operational eﬀects with each
+    department if future facility is split into two            Most groups agreed that small, enclosed phone
+    separate sites (Admin/Ops)                                  rooms would be necessary for a successful open
+                                                                oﬃce workspace. Virtual calls are noted as loud
+   Created programming sheet for each Chief/
+                                                                and disruptive in an open work environment
+    Department identifying staﬀ counts, types of
+                                                                and are a common occurrence for staﬀ in all
+    workspaces and required support spaces. Each
+                                                                departments.
+    space was assigned a standardized square
+    footage                                                    Many departments had dedicated coﬀee/break
+                                                                areas and copy/work areas. Almost all groups
+                                                                stated they could easily share these functions for
+Administrative office specific findings:                        a more eﬃcient use of support space.
+                                                               Other Assumptions used in program and criteria
+   Current workstations and private oﬃces are                  development:
+    sized based on existing physical conditions
+                                                                  A seat is assumed for every staﬀ member
+    and vary throughout the building. Departments
+                                                                   currently assigned to PEC, a hybrid work model
+    and their staﬀ have been fit into their areas                  was not considered.
+    based on these existing conditions, available
+                                                                  No future staﬀ growth is included.
+    systems furniture sizes and are typically
+    arranged as eﬃciently as possible. In order to                Square footage requirements for oﬀ-site staﬀ/
+                                                                   functions are not included.
+    understand space needs and create consistency,
+    standardized sizes for workspaces and support                 Conference rooms are listed as either shared or
+    spaces were assigned across all departments.                   dedicated based on department programming
+    Thisadds eﬃciency and ﬂexibiity as departments                 meetings. These may ﬂuctuate but provide
+                                                                   design ﬂexibility for PPS.
+    shift and change. The following sizes were
+    implemented:                                                  A lunchroom/cafeteria with cooking
+                                                                   capabilities was not included. Breakroom
+       35 SF (6’-0” x 6’-0”) – standard workstation               space appropriate for the overall staﬀ count
+       25 SF (5’-0” x 5’-0”) – hotel workstation                  was listed as a lump sum to be distributed
+       120 SF – Standard office for Directors                     depending on the scenario and built conditions.
+       220 SF – Standard office for Chiefs (includes             No changes to current PPS operations were
+        meeting space for 4-6 people)                              assumed
+       320 SF – Standard office for Superintendent
+        (includes meeting space for 6+ people)
+   It was determined that the existing Board Room
+    and adjacent ﬂex space are typically used in
+    conjunction to provide enough space for large
+    gatherings and meetings. These two spaces
+    were added together for the future Board Room
+    minimum square footage.
+   Conference space for groups of sizes 20-25
+    were identified as a need by 6 departments.
+
+
+
+    Portland Public Schools                  PPS Prophet Center                          April, 2025
+
+                                                        03-04
+Shop Specific Findings:                                       In line with current Industry Standards, the
+                                                               new facility takes into consideration new safety
+   In comparison to other peer districts, the shop            features. Dedicated pedestrian vs. equipment
+    facilities are generous in size. Fabrication and           paths be clearly delineated and provided within
+    Shop; Maintenance – acknowledged that they                 the warehouse circulation space. (Photos from
+    can reduce their overall shop and fabrication              Examples of Safety)
+    areas by 30% which would be comparable to
+                                                              PPS currently does not have a district wide
+    peer districts.
+                                                               inventory system, therefore each department
+   Reduction in space would be accomplished by                must keep a good line of communication with
+    eliminating underutilized equipment, shared                the warehouse facility management team so that
+    equipment within diﬀerent shop divisions, and              inventory is understood and can be managed.
+    eliminating and categorizing inventory.
+   Similar to the warehouse inventory, there is
+    no district wide inventory of parts and pieces
+    etc. With SKU and or bar codes, therefore it
+    is diﬃcult to understand at any given point
+    what materials and pieces are within the shop.
+    This can potentially cause redundancy and
+    ineﬃciency in ordering parts etc.
+At the culmination of the interviews, Bainbridge and
+Mackenzie facilitated an overview discussion with
+the Core Team to review information collected prior
+to advancing to program documentation.
+                                                               Examples of Safety
+
+
+
+
+    Electrical Shop
+
+
+
+
+    Music Shop
+
+
+
+
+                                                       03-05
+INTERVIEW SUMMARY CONT.
+Warehouse specific findings:                                The vast majority of PPS’s warehouse is laid
+                                                             out in what industry standards call VNA (very
+   The existing racking system was designed                 narrow aisle), using aisles down their rows that
+    to meet the codes in place at the time of                are 6 ft wide. In a VNA application the most
+    installation. It does not accommodate standard           common forklifts used are order pickers and
+    pallet sizes and is therefore no being utilized to       swing reaches. PPS has both order pickers and
+    its fullest capacity. Updated seismic standards          swing reaches at their current location. Their
+    will apply when permitted in a new location and          order picker has an elevated height of 210
+    new racking should accommodate standard                  inches. Meaning this unit could reach beams
+    pallet to maximize storage eﬃciency.                     levels a little under 18 feet, therefor if in the new
+   For the new operations facility, in order to be in       facility the clear height is higher than PEC, a
+    compliance with new regulations and code, the            new order picker will be required to reach new
+    following are recommended to be part of the              heights.
+    minimum criteria:                                       PPS’s other big limitation in their existing
+      A minimum of 6” thick concrete slab for               warehouse is their overall storage height. The
+       seismic code requirements.                            majority of the current racking is 14’ high. It is
+      A ESFR (in-rack fire suppression system)              recommended that the new warehouse has a
+       sprinkler system that would eliminate the need        clear height of 30’. This would allow PPS to store
+       for and in-rack sprinkler allowing for more           between 20-26 ft.
+       opportunity to store within the raking system.       If PPS were to find a warehouse that can
+      Replace all existing racking systems with new         accommodate these heights, they would need to
+       racking systems that allow for more eﬃcient           potentially purchase new equipment that would
+       weight distribution, added safety features,           allow them to store product at higher elevations.
+       standardized pallet sizing, and meets current
+                                                             Those who are currently trained and certified to
+       high seismic zone requirements.
+                                                             operate the lifts will not need to be trained again
+   PPS currently has 6,072 pallet positions with            to be able to use similar equipment that goes
+    varied pallet heights based on the existing              higher. The more product that PPS is able to
+    beam levels. When defining space needs in a              store at a great height the more space they can
+    warehouse, the standard representation is in             save on their overall footprint.
+    volume in lieu of square footage. They currently
+    have 263,578 cubic feet of storage space for            PPS currently stores any items in the warehouse
+    racking. Assuming that PPS will not be removing          that are small parts, such as the science kits,
+    any programs or elements for their new facility,         laptops, etc. Raymond West recommends that
+    PPS would need at least 263,578 cubic feet of            a system like a Kardex Vertical Lift Module
+    racking storage to be able accommodate what              be considered in the new facility to optimize
+    they are currently storing.                              storage space and decrease the overall footprint
+                                                             within the warehouse. This provides a high
+      Approximately 40% of inventory is managed             -density storage solution, eﬃciency utilizing the
+       by Instructional Resource Center (IRC) with
+                                                             overall footprint, with greater improvement to
+       textbooks and science kits.
+                                                             the picking speeds , as well as a safe and secure
+   The majority of their existing beams are 106”            place to store valuable items such as laptops.
+    and their pallet width is primarily 40”. This
+    means each rack can only store two pallets
+    per beam level with and extra 26” of available
+    length, creating ineﬃcient unusable space. The
+    consultant team would recommended the new
+    racking system use 96” beams which is standard
+    for two pallets that are 40” x 48”. For each
+    row that has 11 or more bays this change to 96”
+    beams could gain an additional bay in each row,
+    or gain approximately 51 bays throughout their
+    whole warehouse.
+
+    Portland Public Schools                 PPS Prophet Center                          April, 2025
+
+                                                     03-06
+PEC EXISTING WAREHOUSE FLOOR PLAN
+
+
+
+                                                                                                                                                                                                 Dumpster
+
+                                                                                                                                                                                                        1
+
+                                                                                                                                                                                                        2
+
+
+
+
+                                                                                                                                                           dE on
+                                                                                                                                   rd
+
+
+
+
+                                                                                                                                                                                                                       Chemicals
+                                                                                                                                                         Fe maz
+                                                                                                                             a
+
+
+
+
+                                                                                                                                                             x
+                                                                                                                          bo
+                                                                                                                                                                                                                                                                                                   Nutrition
+
+
+
+                                                                                                                     Ca l
+             C
+
+
+
+
+                                                                                                                         il
+
+
+
+
+                                                                                                                                                           A
+                                                                                    IS
+
+
+
+
+                                                                                                                        ll
+                                                                                                                       rd
+                                                                                                                      W
+           IR
+
+
+
+
+                                                                                    OT
+
+
+
+
+DN.
+
+
+
+
+                                                                                                                    Ca
+                 25        24   23   22   21        20            19           18    17       16   15    14   13`   12    11                        10     9                           4     3                                                                                                     Security/ HR
+                                                                                                                                                                                                                                                                     OTIS
+
+                                                                                                                                                                                                                                                                                                   OTIS
+
+
+
+
+                                                                                                                                                                     ad ral
+                                                                                                                                                                                                                                                                                  OTIS     OTIS
+
+                                                                                                                                                                                                                                                                                  cage
+                                                                                                                                                                                                                                                                                           Judy
+
+
+
+
+                                                                                                                                                                       ing
+                                                                                                                                                                   Lo ene
+                                                                                                                                                                                             9      8        7                       6          5      4     3                                     Athletics
+
+
+
+
+                                                                                                                                                                     G
+                                                                    Jesse
+                                                                    Atchison                                                                                                                                IRC
+         MAIL                                                                                                                                                                                                                      IRC         IRC     IRC
+                                                                                                                                                                                                                                                       IRC
+         ROOM
+
+                                                                                                                                   24/42
+                                                                                                                                                                                                            WS                     WS          WS      WS
+                                                                                                                                                                                                                                                                            5     OTIS
+                                                                                                                                                                                                                                                                 2
+                                                                                                                          Paul
+
+
+                                                                                                                                                                                                                                                                       1
+                                                                                                                                            30/72
+
+
+
+
+                                                                                                                                                                                                                                                                                  cage
+                                                                                                                                                                                                                                                                                                  RAA
+                                                                                                                          Dmitry
+                                                                                                                                            30/72
+
+
+
+
+                                                                                                                                    24/42
+
+
+
+
+Wendy   Renee
+
+
+
+                                                                                                                                                                    8    7     6   5
+Mich    Green
+
+
+
+
+                                                                                                                                                                                       10                                                                                   7
+                                                                                                                                                                                                                                                                                                  Real Esate, Const,
+                                                                                                                                                                                                                                                                                    RAA
+         VAULT                                                                                                                                                                                                                                                                      cage          Sustain
+                                                                                                         18   17    16    15                        14     13
+                                                                                                    19                                                                                                                                                                                            Maint/ trades
+                                                                                              20
+
+
+
+
+                                                                                                                                                                                                                                                                            9     OTIS
+                                                                                                                                                                                                                                                                                  cage
+                                                                                                                                                                                                                                                                                                  Records
+                                                         Office    Office
+                                                                                                                                                                                                                                                                                    OTIS
+                                                                                                                                                                                                                                                                                    Tim
+
+
+
+
+                                                                                                                                                                                                                                                                            11 Athletics
+                                                                                                                                                                                                                                                                                                  IRC - Kits
+                                                                                                                                                                        cage                                                                                                      cage
+
+                                                                                                                                                                                                                                                                                                  IRC - Text
+                                               Office
+
+
+
+
+                  Office
+
+
+                                                                                                                                                                                                                                                                                  Athletics
+                                                                                                                                                                                                                                                                            13 cage
+                  Office
+
+
+
+                                                                                                                                                                                                            IRC
+                                                                                                                                                                                                            WS
+                                                                                                                                                                                                                                   IRC
+                                                                                                                                                                                                                                   WS
+                                                                                                                                                                                                                                         IRC
+                                                                                                                                                                                                                                                 IRC
+                                                                                                                                                                                                                                                 WS                                               VAPA
+                                                                                                                                                                                                              IRC                        WS    IRC
+                                                                                                                                                                                                                                               WS
+
+
+                                                                                                                                                                                                                                                                 2
+                                                                                                                                                                                                                  WS
+
+
+                                                                                                                                                                                       10    9      8        7                       6          5      4     3         1
+                                                                                              20
+                                                                                                    19   18   17    16    15                        14     13                                                                                                                                     Data Center
+                                                                                                                                                                                                                                                                            15     Furniture
+
+
+                                                                                         21        19    18   17    16    15                        14     13                                       8        7                       6                 4     3   2     1                          OSP
+                                                                                              20                                                                                       10    9                                                  5
+                                                                                                                                                                                                                                                                                   Furniture
+                                                                                                                                                                                                                                                                            17                    Risk
+
+                                                                                                                                                                                                                                                                                                  Warehouse
+                                                                                                                                                                                                                                                                            19 Furniture          General
+                                                                                                                                                                                                                                                                                                  stage
+                                                                                                                                                                                                                                                                                   Furniture
+                                                                                                                                                                                                                                                                            21
+                                                                                                                                                                                                                                                                                    Maint
+
+
+
+                                                                                                                                                                                                                                                                            23      IRC
+
+
+
+
+                                                                                                                                                                                                                                                                            25      IRC
+
+                                                                                                                                                                                                                                                                            IRC
+                                                                                                                                                                                                                                                                            WS
+
+                                                                                              20    19   18    17    16     15                             13                                                                                                3   2     1    IRC
+                                                                                         21                                                         14                                  10   9      8         7                      6          5      4
+                                                                                                                                                                                                                                                                            WS
+
+
+
+
+                                                                                                                                                                                                                                                                            27      IRC
+
+
+                                                                                                                                                                                                                                                                                  STR01
+
+
+
+
+                                                                                                                                                                         03-07
+THIS PAGE INTENTIONALLY LEFT BLANK
+PEC SPACE AND PROGRAMMING REPORT
+RECOMMENDATIONS DEVELOPMENT SUMMARY
+
+ Bainbridge and Mackenzie worked closely with             Based on the programming workshop, Bainbridge
+ Portland Public Schools to review and validate           and Mackenzie developed the following
+ the program using space standards to organize            programming document to capture information
+ the rooms and provide adequate square footages           from initial staﬀ interviews. The programming
+ typically required by School District Headquarters –     document encompasses staﬃng and program needs
+ Administration and Operations facilities of this size.   for immediate occupancy. Per Portland Public
+                                                          School request, the programming does not consider
+ Space needs assessment and programming is a              any future growth or change in operations. The
+ critical process in any project. Understanding           space allocations include space sizes, quantities, and
+ existing conditions, operational needs, constraints,     unique requirements specific to individual needs are
+ and future growth forecasts play a key role in           found in Appendix A.
+ inﬂuencing space needs and planning projections.
+ Space needs programming represents a collection             Created a programming sheet for all shared
+ of physical needs for the public, staﬀ, shared               and amenity spaces not dedicated to a specific
+ functions and facility support functions of the              department (i.e. Board Room, Professional
+ building and exterior requirements. The culmination          Development/Event spaces, Mother’s Rooms,
+ of the physical space needs assessment provides a            etc .)
+ recipe for total square footage requirements of the         Assessed current conference room and break
+ building and site for identified current projections.        room sizes and quantities against desired
+ Accurately identifying and rightsizing building and          amounts identified during programming
+ site needs, is essential in understanding full project       interviews
+ square footage needs and identification of potential
+ existing building relocation or sites for development.      Identified satellite and hoteling spaces required
+                                                              by departments if split into two sites
+                                                             Separated departments based on site preference
+                                                              (Admin./Ops) to create Scheme 3
+
+
+
+
+                                                      03-09
+PEC SPACE AND PROGRAMMING REPORT
+RECOMMENDATIONS DEVELOPMENT SUMMARY
+
+The three schemes that were evaluated are the            Beyond the specific individual space needs, a
+following:                                               circulation factor exists to represent space needs
+                                                         for common hallway circulation, corridors, building
+Scheme 1 – A combined administration and                 mechanical shafts and walls that cannot be
+operations facility, like the PEC with improved          categorized as functional program but contribute to
+eﬃciencies.                                              the overall required building space needs.
+Scheme 2 – Two separate facilities, one for                  Net Area or NSF (net square feet); references
+Administration and one for Operations. The                    only the actual room square footage.
+operations facility will be primarily – shops,
+warehouse space, and nutritional services, and               Usable Area or USF (usable square feet);
+excludes administrative staﬀ that have preference of          accounts for interior walls and building
+being located at the operations facility.                     circulation.
+                                                             Gross Area or GSF (gross square feet); for
+Scheme 3 – Two separate facilities, one for                   built structures includes exterior walls, vertical
+Administration and one for Operations with each               penetrations, mechanical, restrooms, code
+department located at their preferred facility. The           required spaces, and other support spaces; for
+following is a breakdown of departments at each               surface parking includes stall sizes; and for yard
+facility:                                                     storage includes site area.
+   Administration Facility                              (see page 03-11 for diagram)
+      Superintendent                                        An industry standard circulation multiplier
+      Chief of Staﬀ                                          of 1.55 was added to the net square footage
+      Chief Financial Oﬃcer                                  (NSF) for all admin spaces to calculate usable
+      General Counsel                                        square footage (USF). This is typical when the
+      Chief of Human Resources                               building program is predominantly workstations.
+                                                              However, it does not allow any contingency to
+      Chief Accountability and Equity Oﬃcer
+                                                              compensate for ineﬃciencies in a building ﬂoor
+      Chief Academic Oﬃcer                                   plate.
+      Chief of Student Success Services
+                                                             A building gross multiplier of 1.2 was added to
+      Chief of Schools                                       the usable square footage (USF) to account for
+                                                              exterior walls, vertical penetrations/circulation,
+                                                              building systems and restrooms to calculate
+   Operations Facility                                       gross square footage (GSF).
+      Fabrication & Shop; Maintenance (COO)
+                                                             An industry standard circulation multiplier for
+      Nutritional Service (COO)                              Operations facility of 1.15 was added to the net
+      Warehouse (COO)                                        square footage (NSF) for all operations spaces
+      Chief Operating Oﬃcer (COO)                            to calculate usable square footage (USF). This
+        • Oﬃce of School Modernization (OSM)                  is typical for a fabrication / warehouse facility,
+                                                              However, it does not allow any contingency to
+        • Security Services
+                                                              compensate for ineﬃciencies in a building ﬂoor
+        • Real Estate & Construction (REC)                    plate.
+      Oﬃce of Technology Information Services
+       (OTIS)
+                                                             An operations building gross multip;ier of 1.15
+                                                              was aded to the usable square footage (USF) to
+                                                              account for exterior walls, vertical penetrations
+                                                              / circulation, building systems and restrooms to
+                                                              calcuate gross square footage (GSF).
+
+
+
+    Portland Public Schools                PPS Prophet Center                           April, 2025
+
+                                                      03-10
+TYPES OF SQUARE FOOTAGE - DIAGRAM
+
+
+
+
+Net Square Feet - NSF                                             Circulation Area
+
+The area of each proggramed space.                                All circulation throughout the ﬂoor plan to access primary and
+(workstations, private offices, conference rooms, ect.)           secondary spaces. Excludes elevators and exit stairs.
+
+
+
+
+Usable Square Feet - USF                                          Gross Square Feet - GSF
+
+Total occupiable area.                                            Total ﬂoor area to the exterior face of the building. Includes
+                                                                  building systems and vertical penetrations.
+
+
+
+
+                                                          03-11
+PEC SPACE AND PROGRAMMING REPORT
+RECOMMENDATIONS DEVELOPMENT SUMMARY
+
+PROGRAM MATRIX - SCHEME 1
+
+
+
+
+  Portland Public Schools   PPS Prophet Center   April, 2025
+
+                                  03-12
+PROGRAM MATRIX - SCHEME 2
+
+
+
+
+                            03-13
+PEC SPACE AND PROGRAMMING REPORT
+RECOMMENDATIONS DEVELOPMENT SUMMARY
+
+PROGRAM MATRIX - SCHEME 3
+
+
+
+
+  Portland Public Schools   PPS Prophet Center   April, 2025
+
+                                  03-14
+THIS PAGE INTENTIONALLY LEFT BLANK
+PEC SPACE AND PROGRAMMING REPORT
+RECOMMENDATIONS DEVELOPMENT SUMMARY
+
+PROPERTY SEARCH RECOMMENDATIONS
+
+
+
+When searching for properties, Bainbridge and               The following minimum criteria should be taken into
+Mackenzie recommends that PPS utilize a range of            consideration as PPS searches for facilities:
+square footages for each Scheme. When moving
+into an existing facility, there may be ineﬃciencies            Criteria 1: Owned not Leased
+within the facility, such as, curvatures in walls that             Context: The District does not have the
+create underutilized spaces, ineﬃcient locations of                 financial capacity to take on a long-term lease
+building systems, etc.                                              that would increase over time. Ownership also
+                                                                    allows greater control over operating expenses.
+The recommended range for each of the three                     Criteria 2: Within District Boundaries
+diﬀerent schemes to aid in a property search
+                                                                   Context: The Administrative site must be within
+analysis are as follows. Please note that the range is
+                                                                    District boundaries. However, the Operations
+rounded to the nearest thousands.
+                                                                    Center could be outside the boundaries if
+                                                                    it results in a more appropriate site and any
+   SCHEME 1:
+                                                                    increase in average driving time is justifiable.
+      Combined Facility - 279,000 SF - 307,000 SF
+                                                                Criteria 3: Central Location
+   SCHEME 2:
+                                                                   Context: Given the high volume of travel
+      Administration Facility with Operations Staﬀ -               between the District headquarters and schools,
+       114,000 SF - 125,000 SF                                      the location(s) should be reasonably central
+      Operations Facility without Operations Staﬀ -                (relative to schools) to allow eﬃcient travel
+       168,000 SF - 186,000 SF                                      back and forth for both PPS staﬀ and the
+                                                                    public.
+   SCHEME 3:
+                                                                Criteria 4: Easy Freeway Access
+      Administration Facility without Operations
+       Staﬀ - 96,000 SF - 106,000 SF                               Context: The location(s) needs good access to
+      Operation Facility with Operations Staﬀ -                    major freeways and arterials.
+       191,000 SF - 210,000 SF                                  Criteria 5: Access to Public Transit
+                                                                   Context: As part of the PPS commitment to
+                                                                    Climate Justice, we will continue to encourage
+                                                                    use of mass transit.
+                                                                Criteria 6: Parking
+                                                                   Context: The new location(s) must have a
+                                                                    reasonable (warehouse 1:1000 SF and admin
+                                                                    2:1000 SF) number of on-site parking spaces
+                                                                    correlated to the functions at the site, including
+                                                                    parking for visitors and families who need to
+                                                                    access Central Oﬃce functions and Board
+                                                                    meetings.
+
+
+
+
+    Portland Public Schools                 PPS Prophet Center                             April, 2025
+
+                                                         03-16
+   Criteria 7: Accommodates PPS Spatial and                  Criteria 8: Safety
+    Functional Needs                                             Context: Site safety is critical for staﬀ and
+      Context: The selected relocation options must              visitors, particularly after dark.
+       support PEC’s programming as identified                Criteria 9: Cost Neutral to PPS
+       through the PEC Space and Programming
+       Evaluation report. Select parameters and                  Context: Consistent with Resolution 6861 As
+       assumptions are highlighted below:                         Adopted, the entirety of the relocation must be
+                                                                  cost neutral to PPS.
+      On-site workspace for every PPS Central Oﬃce
+       employee.(March 2025 staﬀ count without
+       increase or reduction; no changes to PPS
+       operations were assumed).
+      Equivalent conference space to PEC
+       (redistributed in quantity, size, and capacity to
+       better align with needs).
+      Break and lunchroom space within industry
+       standards.
+      Private oﬃce space in line with sensitive work
+       requirements and District policy.
+      Boardroom space with equivalent seating
+       capacity, dais, and AV capacity as PEC
+       Boardroom
+      Operations space for current functions and
+       inventory storage, including:
+         • Fabrication & Shop Maintenance
+         • Nutritional Service, including industrial
+           kitchen
+         • Warehouse
+         • Chief Operating Oﬃcer (COO)
+         • Oﬃce of School Modernization (OSM)
+         • Security Services
+         • Real Estate and Construction Management
+           (REC)
+         • Oﬃce of Technology Information Services
+           (OTIS)
+         • Loading Docks (at least 10)
+         • Fleet Parking (at least 121 spaces)
+
+
+
+
+                                                      03-17
+Back Cover
+
