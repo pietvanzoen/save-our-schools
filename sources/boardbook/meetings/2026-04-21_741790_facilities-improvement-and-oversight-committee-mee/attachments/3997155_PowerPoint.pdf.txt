@@ -1,0 +1,307 @@
+Facility Improvement & Oversight Committee
+               April 21, 2026
+
+
+
+
+                                             1
+             Agenda
+● Introduction
+● Shared Values and Commitment to Indoor Air Quality
+● Air Quality Educational Speciﬁcations and Facility Standards
+● Air Quality Implementation in Modernization Design
+  ○ Cleveland
+  ○ Ida B. Wells
+  ○ Jefferson
+● Air Puriﬁcation Unit Inventory and Deployment
+● PCEF Grant Award and Projects
+
+
+                                                                 2
+Shared Values
+● PPS is committed to the health and safety of children and
+  adults in our buildings, including indoor air quality.
+
+
+● PPS employs a comprehensive strategy to improve indoor
+  environmental health, including building ventilation design
+  standards, public health protocols, and portable air purifiers.
+
+
+● PPS designs buildings to meet our decarbonization and climate
+  resilience goals in the Climate Crisis Response, Climate
+  Justice and Sustainable Practices Policy (CCRP)
+
+
+
+
+                                                                    3
+Designing for Healthy Indoor Air
+What is Indoor Environmental Quality?                                                                                            K–12 Indoor Air Quality
+
+
+
+
+   Air quality in schools is about ensuring every classroom has clean, comfortable air that supports student learning, health, and focus.
+   It is managed through how we bring in fresh air, ﬁlter it, and maintain safe and comfortable conditions inside our buildings.
+
+
+                Fresh Air In →    Filter                     Stale Air Out ↑
+                                                                                          KEY COMPONENTS                               WHY IT MATTERS
+
+     OUTSIDE
+                                                                                      Ventilation
+                                                                                      Fresh outdoor air into classrooms
+                                                                                                                                         Supports student
+                                                                                                                                         attention and learning
+                                                                                      Filtration
+                                       Filtered Air ↓
+                                                                                      MERV ﬁlters remove particles &
+                                           Air Circulation                            allergens
+                                                                                      Temperature
+                                                                                                                                         Improves comfort for
+                                                                                      Comfortable, consistent learning                   students and staff
+                                                                                      conditions
+  Teacher                                                                             Humidity
+                                                                                      Balanced moisture — not too dry, not too
+                                                                                      damp
+                                 Classroom                                                                                               Reduces illness and
+                                                                                      Air Quality Metrics                                missed school days
+       Fresh / Filtered Air
+       Air Circulation                                                                CO₂ levels show if air is fresh; we also
+       Stale Air Out                                                                  track dust and allergens
+Maintained through building systems, regular maintenance, and proactive monitoring.
+                   Goal:
+
+     Provide healthy air to enhance academic
+performance and minimize pathogen transmission.
+How Do We Measure
+ Indoor Air Quality?
+ QUANTITY              QUALITY
+
+                         CO2
+ Air Changes
+                     Concentration
+Per Hour (ACH)
+                     & Particulates
+
+  A measure of air    A measure of air
+     circulation         freshness
+But ACH is only part of the equation
+
+
+
+
+  More circulation or filtration does not necessarily mean better
+We need to focus on quality, not quantity
+Design to Specifically Address
+Indoor and Outdoor Pollutants
+    Addressing Outdoor Pollutants
+
+Outdoor Air In                                Recirc Air In
+
+
+
+
+       Minimum MERV 13 Filter
+     Removes smoke, pollen, and car exhaust
+       Addressing Indoor Pollutants
+  Filtered                 Generation of CO2,               CO2, Odors,
+Outdoor Air In               Odors, VOCs                     VOCs Out
+
+
+
+
+        recirculating air is filtered with minimum MERV13 as well
+Carbon Dioxide Concentration
+   As a Holistic Air Quality Metric
+
+
+
+
+   CO2 should remain ~800 ppm
+    We are designing for this value.
+●   Proposed CO2 Control Strategy:
+    ○   Control to 800 ppm
+    ○   2-stage demand control ventilation
+        strategy
+          ■ Increase airflow to terminal unit
+          ■ Open outside air damper at air
+              handler
+●   Ventilation ASHRAE 62.1+30%
+●   Supply Air quantity:
+     ○ 3.7-7.7 ACH
+     ○ 0.8-1.3 CFM/sqft
+●   Supply Air filter rating: minimum MERV-13
+
+
+
+
+                                                15
+Operable Windows
+are important for
+indoor air quality.
+PPS IAQ Design Summary for atypical conditions:
+when outside air quality is compromised (Wildfires, high pollen, etc.)
+
+
+
+  —Pandemic response mode:
+  in-room HEPA filtration (portable)
+  —Wildfire response mode:
+  Reduce outside air to minimum values,
+  in-room HEPA filters
+
+
+
+
+                                                                         17
+Puriﬁer Inventory & Deployment History
+Phase I: Initial Pandemic Response (2020)
+ ●    Rapid Purifier Deployment: Equipped every instructional space
+      district-wide.
+ ●    Strategic Allocation:
+       ○ K-8 Spaces: 4,500 Intellipure Ultrafine model #468 air purifier units
+       ○ High Schools: 1,000 Medify 112 units (selected for high-capacity
+            square footage)
+Phase II: Tested Air Quality & Adapted Response (2021 - 2023)
+●    Air Quality Report: PBS Engineering (now APEX) and Ameresco conducted indoor air-quality tests.
+      ○ Recommended 2 air purifiers per classroom at schools that lacked sufficient air exchanges (28 schools), which
+          were distributed.
+●    Procured Additional units: April, 2023 - PPS Risk Management placed an order with OHA for 600 additional Medify
+     112 air purifiers, as well as 5 years of replacement filters for those purifiers and the Intellipure Ultrafine #468 units (OHA
+     donation worth $5.8M).
+      ○ PPS received approximately 3500x Medify 112 Pro units with 5 years of replacement filters for the Pro units.
+      ○ Additional units were communicated as available to any schools wanting secondary units in their classrooms.
+                                                                                                                                      18
+Puriﬁer Inventory & Deployment
+Phase III: Iterate and Adapt (2024 - present)
+
+●   Policies and Procedures: With the Climate Crisis Response
+    Policy (CCRP), PPS updated emergency response protocols
+    and staff trainings to include heat and smoke in school closure
+    and response events, seeking to miminize AQI hazards.
+●   Communication: Increased district-wide communication on
+    best practices to maintain health in high smoke, heat, flu and
+    pollen seasons.
+●   Continued Maintenance and Distribution: PPS custodians regularly vacuum air purifiers as needed,
+    and PPS works with a contractor to replace filters and maintain units on an annual basis. Principals are
+    encouraged to request additional air purifers for classrooms, as needed.
+●   Investment in Systems: PPS continues to update HVAC systems in priority schools with PCEF and
+    bond investments.
+
+                                                                                                               19
+Puriﬁer Inventory & Deployment
+Current State:
+
+ ●   To date over 6,000 air purifier units have been deployed.
+ ●   PPS is currently storing about 2,500 Medify 112 Pro units and about 4 years of replacement filters
+     in the warehouse, available upon request from building leaders.
+ ●   The maintenance team is deploying the Medify 112 Pro units where the original Intellipure and
+     Medify 112 units no longer have replacement filters.
+ ●   Schools can, and do, regularly request additional air purifiers through facilities or the warehouse.
+     These are deployed to the requesting school within a few days.
+ ●   Schools have the option to keep their existing units in addition to the new Pro units.
+
+
+
+
+                                                                                                            20
+Challenges in Air Puriﬁer Deployment
+ ●   Deployment is highly variable: The PPS warehouse regularly receives shipments of purifiers from
+     schools that no longer want them.
+
+
+
+ ●   Tracking: Once purifiers are deployed to a school, they are sometimes moved to other locations without
+     being reported centrally, so tracking of exact locations of deployment lacks precision over time.
+
+
+
+ ●   Updated technology and surplus: PPS would ideally procure filters for older Intellipure units that have
+     used their replacement filters. However, this would be a large cost to the district when we already have
+     an adequate supply of the newer Medify 112 Pro units and filters to deploy.
+
+
+
+
+                                                                                                                21
+PCEF Grant Award and Projects
+PPS has two large grant awards from the Portland Clean Energy Fund (PCEF)
+ ● PCEF Strategic Program 16 Climate Friendly Public Schools (SP16), $19,930,833 (through 2028-29).
+ ● PCEF's Collaborating for Climate Action (CCA), MESD is the fiscal agent, $25,568,240 for PPS (through
+    12/31/2030).
+Collaborating for Climate Action (CCA) - January 1, 2026 - December 31, 2030
+ ● Competitive grant, where MESD serves as the fiscal agent for all Portland school districts.
+ ● Community Benefits Agreement with Coalition for the Communities of Color conduct community
+    engagement
+ ● Grant Budget includes:
+     ○ Energy efficiency upgrades at two schools: (1) Upgrade HVAC: new air source heat pump, (2)
+        Upgrade Water Heaters: electric heat pump, (3) Upgrade Windows.
+     ○ Green schoolyard improvements and landscape maintenance for six schools
+     ○ 1 FTE for Project Manager (Capital) + .5 FTE Green Schools Coordinator
+
+
+
+                                                                                                           22
+PCEF Grant Award and Projects
+PCEF SP16 - 5-Year Award 2024 - 2029, $19,930,833
+ ● Two funding components: Student-led Climate Projects and Infrastructure
+   Improvements
+    ○ $3,000,000 Student-led Climate Projects (Grades 6-12)
+        ■ Purpose: $10,000 per school (MS, HS, K-8) per year for
+           5 years for student-led projects, plus administrative funding
+        ■ Progress:
+            ● 24-25: $317k total funds spent; 34/36 eligible schools participated;
+               engaged over 4,300 students
+            ● 25-26: 100% of 37 eligible schools submitted project proposals,
+               students plan to spend over $430k + administrative expenses.
+                ○ Over 2,700 students involved in project development, expect to
+                    engage nearly 20,000 students
+
+
+                                                                                     23
+PCEF Grant Award and Projects
+PCEF SP16 - 5-Year Award 2024 - 2029 - Infrastructure Improvements
+ ● PCEF SP16 - $16,930,833 Physical Improvement Projects
+    ○ Purpose: Increased comfort in the schools
+        ■ Add cooling capability to address the increased frequency of warm/hot days during the school
+            year
+        ■ Install energy efficiency measures to save on utility costs
+        ■ Decarbonize the system by switching from natural gas to electricity
+        ■ HVAC improvements to start Summer 2027
+    ○ November 2023: MOU with PAT commits $10 million of the PCEF Direct Allocation funds to address
+       temperature mitigation at PCEF-qualified PPS buildings and to involve a PAT representative in
+       reviewing relevant scope in the application (complete).
+
+
+
+
+                                                                                                         24
+PCEF Grant Award and Projects
+Infrastructure Improvements- Progress
+
+SP16-Direct Allocation:   Allocation    Description
+Infrastructure
+
+Phase I (2024 - 2025)     $700,000      LED Lighting and weatherization upgrades (Complete)
+Complete
+
+Phase II (2025 - 2026)    $1,945,000    Design, abatement, hazardous materials testing in
+                                        preparation for HVAC improvements
+
+
+Phase III (2027 - 2029)   $14,285,833   Bulk of spend in future phases in construction and
+                                        project implementation.
+
+
+
+
+                                                                                              25
+Questions?
+
+
+
+
+             26
+

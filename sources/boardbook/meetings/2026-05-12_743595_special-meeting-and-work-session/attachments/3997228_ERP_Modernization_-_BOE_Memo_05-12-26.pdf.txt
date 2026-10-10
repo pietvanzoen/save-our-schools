@@ -1,0 +1,68 @@
+                            PORTLAND PUBLIC SCHOOLS
+                            Office of Technology & Information Services (OTIS)
+                            501 North Dixon Street / Portland, OR 97227
+                            Telephone: (503) 916-2000
+                            Mailing Address: P. O. Box 3107 / 97208-3107
+
+
+                                                MEMO
+Date:​ ​        April 30, 2026​ ​      ​
+To: ​   ​       PPS Board of Education
+From:​ ​        Russell Adamson, Senior Director Technology & Digital Transformation
+CC:​            Deborah Kafoury
+Subject:​       ERP Modernization Not to Exceed contract​
+
+
+Overview
+The ERP Modernization program has finalized the scope of the products to be purchased as well as the
+associated vendor costs. The majority of the contractual spend - $33.481M or 92% of the planned
+contractual spend - are finalized and has been provided for review as part of the May 12 board package.
+
+However, there are five smaller contracts in process that are also considered part of the ERP
+Modernization program scope and deliver significant value for PPS. These contracts need to be written
+as separate agreements as they are offered by different vendors for products that integrate into the new
+ERP platform (Workday) but are not directly sold by Meridian, our ERP provider. These contracts are to
+be presented to the Board as Not To Exceed agreements for the May 12 Regular meeting.
+
+Details
+The remaining agreements to be negotiated represent three areas of value for PPS:
+    ●​ EUNA: pre-award grant management capabilities to better identify funding opportunities,
+       coordinate applications, and streamline proposal development. The expected outcome is
+       improved grant win rates and reduced administrative burden.
+            ○​ Implementation SOW: $29,000
+            ○​ Licenses (10 year): $1,400,000
+    ●​ DebtBook: modern debt and lease management tools that simplify compliance, improve
+       financial transparency, and long-term planning for bonds, leases, and other obligations. Note
+       that PPS uses DebtBook today - this significantly expands the functionality, replaces the current
+       contract, and allows the new contract to be bond compensable
+            ○​ Implementation SOW: $9,000
+            ○​ Licenses (10 year): $967,000
+    ●​ Application Management Support: twelve months of ongoing technical support from Workday.
+       System administration, optimization, and issue resolution to help ensure system stability and
+       continuous improvement for the critical HR and finance operations.
+            ○​ Twelve months, post Hypercare: $525,000
+All costs listed above are the Not To Exceed agreed by the vendor (EUNA, DebtBook, Meridian).
+
+
+
+Next Steps
+
+PPS will continue to follow current policy and regulations to finalize these agreements in good faith with
+the vendors listed above. The current estimate to have documents ready for PPS review and signatures
+is late July 2026, if not earlier.
+
+
+These additional modules will ensure we are maximizing our use of the new ERP platform as well as
+integrating multiple processes and workflows that are currently disconnected. In addition, the twelve
+months of post-deployment support will ensure PPS has a stable platform for both the initial use and
+long term optimization, which maximized PPS’s investment in the ERP Modernization program.
+
+
+I am happy to provide any additional information or answer any questions as needed.
+
+
+
+Russell Adamson
+Russell Adamson
+Senior Director, Technology & Digital Transformation
+

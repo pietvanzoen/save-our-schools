@@ -1,0 +1,74 @@
+                                              Resolution No. ________
+
+     Establishing a Temporary Pause on the Use and Expansion of Generative Artificial Intelligence Systems
+                    Pending Development of Board-Approved Policy and Oversight Framework
+
+
+
+
+                                                     RECITALS
+
+    A.​ WHEREAS, Portland Public Schools (“PPS”) has not yet drafted and adopted a Board Policy governing
+        the use and approval of generative artificial intelligence (“GenAI”);
+
+    B.​ WHEREAS, GenAI technologies present significant risks related to academic integrity, intellectual
+        property, data privacy, and compliance with federal and state law; and
+
+    C.​ WHEREAS, PPS has a responsibility to protect personally identifiable student data, employee data,
+        and other confidential information; and
+
+    D.​ WHEREAS, the Board finds that a deliberate and transparent review process is necessary before the
+        PPS expands use of GenAI technologies or enters into additional contractual commitments related to
+        such technologies.
+
+
+
+
+                                                   RESOLUTION:
+
+​
+For purposes of this Resolution, the following definitions apply:
+
+Generative AI: Artificial Intelligence systems, software, and tools that generate text, code, images, audio,
+video, or other content in response to prompts or other use input. Example: Lumi AI (students input text
+and the software creates images based on student text input).
+
+Agentic (non-generative) AI: Software and tools with Autonomous AI systems that do not just provide information,
+but can orchestrate multi-step actions and execute tasks on a user's behalf. Example: Synergy (uses information
+uploaded or entered into the software to create reports).
+
+The Board directs the Superintendent to:
+
+     1) ​ Pause the execution of any new contracts, contract amendments, subscriptions, pilot programs, software
+    licenses, or procurement actions primarily related to GenAI technologies;
+
+    2) ​ Pause the expansion of existing GenAI technology implementations beyond their current scope of work;
+
+    3) ​ Prepare an inventory of existing student-facing GenAI technology implementations for the Board.
+
+    4) ​ Work to amend all existing educational technology contracts and data-sharing agreements to prohibit
+    third-party vendors from collecting or sharing personally identifiable student data unless expressly required
+    by law.
+
+
+    5) ​ Provide, within 90 days of adoption of this Resolution, a comprehensive districtwide assessment of all AI
+        systems, contracts, expenditures, pilot programs, data-sharing agreements, risk mitigation measures, and
+        educational impacts; that includes, at a minimum:
+
+        a) ​ An inventory of all GenAI tools, platforms, software products, pilots, and services currently utilized
+             throughout PPS;
+        b) All associated contracts, costs, funding sources, and renewal dates;
+        c) A description of all student, employee, and PPS data shared with associated vendors;
+        d) Recommendations regarding future implementation, limitations, or expansion of GenAI
+        technologies within PPS.
+
+This pause shall not apply to cybersecurity, accessibility, or software maintenance functions that do not materially
+expand GenAI capabilities and/or are not student-interactive.
+
+Due to significant public interest, future GenAI-related contracts shall require Board authorization,
+regardless of the Board approval threshold.
+
+The Board affirms that decisions regarding PPS adoption of GenAI technologies should be made through
+a transparent public process that prioritizes student outcomes, data privacy, and educational
+effectiveness.
+

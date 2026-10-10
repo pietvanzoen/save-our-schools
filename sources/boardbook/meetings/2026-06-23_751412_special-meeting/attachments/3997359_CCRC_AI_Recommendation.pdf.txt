@@ -1,0 +1,74 @@
+Climate Crisis Response Committee
+PPS’s Climate Crisis Response Policy
+ Two Overarching Objectives:
+  1. Emissions Reduction: PPS will reduce its greenhouse gas emissions by 50
+     percent by 2030, using the 2018-2019 school year baseline, and reach net zero
+     emissions by 2040.
+
+ 1.   Engagement, Resilience, and Wellness: The District will take steps to prepare
+      schools for the effects of climate change, and will ensure staff and students learn
+      about and engage in climate solutions, climate resiliency, and climate justice
+      practices.
+
+ Three Pillars:
+ 1. Reduce Environmental Impact & Costs
+ 2. Improve Health and Wellness
+ 3. Provide Effective Environmental & Sustainability Education
+AI Draft Recommendations - General
+
+ In general, the CCRC is in favor of limiting AI use by PPS students and staff
+ as much as possible due to the negative environmental impact. The
+ committee suggests tracking, monitoring, and codifying district AI usage so we
+ can quantify environmental impact to facilitate this goal. This data should be
+ made publicly available for use in further climate impact projects.
+
+ “A single modern AI data center can use as much power as 100,000 homes;
+ many of the larger ones now being built are expected to consume up to 20
+ times that amount.” World Resources Institute
+AI Draft Recommendations - Environment
+                        Resource: OPB
+AI Draft Recommendations - Contracts
+ The committee also recommends increasing transparency about AI
+ environmental impact by adding language to technology contracts that
+ disclose the environmental impacts of AI and technology usage or provide
+ carbon offsets (Pillar 1 of CCRP).
+
+ AI environmental impacts fall under Scope 3 emissions because they are
+ supply chain emissions.
+
+ “Every kilowatt-hour used by AI carries carbon, water, and land implications
+ and these footprints do not always move in the same direction: low-carbon
+ electricity is not automatically low-water or low-land.” United Nations University
+ Institute for Water, Environment and Health
+AI Draft Recommendations - Education
+ The CCRC recommends requiring education in classrooms (Pillar 3 of CCRP)
+ to accompany any AI use about:
+  ● water use impact,
+  ● energy use impact,
+  ● climate impact,
+  ● resource extraction,
+  ● and impact on local and global communities
+
+ Oregon House Bill 3365 mandates that climate change and sustainability
+ standards be woven into the standard seven-year review cycle for the
+ following subjects: Science, Health, and Social Sciences. CCRC recommends
+ that education of AI impacts be added within the development of this
+ curriculum.
+AI Draft Recommendations - Engagement
+
+ The CCRC advocates for a designated group of community members and
+ stakeholders, including PPS students, staff, and board members, to create a
+ local consortium around AI for the benefit of the greater Portland community.
+
+ Additionally, we recommend formalizing the relationship between the
+ CCRC/PPS Climate Team and the AI Governance Committee, potentially
+ including a CCRC Representative on AI Governance Committee and/or an
+ annual joint meeting.
+Thank you!
+             The CCRC/PPS Climate Team thanks
+             the AI Governance Committee for your
+             commitment and contributions towards
+             making PPS a national climate
+             education leader!
+             Image Source: Green Schools National Network
+

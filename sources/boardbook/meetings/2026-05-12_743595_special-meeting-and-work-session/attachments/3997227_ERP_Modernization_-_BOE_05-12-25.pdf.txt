@@ -1,0 +1,109 @@
+ERP Modernization
+Program Review
+May 12 2026
+Executive Summary
+
+All program spending is bond funded (2020 and 2025)
+
+Program continues to be on track to scope and timeline
+
+Today’s discussion is about contracts
+
+ ●   Implementation SOW’s
+ ●   User licensing
+Program Objectives:
+Digital Transformation
+A tightly coordinated multi-year program to redesign how
+people, processes, and technology work together to            This operational change will be
+                                                           enabled by implementing a new ERP
+    streamline work and unlock better outcomes.
+                                                           platform that best serves PPS for the
+                                                                         long-term
+ The opportunity is to devote more time, resources,
+  and energy toward student learning and success.
+                                                            We do not currently have the tools -
+                                                           technology, processes, data - that are
+     The challenge is to build efficient workflows,        required to run a modern K-12 district
+   driven by meaningful data using modern tools,
+   that result in better decision-making across PPS.
+
+
+                                                                                                    3
+Scope of Impact:
+Business Functions    All elements of Finance and HR operations
+                     - 8,000+ system users
+                     - 1000’s of vendors & contractors
+                     - 100’s of reporting requirements
+                     - Dozens of dependent systems & partner teams
+                     - Multiple levels of change across the district
+Vendor Summary
+Function / Responsibility      Vendor                   Details                                                                     Contract Holder
+
+Program Management             Plante Moran             Responsible for scope, timeline, budget                                     Plante Moran
+
+
+Change Management              Percipio                 Responsible for the strategy, plan and execution that drives PPS staff      Percipio
+                                                        adoption of the new ways of working
+
+Business Process Design        Meridian + Accenture +   Partnering with PPS business leads, collaboratively build the processes     Meridian
+                               Workday                  that modernize PPS functional operations
+
+System Configuration & Test    Meridian + Accenture +   Based on the new business process designs, align the Workday platform       Meridian
+Cycles                         Workday                  to optimize for PPS’s usage, both short term and long term
+
+Post Deployment Support for    Meridian + Workday       Managed Service to ensure PPS has a stable platform for a full year after   Meridian
+12 months                                               go-live as well as best prepare us to support ourselves long term
+
+Workday User Licenses for 10   Meridian + Workday       PPS’s use of the Workday platform through the end of FY35-36                Meridian
+years
+Forecasted Contract Costs
+  Contract                                             Contract Holder    Final
+                                                                          Cost
+
+  ERP - Implementation SOW                             Meridian           $14.904M   Contracts ready for
+                                                                                         signature
+  Workday Order Form - 10 years of licenses            Meridian           $13.540M       $33.481M
+
+  Change Management SOW                                Percipio           $3.486M
+
+  Program Management SOW                               Plante Moran       $1.551M
+
+  EUNA Licenses (10 yrs)                               EUNA               $1.406M
+
+  EUNA Implementation SOW                              EUNA               $29K
+
+  DebtBook Licenses (10 yrs)                           DebtBook           $967K
+
+  DebtBook Implementation SOW                          DebtBook           $9K         Not To Exceed
+                                                                                       agreements
+  Application Mgmt Support (post deployment support)   Meridian           $525K         $2.936M
+
+                                                                  TOTAL   $36.417M
+                                                                                                                         *Deployment strategy
+                                                                                                                           & detailed timeline
+
+
+
+                                    Program Phases
+                                    & Tentative Dates
+June - September                October                 November ‘26 - September ‘27                    Oct ‘27 - Jan ‘28        Feb - April ‘28
+
+
+Business Process            Detailed                 Architect &                Test & Train            Deployment               Hypercare
+Alignment                   Planning *               Configure
+                                                                                Validate the solution   Prepare and execute      Provide intensive
+Aligns PPS’s operational    Establish deployment     Design and build the       through multiple        go-live(s), including    post-go-live
+processes with Workday      strategy, detailed       Workday solution based     testing cycles to       ﬁnal data validations,   support to stabilize
+standards, identify gaps,   timelines, governance,   on PPS requirements,       ensure accuracy,        training, and comms      the system, resolve
+and build consensus         and resource alignment   using best practices and   usability, and          to support a smooth      issues quickly, and
+before designing the        to ensure a structured   pre-built accelerators.    readiness for           transition.              ensure user
+Workday platform.           and disciplined                                     deployment.                                      adoption.
+                            program plan.
+
+                                          Program Management (led by Plante Moran)
+
+                                              Change Management (led by Percipio)
+Next Board Update
+
+    August
+

@@ -1,0 +1,46 @@
+                                           Overdue SBF Bank Reconciliation Action Table
+           Infraction Type           First Occurence                Second Occurrence                     Third Occurrence                    Fourth Occurrence
+                             *Reminder email will be sent to *Email will be sent to the            *Email will be sent to the Senior    *Finance goes to the school &
+                             the Admin Assistant/Bookkeeper. Principal and Admin                   Director, Principal and Admin        completes a Desk Audit on the
+          SBF Bank                                           Assistant/Bookkeeper.                 Assistant/Bookkeeper.                SBF Account
+          Reconciliation
+Tier I    turned in past                                      *Admin Assist/Bookkeeper will        *Admin Assistant/Bookkeeper
+          due date                                            need to complete the Pepper          will need to complete the Pepper
+                                                              SBF Bank Recon Refresher             SBF Bank Recon Refresher
+                                                              Training Course.                     Training Course.
+                             *Email will be sent to the       *Email will be sent to the Senior    *Finance goes to the school &
+          SBF Bank           Principal and Admin              Director, Principal and Admin        completes a Desk Audit on the
+          Reconciliation     Assistant/Bookkeeper.            Assistant/Bookkeeper.                SBF Account
+          turned in past
+Tier II   due date 2         *Admin Assist/Bookkeeper will    *Admin Assistant/Bookkeeper
+          months or more     need to complete the Pepper      will need to complete the Pepper
+          in a row           SBF Bank Recon Refresher         SBF Bank Recon Refresher
+                             Training Course.                 Training Course.
+
+
+
+TEMPORARY TABLE UNTIL PEPPER TRAININGS ARE CREATED.
+
+                                           Overdue SBF Bank Reconciliation Action Table
+           Infraction Type           First Occurence                Second Occurrence                     Third Occurrence                    Fourth Occurrence
+                             *Reminder email will be sent to *Email will be sent to the            *Email will be sent to the Senior    *Finance goes to the school &
+                             the Admin Assistant/Bookkeeper. Principal and Admin                   Director, Principal and Admin        completes a Desk Audit on the
+                                                             Assistant/Bookkeeper.                 Assistant/Bookkeeper.                SBF Account
+          SBF Bank
+          Reconciliation
+Tier I    turned in past
+                                                                                                   *Admin Assistant/Bookkeeper
+                                                                                                   will need to meet 1:1 with the SBF
+          due date
+                                                                                                   Coordinator for a re-training and
+                                                                                                   to come up with a plan of action.
+
+                             *Email will be sent to the       *Email will be sent to the Senior    *Finance goes to the school &
+          SBF Bank           Principal and Admin              Director, Principal and Admin        completes a Desk Audit on the
+          Reconciliation     Assistant/Bookkeeper.            Assistant/Bookkeeper.                SBF Account
+          turned in past
+Tier II   due date 2                                          *Admin Assistant/Bookkeeper
+          months or more                                      will need to meet 1:1 with the SBF
+          in a row                                            Coordinator for a re-training and
+                                                              to come up with a plan of action.
+

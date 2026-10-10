@@ -1,0 +1,187 @@
+AI in PPS
+Learning Target and Success Criteria
+
+
+ I am learning how PPS is using ODE guidance and national standards to create a
+ plan so that every student graduates with AI literacy skills they need to be
+ successful in the modern workforce.
+
+ I can list one way AI literacy is help our students meet the goals of the PPS
+ Graduate Portait.
+
+
+
+
+                                                                                  2
+PPS Portrait of a Graduate in a World with AI
+
+
+
+
+                                                3
+Essential Questions
+Systems                     Students
+
+How might we ensure human   How might we evolve our
+expertise thrives in an     instruction so that students
+AI-enabled classroom?       graduate with the AI literacy
+                            required for the modern
+                            workforce?
+
+
+
+
+                                                            4
+PPS Partners
+
+
+ PPS Partners:
+ ●   Education Research & Development Institute
+ ●   EDSafe AI Alliance Policy Lab
+ ●   Multnomah ESD & Clackamas ESD
+ ●   Portland Metro Area School Districts
+ ●   Chicago Public Schools
+ ●   NYC Public Schools
+  Fall 2025
+
+Spring 2026
+
+  Fall 2026
+  Fall 2025
+
+Spring 2026
+
+  Fall 2026
+AI Vision
+
+
+Portland Public Schools will leverage Artiﬁcial Intelligence (AI) as
+a transformative, ethical, and human-centered tool to accelerate
+student achievement, disrupt systemic inequities, and prepare
+every graduate for an AI-powered future. Our vision is to cultivate
+a teaching and learning community where AI ampliﬁes human
+potential and strengthens, but never replaces, the essential
+relationships at the heart of education.
+                                                                   9
+AI Guidebook
+
+
+
+
+Guidebook Links: Google Doc / PDF
+
+          Visit the PPS AI website
+                               AI Workgroups
+
+AI Planning Committee                AI Advisory Committee                     AI Explorers Club
+●   Meets bi-weekly                  ●   Meets quarterly                       ●   Meetings to start the second
+●   Build a common understanding,    ●   Recommending group on key                 semester; paused due to budget
+    identify key priorities, and         priorities, guiding principles, and       freeze after one meeting
+    develop a district roadmap for       actions                               ●   Testing, giving feedback, and
+    Artiﬁcial Intelligence           ●   Membership                                participating in professional
+●   Membership                            ○ Building Administrators,               learning
+     ○ Professional Learning, IT,              Educators, PEC Staff,           ●   Membership
+         PK- 5 Academics                       Professional Learning, IT             ○ Educators and District Staff
+AI Perceptions Survey Domains
+2025-2026
+
+
+      Students                Families                    Teachers                        Staff
+
+   Perception of AI       Knowledge of AI              Knowledge of AI              Knowledge of AI
+
+      AI Usage            Perception of AI             Perception of AI             Perception of AI
+
+                      AI Priorities: Foundations         AI Readiness                 AI Readiness
+
+                              AI Usage             AI Priorities: Foundations   AI Priorities: Foundations
+
+                      AI Priorities: Foundations           AI Usage                     AI Usage
+
+
+
+
+                                                                                                             12
+AI Perceptions Survey Free Response
+2025-2026
+
+          Students                           Families                             Teachers                               Staff
+
+How do you currently use AI for   How do you think AI can be most     How do you use AI in your work       How do you use AI in your work
+     your schoolwork?               helpful in K-12 education?        as an educator?                      as an educator?
+
+Overall, how knowledgeable are    What are the 1-2 most important     How would you like to use AI in      How would you like to use AI in
+          you about AI?           things your child's school should   your role as an educator in the      your role as an educator in the
+                                   focus on with regard to AI over    next year?                           next year?
+                                           the next year?
+
+What are your biggest concerns    What are your biggest concerns      What are the 1-2 most important      What are the 1-2 most important
+   about AI in education?          about AI in K-12 education?        things your school should focus      things your school should focus
+                                                                      on with regard to AI over the next   on with regard to AI over the next
+                                                                      year?                                year?
+
+                                    What would you like to learn      What would you like to learn         What would you like to learn
+                                  more about in regard to AI, as it   more about in regard to AI, as it    more about in regard to AI, as it
+                                   relates to your child's school?    related to education?                related to education?           13
+AI Perception Survey
+Stakeholder Participation
+
+            2025-2026                 Students    Families     Teachers     Staff
+   Two or More Races/Ethnicites       118 (13%)    211 (7%)     25 (6%      22 (9%)
+
+   White                              694 (74%)   2429 (81%)   379 (85%)   187 (77%)
+
+   Native Hawaiian/Pacific Islander    3 (<1%)     3 (<1%)      2 (<1%)     1 (<1%)
+
+   Hispanic or Latino                  27 (3%)     72 (2%)      13 (3%)     11(5%)
+
+   Black/African American              18 (2%)     43 (1%)      4 (1%)      4 (2%)
+
+   Asian                               39 (4%)     110 (4%)     9 (2%)      8 (3%)
+
+   Native American/Alaskan Native      5 (1%)      16 (1%)                  1 (<1%)
+
+   Other                               28 (3%)     122 (4%)     15 (3%)     8 (3%)
+
+                 Total                  955         3,006        487         271
+                                                                                       14
+    Student Survey Results
+    6th-12th Grade
+
+
+                                        Student AI Usage
+                                                                                                                  Student Perception of AI
+
+                                                                 Once
+                           Almost all    Most of                         Almost   I don’t
+                                                    Sometimes     in
+                            the time     the time                        Never     know                                                        % Helpful
+                                                                awhile
+
+How often do you use                                                                           Overall, how harmful or helpful is AI to your
+                              3%           7%         13%        20%      57%      0%
+        AI?                                                                                 academic success when your teachers ask you to       24%
+                                                                                                     use it for academic purposes?
+  How often do your
+                                                                                              Overall, how harmful or helpful is AI to your
+teachers tell you to use
+                              1%           3%         12%        22%      61%      1%       academic success when you use AI to help with        28%
+   AI for academic                                                                                         your schoolwork?
+      purposes?
+
+
+
+
+                                                                                                                                                           15
+Progress and Achievements
+● Mandatory Training: Will successfully add AI-speciﬁc slides (Vision, Non-Negotiables,
+  Data Stewardship) to the mandatory district InfoSec training.
+
+● Tool Governance: Identiﬁed Google Gemini as the primary supported platform while
+  exploring other resources for safer, ﬁltered student access.
+
+● Community Engagement: presented at “The Village Table” to involve parents and
+  families in the policy conversation, collaborated with the Climate Crisis Response
+  Committee, and engaged with students by conducting interviews about AI in the
+  district.
+
