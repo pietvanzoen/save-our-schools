@@ -1,0 +1,2549 @@
+Climate Literacy Education
+    Assessment Report
+        Summer, 2024
+                       Table of Contents
+Acknowledgements                                                                3
+Quotes from PPS Students                                                        5
+Executive Summary                                                               6
+History and Acknowledgments                                                     9
+Climate Literacy as it Relates to PPS’ Top Priorities			                        12
+Strengths, Assets, and Successes                                               15
+Curriculum Integration and Pedagogy                                            22
+     Insights                                                                  23
+     Opportunities                                                             28
+Community and Stakeholder Engagement                                           39
+     Insights                                                                  40
+     Opportunities                                                             42
+Resource Development and Accessibility                                         47
+     Insights                                                                  48
+     Opportunities                                                             49
+Possible Plan and Strategy for Three Key Leverage Points                       52
+Appendix                                                                       62
+  PPS Climate Crisis Response Policy                                           63
+  Climate Education Ecosystem in the U.S.                                      65
+  Positive Outliers within the GSNN Network                                    69
+  Core Practices of GSNN GreenPrint™                                           70
+
+
+
+
+                      GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 2
+Acknowledgments
+The Green Schools National Network (GSNN), a national non-profit organization
+working with districts and schools, offers holistic support and guidance for health,
+equity, and sustainability. GSNN uses its GreenPrint™ (Built upon four main impact
+systems: Leadership; Curriculum & Instruction, Culture & Climate; and Facilities &
+Operations) as a frame for educational excellence1.
+
+
+GSNN partners with the following schools and districts to further health, equity and
+sustainability across impact systems:
+
+    ◊ Boise Public Schools                                      ◊ Mundo Verde Schools
+    ◊ Boulder Valley School District                            ◊ Oak Park Union School District
+    ◊ Brooklyn Urban Garden School                              ◊ Pilgrim School
+    ◊ Carson City School District                               ◊ Portland Public Schools
+    ◊ Common Ground Urban Farm School                           ◊ Prairie Crossing Community School
+    ◊ Encinitas Union School District                           ◊ School of Environmental Studies
+    ◊ Fayette Public School District                            ◊ United Nations International School
+    ◊ Fayetteville Public Schools                               ◊ United World Colleges of Costa Rica
+    ◊ Laguna Beach Public Schools                               ◊ Vista Grade High School
+    ◊ Los Angeles County Office of Education                    ◊ Wayside Schools
+    ◊ Laguna Beach Public Schools
+
+GSNN and Portland Public Schools (PPS) have a strong mission alignment and
+collaborate on various fronts. This project has focused on supporting PPS to go
+further, farther, and faster with Climate Justice instruction and implementation.
+Aspects of this project have included interviewing stakeholders, meeting with
+PPS Climate Justice leaders, visiting school sites, participating in climate and
+sustainability-related events, and reviewing key documents and materials related
+to the pioneering work of PPS within the Climate Justice field. This scope was made
+possible due to a 2019 grant from Portland General Electric (PGE), the scope of which
+seeks to support PPS developing curriculum and resources to expand climate literacy
+in Portland and beyond.
+
+
+
+
+1
+    For a list of the 20 Core Practices of the GreenPrint™, please see Appendix.
+
+
+                                       GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 3
+The PPS Climate Crisis Response, Climate Justice, and Sustainable Practices
+Policy has three pillars. This report focuses on Pillar 3, which is to “Provide Effective
+Environmental and Sustainability Education,” and is broken down into three sub-
+goals:
+
+ ◊ Goal 3.1: PPS will empower staff as allies for a healthy climate.
+ ◊ Goal 3.2: With guidance from frontline students and communities, PPS will
+ ◊ develop curricular learning opportunities so PPS graduates know the causes
+   and consequences of climate change, understand climate justice2, and have
+   opportunities to practice climate solutions.
+ ◊ Goal 3.3: PPS staff will collaborate with students to create opportunities to
+ ◊ engage youth in hands-on climate learning, preparation, and practice on a
+   regular basis at all PPS schools.
+
+
+During our interviews, visits, and the writing of this report, we strived to use these
+goals as a lens for our insights and opportunities.
+
+
+The following reflections offer data and insight into GSNN experiences while
+considering the hopes and intentions of PPS leaders regarding Climate Justice
+integration. Content included in this document highlights key themes, strengths and
+assets, and insights and opportunities. In addition, notable quotes from individuals
+consulted were included. Lastly, GreenPrint™ core practices (of which 20) were
+offered as connecting points to ground the recommendations to PPS in industry best
+practices and support for this important work.
+
+
+The GSNN overview process took place between February - July 2024 under the
+leadership of Kat Davis, PPS - Advisor for Climate Justice.
+
+
+Associated GSNN team members involved include:
+
+ ◊ Cheney Munson, GSNN Strategy Coach
+   cmunson@greenschoolsnationalnetwork.org
+
+ ◊ David DenHartog, GSNN Manager of Academics, Partnerships, and Strategy
+   ddenhartog@greenschoolsnationalnetwork.org
+
+2
+  Climate justice refers to the idea that addressing climate change should be done in a way that recognizes
+and rectifies the unequal impacts on vulnerable communities. It emphasizes fairness, ensuring that those who
+contribute least to climate change, often marginalized groups, are not disproportionately affected and that
+solutions promote equity, human rights, and sustainability for all people. Subgoal 3.2.3 in the Climate Crisis
+Response Policy addresses this directly
+
+                                   GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 4
+Quotes from PPS Students
+
+  “I joined the green team because I feel like        “I think that, from a young age, being taught
+   it was a good way to get younger people                that you can actually do something to
+ involved with climate change a little more”.            combat climate change is invaluable. It’s
+               - Maximus, 7th Grade                    what helps people become global citizens.”
+                                                                        - J.J., Senior
+
+
+
+
+ “Because everyone has a stake in stopping
+ the climate crisis even if they don’t know it        “I think other people should take it seriously
+yet. That’s the reason that we are organizing         because even if they think it doesn’t affect
+      in local schools, and not just at our                     them, it affects everyone.”
+                  federal level.”                                   - Marshall, 7th Grade
+        - Adah Crandall, Grant High School
+                 Graduate, NPR
+
+
+                                                        “When you learn about climate change, it
+                                                       can be really scary and lead to anxiety… but
+ “I feel like a lot of the lessons that they teach    showing that people have made change can
+ us don’t really empower us to make change.           inspire us to create our own solutions instead
+It’s kind of just like lightly touching the surface    of having a sense of doom. We shouldn’t be
+  on climate change more on the effects, but           scared of it and want to avoid it. We should
+              not on what we can do.”                  work together, both with our peers and with
+              - Amanda, 11th Grade                    people older than us, to solve things together,
+                                                          which can also help with the anxiety.”
+                                                                      - Lulu, 11th Grade
+
+
+
+   “I have some family in parts where the
+hurricanes have been hitting. It’s really scary
+and a wakeup call for how many that we’ve               “We’re the future; we’re going to be the
+    had… we need to have some action.”                adults. Having even just a unit that really talks
+                                                       about climate change and climate justice
+                - Riley, 11th Grade
+                                                        would be really beneficial, especially for
+                                                             young people and young minds.”
+                                                                       - Ali, 11th Grade
+
+
+
+
+                                 GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 5
+Executive Summary
+Integrating climate justice education can enrich adopted curriculum by making it
+more relevant and place-based, which in turn boosts engagement, promotes equity,
+fosters a stronger sense of belonging, and enhances achievement in math, science,
+and literacy. (MacDonald, S. P. (2020), Springer (2023). Frontiers. (2020)
+
+
+Portland Public Schools has passed one of the most ambitious, comprehensive, and
+progressive climate justice education policies in the country. It’s done so in a state
+that has not yet mandated climate education, which creates unique opportunities
+and challenges. The district has developed pockets of excellence in climate
+knowledge and expertise, youth engagement, outdoor education, stakeholder
+collaboration, project-based learning, professional development, and resource
+development. From integrating climate justice themes across the Middle School
+Science Curriculum—covering energy, weather, climate, and ecology—to prioritizing
+youth engagement through initiatives like the Youth Climate Summit and Climate
+Solutions Fairs, the district has fostered environmental stewardship and action.
+Additionally, programs like outdoor education and the Innovation Studio Climate
+Justice Design Team exemplify stakeholder engagement and a systemic approach
+to providing a more equitable climate education. This report aims to identify ways to
+systematically highlight and build upon these successes, ensuring they are expanded
+and accessible across the district.
+
+
+Portland Public Schools has the opportunity to establish itself as a national and
+global leader in climate justice education. This report aims to provide a strategic
+roadmap to help actualize that vision.
+
+
+This report identifies 10 insights and 18 opportunities, all of which are interrelated and
+interdependent. Readers can approach this report as a menu of options, choosing
+where to focus resources, time, and energy to advance climate justice education in
+PPS. At the end of the report, we highlight and detail four high-leverage points that
+address multiple insights and opportunities simultaneously. These leverage points are:
+
+    1. The creation of a digital climate literacy and justice education resource hub,
+    2. The implementation of climate literacy and climate justice criteria for district-
+       wide curriculum adoption,
+
+
+
+
+                            GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 6
+    3. The collection and visualization of climate literacy, climate justice, and
+       sustainability data,
+    4. The infusion of climate literacy, climate justice education and sustainability into
+       existing structures, initiatives, and professional development
+
+
+Each of these leverage points is elaborated in detail at the conclusion of this report,
+offering strategic paths forward for maximizing impact.
+
+
+Below is an at-a-glance summary of the insights and opportunities elaborated on
+throughout the report:
+
+
+Insights
+◊ #1: Balancing Curriculum Fidelity with the Need for Climate Justice Education
+◊ #2: Limitations of Consistent Climate Education Across the District
+◊ #3: Empowering Students Through Hands-On Sustainability and Climate Action
+  Projects
+◊ #4: Clarifying Language and Terms
+◊ #5: Expanding Outdoor Education: A Pathway to Climate Justice and Community
+  Engagement
+◊ #6: Integrating Indigenous Knowledge for Climate Justice and Sustainability
+  Education
+◊ #7: Expanding Community Engagement for Broader Climate Justice Impact and
+  Resilience
+◊ #8: Trust Building Between District and School Building Staff
+◊ #9: Engaging the Early Majority: Bridging the Why of Climate Justice and
+  Education Priorities
+◊ #10: Addressing the Need for Accessible and Curated Climate Change and
+  Sustainability Resources in Education
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 7
+Opportunities
+
+◊ #1: Adoption Criteria for Climate         ◊ #11: Create a Digital Climate Solution
+  Justice Education Integration               Showcase
+◊ #2: Leverage Existing Structures and      ◊ #12: Expand the Spring 2025 PPS
+  Initiatives                                 Climate Justice Summit
+◊ #3: Collect Data on Climate               ◊ #13: Invest in Reciprocal Connections
+  Education                                   with BIPOC, Disabled, and Minority-
+◊ #4: Create a Climate Justice Scope          Led Organizations
+  and Sequence                              ◊ #14: Create and Disseminate
+◊ #5: Provide PD on the Solutionary           a Climate Justice Professional
+  Framework and/or 4PBL                       Development and Messaging Toolbox
+
+◊ #6: Implement Sustainability              ◊ #15: Continue to Engage Content
+  Performance Data Collection and             Experts and Community Members
+  Visualization Programs                    ◊ #16: Gather Data on Student and Staff
+◊ #7: Clearly Define Language for             Mindset
+  Sustainability, Climate Literacy, and     ◊ #17: Continue to Support and Expand
+  Climate Justice Education                   the School Sustainability Champions
+◊ #8: Expand Access to Climate                Network
+  Education Professional Development        ◊ #18: Provide Targeted Support and
+◊ #9: Create a Dynamic and                    Gather Feedback from Climate
+  Collaborative Digital Resource Hub          Justice and Environmental Science
+  to Support Climate Justice and              Teachers
+  Sustainability Education                  ◊ #19: Create a dynamic and
+◊ #10: Expand Access to Outdoor               collaborative digital resource hub
+  Education                                   to support climate justice and
+                                              sustainability education
+
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 8
+History and Acknowledgments
+In April 2016, teachers and community partners, presented a resolution to the
+Portland Public Schools (PPS) Board of Education’s Teaching and Learning
+Committee calling for the integration of climate literacy into the curriculum. The
+resolution emphasized the need for climate education across all grade levels,
+promoting solutions and causes of climate change in age-appropriate ways and
+providing professional development for educators. It also highlighted the importance
+of engaging local communities, especially those most affected by climate change,
+and preparing students for green job opportunities.
+
+
+In May 2016, the PPS Board of Education adopted Resolution No. 5272, committing
+to climate justice and climate change education. This resolution directed the
+Superintendent to work with students, teachers, and community members to develop
+an implementation plan to advance climate literacy, including reviewing textbooks
+for accuracy and eliminating those that downplayed the severity of the crisis. The
+Superintendent supported a teacher and community-led Climate Justice Committee
+to lead this process.
+
+
+Educators like Tim Swinehart and Bill Bigelow, co-authors of A People’s Curriculum for
+the Earth, played a vital role in the Climate Justice Committee, leading workshops
+for teachers and working toward an assessment to review and remove outdated
+textbooks. Community organizations, including 350PDX, were instrumental in
+mobilizing public support. Their collective efforts helped position PPS as a leader
+in climate justice and education. However, during this time frame, PPS leadership
+moved towards a more centralized distribution of education and resources, and by
+2019 the administration chose to hire a Climate Justice Program Coordinator under
+the Office of Teaching and Learning to advance the Climate Literacy Resolution
+with central office administrators to advance curriculum adoption processes and
+professional development. While this choice for direct systemic integration and
+funding serves as a signal of the success of the community’s push to advance climate
+literacy as a PPS priority, the trade off was a divestment of funding and support for
+the community-driven Climate Justice Committee that led this movement, leading
+to educators and community members feeling frustrated and sidelined.
+
+
+In 2019, PGE provided a grant to fund open source, teacher-created climate literacy
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 9
+curricula at PPS to serve as a tool for all Oregon educators. However, in 2020 the
+Covid-19 pandemic led to a full resource mobilization to support the basic needs
+and learning of students. Despite the pandemic, the Climate Justice Program
+Coordinator was able to successfully launch a virtual climate justice curriculum camp
+in the summer of 2020 to develop student and teacher co-created Climate Justice
+High School Elective. The elective launched in Fall 2020.
+
+
+While these support for Climate Literacy Resolution continued to grow within the
+central administration of teaching and learning, the work taking place became
+less publicly visible. The withdrawal of funding and respect for the Climate Justice
+Committee’s efforts deeply frustrated the teachers and advocates who had laid
+the groundwork for climate literacy in PPS. Teachers, community members, students,
+and parents came together to develop a draft policy, a mechanism with more
+accountability than a resolution, that committed PPS not only to climate literacy,
+but to mobilize a response to the climate crisis as a whole, centering climate justice.
+Students led walkouts, community partners testified at Board meetings, and the
+community came together to collaborate with the Board of Education and PPS staff
+to negotiate an ambitious climate policy.
+
+
+In March 2022, the PPS Board of Education unanimously passed the Climate Crisis
+Response, Climate Justice, and Sustainable Practices Policy. This marked a major
+milestone after years of advocacy from students, educators, and activists. Key figures
+like Danny Cage and Jackson Weinberg rallied support for climate justice education,
+with students leading the charge for bold action. The policy, which aims for net-zero
+emissions by 2040, commits to 100% clean electricity in new buildings and retrofitting
+existing ones, rejecting false solutions like renewable natural gas.
+
+
+The policy’s passage in 2022 sparked systemic change. Superintendent Gureeroro
+hired an Advisor for Climate Justice positioned to report to the Chief of Staff to
+advise senior leadership on systems-wide strategic implementation of the Policy
+goals and values. Work to pilot successful climate literacy education at PPS
+launched with professional development opportunities for teachers that centered
+on teaching with a climate justice lens, Climate Justice Youth Summits seeking to
+connect students across the district on tangible, inspirational pathways for change,
+and a comprehensive assessment effort to identify strengths and opportunities for
+growth. While the systems-wide implementation took off with research, planning
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 10
+and engagement to set up
+the district with a strong
+foundation from which
+to grow cohesive and
+impactful projects and
+programs to advance the
+policy goals, the tangible
+impact at the site level
+of this work has been
+slower to emerge, leading
+to frustration among
+early advocates who felt
+sidelined. The pilots may
+have feel meaningful and
+impactful for those in attendance, but they still only reached a small percentage
+of teachers and students. Thus, a parallel movement has taken place at PPS where
+district-wide systems are becoming more emboldened to lift policy goals and values,
+while certain site-based signs of success may feel harder to pinpoint, or may be felt
+inequitably as some sites excel at providing climate literacy learning opportunities
+and others lack support. This leads to a nuanced and complex perspective on the
+success of climate literacy education implementation at PPS, where some may feel
+like PPS has made significant strides, and others may critique that not enough has
+happened, or worse, that the district has abandoned the effort all together.
+
+
+However, students remain highly engaged, with movements like the Green New Deal
+for Schools advocating for comprehensive climate justice education in classrooms.
+And teachers, whether they are inspired by opportunity or exhausted by lack of
+movement on climate action, continue to show up for collaborative efforts, climate
+justice professional development opportunities, and most of all, to support their
+students who are trying to navigate growing up in a climate-changed world. This
+report seeks to acknowledge this complex history, to recognize and honor those
+who have helped position PPS as a leader in climate justice education, and show the
+opportunities and strengths for furthering this important work both in district-wide
+development and in school site-level support.
+
+
+
+
+                             GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 11
+Climate Justice as it Relates to PPS Top Priorities
+Dr. Kimberley Armstrong has three major initiatives that are naturally aligned with the
+district’s climate justice education efforts: Building Trust and Relationships Across our
+City, Advance Literacy, and Strengthen Safe, Supportive Schools3.
+
+
+The arrival of a new superintendent at Portland Public Schools (PPS) presents a
+timely opportunity to rebuild trust among staff, students, and community activists
+who have long advocated for climate justice education. The superintendent’s focus
+on “Reestablishing Trust” can be a key step toward repairing these relationships by
+acknowledging past missteps and engaging those early adopters in the renewed
+climate literacy initiative. Involving these educators in decision-making processes,
+promoting transparency, and fostering open communication are crucial for restoring
+trust and ensuring climate justice education is meaningfully integrated across the
+district.
+
+
+
+
+3
+    Full Interview with new Portland Public Schools Superintendent Dr. Kimberlee Armstrong
+4
+ New Portland Public Schools Superintendent Kimberlee Armstrong shares priorities for school year, cellphones on
+campus and other issues
+
+
+
+                                    GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 12
+In terms of “Advance Literacy,” climate literacy is a strong vehicle for fostering student
+engagement and improving literacy skills across reading, writing, speaking, and
+listening. By embedding climate-related, place-based learning into the curriculum,
+students gain a stronger connection to their work, which can lead to increased
+motivation and comprehension. The interdisciplinary nature of climate literacy offers
+opportunities for project-based learning, enabling students to build background
+knowledge and vocabulary in contextually relevant ways. As students engage with
+complex climate issues, they are not only developing literacy skills but also learning to
+think critically and become problem-solvers, preparing them for both academic and
+real-world challenges. This can be achieved by expanding existing teacher training
+opportunities and creating a digital resource and showcase hub, as outlined later in
+this report.
+
+
+The “Strengthen Safe, Supportive tSchools” initiative aligns with the goals of climate
+justice education. PPS can continue to transform its schools into living laboratories
+where students and teachers collaborate on projects that enhance the physical
+environment. By involving students in efforts to improve air quality, reduce waste,
+and create greener, more sustainable spaces, they are empowered to contribute to
+tangible changes in their communities. These efforts not only align with the district’s
+Climate Crisis Response Policy, which addresses the impacts of climate change on
+health and wellness, but also offer students hands-on opportunities to practice
+the climate solutions they learn about in the classroom. These initiatives will foster
+healthier learning environments and contribute to the overall physical and mental
+well-being of students and staff. By implementing a sustainability data dashboard
+more accessible for each school, the district can make sustainability performance
+more visible and accessible to both teachers and students, creating opportunities
+for them to become active changemakers in their schools. This can lead to positive
+mental health benefits, as well as improvements in physical well-being and safety.
+
+
+At the heart of these three initiatives—building trust, advancing literacy, and
+strengthening schools—is the mental and physical well-being of students and
+staff, especially in the face of eco-anxiety. Eco-anxiety, which many young people
+experience as they grapple with fears about the future of the planet, makes
+it difficult for them to envision a hopeful and achievable future. As educators,
+it is our responsibility to foster what some experts call critical hope: the ability
+to acknowledge the challenging realities of our current climate crisis while still
+empowering students to work towards a positive future. The work of climate literacy
+
+
+                            GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 13
+directly addresses this by offering students opportunities to collaborate on local,
+place-based solutions, allowing them to take tangible actions in their communities.
+
+
+Through project-based learning, outdoor education, and solutionary thinking,
+students not only develop essential academic and problem-solving skills but also
+cultivate a sense of efficacy and agency. This pairing of strong curriculum with the
+greening of physical spaces creates resilient schools that are better equipped to
+face climate disruptions and extreme weather, while simultaneously supporting the
+physical and mental well-being of students. The fact that all of this is grounded in
+PPS’s Climate Crisis Response Policy is a significant step forward, and the following
+sections of this report will outline the insights and opportunities to fully implement
+this policy and its supporting initiatives.
+
+
+
+
+                            GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 14
+Strengths, Assets
+ and Successes
+
+
+
+
+   GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 15
+First Annual PPS Innovation Summit
+The First Annual PPS Innovation Summit gathered students, staff, board members,
+and community organizations to explore strategies for systemic change through the
+theme of Productive Disruption. Trenelle Doyle, Founder of Go Girl Ride, described
+this as disrupting the status quo with intention and impact, while Bryan Lee Jr. of
+Colloqate Design emphasized reshaping not just physical spaces but also cultural
+and social narratives toward justice. The summit prioritized voices with lived
+experiences of oppression, centering equity through panels, student speeches, and a
+keynote. The PPS Innovation Studio is now tasked with empowering the community to
+implement these creative, impactful changes.
+
+
+Student Climate Action Design Team
+In Spring 2024, the Student Climate Action
+Design Team launched, composed of
+students, educators, community climate
+organizations, and staff working to develop
+pathways that empower students to take
+meaningful climate action within Portland
+Public Schools (PPS). In collaboration with the
+PPS Innovation Studio, the team employs the
+Innovation Equity Design Process, integrating
+design thinking with racial equity and social
+justice. Despite challenges, especially for
+historically underrepresented students, the
+team is focused on creating accessible,
+diverse pathways for all students to engage
+in climate action, particularly those most
+affected by climate change.
+
+
+School Sustainability
+Champions Network
+In Fall 2023, PPS launched the School
+Sustainability Champions Network, a group
+of teachers and staff who meet monthly to
+discuss climate-related initiatives across
+the district. The Champions have led
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 16
+impactful events, programs, and climate art projects at various schools, while also
+sharing ideas, resources, and solutions to common challenges. Serving as a vital
+communication link, they help spread information about climate programs, events,
+and opportunities for student and teacher involvement, fostering collaboration and
+inspiration throughout PPS.
+
+
+Climate Solutions Fairs
+For the last four years, PPS has partnered with SAGE (Seniors Advocates for
+Generational Equity) to host Climate Solutions Fairs at middle schools in PPS. In
+Spring 2024, SAGE hosted fairs at Roseway Heights Middle School and Harriet
+Tubman Middle School. These fairs provided students with the opportunity to learn
+about local organizations and sustainability practices aimed at mitigating climate
+change and building community resilience in the Portland area.
+
+
+Second Annual PPS Student Climate Summit
+In May 2024, more than 100 students from seven PPS high schools gathered at the
+Redd Building on Salmon Street for the Second Annual PPS Spring Climate Summit.
+The event, themed Seeds of Change, aimed to inspire student leaders and connect
+them with community organizations to support climate action in their schools.
+Students learned practical skills for managing climate projects with a focus on
+impact and equity.
+
+
+Keynote speakers included Oregon Representative Khanh Pham, climate author
+Elizabeth Doerr, staff from the Portland Clean Energy Fund (PCEF), Kat Davis (PPS
+Advisor for Climate Justice), and student leaders from the Climate Justice Youth
+Advisory. The Seeds of Change theme will continue into the next school year, as PCEF
+begins financially supporting student-led climate action projects across the city,
+fostering further collaboration between students, community organizations, and
+district staff.
+
+
+Climate and Sustainability Initiatives in PPS High Schools
+High schools across Portland Public Schools (PPS) have taken significant strides
+in climate action and sustainability, driven by student leadership and community
+engagement. These types of initiatives should be shared, scaled and replicated as
+PPS builds capacity.
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 17
+At Grant High School, students in the Green Club made PPS history by launching
+the district’s first high school front-of-house food scrap collection program on
+March 4th, 2024. While PPS kitchens have long managed back-of-house food waste,
+creating a system for students to participate in food scrap collection in the cafeteria
+proved challenging. Green Club students worked diligently with administrators,
+secured volunteer hours for monitoring, ordered bins, and created informational
+signage. Their persistence led to a successful launch after receiving staff approval,
+marking a milestone for sustainability initiatives in the district.
+
+
+Ahead of Earth Day, Alliance High School hosted a guided tree walk led by Jim
+Gersbach, showcasing a Learning Landscape developed in partnership with the
+Concordia Tree Team and Portland Parks & Recreation Urban Forestry. This landscape
+features around three dozen tree species, including deciduous and evergreen oaks, as
+well as relict species. A highlight of the event was the chance to see a living specimen
+of Oregon’s official state fossil, deepening participants’ connection to the region’s
+natural history.
+
+
+Earth Day celebrations at various PPS high schools further exemplify the
+commitment to environmental stewardship. Franklin High School hosted a campus
+                                             cleanup, while Grant High School’s
+                                             Climate Justice Club organized a cornhole
+                                             tournament and distributed Earth Day
+                                             buttons to raise awareness. McDaniel High
+                                             School’s Naturalists Club participated
+                                             in the Roseway Neighborhood Earth
+                                             Day Celebration with an informative
+                                             tabling event. At Roosevelt High School,
+                                             Environmental Science and Leadership
+                                             classes collaborated to create an Earth
+                                             Day carnival, where students engaged
+                                             in climate change activities and signed
+                                             a climate pledge in exchange for frozen
+                                             yogurt.
+
+
+                                             The Climate Justice Youth Advisory
+
+
+
+                            GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 18
+(CJYA), composed of passionate high school students from across PPS, plays a
+critical role in shaping the district’s climate action agenda. CJYA members were
+instrumental in organizing the Spring Climate Summit, providing input on event
+themes, speakers, and tabling organizations, thereby amplifying student voices in
+climate justice work.
+
+
+In February 2024, several high school students from Benson, Franklin, Grant, and
+McDaniel traveled to Salem for a day of legislative advocacy. They participated in
+a floor session at the House of Representatives, learned about the legislative process,
+and met with state representatives to advocate for public education and youth
+empowerment, including bills supporting summer learning programs, youth advisory
+councils, and expanded school-based health care services.
+
+
+Middle School Front-of-House Food Scrap Programs
+Front-of-house (FOH) food scrap programs in PPS middle schools have laid a strong
+foundation for sustainability efforts across the district. Beverly Cleary Middle School
+has set a notable example, where students actively participate in FOH composting
+by assisting custodians in sorting food scraps. This hands-on involvement has
+fostered environmental stewardship and built awareness among students. While
+Grant High School recently became the district’s first high school to implement a
+similar program, several elementary and middle schools had already embraced FOH
+composting prior to 2020.
+
+
+Climate and Sustainability
+Initiatives in PPS
+Elementary Schools
+As a result of key community
+partnerships, elementary schools
+in Portland Public Schools (PPS)
+are leading the way in climate
+action through hands-on projects,
+community engagement, and
+sustainability-focused events.
+
+
+Eco-School Network coordinates
+volunteers at elementary schools
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 19
+across Portland, engaging thousands of students in hands-on learning about gardens,
+alternative transportation, waste diversion, environmental stewardship and more.
+
+
+At Rose City Park Elementary, a partnership with Grow Portland, Full Cellar Farm,
+and Wild Roots Farm launched a new food waste sorting program. This initiative
+kicked off with a fun-filled day where students and community members taste-tested
+root vegetables, promoting sustainable food practices and reducing waste.
+
+
+Peninsula Elementary hosted a large-scale Earth Day event that involved
+                                               over 150 students, families, and
+                                               volunteers. Participants cleaned
+                                               up the neighborhood, moved soil,
+                                               planted an edible garden, and
+                                               removed invasive species. The effort
+                                               resulted in 1,600 pounds of litter and
+                                               yard waste being cleared from the
+                                               area, contributing to the school’s
+                                               environmental and outdoor learning
+                                               spaces. This project was supported
+                                               by community partners Depave and
+                                               SOLVE, highlighting the power of
+                                               collaboration.
+
+
+                                               At Buckman Elementary, Earth Day
+was celebrated with an Earth-Day cleanup event followed by a silent disco, co-
+hosted by SOLVE and Heartbeat Silent Disco, combining environmental stewardship
+with fun, community-building activities.
+
+
+Bridger Creative Science School marked Earth Day 2024 with a Sunday afternoon
+of community stewardship, where families participated in clothing swaps, made
+upcycled planters and bird feeders, and spread mulch in the school’s Rain Garden. The
+event also served as an opportunity to envision a revamped garden education space
+and additional outdoor learning areas.
+
+
+At Woodstock Elementary, the school community celebrated the installation
+of a Peace Pole and Peace Garden with a special Earth Day ceremony. The
+Peace Pole, which displays the message “May Peace Prevail on Earth” in multiple
+
+
+
+                         GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 20
+languages, symbolizes the school’s commitment to peace, sustainability, and global
+understanding. This initiative, led by Principal Johnson and Mr. Hunter’s class, adds a
+meaningful cultural and environmental element to the school garden.
+
+
+Fourth-grade students from Scott Elementary recently visited two local farms
+to explore unique food production practices. At Live Local Organic, they learned
+about sustainable farming through a combination of aquaculture and hydroponics.
+At Black Futures Farm, a community-focused organization led by Black-identified
+and African Diasporic individuals, students experienced how food production fosters
+social connections and cultural resilience. This field trip highlighted the importance of
+sustainability, community, and local food systems in the students’ education.
+
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 21
+Curriculum Integration
+and Pedagogy: Insights
+
+
+
+
+            GREEN SCHOOLS NATIONAL NETWORK | 22
+Insight #1: Balancing
+Curriculum Fidelity with the
+Need for Climate Justice
+Education
+
+GreenPrint Core Practice #6: Schools
+plan strategically for curriculum and
+instruction that promote health, equity,
+and sustainability
+
+
+Because the PPS commitment to a
+climate justice curriculum is ahead
+of the curve for school districts, the
+curriculum that the district adopts from
+nation-wide sources may not make
+the connections about the inequitable
+human-environmental impact of climate
+change, or offer resources for teaching
+the climate-related curricula that
+attend to students’ mental health that
+the district’s policy demands. There is a
+noticeable tension between adhering
+strictly to the adopted curriculum in most subject areas and the desire to integrate
+climate justice education. This tension is felt even in science classes, where climate
+change is explicitly included in the standards, but questions remain about whether,
+how, and to what extent climate justice should be taught. In interviews, Many
+educators expressed feeling constrained by standardized content requirements and
+fear deviating from the prescribed curriculum. Educators sometimes incorporate
+climate justice “under the radar” for fear of district reprimand or retaliation. This may
+limit opportunities to engage students in deeper discussions about the systemic
+causes of climate change, environmental racism, and social inequities. At the same
+time, there is a growing recognition that climate justice education is essential to
+preparing students for the complex environmental and social challenges they will
+face. To address this, there is a need for clearer guidance and resources on how to
+weave climate justice seamlessly into existing curricula without compromising fidelity,
+empowering teachers to explore these critical issues confidently and effectively..
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 23
+Insight #2: Limitations of C onsistent Climate Education Across
+the District
+
+GreenPrint Core Practice #10: Curriculum and instruction leaders build a
+comprehensive and coherent system of assessment that measures sustainability
+literacy
+
+
+Based on student anecdotes, when climate change is taught, it is typically brief and
+limited to the basics—causes and effects—with little discussion of solutions, justice,
+or actionable steps. Most said that any mention of climate change was in science
+class, and a few students said there wasn’t much difference in the content of climate
+change instruction, even at different grade levels. According to some students, this
+approach sometimes left them feeling disempowered and uninspired, missing the
+opportunity to engage them in meaningful discussions about their role in addressing
+climate challenges and advocating for equity.
+
+
+Insight #3: Empowering Students
+Through Hands-On
+Sustainability Projects
+
+GreenPrint Core Practice #9: Schools use
+instructional practices that include phenomena,
+place, project, and problem-based learning
+
+
+The facilities department at Portland
+Public Schools (PPS) has a small, dedicated
+sustainability team making significant strides
+in reducing the ecological footprint of school
+buildings despite being stretched thin by their
+heavy workload of maintenance and retrofitting.
+While they currently lack the capacity and
+expertise to engage directly with students and
+teachers, they can bridge this gap by involving
+students in sustainability efforts. With the guidance of the School Sustainability
+Champions Network, facilitated by the Climate Resilience Program Manager, Ari
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 24
+Ettinger, community partnership organizations, students can actively participate
+in initiatives to lower the ecological footprint of their buildings and campuses. This
+approach becomes especially powerful when sustainability data—such as energy
+use, water conservation, and waste reduction metrics—is accessible and transparent.
+By turning these authentic examples into classroom projects, students can learn
+hands-on how to analyze and act on sustainability challenges, creating a more
+integrated and impactful educational experience .
+
+
+Insight #4: Clarifying Language and Terms
+
+GreenPrint Core Practice #7: Schools create the conditions for leaders, teachers,
+and students to plan and implement high-quality curriculum
+
+
+                                              During our visit, we noticed some
+                                              confusion and even tension in the
+                                              language used to describe the goals of
+                                              the climate crisis response policy. There
+                                              seemed to be a discrepancy between
+                                              the terms ‘sustainability,’ ‘climate change,’
+                                              ‘climate justice,’ and ‘environmental
+                                              justice.’ Some stakeholders used these
+                                              terms interchangeably, while others
+                                              strongly preferred focusing on one over
+                                              the other. Sustainability often focuses
+                                              on clean air, clean water, conservation,
+                                              and technical solutions, emphasizing
+                                              individual consumer actions. ‘Climate
+                                              change’ typically centers on the causes
+                                              and effects of global warming, often
+                                              focusing primarily on the scientific
+                                              understanding of these phenomena. In
+contrast, climate justice addresses the root causes of climate change, such as fossil
+fuel dependency, industrialization, capitalism, economic growth at the expense of
+people, colonial and historical injustices, inequality and poverty, political inaction,
+overconsumption, agricultural practices, and environmental racism.
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 25
+‘Environmental justice’ emphasizes
+the fair treatment and meaningful
+involvement of all people in
+environmental policy decisions
+regardless of race, income,
+or background. It addresses
+the disproportionate impact
+of environmental hazards on
+marginalized communities,
+highlighting the need for equitable
+solutions that protect the most
+vulnerable populations from
+pollution, unsafe living conditions,
+and the effects of climate change.
+
+
+In addition, there is some confusion
+with the phrase “School Climate,”
+which is about a school’s general
+culture and atmosphere but has
+little to do with the four terms above.
+
+
+Insight #5: Expanding Outdoor Education: A Pathway to
+Climate Justice and Community Engagement
+
+GreenPrint Core Practice #12: Schools promote healthy relationships between
+peers, adults, the local community, and the natural world
+Interviews and observations have revealed a noticeable pattern of limited outdoor
+education opportunities across the district, with only a few elementary schools
+offering such experiences. For instance, schools with dedicated gardens, particularly
+Sunnyside Elementary, stand out as exceptions where outdoor education is thriving.
+At Sunnyside, students engage in garden activities and walk field trips to gather
+data and work on projects that enhance their neighborhood beyond the school
+grounds. Replicating this model across the district could significantly benefit students
+and teachers, fostering hands-on learning, strengthening community connections,
+improving mental health, and advancing climate justice and sustainability goals.
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 26
+Expanding these opportunities would empower more students to experience
+and understand their local environments, encouraging a deeper commitment to
+sustainable practices and environmental stewardship. Some schools with gardens
+have limited capacity because the upkeep often depends on parent volunteers.
+Notably, Sunnyside Elementary has a full-time garden coordinator, funded through
+PTA-raised money.
+
+
+Insight#6: Integrating Indigenous Knowledge for Climate
+Justice and Sustainability Education
+
+GreenPrint Core Practice #8: Schools use an integrated approach to curriculum
+design that reflects the interdisciplinary nature of understanding the world around us.
+
+
+Indigenous Traditional Ecological Knowledge (ITEK) refers to the cumulative,
+holistic understanding of the environment developed by Indigenous peoples over
+generations. Rooted in deep relationships with the land, water, plants, and animals,
+ITEK encompasses practices, beliefs, and wisdom passed down through oral
+traditions, ceremonies, and lived experiences. It emphasizes balance, reciprocity,
+and stewardship of the natural world. ITEK is vital to climate justice as it highlights
+the importance of Indigenous leadership in addressing environmental challenges.
+Indigenous communities, often on the frontlines of climate change, use their
+knowledge to protect ecosystems and advocate for sustainable practices that
+counter the environmental harm caused by industrialization, colonialism, and
+extractive economies. By embracing ITEK, we move away from a narrative of
+separation between humans and nature, toward one of interconnection and
+reciprocity, where humans are seen as integral to, rather than separate from, the
+natural world. This shift is essential for creating equitable, sustainable climate
+solutions.
+
+
+Oregon State partnered with local Indigenous tribes to co-develop the Tribal History,
+Shared History curriculum to honor Oregon’s Indigenous communities and ensure
+students receive a more accurate, inclusive education. This collaboration involved
+working closely with tribal leaders, educators, and historians to incorporate authentic
+Indigenous perspectives, knowledge, and histories into the curriculum. By centering
+the voices of the tribes, the curriculum reflects the rich cultural heritage and ongoing
+contributions of Indigenous peoples in Oregon while also addressing the lasting
+impacts of colonization and historical injustices.
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 27
+Curriculum Integration
+   and Pedagogy:
+    Opportunities
+
+
+
+
+      GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 28
+Opportunity #1: Adoption Criteria for Climate Justice
+Education Integration
+
+GreenPrint Core Practice #6:
+Schools plan strategically for
+curriculum and instruction that
+promote health, equity, and
+sustainability.
+
+
+Portland Public Schools’ curriculum
+adoption process consists of four key
+steps:
+
+1. Define: In this initial phase,
+   adoption leads develop a
+   project plan, engage committee
+   members, conduct an internal
+   program evaluation, and establish the adoption scope. They also create a best
+   practices paper and a materials evaluation matrix.
+
+2. Select: In this phase, the adoption committee reviews publisher programs based
+   on priorities set in the Define phase. The committee narrows down options using
+   guiding questions and a standards trace to determine which programs should
+   move forward in the adoption process.
+
+3. Implement: This step focuses on rolling out the selected instructional resources
+   to teachers and students. It includes professional development, support for
+   instructional pedagogy, and ongoing training throughout the school year, as well
+   as for new teachers or those changing subjects or grade levels.
+
+4. Evaluate: Evaluation occurs throughout all phases, focusing on both the
+   effectiveness of the instructional resources and whether they meet student needs.
+   Both quantitative and qualitative data are collected to inform this ongoing
+   assessment.
+
+
+Develop and implement adoption criteria that mandate the integration of climate
+literacy and justice education. If the current curriculum does not meet these criteria,
+adopt supplemental resources and materials to fill the gaps. More details for this
+approach are elaborate in the Leverager Points section at the end of this report.
+
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 29
+Opportunity #2: Leverage Existing Structures and Initiatives
+
+GreenPrint Core Practice #7: Schools create the conditions for leaders, teachers,
+and students to plan and implement high-quality curriculum and instruction for
+health, equity, and sustainability.
+
+
+Utilize current programs that align with climate justice education, such as Social
+Emotional Learning (SEL), Tribal History/Shared History, Career Technical Education
+courses and the Middle School Redesign. These initiatives lend themselves to the
+infusion of climate literacy.
+
+Middle School Redesign
+Portland Public Schools identified 18 initiatives across five themes—Integrated
+Adolescent Supports, Inclusive and Differentiated Teaching and Learning, Embracing
+Change, Racial Equity and Social Justice, and Professional Excellence and Support—
+aimed at transforming outcomes for middle-grade students. These initiatives are
+designed to support adolescent learners and improve the school experience for all
+6th-8th graders. Each year, the district will prioritize and deeply support two to three
+of these initiatives.
+
+SEL in Elementary School
+Social and Emotional Learning (SEL) is a
+process that helps individuals, both young
+and old, acquire the knowledge, skills,
+and attitudes necessary to understand
+themselves, connect with others, achieve
+goals, and support their communities.
+The CASEL framework outlines five
+core competencies essential for SEL:
+self-awareness, self-management,
+social awareness, relationship skills, and
+responsible decision-making. These
+competencies help individuals manage
+emotions, empathize with others, build
+meaningful relationships, and make
+thoughtful choices. SEL development
+occurs throughout life and is influenced
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 30
+by supportive environments, including
+classrooms, families, and communities.
+By integrating SEL into educational and
+social settings, we can foster inclusive,
+engaging, and supportive learning
+spaces that prepare young people to
+contribute positively to society.
+
+
+Other schools and districts have used SEL
+as a framework for integrating climate
+literacy in a developmentally appropriate
+way, especially in elementary schools.
+Responsible decision-making, one of
+the core SEL competencies, naturally
+aligns with the principles of doing the
+most good and least harm for people,
+the planet, and animals. By encouraging
+students to consider the broader
+impact of their choices, teachers can
+weave in concepts of sustainability and
+environmental stewardship without directly mentioning terms like climate change or
+global warming. Relationship skills, another key SEL component, can be developed as
+students collaborate on projects aimed at improving their schools and communities,
+such as making them cleaner, safer, and greener. These hands-on efforts foster a
+sense of self-efficacy and confidence in young people, empowering them to take
+action. There are many academic and transdisciplinary connections that can be
+made with this project-based learning approach that can tie SEL together with
+academic skills and sustainability. By incorporating Traditional Ecological Knowledge
+(TEK) and biophilia—the innate human connection to nature—teachers can enhance
+SEL while fostering a love and respect for the environment. Since SEL is often a
+district-wide initiative, it serves as a powerful leverage point for embedding climate
+literacy into everyday learning, laying the groundwork for a more sustainable future.
+
+Career Technical Education (CTE) and other Workforce Pathways
+The rise of green jobs in the U.S. is reshaping the workforce, expanding beyond
+traditional sectors like solar and wind energy to include industries such as
+construction, medicine, architecture, and even finance. As companies increasingly
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 31
+                                                        prioritize sustainability due
+                                                        to customer and shareholder
+                                                        demands, the need for workers
+                                                        with green skills has grown. In
+                                                        2022, over 410,000 job postings
+                                                        were for “core green” roles,
+                                                        and it’s expected that the
+                                                        demand for these positions
+                                                        will grow by 5.5% over the next
+                                                        five years. Beyond these core
+                                                        green jobs, there’s a significant
+                                                        demand for “green-enabled”
+                                                        jobs in non-traditional fields
+                                                        that require at least one green
+                                                        competency. With over 51.6
+                                                        million workers who could
+                                                        potentially be reskilled for
+                                                        these positions, the green
+                                                        economy presents enormous
+opportunities for workforce transformation. Upskilling programs and green job
+initiatives are vital to meeting the needs of this expanding sector, allowing workers
+to transition into roles that can drive sustainability and climate action across the
+economy.
+
+
+Portland Public Schools (PPS) can leverage Career and Technical Education (CTE)
+courses and other workforce development pathways in high schools to infuse
+climate literacy into the curriculum in ways that connect to students’ future careers
+and livelihoods. By reframing every job as a potential green job, educators can help
+students see how any interest or passion can be translated into a climate solution.
+This systemic integration of climate literacy can energize high school coursework
+and provide relevance to students’ lives beyond the classroom. While some high
+schools already offer CTE programs related to climate and sustainability, there are
+vast opportunities to scale and multiply these efforts. Expanding these examples
+can provide students with a broader understanding of how climate solutions can
+permeate all industries, preparing them for a future where green skills are increasingly
+necessary.
+
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 32
+Opportunity #3: Collect Data
+on Climate Education
+
+GreenPrint Core Practice #10:
+Curriculum and instruction leaders
+build a comprehensive and coherent
+system of assessment that measures
+sustainability literacy and promotes
+health and equity.
+
+
+To address the limited teaching of
+climate change and justice, the district
+could gather data from students and
+teachers to map out where and how
+these topics are currently covered in the
+curriculum.
+
+
+Surveys, focus groups, and classroom observations could identify gaps in content,
+instructional practices, and areas where climate justice is effectively integrated. This
+data can then inform targeted improvements, such as developing specific curriculum
+modules, providing professional development, and creating interdisciplinary
+connections, ensuring a more comprehensive and impactful approach to climate
+education across all grade levels and subjects.
+
+
+Opportunity #4: Climate Justice Scope and Sequence:
+
+GreenPrint Core Practice #6: Schools plan strategically for curriculum and
+instruction that promote health, equity, and sustainability.
+
+
+To effectively integrate climate change and justice into the curriculum, a
+comprehensive scope and sequence should be created based on the data gathered
+from students and teachers. This scope and sequence would map out all existing
+instances where sustainability and climate justice are already taught across K-12
+grades, providing a clear overview of current efforts. Additionally, it would identify
+natural integration points within the curriculum, education that builds on students’
+knowledge year after year. This plan would also help design professional development
+for teachers and develop supplemental materials that align with district goals. This
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 33
+can likely be done with existing mapping
+software used by the district.
+
+
+Opportunity #5: Solutionary
+Approach (4PBL)
+
+GreenPrint Core Practice #9: Schools
+use instructional practices that include
+phenomena-, place-, project-, and problem-
+based learning.
+
+
+Encouraging a solutionary approach rooted
+in 4PBL empowers students to advocate
+for improving their school’s sustainability
+performance by tackling real-world
+environmental challenges on their campuses. With guidance from educators and
+support from community partners, students can analyze accessible sustainability
+data, such as energy use or waste management metrics, and develop actionable
+plans to reduce their school’s ecological footprint. This hands-on method builds
+critical thinking and advocacy skills and connects classroom learning with real-world
+impact, fostering a sense of ownership and responsibility. Students become active
+change-makers in creating a more sustainable school environment by engaging
+in these projects. The older a student is, the more reach they can have in making
+a change. The Portland Clean Energy Fund Climate Friendly Public Schools grant
+funding youth climate action is an example of a solutionary approach.
+
+
+Opportunity #6: Sustainability Performance Data Collection
+Programs
+
+GreenPrint Core Practice #10: Curriculum and instruction leaders build a
+comprehensive and coherent system of assessment that measures sustainability
+literacy and promotes health and equity.
+
+
+Use programs like START to make sustainability metrics, such as energy use, waste
+production, and water conservation, visible and accessible to students and teachers,
+paired with tailored educational materials that explain these metrics in context.
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 34
+Making this data transparent communicates the urgency of sustainability and
+climate justice efforts. It tracks progress, engaging key stakeholders like families,
+board members, and the broader community in the school’s environmental initiatives.
+Tracking student-led sustainability projects through START can help build a school-
+wide culture of environmental responsibility, where students see the direct impact
+of their actions. Additionally, integrating certification programs like EcoSchools
+U.S., which supports environmental learning and climate action from elementary
+through secondary levels, can provide a structured framework for schools to advance
+their sustainability goals and recognize achievements. These combined efforts
+can transform schools into active hubs for climate action, fostering a community
+dedicated to sustainability.
+
+
+Opportunity #7: Clearly define language
+
+GreenPrint Core Practice #5: Leaders
+create and maintain a communication
+system that engages the whole
+community in support of healthy,
+equitable, and sustainable schools.
+
+
+Create a set of foundational documents
+that outline a clear progression of
+definitions, from sustainability on one
+end to climate and environmental
+justice on the other. These documents
+would illustrate how different
+approaches, from individual actions
+focused on environmental conservation
+to systemic changes that address
+the root causes of climate change,
+all contribute to a greener future.
+Additionally, these resources should communicate that there is a place for everyone
+in this continuum, encouraging inclusive participation from all students and teachers.
+
+
+A helpful starting point might be the newly released NOAA Climate Literacy Guide,
+updated from 2009, that now incorporates climate justice and a lens of equity.
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 35
+Opportunity #8: Expand access to climate education
+professional development
+
+GreenPrint Core Practice #7: Schools
+create the conditions for leaders,
+teachers, and students to plan and
+implement high-quality curriculum
+and instruction for health, equity, and
+sustainability.
+
+
+To support this effort, the district
+could continue to provide targeted
+professional development, workshops,
+and resources that help educators
+understand what is developmentally
+appropriate at different grade levels
+and how to integrate these concepts
+into their teaching. The district can
+create a more unified and effective
+approach to climate education by offering clear definitions and supportive
+materials.
+
+
+Example: June 2024 PPS Climate Justice Professional Development Day
+
+
+This professional development opportunity introduced the Climate Crisis Response
+Policy and featured a visit from David DenHartog of GSNN, who connected these
+efforts to a broader national movement. Participants also received instruction from
+Tim Swinehart, a teacher at Lincoln High School and one of the district’s earliest
+advocates for climate justice education. For many years, Tim felt let down by the
+district, as they were either unable or unwilling to incorporate the climate education
+he knew was urgently needed. However, with a few years of Policy implementation,
+the district could finally highlight Tim’s expertise, creating a moment of repair. Tim led
+the group in a thoughtful reflection on their experiences with the Willamette River,
+followed by a gallery walk illustrating the river’s history of environmental injustice. It
+was clear that teachers benefit from learning from peers trained in this vital field of
+education whenever possible.
+
+
+
+
+                            GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 36
+The field trip with the Braided River Campaign continued along the Willamette River,
+where participants explored issues like dredging, pollution, displacement of riverside
+communities, the history of recreation on the river, and the city’s prioritization of
+industry over people. Though the topics were weighty, the trip concluded at the
+Braided River Campaign’s vibrant and creative space in the Lloyd Center Mall,
+designed to inspire ongoing education, advocacy, and reflection.
+
+
+Opportunity #9: Expand
+Access to Outdoor Education
+
+GreenPrint Core Practice #12: Schools
+promote healthy relationships between
+peers, adults, the local community, and
+the natural world.
+
+
+Integrating outdoor education into the
+curriculum allows students to engage
+directly with real-world sustainability
+issues, fostering a deeper understanding
+of the environment and their role in
+protecting it. By moving beyond the
+classroom, students can explore local
+ecosystems, observe the impacts of
+climate change, and participate in
+hands-on activities like gardening,
+composting, or water quality testing.
+
+
+These experiences make abstract concepts more concrete and meaningful,
+encouraging students to think critically about human-environment interactions and
+sustainability practices. Outdoor education also promotes experiential learning,
+collaboration, and problem-solving, empowering students to become active
+stewards of their communities and the planet.
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 37
+Examples of Outdoor Education in PPS:
+
+Portland Public Schools (PPS) has a rich landscape of outdoor education, with
+numerous schools incorporating hands-on learning experiences in gardens and
+natural spaces. Lent Elementary stands out with its long-term partnership with
+Growing Gardens and a vibrant garden space that has flourished for over a decade.
+Their Garden Educator created the
+Semillas Indigenas (Indigenous
+Seeds) curriculum, which brings
+cultural and environmental learning
+together. Scott Elementary also
+partners with Growing Gardens,
+connecting their school garden to
+the cafeteria, ensuring students
+see the full cycle of growing and
+consuming food. Harrison Park
+collaborates with Grow Portland,
+incorporating culturally affirming
+foods into their garden beds to enrich
+student learning. At the high school
+level, Alliance HS offers a Natural
+Resources class, and McDaniel HS
+runs a CTE Sustainable Agriculture
+program, providing students with
+in-depth, practical experiences
+in sustainability. Across PPS, 16 schools partner with Growing Gardens or Grow
+Portland, and an estimated ten additional schools offer outdoor lessons through PTA
+volunteers, with many more participating in garden clubs through SUN Schools. These
+programs collectively strengthen student connections to nature and sustainable
+practices. Their stories should be amplified and scaled across the district.
+
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 38
+  Community and
+    Stakeholder
+Engagement: Insights
+
+
+
+
+     GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 39
+Insight#7: Expanding Community Engagement for Broader
+Climate Justice Impact and Resilience
+
+GreenPrint Core Practice #11: Schools plan strategically for a school culture and
+climate that promotes health, equity, and sustainability mindsets
+
+
+There are many examples of engaging various stakeholders and community partners,
+as evident in the Youth Climate Justice Summit, the Climate Solutions Fair, and the
+Climate Justice Design Team. These initiatives highlight the work of innovators and
+early adopters. Developing a framework that expands these initiatives to reach a
+broader audience is essential to scaling up these efforts.
+
+
+Insight #8: Trust Building Between District and School
+Building Staff
+
+GreenPrint Core Practice #5: Leaders
+create and maintain a communication
+system that engages the whole
+community in support of healthy,
+equitable, and sustainable schools.
+
+
+Based on conversations with a handful
+of aggrieved teachers, there appears
+to be a significant lack of trust between
+Portland Public Schools (PPS) district
+administration and some of its staff,
+particularly among early adopters and
+activists who have worked closely with
+local community members, students,
+and families to advance climate justice
+initiatives. These educators feel let
+down by what they perceive as a lack of
+transparency and the mismanagement
+of funds, often directing blame toward
+specific district staff members. Some
+teachers expressed frustration about
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 40
+inadequate communication around events like the climate justice summit, which
+they felt was not inclusive. There have also been instances of confusion over
+accountability, where teachers mistakenly blamed current staff for decisions made
+by former employees. Additionally, some teachers reported feeling reprimanded
+by the district for implementing climate justice policies that did not align with the
+district’s vision, leading to a sense that this work had to be done in secrecy or not
+at all. However, it is important to note that these impressions are based on a few
+teachers, and it is unclear how widespread this distrust is. Moreover, the landscape
+has become more favorable since the adoption of the CCRP. We observed that
+district staff are acutely aware of these concerns and are actively taking steps to
+address them and repair relationships.
+
+
+Insight #9: Engaging the
+Early Majority: Bridging the
+Why of Climate Justice and
+Education Priorities
+
+GreenPrint Core Practice #1: Schools
+practice visionary leadership.
+
+
+There is a growing need for more
+targeted messaging and professional
+development around the importance
+of climate justice and sustainability
+in education. While a core group
+of dedicated, knowledgeable, and
+passionate innovators and early
+adopters are already committed to this
+work, engaging the early majority is the challenge. To bridge this gap, it’s essential
+to connect climate justice and sustainability to the priorities and responsibilities
+of teachers and educational leaders. By aligning these critical issues with what
+educators care about—such as student well-being, equity, and preparing future-
+ready citizens—we can create a broader understanding and commitment to
+integrating sustainable practices into schools and curricula. Through strategic
+communication and professional development, we can foster a culture that values
+and prioritizes climate justice as an essential education component.
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 41
+    Community and
+Stakeholder Engagement:
+     Opportunities
+
+
+
+
+      GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 42
+Opportunity #10: Digital climate solution showcase
+
+GreenPrint Core Practice #5: Leaders
+create and maintain a communication
+system that engages the whole
+community in support of healthy,
+equitable, and sustainable schools.
+
+
+Create a centralized online platform
+that highlights the work of innovators
+and early adopters of climate justice
+education at PPS. This showcase would
+feature videos, project highlights,
+interactive presentations, and
+stories from various stakeholders,
+including students, educators, and
+community partners, demonstrating
+their contributions to climate justice
+efforts. By offering an engaging,
+visually rich experience and providing
+resources and tools for replication, the
+digital showcase would help expand these initiatives, reaching a broader audience
+and inspiring action across the district and beyond. See below in the section titled
+“Resource Development and Accessibility” for elaboration on digital resources.
+
+
+Opportunity #11: Expand the Spring 2025 PPS Climate
+Justice Summit
+
+GreenPrint Core Practice #3: Schools promote a culture of community and
+belonging.
+
+
+Teachers have expressed a strong desire to bring more students to the Spring Climate
+Summit in recent years than the venues can accommodate. Last year, each high
+school was allotted 20 spots, but many teachers wanted to bring their entire classes,
+which often numbered around 145 students. Limiting the number of attendees
+prevents broader student engagement with climate justice—an issue deeply
+relevant to their lives. To make the summit more accessible and inclusive, inviting as
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 43
+many students as possible is essential. We aim to make this event an entry point for
+students who may not typically be drawn to the topic and ensure that it aligns with
+how schools operate, recognizing that it’s easier for teachers if all their students can
+participate.
+
+
+The district could consider three approaches to expand access to the PCEF Spring
+2025 Climate Summit:
+
+◊ First, schools could be supported in organizing their climate justice summits,
+  creating multiple concurrent events across different locations. This decentralized
+  model would engage more students, educators, and community members directly
+  at their sites, fostering local ownership and relevance.
+
+◊ Second, the district could envision a larger, centralized event in a more spacious
+  venue, allowing for more attendees and inviting a wider range of stakeholders.
+
+◊ Lastly, a virtual attendance option could be offered to accommodate those
+  unable to attend in person. While in-person participation is preferable, especially
+  for climate justice advocacy, as it fosters stronger community bonds and deeper
+  engagement, a virtual component would ensure no one is excluded due to
+  logistical or capacity constraints. Both the decentralized and larger centralized
+  events, combined with a virtual attendance option, would increase access and
+  equity, ensuring more voices are heard and empowering more participants to
+  contribute to climate action.
+
+
+Opportunity #12: Invest in
+reciprocal connections with
+BIPIOC, disabled, and
+minority-led organizations and
+students who identify within
+these groups
+
+GreenPrint Core Practice #4: Schools
+cultivate strong school-family-
+community partnerships.
+
+
+To understand better how to make
+climate justice education equitable, the
+district needs to follow through when
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 44
+                                                 using words like “justice” and “equity”
+                                                 by deeply engaging marginalized
+                                                 students and communities to
+                                                 understand their needs and how to
+                                                 create a climate justice culture that
+                                                 is inclusive, culturally resonant, and
+                                                 diverse. Special attention must be
+                                                 paid to creating reciprocal rather
+                                                 than extractive or performative
+                                                 relationships.
+
+
+Opportunities #13: Professional Development and
+Messaging Toolbox
+
+GreenPrint Core Practice #1: Schools practice visionary leadership.
+
+
+To effectively engage the early majority in advancing climate justice and
+sustainability in education, it is crucial to equip district leaders with a toolbox of
+professional development resources and language that connects these critical issues
+to various roles and responsibilities across the network. This toolbox could include
+ready-made workshops, discussion guides, case studies, and frameworks that align
+sustainability with core educational goals, such as student achievement, mental
+health, equity, and community engagement.
+
+
+Opportunity #14: Engage content experts and
+community members
+
+GreenPrint Core Practice #4: Schools cultivate strong school-family-community
+partnerships.
+
+
+The PPS Spring Climate Summits have successfully brought in content experts to
+deliver keynote addresses, including guests from elected offices and community-
+based organizations. These individuals are valuable resources for climate education.
+However, a knowledge gap still needs to be addressed through teacher professional
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 45
+development and curriculum
+development. In 2024, two
+PPS AmeriCorps members,
+Cal Verstrate and Anita
+Spaeth, created a highly
+successful food justice
+lesson that teachers are
+requesting again. Additionally,
+several other organizations
+have shown interest in
+contributing to classroom
+instruction. PPS should create
+a directory of guest speakers
+and community-based
+organizations to support this
+effort further.
+
+
+Opportunity #15: Gather data on student and staff mindset
+
+GreenPrint Core Practice #10: Curriculum and instruction leaders build a
+comprehensive and coherent system of assessment that measures sustainability
+literacy and promotes health and equity.
+
+
+Data around mindsets will be essential in understanding the current landscape
+and guiding targeted efforts. Surveys, classroom observations, walkthroughs, and
+analyzing the scope and sequence of curricula can provide valuable insights into
+educators’ perceptions, beliefs, and readiness to incorporate climate justice and
+sustainability into their practice. Combining these strategies can create a more
+inclusive and widespread commitment to this work.
+
+
+Opportunity #16: Continue to support and expand the School
+Sustainability Champions Network
+
+GreenPrint Core Practice #2: Schools use shared leadership structures.
+The district launched the SSCN in Spring 2023 to connect with and support school-
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 46
+based staff (mostly teachers) with sustainability
+initiatives. The Network gives members a more
+direct line of communication to the district, and
+to each other. With Middle Schools and High
+Schools receiving PCEF Student Climate Project
+funds, there is an opportunity to pivot the SSCN to
+focus on supporting Elementary schools in more
+specialized ways.
+
+
+Opportunity #17: Provide targeted
+support and gather feedback from
+Climate Justice and Environmental
+Science teachers
+
+GreenPrint Core Practice #7: Schools create the
+conditions for leaders, teachers, and students to
+plan and implement high-quality curriculum and
+instruction for health, equity, and sustainability.
+
+
+Teachers of Climate Justice and Environmental Science courses are currently
+underserved. Low enrollment and staff reductions have led to the rollback of many
+of these classes, which is a significant setback considering the community pressure
+and student advocacy that helped establish these electives. Due to limited capacity,
+district staff in the Office of Teaching and Learning (OTL) and Climate Justice
+departments have been unable to provide the level of support necessary to help
+these teachers make the courses successful and increase their popularity.
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 47
+Resource Development
+  and Accessibility:
+       Insights
+
+
+
+
+     GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 48
+Insight #10: Addressing the Need for Accessible and Curated
+Climate Change and Sustainability Resources in Education
+
+GreenPrint Core Practice #8: Schools use an integrated approach to curriculum
+design that reflects the interdisciplinary nature of the world around us
+
+
+Both district leaders and classroom teachers emphasized the need for localized
+climate justice resources that are vetted, trustworthy, developmentally appropriate,
+engaging, accessible, and diverse. Some educators felt that more resources were
+needed, while others found the existing resources overwhelming, making it time-
+consuming to find suitable materials for specific grade levels or content areas. There
+was a clear desire for a digital space where teachers could easily share climate
+justice units, lessons, and projects.
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 49
+Resource Development
+  and Accessibility:
+    Opportunities
+
+
+
+
+     GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 50
+Opportunity #18: Create a dynamic and collaborative digital
+resource hub to support climate justice and sustainability
+education
+
+GreenPrint Core Practice #8: Schools use an integrated approach to curriculum
+design that reflects the interdisciplinary nature of the world around us
+
+
+This hub aims to empower teachers, students, and the community by providing
+easy access to localized, trustworthy, and engaging resources focused on climate
+solutions. It will serve as a platform for sharing best practices, fostering collaboration,
+and highlighting success stories across the district. PPS district leaders, educators,
+and students will set up and maintain it. This can be the place to showcase positive
+outliers across the district, map out community-based partnerships, and a space
+to help students build knowledge across disciplines, make connections to the things
+they care about, and take action.
+
+
+A digital resource hub would go a long way in addressing and integrating the insights
+and opportunities above and is a strong candidate for short- and medium-term
+work in implementing PPS’ Climate Justice Policy. In the next few pages,, we elaborate
+on some of the steps involved in creating such a hub.
+
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 51
+  Possible Plan and
+Strategy for Four Key
+   Leverage Points
+
+
+
+
+     GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 52
+Leverage Point #1: Digital Resource Hub
+1. Crowdsourced Content Sharing Platform:
+◊ Develop a user-friendly space for teachers to contribute lessons, units, and
+  climate justice-related resources. This platform would allow educators to upload
+  materials, share insights, and discuss strategies that have proven effective in their
+  classrooms.
+◊ Ensure the platform supports diverse media types (e.g., lesson plans, slide decks,
+  videos, project templates) to cater to teaching and learning styles.
+◊ Consider expanding the Portland Public Schools Climate Justice Google site
+  to incorporate these functionalities or developing a new site with more robust
+  features.
+
+
+2. Curated Climate Justice and Sustainability Resources:
+
+◊ Organize resources by grade level, topic, and geographic location to facilitate
+  easy navigation and integration across various disciplines. This could include
+  materials on environmental science, social studies, literature, arts, etc.
+◊ Provide local and global context by curating resources that connect local climate
+  justice issues to broader global movements, emphasizing how actions in Portland
+  fit into the bigger picture.
+◊ Integrate multimedia resources, including videos, podcasts, articles, and
+  interactive modules, to engage different types of learners and accommodate
+  varied educational needs.
+
+
+3. Integration Across the Curriculum:
+
+◊ Offer guidance and exemplars on how to weave climate justice themes into
+  existing curricular areas, whether in STEM, humanities, arts, or physical education.
+◊ Develop cross-disciplinary units and projects that connect subjects through a
+  climate justice lens, enabling holistic and interconnected learning experiences.
+◊ Include outdoor and experiential learning opportunities that link students’
+  classroom learning with the local environment, fostering a deeper understanding
+  of sustainability in their communities.
+
+
+4. Success Story Repository and Dissemination Tool:
+
+◊ Create a dedicated section to collect and disseminate success stories from across
+  the district, celebrating innovative teaching practices, student-led initiatives, and
+  community partnerships.
+◊ Highlight impactful projects, particularly those funded by the Portland Clean
+
+
+
+                         GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 53
+  Energy Fund (PCEF) grants and other local initiatives, showcasing how students
+  and schools are taking action against climate change.#
+◊ Feature stories in various formats (e.g., blog posts, videos, infographics) to reach a
+  wider audience and inspire others to replicate successful approaches. (Examples
+  of teacher interviews here. Examples of students interviewing students here.
+  Washington curates stories and resources here.)
+
+
+5. Collaboration and Community Engagement:
+◊ Facilitate collaboration among educators, students, parents, and community
+  members by incorporating features like forums, discussion boards, and event
+  calendars to promote ongoing dialogue and partnership.
+◊ Leverage the hub as a communication channel for climate justice initiatives
+  throughout Portland, fostering a sense of shared purpose and community.
+◊ Engage local organizations, experts, and activists in contributing to the hub’s
+  content, ensuring it reflects various perspectives and expertise.
+
+
+6. Implementation Strategy:
+◊ Form a Development Team: Assemble a diverse team that includes teachers,
+  students, district leaders, IT specialists, and community partners to guide the hub’s
+  development. Ensure the team reflects the diversity of PPS and includes voices
+  from various grade levels, disciplines, and communities.
+◊ Pilot and Iterate: Launch a pilot version of the hub with select schools or teacher
+  groups, gather feedback, and iterate based on user experience. Scale up
+  gradually, incorporating lessons learned and refining the hub’s features and
+  content.
+◊ Promote and Sustain: Develop a communication plan to raise awareness and
+  encourage participation among teachers, students, and community members.
+  Consider hosting workshops, webinars, or professional development sessions to
+  train educators on using the hub effectively.
+
+
+7. Continuous Improvement and Feedback Loop:
+◊ Establish regular updates and a content refreshment system to keep the hub
+  dynamic and relevant. This could include teacher and student surveys, feedback
+  forms, and periodic reviews by a dedicated team.
+◊ Monitor usage analytics to understand the most valuable resources, continuously
+  improving the site based on user behavior and needs.
+◊ Encourage user feedback and create opportunities for community input to adapt
+  and expand the hub’s offerings over time.
+
+
+
+                         GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 54
+Leverage Point #2: Implement Climate Literacy Adoption
+Criteria Aligned with PPS Curriculum and 7-Year Cycle
+
+Phase 1: Define
+1. Project Plan Development:
+◊ Establish a timeline aligned with the state’s 7-year adoption cycle.
+◊ Identify key stakeholders (teachers, climate justice advocates, curriculum experts)
+  to form the adoption committee.
+
+
+2. Adoption Scope:
+◊ Clearly define the scope of integration, ensuring climate literacy and justice
+  education are embedded across subjects (e.g., science, social studies, English).
+◊ Specify grade levels (Pre-K through 12) and highlight interdisciplinary opportunities
+  for climate justice.
+◊ Climate Literacy Position Paper:
+◊ Develop a position paper on best practices for integrating climate literacy and
+  justice education, referencing both state and national standards (e.g., Next
+  Generation Science Standards).
+◊ Include guiding principles on sustainability, social justice, equity, and climate
+  change’s impact on frontline communities.
+
+
+3. Evaluation Matrix:
+◊ Create a matrix to evaluate current curriculum materials for alignment with
+  climate literacy and justice education.
+◊ Include criteria for assessing coverage of key climate topics (e.g., climate science,
+  environmental justice, sustainability practices).
+
+Phase 2: Select
+1. Initial Program Review:
+◊ Use the evaluation matrix to review current district materials and identify gaps in
+  climate literacy.
+◊ Invite publishers to present their programs based on alignment with the district’s
+  climate literacy goals.
+
+2. Narrowing Down Options:
+ ◊ Select publisher programs that meet the climate literacy integration criteria.
+◊ Conduct a “standards trace” to assess how well these programs align with the
+  Climate Crisis Response Policy and state standards.
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 55
+3. Supplemental Resource Identification:
+
+◊ For areas where the current curriculum falls short, identify supplemental materials
+  (e.g., lesson plans, modules, digital resources) to bridge gaps in climate literacy.
+◊ Engage local and national organizations specializing in climate education to
+  provide resources.
+
+
+Phase 3: Implement
+1. Professional Development:
+
+◊ Develop a multi-tiered professional development plan to train teachers on
+  integrating climate literacy and justice education into their existing curriculum.
+◊ Offer specific training for interdisciplinary and project-based learning
+  opportunities (e.g., outdoor education, community sustainability projects).
+
+
+2. Resource Rollout:
+
+◊ Ensure new instructional resources are distributed to schools along with support
+  for teachers to integrate these into their daily lessons.
+◊ Provide ongoing access to digital resources, climate literacy guides, and the
+  supplementary materials identified in the Select phase.
+
+
+3. On-Going Support:
+
+◊ Assign dedicated instructional coaches or coordinators to provide in-classroom
+  support for teachers implementing climate literacy.
+◊ Offer “at-the-ready” digital tools and resources, including webinars, workshops,
+  and model lessons.
+
+
+Phase 4: Evaluate
+1. Continuous Evaluation:
+
+◊ Conduct regular assessments to track the effectiveness of climate literacy
+  integration, gathering both quantitative (test scores, literacy rates) and
+  qualitative (teacher feedback, student engagement) data.
+◊ Use surveys and focus groups with students and teachers to evaluate the impact
+  of climate literacy on learning outcomes and engagement.
+
+
+2. Mid-Cycle Adjustments:
+
+◊ Based on evaluation data, update and refine curriculum materials, professional
+
+
+
+                         GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 56
+   development plans, and supplemental resources as needed.
+◊ Prepare for the next 7-year adoption cycle by reviewing emerging best practices
+  and evolving climate literacy standards.
+
+
+3. Long-Term Reporting:
+◊ Align the climate literacy evaluation with the district’s broader goals for
+  sustainability and wellness, reporting progress annually to stakeholders.
+◊ Incorporate data on how climate literacy is affecting broader district priorities,
+   such as student health and environmental sustainability in school buildings.
+
+
+Leverage Point #3: Climate Literacy and Sustainability Data
+Collection
+
+Climate Literacy and Sustainability Data Collection
+To support the integration of climate literacy and sustainability in Portland Public
+Schools (PPS), a structured approach to data collection is essential. Gathering
+data across multiple categories will provide valuable insights into current
+practices, identify areas for improvement, and foster a culture of transparency
+and accountability. Below are four key categories and suggested steps for data
+collection:
+
+1. Sustainability Performance Dashboards
+Creating Sustainability Performance Dashboards for schools and the district
+can make sustainability data accessible to both teachers and students. These
+dashboards would track metrics related to energy use, waste management, water
+consumption, and other ecological indicators on school grounds. This transparency
+would empower students to engage in solutionary and project-based learning
+opportunities, allowing them to set and monitor goals to reduce their school’s
+ecological footprint. Examples of such dashboards include START by Green Schools
+Alliance and ArcSkoru, both of which provide user-friendly platforms for measuring
+and improving sustainability performance. Steps include:
+
+◊ Identifying the key sustainability metrics to track (e.g., energy use, waste diversion,
+  water conservation).
+◊ Implementing dashboards that allow real-time access to data for students,
+  teachers, and administrators.
+◊ Incorporating data from these dashboards into classroom projects and school-
+  wide sustainability goals.
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 57
+2. Student Climate and Sustainability Actions and Projects
+Collecting data on student climate and sustainability actions is crucial for
+understanding the scope and impact of student-led initiatives. This data can be
+gathered from classroom-based projects, green teams, or youth-led actions funded
+by the Portland Clean Energy Fund (PCEF). This can be accomplished using the free
+EcoSchools U.S. platform, hosted by the National Wildlife Federation.
+
+
+Steps include:
+◊ Developing a system for tracking and documenting student projects and actions
+  related to climate and sustainability.
+◊ Gathering information on the type, scale, and outcomes of these projects.
+◊ Highlighting exemplary projects to inspire and motivate further action across the
+  district.
+
+3. Sustainability Beliefs and Mindsets
+Understanding student and staff mindsets around climate justice and sustainability
+is key to fostering a broader culture of environmental responsibility. Data collection
+in this area could include surveys and focus groups that assess attitudes, beliefs, and
+levels of engagement with sustainability issues. The Green Schools National Network
+(GSNN) can provide guidance and examples of effective mindset surveys and tools.
+Steps include:
+
+◊ Designing and distributing surveys to gather data on sustainability beliefs and
+  attitudes among students, teachers, and staff.
+◊ Analyzing the data to identify patterns, barriers, and opportunities for increasing
+  engagement with sustainability issues.
+◊ Using this information to tailor professional development and curriculum
+  enhancements that address specific mindset gaps.
+
+
+4. Curriculum and Instruction
+Collecting data on curriculum and instruction helps map where and how climate
+literacy and sustainability education are already being integrated, as well as where
+opportunities for expansion exist. This involves identifying existing interdisciplinary
+connections and potential areas where sustainability can be further embedded.
+Steps include:
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 58
+◊ Conducting curriculum audits to determine where sustainability and climate
+  literacy are already taking place.
+◊ Mapping interdisciplinary opportunities where climate justice themes can be
+  introduced or expanded.
+◊ Using the collected data to inform curriculum development and professional
+  development efforts, ensuring a more comprehensive integration of climate
+   literacy across subjects and grade levels.
+
+
+Leverage Point #4: Infusing Climate Literacy and Sustainability
+into Existing Structures and Initiatives
+
+Middle School Redesign
+Portland Public Schools identified 18 initiatives across five themes—Integrated
+Adolescent Supports, Inclusive and Differentiated Teaching and Learning, Embracing
+Change, Racial Equity and Social Justice, and Professional Excellence and Support—
+aimed at transforming outcomes for middle-grade students. These initiatives are
+designed to support adolescent learners and improve the school experience for all
+6th-8th graders. Each year, the district will prioritize and deeply support two to three
+of these initiatives.
+
+SEL in Elementary School
+Social and Emotional Learning (SEL) is a process that helps individuals, both young
+and old, acquire the knowledge, skills, and attitudes necessary to understand
+themselves, connect with others, achieve goals, and support their communities. The
+CASEL framework outlines five core competencies essential for SEL: self-awareness,
+self-management, social awareness, relationship skills, and responsible decision-
+making. These competencies help individuals manage emotions, empathize
+with others, build meaningful relationships, and make thoughtful choices. SEL
+development occurs throughout life and is influenced by supportive environments,
+including classrooms, families, and communities. By integrating SEL into educational
+and social settings, we can foster inclusive, engaging, and supportive learning spaces
+that prepare young people to contribute positively to society.
+
+
+Other schools and districts have used SEL as a framework for integrating climate
+literacy in a developmentally appropriate way, especially in elementary schools.
+Responsible decision-making, one of the core SEL competencies, naturally aligns with
+the principles of doing the most good and least harm for people, the planet, and
+animals. By encouraging students to consider the broader impact of their choices,
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 59
+teachers can weave in concepts of sustainability and environmental stewardship
+without directly mentioning terms like climate change or global warming.
+Relationship skills, another key SEL component, can be developed as students
+collaborate on projects aimed at improving their schools and communities, such
+as making them cleaner, safer, and greener. These hands-on efforts foster a sense
+of self-efficacy and confidence in young people, empowering them to take action.
+There are many academic and transdisciplinary connections that can be made with
+this project-based learning approach that can tie SEL together with academic skills
+and sustainability. By incorporating Traditional Ecological Knowledge (TEK) and
+biophilia—the innate human connection to nature—teachers can enhance SEL while
+fostering a love and respect for the environment. Since SEL is often a district-wide
+initiative, it serves as a powerful leverage point for embedding climate literacy into
+everyday learning, laying the groundwork for a more sustainable future.
+
+CTE and other Workforce Pathways
+The rise of green jobs in the U.S. is reshaping the workforce, expanding beyond
+traditional sectors like solar and wind energy to include industries such as
+construction, medicine, architecture, and even finance. As companies increasingly
+prioritize sustainability due to customer and shareholder demands, the need for
+workers with green skills has grown. In 2022, over 410,000 job postings were for “core
+green” roles, and it’s expected that the demand for these positions will grow by 5.5%
+over the next five years. Beyond these core green jobs, there’s a significant demand
+for “green-enabled” jobs in non-traditional fields that require at least one green
+competency. With over 51.6 million workers who could potentially be reskilled for
+these positions, the green economy presents enormous opportunities for workforce
+transformation. Upskilling programs and green job initiatives are vital to meeting the
+needs of this expanding sector, allowing workers to transition into roles that can drive
+sustainability and climate action across the economy.
+
+
+Portland Public Schools (PPS) can leverage Career and Technical Education (CTE)
+courses and other workforce development pathways in high schools to infuse
+climate literacy into the curriculum in ways that connect to students’ future careers
+and livelihoods. By reframing every job as a potential green job, educators can help
+students see how any interest or passion can be translated into a climate solution.
+This systemic integration of climate literacy can energize high school coursework
+and provide relevance to students’ lives beyond the classroom. While some high
+schools already offer CTE programs related to climate and sustainability, there are
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 60
+vast opportunities to scale and multiply these efforts. Expanding these examples
+can provide students with a broader understanding of how climate solutions can
+permeate all industries, preparing them for a future where green skills are increasingly
+necessary.
+
+Tribal History, Shared History
+Tribal History/Shared History (THSH) was established by Oregon Senate Bill 13 in 2017
+to create K-12 Native American curriculum for public schools and provide professional
+development for educators. It also funds Oregon’s nine federally recognized tribes to
+develop place-based curricula that reflect their unique histories and experiences. This
+initiative addresses the lack of accurate representation of Native American history,
+which has contributed to opportunity and achievement gaps for Native American
+students. Grounded in the Essential Understandings of Native Americans in Oregon,
+the curriculum aims to offer a more complete and authentic portrayal of Native
+American histories and perspectives, correcting longstanding misconceptions in
+traditional curricula.
+
+
+As mentioned above in the report, the teaching of Indigenous knowledge and ways
+of knowing is already integral to climate literacy, as one of the core climate solutions
+is to protect the lands and rights of Indigenous peoples. By including Tribal History/
+Shared History, which is grounded in the Essential Understandings of Indigenous
+Lifeways, students gain a deeper understanding of the interconnectedness and
+reciprocity between humans and the natural world—principles central to climate
+literacy. Indigenous knowledge emphasizes sustainable practices, stewardship, and
+respect for the environment, offering critical lessons for addressing climate change.
+Through this curriculum, students not only learn about the history and rights of
+Indigenous peoples but also how their traditional ecological knowledge can inform
+and guide modern climate solutions.
+
+
+
+Create a Crosswalk Between Tribal History/Shared History and the
+Climate Literacy Guide
+1. Form a Collaborative Working Group: Establish a team that includes
+   representatives from the nine federally recognized Oregon tribes, PPS curriculum
+   specialists, climate literacy experts, and tribal liaisons. This group will oversee the
+   development of the crosswalk, ensuring cultural sensitivity and legal compliance.
+
+2. Review Tribal History/Shared History Curriculum: The working group should
+
+
+
+                           GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 61
+  conduct a comprehensive review of the Tribal History/Shared History curriculum,
+  paying special attention to the Essential Understandings related to Indigenous
+  Lifeways, reciprocity, and environmental stewardship.
+
+3. Align with Climate Literacy Principles: Identify specific elements within the
+   Climate Literacy Guide that align with Indigenous knowledge, particularly
+   the principles of interconnectedness, sustainability, and the role of protecting
+   Indigenous lands as a climate solution.
+
+4. Ensure Tribal Authorization for Use: Since the lessons of Tribal History/Shared
+   History cannot be altered without tribal authorization, the working group should
+   engage in direct consultation with tribal governments. Any plans to integrate
+   content from both guides must be reviewed and approved by the tribes to
+   maintain the integrity of the material.
+
+5. Develop a Crosswalk Document: Create a crosswalk that highlights areas where
+   the two curricula naturally align, showing connections between the climate
+   literacy competencies and Tribal History/Shared History lessons on ecology,
+   sustainability, and human-nature relationships. This crosswalk should maintain the
+   integrity of the tribal lessons while enhancing students’ understanding of climate
+   justice.
+
+6. Provide Professional Development: Offer training sessions for educators to
+   help them understand how to use the crosswalk, ensuring they are aware of the
+   restrictions on altering Tribal History/Shared History content and how to integrate
+   climate literacy without modification.
+
+7. Gather Feedback and Refine: After initial implementation, gather feedback
+   from educators, students, and tribal representatives. Use this feedback to refine
+   the crosswalk, making adjustments while maintaining compliance with tribal
+   authorizations.
+
+
+
+
+                         GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 62
+ Appendix
+
+
+
+
+GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 63
+PPS Climate Crisis Response Policy
+Below is the relevant excerpt from PPS Climate Crisis Response, Climate Justice and
+Sustainable Practices Policy (3.30.080-P)
+
+
+Pillar 3: Provide Effective Environmental and Sustainability
+Education
+
+Goal 3.1: PPS will empower staff as allies for a healthy climate.
+
+    1. Provide learning opportunities for staff on climate science/climate justice.
+    2. Continuously collaborate with staff to utilize sustainability practices in the
+       performance of their work and provide information, support, and tools to help
+       implement those practices.
+
+
+Goal 3.2: With guidance from frontline students and communities, PPS will
+develop curricular learning opportunities, so PPS graduates know the causes
+and consequences of climate change, understand climate justice, and have
+opportunities to practice climate solutions.
+
+    1. Develop and deliver curriculum and resources to help students understand,
+       prepare for, and respond to climate change impacts.
+    2. Teaching and learning about climate change will recognize and support the
+       emotional and other impacts of climate change on individuals.
+    3. Provide opportunities for students to probe the underlying causes of the
+       climate crisis and the structural racism embedded in climate change due to
+       actions by majority white countries with disproportionate negative burdens
+       and impacts on people of color, and to understand the dynamic nature of
+       complex systems and how they change, and opportunities for them to practice
+       using systems thinking to inform their choices.
+
+
+Goal 3.3: PPS staff will collaborate with students to create opportunities to
+engage youth in hands-on climate learning, preparation, and practice on a regular
+basis at all PPS schools.
+
+    1. Support development of youth leadership and engagement opportunities
+       around climate solutions, prioritizing opportunities for students from frontline
+
+
+
+
+                            GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 64
+       Communities.
+    2. Support student-led climate justice, climate action, and climate resiliency
+       Initiatives.
+    3. Treat the grounds and garden of each school as a learning space and
+       involve students in nature-based grounds improvements and design. Support
+       opportunities for students in every PPS elementary school to learn in a
+       designated outdoor learning space.
+    4. Support students in their ongoing and critical role as climate response, climate
+       justice, and sustainability advocates.
+
+
+Climate Education Ecosystem in the U.S.
+The landscape of climate education in the United States is gaining momentum,
+reflecting an increased awareness of the need to equip young people with the
+knowledge and skills to understand and address climate change. Several states and
+cities have taken significant steps to adopt policies to embed climate education
+within school curricula, most commonly through science standards like the Next
+Generation Science Standards (NGSS). NGSS, which emphasizes climate science
+as part of environmental education, has been adopted by over 20 states. These
+standards ensure that students are introduced to the scientific principles of climate
+change, its causes, and its impacts on ecosystems and communities. However, the
+reliance on science as the primary vehicle for climate education can create a narrow
+lens, as climate change’s broader social, economic, and justice dimensions are often
+sidelined.
+
+
+NOAA is leading the way in defining climate literacy at the federal level through
+its publication, Climate Literacy: Essential Principles for Understanding and
+Addressing Climate Change. This guide outlines key information that individuals
+and communities need to understand Earth’s climate, the impacts of climate
+change, and the solutions being implemented globally. Designed for educators,
+communicators, and decision-makers, it is a foundational tool for developing
+climate-related curricula, fostering dialogue, and informing decisions and policies.
+
+
+Several U.S. states, including New Jersey, California, and Washington, have taken
+innovative steps to move beyond traditional science-based climate education,
+working to create interdisciplinary approaches that span multiple subjects. These
+states recognize that climate change is a multifaceted issue, requiring education
+incorporating scientific, social, economic, and political dimensions. Each state
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 65
+has developed unique strategies to embed climate education across its curricula,
+empowering students to think critically about the impacts of climate change and the
+role they can play in addressing it.
+
+
+While each of the following states has passed climate education policies, each
+continues implementing them with mixed results, with pockets of success and serious
+obstacles of funding, capacity, educational resources, and professional development.
+The only way to progress as a country will be to collaborate and learn from one
+another.
+
+
+New Jersey:
+In 2020, New Jersey became the first state in the U.S. to pass legislation requiring
+climate change to be integrated across all subjects in K-12 education. Through the
+New Jersey Student Learning Standards, the state seeks to ensure that students learn
+the science behind climate change, its local and global impacts, and how to make
+informed, sustainable actions. This interdisciplinary approach fosters critical thinking
+and action across subjects like science, social studies, and the arts. Supported by
+First Lady Tammy Murphy, the state has committed millions in funding to assist school
+districts with implementation and established the New Jersey Climate Change
+Education Hub to provide resources for educators. The state also created a website
+for Climate Change Education Resources. Another initiative that began in New Jersey
+but has since grown to a national and even international scope is Subject to Climate.
+
+California:
+California has taken a significant step in advancing climate education with the
+passage of Assembly Bill 285, signed into law by Governor Gavin Newsom on October
+8, 2023. The new law requires the state’s public schools to integrate the causes, effects,
+and solutions to climate change into the science curriculum for grades 1-6 and 7-12,
+with full implementation by the 2024-2025 school year. While the original bill aimed
+for a more interdisciplinary approach to climate education across various subjects,
+the passed version focuses specifically on science. However, efforts are underway,
+particularly through organizations like Ten Strands, to expand this mandate into other
+content areas and provide resources for curriculum development and climate change
+professional development for educators.
+
+
+California’s Environmental Principles and Concepts (EP&Cs), legislated under
+California Public Resources Code Section 71301 and California Education Code
+
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 66
+Section 51227.3, provide a foundational framework for promoting environmental
+literacy by highlighting the interconnected relationship between humans and the
+natural world. Rather than focusing on memorization, the EP&Cs emphasize “big
+ideas” that inform standards-based instruction and encourage student inquiry
+across various disciplines. The five environmental principles and 15 supporting
+concepts address themes such as the dependence of human life on natural systems,
+the impact of human actions on ecosystems, and the continuous exchange of
+matter between human and natural environments. Under the legislation, the EP&Cs
+are integrated into content standards and curriculum frameworks for subjects like
+science, English language arts, social studies, and health, ensuring that students
+develop a comprehensive understanding of environmental issues as part of their
+education.
+
+Washington:
+Washington State is a national climate change education policy leader, pioneering
+efforts to link climate education to the Next Generation Science Standards (NGSS). In
+2017, Washington and other groups, with the support of Governor Jay Inslee, secured
+funding for climate education through a budget proviso. This led to the creation
+of ClimeTime, a state-led network and grant program focused on professional
+development for teachers, helping them integrate climate education into their
+classrooms. Since its launch in 2019, ClimeTime has received over $24 million in
+funding, supporting educator capacity-building and the development of climate-
+focused instructional materials. The initiative is led by the Washington Office of
+Superintendent of Public Instruction (OSPI) in collaboration with the University of
+Washington’s Institute for Science and Math Education (UW-ISME). In addition to
+ClimeTime, the state has invested in the Climate Teacher Education Collaborative,
+which supports pre-service teacher training on climate topics. Washington’s climate
+education efforts emphasize climate justice and equity, ensuring that diverse student
+populations—including Tribal schools, rural areas, and underserved communities—
+benefit from climate-focused learning.
+
+New York State
+While New York State has and continues to struggle to pass climate education policy,
+the state and city have found innovative ways to lay the foundation for high-quality
+climate change education.
+
+
+In 2023, the Climate Resilience Education Task Force (CRETF) published New York
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 67
+State’s first Climate Education Platform, outlining the key elements needed for a
+successful statewide climate education program. The platform was developed by
+an intergenerational committee of educators, scholars, policymakers, and students,
+drawing from best practices in other states like California and New Jersey and
+aligning with New York’s ambitious Climate Leadership and Community Protection
+Act (CLCPA). The platform envisions a comprehensive, interdisciplinary approach
+to climate education in PK-12 schools, designed to support a just and equitable
+transition for the state’s workforce, achieve climate justice, and enhance community
+resilience. While New Jersey is the only state to fully integrate climate education
+across all grade levels and content areas, New York’s platform aims to connect
+climate education with broader state priorities, offering a unique opportunity to
+bridge the goals outlined in the CLCPA Scoping Plan with educational initiatives that
+equip students to face the climate challenges of today and tomorrow.
+
+
+The New York Climate Exchange is a center for urban climate solutions located on
+Governors Island, launched in 2023 after a competitive selection process. As a global
+hub for climate action, The Exchange is crucial in advancing climate education by
+integrating research, workforce development, and policy initiatives to develop and
+implement solutions to the climate crisis. Its mission focuses on addressing urgent
+climate impacts and issues of environmental justice, with a strong emphasis on
+equity and the role of cities in climate challenges. Through collaborative partnerships
+with academic institutions, corporations, and non-profits, The Exchange fosters an
+innovative, inclusive environment that breaks down silos to rapidly develop scalable
+urban climate solutions, positioning itself as both a think-tank and a do-tank for
+climate action.
+
+
+PPS might be interested in looking at The Harbor School on Governors Island for their
+CTE programs and how they connect them to climate change. Students engage in
+hands-on, career-focused learning through their CTE programs, all incorporating
+climate change and sustainability aspects. Freshmen are introduced to the various
+CTE pathways through a Harbor Class, and by their sophomore year, students choose
+one of eight specialized programs. These programs lead to industry certification
+in marine science and technology, offering a continuum of work-based learning
+experiences that extend beyond the classroom into real-world environments. By
+weaving climate change education into these programs, Harbor School prepares
+students not only for careers but also to address the pressing environmental
+challenges facing marine and coastal ecosystems.
+
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 68
+Positive Outliers within the GSNN Network
+Here are a few GSNN partners that are further along in their implementation of
+sustainability and climate education initiatives. While none of these schools have fully
+perfected their approach, each offers unique insights and valuable lessons that PPS
+can learn from, both in terms of their successes and challenges.
+
+
+Boulder Valley Public Schools, CO
+PPS might also look to Boulder Valley School District’s Seal of Climate Literacy,
+established through Colorado Senate Bill 24-014, which provides high school students
+with a diploma endorsement recognizing their commitment to sustainability
+and climate literacy. This program connects classroom learning with real-world
+challenges and opportunities related to climate change, encouraging students
+to engage with local environmental issues through coursework and hands-on
+experiences. By exploring Boulder Valley’s model, PPS could consider implementing a
+similar endorsement, allowing students to demonstrate their dedication to climate
+action and sustainability while gaining valuable skills and knowledge that directly
+benefit their communities.
+
+
+In addition, PPS can look to Boulder Valley School District’s five-year action plan,
+developed in partnership with the GSNN, as a model for guiding their sustainability
+and climate education efforts. Boulder Valley’s plan, which sets the course for
+sustainability work through 2026, was created through a collaborative process
+involving staff interviews, community forums, focus groups, and Ad Hoc Advisory
+Committee feedback. The plan outlines four strategic priority areas: 1) Curriculum
+and Instruction, focusing on developing experiences, knowledge, skills, values, and
+behaviors; 2) Climate and Culture, emphasizing relationships, health, and equity;
+3) Leadership, covering decision-making structures, procurement, finance, and HR
+systems; and 4) Operations, ensuring sustainability across all functions. Each area
+includes overarching and supporting goals, along with measurable indicators to track
+progress. By examining this model, PPS can develop a similar comprehensive plan
+that engages key staff, gathers meaningful data, and sets the district on a path to
+becoming a healthy, equitable, and sustainable learning community.
+
+
+Lexington Public School Sustainability Youth Council
+PPS can draw inspiration from the Bluegrass Youth Sustainability Council (BYSC) in
+Lexington, Kentucky. This project-based, student-led coalition empowers young
+leaders from ten public and private high schools to drive sustainability initiatives
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 69
+across their campuses and community. Led by student facilitators and project
+committee chairs, BYSC fosters lasting change through partnerships with businesses,
+nonprofits, and elected officials at local, state, and global levels. PPS could benefit
+from the experiences of these student leaders by establishing a virtual partnership
+with BYSC, enabling their students to collaborate, share ideas, and implement similar
+student-driven sustainability projects in Portland, amplifying the impact of youth-led
+climate action in their schools and community. Lexington is
+
+
+Commonground Charter Schools - New Haven, CT
+At a school-site level, PPS can look to Common Ground Charter School in New Haven,
+CT, as a powerful example of integrating climate and sustainability education with
+place-based learning deeply rooted in academic excellence. Common Ground
+serves as a center for environmental learning and leadership, providing opportunities
+for students and community members to connect with their local environment
+through hands-on experiences. The school’s unique integration of farm, forest, and
+city—utilizing a working farm and 20 acres of forest land—allows students to explore
+rural and urban ecology while developing practical paths to urban sustainability.
+Common Ground’s curriculum fosters environmental stewardship and academic
+rigor, empowering students to excel in their studies while engaging with real-world
+challenges related to sustainability.
+
+
+Core Practices of the GSNN GreenPrint™
+
+The Leadership System
+    1. Schools practice visionary leadership
+    2. Schools use shared leadership structures
+    3. Schools promote a culture of community and belonging
+    4. Schools cultivate strong school-family-community partnerships
+    5. Leaders create and maintain a communication system that engages the
+       whole community in support of healthy, equitable, and sustainable schools
+
+The Curriculum and Instruction System
+    1. Schools plan strategically for curriculum and instruction that promote health,
+       equity, and sustainability
+    2. Schools create the conditions for leaders, teachers, and students to plan and
+       implement high-quality curriculum and instruction for health, equity, and
+       sustainability
+    3. Schools use an integrated approach to curriculum design that reflects the
+
+
+                          GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 70
+      interdisciplinary nature of understanding the world around us
+   4. Schools use instructional practices that include phenomena-, place-, project-,
+      and problem-based learning
+   5. Curriculum and instruction leaders build a comprehensive and coherent
+      system of assessment that measures sustainability literacy and promotes
+      health and equity
+
+The Culture and Climate System
+   1. Schools plan strategically for a school culture and climate that promotes
+      health, equity, and sustainability mindsets
+   2. Schools promote healthy relationships between peers, adults, the local
+      community, and the natural world
+   3. Schools create a healthy, equitable, and sustainable food culture
+   4. Schools have programs that promote fitness, recreation, and nature
+      exploration for students and staff
+   5. Schools embrace a holistic approach to wellness for teachers, staff, and
+      students that includes physical, mental, and social-emotional health
+
+The Facilities and Operations System
+   1. Schools plan strategically for building, renovating/replacing, and operating
+      and maintaining sustainable facilities
+   2. Schools build leadership capacity among all stakeholders to create and
+      operate healthy, equitable, and sustainable facilities
+   3. Schools design, build, and upgrade existing facilities with systems that embrace
+      healthy, equitable, and sustainable building principles and practices
+   4. Schools manage and operate facilities with internal systems that reduce
+      environmental impacts, enhance health, and promote equity
+   5. Schools involve the entire school community in working toward a healthy,
+      equitable, and sustainable learning environment​
+
+Works Cited
+
+◊ Frontiers. (2020). Place-based environmental civic science: Urban students using
+  STEM for public good. Frontiers in Environmental Science. Retrieved from
+  https:/
+        /www.frontiersin.org
+◊ Springer. (2023). Social justice, place, and equitable science education:
+  Broadening urban students’ opportunities to learn. The Urban Review. Retrieved
+  from https:/ /link.springer.com
+◊ MacDonald, S. P. (2020). Place-based learning as a high impact educational
+  practice. In R. D. Lansiquot (Ed.), Interdisciplinary team teaching. Palgrave
+  Macmillan.
+
+
+
+                         GREEN SCHOOLS NATIONAL NETWORK + PORTLAND PUBLIC SCHOOL | 71
+            FOR MORE INFORMATION
+
+GREENSCHOOLSNATIONALNETWORK.ORG
+    © 2024 GREEN SCHOOLS NATIONAL NETWORK
+

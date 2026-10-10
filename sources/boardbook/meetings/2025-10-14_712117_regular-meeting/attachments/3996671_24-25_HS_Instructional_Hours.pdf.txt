@@ -1,0 +1,65 @@
+      2024-25 High School Instructional Hours
+
+                                            Partial                Percent
+                                            Course        Total     Fully
+School                 Full Course Load      Load       Students Scheduled
+Benson                                787        112           899    87.5%
+Cleveland                           1,131        294         1,425    79.4%
+Franklin                            1,499        310         1,809    82.9%
+Grant                               1,801        349         2,150    83.8%
+Jefferson                             384          75          459    83.7%
+Lincoln                             1,406        214         1,620    86.8%
+Roosevelt                           1,223        227         1,450    84.3%
+McDaniel                            1,383        300         1,683    82.2%
+Ida B. Wells-Barnett                1,325        328         1,653    80.2%
+Grand Total                       10,939       2,209        13,148      83%
+      2024-25 High School Instructional Hours
+                                           Partial                    Percent
+                                           Course          Total       Fully
+School                 Full Course Load     Load         Students    Scheduled
+  Benson
+     09                              304          3            307        99%
+     10                              216          2            218        99%
+     11                              202          1            203       100%
+     12                               65        106            171        38%
+  Cleveland
+     09                              354                       354       100%
+     10                              333          1            334       100%
+     11                              376          3            379        99%
+     12                               68        290            358        19%
+  Franklin
+     09                              483                       483       100%
+     10                              447          2            449       100%
+     11                              442          3            445        99%
+     12                              127        305            432        29%
+  Grant
+     09                              513             1         514       100%
+     10                              538                       538       100%
+     11                              549          3            552        99%
+     12                              201        345            546        37%
+  Jefferson
+     09                               88                        88       100%
+     10                              115                       115       100%
+     11                              119          1            120        99%
+     12                               62         74            136        46%
+  Lincoln
+     09                              404                       404       100%
+     10                              423          5            428        99%
+     11                              394         17            411        96%
+     12                              185        192            377        49%
+  Roosevelt
+     09                              379          1            380       100%
+     10                              352          1            353       100%
+     11                              383          4            387        99%
+     12                              109        221            330        33%
+  McDaniel
+     09                              399          3            402        99%
+     10                              425         12            437        97%
+     11                              359         41            400        90%
+     12                              200        244            444        45%
+  Ida B. Wells-Barnett
+     09                              410          3            413        99%
+     10                              423          3            426        99%
+     11                              356         18            374        95%
+     12                              136        304            440        31%
+
