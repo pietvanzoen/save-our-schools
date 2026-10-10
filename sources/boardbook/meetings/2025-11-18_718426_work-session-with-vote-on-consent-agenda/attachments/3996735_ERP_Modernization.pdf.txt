@@ -1,0 +1,145 @@
+ERP MODERNIZATION
+
+     PROGRAM OVERVIEW
+   BOARD WORKING SESSION
+     NOVEMBER 18 2025
+INTENT FOR TODAY
+
+• ERP Modernization
+  program overview
+• Spending approval for
+  phase one - data platform
+WHAT IS AN “ERP”
+• An Enterprise Resource Planning (ERP) system is an integrated software platform that manages core
+  business processes— inance, human resources, procurement, payroll, operations, and inventory—
+  within a single, centralized system.
+• The goal of an ERP is to streamline operations, improve data accuracy, and enable better decision-
+  making by providing real-time visibility across all departments.
+• The ERP is the digital backbone —connecting people, processes, and data - to drive smarter, faster,
+  and more e icient operations.
+• Our goal is to replace fragmented legacy systems and spreadsheets with a uni ied platform that:
+   •    Automates work lows, streamlines review and approval cycles, and reduces manual e ort
+   •    Provides a single source of truth across the district - inancial, operational, student, employee data
+   •    Supports compliance, security, reporting, and analytics
+   •    Scales with organizational growth and evolving business needs
+   ff
+         f
+                f
+                                               f
+                                                                                ff
+                                                                                     f
+PROGRAM OVERVIEW: ERP MODERNIZATION
+
+    A tightly coordinated multi-year program to redesign how
+      people, processes, and technology work together to        The current PPS ERP was
+         streamline work and unlock better outcomes.           implemented 25 years ago
+
+       The opportunity is to devote more time, resources,
+       and energy toward student learning and success.
+                                                                  The irst iPhone was
+                                                               released seven years later
+          The challenge is to build e icient work lows,
+         driven by meaningful data using modern tools,
+          that result in better decision-making for PPS.
+f
+                        ff
+                                     f
+CORE VALUE STATEMENTS
+1. Operational e iciency creates opportunities
+
+  • Rather than replicating legacy processes, we’re aligning
+    to standard tools and work lows to drive consistency
+    data and unlock operational e iciency
+
+  • This opens up signi icant org design lexibility as manual
+    entry and system workarounds will be eliminated
+
+2. Leveraging consistent data within common work lows
+   produces better decisions
+
+  • Readily available and timely data gets PPS to better
+    outcomes faster and supports our district goals             “The curse of a bad set of habits is that
+                                                                all the unnecessary things you’re doing
+  • Ability to course correct more quickly by shortening the
+                                                                   actually come to seem necessary.”
+    timeframe required to analyze and implement
+      ff
+           f
+                   f
+                       ff
+                             f
+                                           f
+PHASE ONE: DATA PLATFORM
+1. Purchase a cloud data warehouse ($300K for 4 years)
+   • Simplify data management and accelerate analytics and reporting
+   • Secure, scalable, fully managed service from an industry product leader
+   • Store, integrate, and analyze data across all PPS district functions
+   • Complies with all government requirements for personal data security
+   • Used by Oregon DoE and Multnomah County along with thousands of PK-12 school districts
+2. Professional services to support data migrations, user transitions and platform optimization ($136K)
+   • Ensure data is migrated onto the new platform safely and securely
+   • Validate all integrations are working as designed
+   • Identify PPS applications and integrations that can be deprecated
+   • Build and deploy best practices to optimize usage for the long-term
+   • Implement system controls to ensure usage does not exceed purchased capacity
+     TOTAL ERP COSTS:
+     COMPARABLE SCHOOL DISTRICTS
+                          Students / FTE’s
+       School District                           ERP         System Implementer         Estimated Costs           Start Date
+                            (estimated)
+
+
+                                                                                  $12.3M = 5 year subscription
+       Seattle Public                                                                                             December
+                           50,700 / 6,412    SAP Cloud ERP      Plante Moran      + $14M for implementation &
+         Schools                                                                                                    2024
+                                                                                       sta augmentation
+
+
+     Beaverton School                                                             $3M for a 5 year subscription   December
+                          38,706 / 5,000     PowerSchool        Plante Moran
+         District                                                                  + $3M for implementation         2023
+
+
+     Albuquerque Public                                                           $20M total (subscription and    December
+                          73,685 / 10,887     Oracle ERP            NA
+          Schools                                                                      implementation)              2024
+
+                                                                                      $6.3M for an 11 year
+      Spokane Public                                                                    subscription +               July
+                           28,586 / 3,642    PowerSchool        PowerSchool
+         Schools                                                                   Implementation costs TBD         2025
+ff
+PHASE TWO TIMELINE:
+RFP FOR THE ERP SOLUTION
+APPENDIX
+ BRIEF HISTORY
+• 2020 - Bond passage for Tech Modernization includes ERP modernization
+• 2021 - Gartner assessed readiness and built recommendations for a cloud-based ERP
+• 2022 - 2023 - RFP planning, response reviews, and vendor selection process (no decision)
+• 1st half of 2024
+  • TekSystems began process documentation for HR and Finance operations
+  • Data Strategy & Governance recommendations developed but ultimately paused
+• 2nd half of 2024 - 1st half of 2025
+  • Multiple key leadership and program changes
+  • Statement of work from AST to implement Oracle ERP (ultimately declined)
+  • 2025 Bond measure for continued Tech Modernization
+    REASONS TO BELIEVE
+    • Leveraging prior assessments and recommendations - the prior
+      work is highly valuable and is being used for planning
+
+    • Simpli ied program governance with multiple levels of support and
+      leadership across Finance, HR, RAA, and Ops
+
+    • Emphasis on process standardization and elevated change control
+
+    • Implementing data management best practices in parallel
+
+    • Dedicated Senior Director with experience in multi-year
+      transformational change and large scale implementations
+
+    • Priority focus on change management and consistent data quality
+
+    • Funding from 2020 and 2025 bond measures
+f
+

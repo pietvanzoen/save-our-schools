@@ -1,0 +1,2686 @@
+Building Assessment Report
+PPS One North Commercial Building Inspection                  Prepared by:
+2025-1106                                                     (Interface Engineering Inc)
+                                                              Mark O'Leary, PE
+Prepared for:                                                 Kristin Melling, PE
+Portland Public Schools                                       Jeff Burke
+                                                              Todd Shoote
+September 25, 2025                                            (Bassetti Architects)
+                                                              Lydia Burns
+                                                              Sharon Nobbe
+                                                              (KPFF Consulting Engineer)
+                                                              Aaron Stocek, PE, SE
+
+
+
+MEP Engineering | Fire/Life Safety | Lighting Design | Energy Consulting | Building Technologies | Commissioning
+Table of Contents
+Archtitectural .................................................................................................................................................................... 1
+Structural ..........................................................................................................................................................................48
+Mechanical / HVAC System .......................................................................................................................................54
+Plumbing ..........................................................................................................................................................................64
+Electrical ............................................................................................................................................................................66
+
+
+
+
+MEP Engineering | Fire/Life Safety | Lighting Design | Energy Consulting | Building Technologies | Commissioning
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+Architectural
+Executive Summary
+Why One North?
+One North Center, an iconic building development in the historic Albina neighborhood of northeast
+Portland, provides prime inspirational and creative space for Portland Public School’s Center for Black
+Student Excellence (CBSE) program. The existing buildings and site exemplify forward and future thinking
+in collaboration and community since its construction in 2015.
+
+Location
+One North offers a uniquely strategic and inspiring setting for the PPS CBSE program. Located on
+North Fremont Street between North Williams and North Vancouver Avenues, the site serves as an
+established central and accessible hub for neighborhood schools, commercial businesses, and supporting
+programs. The urban city development consists of two commercial office buildings with street-level
+courtyards.
+
+                             Street Address                            Stories     Lot size (Parcels)
+
+ Karuna II East w/East       25 N Fremont Street                       4 story   ~153 ft x 118 ft (3)
+ Courtyard
+ Karuna II West w/West       3506 N Vancouver Avenue                   5 story   ~103.2 ft x 120 ft (2)
+ Courtyard
+ Public Alley                Fire lane                                             300 ft x 20 ft (1)
+
+
+
+
+                                         Figure A-1 Aerial Site view
+
+
+
+                                                                                    Building Assessment Report
+                                                                                                        Page 1
+                                                                                   Interface Engineering, Inc.
+                                                                 PPS One North Commercial Building Inspection
+                                                                                         September 25, 2025
+
+
+
+
+Architectural Summary
+This section summarizes the architectural assessment of the Karuna II West and East buildings at One
+North, conducted for Portland Public Schools (PPS) to support the Center for Black Student Excellence
+(CBSE). The evaluation covers accessibility, code compliance, safety, and maintenance concerns and
+recommendations.
+
+The Karuna II West and East buildings were designed and constructed at the same time with similar
+materials and finishes. Because of these similarities, the report addresses the site, building exteriors and
+interiors together and differences noted. Observations and recommendations within this report were
+assembled from information gathered during two site visits and review of information provided from the
+building Owner’s representative. A general summary of recommendations is included here with additional
+conditions and recommendations provided in the following sections.
+
+Exterior and Site Conditions
+    •   Maintain wood veneer, sealants, and roof flashings proactively.
+    •   Repair uneven courtyard paving system, particularly at paths along building entries/ exits.
+    •   Evaluate bicycle parking for zoning compliance.
+
+Accessibility and Code Compliance
+    •   Measure exit path illumination levels to ensure code compliance.
+    •   Upgrade signage for accessible exits and elevator landings.
+    •   Install van-accessible parking signage and pavement markings per Oregon code.
+    •   Relocate toilet accessories that interfere with ADA grab bar clearances.
+    •   Replace protruding dispensers exceeding 4 inches along accessible routes.
+
+Safety and Egress
+    •   Improve courtyard lighting levels for visibility during dusk to dawn hours.
+    •   Review building code appeals for stair rail termination issues.
+    •   Repair loose stair base trim and evaluate tight stair landing conditions.
+
+Roof and Terrace Maintenance
+    •   Install and secure roof drain strainers where missing.
+    •   Improve roof walkway access around solar panels for code compliance.
+    •   Repair sagging mechanical screen enclosure gates.
+    •   Verify terrace door opening forces meet accessibility standards.
+    •   Consider additional fall protection measures with PPS standards.
+
+
+
+
+                                                                                   Building Assessment Report
+                                                                                                       Page 2
+                                                                                       Interface Engineering, Inc.
+                                                                     PPS One North Commercial Building Inspection
+                                                                                             September 25, 2025
+
+
+
+
+Architectural Assessment
+The Karuna II East and West buildings are located within a Commercial Mixed Use 3 (CM3) zone,
+surrounded on three sides by public transit and bikeway streets—unlike traditional District campuses that
+typically feature a single building enclosed by fencing. This urban setting supports walkability, multimodal
+access, and community integration.
+
+The East and West buildings are on separate properties with an alley between. The neighboring properties
+to the north share use of the alley. This alley is dedicated fire access for both East and West buildings and
+their northern neighbors. The open space between buildings, including the fire lane, comprises the open
+shared courtyard amenity space in common to the 4 properties.
+
+City zoning regulations do not require on-site parking. Service loading on adjacent streets requires
+advance approval from the city. There is limited on-site parking on the Karuna II East property with eight
+covered parking spaces accessed from North Williams Avenue. These spaces are reserved and monitored
+with towing risk. During site visits, café patrons and delivery vehicles actively used the central open space.
+
+The open courtyard design—a key feature of the city approved “woonerf” (pedestrian street) concept—
+appears to embody the CBSE strategic goals of community engagement, collaboration, and innovation.
+While this open access supports shared use and flexibility, it contrasts with PPS’s typical safety standards,
+which rely on gates, bollards, and fencing to control vehicular access. The District is encouraged to explore
+context-sensitive safety and security solutions that respect the urban character of the site while ensuring
+student and staff safety.
+
+
+
+
+                    Figure A-2 Site diagram – West and East buildings, Fire Lane, and Courtyard
+
+
+
+
+                                                                                        Building Assessment Report
+                                                                                                            Page 3
+                                                                                       Interface Engineering, Inc.
+                                                                     PPS One North Commercial Building Inspection
+                                                                                             September 25, 2025
+
+
+
+
+                           Figure A-3 One North - Directional sign for vehicular parking
+
+
+Site and Courtyard Conditions
+Street frontages on the east, south and west with public sidewalks provide the boundaries for the
+development. The public sidewalks were clean and evenly surfaced in good condition. Radiused corners
+at intersections featured low slope curb ramps with yellow truncated dome detectable warning pads free
+from uneven joints and appear in good condition.
+
+Sidewalk planters located along the street curb are well spaced and planted with mature trees,
+grasses, and mulch. Additional raised planters are part of a painted steel shade structure on busy N
+Fremont Street. The structure is 3-stories high and approximately 24 inches deep buffering pedestrians
+from the building interior along the storefront glazed building street walls.
+
+At the property line, paving materials change from the light-colored concrete to dark stone pavers
+continuous to the buildings entries and through the courtyard. In the same character as the street
+planters, the courtyard features larger planters with mixture of plants, tall mature trees, grasses, mulch,
+and irrigation.
+
+Plant and paving materials are consistent across the site. They appear well established and well
+maintained with areas in need of plant renewal. Low steel rails stamped with artful comments line planter
+edges at several locations. The color contrast and height are low, presenting tripping hazards where paths
+intersect.
+
+The site slopes down from northeast to southwest. Connective walking paths are low slope and appear
+to be accessible routes. Planters and low concrete faced retaining walls provide structured height
+transitions – notably at the Karuna II East building courtyard. Steel punched plates at planters’ edge and
+large organic shaped benches mark the boundaries for pedestrians and vehicles to navigate within the
+courtyard. Removable bollards at the north end of fire lane limit traffic from driving through. Other
+fixtures on site include bicycle racks near building entry doors, benches, and bollard lighting. Irrigation
+heads were visible within courtyard planting beds.
+
+
+                                                                                           Building Assessment Report
+                                                                                                               Page 4
+                                                                                     Interface Engineering, Inc.
+                                                                   PPS One North Commercial Building Inspection
+                                                                                           September 25, 2025
+
+
+
+
+                                Figure A-4 Karuna II East Courtyard view to west
+
+
+
+
+                               Figure A-5 Karuna II East Courtyard view to north
+
+Short term bicycling parking is provided near building entry doors with sidewalk and courtyard
+racks. Long term bicycle parking in both the East and West buildings, when constructed, featured wall
+mounted bicycle racks lining the lobbies as an innovative approach to visibility, access, security, and
+sustainability. This conformed with City zoning long term bicycle parking standards at the time of
+construction. The East and West lobby fixtures vary from the construction documents. No bicycle racks
+were currently in place in the West building lobby. Wall mounted racks at angled walls in the East building
+lobby appeared as protruding objects when entering from the courtyard lobby door.
+
+
+
+                                                                                     Building Assessment Report
+                                                                                                         Page 5
+                                                                                     Interface Engineering, Inc.
+                                                                   PPS One North Commercial Building Inspection
+                                                                                           September 25, 2025
+
+
+
+
+Area for loading services and car parking is limited on the site. The northeastern neighboring
+property utilizes the central courtyard’s dedicated fire lane for access to its car parking area. The Owner’s
+Representative noted that requests to secure the perimeter entry/exit points and parking areas of the site
+with removeable bollards, fencing, and gates to limit vehicular traffic into the courtyard have been
+unsuccessful with the city. Our assumption is that this is due to the fire lane access requirements and
+adjacent property owner access agreements and defies the spirit of the initial design as a ‘woonerf’ aka
+pedestrian street. Signage is the only available designator of ownership at present. During our visit,
+vehicles were observed utilizing the fire lane access and parking in areas clearly marked “no parking.”
+
+Each building has a waste collection room contained within the building. The locked rooms are
+shared among tenant spaces and fitted with a pair of swing doors for staff to maneuver waste collection,
+recycling, and the compost carts and bins out on collection days. This varies from typical District campus
+exterior collection areas accessed from a service drive. Karuna II East waste collection is accessed from the
+covered parking area through a pair of swing doors. Karuna II West collection has access from the main
+lobby interior with exterior doors that open south onto the N Vancouver sidewalk.
+
+
+
+
+                     Figure A-6 Karuna II East Van Accessible parking signage non-conforming
+
+Recommendations
+    •   Observed uneven surfaces and varying joint widths near the West building exterior exit passage
+        and the north entry lobby call box. Other areas may exist, and further review is recommended to
+        repair paver and material transitions resulting in smooth and level surface with well-anchored
+        materials.
+    •   Evaluate exterior lighting levels for conformance with exit path illumination code. include building
+        courtyard exits and connecting paths within the courtyard to the fire lane.
+    •   Coordinate waste collection pick up location and days with tenants and adjacent building owners.
+        Plan for Facilities operational staff to maneuver carts to and from locations on service days.
+    •   An evaluation of bicycle parking provided versus required for the building site is recommended to
+        maintain conformance with city zoning codes as building improvements occur in time.
+
+
+                                                                                       Building Assessment Report
+                                                                                                           Page 6
+                                                                                       Interface Engineering, Inc.
+                                                                     PPS One North Commercial Building Inspection
+                                                                                             September 25, 2025
+
+
+
+
+    •   Recommend including irrigation and planting, particularly the grass and tall trees, as part of a
+        regular maintenance cycle. The grass and mulch replacement cycle will be more frequent than the
+        irrigation and paving system.
+
+Site Accessibility
+Visual survey during site visits found areas of improvement to bring accessibility and wayfinding signage
+into conformance with standards.
+
+Recommendations
+•   Recommend a detailed evaluation and develop conformance schedule for the buildings and site
+    accessible signage.
+•   Karuna II East building accessible parking: Van Accessible sign (R7-8P) and Access Aisle pavement
+    markings required per Oregon Revise Statue (ORS) 447.233 and Oregon Structural Specialty Code
+    Chapter 11 were missing.
+•   Karuna II East and West buildings: Elevator landing and interior tenant signage indicating accessible
+    exits.
+
+Site Safety and Egress
+The south facing open-air courtyard welcomes pedestrians to enjoy its seating and café areas. It also
+invites service vehicles without limitation in contrast to the typical school sites where vehicular traffic is
+separated from student areas and controlled with bollards, gates, or fencing.
+
+Site courtyard is direct access from N Fremont sidewalk and is not fenced off with a secure site perimeter.
+It was noted that the City of Portland will not allow bollards at driveway entrance from street, it must
+remain open access.
+
+
+
+
+                         Figure A-7 Karuna II East Parking and Main Accessible Lobby Entry
+
+
+
+                                                                                        Building Assessment Report
+                                                                                                            Page 7
+                                                                   Interface Engineering, Inc.
+                                                 PPS One North Commercial Building Inspection
+                                                                         September 25, 2025
+
+
+
+
+Figure A-8 Karuna II East Main Lobby and parking entry from Williams Street
+
+
+
+
+            Figure A-9 Karuna II East parking landscape buffer
+
+
+
+
+                                                                    Building Assessment Report
+                                                                                        Page 8
+                                                          Interface Engineering, Inc.
+                                        PPS One North Commercial Building Inspection
+                                                                September 25, 2025
+
+
+
+
+Figure A-10 Karuna II East parking wall damage from cars
+
+
+
+
+   Figure A-11 Karuna II West Main lobby street entry.
+
+
+
+
+                                                           Building Assessment Report
+                                                                               Page 9
+                                                                    Interface Engineering, Inc.
+                                                  PPS One North Commercial Building Inspection
+                                                                          September 25, 2025
+
+
+
+
+         Figure A-12 Karuna II West courtyard main lobby entry door.
+                Prefinished storefront window and door system.
+                 Door bottom rail height is less than 10 inches.
+
+
+
+
+Figure A-13 Karuna II West courtyard entry door approach with access call box.
+                    Overhead downlights at soffit above.
+
+
+
+
+                                                                       Building Assessment Report
+                                                                                         Page 10
+                                                                                      Interface Engineering, Inc.
+                                                                    PPS One North Commercial Building Inspection
+                                                                                            September 25, 2025
+
+
+
+
+                Figure A-14 Karuna II West courtyard view from exit passage to fire lane beyond.
+                  Common courtyard fixtures include lighting, waste receptacles, and benches.
+
+
+
+
+                       Figure A-15 Karuna II West southeast building corner at Fremont.
+                          Base of wood siding less than 7 inches above ground level.
+                       Debris on wood veneer. Grass plantings are fair to poor condition.
+
+Recommendations
+   •   Measure exit illumination levels along path from exit to fire lane.
+   •   Maintenance to remove discoloration on concrete stem wall.
+   •   Maintenance to secure paver system smooth and well anchored. Paver joint with metal insert
+       extends to building from planter.
+   •   Paver wear varies at building wall and beyond drip line.
+   •   Existing exterior furnishings and fixtures—including exterior lighting, waste receptacles, and
+       benches in the courtyard—present safety and fire risks. Recommend evaluating these fixtures are
+
+
+
+
+                                                                                        Building Assessment Report
+                                                                                                          Page 11
+                                                                                   Interface Engineering, Inc.
+                                                                 PPS One North Commercial Building Inspection
+                                                                                         September 25, 2025
+
+
+
+
+        securely anchored to prevent vandalism or displacement, and are strategically placed to support
+        security, sanitation, and fire prevention protocols.
+    •   Repair damage exterior metal panels Karuna II East covered parking walls and install barriers to
+        limit future damage from cars.
+    •   Our observation was during daylight hours. Recommend PPS Risk visit the site during night hours
+        to assess lighting levels in courtyard and parking areas for security and safety.
+    •   Due to “woonerf pedestrian street” design of alley with adjacent courtyards, no striping or other
+        obvious indication exists to delineate vehicular vs pedestrian use. Recommend that PPS Risk
+        evaluate courtyard conditions to determine if bollards or other means to delineate this division of
+        traffic should be installed for safety of occupants.
+
+Building Exterior Conditions
+Completed in 2015, One North set a regional precedent for commercial office buildings in Portland
+through its distinctive architectural design and material palette. The development features exposed wood
+structural framing, operable windows, expansive upper-level terraces, and open, flexible interior layouts—
+elements that reflect the CBSE program’s emphasis on innovation, sustainability, and adaptability.
+Generous natural daylight and views of both the city and surrounding landscape further enhance the
+building’s creative and collaborative environment.
+
+The exterior design remains uncommon for 4- and 5-story commercial buildings in Portland. Curved walls
+clad in stained wood veneer, white-painted projecting apertures, and low-profile roof coping and
+flashings contribute to the building’s unique character but require more frequent upkeep than the PPS
+District Standard brick and metal panel systems, which follow a 20-year maintenance cycle.
+
+Since its construction, the building has been maintained by reputable firms including Snyder Roofing,
+Johnson Controls, and Patriot Fire. These companies have provided ongoing service for roof systems,
+mechanical and electrical infrastructure, and fire protection systems. In 2024, exterior maintenance
+included repainting the apertures and refinishing the wood-clad curved walls, preserving the building’s
+architectural integrity and performance.
+
+Building exterior doors swing out to the sidewalk and courtyard exit direction. Entry/exit doors to
+lobby and other street level spaces do not have standard PPS door stop bollards. If door-stop bollards are
+desired, it may be unlikely that they can be installed in all locations, due to the cost of demolishing the
+sidewalk or pavers and the location on street sidewalk. Incorporating card swipes and ADA buttons while
+limiting surface-mounted elements requires further study.
+
+Building lobby and tenant spaces do not have exterior air lock vestibules. No vestibules are provided
+at the building entry lobby, entry from site is directly into the lobby. Walk off floor surface is provided.
+Providing exterior vestibules to reduce energy loss and provide secure entry area is common for school
+buildings.
+
+The ownership of commercial office buildings with tenant agreements comes with building management
+and maintenance that vary from school buildings. Operations costs with regularly scheduled maintenance
+and repairs will preserve the development character and set precedent for the program.
+
+A starting point for planning purposes:
+
+
+
+                                                                                   Building Assessment Report
+                                                                                                     Page 12
+                                                                                Interface Engineering, Inc.
+                                                              PPS One North Commercial Building Inspection
+                                                                                      September 25, 2025
+
+
+
+
+        Exterior Materials            Maintenance             Replacement/            Project Year
+                                                              Major repair            from 2024
+        Stained wood veneer           Annually                3-5 years               2027
+        Joint sealants                Annually                3-5 years               2027
+        Aperture                      Annually                3-5 years               2027
+        Steel Frame Planter and       Annually                15-20 years             2027
+        Shade
+        Exterior doors and frames     Annually                15-20 years             2027
+        Window system                 Annually                15-20 years             2030
+        Operable windows/ screens     Annually                With Windows            2030
+        Roof drains                   2 times per year        20 years                2035
+        Terrace Pavers (roof)         2 times per year        20 years                2035
+        Building roof                 2 times per year        20 years                2035
+        Solar panels                  Monthly/ Quarterly      15-20 years             2030 - 2035
+
+Recommendations
+    •   Obtain the building and site maintenance and repair records for PPS to reference.
+    •   Transfer building material and manufacturer warranties to new Owner.
+    •   Develop O and M schedule and budget to continue consistent and proactive exterior
+        maintenance for the wood veneer, sealants, drains, and roof flashings.
+    •   Evaluating the building entries for energy and building code conformance is recommended for
+        energy savings and potential security measures.
+
+Apertures, Terraces, and Roofs
+Both the Karuna II West and East building exterior walls curve and offset from floor to floor creating
+uniquely shaped overhangs and roof areas. Apertures frame windows, and the shifts in floor plate provide
+overhangs, roof areas with terraces, and roof areas above. Building roofs slope to interior roof drains.
+Drains collect in the ceiling space below and travel towards central area before dropping vertically to
+storm line below.
+
+
+
+
+                                                                                Building Assessment Report
+                                                                                                  Page 13
+                                                                                       Interface Engineering, Inc.
+                                                                     PPS One North Commercial Building Inspection
+                                                                                             September 25, 2025
+
+
+
+
+                            Figure A-16 Karuna II roof to exterior wall and roof drain.
+                                 Install roof drain screen and anchor into flange.
+
+Terraces extend the views and usable space for upper tenant level spaces. Exterior swing doors from
+tenant spaces walk out onto concrete pavers. The terrace pavers with open joints conceal primary and
+overflow roof drains on the roof surface below. Glass guard rails maximize the attractive city views and
+with their position close to the edge of the building and “on grade” shelf on the opposite side present a
+concern for use by students or public if someone climbed it.
+
+Once on the roof terrace – access back into the building does not appear to be controlled. Based on prior
+PPS projects with roof terraces, PPS typically would want to control access after-hours and may require a
+call box. Retrofit work and an appeal may be necessary to get access control and hardware working in
+accordance with PPS typical operations, for PPS Risk review.
+
+Roof finishes are white with roof membranes adhered to low profile coping. Dirt and debris on the white
+membranes are visible through tenant windows from the interior and adjacent buildings. Frequent
+maintenance will be necessary to keep the area clean and avoid deterioration. The only way to clean these
+areas would be via vertical lift from the street and courtyard.
+
+
+
+
+                                                                                          Building Assessment Report
+                                                                                                            Page 14
+                                                                                      Interface Engineering, Inc.
+                                                                    PPS One North Commercial Building Inspection
+                                                                                            September 25, 2025
+
+
+
+
+               Figure A-17 Karuna II East building white apertures surrounding upper-level windows.
+
+The building’s primary roof is access by ships ladder through large roof hatch. The ships ladder and hatch
+provide ease of access from stair below. The hatch lid when open on Karuna II East building provides a
+barrier at the north building roof edge. A short section of raise parapet provides a tall guard when
+stepping onto the roof. The roof hatch on Karuna II West building is centrally located within a few steps of
+the main mechanical equipment enclosure.
+
+Rooftop features include a mechanical screen enclosure, raised roof over the elevator shaft, and large area
+of solar roof panel racks. Solar racks rest on top of the roof membrane and ballasted with concrete blocks.
+Walkway widths for maintenance of solar roof panels were less than required along the roof perimeter to
+panels do not conform with code.
+
+Main building roof has various heights with the tallest transition to elevator roof measure approximately
+22 inches from the main roof. Conditions at the roof perimeter vary with low raised parapets and stepped
+roofs. Traditional raised parapet with coping cap varies in height from 9-14 inches at the roof perimeter.
+Step along perimeter of roof varies in height from 6-12 inches before extending out to finish with a low
+slope coping beyond.
+
+Painted steel mechanical screens surround roof top mechanical equipment near the roof centers. Roof top
+equipment on raised curbs, surface conduits, and pipes on blocks, and control panels mounted to the
+screen frame can be found within the enclosure. Doors on the enclosure are heavy steel with lever
+hardware and latches. The doors have sagged over time and require effort for them to close.
+
+Fall protection exists with a single tie off near the roof center and additional D-rings welded to the screen
+tube steel posts of the mechanical screen enclosure. Exterior lighting was not observed on the roof level.
+
+Recommendations
+    •   Secure roof drain screen baskets to trim ring.
+
+
+
+                                                                                        Building Assessment Report
+                                                                                                          Page 15
+                                                                                   Interface Engineering, Inc.
+                                                                 PPS One North Commercial Building Inspection
+                                                                                         September 25, 2025
+
+
+
+
+•   Adjust mechanical screen enclosure gates to remove sag and result in ability to open and close
+    without force.
+•   Adjust solar panel racks to provide walkways at roof perimeter to conform with code.
+•   Evaluate installation of additional fall arrest anchors for worker safety tie off.
+•   Engage PPS Risk to evaluate roof terraces for student and public use areas. The guard rail to roof
+    ledge configurations and access control after hours.
+
+
+
+
+                            Figure A-18 Karuna II West unique roof shapes.
+                                 View north from tenant space level 4.
+
+
+
+
+                         Figure A-19 Karuna II West. Roof drain at exterior wall.
+                                  View east from level 4 tenant space.
+
+
+
+
+                                                                                    Building Assessment Report
+                                                                                                      Page 16
+                                                                         Interface Engineering, Inc.
+                                                       PPS One North Commercial Building Inspection
+                                                                               September 25, 2025
+
+
+
+
+               Figure A-20 Karuna II West. Roof drain at exterior wall.
+                        View west from level 4 tenant space.
+
+
+
+
+Figure A-21 Karuna II West South terrace doors in alcove with sprinkler and downlight.
+                          Downlight repair recommended.
+                              South terrace at level 2.
+
+
+
+
+                                                                          Building Assessment Report
+                                                                                            Page 17
+                                                                 Interface Engineering, Inc.
+                                               PPS One North Commercial Building Inspection
+                                                                       September 25, 2025
+
+
+
+
+Figure A-22 Karuna II West South terrace door alcove from tenant space.
+Verify terrace door opening forces conform with accessible requirements.
+
+
+
+
+         Figure A-23 Karuna II West south terrace view east.
+          Concrete paver finish over roof with drains below.
+  Glass guard rail height at perimeter conforms with code minimum.
+
+
+
+
+                                                                   Building Assessment Report
+                                                                                     Page 18
+                                                                         Interface Engineering, Inc.
+                                                       PPS One North Commercial Building Inspection
+                                                                               September 25, 2025
+
+
+
+
+                Figure A-24 Figure 48 Karuna II West Roof Access hatch.
+
+
+
+
+Figure A-25 Karuna II East Roof Access hatch and perimeter guard at north building wall.
+
+
+
+
+                                                                           Building Assessment Report
+                                                                                             Page 19
+                                                                      Interface Engineering, Inc.
+                                                    PPS One North Commercial Building Inspection
+                                                                            September 25, 2025
+
+
+
+
+Figure A-26 Karuna II West 'D ring' anchor on mechanical screen enclosure post.
+
+
+
+
+     Figure A-27 Karuna II West fall restrain anchor at main building roof.
+
+
+
+
+                                                                        Building Assessment Report
+                                                                                          Page 20
+                                                                          Interface Engineering, Inc.
+                                                        PPS One North Commercial Building Inspection
+                                                                                September 25, 2025
+
+
+
+
+Figure A-28 Karuna II West view inside main building roof top mechanical screen enclosure.
+
+
+
+
+       Figure A-29 Karuna II West main building roof parapet coping at north wall.
+                              Gas line on surface blocks.
+                       Standpipe and elevator roof view beyond.
+
+
+
+
+                                                                            Building Assessment Report
+                                                                                              Page 21
+                                                               Interface Engineering, Inc.
+                                             PPS One North Commercial Building Inspection
+                                                                     September 25, 2025
+
+
+
+
+   Figure A-30 Karuna II West building roof step at south wall.
+
+
+
+
+Figure A-31 Karuna II West building roof step at northeast corner.
+
+
+
+
+                                                                  Building Assessment Report
+                                                                                    Page 22
+                                                                                         Interface Engineering, Inc.
+                                                                       PPS One North Commercial Building Inspection
+                                                                                               September 25, 2025
+
+
+
+
+                      Figure A-32 Karuna II West roof at elevator roof and north property line.
+              Metal joint cover transitions from building roof to elevator roof clad in metal roof panel.
+                                      Fire standpipe onto roof from stair below.
+
+
+
+Building Interior
+
+For both Karuna II West and East buildings the overall building interior aesthetic is open, warm, and
+inviting with exposed concrete and mass timber on floors 2 and above. Mass timber is new material for
+Portland Public Schools but has been used on at least one recent project. Concern over damage to the
+material by denting or marking due to user or maintenance interference does not appear to be an issue in
+practice.
+
+Common Shared Elements
+The Karuna II West and East buildings each have main building entries with public street facing doors and
+main lobbies connecting through to the courtyard. Street level tenant spaces have street or courtyard
+facing exterior doors. The main lobby for each building provides access to fire sprinkler room, electrical
+room, elevator and elevator room, and waste collection room with convenient street level access. The
+lobby and waste collection room is a common, shared element between building tenants. Shared spaces
+at main level include gendered toilet rooms and separate locker room with shower facilities.
+
+Upper levels of the buildings vary with tenant space layouts.
+
+
+
+
+                                                                                            Building Assessment Report
+                                                                                                              Page 23
+                                                                                       Interface Engineering, Inc.
+                                                                     PPS One North Commercial Building Inspection
+                                                                                             September 25, 2025
+
+
+
+
+                                  Figure A-33 Karuna II West Street entry lobby.
+                         Mail and Waste collection room access point for building tenants.
+
+
+Exit Stairs
+Each building has two interior exit stairs and an elevator. The elevators open onto landings at each floor
+above street level. Elevator smoke doors and enclosed lobbies were not observed during the site visit.
+
+The exit-stair enclosures are rated walls and doors fitted with closers and latching, lever hardware.
+Stairwells are finished with painted gypsum board walls and rubber base. Stair construction is wood with
+rubber nosing, treads, and stringer face. Stair handrails are wall-mounted painted steel. A center wall
+between stringers provides continuous wall separating stringers. Guard walls at the top floor landings are
+finished with painted gypsum board measuring more than minimum 42 inches above finish floor in
+compliance with applicable codes.
+
+One stair for each building includes fire riser and roof access by way of ships ladder at its highest floor
+level. Roof hatch size conforms with code and district standards provided convenient access for
+maintenance work. Stair signage within the stair conforms with a code.
+
+Each stair was visually reviewed for consistency of finish and condition. A random sampling of stair rails,
+riser, tread, and walkline measurements found riser height, tread depth, handrail height, continuity, and
+termination, landing depth and walkline to be in close conformance with applicable codes.
+
+
+
+
+                                                                                         Building Assessment Report
+                                                                                                           Page 24
+                                                                  Interface Engineering, Inc.
+                                                PPS One North Commercial Building Inspection
+                                                                        September 25, 2025
+
+
+
+
+Figure A-34 Karuna II West and East Stair signage conforms with code.
+
+
+
+
+Figure A-35 Karuna II East and West Interior Exit Stair typical finishes
+
+
+
+
+                                                                     Building Assessment Report
+                                                                                       Page 25
+                                                                      Interface Engineering, Inc.
+                                                    PPS One North Commercial Building Inspection
+                                                                            September 25, 2025
+
+
+
+
+Figure A-36 Interior Stair guard wall and ship ladder roof access at top landing.
+
+
+
+
+         Figure A-37 Karuna II West and East stair landing walk lines.
+       Fire standpipe drain valve beyond walk line conforms with codes.
+
+
+
+
+                                                                         Building Assessment Report
+                                                                                           Page 26
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+Recommendations
+    •   Karuna II West Stair 2: Minor maintenance is needed to secure loose rubber stringer base near
+        mid-level landing Level 2 and below in Karuna West Stair 2 (south stair).
+    •   Level 1 Karuna West Stair 2 Level 1: This stair exits to the Courtyard by exit passage. The landing
+        depth at base of stair is tight fitting space compounded with the inside rail termination projecting
+        beyond the wall. The rail termination does not conform with code. The return of the rail to the
+        wall was a commonly accepted practice at the time of construction and presents a hardship for
+        modification to conform today. Recommend review of building code appeals submitted at time of
+        construction.
+
+Toilet Rooms
+Karuna II West and East buildings each provide common use gendered toilet facilities including main level
+locker rooms with shower facilities. Restrooms are gendered, which deviates from the all-user approach
+taken with the most recent PPS school modernizations and new construction. A janitor’s closet with mop
+sink is located near the facilities. Room signage for these spaces is accessible with exception of the Karuna
+II East Levels 2-5 and within Karuna II West Level 3 full floor tenant space.
+
+Karuna II East building toilet facilities are unique to each floor and tenant. The street level healthcare
+tenant’s space has two single-user rooms to support patient functions. The healthcare and café tenant
+spaces share gendered toilet rooms with two compartments and two lavatories. Employees and café
+patrons have access to this common hallway between tenant spaces. This hallway also provides a second
+exit for the café tenant that also leads to an exterior exit door.
+
+On floors 2-4 in Karuna II East, the toilet rooms are located near the elevator, but not in view, and
+efficiently stack from floor to floor. Room signage on these floors is unique and not consistent with
+accessibility standards. Fixtures within the room match the development standards with floor-mounted
+partitions, toilets, and wall hung urinals. Accessory finishes vary from building standard finishes in this
+tenant space.
+
+Karuna II West building toilet rooms stack from floor 1 to 5 and share a common layout at each level.
+Floor Level 1 has two lavatories in each toilet room unlike floors 2-5 above with a single lavatory in each.
+Floor finishes are polished concrete or resilient flooring with rubber base.
+
+Building standard finish for fixtures is white with polished chrome. Fixtures are floor mounted with
+exception that urinals and lavatories are wall mounted. Faucets are typically hands-free Kohler brand and
+vary in style by tenant. Gendered rooms with multiple fixtures are fitted with floor mounted metal
+partitions with finishes that vary by floor level and tenant. Accessories including grab bars, toilet paper
+dispensers, toilet paper dispensers, toilet seat covers, and sanitary napkin dispensers are satin stainless
+steel and brushed chrome typically. Paper towel and soap dispensers vary in location, brand, and
+mounting. The East building tenant space on floors 2-4 has a custom color finish for accessories.
+
+Primarily walls are finished painted gypsum board with rubber base except wet areas at showers and mop
+sinks where wall protection is installed. From a maintenance perspective, the toilet rooms are not
+provided with tile or other durable wainscot materials common in PPS facilities. Tile wall finish was
+observed in the first floor changing and locker rooms. Ceiling finishes vary from metal panel in a
+suspended grid to painted gypsum board and are most commonly open to structure above.
+
+
+                                                                                    Building Assessment Report
+                                                                                                      Page 27
+                                                                                       Interface Engineering, Inc.
+                                                                     PPS One North Commercial Building Inspection
+                                                                                             September 25, 2025
+
+
+
+
+Toilet room doors are equipped with closers. Single user rooms have thumb-turn latch in addition to
+closer ones. Shower and changing room doors have secure access by card reader or keypad. Flooring
+finishes are concrete or solid surface with slight slope to a common floor drain.
+
+Overall toilet rooms are well maintained and accessible with few exceptions.
+
+Recommendations
+    •   Mounting of accessories below grab bar interferes with grab bar operations and is recommended
+        to be relocated per ADA standards.
+    •   Wall-mounted paper towel dispensers on site measured more than four inches and where they
+        are located along the accessible route from toilet room door to accessible stall are considered
+        protruding objects. Installing a maximum 4-inch-deep dispenser is recommended at these
+        locations.
+
+
+
+
+                      Figure A-38 Karuna II West Street Level gendered toilet room finishes.
+
+
+
+
+                      Figure A-39 Karuna II West Street level gendered toilet room finishes.
+
+
+                                                                                         Building Assessment Report
+                                                                                                           Page 28
+                                                                    Interface Engineering, Inc.
+                                                  PPS One North Commercial Building Inspection
+                                                                          September 25, 2025
+
+
+
+
+    Figure A-40 Karuna II West Upper-level gendered toilet room finishes.
+
+
+
+
+       Figure A-41 Surface mounted Paper towel dispensers protrude
+more than four inches from wall on the route to accessible toilet compartment.
+
+
+
+
+                                                                      Building Assessment Report
+                                                                                        Page 29
+                                                                               Interface Engineering, Inc.
+                                                             PPS One North Commercial Building Inspection
+                                                                                     September 25, 2025
+
+
+
+
+Figure A-42 Wall hung lavatory maneuvering clearance and hands-free operating faucet provided.
+
+
+
+
+                 Figure A-43 Typical accessible toilet and grab bar installation.
+
+
+
+
+                                                                                    Building Assessment Report
+                                                                                                      Page 30
+                                                                          Interface Engineering, Inc.
+                                                        PPS One North Commercial Building Inspection
+                                                                                September 25, 2025
+
+
+
+
+            Figure A-44 Grab bar and Toilet Accessories surface mounted.
+Projection and location of accessories conflict with accessible clearances for grab bar.
+
+
+
+
+                   Figure A-45 Main Level Changing room showers
+
+
+
+
+                                                                             Building Assessment Report
+                                                                                               Page 31
+                                                                                      Interface Engineering, Inc.
+                                                                    PPS One North Commercial Building Inspection
+                                                                                            September 25, 2025
+
+
+
+
+Elevators and Landings
+Both Karuna II West and East buildings have a single-cab Schindler elevator connecting the floors. Access
+for visitors is elevator-only. Elevator cab finishes are stainless steel with handrails mounted at sides and
+rear cab. Elevator call buttons at each floor are located at the hoistway door side jamb within reach range
+for accessible maneuvering clearances. Elevator hoistway doors are stainless steel finish, similar in
+appearance to the building common area hardware finishes.
+
+Elevator landings on Level 2 and above open directly onto the floor. In 4- and 5-story buildings equipped
+with automatic fire sprinklers, enclosed elevator lobbies are required except by building code exceptions
+where additional smoke doors or curtains are provided. Smoke containment at elevators was not reviewed
+for code conformance during the site visits. Signage was minimal at the landings, and no signage was
+observed that indicated elevators should not be used for exiting the building.
+
+Karuna II West building has four stories above street level and requires an elevator equipped with standby
+power for accessible egress. A roof mounted natural gas generator serves the elevator emergency power
+for this building only. This calls attention to the need for building signage marking accessible route across
+site, within buildings, and exiting.
+
+
+
+
+                               Figure A-46 Karuna II West Elevator Landing Level 2
+
+
+
+
+                                                                                      Building Assessment Report
+                                                                                                        Page 32
+                                                              Interface Engineering, Inc.
+                                            PPS One North Commercial Building Inspection
+                                                                    September 25, 2025
+
+
+
+
+Figure A-47 Karuna II West and East building elevator cab interior
+
+
+
+
+      Figure A-48 Elevator call buttons mounted on frame.
+
+
+
+
+                                                                Building Assessment Report
+                                                                                  Page 33
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+Tenant Spaces
+Existing Karuna II West and East buildings vary in the number and size of tenants. Both the West and East
+building street levels currently provide space for two tenants in addition to the main lobby, service rooms,
+locker rooms, and long-term bicycle parking.
+
+Floor Plans and Finishes
+
+The East building has a larger “U-shaped” floor footprint than the West buildings “L-shaped” plan. Both
+buildings provide some common elements (elevator, two interior exit stairs, and gendered toilet rooms)
+on each level. The West building’s smaller floor footprint was constructed with the flexibility to have a
+single or multiple tenants on each floor and features a 5th floor making the building similar in building
+area.
+
+The building interior finishes and fixtures observed on site are industry standard ‘vanilla box’ for
+commercial tenant spaces, providing a clean base for tenants to customize for an additional cost. The First
+Floor Street level tenant spaces feature concrete floors, aluminum frame windows and doors, exposed
+structural concrete columns, and structural slab ceiling above.
+
+Upper-level floor finishes included variety of exposed concrete, carpet tile, resilient sheet flooring with
+wall base finishes of rubber and wood. Within the tenant spaces, wall finishes were customized with
+writable surface paint or magnetic metal surfaces, wood cladding and wallcoverings. Common hallway
+areas were observed to be gypsum board without a wainscot material or plaster finish necessary to
+withstand the heavy impacts common in schools and student use areas.
+
+The East building, floors 2 and above, was built as a single multi-level tenant space with a central atrium
+and open stair. This unique space features tenant-specific finishes like stadium seating, an open stair,
+metal guards lining the atrium level openings, and fire shutters at the top floor to separate it from the
+floors below. The toilet room fixture layout, location near elevator landing, and accessories vary from the
+West building. This open atrium area with its handsome learning stair constructed of durable materials
+would be beneficial for gatherings and presentations and comes finished with existing motorized shades.
+
+The open stair connects levels 2, 3, and 4 within the tenant space. The open stair guard is made of black
+steel and welded wire mesh panels that appear sturdy and easy to maintain. The perimeter balcony guard
+is provided with built-in tables for use as a “brain bar” or ledge to sit at with stools. Design detailing and
+install of the stair handrail leaves some hard, sharp edges and corners that may be of concern in an
+environment used heavily by students. The ledges provide useful work and social space but may be of
+concern due to location adjacent to “open to below” space, and any objects placed on these ledges (i.e.,
+potted plants) could be easily pushed off and over the edge of the balcony.
+
+Conference/office spaces are provided along the west side of the East building tenant space on all levels
+2-4. The floor-to-ceiling black steel and glass walls are attractive and sturdy but may be of concern due to
+their minimalist design since it would be easy to walk into the glass. Due to the black steel frames and
+heavy glass, the doors to these rooms are very heavy and the pound force needed to operate them
+appears to exceed code. Door buttons have been provided in these rooms to “request exit.”
+
+
+
+
+                                                                                     Building Assessment Report
+                                                                                                       Page 34
+                                                                                       Interface Engineering, Inc.
+                                                                     PPS One North Commercial Building Inspection
+                                                                                             September 25, 2025
+
+
+
+
+Polished concrete and carpet tile flooring in the East building suite is suitable and in keeping with PPS
+standards, however the base detail utilizing a small painted wood shape at the intersection of wall to floor
+will be difficult to maintain per standard PPS cleaning practices. Carpet installation where floor meets the
+wall was inconsistently cut and the base did not lap the carpet in all areas.
+
+Kitchens and Utilities
+
+Tenant spaces in both buildings include kitchen spaces varying from the street level restaurant with
+commercial equipment and walk-in freezer to office kitchenettes. The interior fit out of tenant spaces is
+designed by tenant in agreement with building management and as approved through building permits.
+This custom approach allows variation for tenant satisfaction and adds complexity to building operations
+and maintenance.
+
+Several upper-level tenant spaces in both buildings are built out with linear style kitchen spaces and 34-
+inch-high counter tops. Casework varies in finish as selected by the tenant. The kitchen spaces do not
+stack from floor to floor in the buildings. The utilities for power, drain, vent, and gas lines have paths
+leading back to common walls near stairs and elevators, typically. These lines are exposed to ceilings on
+the floors below and in some cases require special access panels and hatches where tenants have finished
+ceilings. Electrical panels were not all located inside rooms. Panels located in common areas were in flush-
+mounted cabinets with locks.
+
+Fixtures include sink, faucet, dishwasher, and appliances, which vary with refrigerators, microwaves, and, in
+one West building kitchen, an electric range with hood. The East building primary tenant space features a
+commercial gas range with hood on its top floor level. Additionally, the East building top level features a
+gas fireplace appliance, unique to office tenant space.
+
+
+
+
+                             Figure A-49 Karuna II - Tenant Shell Space - Street Level
+
+
+
+
+                                                                                         Building Assessment Report
+                                                                                                           Page 35
+                                                                 Interface Engineering, Inc.
+                                               PPS One North Commercial Building Inspection
+                                                                       September 25, 2025
+
+
+
+
+ Figure A-50 Karuna II West Level 1 Storefront sill at curb condition
+
+
+
+
+Figure A-51 Karuna II West Level 2 - Corridor for multi-tenant access.
+
+
+
+
+                                                                   Building Assessment Report
+                                                                                     Page 36
+                                                     Interface Engineering, Inc.
+                                   PPS One North Commercial Building Inspection
+                                                           September 25, 2025
+
+
+
+
+Figure A-52 Karuna II West - Tenant Shell Space.
+
+
+
+
+Figure A-53 Karuna II West - Tenant shell space.
+
+
+
+
+                                                     Building Assessment Report
+                                                                       Page 37
+                                                                   Interface Engineering, Inc.
+                                                 PPS One North Commercial Building Inspection
+                                                                         September 25, 2025
+
+
+
+
+Figure A-54 Karuna II East stadium seating and open stair in tenant space.
+    Open space connecting 3 floors with fire shutters at level top level.
+                Steel stair with guard and continues rail.
+                     View west to courtyard beyond.
+
+
+
+
+      Figure A-55 Karuna II East open stairs at tenant space Level 3.
+
+
+
+
+                                                                        Building Assessment Report
+                                                                                          Page 38
+                                                                       Interface Engineering, Inc.
+                                                     PPS One North Commercial Building Inspection
+                                                                             September 25, 2025
+
+
+
+
+Figure A-56 Karuna II East tenant space Level 3 kitchen with terrace doors to left.
+
+
+
+
+     Figure A-57 Karuna II East tenant kitchen gas range with hood above.
+
+
+
+
+                                                                          Building Assessment Report
+                                                                                            Page 39
+                                                                           Interface Engineering, Inc.
+                                                         PPS One North Commercial Building Inspection
+                                                                                 September 25, 2025
+
+
+
+
+Figure A-58 Karuna II East tenant space with wood fireplace and exhaust through roof above.
+
+
+
+
+                    Figure A-59 Karuna II West - Tenant space kitchen
+
+
+
+
+                                                                            Building Assessment Report
+                                                                                              Page 40
+                                                                                       Interface Engineering, Inc.
+                                                                     PPS One North Commercial Building Inspection
+                                                                                             September 25, 2025
+
+
+
+
+                     Figure A-60 Karuna II West - Tenant kitchen with electric range and hood.
+
+
+Building Signage
+The building signage for Karuna II West and East buildings is similar in theme and style for the two
+buildings. Exterior building signage at the main street entries is applied to the storefront glass. Tenant
+spaces at street level also have signage near their street entry doors. Size and color of tenant signage
+varies as allowed with city permit standards.
+
+Service rooms, common use rooms have signs indicating the use. Sign types vary and are typically raised
+letters in contrasting color to the background. Braille below the raised letters is typical at common area
+signs including the tenant side of exit stairs.
+
+Signage at elevator landings is minimal. Accessible route and exit access signage inside and outside
+buildings was not observed to connect primary elements. Code required accessible exit signage was not
+observed in either building.
+
+Typical signage for toilet rooms, interior exit stairs conforms with code for mounting height, symbols,
+raised characters and braille. Conformance varies inside tenant spaces.
+
+
+
+
+                                                                                        Building Assessment Report
+                                                                                                          Page 41
+                                                              Interface Engineering, Inc.
+                                            PPS One North Commercial Building Inspection
+                                                                    September 25, 2025
+
+
+
+
+Figure A-61 Karuna II West - Typical gendered toilet room signage
+
+
+
+
+ Figure A-62 Karuna II West - Tenant space toilet room signage.
+     Lettering applied to wall surface is not raised and does
+    not conform to code for accessible toilet room wayfinding.
+
+
+
+
+                                                                  Building Assessment Report
+                                                                                    Page 42
+                                                                                        Interface Engineering, Inc.
+                                                                      PPS One North Commercial Building Inspection
+                                                                                              September 25, 2025
+
+
+
+
+Doors and Hardware
+Door and frame materials vary for the buildings. Exterior doors and frame types include aluminum
+storefront or hollow metal with insulated steel. Storefront doors have narrow frames and low aprons
+where the steel doors are single panel without windows. Service room and exit stairs are fitted with single
+panel, painted steel doors and frames.
+
+Tenant entry doors are general stained wood finish with frosted glass full light. Variations for painted
+finish on tenant entry were observed on site in the Karuna II West building.
+
+Door hardware is brushed chrome finish across the site except unique conditions within the Karuna II East
+building tenant space levels 2 and above; the exterior concealed hinges; and mechanical equipment
+screen gates. Lever action hardware exists with varying profiles. Exit doors were observed to have closers
+with latches and panic bars.
+
+
+
+
+            Figure A-63 Karuna II West - Main building lobby shared use mail and trash collection access.
+
+
+
+
+                                                                                          Building Assessment Report
+                                                                                                            Page 43
+                                                                          Interface Engineering, Inc.
+                                                        PPS One North Commercial Building Inspection
+                                                                                September 25, 2025
+
+
+
+
+Figure A-64 Karuna II West and East buildings – Service room door and signage – Main lobby
+
+
+
+
+                      Figure A-65 Karuna II West - Tenant entry door
+
+
+
+
+                                                                           Building Assessment Report
+                                                                                             Page 44
+                                                                                     Interface Engineering, Inc.
+                                                                   PPS One North Commercial Building Inspection
+                                                                                           September 25, 2025
+
+
+
+
+                  Figure A-66 Karuna II West - Tenant entry door wood glazed door and hardware
+
+
+
+
+                  Figure A-67 Karuna II West - Tenant entry door wood glazed door and hardware
+
+
+Windows and Treatments
+Karuna II West and East buildings the exterior windows are aluminum with insulated glass. Street level
+aluminum storefront window and doors are dark colored. The street level window sills are anchored on
+low concrete curbs. At upper-levels the exterior windows and doors are white aluminum frame and on
+terraces the sills are anchored at the floor. Generally, all windows are fixed lites with their Interior window
+opening surrounds finished in painted gypsum board. Operable windows, integrated into the window
+systems on upper floors, have screens and limiters that prevent the window opening more than four
+inches. The operable windows provide tenants with ability to control fresh air flow in conformance with
+LEED building standards.
+
+Windows treatments in tenant spaces are consistent in color and style through both buildings. Window
+treatments provide building users the ability to control the amount of natural window light and adjust
+privacy from exterior views. Shades are roller style with variation of manual and motorized operation.
+Black out shades in addition to perforated light shades occur in some spaces. Shade style is consistent
+with PPS standards.
+
+The East building primary tenant space features conference rooms and office spaces on the west side of
+levels 2-4. The floor-to-ceiling black steel and glass walls separate these spaces from the open office. The
+Glass walls are attractive and sturdy but may be of concern due to their minimalist design since it would
+be easy to walk into the glass. Due to the black steel frames and heavy glass, the doors to these rooms
+are very heavy and the opening force needed to operate them appears to exceed code. Door buttons to
+“request exit” are provided in these rooms.
+
+
+
+
+                                                                                      Building Assessment Report
+                                                                                                        Page 45
+                                                                                      Interface Engineering, Inc.
+                                                                    PPS One North Commercial Building Inspection
+                                                                                            September 25, 2025
+
+
+
+
+In the West building the full floor tenant Level 3, private offices and other rooms are fitted with access
+control swipe pads to secure the rooms. The suite also has motorized black out shades with switch
+controls near the room entry doors.
+
+
+
+
+                   Figure A-68 Karuna II West and East building roller shade window treatments
+
+
+
+
+                          Figure A-69 Karuna II West and East building windowsill finish
+
+
+
+
+                                                                                           Building Assessment Report
+                                                                                                             Page 46
+                                                                                 Interface Engineering, Inc.
+                                                               PPS One North Commercial Building Inspection
+                                                                                       September 25, 2025
+
+
+
+
+Recommendations
+   •   Recommend consideration of more durable material such as solid surface at windowsills in areas
+       of student use areas.
+   •   Recommend evaluation and consideration to install durable, heavy impact finishes in areas where
+       student use is planned.
+   •   In East building primary tenant space floors 2-4, recommend that PPS Risk review conditions:
+            o Around learning stair, recommend at a minimum that “brain bars” be removed or that
+                decorative panels be added that provide a barrier.
+            o Conference/office spaces glass walls and doors to determine if glazing film is desired, or if
+                the renovation replaces these with more conventional storefront/doors and hardware.
+            o Roof terrace door access control.
+            o Roof terrace guard rail to roof ledge configurations.
+            o Review the fireplace with glass doors and a black steel surround installed on the 4th floor,
+                south for consideration to remove the appliance. The layout of this fireplace and space
+                behind it creates a “hidden area” west of the fireplace, with poor sightlines.
+   •   Where electrical and service panels were not all located inside locked rooms. Recommend
+       securing the panels with locks where visible and accessible to view in common areas.
+   •   For O and M purposes, recommend an evaluation locations where motorized and manual shades
+       occur.
+
+
+                                 END OF ARCHITECTURAL SECTION
+
+
+
+
+                                                                                 Building Assessment Report
+                                                                                                   Page 47
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+Structural
+Summary of recommended but not required Structural
+cost items
+•   As with many mass timber structures, some shrinkage has occurred over time, resulting in localized
+    gaps at connections where bolts or screws have loosened. This shrinkage should be substantially
+    complete at this stage, and it is recommended that any loose bolts and lag screws, exposed to view
+    be tightened to maintain proper bearing at connections.
+•   Overall, no conditions were observed that would indicate a reduction in the structural integrity of the
+    building.
+
+
+Discussion West Building “Karuna II West”
+Karuna II West is a five-story office building constructed in 2014 under the 2010 Oregon Structural
+Specialty Code. The structure was designed as a Risk Category II facility, consistent with typical mid-rise
+office occupancies. The first story is composed of reinforced concrete construction, with a 12” to 14” thick
+post-tensioned concrete slab at the second level supported by concrete columns and concrete shear
+walls. Above the concrete podium, the building transitions to mass timber framing. Floor construction at
+the upper levels consists of 5/8-inch plywood over 4-inch Lock-Deck panels, supported by glulam beams
+and columns. Lateral resistance in the mass timber portion is provided by plywood-sheathed shear walls,
+supplemented by a pair of steel moment frames. The foundation system consists of reinforced concrete
+spread footings bearing on engineered granular pads. The roofs support a ballasted PV array as well as
+mechanical equipment that is located behind a screen wall.
+
+Karuna II West has been in service for approximately eight years and, as a relatively new structure, appears
+to be performing as expected. The mass timber framing did not exhibit significant checking or splitting;
+while some minor checking was observed, it is consistent with the natural behavior of timber and
+considered typical for this type of construction. Minor drywall cracking was noted in isolated locations,
+particularly at re-entrant corners, which is also common in buildings of this age and structural system. A
+few timber connections exhibited visible gaps due to shrinkage over time.
+
+In reviewing the structural drawings, we noted that the post-tensioned slab at Level 2 was not detailed to
+accommodate shrinkage in the manner typically expected. Standard practice often includes a pour joint
+near the mid-span of the slab or a slip joint at the slab-to-wall interface, which allows the slab to shrink
+before a pourback is placed. Without this detailing, slab shrinkage can impart additional stress on the
+concrete shear walls as they resist the slab’s shortening. The shear walls were not exposed to view during
+our site visit, and no shrinkage-related cracking or distress was observed in the accessible areas. This is a
+condition to be aware of if cracks are discovered hidden under finishes.
+
+
+
+
+                                                                                    Building Assessment Report
+                                                                                                      Page 48
+                                                                                   Interface Engineering, Inc.
+                                                                 PPS One North Commercial Building Inspection
+                                                                                         September 25, 2025
+
+
+
+
+Discussion East Building “Karuna II East”
+Karuna II East is a four-story office building also constructed in 2014 under the 2010 Oregon Structural
+Specialty Code. Like its counterpart, the building was designed as a Risk Category II structure. The first
+story utilizes reinforced concrete construction, with a post-tensioned concrete slab at the second level
+supported by concrete columns and concrete shear walls. The upper three stories are framed in mass
+timber, with typical floor construction of 5/8-inch plywood over 4-inch Lock-Deck panels supported by
+glulam beams and columns. Lateral resistance above the podium level is provided by plywood-sheathed
+shear walls and a pair of steel moment frames. Foundations consist of reinforced concrete spread footings
+bearing on engineered granular pads. The roofs support a ballasted PV array as well as mechanical
+equipment that is located behind a screen wall.
+
+Karuna II East has also been in service for approximately eight years and is generally in good condition for
+a building of its age and construction type. The mass timber elements showed only minor checking and
+splitting, which is typical and not considered structurally significant. Some water staining was observed on
+glulam columns and beams, most notably near column-to-floor joints. Based on the staining patterns, this
+appears to result from routine floor cleaning, where water has seeped through small joints at the
+floor/column interface and run down the face of the columns. The staining is considered an aesthetic
+issue and does not affect the structural performance of the timber. Similar to the West building, small
+drywall cracks were observed in locations with re-entrant corners, and a few timber connections exhibited
+visible gaps due to shrinkage over time.
+
+As with Karuna II West, our review of the structural drawings indicated that the post-tensioned slab at
+Level 2 was not detailed with a shrinkage joint or slip joint at the slab-to-wall connection. This type of
+detailing is often used to reduce stresses on shear walls by allowing slab shrinkage to occur prior to
+placement of a pourback. In the absence of this detail, shrinkage of the slab can increase stresses at the
+wall/slab interface. During our observations, the concrete shear walls were not exposed, and no visible
+shrinkage-related cracking or distress was noted. This condition should be monitored in the future,
+particularly if cracking develops at shear walls or at slab-to-wall connections.
+
+
+Recommendations
+Code Implications of Occupancy Change
+
+If the Karuna II buildings were converted from office use (Group B, Risk Category II) to school use (Group
+E), the Oregon Structural Specialty Code (OSSC, based on the 2021 International Building Code) would
+require evaluation of the structures under the higher risk category. Per IBC 2021 §3408.4 (Change of
+Occupancy), where a change in occupancy results in an increase in risk category, the existing structure
+must be shown to comply with current code provisions for the new category.
+
+Risk Category
+
+    •   Current Use (Office): Group B → Risk Category II
+
+    •   Proposed Use (School): Group E → Risk Category III (per IBC 2021 Table 1604.5)
+
+            o   Schools and day-care facilities through grade 12 are designated as Risk Category III.
+
+
+                                                                                   Building Assessment Report
+                                                                                                     Page 49
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+Seismic Implications
+
+    •   Importance Factor (Ie):
+
+            o    Risk Category II → Ie = 1.0
+
+            o    Risk Category III → Ie = 1.25
+
+    •   This increases seismic design forces by 25% relative to the original office design.
+
+    •   In Portland’s Seismic Design Category D, this would likely necessitate upgrades to lateral systems
+        (plywood shear walls, steel moment frames, diaphragms, and podium shear walls).
+
+Wind & Snow Implications
+
+    •   Wind Importance Factor:
+
+            o    Risk Cat II → 1.0
+
+            o    Risk Cat III → 1.15
+
+    •   Snow Importance Factor:
+
+            o    Risk Cat II → 1.0
+
+            o    Risk Cat III → 1.1
+
+    •   These provisions increase roof design loads, requiring verification of mass timber roof framing
+        and diaphragm capacity.
+
+Summary
+
+Conversion of the Karuna II buildings from office (Risk Category II) to school (Risk Category III) would
+increase the risk category under IBC 2021 Table 1604.5. This triggers higher design forces for seismic,
+wind, and snow, as well as stricter life safety provisions. Structural upgrades to lateral and gravity systems
+would likely be required for compliance under the current code.
+
+
+                                       END OF STRUCTURAL SECTION
+
+
+
+
+                                                                                     Building Assessment Report
+                                                                                                       Page 50
+                                                   Interface Engineering, Inc.
+                                 PPS One North Commercial Building Inspection
+                                                         September 25, 2025
+
+
+
+
+Structural Observation Photos Karuna II West
+
+
+
+
+                                                   Building Assessment Report
+                                                                     Page 51
+                                                    Interface Engineering, Inc.
+                                  PPS One North Commercial Building Inspection
+                                                          September 25, 2025
+
+
+
+
+Structural Observation Photos Karuna II East
+
+
+
+
+                                                    Building Assessment Report
+                                                                      Page 52
+                  Interface Engineering, Inc.
+PPS One North Commercial Building Inspection
+                        September 25, 2025
+
+
+
+
+                  Building Assessment Report
+                                    Page 53
+                                                                                   Interface Engineering, Inc.
+                                                                 PPS One North Commercial Building Inspection
+                                                                                         September 25, 2025
+
+
+
+
+Mechanical
+Summary of recommended required mechanical cost
+items
+Heating & Cooling
+   •   VRF system components are in good to excellent condition, but service history is unknown.
+       Interface recommends all coils be cleaned, refrigerant charges checked, and functionality of
+       system components verified.
+   •   Verify ASHRAE 15 requirements are met for existing VRF equipment. ASHRAE 15 requires that
+       refrigerant densities be below a set threshold, to ensure that no space becomes hazardous in the
+       event of a leak in refrigerant piping. Refrigerant charge in existing units is significant and a leak at
+       a branch controller could allow significant refrigerant into enclosed spaces. If refrigerant density
+       proves to be above the Code threshold, this may require the addition of transfer fans.
+
+Ventilation & Exhaust
+
+   •   (West Building) Investigate DOAS unit at the roof (HRU-R-01) metallic clicking noise, unit
+       component causing noise should be repaired/replaced.
+
+   •   (East Building) Level 1 Retail 1 tenant’s (restaurant) grease exhaust system access doors for the
+       vertical grease duct risers could not be located during site visit. These must be added if not
+       present to meet NFPA 96 requirements.
+
+   •   DOAS system’s service history is unknown. Interface recommends all coils be cleaned, refrigerant
+       charges checked, fan balancing be checked, and functionality of system components verified.
+
+
+Summary of recommended but not required mechanical
+cost items
+Heating & Cooling
+   •   Copper condensate piping was found to be uninsulated throughout the building. This could lead
+       to condensate forming on piping and dripping in space during cooling mode. No mention was
+       made of this being a past issue during the site visit, however it should be considered.
+
+Ventilation & Exhaust
+
+   •   (East Building) If the Level 4 woodburning fireplace is to remain, it poses a potential hazard to
+       occupants who are not familiar with its operation. If the flue is not opened, carbon monoxide
+       could fill the occupied space. Interface does not recommend its use be continued unless training
+       is provided for all future occupants. If the fireplace is removed, its associated flue must be
+       removed as well.
+
+
+
+                                                                                    Building Assessment Report
+                                                                                                      Page 54
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+Mechanical Systems
+Existing System Summary
+
+Heating & Cooling – Variable Refrigerant Flow (VRF)
+
+Heating and cooling for Karuna II West and Karuna II East is provided by rooftop variable refrigerant flow
+(VRF) systems with integral heat recovery capability. Systems are isolated to each building and there is no
+communication of systems between buildings. Systems consist of the following components:
+
+    •   Outdoor VRF heat pumps: Units are LG branded and are located in screened areas at the roof.
+
+    •   Refrigerant piping is routed from outdoor heat pumps at the roof to branch controllers within the
+        buildings. Refrigerant piping is routed from each outdoor heat pump to a shaft routed down
+        vertically through the building. Piping penetrates the shaft at each floor and connects to branch
+        controllers.
+
+    •   Branch controllers: Distributed refrigerant piping routes from each shaft to a branch controller on
+        each level. In most cases branch controllers are located in bathrooms. Refrigerant piping is
+        routed from each branch controller to its associated fan coil.
+
+    •   Fan coils: In most cases, fan coils are ceiling cassette type, located within the zone they serve.
+        Each contains a fan and heating/cooling coil, which heats/cools the space to maintain the
+        thermostat setpoint.
+
+    •   Refrigerant piping: The VRF system is based on R-410A refrigerant. must be routed in a rated
+        shaft in accordance with Code requirements for type A2L refrigerants. Where required by Code,
+        shafts are each to be provided with a 4-inch round permanent opening to the exterior, as well as
+        a 4-inch round duct from the bottom of the shaft to the exterior, in accordance with Code
+        requirements for A2L refrigerants.
+
+    •   Controls: LG branded controls are provided, which are proprietary and not compatible with other
+        VRF manufacturers’ equipment.
+
+    •   Gas usage: Systems are all-electric heat pumps and do not require the use of fossil fuel for their
+        operation.
+
+Ventilation & Exhaust – Dedicated Outdoor Air System (DOAS) with Heat Recovery
+
+Ventilation air supply for Karuna II West and Karuna II East is provided by rooftop Dedicated Outdoor Air
+Systems (DOAS) that provide ventilation air supply to each building at a constant airflow. These rooftop
+units draws fresh ventilation air in and heat/cool it, before supplying to each occupied space via
+distributed ductwork.
+
+These same DOAS units provide an exhaust airflow that is approximately equal to supply. Exhaust
+ductwork is routed from the unit at the roof to each space requiring exhaust. Spaces requiring exhaust
+are primarily bathrooms, however general space exhaust is provided as well to ensure the desired building
+pressurization is maintained.
+
+
+
+                                                                                    Building Assessment Report
+                                                                                                      Page 55
+                                                                                  Interface Engineering, Inc.
+                                                                PPS One North Commercial Building Inspection
+                                                                                        September 25, 2025
+
+
+
+
+DOAS unit cooling is all-electric and does not require the use of fossil fuels when it is in cooling mode.
+Heating is primarily accomplished using the all-electric heat pump operation of the system, which also
+does not require the use of fossil fuels when in heating mode. The unit is equipped with an auxiliary gas
+heating section, which does require the use of fossil fuels. Based on the as-built information provided,
+this gas heating section is provided for redundancy, to act as a means of backup during periods of
+extreme cold (when the heat pump heating mode is locked out).
+
+
+
+
+                                                                                  Building Assessment Report
+                                                                                                    Page 56
+                                                                                Interface Engineering, Inc.
+                                                              PPS One North Commercial Building Inspection
+                                                                                      September 25, 2025
+
+
+
+
+Discussion West Building “Karuna II West”
+Existing Equipment Information
+Existing equipment information is noted below.
+
+Heating & Cooling
+•   VRF System Outdoor Heat Pumps
+            o HP-R-01, HP-R-02
+                    ▪ Manufacturer: LG model ARUB288DTE4
+                    ▪ Location: Roof
+                    ▪ Year of manufacture: 2015 (approximate)
+                    ▪ Refrigerant type: R-410A
+                    ▪ Electrical connection requirement: 460V/3 phase, 60 Hz
+                    ▪ Total quantity of this unit: 2
+•   Branch Controllers
+            o HRB-01-2, HRB-02-1, HRB-03-1, HRB-04-1, HRB-05-1
+                    ▪ Manufacturer: LG model PRHR041A
+                    ▪ Location: Located in the ceiling space at each level, over Toilet Wx02
+                    ▪ Year of manufacture: 2015 (approximate)
+                    ▪ Refrigerant type: R-410A
+                    ▪ Electrical connection requirement: 208V/1 phase, 60 Hz
+                    ▪ Total quantity of this unit: 4
+            o   HRB-01-1, HRB-02-2, HRB-03-2, HRB-04-2, HRB-05-2
+                   ▪ Manufacturer: LG model PRHR041A
+                   ▪ Location: Located in the ceiling space at each level, over Toilet Wx03
+                   ▪ Year of manufacture: 2015 (approximate)
+                   ▪ Refrigerant type: R-410A
+                   ▪ Electrical connection requirement: 208V/1 phase, 60 Hz
+                   ▪ Total quantity of this unit: 4
+•   Fan Coils
+            o   FC-x
+                    ▪   Manufacturer: LG. Model number varies based on capacity provided. A majority
+                        are ductless ceiling cassette type fan coils, recirculating air in the space and
+                        heating/cooling it to meet the thermostat temperature setpoint. Select fan coils
+                        (primarily at Level 1) are ducted type, with supply/return ductwork provided for
+                        each.
+                    ▪   Location: In the ceiling space of the zone served
+                    ▪   Year of manufacture: 2015 (approximate)
+                    ▪   Refrigerant type: R-410A
+                    ▪   Electrical connection requirement: 208V/1 phase, 60 Hz
+                    ▪   Total quantity of this unit: 40. Quantity is estimated, as drawings for some
+                        tenant improvements are unavailable.
+
+
+
+                                                                                Building Assessment Report
+                                                                                                  Page 57
+                                                                                 Interface Engineering, Inc.
+                                                               PPS One North Commercial Building Inspection
+                                                                                       September 25, 2025
+
+
+
+
+Ventilation & Exhaust
+•   Dedicated Outside Air System (DOAS)
+           o HRU-R-01
+                   ▪ Manufacturer: Aaon model RN-016
+                   ▪ Area served: Whole building
+                   ▪ Location: Roof
+                   ▪ Year of manufacture: 2015 (approximate)
+                   ▪ Refrigerant type: R-410A
+                   ▪ Electrical connection requirement: 460V/3 phase, 60 Hz
+                   ▪ Total quantity of this unit: 1
+•   Exhaust Only Systems
+              o EF-01-1 (Electrical Room)
+                    ▪ Manufacturer: Greenheck model 250
+                    ▪ Year of manufacture: 2015 (approximate)
+                    ▪ Electrical connection requirement: 120V/1 phase, 60 Hz
+                    ▪ Total quantity of this unit: 1
+
+              o   EF-01-2 (Trash Room)
+                   ▪ Manufacturer: Greenheck model SP-A250
+                   ▪ Year of manufacture: 2015 (approximate)
+                   ▪ Electrical connection requirement: 120V/1 phase, 60 Hz
+                   ▪ Total quantity of this unit: 1
+•   Distribution ductwork
+              o   Distribution ductwork for ventilation air supply and exhaust is uninsulated spiral
+                  ductwork. This is in compliance with Code for the installation provided, with the
+                  ductwork exposed in the occupied areas.
+
+Controls
+
+The building is provided with LG branded VRF system controls. These are proprietary and any modified
+systems will require the continued usage of LG branded controls.
+
+
+
+
+                                                                                 Building Assessment Report
+                                                                                                   Page 58
+                                                                                  Interface Engineering, Inc.
+                                                                PPS One North Commercial Building Inspection
+                                                                                        September 25, 2025
+
+
+
+
+Discussion East Building “Karuna II East”
+Existing Equipment Information
+Existing equipment information is noted below.
+
+Heating & Cooling
+•   VRF System Outdoor Heat Pumps
+            o HP-R-01, HP-R-02
+                    ▪ Manufacturer: LG model ARUB288DTE4
+                    ▪ Location: Roof
+                    ▪ Year of manufacture: 2014 (approximate)
+                    ▪ Refrigerant type: R-410A
+                    ▪ Electrical connection requirement: 460V/3 phase, 60 Hz
+                    ▪ Total quantity of this unit: 2
+•   Branch Controllers
+            o HRB-01-1, HRB-02-1, HRB-03-1, HRB-04-1
+                    ▪ Manufacturer: LG model PRHR041A
+                    ▪ Location: Located in the ceiling space at each level, directly to the east of Stair S2
+                    ▪ Year of manufacture: 2014 (approximate)
+                    ▪ Refrigerant type: R-410A
+                    ▪ Electrical connection requirement: 208V/1 phase, 60 Hz
+                    ▪ Total quantity of this unit: 4
+            o HRB-01-2, HRB-02-2, HRB-03-2, HRB-04-2
+                    ▪ Manufacturer: LG model PRHR041A
+                    ▪ Location: Located in the ceiling space at each level, over the north restrooms
+                    ▪ Year of manufacture: 2014 (approximate)
+                    ▪ Refrigerant type: R-410A
+                    ▪ Electrical connection requirement: 208V/1 phase, 60 Hz
+                    ▪ Total quantity of this unit: 4
+•   Fan Coils
+            o FC-x
+                    ▪ Manufacturer: LG. Model number varies based on capacity provided. All are
+                       ductless ceiling cassette type fan coils, recirculating air in the space and
+                       heating/cooling it to meet the thermostat temperature setpoint.
+                    ▪ Location: In the ceiling space of the zone served
+                    ▪ Year of manufacture: 2015 (approximate)
+                    ▪ Refrigerant type: R-410A
+                    ▪ Electrical connection requirement: 208V/1 phase, 60 Hz
+                    ▪ Total quantity of this unit: 26
+
+
+
+
+                                                                                  Building Assessment Report
+                                                                                                    Page 59
+                                                                                  Interface Engineering, Inc.
+                                                                PPS One North Commercial Building Inspection
+                                                                                        September 25, 2025
+
+
+
+
+Ventilation & Exhaust
+•   Dedicated Outside Air System (DOAS)
+           o HRU-R-01
+                    ▪ Manufacturer: Aaon model RN-016
+                    ▪ Area served: Whole building
+                    ▪ Location: Roof
+                    ▪ Year of manufacture: 2014 (approximate)
+                    ▪ Refrigerant type: R-410A
+                    ▪ Electrical connection requirement: 460V/3 phase, 60 Hz
+                    ▪ Total quantity of this unit: 1
+•   Supply/Transfer Air Systems
+           o SF-1 through SF-10
+                    ▪ Manufacturer: Greenheck model SQ
+                    ▪ Area served: Conference rooms
+                    ▪ Location: Ceiling adjacent to conference rooms
+                    ▪ Year of manufacture: 2015 (approximate)
+                    ▪ Electrical connection requirement: 115V/1 phase, 60 Hz
+                    ▪ Total quantity of this unit: 10
+            o  Level 1 Retail 1 restaurant tenant makeup air unit
+                    ▪ Manufacturer: Greenheck model DGK-109-H15-01-HZ
+                    ▪ Area served: Level 1 Retail 1 restaurant tenant
+                    ▪ Year of manufacturer: Unknown
+                    ▪ Location: Roof
+                    ▪ Electrical Connection requirement: 208V/3 phase, 60 Hz
+                    ▪ Total quantity of this unit: 1
+                    ▪ Ductwork was not visible at time of site visit aside from that exposed at the roof.
+                       Based on the unit location and ductwork at the roof, it appears to route vertically
+                       on the north side of Stair 2.
+•   Exhaust Only Systems
+            o   EF-01-1 (Recycle Room)
+                    ▪   Manufacturer: Cook
+                    ▪   Year of manufacture: 2014 (approximate)
+                    ▪   Electrical connection requirement: 120V/1 phase, 60 Hz
+                    ▪   Total quantity of this unit: 1
+            o   EF-01-2 (Electrical Room)
+                    ▪ Manufacturer: Cook
+                    ▪ Year of manufacture: 2014 (approximate)
+                    ▪ Electrical connection requirement: 120V/1 phase, 60 Hz
+                    ▪ Total quantity of this unit: 1
+            o   Fireplace Flue
+                    ▪ Level 4 contains a woodburning fireplace, with a manually operated flue that
+                        discharges vertically to the roof.
+
+
+
+                                                                                  Building Assessment Report
+                                                                                                    Page 60
+                                                                                  Interface Engineering, Inc.
+                                                                PPS One North Commercial Building Inspection
+                                                                                        September 25, 2025
+
+
+
+
+            o   HD-1 range exhaust hood
+                    ▪ Manufacturer: Greenheck model GO-48.00-S
+                    ▪ Year of manufacturer: 2015 (approximate)
+                    ▪ Location: Break area kitchen, directly over gas range
+                    ▪ Electrical connection requirement: Unknown. Hoods of this type are most
+                        commonly 120V/1 phase.
+                    ▪ Total quantity of this unit: 1
+            o   EF-1 (Serves HD-1 range exhaust hood)
+                    ▪ Manufacturer: Greenheck model CUE-099-A-G
+                    ▪ Year of manufacturer: 2015 (approximate)
+                    ▪ Location: Roof, directly over break area kitchen
+                    ▪ Electrical connection requirement: Unknown
+                    ▪ Total quantity of this unit: 1
+            o   Level 1 Retail 1 restaurant tenant exhaust
+                    ▪ Manufacturer: Greenheck model USF-315-10-BI-7-G
+                    ▪ Area served: Level 1 Retail 1 restaurant tenant grease exhaust hood
+                    ▪ Year of manufacturer: Unknown
+                    ▪ Location: Roof
+                    ▪ Electrical Connection requirement: 208V/3 phase, 60 Hz
+                    ▪ Total quantity of this unit: 1
+                    ▪ Ductwork was not visible at time of site visit aside from that exposed at the roof.
+                        Based on the unit location and ductwork at the roof, it appears to route vertically
+                        on the north side of Stair 2.
+•   Distribution ductwork
+            o Distribution ductwork for ventilation air supply and exhaust is uninsulated spiral
+                 ductwork. This is in compliance with Code for the installation provided, with the
+                 ductwork exposed in the occupied areas.
+
+Controls
+
+The building is provided with LG branded VRF system controls. These are proprietary and any modified
+systems will require the continued usage of LG branded controls.
+
+
+Recommendations
+Karuna II West
+
+Heating & Cooling
+    •   VRF system components are in good to excellent condition. The existing VRF system capacity is
+        likely sufficient to meet the future heating and cooling needs, provided the new space usage is
+        similar to that of the existing tenants. At an age of approximately 11 years, their anticipated
+        remaining life is 9-14 years. At the end of this equipment life, all components associated with the
+        VRF system will likely require replacement. This includes the refrigerant piping routed within
+        rated shafts, as the existing system’s refrigerant is currently being phased out. While refrigerant
+
+
+                                                                                  Building Assessment Report
+                                                                                                    Page 61
+                                                                                   Interface Engineering, Inc.
+                                                                 PPS One North Commercial Building Inspection
+                                                                                         September 25, 2025
+
+
+
+
+       will be available for unit servicing, a full system replacement will use an alternate refrigerant that
+       has a lower Global Warming Potential.
+   •   A revised space program will require the removal/relocation/addition of select VRF fan coils.
+       When fan coils are relocated/added, their associated refrigerant piping, power, and condensate
+       connections will require modification as well. This will require evacuating the refrigerant in the
+       existing system, installing new refrigerant piping, and replacing the refrigerant in the system.
+   •   Caution should be taken by the Engineer of Record for the revised space program not to locate
+       VRF branch controllers or fan coils in excessively small spaces. ASHRAE 15 requires that
+       refrigerant densities be below a set threshold, to ensure that no spaces become hazardous in the
+       event of a leak in refrigerant piping.
+   •   Ventilation air supply ductwork is currently uninsulated in the occupied space. This is Energy
+       Code compliant in its current installation. If ceilings are added to the space in the future,
+       insulation will need to be added to the existing ductwork.
+
+Ventilation & Exhaust
+
+   •   The DOAS unit at the roof (HRU-R-01) is in fair to good condition. An abnormal noise was
+       observed at the unit during the site visit and should be investigated to determine its source. The
+       noise was a metallic clicking noise within the unit, which was audible at 5-10 second intervals. At
+       an age of approximately 10 years, its anticipated remaining life is 10 years. At the end of this
+       equipment life, the unit will likely require replacement.
+
+   •   EF-01-1 and EF-01-2 are in good condition. At an age of approximately 10 years, their anticipated
+       remaining life is 10-15 years. At the end of this equipment life, the unit will likely require
+       replacement.
+
+Karuna II East
+
+Heating & Cooling
+   •   VRF system components are in good to excellent condition. The existing VRF system capacity is
+       likely sufficient to meet the future heating and cooling needs, provided the new space usage is
+       similar to that of the existing tenants. At an age of approximately 11 years, their anticipated
+       remaining life is 9-14 years. At the end of this equipment life, all components associated with the
+       VRF system will likely require replacement. This includes the refrigerant piping routed within
+       rated shafts, as the existing system’s refrigerant is currently being phased out. While refrigerant
+       will be available for unit servicing, a full system replacement will use an alternate refrigerant that
+       has a lower Global Warming Potential.
+   •   A revised space program will require the removal/relocation/addition of select VRF fan coils.
+       When fan coils are relocated/added, their associated refrigerant piping, power, and condensate
+       connections will require modification as well. This will require evacuating the refrigerant in the
+       existing system, installing new refrigerant piping, and replacing the refrigerant in the system.
+   •   Caution should be taken by the Engineer of Record for the revised space program not to locate
+       VRF branch controllers or fan coils in excessively small spaces. ASHRAE 15 requires that
+       refrigerant densities be below a set threshold, to ensure that no space becomes hazardous in the
+       event of a leak in refrigerant piping.
+
+
+
+                                                                                   Building Assessment Report
+                                                                                                     Page 62
+                                                                                 Interface Engineering, Inc.
+                                                               PPS One North Commercial Building Inspection
+                                                                                       September 25, 2025
+
+
+
+
+   •   Ventilation air supply ductwork is currently uninsulated in the occupied space. This is Energy
+       Code compliant in its current installation. If ceilings are added to the space in the future,
+       insulation will need to be added to the existing ductwork.
+
+Ventilation & Exhaust
+   •   The DOAS unit at the roof (HRU-R-01) is in good condition. At an age of approximately 10 years,
+       its anticipated remaining life is 10 years. At the end of this equipment life, the unit will likely
+       require replacement.
+   •   SF-1 through SF-10 provide ventilation air to conference rooms by circulating air from the
+       adjacent open office into each conference room. This current installation is not Code compliant,
+       and Interface recommends DOAS distribution ductwork be modified to supply ventilation air
+       directly into any enclosed offices.
+   •   EF-01-1 and EF-01-2 are in good condition. At an age of approximately 10 years, their anticipated
+       remaining life is 10-15 years. At the end of this equipment life, the unit will likely require
+       replacement.
+   •   The Level 4 woodburning fireplace poses a potential hazard to occupants who are not familiar
+       with its operation. If the flue is not opened, carbon monoxide could fill the occupied space.
+       Interface does not recommend its use be continued unless training is provided for all future
+       occupants.
+
+   •   The existing Level 1 Retail 1 tenant’s (restaurant) grease exhaust system was not visible at the
+       time of the site visit, aside from the fan and ductwork at the roof. Access doors for the vertical
+       grease duct riser could not be located and must be added if not present, in accordance with NFPA
+       96 requirements.
+
+   •   HD-1 range exhaust hood serving Level 1 is in excellent condition. No modifications are required
+       to the hood if the range below is left in place.
+
+   •   EF-1 is in good condition. At an age of approximately 10 years, its anticipated remaining life is
+       10-15 years. At the end of this equipment life, the unit will likely require replacement.
+
+   •   The Level 1 Retail 1 tenant makeup air unit is in good condition. Age is unknown, but based on
+       appearance, appears to be approximately 10 years. Based on this its anticipated remaining life is
+       10 years. At the end of this equipment life, the unit will likely require replacement.
+
+   •   The Level 1 Retail 1 tenant exhaust fan is in good condition. Age is unknown, but based on
+       appearance, appears to be approximately 10 years. Based on this its anticipated remaining life is
+       10-15 years. At the end of this equipment life, the unit will likely require replacement.
+
+
+                                   END OF MECHANICAL SECTION
+
+
+
+
+                                                                                  Building Assessment Report
+                                                                                                    Page 63
+                                                                                     Interface Engineering, Inc.
+                                                                   PPS One North Commercial Building Inspection
+                                                                                           September 25, 2025
+
+
+
+
+Plumbing
+Summary of recommended required Plumbing cost items
+•   Scope the existing sanitary system to verify condition, location (as built), invert elevation.
+•   Provide and install missing roof/overflow drain grates that are missing.
+
+
+Summary of recommended but not required Plumbing
+cost items
+•   Cleaning primary roof drains.
+•   Consider revising hot water system in building
+•   Consider replacing corded roof gas piping.
+
+
+Plumbing Systems
+Drainage Waste and Vent, Sanitary Sewer System
+•   The sanitary system is original to the building. We expect the sanitary system to be cast-iron below
+    grade.
+
+Domestic hot, cold-water systems
+•   Domestic water piping system is copper and is original to the building, appears to be in good working
+    condition.
+•   The 3-inch domestic water backflow is located in each building’s mechanical room.
+•   Existing gas fired hot water heater is a 100-gallon located in each building’s mechanical room with
+    hot water recirculation pump. The gas load is 199 CFH and serves the entire building. On the third-
+    floor water was ran for over a minute and no hot water was produced. We recommend replacing this
+    gas fired water heater with electric tank type system or a heat pump version with a storage tank and
+    demo gas piping back to the meter.
+•   (East Building) Breakroom sink is supplied with under counter instantaneous Eemax water heater.
+    Recommended to remove and route HW from main building system to sink.
+
+Natural Gas System
+•   Meter bank on the exterior of the buildings with three gas meters at East Building and one gas meter
+    at West Building installed and room for additional meters as needed.
+•   Gas piping on roof is not painted and rusted. We recommend replacing gas piping and painting
+    piping to keep from erosion.
+
+
+
+
+                                                                                     Building Assessment Report
+                                                                                                       Page 64
+                                                                                  Interface Engineering, Inc.
+                                                                PPS One North Commercial Building Inspection
+                                                                                        September 25, 2025
+
+
+
+
+Plumbing fixtures
+•   The plumbing fixtures appear to be in good condition.
+•   The water closets are ADA complaint, elongated bowl, open seat and are flush valve type.
+•   Urinal is wall hung ADA complaint with hard wired sensor flush valve type.
+•   Lavatory are wall mounted is ADA complaint with some having sensor hard wired faucets and others
+    manual operated single handle faucets. Hot water to lavatories is provided by electrical tankless water
+    heaters.
+•   (East Building) Breakroom sinks appear to be in fair condition, with manual faucet and appear to be
+    ADA compliant. Seems to be supplied with cold water only.
+•   (West Building) Two shower stalls one ADA stall with pull down seat and one standard shower. Both in
+    good condition.
+
+
+
+
+                                     END OF PLUMBING SECTION
+
+
+
+
+                                                                                  Building Assessment Report
+                                                                                                    Page 65
+                                                                                      Interface Engineering, Inc.
+                                                                    PPS One North Commercial Building Inspection
+                                                                                            September 25, 2025
+
+
+
+
+Electrical
+Summary of recommended required Electrical cost items
+•   In public spaces, replace existing receptacles in place with tamper-proof receptacles.
+•   Relocate interior panels as needed to match new building layout.
+•   Investigate condition of luminaires, power circuit, or control circuit in East Building Stair 1 and
+    repair/replace if needed.
+
+
+Summary of recommended But Not required Electrical
+cost items
+•   Consider relocating existing trapeze-mounted transformer in West Building Men’s restroom on the
+    third floor.
+•   Consider a maintenance and cleaning plan for PV arrays on both buildings.
+•   Consider reusing existing lighting throughout both buildings.
+•   Consider replacing existing cracked receptacle faceplates.
+•   Consider replacing the main multi-meter switchboard or a portion of the switchboard for a single
+    metered service serving the PPS space.
+
+
+Discussion - Site
+Power to both buildings is provided by a 500 kVA, 12470Y/7200-480Y/277V pad-mounted transformer
+served by Pacific Power. The transformer is in a gated enclosure and appears to be in good condition. The
+transformer also serves the building to the northwest.
+
+
+
+
+                                     Figure E-70 - Pacific Power Transformer
+
+
+
+                                                                                      Building Assessment Report
+                                                                                                        Page 66
+                                                                                     Interface Engineering, Inc.
+                                                                   PPS One North Commercial Building Inspection
+                                                                                           September 25, 2025
+
+
+
+
+In addition to building mounted lights, there are LED bollards, both tall and short, placed in the
+landscaping throughout the interior courtyard to provide general lighting.
+
+
+
+
+                                          Figure E-71 - Area Bollards
+
+GFCI receptacles with waterproof covers are also scattered throughout the landscaping for convenience.
+
+
+
+
+                                                                                     Building Assessment Report
+                                                                                                       Page 67
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+Discussion West Building “Karuna II West”
+Main Service
+The site Pacific Power transformer serves an 800A, 480/277V, 3-phase, 4-wire Siemens commercial meter
+center switchboard ‘MDP-4A1-1’, located in the building main electrical room on the main floor. There is
+an 800A main disconnect. 800A is more than adequate for building needs and should also be capable of
+electrification transition off of use of natural gas. The switchboard has spaces for (12) 200A disconnects
+with utility meters or space for utility meters. The following utility meters and disconnects are currently in
+use. All disconnects are 200A unless otherwise noted.
+
+    1. Spare
+    2. Spare
+    3. Spare
+    4. Spare
+    5. Panel 4A3-1 – Karuna II West 3rd Floor
+    6. Disconnect T2A1-2 – CGS Place – 1st Floor
+    7. Panel 4A1-2 – Instrument – 1st Floor
+    8. Spare
+    9. Spare
+    10. Panel 4A2-1 – Instrument – 2nd Floor
+    11. 4A5-1 -Treehouse – 5th Floor
+    12. Panel 4A1-1 – Karuna II West House Panel – 1st Floor
+
+The power company typically requires separate addresses assigned to building remain to keep a multi-
+meter center arrangement. PPS could keep this arrangement with separate meters; however, it could
+consider replacing the switchboard, or a portion of the switchboard, with a standard main service
+switchboard or larger service with distribution section or panel sized for the PPS space.
+
+General Conditions
+480Y/277V and 208Y/120V distribution panelboards are located on each floor, installed by the tenants.
+Level 3 panels were installed at the time of original construction and serve all tenant spaces on the floor.
+Existing panelboards are in good condition. Reuse and relocate as needed. Extend existing feeders and
+circuits to be saved as needed.
+
+•   1st Floor Main Electrical Room (House Panels):
+             o 480Y/277V, 3-phase, 4-wire, 200A panelboard ‘4A1-1’
+             o 75 kVA transformer ‘XFRM-T2A1-1’
+             o 2-section 208Y/120V, 3-phase, 4-wire, 200A panelboard ‘2A1-1’ and ‘2A1-2’ fed from
+                 ‘T2A1-1’
+             o 480Y/277V, 3-phase, 4-wire, 60A panelboard ‘S4A1-1’, fed from 70A standby automatic
+                 transfer switch ‘ATS-S1’.
+
+
+
+
+                                                                                     Building Assessment Report
+                                                                                                       Page 68
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+•   Level 2:
+               o480Y/277V, 3-phase, 4-wire, 200A panelboard ‘4A2-1’ fed from main switchboard
+               o75 kVA transformer ‘T2A2-1’
+               o2-section 208Y/120V, 3-phase, 4-wire, 200A panelboard ‘2A2-1’ and ‘2A2-2’ fed from
+                ‘T2A2-1’
+•   Level 3 (House Panels):
+             o 480Y/277 V, 3-phase, 4-wire, 200A panelboard ‘4A3-1’ fed from main switchboard
+             o 75 kVA transformer ‘T2A3-1’ (trapeze mounted above the door in the men’s restroom)
+             o 2-section, 208Y/120V, 3-phase, 4-wire, 200A panelboard ‘2A3-1’ and ‘2A3-2’ fed from
+                ‘XFRM-2A3-1’.
+•   Level 5:
+             o 480Y/277 V, 3-phase, 4-wire, 200A panelboard ‘4A5-1’ fed from main switchboard
+             o 75 kVA transformer ‘T2A5-1’
+             o 2-section 208Y/120V, 3-phase, 4-wire, 200A panelboard ‘2A5-1’ and ‘2B5-2’ fed from
+                ‘T2B5-1’
+Consider relocating the third-floor transformer, currently located above the door in the men’s restroom,
+to a more secure area to reduce risk of damage.
+
+
+
+
+                                      Figure E-72- 3rd Floor Transformer
+
+Panels on Level 5 currently feed tenant spaces on Level 4 and Level 5. There is infrastructure in place
+(spare conduit) from the main electrical room to Level 4 to feed new panels if needed.
+
+A low-voltage energy meter is located in the main electrical room to measure usage.
+
+
+
+
+                                                                                    Building Assessment Report
+                                                                                                      Page 69
+                                                                                     Interface Engineering, Inc.
+                                                                   PPS One North Commercial Building Inspection
+                                                                                           September 25, 2025
+
+
+
+
+Recommend providing new receptacle layout per floor plans, reuse existing receptacles and receptacle
+circuits when available. Per NEC 406.12(4), tamper-resistant receptacles are required in education facilities.
+While there are some existing receptacles that are tamper-resistant, most should be replaced with new
+tamper-resistant receptacles.
+
+There are floor receptacles in tenant areas throughout the building. If these are not in a location that can
+be reused, they will need to be demolished and the floor patched.
+
+There is a baseboard raceway and above-ground raceway to provide power to desks in Suite 310 (Figure
+E-73). Consider removing this if space is to be reused.
+
+
+
+
+                                     Figure E-73 - Suite 310 Floor Raceway
+
+
+PV Array
+There is a 30 kW PV array on the roof of the building. A solar DC disconnect is located on the roof, and a
+solar AC disconnect is located in the main electrical room. The PV array appears to be in good condition,
+however debris is building up at the bottom portion of the panels and should be cleaned. Consider a
+maintenance and cleaning plan for the PV arrays.
+
+The PV array serves panel ‘4A1’, a house panel located in the main electrical room.
+
+Emergency Power
+There is a 35kW/45kVA, 480Y/277V, 3-phase, 3-wire natural gas generator located on the roof. This feeds
+panel ‘S4A1-1’ via standby automatic transfer switch ‘ATS-S1’, located in the first-floor main electrical
+room. This serves the elevator. Note that this elevator is required to be on standby power because the
+
+
+
+
+                                                                                     Building Assessment Report
+                                                                                                       Page 70
+                                                                                      Interface Engineering, Inc.
+                                                                    PPS One North Commercial Building Inspection
+                                                                                            September 25, 2025
+
+
+
+
+west building is 5 stories. At 4 stories, the elevator in the east building is not required to be on standby
+power.
+
+Emergency lights and exit signs are served via a series of lighting inverters located in the main electrical
+room and throughout the building. The City of Portland does not allow emergency power to egress lights
+to be served by a natural gas generator due to seismic risk, thus the existing generator cannot serve
+emergency lights.
+
+Fire Alarm
+Building is served by a Simplex 4010ES addressable fire detection and control system manufacturer by
+SimplexGrinnell, now part of Johnson Controls. The communication protocols are exclusive to Simplex
+systems and are not compatible with devices from other manufacturers without specific integration
+modules or gateways. The 4010ES supports 1,000 addressable points.
+
+Lighting
+Existing lights throughout the building are LED and in good condition. Existing lighting appears to be in
+good condition, recommend to reuse as much as possible. Different lighting strategies are used in
+different tenant spaces, if consistent lighting is desired throughout the building, consider new lights or
+reusing and relocating light fixtures.
+
+
+
+
+                                      Figure E-74- 1st Floor Tenant Lighting
+
+
+
+
+                                                                                      Building Assessment Report
+                                                                                                        Page 71
+                                                Interface Engineering, Inc.
+                              PPS One North Commercial Building Inspection
+                                                      September 25, 2025
+
+
+
+
+Figure E-75- 2nd Floor Tenant Lighting
+
+
+
+
+Figure E-7 - 2nd Floor Tenant Lighting
+
+
+
+
+                                                Building Assessment Report
+                                                                  Page 72
+                                                  Interface Engineering, Inc.
+                                PPS One North Commercial Building Inspection
+                                                        September 25, 2025
+
+
+
+
+ Figure E-76- 3rd Floor Hallway Lighting
+
+
+
+
+Figure E-77- Suite 310 Decorative Pendant
+
+
+
+
+                                                  Building Assessment Report
+                                                                    Page 73
+                                                 Interface Engineering, Inc.
+                               PPS One North Commercial Building Inspection
+                                                       September 25, 2025
+
+
+
+
+Figure E-78- Suite 310 Office Lighting
+
+
+
+
+Figure E-79 - 5th Floor Tenant Lighting
+
+
+
+
+                                                 Building Assessment Report
+                                                                   Page 74
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+Discussion East Building “Karuna II East”
+Main Service
+The site Pacific Power transformer serves an 800A, 480/277V, 3-phase, 4-wire Siemens commercial meter
+center switchboard ‘MDP-4A1-1’, located in the building main electrical room on the main floor. There is
+an 800A main disconnect. 800A is more than adequate for building needs and should also be capable of
+electrification transition off of use of natural gas. The switchboard has spaces for (12) 200A disconnects
+with utility meters or space for utility meters. The following utility meters and disconnects are currently in
+use. All disconnects are 200A unless otherwise noted.
+
+    1. Spare
+    2. Spare
+    3. Spare
+    4. XFMR T2B1-2 – Instrument 1st Floor (125A)
+    5. 4B2-1 – Instrument 2nd Floor
+    6. 4B3-1 – Instrument 3rd Floor
+    7. 4B1 – Karuna II East
+    8. Legacy Go Health
+    9. Spare
+    10. Spare
+    11. Spare
+    12. Chalino
+
+The power company typically requires separate addresses assigned to building remain to keep a multi-
+meter center arrangement. PPS could keep this arrangement with separate meters; however, it could
+consider replacing the switchboard, or a portion of the switchboard, with a standard main service
+switchboard or larger service with distribution section or panel sized for the PPS space.
+
+General Conditions
+480Y/277V and 208Y/120V distribution panelboards are located on each floor, installed by the tenants.
+Existing panelboards are in good condition. Reuse and relocate as needed. Extend existing feeders and
+circuits to be saved as needed.
+
+•   1st Floor Main Electrical Room (House Panels):
+             o 480Y/277V, 3-phase, 4-wire, 200A panelboard ‘4B1-1’
+             o 75 kVA transformer ‘XFRM-T2B1-1’
+             o 2-section 208Y/120V, 3-phase, 4-wire, 200A panelboard ‘2B1-1’ and ‘2B1-2’ fed from
+                 ‘T2B1-1’
+•   Level 2:
+            o    480Y/277V, 3-phase, 4-wire, 200A panelboard ‘4B2-1’ fed from main switchboard
+            o    75 kVA transformer ‘T2B2-1’
+            o    2-section 208Y/120V, 3-phase, 4-wire, 200A panelboard ‘2B2-1’ and ‘2B2-2’ fed from
+                 ‘T2B2-1’
+
+
+                                                                                     Building Assessment Report
+                                                                                                       Page 75
+                                                                                      Interface Engineering, Inc.
+                                                                    PPS One North Commercial Building Inspection
+                                                                                            September 25, 2025
+
+
+
+
+•   Level 3:
+               o   480Y/277 V, 3-phase, 4-wire, 200A panelboard ‘4B3-1’ fed from main switchboard
+               o   2-section, 208Y/120V, 3-phase, 4-wire, 200A panelboard ‘2B3-1’ and ‘2B3-2’ fed from
+                   panel ‘2B1-3’ in main electrical room
+•   Level 4:
+               o   480Y/277 V, 3-phase, 4-wire, 200A panelboard ‘4B4-1’ fed from ‘4B3-1’
+               o   75 kVA transformer ‘T2B4-1’
+               o   2-section 208Y/120V, 3-phase, 4-wire, 200A panelboard ‘2B4-1’ and ‘2B2-4’ fed from
+                   ‘T2B4-1’
+A low-voltage energy meter is located in the main electrical room to measure usage.
+
+Recommend providing new receptacle layout per floor plans, reuse existing receptacles and receptacle
+circuits when available. Per NEC 406.12(4), tamper-resistant receptacles are required in education facilities.
+While there are some existing receptacles that are tamper-resistant, most should be replaced with new
+tamper-resistant receptacles.
+
+There are floor receptacles in tenant areas throughout the building. If these are not in a location that can
+be reused, they will need to be demolished and the floor patched.
+
+Faceplates on some receptacles are cracked. Recommend replacing faceplates as needed.
+
+
+
+
+                                    Figure E-80 - Cracked Receptacle Faceplate
+
+
+PV Array
+There are (2) 23 kW PV arrays located on the roof. An inverter and PV disconnect for each array are
+located in a recessed enclosure in the exterior parking area. DC disconnects are located on the roof. The
+PV arrays appears to be in good condition, however debris is building up at the bottom portion of the
+panels and should be cleaned. Consider a maintenance and cleaning plan for the PV arrays.
+
+
+
+
+                                                                                      Building Assessment Report
+                                                                                                        Page 76
+                                                                                    Interface Engineering, Inc.
+                                                                  PPS One North Commercial Building Inspection
+                                                                                          September 25, 2025
+
+
+
+
+                                        Figure E-81 - PV Array on Roof
+
+
+
+
+                                   Figure E-82 - PV Inverter and Disconnect
+
+
+
+The PV array serves panel ‘4B1-1’, a house panel located in the main electrical room.
+
+
+
+                                                                                    Building Assessment Report
+                                                                                                      Page 77
+                                                                                      Interface Engineering, Inc.
+                                                                    PPS One North Commercial Building Inspection
+                                                                                            September 25, 2025
+
+
+
+
+Emergency Power
+Emergency lights and exit signs are served via a series of lighting inverters located in the main electrical
+room and throughout the building. There are (3) IOTA inverters located in the main electrical room.
+
+Fire Alarm
+Building is served by a Simplex 4100ES addressable fire detection and control system manufacturer by
+SimplexGrinnell, now part of Johnson Controls. The communication protocols are exclusive to Simplex
+systems and are not compatible with devices from other manufacturers without specific integration
+modules or gateways. The 4100ES supports 3,000 addressable points and includes a system-wide voice
+notification with UL 2572 listing for mass notification / emergency communications including audio
+amplification and firefighter telephone integration.
+
+The Level 4 Atrium drop down smoke curtains had some damage. During the site walk, the Owner’s
+Representative mentioned a work order was in progress to get these repaired. The smoke curtains only
+serve Level 4, separating the office space from the Atrium in the event of a fire.
+
+Lighting
+Existing lights throughout the building are LED and in good condition. Existing lighting appears to be in
+good condition, recommend to reuse as much as possible.
+
+Lights in Stair 1 were off at time of site visit. Investigate condition of luminaires, power circuit, or control
+circuit and repair/replace if needed.
+
+
+
+
+                        Figure E-83 - Pendants and Linear pendants throughout tenant space
+
+
+
+
+                                                                                       Building Assessment Report
+                                                                                                         Page 78
+                                                                                         Interface Engineering, Inc.
+                                                                       PPS One North Commercial Building Inspection
+                                                                                               September 25, 2025
+
+
+
+
+                                        Figure E-84 - Pendants in tenant lobby
+
+
+                                         END OF ELECTRICAL SECTION
+
+X:\PDX\2025\2025-1106\Correspondence\Design Reports\20250911 Building Assessment Report\20250911 Report-Study No Cover
+Image.docx
+
+
+
+
+                                                                                          Building Assessment Report
+                                                                                                            Page 79
+
