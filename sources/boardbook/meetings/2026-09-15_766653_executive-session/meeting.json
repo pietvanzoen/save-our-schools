@@ -1,0 +1,24 @@
+{
+ "meeting_id": "766653",
+ "date": "2026-09-15",
+ "slug": "executive-session",
+ "heading": "September 15, 2026 at 5:00 PM - Executive Session",
+ "meeting_type": "Closed",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=766653",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-09-15_766653_executive-session",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18804344",
+   "title": "1. This meeting will be held under the provisions of ORS 192.660(2)(f) To consider information or records that are exempt by law from public inspection.",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": []
+}

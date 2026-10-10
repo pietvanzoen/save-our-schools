@@ -1,0 +1,75 @@
+{
+ "meeting_id": "704192",
+ "date": "2025-08-19",
+ "slug": "special-meeting",
+ "heading": "August 19, 2025 6:00 pm or directly following the Retreat - Special Meeting",
+ "meeting_type": "Special",
+ "location": "Lincoln High School",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/IgFnF7B2-vc"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=704192",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=704192",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-08-19_704192_special-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17049074",
+   "title": "1. 6:00 pm - Call to Order",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17049008",
+   "title": "2. 6:05 pm - Consent Agenda (Resolutions 7162 & 7163) Vote - Public comment accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17049068",
+   "title": "2.(a) Resolution 7162 - Expenditure Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988419",
+     "name": "Resolution 7162 - Expenditure Contracts",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988419",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988419?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17049070",
+   "title": "2.(b) Resolution 7163 - Adoption of the Minutes",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988699",
+     "name": "Resolution 7163 - Adoption of the minutes Revised",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988699",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988699?org=915"
+    },
+    {
+     "document_id": "3990635",
+     "name": "2025_07_22_Regular Meeting Minutes - Draft for consideration",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990635",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990635?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17049073",
+   "title": "3. 6:10 pm - Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

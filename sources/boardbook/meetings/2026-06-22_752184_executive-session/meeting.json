@@ -1,0 +1,24 @@
+{
+ "meeting_id": "752184",
+ "date": "2026-06-22",
+ "slug": "executive-session",
+ "heading": "June 22, 2026 at 5:30 PM - Executive Session",
+ "meeting_type": "Closed",
+ "location": "Virtual",
+ "cancelled": false,
+ "videos": [],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=752184",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-06-22_752184_executive-session",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18387405",
+   "title": "1. ORS 192.660(2)(i) To review and evaluate the employment-related performance of the chief executive officer of any public body, a public officer, employee or staff member who does not request an open hearing",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": []
+}

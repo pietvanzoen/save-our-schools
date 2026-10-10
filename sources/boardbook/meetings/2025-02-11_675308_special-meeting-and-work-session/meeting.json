@@ -1,0 +1,61 @@
+{
+ "meeting_id": "675308",
+ "date": "2025-02-11",
+ "slug": "special-meeting-and-work-session",
+ "heading": "February 11, 2025 at 6:30 PM - Special Meeting and Work Session",
+ "meeting_type": "Working",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/_dDmpgZcNfI"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=675308",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=675308",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-02-11_675308_special-meeting-and-work-session",
+ "agenda_items": [
+  {
+   "agenda_item_id": "16243198",
+   "title": "1. Call to Order / Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16243199",
+   "title": "2. 2025 General Obligation Bond",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16249956",
+   "title": "3. Resolution to Adopt a Framework to Build High Quality-High Schools in a Cost-Efficient Manner (Resolution 7051) Vote- Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988149",
+     "name": "Resolution 7051 - to Adopt a Framework to Build High Quality High Schools in a Cost Efficient Manner-with attachment A",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988149",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988149?org=915"
+    },
+    {
+     "document_id": "3990188",
+     "name": "Attchment A - Framework for Delivering Modernized High Schools with Cost Reductions",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990188",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990188?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16243201",
+   "title": "4. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

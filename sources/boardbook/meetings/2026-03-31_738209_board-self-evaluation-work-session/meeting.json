@@ -1,0 +1,48 @@
+{
+ "meeting_id": "738209",
+ "date": "2026-03-31",
+ "slug": "board-self-evaluation-work-session",
+ "heading": "March 31, 2026 at 5:00 PM - Board Self-Evaluation Work Session",
+ "meeting_type": "Working",
+ "location": "Dr. Matthew Prophet Education Center",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/-f9W6Z2q_7o"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=738209",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=738209",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-03-31_738209_board-self-evaluation-work-session",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17978636",
+   "title": "1. Call to Order and Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17978637",
+   "title": "2. Board Self-Evaluation",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997115",
+     "name": "PPS BSAS presentation 2026",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997115",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997115?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17978638",
+   "title": "3. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

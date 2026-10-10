@@ -1,0 +1,381 @@
+{
+ "meeting_id": "689410",
+ "date": "2025-06-10",
+ "slug": "regular-meeting",
+ "heading": "June 10, 2025 at 6:00 PM - Regular Meeting",
+ "meeting_type": "Regular",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/mb9SnIfcbZY"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=689410",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=689410",
+ "supplementals_url": "https://meetings.boardbook.org/Meeting/Supplementals/915?meeting=689410",
+ "folder": "sources/boardbook/meetings/2025-06-10_689410_regular-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "16629117",
+   "title": "1. 6:00 pm - Call to Order / Opening",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16710534",
+   "title": "2. 6:05 pm - Resolution Recognizing June as LGBTQ+ Pride Month in Portland Public Schools (Resolution 7118) Vote - Public comment accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996435",
+     "name": "Resolution Recognizing June as LGBTQ+ Pride Month in Portland Public Schools",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996435",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996435?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16726335",
+   "title": "3. 6:10 pm - Board Leadership Intent",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16629118",
+   "title": "4. 6:15 pm - Superintendent's Report",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996460",
+     "name": "Superintendent Report_ June 10, 2025",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996460",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996460?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16629119",
+   "title": "5. 6:25 pm - Student Representative's Report",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16629120",
+   "title": "6. 6:30 pm - Student Comment",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16629121",
+   "title": "7. 6:45 pm - Public Comment",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16629122",
+   "title": "8. 7:00 pm - Comments from our Union Partners",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16629123",
+   "title": "9. 7:10 pm - Board Committee and Conference Reports",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16629127",
+   "title": "10. 7:15 pm - Second Reading of a Policy: Ethics and Conflicts of Interests Policy 5.10.066-P (Resolution 7104) Vote - Public comment accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3992955",
+     "name": "Resolution 7104 Adoption of revised 5.10.066-P Ethics and Conflict of Interest Policy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3992955",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3992955?org=915"
+    },
+    {
+     "document_id": "3992979",
+     "name": "Second First Reading PACKET_5.10.066-P Ethics and Conflict of Interest Policy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3992979",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3992979?org=915"
+    },
+    {
+     "document_id": "3996461",
+     "name": "Restrictions on Board Member Employment by District Proposed Revised Language",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996461",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996461?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16709916",
+   "title": "11. 7:20 pm - Second Reading of a Policy: Student Representative and District Student Council Policy 1.20.012-P (Resolution 7119) Vote - Public comment accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3987996",
+     "name": "Resolution 7119 - Resolution to Adopt Revised Student Rep and DSC Policy 1.20.012-P",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3987996",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3987996?org=915"
+    },
+    {
+     "document_id": "3989563",
+     "name": "First Reading PACKET_Student Rep and DSC",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3989563",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3989563?org=915"
+    },
+    {
+     "document_id": "3990580",
+     "name": "1.20.012-P Student Rep and DSC Policy-proposed revisions REVISED",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990580",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990580?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16709921",
+   "title": "12. 7:25 pm - Amendment No. 1 to the Fiscal Year 2024-25 Budget for School District No. 1J, Multnomah County, Oregon (Resolution 7120) Vote - Public comment accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988423",
+     "name": "2024-25 Budget Amendment 1 Budget Staff Report - Revised Redlined",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988423",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988423?org=915"
+    },
+    {
+     "document_id": "3990248",
+     "name": "Resolution 7120 - 2024-25 Budget Amendment 1_Revised clean",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990248",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990248?org=915"
+    },
+    {
+     "document_id": "3990995",
+     "name": "2024-25 Schedule of Appropriations - Revised redline",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990995",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990995?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16709939",
+   "title": "13. 7:40 pm - Impose Taxes and Adoption of the 2025-26 Budget for School District No. 1J Multnomah County, Oregon (Resolution 7121) Vote - Public comment accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988580",
+     "name": "2025-26 Adopted Budget Memo",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988580",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988580?org=915"
+    },
+    {
+     "document_id": "3990156",
+     "name": "Resolution 7121 - Adoption of the 2025-26 Budget w Attachment A",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990156",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990156?org=915"
+    },
+    {
+     "document_id": "3990515",
+     "name": "Attachment A - 2025-26 Schedule of Appropriations",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990515",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990515?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16709940",
+   "title": "14. 8:10 pm - Superintendent\u2019s Evaluation Adoption (Resolution 7122) Vote - Public comment accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996430",
+     "name": "Resolution 7122 - Superintendent\u2019s Performance Evaluation 2024-25",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996430",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996430?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16709942",
+   "title": "15. 8:20 pm - Update-Jefferson Enrollment Strategy",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996433",
+     "name": "Jefferson Enrollment Update",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996433",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996433?org=915"
+    },
+    {
+     "document_id": "3996454",
+     "name": "Board information item_ increasing enrollment at Jefferson 6.10.25.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996454",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996454?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16713487",
+   "title": "16. 8:40 pm - High School Science Instructional Resource Recommendation",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996428",
+     "name": "HS Science Instructional Resource Recommendation",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996428",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996428?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16778500",
+   "title": "17. 9:00 pm - Expenditure Contracts (Resolution 7129)",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988129",
+     "name": "Resolution 7129 - Expenditure Contracts",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988129",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988129?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16629124",
+   "title": "18. 9:05 pm - Consent Agenda: Resolutions 7123 through 7128 Vote- Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16712512",
+   "title": "18.(a) Resolution 7123 - Adoption of the Minutes",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996424",
+     "name": "Resolution 7123 - to adopt of the minutes",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996424",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996424?org=915"
+    },
+    {
+     "document_id": "3996425",
+     "name": "2025_05_19_Special Meeting Minutes - Draft with Resolutions",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996425",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996425?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16712518",
+   "title": "18.(b) Resolution 7124 - Expenditure Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988841",
+     "name": "Resolution 7124 - Expenditure Contracts - Revised",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988841",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988841?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16712565",
+   "title": "18.(c) Resolution 7125 - Revenue Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3993062",
+     "name": "Resolution 7125 - Revenue Contracts",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3993062",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3993062?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16712569",
+   "title": "18.(d) Resolution 7126 - Authorizing Off-Campus Activities",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988347",
+     "name": "Resolution 7126 - to authorize off-campus activities - Revised",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988347",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988347?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16713623",
+   "title": "18.(e) Resolution 7127 - Resolution to Establish a Charter Committee for the 2024-25 School Year",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996429",
+     "name": "Resolution 7127 - to Establish a Charter Committee for the 2024-25 School Year",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996429",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996429?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16722344",
+   "title": "18.(f) Resolution 7128 - Settlement Agreement",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996431",
+     "name": "Resolution 7128 - Settlement Agreement",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996431",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996431?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16629125",
+   "title": "19. 9:10 pm - Other Business / Committee Referrals",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16629126",
+   "title": "20. 9:15 pm - Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "supplementals_files": [
+  {
+   "document_id": "3998314",
+   "name": "SB3 Adopted Curriculum - Board Memo",
+   "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998314?org=915"
+  }
+ ],
+ "public_notice_files": []
+}

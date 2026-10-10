@@ -1,0 +1,115 @@
+{
+ "meeting_id": "728105",
+ "date": "2026-01-27",
+ "slug": "work-session-and-special-meeting",
+ "heading": "January 27, 2026 at 6:00 PM - Work Session and Special Meeting",
+ "meeting_type": "Working",
+ "location": "Virtual",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/-NpJZaLR81U"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=728105",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=728105",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-01-27_728105_work-session-and-special-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17713552",
+   "title": "1. Call to Order",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17701180",
+   "title": "2. Bond Update",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996827",
+     "name": "01.27.26 PPS slides",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996827",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996827?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17701184",
+   "title": "3. 2026 Legislative Priorities (Resolution 7240) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996828",
+     "name": "Resolution No 7240 - Resolution to Approve 2026 Legislative Priorities",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996828",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996828?org=915"
+    },
+    {
+     "document_id": "3996829",
+     "name": "2026 Legislative Priorities",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996829",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996829?org=915"
+    },
+    {
+     "document_id": "3996830",
+     "name": "2026 Legislative Priorities.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996830",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996830?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17701185",
+   "title": "4. Consent Agenda (Resolutions 7241 and 7242) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17701203",
+   "title": "4.(a) Resolution 7241 - Expenditure Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988743",
+     "name": "Resolution 7241-Expenditure Contracts",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988743",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988743?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17701186",
+   "title": "4.(b) Resolution 7242 - Resolution Appointing a Deputy Clerk",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996825",
+     "name": "Resolution 7242 - Resolution Appointing a Deputy Clerk",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996825",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996825?org=915"
+    },
+    {
+     "document_id": "3996826",
+     "name": "Staff Report Deputy Clerk Resolution",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996826",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996826?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17713553",
+   "title": "5. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

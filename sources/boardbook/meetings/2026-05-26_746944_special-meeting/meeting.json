@@ -1,0 +1,282 @@
+{
+ "meeting_id": "746944",
+ "date": "2026-05-26",
+ "slug": "special-meeting",
+ "heading": "May 26, 2026 at 6:00 PM - Special Meeting",
+ "meeting_type": "Regular",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://www.youtube.com/watch?v=AAWpafO4vvQ&list=PLk0IYRijyKDW0JUTJkac8fRVNyBSthyp9&index=2"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=746944",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=746944",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-05-26_746944_special-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18230457",
+   "title": "1. 6:00 pm - Call to Order / Opening",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18242086",
+   "title": "2. 6:05 pm - Student Performance",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18230460",
+   "title": "3. 6:15 pm - Student and Public Comment",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18262242",
+   "title": "4. 6:45 pm - 2026\u20132027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon (Resolution 7306) Vote - Pubic Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997285",
+     "name": "Resolution 7306 - 2026\u20132027 Agreement between Portland Association of Teachers and School District No. 1J, Multnomah County, Oregon.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997285",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997285?org=915"
+    },
+    {
+     "document_id": "3997286",
+     "name": "2026 Board Update PAT Ratification.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997286",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997286?org=915"
+    },
+    {
+     "document_id": "3997287",
+     "name": "PAT - PPS Tentative Agreement",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997287",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997287?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18232212",
+   "title": "5. 6:55 pm. - State of the Arts Annual Report",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997259",
+     "name": "PPS State of the Arts Annual Report _ FINAL May 2026.pptx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997259",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997259?org=915"
+    },
+    {
+     "document_id": "3997260",
+     "name": "PPS School Board State of the Arts 2026 FINAL",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997260",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997260?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18232300",
+   "title": "6. 7:10 pm - Resolution Adopting Guiding Principles and Work Plan in the Rightsizing Process for Portland Public School (Resolution 7307) Vote- Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997273",
+     "name": "Reso 7307 - Adopting Guiding Principles and Workplan in the Rightsizing Process for Portland Public Schools",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997273",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997273?org=915"
+    },
+    {
+     "document_id": "3997275",
+     "name": "Reso 7307 - Adopting Guiding Principles and Workplan in the Rightsizing Process for Portland Public Schools with redlines",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997275",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997275?org=915"
+    },
+    {
+     "document_id": "3997282",
+     "name": "Board Book_ 05.26.26 BOE Meeting_Rightsizing (1)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997282",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997282?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18232320",
+   "title": "7. 7:40 pm - Data Dive Spring 2026: Student Achievement on MAP and i-Ready Assessments",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997257",
+     "name": "Data Dive Spring 2026_ Fall-to-Winter Benchmark Assessment Summary_May2026",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997257",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997257?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18262451",
+   "title": "8. ACCESS Transportation Model Proposal",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997288",
+     "name": "Access Hub Model",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997288",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997288?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18232324",
+   "title": "9. 8:00 pm - Budget Committee Approval of the 2026-27 Budget and the Imposition of Property Taxes (Resolution 7308) Vote- Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988329",
+     "name": "2026-27 Approved Budget Memo",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988329",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988329?org=915"
+    },
+    {
+     "document_id": "3989997",
+     "name": "2026-27 Schedule of Appropriations - Attachment Apdf",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3989997",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3989997?org=915"
+    },
+    {
+     "document_id": "3990562",
+     "name": "Reso 7308 - Budget Committee Approval of the 2026-27 Budget and the Imposition of Property Taxes",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990562",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990562?org=915"
+    },
+    {
+     "document_id": "3997276",
+     "name": "2026-27 Proposed Budget-Volume 1",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997276",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997276?org=915"
+    },
+    {
+     "document_id": "3997277",
+     "name": "2026-27 Proposed Budget Volume 2",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997277",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997277?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18232368",
+   "title": "10. 9:00 pm - Update: Bond Program",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997258",
+     "name": "Bond Update_2026-05-26.pptx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997258",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997258?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18232238",
+   "title": "11. 9:15 pm - Motion to Rescind Resolution 7291, Resolution to Amend the District\u2019s Public Contracting Rules",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988929",
+     "name": "Resolution 7291 - to Amend the District\u2019s Public Contracting Rules",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988929",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988929?org=915"
+    },
+    {
+     "document_id": "3990018",
+     "name": "2026 Portland Public Schools Public Contracting Rules Clean Copy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990018",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990018?org=915"
+    },
+    {
+     "document_id": "3990318",
+     "name": "First Reading Packet - 2026 Public Contracting Rules Revisions with redline - first read 3-10-2026",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990318",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990318?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18230463",
+   "title": "12. 9:30 pm - Consent Agenda: Resolutions 7309 through 7310 Vote- Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18235562",
+   "title": "12.(a) Resolution 7309 - Expenditure Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997261",
+     "name": "Reso 7309 - Expenditure Contracts",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997261",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997261?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18235568",
+   "title": "12.(b) Resolution 7310 - Revenue Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997269",
+     "name": "Reso 7310 - Revenue Contracts",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997269",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997269?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18230462",
+   "title": "13. Board Committee and Conference Reports (written) Audit Committee Facilities Improvement Oversight Committee Policy Committee Teaching, Learning, & Enrollment Committee",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997284",
+     "name": "Committee Report_Audit_26_05_26",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997284",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997284?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18230464",
+   "title": "14. 9:35 pm - Other Business, Committee Referrals, and Future Agenda Items",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18230465",
+   "title": "15. 9:40 pm - Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

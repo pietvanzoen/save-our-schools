@@ -1,0 +1,8 @@
+# Public Notice: June 30, 2026 at 5:00 PM - Executive Session
+
+Source: 
+
+June 30, 2026 at 5:00 PM - Executive Session
+Version 1
+2026_06_30_Executive Session Notice Employee Evaluation.docx
+<< Back to the Public Page for Portland Public Schools

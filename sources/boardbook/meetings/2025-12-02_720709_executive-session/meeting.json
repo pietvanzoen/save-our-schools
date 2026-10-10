@@ -1,0 +1,24 @@
+{
+ "meeting_id": "720709",
+ "date": "2025-12-02",
+ "slug": "executive-session",
+ "heading": "Cancelled December 2, 2025 at 5:00 PM - Executive Session Cancelled",
+ "meeting_type": "Closed",
+ "location": "Dr. Matthew Prophet Education Center",
+ "cancelled": true,
+ "videos": [],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=720709",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-12-02_720709_executive-session",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17499115",
+   "title": "1. Labor Negotiations",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": []
+}

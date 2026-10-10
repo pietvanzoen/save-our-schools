@@ -1,0 +1,88 @@
+{
+ "meeting_id": "730080",
+ "date": "2026-02-05",
+ "slug": "audit-committee-meeting",
+ "heading": "February 5, 2026 at 5:00 PM - Audit Committee Meeting",
+ "meeting_type": "Committee (Audit Committee)",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/GUddTQ3Kx30"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=730080",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=730080",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-02-05_730080_audit-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17753235",
+   "title": "1. Call to Order / Introduction",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17753236",
+   "title": "2. Public Comment To sign-up for public comment email PublicComment@pps.net or call the Board Office @ 503-916-3741.",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17753247",
+   "title": "3. Annual Comprehensive Financial Report (ACFR)",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996860",
+     "name": "ACFR FY 2025 Memo - Financial Report Summary",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996860",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996860?org=915"
+    },
+    {
+     "document_id": "3996892",
+     "name": "FY25 PPS FINAL ACFR 1.28.26",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996892",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996892?org=915"
+    },
+    {
+     "document_id": "3996894",
+     "name": "02052026 Audit Committee Report",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996894",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996894?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17753246",
+   "title": "4. Multilingual Learners / English Language Development - Compliance Audit Report Presentation",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996896",
+     "name": "Multilingual Learner_English Language Development Audit Report",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996896",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996896?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17753294",
+   "title": "5. Other Business and Future Agenda Items",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17753237",
+   "title": "6. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

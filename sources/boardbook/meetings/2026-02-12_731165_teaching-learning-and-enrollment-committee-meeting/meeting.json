@@ -1,0 +1,62 @@
+{
+ "meeting_id": "731165",
+ "date": "2026-02-12",
+ "slug": "teaching-learning-and-enrollment-committee-meeting",
+ "heading": "February 12, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting",
+ "meeting_type": "Committee (Teaching, Learning, and Enrollment Committee)",
+ "location": "Dr. Matthew Prophet Education Center",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/8y-3zX8JaWU"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=731165",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=731165",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-02-12_731165_teaching-learning-and-enrollment-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17784653",
+   "title": "1. Call to Order and Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17784654",
+   "title": "2. Public Comment (5 spots) Three (3) for topics related to items on the meeting agenda Two (2) for general topics related to Teaching, Learning, and Enrollment To sign up for public comment email PublicComment@pps.net or call 503-916-3741.",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17785521",
+   "title": "3. K-12 Math & Language Arts Core Curricula Overview and Technology Use",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996900",
+     "name": "TLE_ K-12 ELA & Math Curricula",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996900",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996900?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17784655",
+   "title": "4. Other Business and Future Agenda Items",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17784656",
+   "title": "5. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

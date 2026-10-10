@@ -1,0 +1,423 @@
+{
+ "meeting_id": "751412",
+ "date": "2026-06-23",
+ "slug": "special-meeting",
+ "heading": "June 23, 2026 at 6:00 PM - Special Meeting",
+ "meeting_type": "Special",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://www.youtube.com/watch?v=yinJ7KK-Bqc&list=PLk0IYRijyKDW0JUTJkac8fRVNyBSthyp9&index=2"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=751412",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=751412",
+ "supplementals_url": "https://meetings.boardbook.org/Meeting/Supplementals/915?meeting=751412",
+ "folder": "sources/boardbook/meetings/2026-06-23_751412_special-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18365597",
+   "title": "1. 6:00 pm - Call to Order / Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18376045",
+   "title": "2. 6:05 pm. - Recognizing Student Representative Ritorto",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18365619",
+   "title": "3. 6:10 pm - Student and Public Comment",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18400580",
+   "title": "4. 6:40 pm - 2026\u20132027 Agreement between District Council of Unions and School District No. 1J, Multnomah County, Oregon (Resolution 7330) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988301",
+     "name": "2026 Board Update DCU Ratification.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988301",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988301?org=915"
+    },
+    {
+     "document_id": "3989759",
+     "name": "Resolution 7330 - 2026\u20132027 Agreement between DCU and School District No. 1J, Multnomah County, Oregon",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3989759",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3989759?org=915"
+    },
+    {
+     "document_id": "3990452",
+     "name": "REDLINE - DCU CBA 2026-28.docx (4)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990452",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990452?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18365786",
+   "title": "5. 6:55 pm - Climate Crisis Response Committee Recommendation on AI",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997359",
+     "name": "CCRC AI Recommendation",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997359",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997359?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18365799",
+   "title": "6. 7:10 pm - Bond Update",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997377",
+     "name": "Update_2026-06-23",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997377",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997377?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18400581",
+   "title": "7. 7:20 pm - Resolution Amending the Bond Accountability Committee Charter -Discussion and Potential Vote- (Resolution 7331) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988634",
+     "name": "Resolution 7331 - Authorizing Amendment to the Bond Accountability Committee Charter",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988634",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988634?org=915"
+    },
+    {
+     "document_id": "3990250",
+     "name": "Redline-BAC Charter 26_06_09",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990250",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990250?org=915"
+    },
+    {
+     "document_id": "3990409",
+     "name": "CLEAN - BAC Charter 26_06_09",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990409",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990409?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18365795",
+   "title": "8. 7:30 pm - K\u201312 Comprehensive Health Education Curriculum Materials Adoption (Resolution 7323) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997354",
+     "name": "Resolution 7323 K\u201312 Comprehensive Health Education Curriculum Materials Adoption",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997354",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997354?org=915"
+    },
+    {
+     "document_id": "3997355",
+     "name": "Board Memo - Health Curriculum Adoption",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997355",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997355?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18365840",
+   "title": "9. 7:45 pm - Amendment No. 2 to the Fiscal Year 2025-26 Budget for Multnomah County District School District, No.1J (Resolution 7324) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997356",
+     "name": "Resolution 7324 -2025-26 Budget Amendment 2",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997356",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997356?org=915"
+    },
+    {
+     "document_id": "3997357",
+     "name": "2025-26 Schedule of Appropriations - Amendment 2",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997357",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997357?org=915"
+    },
+    {
+     "document_id": "3997358",
+     "name": "2025-26 Budget Amendment 2 Budget Staff Report",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997358",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997358?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18365678",
+   "title": "10. 8:00 pm - Transfer from PERS Rate Stabilization Reserve Fund to General Fund as Provided in FY26 Adopted Portland Public Schools Budget (Resolution 7325) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988026",
+     "name": "2026-27 PERS Transfer Staff Memo",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988026",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988026?org=915"
+    },
+    {
+     "document_id": "3990296",
+     "name": "Resolution 7325 - Transfer from PERS Rate Stabilization Fund",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990296",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990296?org=915"
+    },
+    {
+     "document_id": "3990459",
+     "name": "Attachment \"A\" - 4471-1 Resolution on PERS Transfer Fund",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990459",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990459?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18365852",
+   "title": "11. 8:20 pm - Impose Taxes and Adoption of the 2026-27 Budget for School District No. 1J, Multnomah County, Oregon (Resolution 7326) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988878",
+     "name": "Resolution 7326 - 2026-27 Adopted Budget Resolution.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988878",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988878?org=915"
+    },
+    {
+     "document_id": "3989689",
+     "name": "2026-27 Schedule of Appropriations",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3989689",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3989689?org=915"
+    },
+    {
+     "document_id": "3990695",
+     "name": "Budget Presentation - Adopted Version_June2026",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990695",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990695?org=915"
+    },
+    {
+     "document_id": "3991127",
+     "name": "2026-27 Adopted Budget Memo",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3991127",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3991127?org=915"
+    },
+    {
+     "document_id": "3991431",
+     "name": "Budget Amendment_Travel",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3991431",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3991431?org=915"
+    },
+    {
+     "document_id": "3991747",
+     "name": "Budget Amendment_OIPA Funding",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3991747",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3991747?org=915"
+    },
+    {
+     "document_id": "3991919",
+     "name": "Budget Amendment_AI Pause",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3991919",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3991919?org=915"
+    },
+    {
+     "document_id": "3992122",
+     "name": "Budget Amendment_AI Pause REVISED",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3992122",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3992122?org=915"
+    },
+    {
+     "document_id": "3992230",
+     "name": "Budget Amendment - Engelsman",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3992230",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3992230?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18365860",
+   "title": "12. 8:40 pm - Consent Agenda Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18367629",
+   "title": "12.(a) Expenditure Contracts (Resolution 7327)",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3990254",
+     "name": "Resolution 7327 - Expenditure Contracts REVISED",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990254",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990254?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18375251",
+   "title": "12.(b) Adoption of the Minutes (Resolution 7328)",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997364",
+     "name": "Resolution 7328 - Adoption of the minutes.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997364",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997364?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18400314",
+   "title": "12.(c) Settlement Agreement (Resolution 7329)",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18408438",
+   "title": "13. 8:45 pm - Expenditure Contracts Pulled for a Separate Vote",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18408272",
+   "title": "13.(a) Resolution 7332 -Expenditure Contract",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997368",
+     "name": "Resolution 7332 - Expenditure Contract-TCI",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997368",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997368?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18408274",
+   "title": "13.(b) Resolution 7333 -Expenditure Contract",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997369",
+     "name": "Resolution 7333 - Expenditure Contract-Vanderhouwen",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997369",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997369?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18408276",
+   "title": "13.(c) Resolution 7334 - Expenditure Contract",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997372",
+     "name": "Resolution 7334 - Expenditure Contract-TCI",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997372",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997372?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18408277",
+   "title": "13.(d) Resolution 7335 - Expenditure Contract",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997373",
+     "name": "Resolution 7335 - Expenditure Contract - Cengage.",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997373",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997373?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18408307",
+   "title": "13.(e) Resolution 7336 - Expenditure Contract",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997374",
+     "name": "Resolution 7336 - Expenditure-Contract -IT Motives",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997374",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997374?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18408316",
+   "title": "13.(f) Resolution 7337 - Expenditure Contract",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997375",
+     "name": "Resolution 7337 - Expenditure Contract-AP Professionals",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997375",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997375?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18408318",
+   "title": "13.(g) Resolution 7338 - Expenditure Contract",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997376",
+     "name": "Resolution 7338 - Expenditure - PowerSchool Group",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997376",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997376?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18365598",
+   "title": "14. 8:55 pm - Other Business and Future Agenda Items",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18365599",
+   "title": "15. 9:00 pm - Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "supplementals_files": [
+  {
+   "document_id": "3998331",
+   "name": "PPS_Memo_2025-26 RESJ Contracts Report_June2026",
+   "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998331?org=915"
+  }
+ ],
+ "public_notice_files": []
+}

@@ -1,0 +1,88 @@
+{
+ "meeting_id": "767981",
+ "date": "2026-09-22",
+ "slug": "policy-committee-meeting",
+ "heading": "September 22, 2026 at 4:30 PM - Policy Committee Meeting",
+ "meeting_type": "Committee (Policy Committee)",
+ "location": "Dr. Matthew Prophet Education Center",
+ "cancelled": false,
+ "videos": [
+  "https://www.youtube.com/watch?v=3N-rsU_g5Yk"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=767981",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-09-22_767981_policy-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18841675",
+   "title": "1. Call to Order / Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18841677",
+   "title": "2. Public Comment - 5 Two-Minute slots *To sign-up for public comment email PublicComment@pps.net or call 503-916-3741",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18841680",
+   "title": "3. Discussion: 2026-27 Committee Work Plan",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14440450",
+     "name": "Draft 2026-27 Policy Committee Work Plan",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14440450",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14440450?org=915"
+    },
+    {
+     "document_id": "14457228",
+     "name": "Revisions proposed to Board Policy 3.30.080-P by SAIFOS",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14457228",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14457228?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18841739",
+   "title": "4. Discussion: Schools Beyond Screens Digital Device and Screen Use Policy Draft",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14439713",
+     "name": "SBS screen policy Sept 16",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14439713",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14439713?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18841740",
+   "title": "5. Discussion: Artificial Intelligence (AI) Policy",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18841678",
+   "title": "6. Other Business and Future Agenda Items",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18841679",
+   "title": "7. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": []
+}

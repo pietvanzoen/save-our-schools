@@ -1,0 +1,54 @@
+{
+ "meeting_id": "710294",
+ "date": "2025-09-18",
+ "slug": "special-meeting",
+ "heading": "September 18, 2025 at 6:00 PM - Special Meeting",
+ "meeting_type": "Special",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/BZiqShPYf4A"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=710294",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=710294",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-09-18_710294_special-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17216611",
+   "title": "1. Resolution 7176 - Revenue Contract Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996603",
+     "name": "Reso 7176 - Revenue Contract",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996603",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996603?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17221510",
+   "title": "2. Resolution 7177 - Ratification of Memorandum of Understanding with Portland Association of Teachers",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996607",
+     "name": "RESO No. 7177 Ratification of MOU with PAT",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996607",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996607?org=915"
+    },
+    {
+     "document_id": "3996608",
+     "name": "Fully Signed Agreement on ER (1)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996608",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996608?org=915"
+    }
+   ]
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

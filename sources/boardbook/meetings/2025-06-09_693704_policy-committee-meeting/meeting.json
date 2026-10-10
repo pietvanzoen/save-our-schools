@@ -1,0 +1,72 @@
+{
+ "meeting_id": "693704",
+ "date": "2025-06-09",
+ "slug": "policy-committee-meeting",
+ "heading": "Cancelled June 9, 2025 at 4:30 PM - Policy Committee Meeting Cancelled",
+ "meeting_type": "Committee (Policy Committee)",
+ "location": "Dr. Matthew Prophet Education Center",
+ "cancelled": true,
+ "videos": [],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=693704",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-06-09_693704_policy-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "16752282",
+   "title": "1. Call to Order / Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16752280",
+   "title": "2. Public Comment - 5 Two-Minute slots *To sign-up for public comment email PublicComment@pps.net or call 503-916-3741",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16752283",
+   "title": "3. Draft Proposed New Policy x.xx.xxx-P: Solicitation Registration and Reporting - Discussion/Potential Action",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996455",
+     "name": "May 25 DRAFT Lobbying Policy - Google Docs",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996455",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996455?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16752284",
+   "title": "4. Policies in the Public Comment Period Ethics and Conflicts of Interest Policy 5.10.066-P Student Representative and District Student Council Policy - Discussion, Potential Action 1.20.012-P",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996456",
+     "name": "First Reading PACKET_Student Rep and DSC",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996456",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996456?org=915"
+    },
+    {
+     "document_id": "3996457",
+     "name": "Second First Reading Packet_5.10.066-P Ethics and Conflict of Interest Policy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996457",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996457?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16752281",
+   "title": "5. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": []
+}

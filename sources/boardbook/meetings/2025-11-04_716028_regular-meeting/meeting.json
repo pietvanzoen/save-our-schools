@@ -1,0 +1,210 @@
+{
+ "meeting_id": "716028",
+ "date": "2025-11-04",
+ "slug": "regular-meeting",
+ "heading": "November 4, 2025 at 6:00 PM - Regular Meeting",
+ "meeting_type": "Regular",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/X6dusZrJfe8"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=716028",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=716028",
+ "supplementals_url": "https://meetings.boardbook.org/Meeting/Supplementals/915?meeting=716028",
+ "folder": "sources/boardbook/meetings/2025-11-04_716028_regular-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17370774",
+   "title": "1. 6:00 pm - Call to Order / Opening",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17370783",
+   "title": "2. 6:05 pm - Resolution Proclaiming the Celebration of National Native American Indian Heritage Month in Portland Public Schools (Resolution 7206) Vote - Public comment accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996716",
+     "name": "Resolution Proclaiming the Celebration of National Native American Indian Heritage Month in Portland Public Schools",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996716",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996716?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17370775",
+   "title": "3. 6:10 pm - Superintendent's Report",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996722",
+     "name": "Superintendent Board Report 11.4.25",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996722",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996722?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17370776",
+   "title": "4. 6:20 pm - Student Representative's Report",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17370777",
+   "title": "5. 6:25 pm - Student and Public Comment",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17370778",
+   "title": "6. 6:45 pm - Comments from our Union Partners",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17370779",
+   "title": "7. 6:50 pm - Board Committee and Conference Reports Audit Committee Facilities Improvement Oversight Committee Policy Committee Teaching, Learning, & Enrollment Committee California Association of Black School Educators Conference Council of the Great City Schools Fall Conference",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17370786",
+   "title": "8. 7:10 pm - Resolution Authorizing Amending of the Ida B. Wells High School Modernization Comprehensive Plan (Resolution 7207) Vote - Public comment accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988582",
+     "name": "Resolution 7207 - Authorizing Amending of the Ida B Wells Comprehensive Plan w Attachment",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988582",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988582?org=915"
+    },
+    {
+     "document_id": "3989463",
+     "name": "Attachment _A_ BW Comprehensive Plan Executive Summary.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3989463",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3989463?org=915"
+    },
+    {
+     "document_id": "3990445",
+     "name": "Staff Report - Ida B Wells HS Revised Comprehensive Plan 11-04-25",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3990445",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3990445?org=915"
+    },
+    {
+     "document_id": "3991275",
+     "name": "2025-06-18 IBW Updated APPENDICES",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3991275",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3991275?org=915"
+    },
+    {
+     "document_id": "3996719",
+     "name": "Ida B. Wells HS PPS Presentation 2",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996719",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996719?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17370787",
+   "title": "9. 7:30 pm - Resolution to adopt the Budget Calendar for 2026-27 (Resolution 7208) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996706",
+     "name": "2026-27 Budget Calendar.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996706",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996706?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17370780",
+   "title": "10. 7:45 pm - Consent Agenda: Resolutions 7209 through 7211 Vote- Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17370791",
+   "title": "10.(a) Resolution 7209 - Expenditure Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988049",
+     "name": "Resolution 7209- Expenditure Contracts - corrected",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988049",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988049?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17370792",
+   "title": "10.(b) Resolution 7210 - Revenue Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996707",
+     "name": "Resolution 7210 - Revenue Contract",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996707",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996707?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17370793",
+   "title": "10.(c) Resolution 7211 - Authorization of Off-Campus Activities",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996710",
+     "name": "Resolution 7211 - to authorize off-campus activities",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996710",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996710?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17370781",
+   "title": "11. 7:55 pm - Other Business / Committee Referrals",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17370782",
+   "title": "12. 8:00 pm - Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "supplementals_files": [
+  {
+   "document_id": "3998321",
+   "name": "PPS Preliminary Financial Report - Fiscal Year 2025 - Quarter 4 - Period Ending 6/30/2025",
+   "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998321?org=915"
+  },
+  {
+   "document_id": "3998322",
+   "name": "OIPA Annual Report 2024-2025",
+   "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998322?org=915"
+  }
+ ],
+ "public_notice_files": []
+}

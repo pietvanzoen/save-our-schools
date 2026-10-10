@@ -1,0 +1,104 @@
+{
+ "meeting_id": "704188",
+ "date": "2025-08-19",
+ "slug": "school-board-retreat",
+ "heading": "August 19, 2025 at 1:00 PM - School Board Retreat",
+ "meeting_type": "Working",
+ "location": "Lincoln High School",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/m70mK_olqlc"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=704188",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=704188",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-08-19_704188_school-board-retreat",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17048842",
+   "title": "1. Purpose & Introduction of Facilitator",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996559",
+     "name": "Board Retreat Presentation 8_19_25",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996559",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996559?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17048843",
+   "title": "2. Norms",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17048844",
+   "title": "3. Ice Breaker",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17048852",
+   "title": "4. TTI Assessments Review",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17048857",
+   "title": "5. Governance A. Governance Relationship B. Case Study C. Best Practices Research D. State Statutes and Policy E. School Board Meetings F. School Board Committees",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17048862",
+   "title": "6. Communications A. Superintendent B. Staff C. Constituents D. Media",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996560",
+     "name": "Board and Superintendent Staff Expectations and Operating Protocols Adopted 2021_05_11 (1)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996560",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996560?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17048867",
+   "title": "7. Additional Protocols A. Strategic Planning B. Superintendent Evaluation C. Board Self-Evaluation",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996561",
+     "name": "File_ Resolution 6993_Superintendent Evaluation Template with Recommended Edits Document",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996561",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996561?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17048873",
+   "title": "8. Debrief and Next Steps",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17048874",
+   "title": "9. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

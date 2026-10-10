@@ -1,0 +1,24 @@
+{
+ "meeting_id": "747742",
+ "date": "2026-05-26",
+ "slug": "executive-session",
+ "heading": "May 26, 2026 at 5:30 PM - Executive Session",
+ "meeting_type": "Closed",
+ "location": "Dr. Matthew Prophet Education Center",
+ "cancelled": false,
+ "videos": [],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=747742",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-05-26_747742_executive-session",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18251619",
+   "title": "1. Labor Negotiations",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": []
+}

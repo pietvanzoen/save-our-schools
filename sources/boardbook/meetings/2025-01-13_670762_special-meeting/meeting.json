@@ -1,0 +1,81 @@
+{
+ "meeting_id": "670762",
+ "date": "2025-01-13",
+ "slug": "special-meeting",
+ "heading": "January 13, 2025 at 6:00 PM - Special Meeting",
+ "meeting_type": "Special",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/xNoisoONrkA"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=670762",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=670762",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-01-13_670762_special-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "16116361",
+   "title": "1. Call to Order",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16125713",
+   "title": "2. Resolution 7044 - Resolution to Donate Air Purifiers to Los Angeles Unified School District-vote",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996207",
+     "name": "Reso 7044 Resolution to Donate Air Purifiers to LAUSD (1)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996207",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996207?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16110069",
+   "title": "3. Zone 1 Board Vacancy-Interviews and Selection",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996204",
+     "name": "Application for Vacant Board Seat in Zone 1 - Christy Splitt copy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996204",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996204?org=915"
+    },
+    {
+     "document_id": "3996205",
+     "name": "Application for Vacant Board Seat in Zone 1 - Jackie Wirz copy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996205",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996205?org=915"
+    },
+    {
+     "document_id": "3996206",
+     "name": "Application for Vacant Board Seat in Zone 1 - Jazzmin Reece copy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996206",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996206?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16116179",
+   "title": "4. Oath of Office",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16116362",
+   "title": "5. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

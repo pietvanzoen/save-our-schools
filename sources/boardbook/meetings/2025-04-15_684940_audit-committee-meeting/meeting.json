@@ -1,0 +1,109 @@
+{
+ "meeting_id": "684940",
+ "date": "2025-04-15",
+ "slug": "audit-committee-meeting",
+ "heading": "April 15, 2025 at 5:00 PM - Audit Committee Meeting",
+ "meeting_type": "Committee (Audit Committee)",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=684940",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=684940",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-04-15_684940_audit-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "16501002",
+   "title": "1. 5:00 pm - Call to Order and Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16501007",
+   "title": "2. 5:05 pm - Follow up on the status of the implementation of recommendations included in the Student Body Funds Audit",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996352",
+     "name": "SBF Audit - Status of Implementation_4_15_25",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996352",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996352?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16501167",
+   "title": "3. 5:20 pm - Status update related to the RFP process for the external ACFR auditors contract",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996353",
+     "name": "Audit Committee Update 04152025",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996353",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996353?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16501008",
+   "title": "4. 5:25 pm - Discuss Office of Internal Performance Audit (OIPA) budget request for the 2025-2026 school year and related benchmarking data",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996354",
+     "name": "FY 2026 OIPA Budget Request",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996354",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996354?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16501010",
+   "title": "5. 5:40 pm - Status update on the Audit Committee's work plan",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996355",
+     "name": "2024-25 Audit Committee Work Plan Update 4_15_25",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996355",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996355?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16501012",
+   "title": "6. 5:55 pm - Discussion of the performance evaluation for the District's Internal Auditor",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16501016",
+   "title": "7. 6:00 pm - Planning for Future Audit Topics",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16501003",
+   "title": "8. 6:10 pm - Public Comment To sign-up for public comment email PublicComment@pps.net or call the Board Office @ 503-916-3741.",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16501015",
+   "title": "9. 6:15 pm - Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

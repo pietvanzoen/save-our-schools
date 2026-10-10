@@ -1,0 +1,82 @@
+{
+ "meeting_id": "706637",
+ "date": "2025-08-28",
+ "slug": "policy-committee-meeting",
+ "heading": "August 28, 2025 at 4:30 PM - Policy Committee Meeting",
+ "meeting_type": "Committee (Policy Committee)",
+ "location": "Dr. Matthew Prophet Education Center - Windows Cafeteria / Conference Room (Floor 2)",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/wQ_R_8OACsQ"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=706637",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=706637",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-08-28_706637_policy-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17114331",
+   "title": "1. Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17114338",
+   "title": "2. Public Comment - 5 Two-Minute slots *To sign-up for public comment email PublicComment@pps.net or call 503-916-3741",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17114677",
+   "title": "3. Committee Protocols",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17114333",
+   "title": "4. Proposed Policy Revisions:",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17114348",
+   "title": "4.(a) Field Trips, Foreign Travel, and Other Off-campus Activities Policy 6.50.010-P",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996565",
+     "name": "DRAFT Field Trip Policy 6.50.010-P Revision - Wang",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996565",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996565?org=915"
+    },
+    {
+     "document_id": "3996566",
+     "name": "6.50.010-P Field Trips Policy - Current",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996566",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996566?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17114349",
+   "title": "5. Discussion: Plan to Review Current Policies",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17114339",
+   "title": "6. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

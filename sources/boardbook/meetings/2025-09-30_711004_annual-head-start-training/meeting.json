@@ -1,0 +1,47 @@
+{
+ "meeting_id": "711004",
+ "date": "2025-09-30",
+ "slug": "annual-head-start-training",
+ "heading": "September 30, 2025 at 5:00 PM - Annual Head Start Training",
+ "meeting_type": "Special",
+ "location": "Dr. Matthew Prophet Education Center",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/sWPRPxmyI8k"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=711004",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-09-30_711004_annual-head-start-training",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17245453",
+   "title": "1. Call to Order / Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17234299",
+   "title": "2. Annual Head Start Training",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996617",
+     "name": "PPS Early Learners_Head Start Board Presentation SY25-26",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996617",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996617?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17245454",
+   "title": "3. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": []
+}

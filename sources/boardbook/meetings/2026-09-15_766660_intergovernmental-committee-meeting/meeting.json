@@ -1,0 +1,68 @@
+{
+ "meeting_id": "766660",
+ "date": "2026-09-15",
+ "slug": "intergovernmental-committee-meeting",
+ "heading": "September 15, 2026 at 12:00 PM - Intergovernmental Committee Meeting",
+ "meeting_type": "Committee (Intergovernmental Affairs Committee)",
+ "location": "Virtual",
+ "cancelled": false,
+ "videos": [
+  "https://www.youtube.com/watch?v=YfANSrxqAMI"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=766660",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-09-15_766660_intergovernmental-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18804521",
+   "title": "1. 5:00 pm - Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18804522",
+   "title": "2. 5:55 pm - Public Comment *To sign-up for public comment email PublicComment@pps.net or call Kara Bradshaw at 503-916-3906.",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18804528",
+   "title": "3. Discussion: Public Employees Retirement System (PERS) Follow Up",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14404226",
+     "name": "09012026 IA Committee PERS Update (1)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14404226",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14404226?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18804531",
+   "title": "4. Review and Recommend Legislative Priorities",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14404122",
+     "name": "Committee Legislative Principles (updated)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14404122",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14404122?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18804523",
+   "title": "5. 6:00 pm - Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": []
+}

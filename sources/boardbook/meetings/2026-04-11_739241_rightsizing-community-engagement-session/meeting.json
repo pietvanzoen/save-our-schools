@@ -1,0 +1,40 @@
+{
+ "meeting_id": "739241",
+ "date": "2026-04-11",
+ "slug": "rightsizing-community-engagement-session",
+ "heading": "April 11, 2026 at 2:00 PM - Rightsizing Community Engagement Session",
+ "meeting_type": "Special",
+ "location": "Kellogg Middle School",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/QV-at-0Mjzc"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=739241",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=739241",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-04-11_739241_rightsizing-community-engagement-session",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18028546",
+   "title": "1. Community Engagement Session",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997148",
+     "name": "[Rightsize] BOE Public Engagament Sessions (April 2026)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997148",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997148?org=915"
+    },
+    {
+     "document_id": "3997149",
+     "name": "District 2025-26 Enrollment & Utilization",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997149",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997149?org=915"
+    }
+   ]
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

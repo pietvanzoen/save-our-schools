@@ -1,0 +1,135 @@
+{
+ "meeting_id": "718426",
+ "date": "2025-11-18",
+ "slug": "work-session-with-vote-on-consent-agenda",
+ "heading": "November 18, 2025 at 6:00 PM - Work Session with Vote on Consent Agenda",
+ "meeting_type": "Working",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/-OgnG-wYRv4"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=718426",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=718426",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-11-18_718426_work-session-with-vote-on-consent-agenda",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17439829",
+   "title": "1. Consent Agenda (Resolutions 7212 through 7214) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17439854",
+   "title": "1.(a) Resolution 7212 - Expenditure Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996738",
+     "name": "Resolution 7212 - Expenditure Contracts",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996738",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996738?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17439864",
+   "title": "1.(b) Resolution 7213 - Revenue Contracts",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996739",
+     "name": "Resolution 7213 - Revenue Contracts",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996739",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996739?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17457207",
+   "title": "1.(c) Resolution 7214 - Authorization of Off-Campus Activities",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988892",
+     "name": "Resolution 7214 - to authorize off-campus activities",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988892",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988892?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17439250",
+   "title": "2. Center for Black Student Excellence Due Diligence Update",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996736",
+     "name": "2025 10 10 01 CBSE Programming Feasibility Study Report",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996736",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996736?org=915"
+    },
+    {
+     "document_id": "3996737",
+     "name": "One North - Building Assessment Report",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996737",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996737?org=915"
+    },
+    {
+     "document_id": "3996746",
+     "name": "PowerPoint",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996746",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996746?org=915"
+    },
+    {
+     "document_id": "3996747",
+     "name": "Memo-One North Property Due Diligence Summary",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996747",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996747?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17439255",
+   "title": "3. Property Taxes and the Portland Public Schools Local Option Levy",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3988156",
+     "name": "Memo- Multnomah County Economist Report",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3988156",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3988156?org=915"
+    },
+    {
+     "document_id": "3989745",
+     "name": "Property Taxes and the PPS Local Option Levy",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3989745",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3989745?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17439245",
+   "title": "4. Enterprise Resource Planning (ERP) Update",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996735",
+     "name": "ERP Modernization",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996735",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996735?org=915"
+    }
+   ]
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

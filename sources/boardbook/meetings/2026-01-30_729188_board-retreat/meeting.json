@@ -1,0 +1,61 @@
+{
+ "meeting_id": "729188",
+ "date": "2026-01-30",
+ "slug": "board-retreat",
+ "heading": "January 30, 2026 at 12:00 PM - Board Retreat",
+ "meeting_type": "Working",
+ "location": "University of Oregon Portland Campus-Library and Learning Center, Room 310",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/K5pmA0yK2eQ"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=729188",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=729188",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-01-30_729188_board-retreat",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17729068",
+   "title": "1. Introductions and Stage Setting",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996858",
+     "name": "Article: The Science of Student Achievement- Adhering to Board Standards Impacts Districtwide Student Success",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996858",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996858?org=915"
+    },
+    {
+     "document_id": "3996859",
+     "name": "2026-01-30 Retreat Presentation",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996859",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996859?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17729071",
+   "title": "2. Board Roles and Responsibilities",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17729072",
+   "title": "3. Building Coherence",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17729076",
+   "title": "4. Conclusion",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

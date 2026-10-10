@@ -1,0 +1,59 @@
+{
+ "meeting_id": "696186",
+ "date": "2025-06-23",
+ "slug": "audit-committee-meeting",
+ "heading": "June 23, 2025 at 11:00 AM - Audit Committee Meeting",
+ "meeting_type": "Committee (Audit Committee)",
+ "location": "Virtual",
+ "cancelled": false,
+ "videos": [],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=696186",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=696186",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-06-23_696186_audit-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "16823899",
+   "title": "1. Call to Order / Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16823901",
+   "title": "2. Presentation of the Year 6 - Bond Performance Audit results",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996481",
+     "name": "Final PPS Year 6 Draft Report with Response-6.16.2025",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996481",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996481?org=915"
+    },
+    {
+     "document_id": "3996486",
+     "name": "PPS Year 6 Bond Audit Board Presentation--06.23.2025",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996486",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996486?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16823900",
+   "title": "3. Public Comment - 5 two-minute spots To sign-up for public comment email PublicComment@pps.net or call the Board Office @ 503-916-3741.",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16830858",
+   "title": "4. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

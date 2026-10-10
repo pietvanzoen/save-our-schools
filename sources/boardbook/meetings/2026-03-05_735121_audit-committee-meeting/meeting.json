@@ -1,0 +1,124 @@
+{
+ "meeting_id": "735121",
+ "date": "2026-03-05",
+ "slug": "audit-committee-meeting",
+ "heading": "March 5, 2026 at 5:00 PM - Audit Committee Meeting",
+ "meeting_type": "Committee (Audit Committee)",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://youtu.be/ppbt9KnsTbk?si=AWWdR53CzZT7p5hD"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=735121",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=735121",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-03-05_735121_audit-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "17891003",
+   "title": "1. Call to Order / Introduction",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17891004",
+   "title": "2. Public Comment - 5 two-minute spots To sign-up for public comment email PublicComment@pps.net or call the Board Office @ 503-916-3741.",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17891013",
+   "title": "3. Status of the implementation of the Hardship Petition Transfer Audit recommendations",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997005",
+     "name": "Hardship Petition Transfer Audit Implementation Plan",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997005",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997005?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17891016",
+   "title": "4. Status of the implementation of the Contracts Audit recommendations",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997007",
+     "name": "Proposed RESJ Partner Services Evaluation Framework_February2026_PPS Audit Committee",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997007",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997007?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17891019",
+   "title": "5. Discussion and recommendation to approve the 2026/2027 budget for the Office of Internal Performance Audit",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997010",
+     "name": "OIPA Budget Benchmarking and Budget Request",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997010",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997010?org=915"
+    },
+    {
+     "document_id": "3997011",
+     "name": "OIPA FY 2027_2026-2027 School Year Budget Request",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997011",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997011?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17891021",
+   "title": "6. Status Update on Approved Audits and Discussion of Proposed Audit Plan",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997013",
+     "name": "Status Update_ Approved Audits and Future Audit Topics",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997013",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997013?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17891023",
+   "title": "7. Status update on the 2025-2026 Audit Committee Work Plan and Proposed Meeting Agenda",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3997014",
+     "name": "2025-26 Audt Committee Work Plan",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3997014",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3997014?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "17891005",
+   "title": "8. Other Business and Future Agenda Items",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "17891006",
+   "title": "9. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}

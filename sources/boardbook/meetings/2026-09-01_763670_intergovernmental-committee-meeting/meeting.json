@@ -1,0 +1,82 @@
+{
+ "meeting_id": "763670",
+ "date": "2026-09-01",
+ "slug": "intergovernmental-committee-meeting",
+ "heading": "September 1, 2026 at 12:00 PM - Intergovernmental Committee Meeting",
+ "meeting_type": "Committee (Intergovernmental Affairs Committee)",
+ "location": "Virtual",
+ "cancelled": false,
+ "videos": [
+  "https://www.youtube.com/watch?v=kIF9qrrMy6E"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=763670",
+ "minutes_url": null,
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18721143",
+   "title": "1. Welcome and Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18721137",
+   "title": "2. Public Comment *To sign-up for public comment email PublicComment@pps.net or call 503-916-3741.",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18721188",
+   "title": "3. Committee purpose and overview of the year ahead",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18721210",
+   "title": "4. Public Employee Retirement System (PERS) update and overview",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14330795",
+     "name": "09012026 IA Committee PERS Update",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14330795",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14330795?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18721250",
+   "title": "5. Review and discuss legislative principles",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14339973",
+     "name": "IGA Committe Presentation",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14339973",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14339973?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18721251",
+   "title": "6. Future topics/next steps",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18721138",
+   "title": "7. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "public_notice_files": []
+}

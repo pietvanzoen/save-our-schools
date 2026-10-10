@@ -1,0 +1,331 @@
+{
+ "meeting_id": "769955",
+ "date": "2026-10-06",
+ "slug": "regular-meeting",
+ "heading": "October 6, 2026 at 6:00 PM - Regular Meeting",
+ "meeting_type": "Regular",
+ "location": "Dr. Matthew Prophet Education Center - Board Auditorium",
+ "cancelled": false,
+ "videos": [
+  "https://www.youtube.com/watch?v=zOUH2Jq7Owo"
+ ],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=769955",
+ "minutes_url": null,
+ "supplementals_url": "https://meetings.boardbook.org/Meeting/Supplementals/915?meeting=769955",
+ "folder": "sources/boardbook/meetings/2026-10-06_769955_regular-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "18894414",
+   "title": "1. 6:00 pm - Call to Order / Opening",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18894415",
+   "title": "2. 6:05 pm - Superintendent's Report",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18894416",
+   "title": "3. 6:10 pm - Student Representative's Report",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18894417",
+   "title": "4. 6:15 pm - Student and Public Comment",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18894418",
+   "title": "5. 6:45 pm - Comments from our Union Partners",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18894456",
+   "title": "6. 7:00 pm - Bond Accountability Committee Quarterly Report",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14498905",
+     "name": "BAC Report",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14498905",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14498905?org=915"
+    },
+    {
+     "document_id": "14513371",
+     "name": "PTMP - Cleveland_HS R1 (1)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14513371",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14513371?org=915"
+    },
+    {
+     "document_id": "14513372",
+     "name": "PTMP - Ida B Wells 050626 (1)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14513372",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14513372?org=915"
+    },
+    {
+     "document_id": "14513373",
+     "name": "PTMP - Jefferson_HS - 050726 (1)",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14513373",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14513373?org=915"
+    },
+    {
+     "document_id": "14513374",
+     "name": "PMP PPS V8 - signed",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14513374",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14513374?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18894464",
+   "title": "7. 7:15 pm - Resolution to Adopt the Budget Calendar for 2027-28 (Resolution 7383) Vote - Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14493469",
+     "name": "Reso 7383 - Resolution to Adopt the Budget Calendar for 2027-28",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14493469",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14493469?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18896092",
+   "title": "8. 7:30 pm - Update: Rightsizing",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14511742",
+     "name": "10.06.26 PowerPoint",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14511742",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14511742?org=915"
+    },
+    {
+     "document_id": "14509719",
+     "name": "Rightsizing Update Scenario Release Memo",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14509719",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14509719?org=915"
+    },
+    {
+     "document_id": "14505788",
+     "name": "District wide scenarios 10.04.26",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505788",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505788?org=915"
+    },
+    {
+     "document_id": "14505790",
+     "name": "Regional summary - Cleveland-Franklin",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505790",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505790?org=915"
+    },
+    {
+     "document_id": "14505791",
+     "name": "Regional summary - Grant-McDaniel",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505791",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505791?org=915"
+    },
+    {
+     "document_id": "14505792",
+     "name": "Regional summary - Jefferson-Roosevelt",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505792",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505792?org=915"
+    },
+    {
+     "document_id": "14505793",
+     "name": "Regional summary - Wells-Lincoln",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505793",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505793?org=915"
+    },
+    {
+     "document_id": "14505794",
+     "name": "Scenario A - Attendance Boundaries 6-8",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505794",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505794?org=915"
+    },
+    {
+     "document_id": "14505795",
+     "name": "Scenario A - Attendance Boundaries 9-12",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505795",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505795?org=915"
+    },
+    {
+     "document_id": "14505796",
+     "name": "Scenario A - Attendance Boundaries K-5",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505796",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505796?org=915"
+    },
+    {
+     "document_id": "14505797",
+     "name": "Scenario A - Attendance Boundaries K-12",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505797",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505797?org=915"
+    },
+    {
+     "document_id": "14505798",
+     "name": "Scenario B - Attendance Boundaries 6-8",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505798",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505798?org=915"
+    },
+    {
+     "document_id": "14505799",
+     "name": "Scenario B - Attendance Boundaries 9-12",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505799",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505799?org=915"
+    },
+    {
+     "document_id": "14505800",
+     "name": "Scenario B - Attendance Boundaries K-5",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505800",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505800?org=915"
+    },
+    {
+     "document_id": "14505801",
+     "name": "Scenario B - Attendance Boundaries K-12",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505801",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505801?org=915"
+    },
+    {
+     "document_id": "14505802",
+     "name": "Status Quo - Attendance Boundaries 6-8",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505802",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505802?org=915"
+    },
+    {
+     "document_id": "14505803",
+     "name": "Status Quo - Attendance Boundaries 9-12",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505803",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505803?org=915"
+    },
+    {
+     "document_id": "14505804",
+     "name": "Status Quo - Attendance Boundaries K-5",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505804",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505804?org=915"
+    },
+    {
+     "document_id": "14505805",
+     "name": "Status Quo - Attendance Boundaries K-12",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14505805",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14505805?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18894420",
+   "title": "9. 8:30 pm - Consent Agenda: Resolutions 7384 through 7387 Vote- Public Comment Accepted",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18894661",
+   "title": "9.(a) Adoption of the Minutes (Reso 7384)",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14493475",
+     "name": "Resolution 7384 - Adoption of the Minutes",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14493475",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14493475?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18894668",
+   "title": "9.(b) Expenditure Contracts (Reso 7385)",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14493794",
+     "name": "Resolution 7385 - Expenditure Contracts.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14493794",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14493794?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18894670",
+   "title": "9.(c) Revenue Contracts (Reso 7386)",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14493803",
+     "name": "Resolution 7386 - Revenue Contracts .docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14493803",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14493803?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18895687",
+   "title": "9.(d) Resolution to Approve 2027 Legislative Principles (Reso 7387)",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "14493809",
+     "name": "Resolution 7387-Resolution to Approve 2027 Legislative Principles",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14493809",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14493809?org=915"
+    },
+    {
+     "document_id": "14483988",
+     "name": "2027 PPS Legislative Principles",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14483988",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14483988?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "18908496",
+   "title": "10. 8:35 pm - Transportation for Cleveland Students to the Marshall Campus",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18894421",
+   "title": "11. 8:40 pm - Other Business, Committee Referrals, and Future Agenda Items",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18894422",
+   "title": "12. 8:45 pm - Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "18894419",
+   "title": "13. Board Committee and Conference Reports (Informational Reports) Audit Committee Facilities Improvement Oversight Committee Policy Committee Teaching, Learning, & Enrollment Committee Intergovernmental Affairs Committee",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "supplementals_files": [
+  {
+   "document_id": "14493920",
+   "name": "26-10-01 Q&A",
+   "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14493920?org=915"
+  }
+ ]
+}

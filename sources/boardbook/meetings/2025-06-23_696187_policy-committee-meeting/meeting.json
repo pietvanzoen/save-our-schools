@@ -1,0 +1,81 @@
+{
+ "meeting_id": "696187",
+ "date": "2025-06-23",
+ "slug": "policy-committee-meeting",
+ "heading": "June 23, 2025 at 4:30 PM - Policy Committee Meeting",
+ "meeting_type": "Committee (Policy Committee)",
+ "location": "Dr. Matthew Prophet Education Center",
+ "cancelled": false,
+ "videos": [],
+ "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=696187",
+ "minutes_url": "https://meetings.boardbook.org/Public/Minutes/915?meeting=696187",
+ "supplementals_url": null,
+ "folder": "sources/boardbook/meetings/2025-06-23_696187_policy-committee-meeting",
+ "agenda_items": [
+  {
+   "agenda_item_id": "16823903",
+   "title": "1. Introductions",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16823910",
+   "title": "2. Public Comment - 5 Two-Minute slots *To sign-up for public comment email PublicComment@pps.net or call 503-916-3741",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16823912",
+   "title": "3. Discussion/Potential Action",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16823913",
+   "title": "3.(a) Draft Proposed New Policy x.xx.xxx-P: Solicitation Registration and Reporting",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996485",
+     "name": "June 23 DRAFT Lobbying Policy-25_06_21 version.docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996485",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996485?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16823914",
+   "title": "3.(b) Draft amendment to Ethics and Conflicts of Interest Policy 5.10.066-P",
+   "depth": 0,
+   "description": "",
+   "attachments": [
+    {
+     "document_id": "3996482",
+     "name": "5.10.066-P Ethics and Conflict of Interest Policy- Redline second 2nd reading 6-18-25 revised (3).docx",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=3996482",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/3996482?org=915"
+    }
+   ]
+  },
+  {
+   "agenda_item_id": "16823916",
+   "title": "4. Policies in the Public Comment Period",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  },
+  {
+   "agenda_item_id": "16823911",
+   "title": "5. Adjourn",
+   "depth": 0,
+   "description": "",
+   "attachments": []
+  }
+ ],
+ "minutes_files": [],
+ "public_notice_files": []
+}
