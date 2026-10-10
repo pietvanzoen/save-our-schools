@@ -1,0 +1,3602 @@
+[
+ {
+  "path": "boardbook/meetings/2026-09-29_769094_special-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=769094",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 40523,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-29_769094_special-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=769094",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32794,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-06_770670_annual-ethics-training/agenda.html",
+  "url": "/Public/Agenda/915?meeting=770670",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38224,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-06_770670_annual-ethics-training/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=770670",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32814,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-06_769955_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=769955",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 68974,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-06_769955_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=769955",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34288,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-29_769461_intergovernmental-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=769461",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 40753,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-29_769461_intergovernmental-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=769461",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32873,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-23_768451_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=768451",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 42389,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-23_768451_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=768451",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32936,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=767981",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 44570,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-22_767981_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=767981",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32823,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-18_767819_audit-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=767819",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 40683,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-18_767819_audit-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=767819",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32840,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-16_767447_board-retreat/agenda.html",
+  "url": "/Public/Agenda/915?meeting=767447",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37387,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-16_767447_board-retreat/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=767447",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32782,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-15_766653_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=766653",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37485,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-15_766653_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=766653",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32810,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-15_766660_intergovernmental-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=766660",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 42483,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-15_766660_intergovernmental-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=766660",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32874,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-15_766050_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=766050",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 61403,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-15_766050_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=766050",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34323,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-15_766050_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=766050",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32790,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-11_766405_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=766405",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37603,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-11_766405_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=766405",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32813,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-08_765500_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=765500",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 42583,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-08_765500_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=765500",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32923,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763368_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=763368",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 36683,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763368_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=763368",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32814,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=763670",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43960,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_763670_intergovernmental-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=763670",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32869,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_761703_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=761703",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 66064,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_761703_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=761703",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34743,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-09-01_761703_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=761703",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32786,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-08-04_758088_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=758088",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 87584,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-08-04_758088_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=758088",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32773,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-08-04_758088_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=758088",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32732,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-07-07_753974_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=753974",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 60166,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-07-07_753974_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=753974",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32759,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-07-07_753974_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=753974",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32724,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-30_753597_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=753597",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37582,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-30_753597_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=753597",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32793,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-24_752646_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=752646",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 42560,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-24_752646_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=752646",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32914,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-24_752646_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=752646",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32905,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-23_751802_public-hearing-on-the-approved-budget-for-2026-27-/agenda.html",
+  "url": "/Public/Agenda/915?meeting=751802",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38060,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-23_751802_public-hearing-on-the-approved-budget-for-2026-27-/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=751802",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 33436,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-23_751802_public-hearing-on-the-approved-budget-for-2026-27-/minutes.html",
+  "url": "/Public/Minutes/915?meeting=751802",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 1900149,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-22_752184_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=752184",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37532,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-22_752184_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=752184",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32801,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-23_751412_special-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=751412",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 81333,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-23_751412_special-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=751412",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34304,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-23_751412_special-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=751412",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32763,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-23_751412_special-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=751412",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32727,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-15_751011_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=751011",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 61470,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-15_751011_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=751011",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32802,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-15_751011_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=751011",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32788,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-09_749904_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=749904",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37531,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-09_749904_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=749904",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32789,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-11_750574_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=750574",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 45654,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-11_750574_teaching-learning-and-enrollment-committee-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=750574",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34465,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-11_750574_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=750574",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32906,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-11_750574_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=750574",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32897,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-27_747392_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=747392",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43630,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-27_747392_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=747392",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32910,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-27_747392_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=747392",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32906,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-09_749359_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=749359",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 94310,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-09_749359_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=749359",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34287,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-09_749359_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=749359",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32766,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-06-09_749359_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=749359",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32723,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-26_746944_special-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=746944",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 66741,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-26_746944_special-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=746944",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32774,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-26_746944_special-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=746944",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32727,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-26_747742_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=747742",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37334,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-26_747742_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=747742",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32805,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-26_747741_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=747741",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37505,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-26_747741_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=747741",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32789,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-18_746442_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=746442",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 60952,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-18_746442_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=746442",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32803,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-18_746442_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=746442",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32784,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-13_745267_public-comment-and-work-session-on-the-2026-27-pro/agenda.html",
+  "url": "/Public/Agenda/915?meeting=745267",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38902,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-13_745267_public-comment-and-work-session-on-the-2026-27-pro/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=745267",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32970,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-13_745267_public-comment-and-work-session-on-the-2026-27-pro/minutes.html",
+  "url": "/Public/Minutes/915?meeting=745267",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32960,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-14_745857_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=745857",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 51427,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-14_745857_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=745857",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32900,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-14_745857_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=745857",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32893,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=743595",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 72819,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=743595",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32851,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=743595",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32791,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_745262_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=745262",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37482,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_745262_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=745262",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32784,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=743628",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 51547,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=743628",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32789,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=743628",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32775,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-05_743624_board-retreat/agenda.html",
+  "url": "/Public/Agenda/915?meeting=743624",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38128,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-05_743624_board-retreat/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=743624",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32746,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-05_743624_board-retreat/minutes.html",
+  "url": "/Public/Minutes/915?meeting=743624",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32717,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742316_special-meeting-and-work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=742316",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 47552,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742316_special-meeting-and-work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=742316",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32846,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742316_special-meeting-and-work-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=742316",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32800,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742734_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=742734",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37771,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742734_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=742734",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32806,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742322_rightsizing-community-engagement-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=742322",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38275,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742322_rightsizing-community-engagement-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=742322",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32896,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742322_rightsizing-community-engagement-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=742322",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32864,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-25_742321_rightsizing-community-engagement-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=742321",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38275,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-25_742321_rightsizing-community-engagement-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=742321",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32896,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-25_742321_rightsizing-community-engagement-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=742321",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32864,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-22_739961_rightsizing-community-engagement-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=739961",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38274,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-22_739961_rightsizing-community-engagement-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=739961",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32904,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-22_739961_rightsizing-community-engagement-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=739961",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32869,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=742524",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 71029,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=742524",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32806,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=742524",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32792,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-20_739960_rightsizing-community-engagement-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=739960",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38835,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-20_739960_rightsizing-community-engagement-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=739960",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32902,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-20_739960_rightsizing-community-engagement-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=739960",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32864,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-21_741790_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=741790",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 44314,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-21_741790_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=741790",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32918,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-21_741790_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=741790",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32894,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_740414_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=740414",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37427,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_740414_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=740414",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32824,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=739410",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 64140,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=739410",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34355,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=739410",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32769,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=739410",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32739,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-09_739667_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=739667",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 42002,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-09_739667_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=739667",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32901,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-09_739667_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=739667",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32897,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-11_739241_rightsizing-community-engagement-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=739241",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38822,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-11_739241_rightsizing-community-engagement-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=739241",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32902,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-11_739241_rightsizing-community-engagement-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=739241",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32864,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_738209_board-self-evaluation-work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=738209",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 39779,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_738209_board-self-evaluation-work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=738209",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32858,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_738209_board-self-evaluation-work-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=738209",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32849,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=737200",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 65802,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=737200",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34420,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=737200",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32854,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=737200",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32854,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-23_737521_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=737521",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37344,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-23_737521_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=737521",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32790,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-23_737521_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=737521",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32771,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-30_738208_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=738208",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 56546,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-30_738208_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=738208",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32806,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-30_738208_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=738208",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32808,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-17_735897_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=735897",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 44714,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-17_735897_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=735897",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32913,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-17_735897_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=735897",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32953,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-12_735909_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=735909",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43382,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-12_735909_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=735909",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32905,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-12_735909_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=735909",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32895,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-10_735642_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=735642",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37344,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-10_735642_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=735642",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32799,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-10_735642_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=735642",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32771,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-08_735645_board-retreat/agenda.html",
+  "url": "/Public/Agenda/915?meeting=735645",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 40594,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-08_735645_board-retreat/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=735645",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32749,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-08_735645_board-retreat/minutes.html",
+  "url": "/Public/Minutes/915?meeting=735645",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32752,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-05_735121_audit-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=735121",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 48853,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-05_735121_audit-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=735121",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32797,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-05_735121_audit-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=735121",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32794,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-10_734436_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=734436",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 105285,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-10_734436_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=734436",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34770,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-10_734436_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=734436",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32769,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-10_734436_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=734436",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32769,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-24_731954_work-session-with-vote-on-consent-agenda/agenda.html",
+  "url": "/Public/Agenda/915?meeting=731954",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 58866,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-24_731954_work-session-with-vote-on-consent-agenda/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=731954",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32878,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-24_731954_work-session-with-vote-on-consent-agenda/minutes.html",
+  "url": "/Public/Minutes/915?meeting=731954",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32876,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-24_733287_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=733287",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37444,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-24_733287_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=733287",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32796,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-24_733287_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=733287",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32783,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-23_731955_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=731955",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 59594,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-23_731955_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=731955",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32818,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-23_731955_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=731955",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32790,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-12_731165_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=731165",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 41802,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-12_731165_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=731165",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32917,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-12_731165_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=731165",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32906,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_730093_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=730093",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 68388,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_730093_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=730093",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34347,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_730093_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=730093",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32781,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_730093_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=730093",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32780,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-05_730080_audit-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=730080",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 44262,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-05_730080_audit-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=730080",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32809,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-05_730080_audit-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=730080",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32806,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-30_729188_board-retreat/agenda.html",
+  "url": "/Public/Agenda/915?meeting=729188",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 41119,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-30_729188_board-retreat/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=729188",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32765,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-30_729188_board-retreat/minutes.html",
+  "url": "/Public/Minutes/915?meeting=729188",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32762,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_731013_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=731013",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37524,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_731013_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=731013",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32804,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_731013_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=731013",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32783,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-27_728105_work-session-and-special-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=728105",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 47307,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-27_728105_work-session-and-special-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=728105",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32866,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-27_728105_work-session-and-special-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=728105",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32840,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_724654_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=724654",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 75265,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_724654_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=724654",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32777,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_724654_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=724654",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32775,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-20_727712_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=727712",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 45145,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-20_727712_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=727712",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32921,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-20_727712_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=727712",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32969,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-23_728252_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=728252",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 61760,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-23_728252_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=728252",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32818,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-23_728252_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=728252",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32815,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-08_724787_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=724787",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 42562,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-08_724787_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=724787",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32909,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-08_724787_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=724787",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32906,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-16_723144_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=723144",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37354,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-16_723144_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=723144",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32809,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-16_722619_work-session-with-vote-on-consent-agenda/agenda.html",
+  "url": "/Public/Agenda/915?meeting=722619",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 52503,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-16_722619_work-session-with-vote-on-consent-agenda/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=722619",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32878,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-16_722619_work-session-with-vote-on-consent-agenda/minutes.html",
+  "url": "/Public/Minutes/915?meeting=722619",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32898,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_726156_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=726156",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37438,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_726156_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=726156",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32798,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_726156_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=726156",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32779,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-08_721939_jefferson-high-school-enrollment-scenario-proposal/agenda.html",
+  "url": "/Public/Agenda/915?meeting=721939",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 50683,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-08_721939_jefferson-high-school-enrollment-scenario-proposal/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=721939",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32991,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-08_721939_jefferson-high-school-enrollment-scenario-proposal/minutes.html",
+  "url": "/Public/Minutes/915?meeting=721939",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32980,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-15_723180_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=723180",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 40682,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-15_723180_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=723180",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32818,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-15_723180_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=723180",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32807,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-09_721941_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=721941",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 45286,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-09_721941_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=721941",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32921,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-09_721941_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=721941",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32963,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-11_722705_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=722705",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 44158,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-11_722705_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=722705",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32946,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-11_722705_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=722705",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32947,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_720709_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=720709",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37354,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_720709_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=720709",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32816,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_721116_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=721116",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37483,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_721116_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=721116",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32800,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_721116_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=721116",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32779,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-18_718426_work-session-with-vote-on-consent-agenda/agenda.html",
+  "url": "/Public/Agenda/915?meeting=718426",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 49553,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-18_718426_work-session-with-vote-on-consent-agenda/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=718426",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32891,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-18_718426_work-session-with-vote-on-consent-agenda/minutes.html",
+  "url": "/Public/Minutes/915?meeting=718426",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32889,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_720518_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=720518",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 89003,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_720518_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=720518",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34359,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_720518_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=720518",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32777,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_720518_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=720518",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32777,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-13_718228_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=718228",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 44178,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-13_718228_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=718228",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32949,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-13_718228_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=718228",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32955,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-10_717786_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=717786",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 46937,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-10_717786_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=717786",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32974,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-10_717786_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=717786",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32914,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-06_717122_audit-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=717122",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 45416,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-06_717122_audit-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=717122",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32814,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-06_717122_audit-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=717122",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32797,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716684_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=716684",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37444,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716684_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=716684",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32792,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716684_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=716684",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32779,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716028_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=716028",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 57759,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716028_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=716028",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34791,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716028_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=716028",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32777,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716028_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=716028",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32784,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_715602_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=715602",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37521,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_715602_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=715602",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32811,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_715602_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=715602",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32779,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_714646_work-session-with-vote-on-consent-agenda/agenda.html",
+  "url": "/Public/Agenda/915?meeting=714646",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 58097,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_714646_work-session-with-vote-on-consent-agenda/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=714646",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34423,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_714646_work-session-with-vote-on-consent-agenda/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=714646",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32902,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_714646_work-session-with-vote-on-consent-agenda/minutes.html",
+  "url": "/Public/Minutes/915?meeting=714646",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32895,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-20_714285_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=714285",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 51677,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-20_714285_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=714285",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32814,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-20_714285_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=714285",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32814,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-16_714196_audit-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=714196",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 54095,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-16_714196_audit-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=714196",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32809,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-16_714196_audit-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=714196",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32806,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713376_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=713376",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37524,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713376_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=713376",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 33009,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713376_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=713376",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32983,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713383_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=713383",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37494,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713383_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=713383",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32798,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713383_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=713383",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32779,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_712117_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=712117",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 85917,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_712117_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=712117",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34769,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_712117_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=712117",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32761,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_712117_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=712117",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32776,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-09_712839_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=712839",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 40712,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-09_712839_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=712839",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32938,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-09_712839_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=712839",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32948,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-30_711006_work-session-with-vote-on-consent-agenda/agenda.html",
+  "url": "/Public/Agenda/915?meeting=711006",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 59096,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-30_711006_work-session-with-vote-on-consent-agenda/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=711006",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32892,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-30_711006_work-session-with-vote-on-consent-agenda/minutes.html",
+  "url": "/Public/Minutes/915?meeting=711006",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32899,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-08_712407_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=712407",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 47584,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-08_712407_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=712407",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32960,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-08_712407_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=712407",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32957,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-30_711004_annual-head-start-training/agenda.html",
+  "url": "/Public/Agenda/915?meeting=711004",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 39792,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-30_711004_annual-head-start-training/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=711004",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32840,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-18_710294_special-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=710294",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 40522,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-18_710294_special-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=710294",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32785,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-18_710294_special-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=710294",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32781,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-18_709744_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=709744",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 42524,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-18_709744_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=709744",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32965,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_706408_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=706408",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 82163,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_706408_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=706408",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32781,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_706408_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=706408",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32769,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_708258_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=708258",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37354,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_708258_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=708258",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32809,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_708258_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=708258",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32783,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-16_709343_facilities-improvement-and-oversight-committee-mee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=709343",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 47715,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-16_709343_facilities-improvement-and-oversight-committee-mee/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=709343",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34481,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-16_709343_facilities-improvement-and-oversight-committee-mee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=709343",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32972,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-16_709343_facilities-improvement-and-oversight-committee-mee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=709343",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32918,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-28_706637_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=706637",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43672,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-28_706637_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=706637",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32810,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-28_706637_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=706637",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32799,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704192_special-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=704192",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 42986,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704192_special-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=704192",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32897,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704192_special-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=704192",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32891,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704188_school-board-retreat/agenda.html",
+  "url": "/Public/Agenda/915?meeting=704188",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 48436,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704188_school-board-retreat/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=704188",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32791,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704188_school-board-retreat/minutes.html",
+  "url": "/Public/Minutes/915?meeting=704188",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32788,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-14_703691_teaching-learning-and-enrollment-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=703691",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43187,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-14_703691_teaching-learning-and-enrollment-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=703691",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32948,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-14_703691_teaching-learning-and-enrollment-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=703691",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32945,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-12_703009_facilities-improvement-and-oversight-committee/agenda.html",
+  "url": "/Public/Agenda/915?meeting=703009",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 46829,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-12_703009_facilities-improvement-and-oversight-committee/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=703009",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32913,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-12_703009_facilities-improvement-and-oversight-committee/minutes.html",
+  "url": "/Public/Minutes/915?meeting=703009",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32917,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699537_work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=699537",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38346,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699537_work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=699537",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32920,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699537_work-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=699537",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32907,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701439_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=701439",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 59087,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701439_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=701439",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32769,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701439_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=701439",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32764,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701938_annual-board-ethics-and-public-meetings-training/agenda.html",
+  "url": "/Public/Agenda/915?meeting=701938",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38354,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701938_annual-board-ethics-and-public-meetings-training/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=701938",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32907,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701938_annual-board-ethics-and-public-meetings-training/minutes.html",
+  "url": "/Public/Minutes/915?meeting=701938",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32923,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-24_695124_special-meeting-and-work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=695124",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 57178,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-24_695124_special-meeting-and-work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=695124",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32850,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-24_695124_special-meeting-and-work-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=695124",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32860,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-24_696432_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=696432",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37344,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-24_696432_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=696432",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32786,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-24_696432_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=696432",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32767,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-23_696420_charter-schools-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=696420",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43924,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-23_696420_charter-schools-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=696420",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32839,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-23_696420_charter-schools-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=696420",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32835,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699248_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=699248",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 100628,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699248_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=699248",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34821,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699248_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=699248",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32767,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699248_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=699248",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32763,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-23_696187_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=696187",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 44096,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-23_696187_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=696187",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32802,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-23_696187_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=696187",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32799,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-23_696186_audit-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=696186",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 41313,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-23_696186_audit-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=696186",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32801,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-23_696186_audit-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=696186",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32806,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-10_693907_public-hearing-on-the-approved-budget-for-2025-26-/agenda.html",
+  "url": "/Public/Agenda/915?meeting=693907",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37223,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-10_693907_public-hearing-on-the-approved-budget-for-2025-26-/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=693907",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 33445,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-10_693907_public-hearing-on-the-approved-budget-for-2025-26-/minutes.html",
+  "url": "/Public/Minutes/915?meeting=693907",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 33440,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-10_689410_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=689410",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 77744,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-10_689410_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=689410",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34292,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-10_689410_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=689410",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32765,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-10_689410_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=689410",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32761,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-09_693888_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=693888",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37674,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-09_693888_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=693888",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 33008,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-09_693888_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=693888",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32967,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-09_693875_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=693875",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37426,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-09_693875_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=693875",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32801,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-09_693875_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=693875",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32763,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-09_693704_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=693704",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43188,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-09_693704_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=693704",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32806,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-06_693703_school-facilities-improvement-oversight-committee-/agenda.html",
+  "url": "/Public/Agenda/915?meeting=693703",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 52137,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-06_693703_school-facilities-improvement-oversight-committee-/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=693703",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32963,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-06_693703_school-facilities-improvement-oversight-committee-/minutes.html",
+  "url": "/Public/Minutes/915?meeting=693703",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32998,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-31_692538_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=692538",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37504,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-31_692538_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=692538",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32784,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-31_692538_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=692538",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32763,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-19_689137_special-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=689137",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 59431,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-19_689137_special-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=689137",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32761,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-19_689137_special-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=689137",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32759,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-12_689165_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=689165",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 46541,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-12_689165_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=689165",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32806,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-12_689165_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=689165",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32833,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-06_688352_tax-supervising-and-conservation-commission-tscc-h/agenda.html",
+  "url": "/Public/Agenda/915?meeting=688352",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38506,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-06_688352_tax-supervising-and-conservation-commission-tscc-h/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=688352",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32933,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-06_688352_tax-supervising-and-conservation-commission-tscc-h/minutes.html",
+  "url": "/Public/Minutes/915?meeting=688352",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32928,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-29_686331_public-comment-and-work-session-on-the-2025-26-pro/agenda.html",
+  "url": "/Public/Agenda/915?meeting=686331",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 41832,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-29_686331_public-comment-and-work-session-on-the-2025-26-pro/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=686331",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32980,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-29_686331_public-comment-and-work-session-on-the-2025-26-pro/minutes.html",
+  "url": "/Public/Minutes/915?meeting=686331",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32947,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-22_684707_special-meeting-and-work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=684707",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 71943,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-22_684707_special-meeting-and-work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=684707",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32852,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-22_684707_special-meeting-and-work-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=684707",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32859,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-06_686691_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=686691",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 79111,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-06_686691_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=686691",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 35256,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-06_686691_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=686691",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32757,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-05-06_686691_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=686691",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32755,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-15_684940_audit-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=684940",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 47631,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-15_684940_audit-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=684940",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32816,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-15_684940_audit-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=684940",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32791,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-08_681959_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=681959",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 110186,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-08_681959_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=681959",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32765,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-08_681959_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=681959",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32763,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-08_684209_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=684209",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37472,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-08_684209_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=684209",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32807,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-08_684209_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=684209",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32767,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-03_683189_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=683189",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 49949,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-03_683189_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=683189",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32802,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-04-03_683189_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=683189",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32799,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-18_679850_work-session-with-vote-on-consent-agenda/agenda.html",
+  "url": "/Public/Agenda/915?meeting=679850",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 61022,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-18_679850_work-session-with-vote-on-consent-agenda/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=679850",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32886,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-18_679850_work-session-with-vote-on-consent-agenda/minutes.html",
+  "url": "/Public/Minutes/915?meeting=679850",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32883,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-17_680911_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=680911",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 48813,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-17_680911_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=680911",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32815,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-18_681172_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=681172",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37511,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-18_681172_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=681172",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32792,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-18_681172_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=681172",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32771,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-18_676406_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=676406",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37604,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-18_676406_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=676406",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32988,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-18_676406_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=676406",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32975,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-26_677757_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=677757",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 49273,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-26_677757_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=677757",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32818,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-26_677757_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=677757",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32816,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-18_675309_special-meeting-and-work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=675309",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 56260,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-18_675309_special-meeting-and-work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=675309",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32879,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-18_675309_special-meeting-and-work-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=675309",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32863,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-04_677306_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=677306",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 88329,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-04_677306_regular-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=677306",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34345,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-04_677306_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=677306",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32777,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-03-04_677306_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=677306",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32763,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-18_676400_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=676400",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37521,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-18_676400_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=676400",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32804,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-18_676400_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=676400",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32783,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-11_675308_special-meeting-and-work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=675308",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 41394,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-11_675308_special-meeting-and-work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=675308",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32870,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-11_675308_special-meeting-and-work-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=675308",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32853,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-04_673134_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=673134",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 64303,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-04_673134_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=673134",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32777,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-04_673134_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=673134",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32774,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-04_673219_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=673219",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37546,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-04_673219_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=673219",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32795,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-04_673219_executive-session/minutes.html",
+  "url": "/Public/Minutes/915?meeting=673219",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32779,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-21_672157_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=672157",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 37686,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-21_672157_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=672157",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32963,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-13_670762_special-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=670762",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 43363,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-13_670762_special-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=670762",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32777,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-13_670762_special-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=670762",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32772,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-03_674072_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=674072",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 47636,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-03_674072_policy-committee-meeting/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=674072",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34353,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-02-03_674072_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=674072",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32814,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-21_670573_special-meeting-and-work-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=670573",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 53779,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-21_670573_special-meeting-and-work-session/supplementals.html",
+  "url": "/Meeting/Supplementals/915?meeting=670573",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 34379,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-21_670573_special-meeting-and-work-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=670573",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32842,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-13_670775_policy-committee-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=670775",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 46782,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-13_670775_policy-committee-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=670775",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32819,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-13_670775_policy-committee-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=670775",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32803,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-07_668813_regular-meeting/agenda.html",
+  "url": "/Public/Agenda/915?meeting=668813",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 75962,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-07_668813_regular-meeting/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=668813",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32773,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-07_668813_regular-meeting/minutes.html",
+  "url": "/Public/Minutes/915?meeting=668813",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32768,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-07_669322_public-comment-on-the-referral-of-a-2025-general-o/agenda.html",
+  "url": "/Public/Agenda/915?meeting=669322",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 39454,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-07_669322_public-comment-on-the-referral-of-a-2025-general-o/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=669322",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 33018,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/meetings/2025-01-07_669322_public-comment-on-the-referral-of-a-2025-general-o/minutes.html",
+  "url": "/Public/Minutes/915?meeting=669322",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 32965,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ },
+ {
+  "path": "boardbook/organization_915_meeting_list.html",
+  "url": "/public/Organization/915",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 1900149,
+  "fetched_at": "2026-10-10T22:23:23.193Z"
+ }
+]

@@ -1,0 +1,802 @@
+[
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3997227_ERP_Modernization_-_BOE_05-12-25.pdf",
+  "url": "/Documents/DownloadPDF/3997227?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1389421,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3997228_ERP_Modernization_-_BOE_Memo_05-12-26.pdf",
+  "url": "/Documents/DownloadPDF/3997228?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 211230,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3988452_Memo-Revisons_to_Secion_7.00.000_Polciies-26_04_30.pdf",
+  "url": "/Documents/DownloadPDF/3988452?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 982784,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3989433_Staff_Memo_re_Policy_Revisions_-_Section_7.00.000.pdf",
+  "url": "/Documents/DownloadPDF/3989433?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1025936,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3990584_1.70.020-P_Policies_and_Administrative_Directives_Draft_Redline.pdf",
+  "url": "/Documents/DownloadPDF/3990584?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 84370,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3991240_7.10.010-P_School-Site_Councils.pdf",
+  "url": "/Documents/DownloadPDF/3991240?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 90294,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3991403_7.10.020-P_Districtwide_Advocacy_and_Fundraising.pdf",
+  "url": "/Documents/DownloadPDF/3991403?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 62495,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3991857_7.10.030-P_District_Foundation.pdf",
+  "url": "/Documents/DownloadPDF/3991857?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 56469,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3991927_7.10.040-P_Parental_and_Family_Involvement_in_Support_of_Academic_Achievement.pdf",
+  "url": "/Documents/DownloadPDF/3991927?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 14948,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3992203_7.20.020-P_Volunteers.pdf",
+  "url": "/Documents/DownloadPDF/3992203?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 56069,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3992251_7.20.040-P_Citizen_-_Community_Sponsored_Contests.pdf",
+  "url": "/Documents/DownloadPDF/3992251?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 8787,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3990012_Resolution_7303_-_Expenditure_Contracts.pdf",
+  "url": "/Documents/DownloadPDF/3990012?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 96426,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3997214_Resolution_7304_-_Revenue_Contracts.pdf",
+  "url": "/Documents/DownloadPDF/3997214?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 64546,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-12_743595_special-meeting-and-work-session/attachments/3997230_Reso_7305_-_Dismissal_of_a_Contract_Educator..pdf",
+  "url": "/Documents/DownloadPDF/3997230?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 37688,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3997221_PowerPoint.pdf",
+  "url": "/Documents/DownloadPDF/3997221?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 76530,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3997222_Bond_Audit_Recommendation_Implementation.pdf",
+  "url": "/Documents/DownloadPDF/3997222?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 126206,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3997233_PCG_Playbook_-_Course_Catalog_SBF_Pepper_Training.pdf",
+  "url": "/Documents/DownloadPDF/3997233?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 213021,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3997234_SBF_Audit_Recommendations_Update_April_2026.pdf",
+  "url": "/Documents/DownloadPDF/3997234?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 70999,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3997235_SBF_Bank_Recon_Infraction_Table.pdf",
+  "url": "/Documents/DownloadPDF/3997235?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 29545,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3988625_Current_Policy_160040-PDistrictPerformanceAuditing.pdf",
+  "url": "/Documents/DownloadPDF/3988625?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 119124,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3989617_Redline_160040-PDistrictPerformanceAuditing.pdf",
+  "url": "/Documents/DownloadPDF/3989617?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 242821,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3990493_Additional_Information_Documents_pt._1.pdf",
+  "url": "/Documents/DownloadPDF/3990493?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 8622091,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3991317_Additional_Information_Documents_pt._2.pdf",
+  "url": "/Documents/DownloadPDF/3991317?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 12516296,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3991430_Audit_Committee_Charter_Matrix.pdf",
+  "url": "/Documents/DownloadPDF/3991430?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 115704,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3997223_2025-26_Audti_Committee_Work_Plan_and_Meeting_Agendas.pdf",
+  "url": "/Documents/DownloadPDF/3997223?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 336827,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-07_743628_audit-committee-meeting/attachments/3997224_OIPA_Activities_Status_Update_May_2026.pdf",
+  "url": "/Documents/DownloadPDF/3997224?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 203069,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-05-05_743624_board-retreat/attachments/3988495_PowerPoint.pdf",
+  "url": "/Documents/DownloadPDF/3988495?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 3506433,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742316_special-meeting-and-work-session/attachments/3997164_Resolution_7298_-_Expenditure_Contracts.pdf",
+  "url": "/Documents/DownloadPDF/3997164?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 131116,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742316_special-meeting-and-work-session/attachments/3997160_2027_BUDGET_BOOK_PROPOSED_Volume_1.pdf",
+  "url": "/Documents/DownloadPDF/3997160?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 13033499,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742316_special-meeting-and-work-session/attachments/3997161_2027_SCHOOL_REPORTS_Volume_2.pdf",
+  "url": "/Documents/DownloadPDF/3997161?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 4421565,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742316_special-meeting-and-work-session/attachments/3997181_26-27_BOE_Proposed_Budget_4.28.2026_(1).pdf",
+  "url": "/Documents/DownloadPDF/3997181?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 6252466,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-28_742316_special-meeting-and-work-session/attachments/3997163_Bond_Update_2026-04-28.pdf",
+  "url": "/Documents/DownloadPDF/3997163?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 4819024,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742322_rightsizing-community-engagement-session/attachments/3997445_[Rightsize]_4_27_-_BOE_Public_Engagement_Sessions.pdf",
+  "url": "/Documents/DownloadPDF/3997445?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 3078565,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-25_742321_rightsizing-community-engagement-session/attachments/3997444_[Rightsize]_4_25_-_BOE_Public_Engagement_Sessions.pdf",
+  "url": "/Documents/DownloadPDF/3997444?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 3134726,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-22_739961_rightsizing-community-engagement-session/attachments/3997180_4_22_-_BOE_Public_Engagement_Session_PowerPoint.pdf",
+  "url": "/Documents/DownloadPDF/3997180?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 3540690,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997175_1.70.020-P_Policies_and_Administrative_Directives_Draft_Redline.pdf",
+  "url": "/Documents/DownloadPDF/3997175?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 88102,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997103_Staff_Memo_re_Policy_Revisions_-_Section_7.00.000.docx_(1).pdf",
+  "url": "/Documents/DownloadPDF/3997103?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1013529,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3988244_7.10.010-P_School_Site_Councils_Redline_040726.docx_-_Google_Docs.pdf",
+  "url": "/Documents/DownloadPDF/3988244?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 94302,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3989427_File__710010-PSchool-SiteCouncils.pdf",
+  "url": "/Documents/DownloadPDF/3989427?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 163540,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3989469_7.10.020-PDistrictwideAdvocacyandFundraising.pdf",
+  "url": "/Documents/DownloadPDF/3989469?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 127051,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997207_7.10.020-PDistrictwide_Advocacy_and_Fundraising-Redline.pdf",
+  "url": "/Documents/DownloadPDF/3997207?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 64088,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997087_7.10.030-P_District_Foundation_Redline_021026.pdf",
+  "url": "/Documents/DownloadPDF/3997087?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 81208,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997089_710030-PDistrictFoundation.pdf",
+  "url": "/Documents/DownloadPDF/3997089?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 80585,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997090_OSBA_Foundation_Policy_DED_G1.pdf",
+  "url": "/Documents/DownloadPDF/3997090?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 132570,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997093_File__710040-PParentalandFamilyInvolvementinSupportofAcademicAchievement.pdf",
+  "url": "/Documents/DownloadPDF/3997093?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 14949,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997094_File__7.20.020-P_Volunteers_Redline_020526.pdf",
+  "url": "/Documents/DownloadPDF/3997094?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 81041,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997097_File__720020-PVolunteers.pdf",
+  "url": "/Documents/DownloadPDF/3997097?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 57483,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997099_File__Beaverton_policy_IICC_-_Volunteers.pdf",
+  "url": "/Documents/DownloadPDF/3997099?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 132229,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997100_File__720040-PCitizen-CommunitySponsoredContests.pdf",
+  "url": "/Documents/DownloadPDF/3997100?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 8780,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997204_Staff_Memo_re_Policy_Revisions_-_Section_2.00.000.pdf",
+  "url": "/Documents/DownloadPDF/3997204?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1029337,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997182_2.10.010-P_Racial_Educational_Equity_Policy_redline_031226.docx_-_Google_Docs.pdf",
+  "url": "/Documents/DownloadPDF/3997182?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 149237,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997189_2.20.010-P_Naming_School_District_Property_redline_030326.docx_-_Google_Docs.pdf",
+  "url": "/Documents/DownloadPDF/3997189?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 88708,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997190_2.30.010-P_Religious_and_Cultural_Observances_redline_030526.docx_-_Google_Docs.pdf",
+  "url": "/Documents/DownloadPDF/3997190?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 85714,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997193_240020-PStudentParticipation.pdf",
+  "url": "/Documents/DownloadPDF/3997193?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 14347,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997198_2.50.010-P_Public_Access_to_District_Records_redline_031026.docx_-_Google_Docs.pdf",
+  "url": "/Documents/DownloadPDF/3997198?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 65464,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997200_2.50.020-P_Student_Education_Records_redline_031226.docx_-_Google_Docs.pdf",
+  "url": "/Documents/DownloadPDF/3997200?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 61567,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997203_JO_-_Education_Records_-_Beaverton_School_District_(1).pdf",
+  "url": "/Documents/DownloadPDF/3997203?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1106703,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-27_742524_policy-committee-meeting/attachments/3997177_160040-PDistrictPerformanceAuditing.pdf",
+  "url": "/Documents/DownloadPDF/3997177?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 121444,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-20_739960_rightsizing-community-engagement-session/attachments/3997156_[Rightsize]_4_20_-_BOE_Public_Engagament_Sessions_(Virtual).pdf",
+  "url": "/Documents/DownloadPDF/3997156?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 5353980,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-20_739960_rightsizing-community-engagement-session/attachments/3997157_District_2025-26_Enrollment___Utilization_04.20.26.pdf",
+  "url": "/Documents/DownloadPDF/3997157?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 18796800,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-21_741790_facilities-improvement-and-oversight-committee-mee/attachments/3997154_SIAOS_McDaniel_HS_Air_Quality_Report-_Dec_2025_(3).pdf",
+  "url": "/Documents/DownloadPDF/3997154?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 8850278,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-21_741790_facilities-improvement-and-oversight-committee-mee/attachments/3997159_McDaniel-Report-presentation.pdf",
+  "url": "/Documents/DownloadPDF/3997159?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 19291511,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-21_741790_facilities-improvement-and-oversight-committee-mee/attachments/3997155_PowerPoint.pdf",
+  "url": "/Documents/DownloadPDF/3997155?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 5045317,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3988127_Resolution_7296_-_to_Direct_the_Superintendent_to_Begin_a_Rightsizing_Process_for_PPS_-_SE.pdf",
+  "url": "/Documents/DownloadPDF/3988127?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 61226,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3990244_Resolution_7296_-_to_Direct_the_Superintendent_to_Begin_a_-REVISED.pdf",
+  "url": "/Documents/DownloadPDF/3990244?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 55351,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3990653_Resolution_7296_-_to_Direct_the_Superintendent_to_Begin_a_Rightsizing_Process_-Proposed_Am.pdf",
+  "url": "/Documents/DownloadPDF/3990653?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 75102,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3988275_Resolution_7290_-_Adotion_of_the_26-27_Board_Meeting_Calendar_-_as_proposed_REVISED.docx.pdf",
+  "url": "/Documents/DownloadPDF/3988275?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 52233,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3990367_2026-27_Board_Meeting_Calendar_REVISED.pdf",
+  "url": "/Documents/DownloadPDF/3990367?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 420443,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3988126_Resolution_7291_-_to_Amend_the_District’s_Public_Contracting_Rules.pdf",
+  "url": "/Documents/DownloadPDF/3988126?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 89534,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3989981_2026_Portland_Public_Schools_Public_Contracting_Rules_Clean_Copy.pdf",
+  "url": "/Documents/DownloadPDF/3989981?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1513958,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3990385_First_Reading_Packet_-_2026_Public_Contracting_Rules_Revisions_with_redline_-_first_read_3.pdf",
+  "url": "/Documents/DownloadPDF/3990385?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 823548,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3997142_Presentation_-_MESD_Portland_Clean_Energy_Fund_IGA.pdf",
+  "url": "/Documents/DownloadPDF/3997142?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 982647,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3997146_Staff_Memo_-_MESD_Portland_Clean_Energy_Fund_IGA_Update.pdf",
+  "url": "/Documents/DownloadPDF/3997146?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 983858,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3997150_Budget_Development_Presentation_04142026_BOE.pdf",
+  "url": "/Documents/DownloadPDF/3997150?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 4778026,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3997117_Resolution_7292_-_Expenditure_Contracts.pdf",
+  "url": "/Documents/DownloadPDF/3997117?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 107408,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3997134_Resolution_7293_-_Adoption_of_the_minutes.pdf",
+  "url": "/Documents/DownloadPDF/3997134?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 92669,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3997147_2026_03_31_Special_Meeting_and_WS_Meeting_Minutes_-_Draft.pdf",
+  "url": "/Documents/DownloadPDF/3997147?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 3459958,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3988867_Resolution_7295_-_Amend_the_26-27_budget_calendar.pdf",
+  "url": "/Documents/DownloadPDF/3988867?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 147580,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3990063_2026-27_Budget_Calendar_Amendment_Staff_Memo.pdf",
+  "url": "/Documents/DownloadPDF/3990063?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 216909,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/attachments/3988856_Resolution_7297_-_Revenue_Contracts.pdf",
+  "url": "/Documents/DownloadPDF/3988856?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 83824,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-14_739410_regular-meeting/supplemental/3998328_Jan_2026_Preliminary_Financial_Update_for_the_Month_Ended_January_31,_2026_Board_Report.pdf",
+  "url": "/Documents/DownloadPDF/3998328?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 4371835,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-09_739667_teaching-learning-and-enrollment-committee-meeting/attachments/3997138_Multilingual_Learners_Services_Department_TLE_Presentation_April_9th.pdf",
+  "url": "/Documents/DownloadPDF/3997138?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 2721387,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-11_739241_rightsizing-community-engagement-session/attachments/3997148_[Rightsize]_BOE_Public_Engagament_Sessions_(April_2026).pdf",
+  "url": "/Documents/DownloadPDF/3997148?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 3364961,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-04-11_739241_rightsizing-community-engagement-session/attachments/3997149_District_2025-26_Enrollment___Utilization.pdf",
+  "url": "/Documents/DownloadPDF/3997149?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 11234386,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_738209_board-self-evaluation-work-session/attachments/3997115_PPS_BSAS_presentation_2026.pdf",
+  "url": "/Documents/DownloadPDF/3997115?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 675408,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3997034_Resolution_7280_-_Expenditure_Contracts.pdf",
+  "url": "/Documents/DownloadPDF/3997034?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 119290,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3988728_Resolution_7281_-_Revenue_Contracts.pdf",
+  "url": "/Documents/DownloadPDF/3988728?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 85470,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3997077_Resolution_7282_-_Appointment_of_BAC_Members_3-20-2026.pdf",
+  "url": "/Documents/DownloadPDF/3997077?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 81704,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3997078_Staff_Report_-_Appointment_of_BAC_Members_3-20-2026.pdf",
+  "url": "/Documents/DownloadPDF/3997078?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 244419,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3988118_Resolution_7283_-_2026-27_Standard_Inter-district_student_transfers.pdf",
+  "url": "/Documents/DownloadPDF/3988118?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 76686,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3989643_Interdistrict_Charts_through_2025-26_-_New_IDTs_by_districts.pdf",
+  "url": "/Documents/DownloadPDF/3989643?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 61220,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3990672_Staff_Report_2026-27_Interdistrict_transfers.pdf",
+  "url": "/Documents/DownloadPDF/3990672?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 492779,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3987980_Resolution_7284_-_Adoption_of_the_minutes.pdf",
+  "url": "/Documents/DownloadPDF/3987980?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 90368,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3990212_2026_03_10_Regular_Meeting_Minutes_-_Draft_for_consideration.pdf",
+  "url": "/Documents/DownloadPDF/3990212?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1228501,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3988402_Resolution_7285_-_MOU_between_PAT_and_PPS_w_exhibit_A.pdf",
+  "url": "/Documents/DownloadPDF/3988402?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 160264,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3990210_PAT_PPS_MOU_March_2026-_Exhibit_A_for_Resolution_7285.pdf",
+  "url": "/Documents/DownloadPDF/3990210?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 145038,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3997109_Resolution_7287_-_MOU_between_SEIU_and_PPS_with_Exhibit_A.pdf",
+  "url": "/Documents/DownloadPDF/3997109?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 300736,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3997110_SEIU_PPS_MOU_March_2026_-_Exhibit_A_for_Resolution_7287.pdf",
+  "url": "/Documents/DownloadPDF/3997110?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 264727,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3997111_Resolution_7288_-_MOU_PFSP_and_PPS_including_exhibit_A.pdf",
+  "url": "/Documents/DownloadPDF/3997111?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 274033,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ },
+ {
+  "path": "boardbook/meetings/2026-03-31_737200_special-meeting-and-work-session/attachments/3997112_PFSP_PPS_MOU_March_2026_-_Exhibit_A_for_Resolution_7288.pdf",
+  "url": "/Documents/DownloadPDF/3997112?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 232010,
+  "fetched_at": "2026-10-10T22:25:05.835Z"
+ }
+]
