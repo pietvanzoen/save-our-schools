@@ -1,6 +1,6 @@
 {
  "id": "bQb4RGUlfk0",
- "fetched_at": "2026-10-11T00:26:20.367Z",
+ "fetched_at": "2026-10-11T01:04:45.929Z",
  "meta": {
   "videoId": "bQb4RGUlfk0",
   "title": "2026-06-24 Board of Education's Facilities Improvement and Oversight Committee",
@@ -140,8 +140,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 830,
+ "caption_lang": "en",
+ "n_lines": 649,
+ "sample": "51080\t5040\tRise Presidio | 53640\t4720\t>> TJ Hopkins, Senior Program Director with | 56120\t4320\tPresidio",
  "meetings": "2026-06-24|752646",
  "url": "https://www.youtube.com/watch?v=bQb4RGUlfk0",
  "boardbook_meetings": [
