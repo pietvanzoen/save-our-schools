@@ -1,0 +1,2325 @@
+PORTLAND PUBLIC SCHOOLS
+BOND PROGRAM
+
+
+
+PROGRAM
+MANAGEMENT PLAN
+
+
+
+      | PROGRAM MANAGEMENT PLAN   1
+TABLE OF CONTENTS
+                         Table of Contents                                2
+
+
+
+                    A.   Introduction                                     3
+
+
+
+                    B.   Objectives and KPIs                             4
+
+
+
+                    C.   Program Management Plan                         12
+
+                         1.   Program Management Approach and
+                              Organization
+                         2.   Program Planning and Development
+                              Activities
+                         3.   Program Management Controls
+                         4.   Procurement Strategies and Procedures
+                         5.   Processes and Procedures
+                         6.   Program Communication Procedures
+                         7.   Development of Design Process Guidelines
+                         8.   Development of Construction Process
+                              Guidelines
+                         9.   Project Acceptance and Turn Over
+                              Guidelines
+
+
+
+                    D.   Exhibits                                        30
+
+                         1. Organizational Chart
+                         2. Program Master Schedule
+                         3. Projects Budget
+                         4. Processes & Procedures
+                         5. PMP Acknowledgment
+
+
+
+
+                                                                          2
+                                             A. INTRODUCTION
+
+In May 2025, the voters of Portland, OR approved a $1.83B bond program for Portland Public Schools
+(PPS). The primary purpose of this Program Management Plan (PMP) is to provide an overview of the
+PPS 2025 Bond Program and provide updates from the Program Manager (PgM), PROCEDEO, whom is
+responsible for overseeing the day-to-day operation to all bond program projects.
+
+This PMP will effectively outline the typical sequence of activities for the design and construction phases
+in a project, provide updates to the schedule and budget models for all of the projects in this program,
+and supporting information for the management tools that will be utilized.
+
+As per Exhibit A – Statement of Services Article B.1 from the agreement between PPS and PgM, this PMP
+was first submitted on March 9th, 2026 and is updated to PPS every six months (January and June).
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                     3
+              B. OBJECTIVES AND KPIS
+
+
+
+
+“   When building principals are centered in
+    operational decision-making, schools function
+    not just more efficiently, but more equitably—
+    because the people closest to students are
+                                           “
+    guiding the systems that serve them.
+
+
+
+    -Tammy Campbell
+
+
+
+
+    | PROGRAM MANAGEMENT PLAN                        4
+                                                                         B. OBJECTIVES AND KPIS
+
+
+
+
+ WORK PLAN FOR RISE DEPARTMENT (OFFICE/DEPARTMENT)
+
+Department Goal:                 The RISE Department (Real Estate, Infrastructure, and School
+                                 Enhancements) advances Portland Public Schools’ mission by
+                                 strategically planning, developing, and stewarding district facilities
+                                 and assets. We deliver safe, modern, and equitable learning
+                                 environments through thoughtful real estate strategy, responsible
+                                 infrastructure investment, and high-quality school enhancements —
+                                 ensuring every capital decision supports student success and long-
+                                 term community value.
+
+
+
+
+Long Term Implications           •     Real estate decisions align with long-range enrollment and
+(What will be different in the         educational strategy.
+organization because of this     •     Infrastructure investments are prioritized using lifecycle data and
+goal)                                  risk modeling.
+                                 •     Enhancements support instructional goals — not just aesthetics
+                                       or immediate pressure.
+
+                                 Organizational shift:
+                                 A formal capital prioritization framework becomes standard practice.
+
+
+Key Collaborators                Jon Franco, Deborah Kafoury, Sarah Norman, Joanna Evenson,
+                                 Jennifer Eggers, TJ Hopkins, Nichole Watson, and Angela Caffrey
+Barriers to Success              1.       Cultural resistance to change
+                                 2.       Competing Priorities (Academic vs. Capital)
+                                 3.       Funding Constraints & Volatility
+                                 4.       Data Gaps & Asset Visibility
+                                 5.       Political & Community Pressure
+                                 6.       Organizational Silos
+                                 7.       Capacity & Talent Gaps
+                                 8.       Decision Paralysis
+                                 9.       Trust & Legacy Issues
+                                 10.      Mission Drift
+
+
+
+
+          | PROGRAM MANAGEMENT PLAN                                                                          5
+                                                                   B. OBJECTIVES AND KPIS
+
+
+
+
+Steps to Mitigate   COMPLETE AND ONGOING 1. Cultural Resistance - Establish Governance &
+Barriers                                           Transparency
+                                                       a. Create a Capital Work Plan
+                                                       b. Implement a transparent Scoring
+                                                       Framework
+                                                       c. Hold Quarterly Capital Alignment Sessions
+                                 IN PROGRESS 2. Academic vs Capital Tensions - Align Planning
+                                                   Cycles
+                                                       a. Integrate Capital into academic planning
+                                                       calendar
+                                                       b. Develop an “Educational Impact Lens”
+                                 IN PROGRESS 3. Funding Volatility - Build Multi-year Financial
+                                                   Discipline
+                                                       a. Establish a 5-10 Year Capital Forecast
+                                                       b. Create a Capital Reserve Policy
+                                                       c. Standardize Cost Benchmarking
+                          OPTIONS PROVIDED 4. Data Gaps - Invest Early in Asset Intelligence
+                                                       a. Complete District-wide Facility Condition
+                                                       Assessment (FCA)
+                                                       b. Adopt Asset Management Software
+                                                       c. Publish a Portfolio Dashboard
+                    COMPLETE AND ONGOING 5. Political & Community Pressure - Proactive
+                                                   Communication
+                                                        a. Publish Capital Prioritization Framework
+                                                        Publicly (website)
+                                                        b. Standardize Community Engagement
+                                                        Playbooks
+                                                        c. Train/Coach Leadership on Unified
+                                                        Messaging
+                                 IN PROGRESS       6. Organizational Silos - Formal Integration
+                                                   Mechanisms
+                                     COMPLETE           a. Monthly Capital Integration Meetings
+                                     COMPLETE           b. Shared Data Platforms
+                                  IN PROGRESS           c. Cross-Departmental KPI Dashboard
+                    COMPLETE AND ONGOING 7. Talent & Capacity Gaps - Build Portfolio
+                                                   Compentency
+                                                      a. Redefine Roles
+                                                      b. Targeted Upskilling
+                                                      c. Recruit Strategically
+                                       ONGOING 8. Decision Paralysis - Set Decision Timelines
+                                                       a. Establish Decision Gates (Concept &
+                                                       Funding Approvals, Scope Lock, GMP
+                                                       Validations)
+                                                       b. Require Written Recommendations Memos
+                                       ONGOING 9. Legacy Trust Issues - Delivery Early Wins
+                                                       a. Identify 3 quick wins in first 6 months
+                                                       b. Over-communicate performance matrics
+                                       ONGOING 10. Mission Drift - Embed Accountability
+                                                       a. Annual RISE Performance Report
+                                                       b. Tie Leadership Goals to Portfolios Outcomes
+                                                       c. Revisit Mission Annually
+
+
+
+           | PROGRAM MANAGEMENT PLAN                                                                  6
+                                                                B. OBJECTIVES AND KPIS
+
+
+
+
+PILLAR 1: GOVERNANCE AND DECISION FRAMEWORK
+
+                                                                KPI-KEY PERFORMANCE
+    TIME FRAME              WORK PLAN STRATEGIES
+                                                                INDICATORS (METRICS)
+
+Short Term: 30 Days     ; Define Decision Rights Matrix ; Decision Rights Approved by
+                          (RACI)                          Leadership
+                        ; Develop Prioritization scoring   ; Scoring framework tested on at
+                          framework                          least 3 projects (consolidated) as
+                                                             modernizations are defined.
+Short Term: 60 Days     ; Establish Monthly Capital        ; Monthly Integration Meeting
+                          Integration Meetings               occurring with documented
+                        ; Create Standardized Board          meeting minutes
+                          Reporting Template               ; Board Reporting format adopted
+Long Term: 90+ Days     ; Publish Prioritization           ; Framework formally adopted
+                          Framework internally             ; Reduction in ad hoc project
+                        ; Refine based on feedback           approvals
+                        •    Align capital Calendar with   •   Clear annual capital planning
+                             academic planning cycle           calendar published
+
+
+
+
+; = completed or ongoing task
+
+
+          | PROGRAM MANAGEMENT PLAN                                                               7
+                                                                    B. OBJECTIVES AND KPIS
+
+
+
+
+PILLAR 2: PORTFOLIO & ASSET INTELLIGENCE - SHIFT FROM
+PROJECT MANAGEMENT TO ASSET PORTFOLIO MANAGEMENT
+
+
+                                                                    KPI-KEY PERFORMANCE
+     TIME FRAME             WORK PLAN STRATEGIES
+                                                                    INDICATORS (METRICS)
+
+Short Term: 30 Days     ; Inventory all active capital         ; 100% Project inventory complete
+                          projects
+
+Short Term: 60 Days     ; Identify top 10 infrastructure       ; Risk Ranking completed
+                          risk assets
+Long Term: 90+ Days     •    Launch Live Dashboard             •   Dashboard updated monthly
+                        •    Present Portfolio health          •   Portfolio health presentation
+                             report to leadership                  delivered
+                        •    Establish annual asset review     •   Leadership alignment on top 5
+                             cadence                               capital risk
+                        •    Compile facility condition        •   Baseline FCI documented
+                             data (FCA Baseline)               •   Preliminary deferred maintenance
+                        •    Identify Deferred                     total identified
+                             maintenance backlog               •   Draft 5 year forecast complete
+                        •    Create 5- year capital forecast   •   Dashboard includes: Schedule
+                             develop portfolio dashboard           health, budget variance, FCI
+                             prototype
+
+
+
+
+; = completed or ongoing task
+
+
+          | PROGRAM MANAGEMENT PLAN                                                                   8
+                                                               B. OBJECTIVES AND KPIS
+
+
+
+
+PILLAR 3: FINANCIAL DISCIPLINE & BOND STEWARDSHIP -
+STRENGTHEN FISCAL CREDIBILITY AND PREDICTABILITY
+
+                                                              KPI-KEY PERFORMANCE
+     TIME FRAME          WORK PLAN STRATEGIES
+                                                              INDICATORS (METRICS)
+
+Short Term: 30 Days     ; Review bond budget status       ; Budget variance report established
+                          and contingency trends          ; Contingency draw tracking
+                        ; Standardize budget variance       implemented
+                          reporting                       ; Cost benchmark analysis completed
+                        ; Benchmark $/SF on
+                          modernization projects
+Short Term: 60 Days     ; Develop multi-year capital      ; 5-year funding forecast draft
+                          funding forecast                  complete
+                        ; Identify cost escalation risk   ; Escalation risk quantified
+                          exposures                       ; Contingency policy drafted
+                        ; Create contingency policy
+                          thresholds
+Long Term: 90+ Days     ; Present financial controls      ; Monthly reporting accuracy >95%
+                          framework to Board              ; Forecast variance <5%
+                        ; Implement monthly capital       ; Financial dashboard publicly
+                          financial dashboard               shareable
+
+
+
+
+; = completed or ongoing task
+
+
+          | PROGRAM MANAGEMENT PLAN                                                              9
+                                                                   B. OBJECTIVES AND KPIS
+
+
+
+
+PILLAR 4: ORGANIZATIONAL ALIGNMENT & CAPACITY - BREAK
+DOWN SILOS AND BUILD PORTFOLIO COMPETENCY
+
+                                                                   KPI-KEY PERFORMANCE
+     TIME FRAME             WORK PLAN STRATEGIES
+                                                                   INDICATORS (METRICS)
+
+Short Term: 30 Days     ; Define RISE org structure and ; Org chart finalized
+                          role clarity                  ; Gap analysis documented
+                        ; Identify talent gaps (real    ; Cross-functional meeting
+                          estate analytics, capital       attendance >90%
+                          finance, lifecycle planning)
+                        ; Launch bi-weekly cross-
+                          functional huddles
+Short Term: 60 Days     ; Develop role-specific               ; Performance goals assigned to 100%
+                          performance expectations              of team
+                        ; Begin targeted training             ; At least 1 training session delivered
+                          (financial modeling, lifecycle      ; All projects reporting in consistent
+                          planning)                             format
+                        ; Standardize project reporting
+                          format
+Long Term: 90+ Days     •    Evaluate role alignment          •   100% staff tied to measurable KPIs
+                             effectiveness                    ; Reduced reporting inconsistencies
+                        ; Adjust responsibilities as          •   Leadership confidence rating
+                          needed                                  improves (qualitative survey)
+                        •    Introduce portfolio-level KPIs   •   Internal auditing and daily tracking
+                        ; Foster a sustainable Program
+                          Controls Infrastructure
+                        ; Continue targeted training as
+                          needed
+
+
+
+
+; = completed or ongoing task
+
+
+          | PROGRAM MANAGEMENT PLAN                                                                      10
+                                                                         B. OBJECTIVES AND KPIS
+
+
+
+
+PILLAR 5: COMMUNITY & STAKEHOLDER TRUST - BUILD
+CREDIBILITY AND PREDICTABILITY
+
+                                                                         KPI-KEY PERFORMANCE
+        TIME FRAME                 WORK PLAN STRATEGIES
+                                                                         INDICATORS (METRICS)
+
+    Short Term: 30 Days        ; Identify 3 early “credibility      ; 3 quick wins defined
+                                 wins”                              •   Messaging guide drafted
+                               •    Align messaging framework       ; Stakeholder map completed
+                               ; Map key stakeholder
+                                 engagement plan
+    Short Term: 60 Days        ; Deliver at least 1 visible quick   ; Public-facing update published
+                                 win                                ; Positive stakeholder feedback
+                               ; Launch capital transparency          documented
+                                 webpage update                     ; Zero conflicting public messaging
+                               ; Conduct structured
+                                 community touchpoint
+    Long Term: 90+ Days        •    Identify RISE progress report   •   Report delivered on time
+                                    content                         •   Leadership endorsement
+                               ; Present roadmap for next 12        ; Clear 12-month strategic direction
+                                 months                               adopted
+                               ; Leverage partnerships              ; Documented increase in event
+                                 with community-based                 attendance
+                                 organizations
+
+
+
+
+Portfolio - Level KPIs (Quarterly Tracking)
+Across all above pillars, RISE will begin to track:
+•     Schedule variance < 5%
+•     Budget variance < 3–5%
+•     Contingency burn rate within forecast
+•     Facility Condition Index trending upward
+•     % of projects aligned with educational priority categories
+•     % of capital requests evaluated through scoring framework
+•     Stakeholder satisfaction score (annual survey)
+
+
+
+
+; = completed or ongoing task
+
+
+              | PROGRAM MANAGEMENT PLAN                                                                    11
+    C. PROGRAM MANAGEMENT PLAN
+
+1. PROGRAM MANAGEMENT APPROACH AND ORGANIZATION
+
+As the Program Manager (PgM), PROCEDEO is          •   Consistent with the needs of PPS and in
+responsible for the day-to-day management of           support of PPS’s Strategic Plan, and being
+all bond program activity, which includes the          effectively communicated to the Community.
+completion of the projects within the approved
+bond program budget.                               The BAC will present to the BOE and the
+                                                   Superintendent regularly to advise them on
+PgM approach is to assist PPS in making            the implementation of the Bond Program.
+decisions for the best interests of the students   Community members can also provide input to
+and community, and support Board of Education      the Board and Superintendent at the monthly
+(BOE), Bond Accountability Committee (BAC)         BOE meetings, specifically those meetings when
+and Community expectations.                        planning and design milestone information is
+                                                   being presented.
+BOE, BAC AND COMMUNITY INPUT
+Throughout the Bond Program, there are many        PROGRAM TEAM & COMMUNITY INPUT
+opportunities for BOE, BAC, FIOC, and community    To facilitate effective management of the program
+input. Per established PPS procedures, the BOE     and ensure that the program is delivered on
+is presented with project information for new      time and within budget, PgM includes over 20
+schools, additions, and major renovations.         team members. Design Managers who oversee
+                                                   the planning and design phase of the projects,
+In addition to the project information; program    Construction Managers who oversee the
+status will be presented to the BOE as needed.     construction phase of the projects and assigned
+This information includes overall status of the    Project Managers that serve as a single point of
+projects, program expenditures, and a report for   contact for each project. The PgM also includes
+all changes monthly or at a cadence determined     a project controls team that manages and
+by the BOE.                                        administers all document and cost procedures.
+                                                   Refer to Exhibit 1 for PROCEDEO’s organizational
+Consistent with the development of PPS’s           chart.
+Strategic Plan, PPS has formed a Bond
+Accountability Committee (BAC). The primary
+function of the BAC is to meet with the PgM
+quarterly to review the status of the Bond to
+ensure that the implementation is:
+
+•   Consistent with the promises made to the
+    community.
+
+•   Managed effectively within the approved
+    scope, budget, and schedule.
+
+
+           | PROGRAM MANAGEMENT PLAN                                                              12
+                                                       C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+Providing essential context for understanding the program’s decision-making structure, the graphic
+below illustrates how information from the community is processed through the Board of Education
+(BOE) and the Bond Accountability Committee (BAC) before reaching the program management team.
+
+
+
+
+                                   ←
+                                                                   ←    Bond Accountability
+          Board of Education
+                                                                           Committee
+
+                                         Community Input
+
+
+
+
+           Superintendent &        ←
+            Administration
+
+
+
+
+           RISE Department         ←
+
+
+
+
+              PROCEDEO             ←
+           Program Management
+
+
+
+
+                                                                    3rd Party
+                           Architects
+                                                                    Vendors
+
+                                            PROCEDEO
+                                         Design, Construction &
+                                            Controls Teams
+
+
+                          Contractors                             Internal PPS
+                                                                      Staff
+
+
+
+
+           | PROGRAM MANAGEMENT PLAN                                                            13
+                                                            C. PROGRAM MANAGEMENT PLAN
+
+
+
+2. PROGRAM PLANNING AND DEVELOPMENT ACTIVITIES
+Program Planning includes capital improvements,         2017 BOND OVERSIGHT
+new building additions and interior renovations.        •  Modernizations: Benson, Lincoln, McDaniel,
+Improvements are issued to take place at three             Kellogg
+of PPS’s high schools to accommodate PPS’s
+Educational Specifications as well as upgrading         •    Consolidated:     Water     quality,     security
+other facilities. This includes some locations               upgrades, new roofs, asbestos abatement,
+originally built in the early 1900’s. The majority of        radon remediation, lead paint stabilization,
+work will include (but not limited to):                      life safety upgrades, accessibility, seismic
+
+                                                        2020 BOND OVERSIGHT
+2025 BOND                                               •  Modernizations: Pre-Planning and Design
+•  Update and Repair Aging Elementary and                  Jefferson, Ida B. Wells, and Cleveland; Grice-
+   Middle Schools: Update or replace leaking               Adair Center for Educational Excellence,
+   or deteriorating school roofs, mechanical               Roosevelt, and Benson
+   systems (heating and cooling), and other
+   building repair.                                     •    Consolidated: Curriculum materials, new
+                                                             technology, Health & Safety, seismic, roofing
+•   Make Schools Safe and Secure: Update safety
+    and security systems - including additional         PROGRAM AND PROJECTS
+    cameras, fencing to protect students and            The $1.83B 2025 Bond Program, $1.20B 2020
+    staff.                                              Bond Program, $790M 2017 Bond Program, and
+                                                        the $482M 2012 Bond Program are currently
+•   Seismic upgrades.                                   comprised of several projects. The total scope of
+                                                        work for these projects is what is referred to as the
+•   Modernize, Improve Educational Materials,
+                                                        “Program”. The general scopes of work, budgets
+    Technology, Schools: Renovate/replace Jefferson,
+                                                        and allocations were presented to the voters.
+    Cleveland and Ida B. Wells (formerly Wilson)
+                                                        Based on the established bond program scope of
+    High Schools.
+                                                        work and budget, during the pre-bond planning,
+•   Utilize any high school improvement cost            the Program Management Team generated
+    savings to update/repair elementary and             criteria from which to develop a preliminary
+    middle schools.                                     master program schedule.
+
+•   Provide comprehensive, culturally relevant,         The PgM is continuously reviewing the project
+    and current curriculum materials across core        scopes of work for clarity and accuracy, and
+    and supplemental subject areas.                     preparing or updating preliminary budget
+                                                        assessments for each project and facility, including
+•   Replace or provide student tablets and
+                                                        both construction and non-construction costs.
+    laptops to provide equitable access to
+                                                        The PgM has also established a preliminary
+    classroom learning, and update classroom
+                                                        program schedule outlining the major design
+    and PPS technology exterior and site
+                                                        and construction activities associated with
+    improvements.
+                                                        each package at each site. Detailed project lists,
+                                                        budgets, and schedules for each facility will be
+2012 BOND OVERSIGHT
+                                                        presented to principals and architects for use
+•  Modernizations: Franklin, Grant, Roosevelt,
+                                                        during programming and design.
+   Faubion
+
+•   Consolidated: Accessibility, seismic
+
+
+
+             | PROGRAM MANAGEMENT PLAN                                                                      14
+                                                           C. PROGRAM MANAGEMENT PLAN
+
+
+
+To realize efficiency in completing activities, groups of projects are initiated at the same time. Each project
+is monitored through five periods or milestones.
+
+Refer to Exhibit 2 for graphic representation of the bond program preliminary master schedule, which
+outlines the phasing and procurement timeline for each project. The schedule is updated on a monthly
+basis to reflect and track changes and activities.
+
+To understand this summary schedule, it will reflect as follows:
+
+•   Blue bars represent the architects procurement phases.
+
+•   Red bars represent the design phases.
+
+•   Yellow and orange bars represent the permitting phases.
+
+•   Green bars represent the construction phases.
+
+•   Purple bars represent the close-out and warranty phases.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                        15
+                                                          C. PROGRAM MANAGEMENT PLAN
+
+
+
+3. PROGRAM MANAGEMENT CONTROLS
+There are many best practices for implementing        OWNER REPRESENTATION
+a successful bond program. These best practices       Owner representation services provide structured
+can be grouped into three categories: the right       support throughout all stages of design and
+people, the right tools, and the right processes.     construction. Early engagement is used to
+                                                      understand project requirements and determine
+To ensure that the Bond Program is delivered per      the most effective approach for meeting program
+PPS and taxpayer expectations, the PgM has set        objectives. With the owner’s interests as the
+up a structure of controls to track, process, and     guiding priority, the PROCEDEO team manages
+report progress and risks. In addition to reporting   each phase of project delivery by coordinating
+to PPS, the PgM is expected to meet on a regular      with all participants to ensure safe execution,
+basis with PPS to discuss: Budget, Finance and        schedule adherence, budget discipline, and
+Accounting, and Bond Program Communication            consistent quality.
+Services.
+                                                      As owner representatives, the PROCEDEO team
+BUDGET, FINANCE AND ACCOUNTING                        helps with:
+Monitoring the scope of work and the budget is
+one of the major tasks for the PgM. Consequently,     •    Cost analysis
+the budgets for the individual projects, which
+                                                      •    Budget control
+collectively add up to the total of $4.31B, must
+be set up to reflect a multi-level account code       •    Schedule control
+structure that includes: the bond year, the bid
+package sequence number, the bond tranche,            •    On-site inspections and observations
+the department identification, standard account
+                                                      •    Procurement
+codes, and category type. PROCEDEO is working
+with PPS’s current accounting structure to further    •    Closeout
+explore the tools needed for efficient monitoring.
+Exhibit 3 is the current project budget model         •    Facilitate facility maintenance training
+PPS is utilizing.
+
+On a monthly basis, actual expenditure costs
+are being reconciled to ensure that all bond
+expenditures are allowable and acceptable.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                 16
+                                                       C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+PROGRAM MANAGEMENT                                    FACILITY CONDITION ASSESSMENT
+PgM services provide a structured, strategic          Facility Condition Assessment (FCA) is an
+framework for planning, designing, constructing,      evaluation of the health of your assets and
+and maintaining district facilities. These services   facilities to help stakeholders accurately plan
+align capital investments with long-term              their capital investment targets.
+educational goals, ensuring that every project
+advances the district’s broader mission while         The last FCA was performed in 2020 and RISE is
+supporting transparent, accountable decision-         currently reviewing that information to put into
+making.                                               a workable format.
+
+Acting as an extension of district staff, the PgM
+team applies proven methodologies and technical
+expertise to develop tailored approaches for each
+project. This includes comprehensive support                                       Processes &
+                                                                   Scope           Procedures
+across master planning, procurement, design                     Management
+coordination, construction oversight, warranty
+administration, and post-occupancy evaluation -
+ensuring that each phase is managed with clairty,                                           Risk & Issue
+consistency, and professional rigor.                                                       Management
+                                                            Quality
+                                                            Control
+Throughout the program lifecycle, disciplined
+attention to detail supports reliable schedules,
+responsible budget management, and consistent
+                                                                                      Financial
+quality across all facilities. This structured                         Schedule      Management
+approach provides districts with the confidence                       Management
+that capital improvements are delivered
+efficiently, responsibly, and in alignment with
+community expectations.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                      17
+                                                          C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+4. PROCUREMENT STRATEGIES AND PROCEDURES
+
+BUSINESS, CONTRACTOR WORKFORCE AND CAREER LEARNING EQUITY
+
+
+
+BUSINESS EQUITY                                       CAREER LEARNING EQUITY
+PROCEDEO recognizes PPS’s goal of 18% for             PROCEDEO is excited to be a part of the efforts
+the participation of Minority-Owned Businesses        involved with the Career Learning Administrative
+(MBE), Women-Owned Businesses (WBE),                  Directive 8.50.098-AD. Below are a list of examples
+Emerging Small Businesses (ESB) and/or Service-       PROCEDEO has implemented in other programs
+Disabled Veteran Businesses (SDV) (“Certified         along with their successes, which is a goal to
+Businesses”) in construction, architecture,           implement with PPS:
+engineering, and related services. We are
+committed to lifting diverse businesses that are      1.   Student Design Charrettes (Student Voice &
+underrepresented.                                          Equity)
+                                                      OVERVIEW
+It was reported for the FY24-25, that PPS did not     • PROCEDEO is partnering with PPS to host
+reach their Business Equity Goal and PROCEDEO           inclusive student design charrettes that
+is actively working with the PPS Staff to find a        elevate student voice—particularly students
+solution and provide further input to this effort.      from historically underserved communities—
+                                                        during planning and design of PPS facilities.
+Communication is on-going with PPS Leadership
+to evaluate the current policy, threshold             KEY ACTIVITIES
+requirements, and community impact for the            •  Charrettes coordinated with PPS Career &
+best plan of action in all equity efforts for the        Technical Education (CTE), arts, and STEM
+Program.                                                 programs.
+
+                                                      •    Targeted outreach to schools serving Black,
+CONTRACTOR WORKFORCE EQUITY
+                                                           Indigenous, students of color, and students
+PROCEDEO recognizes PPS’s goal for 20%
+                                                           experiencing economic disadvantage.
+apprenticeable trade hours for this program
+as approved via the Contractor Workforce              •    Collaboration with PPS educators to ensure
+Equity Administrative Directive 8.50.097-AD.               culturally responsive engagement.
+We also acknowledge the aspirational goals
+of 25% minority and 14% female labor hours            •    Student presentations to PPS leadership,
+as recommended by the Construction Career                  designers, and contractors.
+Pathways Regional Framework (C2P2). Although
+the FY24-25 reporting update distinguished a          OUTCOMES
+shortfall in reaching the goal for the female labor   • Equitable student participation in capital
+hours, PROCEDEO is researching, alongside               planning.
+the PPS staff, for any solutions to the shortage
+                                                      •    Facilities that better reflect student needs
+of females in the construction industry PPS
+                                                           and community identity.
+along with other regional public agencies are
+experiencing.                                         •    Early exposure to design, planning, and
+                                                           decision-making careers.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                  18
+                                                          C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+2. AEC Career Awareness & Career Learning             OUTCOMES
+   Equity                                             • Increased student understanding of construction
+OVERVIEW                                                and professional career pathways.
+• PROCEDEO is supporting PPS Career
+                                                      •    Visibility into local businesses contributing to
+  Learning Equity initiatives by connecting
+                                                           PPS investments.
+  classroom learning to real AEC career
+  pathways.
+                                                      4. Student Internship & Mentorship Programs
+                                                         (Workforce & Economic Equity)
+KEY ACTIVITIES
+•  Classroom sessions aligned with PPS Career         OVERVIEW
+   Learning Standards and CTE pathways.               • PROCEDEO is supporting PPS workforce and
+                                                        contractor equity goals by creating paid and
+•   Participation from local and diverse AEC            unpaid internship pathways tied to the RISE
+    firms, including MWESB-certified businesses.        Program.
+
+•   Hands-on demonstrations emphasizing both          KEY ACTIVITIES
+    professional and skilled trade careers.           •  Paid internships prioritized for PPS students
+•   Career pathway mapping showing entry                 from underrepresented communities.
+    points from high school to apprenticeships,       •    Intern placements with PROCEDEO, prime
+    community college, and university programs.            consultants, contractors, and subcontractors.
+OUTCOMES
+                                                      •    Job shadowing and mentorship programs
+• Increased awareness of high-wage, high-
+                                                           with local AEC professionals.
+  demand careers accessible to PPS students.
+                                                      •    Alignment with PPS, Portland Community
+•   Clear connections between education, industry,
+                                                           College, and regional workforce organizations.
+    and economic mobility.
+                                                      OUTCOMES
+3. Field Trips & Job Site Experiences (Local &        • Tangible workforce experience tied to PPS
+   Diverse Workforce Exposure)                          investments.
+OVERVIEW
+                                                      •    Strengthened local talent pipeline supporting
+• PROCEDEO is coordinating equitable access
+                                                           future PPS projects.
+  to job site and office visits that highlight PPS
+  projects and local workforce participation.
+
+KEY ACTIVITIES
+•  Structured site visits to PPS bond projects with
+   safety and accessibility accommodations.
+
+•   Visits to local architecture, engineering, and
+    construction firms, prioritizing MWESB and
+    community-based businesses.
+
+•   Demonstrations of construction sequencing,
+    project controls, and quality management.
+
+•   Exposure to union and non-union apprenticeship
+    programs.
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                    19
+                                                     C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+5. Community,      Business   &     Contractor      CERTIFIED BUSINESS OUTREACH & PROGRAM
+   Collaboration (PPS Equity Goals)                 EFFORTS
+OVERVIEW                                            PROCEDEO’s goal is to meet PPS’s small
+• PROCEDEO is leveraging the PPS bond program       business goal and exceed it. We do this through
+  to strengthen relationships between students,     community outreach with the AEC community
+  local businesses, and the AEC industry.           and partnering with NAMC as well as Portland
+                                                    Metro Chamber. We have developed an outreach
+KEY ACTIVITIES                                      program that we are training PPS staff who
+•  Partnerships with MWESB-certified firms,         connects with the firms, walks them through the
+   local contractors, and emerging businesses.      process of getting certified and follows up with
+                                                    them to offer additional training or help with
+•   Coordination with PPS Office of Equity, CTE     tasks like billing.
+    leadership, and community partners.
+                                                    With the PPS program, the delivery method
+•   Participation in PPS-sponsored workforce,       chosen for all the projects is Construction
+    career fairs, and contractor outreach events.   Manager / General Contractor (CM/GC), which
+•   Support for supplier diversity and local        allows for greater involvement in selecting
+    economic participation goals.                   subcontractors and an opportunity to advocate
+                                                    for these firms directly. In some cases, we pair
+OUTCOMES                                            these firms with more established contractors
+• Increased student exposure to          diverse    through joint venture partnerships, so they get
+  business ownership and leadership.                on-the-ground experience with guidance that
+                                                    allows them to build up their bonding capacity.
+•   Stronger alignment between PPS equity           This support is critical to foster a more robust,
+    commitments and capital delivery.               diverse ecosystem that better represents the
+                                                    communities we serve. With a goal of holding
+                                                    monthly “Working with PPS Info Sessions” and
+                                                    bi-monthly “PPS Contractor Presents Series”
+                                                    outreach events, PROCEDEO aims to cultivate
+                                                    that effort and grow the community through the
+                                                    Bond program.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                             20
+                                                         C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+DESIGN & CONSTRUCTION PROCUREMENT
+
+
+The PgM team specializes in providing a compliant, streamlined procurement framework that supports
+timely project delivery and maximizes district value. This structure ensures capital investments align with
+long-term program goals while maintaining transparency and accountability.
+
+Using established third-party vendor pools, the team accelerates contracting, reduces administrative
+workload, and ensures rapid access to qualified design, construction, and specialty service providers. This
+approach strengthens competition and improves responsiveness across all project needs.
+
+Throughout the procurement lifecycle, the team tracks RFP status, evaluations, and award timelines
+to maintain schedule certainty and keep projects advancing toward key milestones. This disciplined
+oversight ensures procurement activities remain efficient, compliant, and aligned with district priorities.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                    21
+                                                           C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+5. PROCESSES AND PROCEDURES
+SCHEDULE                                               A monthly budget update is being provided to
+Construction project timelines are mission critical    PPS.
+and owning schedule control can be a daunting
+task. PROCEDEO’s experience and best practices         CHANGE MANAGEMENT
+allow us to bring together all the moving parts        Change is inevitable on construction projects
+into your project scheduling process. It begins        and PROCEDEO is providing a thorough change
+with the development of a realistic and accurate       management approach that effectively integrate
+baseline schedule. We use a wide array of tools        a balanced procedure for recognizing, planning,
+and strategies to maintain schedule control            and evaluating capital project changes. Our team
+throughout a project, including:                       validates all aspects of the change, is aiding the PPS
+                                                       team in negotiating with the general contractors,
+•   Master scheduling                                  and creates a transparent process where the
+                                                       client is provided with all details, including:
+•   Baseline scheduling
+                                                       •    Historical cost database
+•   Progress/delay analysis
+                                                       •    Dashboard financial reporting
+•   Micro scheduling
+                                                       •    Variance tracking
+•   3-week and 6-week look ahead schedules
+
+•   Planning
+
+•   Phasing
+
+•   Cost Estimating
+
+A monthly schedule update is being provided to
+PPS.
+
+BUDGET
+Managing cost on a construction project begins
+well before any construction activity starts. The
+client-focused cost control methods begin with
+establishing an accurate benchmark of costs to
+create a project budget. With this PPS bond’s
+accounting tools already established, the PgM
+team is working alongside the current systems to
+fine tune financial accountability as it relates to
+managing the cost control for our client’s projects.
+
+Combining historical cost data, information from
+industry experts, and past experiences to analyze
+the current project budgets for your scope of work,
+creates accountability throughout a project by
+establishing projection worksheets and other
+cost-control measures to monitor and maintain
+the budget.
+
+
+              | PROGRAM MANAGEMENT PLAN                                                                   22
+                                                         C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+BOND PROGRAM AND PROJECT GUIDELINES                  •    Cost overruns shall be the responsibility of the
+To ensure that all bond accounting line items             project architect or engineer, working with
+are accomplished consistently with the intent of          the PgM to reconcile pricing with budget
+scope descriptions and resources provided under           allowances by one of the following means:
+the approved bond program, certain guidelines
+have been established for, architects/engineers,            1.   Identifying    unnecessary     costly
+and the PgM to follow:                                           requirements of the bid documents
+                                                                 and negotiating price reductions with
+•   No project at any site will be added or                      the apparent low-bidder or CM/GC as
+    deleted without prior written approval by                    allowable.
+    the PPS Superintendent (or Senior Chief or
+    Operations), and PPS Board of Education,                2.   Undertaking redesign of the work as
+    when applicable.                                             necessary, without additional design
+                                                                 fees and without serious impact to the
+•   Scope of work for any line item approved                     original scope of work.
+    by the PPS Superintendent (or Senior Chief
+    of Operations) will not be significantly                3.   Submitting to the PgM a written request
+    reduced or expanded without prior written                    for supplemental funding (from within
+    justification to and written approval by                     available bond program resources) to
+    the PPS Superintendent (or Senior Chief of                   cover overruns which are the result of
+    Operations).                                                 inadequate line-item budgets or other
+                                                                 unforeseeable factors).
+•   Line-item budget adjustments within a
+    bid package at an individual facility, e.g.,     •    Initial construction contract commitments
+    from “Non- Construction Contingency”                  are preserving a contingency within the total
+    to “Furnishings & Equipment” must be                  budget to cover conflicts, changed conditions,
+    requested from and authorized by the PgM              and design revisions during construction.
+    and the PPS Superintendent (or Senior Chief      •    Uncommitted funds are being retained
+    of Operations).                                       at each facility until work under a given
+•   Costs to abate hazardous materials in the             package is substantially complete and
+    path of new construction will be paid from a          final costs are identified, at which time any
+    separate budget established under the bond            savings are reverted to a central PPS program
+    program and shall not decrease the budgets            contingency fund.
+    for authorized projects at any facility unless   •    Contingency funds, whether created with
+    previously approved, prior to PROCEDEO                the bond program budget or accumulated
+    contract.                                             through project savings or increased bond
+•   Costs for Seismic upgrades will be paid from a        interest earnings, shall be allocated first
+    separate budget established under the bond            as necessary to complete authorized bond
+    program and shall not decrease the budgets            program projects and only later, with the PPS
+    for authorized projects at any facility.              Superintendent (or Senior Chief of Operations)
+                                                          approval, to fund other improvements from
+•   Projected cost variances for an individual            priority lists recommended by the PgM or to
+    line item is being managed within a specific          meet subsequently identified needs.
+    package at each facility, balancing overruns
+    and underruns in the construction budget,        The above guardrails will be implemented for all
+    up to the time bids are received and/or          new projects going forward, and for established or
+    a guaranteed maximum price (GMP) is              in-progress projects, we will monitor adherence
+    established.                                     and oversee any impacts on operations.
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                  23
+                                                       C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+PPS BOND PROGRAM MANAGEMENT TOOLS                     PROJECT MANAGEMENT SYSTEM: E-BUILDER
+The PROCEDEO Team is implementing                     From a project level, the PgM is utilizing E-Builder
+two enterprise-wide programs and project              to track day-to-day operations for all of the
+management applications to capture and                projects as part of the Bond Program. E-Builder
+manage the program and project information,           is a cloud-based construction program and
+e.g, project budget, project expenditures, design     capital project management platform designed
+issues, construction requests for information,        especially for owners, program managers, and
+and change requests. The project management           large capital project teams rather than just
+control system (PMCS) is available via the Internet   field contractors. It helps manage construction
+and accessible to all parties associated with a       programs and capital improvement projects from
+project: PPS, PMs, design and construction team,      planning through completion and operations. As
+which allows collaboration across the life of the     a program manager, having this ability to work on
+project. This collaboration ensures efficient use     the same platform makes this management tool
+of resources as well as effective communications      essential to PROCEDEO’s operation.
+between all the project parties.
+                                                      PROCORE
+EGNYTE – INFORMATION & DATA                           The PROCEDEO Team is leveraging Procore,
+MANAGEMENT SERVICE                                    an industry-standard project management
+Egnyte is a cloud-based file-sharing solution         platform, to ensure seamless project and
+designed to help the PROCEDEO team collaborate        document management for PPS. Procore will
+and provide secured access to confidential data.      serve as a centralized hub, housing all project
+Egnyte’s features include customizable branding,      information in one place, streamlining processes
+secure file sharing, multiple-user management,        for tracking RFIs, meeting minutes, submittal
+data authentication, offline access, and file         logs, and construction reports. This platform will
+locking. For the PPS Bond Program, the PgM            allow for accurate and traceable documentation,
+is utilizing this data management service to          ensuring transparency and efficiency throughout
+effectively manage, organize, and process all         the program. Additionally, Procore’s capabilities
+documentation associated to the program.              will enable real-time updates, secure storage, and
+                                                      easy retrieval of documents, drawings, and other
+                                                      project records, ensuring that stakeholders have
+                                                      access to up-to-date information at all times.
+
+
+
+
+                                                                              Houses all Project Information
+                                                                                      in One Place
+
+
+                                                                                 Streamlines Process for
+                                                                               Answering and Tracking RFIs
+                                                                                     and Submittals
+
+
+                                                                                 Tracks Meeting Minutes
+
+
+
+                                                                               Aids in Communication to the
+                                                                                     Entire Project Team
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                      24
+                                                       C. PROGRAM MANAGEMENT PLAN
+
+
+6. PROGRAM COMMUNICATION PROCEDURES
+BOND PROGRAM COMMUNICATIONS                           Through this extension, users can follow project-
+The PgM believes the most important aspect of         specific information such as budget, scheduled
+a successful program is good communication            completion dates, actualized design and
+across everyone engaged in the process. The           construction progress.
+PgM suggests a monthly meeting between the
+PROCEDEO staff and PPS to provide a status            Clear and effective communication is critical to
+update on all things related to the bond. The PgM     the success of any Bond Program. At PROCEDEO,
+team is developing an agenda and is leading           we emphasize collaboration and transparency
+the in-person meeting which is suggested to           at every level. However, to ensure clarity,
+take place at a location determined by PPS.           accountability, and alignment, it is essential that
+Discussions and reporting to be presented in          the client understands the Program Director
+these meetings will include but are not limited to:   serves as the primary point of contact for all
+•   Bond Status Updates                               matters related to PROCEDEO.
+
+                                                      INTERNAL / EXTERNAL (BOE ACCESS)
+•   Project Status Updates
+                                                      COMMUNICATION: OPEX - THE CLIENT DASHBOARD
+•   Principal Updates – during Construction (bi-      In addition to the use of E-Builder, PROCEDEO
+    weekly)                                           has developed a proprietary software dashboard
+                                                      reporting tool named Operational Excellence.
+•   Summer School Readiness Reports                   The PgM created this reporting tool to promote
+                                                      a transparent and collaborative process with PPS.
+EXTERNAL COMMUNICATION                                The dashboard shows all relative project status
+PROCEDEO is coordinating with PPS to support          information such as project team members,
+external communication by supplying accurate          budget, schedule look-ahead, contractor billing,
+and timely project information for PPS to publish     issues log, etc. See the images below of a sample
+through its already existing public‑facing bond       view of the dashboard.
+website. In addition, as the PgM, PROCEDEO is
+maintaining a separate external site dedicated        PEOPLESOFT & E-BUILDER: PPS DISTRICT
+solely to vendor opportunities, program schedule      WIDE ACCOUNTING AND CONSTRUCTION
+information, and financial status updates,            MANAGEMENT SYSTEM
+ensuring PPS and industry partners have               In order to appropriately manage the financial
+access to the detailed data necessary to support      aspect of the program, the PgM is utilizing
+procurement and program transparency. This is         PPS’s accounting system that is already in place
+accessible via https://bond.pps.net/ as an external   (PeopleSoft & E-Builder) to integrate with all of
+link to the page.                                     the program’s management tools; previously
+                                                      described in the communications tool section of
+                                                      the PMP.
+The website includes an overview, a total projects
+page, and a dedicated sub-page for each project.
+While PgM manages an extension site that
+supports the 2025 Bond Program Status updates
+and all vendor opportunities, they also oversee
+the project information that is published by PPS
+on the main Bond Hub (PPS.bonds.com). The
+PgM extension site is accessible through the PPS
+Bond Hub and serves as the detailed project-
+tracking layer.
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                  25
+                                                                                      C. PROGRAM MANAGEMENT PLAN
+
+
+7. DEVELOPMENT OF DESIGN PROCESS GUIDELINES
+DESIGN PROCESS GUIDELINES                                                            DESIGN, CONSTRUCTION & CLOSE-OUT
+At the time of PROCEDEO’s contract initiation,                                       PHASES OF A PROJECT
+PPS had researched, evaluated and prioritized the                                    While the steps are typically sequential, different
+line items of work for each of the modernization                                     delivery models allow overlap between some of
+project listed in the 2025 bond. The PgM has                                         the phases. The figure below shows the sequence
+now assigned a Design Manager (DM) and PM                                            of the phases of a project; the width of the blocks
+to have primary responsibility for completion of                                     are not meant to be representative of the duration
+each package. The PM and DM, working with                                            of each of the activities.
+an architect, engineer, or other professional
+                                                                                     As each project or bid package is initiated it
+consultant for design, are coordinating the efforts
+                                                                                     generally will progress through the typical
+of the contractor(s) who are executing the work,
+                                                                                     sequence of design and construction activities
+and are consulting with principals as appropriate
+                                                                                     outlined on the following pages.
+during critical phases of the projects.
+
+PPS has several documents that have been
+developed to ensure consistency and equity of
+scope among projects. These documents include:
+
+•       Facility Standards: describe the specific
+        materials, equipment or systems that are to
+        be adhered to in the design of the project.
+
+•       Educational Specifications: describes the
+        individual spaces, e.g., linear feet of tack strip,
+        white boards, teaching wall locations, etc.,
+        within a facility that supports the principals
+        of good teaching and learning and promote
+        sound educational programs.
+
+
+
+
+                                                        PHASES OF A PROJECT
+
+                                                                           Bid &
+                                                        Design Phase                            Construction & Close-out               Occupancy
+                                                                           Award
+
+                  Planning Phase
+
+                                                                                             Commissioning
+
+
+                   Programming:
+                                       Project Goals:
+                  Preparation of the                               50%
+    Pre-Design                         Development                                                                             Close      1 Year
+     Activities
+                   project-specific
+                                        of Scope-to-
+                                                        SD   DD   CD 75%   Bidding     Construction   Punchlist   Acceptance           Inspection
+                     Educational                                  CD IFC                                                        Out
+                                       Budget (STB)
+                    Specifications
+
+
+
+
+                    | PROGRAM MANAGEMENT PLAN                                                                                                   26
+                                                        C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+THE DESIGN PROCESS
+
+
+PRE-DESIGN ACTIVITIES                                  greater detail as to architectural, structural, civil,
+A single point-of-contact is assigned by               mechanical, and electrical systems, materials,
+PROCEDEO and this person is known as the Design        and other such essential elements as may be
+Manager. Utilizing the Vendor Selection Matrix         appropriate. These documents are submitted to
+criteria, an Archtiect/Engineer team is selected,      the PgM and PPS for approval before the architect
+who then meets with the Design Manager, the            begins final construction documents, and the
+principal, and select PPS staff to review the scope,   architect’s statement of probable construction
+schedule, and budget for the assigned projects.        cost is reviewed to ensure that the project is still
+This process is facilitated and monitored by the       within budget.
+Design Manager.
+                                                       During the review process, the submission is
+PROGRAMMING                                            vetted by the various PPS user groups including
+The project architect works with the Design            Program Directors, safety & security reps,
+Manager and PPS staff during the programming           facilities staff, maintenance, and IT. This review
+phase to clarify the line items comprising             is completed with the A/E teams in attendance
+the project. PPS staff explains the needs and          and all comments are to be incorporated into the
+expectations for the project (within the previously    project during construction documentation.
+authorized scope), describing the function             CONSTRUCTION DOCUMENTS
+and uses of specific facilities to be added or         The project architect then prepares working
+remodeled, and the architect identifies the            drawings and specifications, referred to as CDs.
+code requirements, PPS standards, existing             Periodic review of in-progress documents by the
+conditions, and other constraints important to         PM, PPS departments, and key members of the
+an understanding of the design criteria and the        PgM ensures that proposed details and probable
+development of a schematic design within the           costs conform to the approved design and the
+budget.                                                budget. Finally, the project architect submits the
+SCHEMATIC DESIGN (SD)                                  completed documents with necessary bidding
+After consensus is established on-site for a           information for approval by the PgM.
+detailed program, the project architect develops       BID AND AWARD
+concepts and alternatives. Discussions with            In a traditional “design-bid-build” process,
+PPS staff result in a preliminary agreement as         an owner at this point would solicit bids for
+to basic design and essential elements of the          construction of the project. Contractors and
+work. The architect prepares SD drawings, which        key members of the PgM for the type of work
+show the scale and relationship of the project’s       involved would review CDs, request clarification
+components. These documents are submitted to           as needed, and collect bids from a variety of
+the PgM and PPS for approval before the architect      specialized subcontractors before submitting
+begins the design development phase.                   lump-sum bids. At a set time, the bids are opened
+DESIGN DEVELOPMENT (DD)                                and a contract would be awarded to the general
+The project architect and relevant consulting          contractor (GC) based on the lowest responsive
+engineers prepare DD documents describing              bid proposal acceptable to PPS.
+the size and character of the project with
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                     27
+                                                      C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+8. DEVELOPMENT OF CONSTRUCTION PROCESS GUIDELINES
+
+THE CONSTRUCTION PROCESS
+
+
+COMMISSIONING                                        Major changes in scope will result in a change
+The commissioning process comprises the              order, which increases the GMP contract. In
+integrated application of a set of engineering       addition, any Owner changes to the project and
+techniques and procedures to check, inspect and      scope require a change order. By requiring the
+test every operational component of a project.       documents by 100% complete prior to receiving
+Commissioning activities are applicable to all       the GMP, the risk of unanticipated change orders
+phases of the project, from the basic and detailed   is minimized.
+design, procurement, construction and assembly,
+until the final handover of the building to the      CONSTRUCTION
+owner.                                               The GC or CM/GC furnishes all labor, equipment,
+                                                     and materials necessary to complete the
+CM/GC                                                specified work within the prescribed time for
+CM/GC is a collaborative project delivery method     the amount stated in the bid or GMP. Prior to
+authorized for public agencies in Oregon (under      construction, the architect and the Construction
+ORS 279C). A CM/GC is selected during the early      Manager (CM) and Program Manager (PM)
+stages of design based on their qualifications,      review the contractor’s detailed work schedule to
+which include their demonstrated ability to          confirm completeness and constructability, and
+partner with designers and add their “hands-         to ensure compliance with PPS requirements for
+on” perspectives on existing conditions and          coordinating work with the building staff and the
+construction techniques to design development,       academic calendar. The principal and select PPS
+construction documentation, and cost control. As     staff continue to meet regularly with the CM, PM,
+CDs are finalized, the CM/GC obtains competitive     architect, and contractor during construction to
+proposals from pre-qualified subcontractors and      stay informed and help resolve any conflicts or
+works with the PgM to fix a Guaranteed Maximum       unexpected problems which may arise.
+Price (GMP) representing the maximum amount
+PPS will have to pay for the project as defined in   SUBSTANTIAL COMPLETION
+the CDs. This process has an added benefit: if the   The project architect observes construction
+schedule compels it, the CM/GC can begin some        to ensure that all materials and workmanship
+critical work before documents are complete.         comply with the contract documents, and the
+                                                     project manager monitors the project overall
+As with any delivery method, incomplete and/or       to verify that quality, costs, and progress are
+inaccurate construction drawings will result in      maintained, with the least impact to education
+change orders. The misunderstanding associated       and administrative operations. Once the work
+with the GMP is that this maximum price will         completed has been deemed to be used for it’s
+not be exceeded in any case. It is important to      intended purposes, ‘Substantial Completion’ has
+understand that the GMP is based on the plans        been reached. This will vary by project and its
+and specifications at the time of the GMP with       projected scope of work.
+some reasonable assumptions made and a
+reasonable contingency included.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                              28
+                                                       C. PROGRAM MANAGEMENT PLAN
+
+
+
+
+9. PROJECT ACCEPTANCE AND TURN-OVER GUIDELINES
+
+THE CLOSEOUT PROCESS
+
+
+PUNCHLIST & FINAL COMPLETION                          CLOSE-OUT
+While wrapping up the construction process, the       Close-out is the final phase: the contractor
+project architect and appointed PM is not only        has completed the work and corrected any
+ensuring that all materials and workmanship           deficiencies; the architect certifies that all work
+comply with the contract documents, but               has been completed satisfactorily; the PM verifies
+will create a list of items that do not comply in     that all contract requirements and documents
+order to verify that quality, costs, and progress     are complete; and PPS makes final payment to
+are maintained. These Punchlist items are             the contractor and closes all accounts on the
+to be completed at subsidiary cost and can            project.
+only be approved by the owner or their hired
+representative. Once the project is complete and      WARRANTY
+requires no additional work, ‘Final Completion’       During the first year after a project is completed,
+has been reached.                                     if items are found to be deficient or incorrect, the
+                                                      GC or CM/GC is called back to the site to repair
+CLEANING, MOVE-IN AND OCCUPANCY                       the item with the architect, as verification of
+The PM and architect monitor progress to ensure       proper completion of warranty items. The site-
+the project is completed on time. The principal       based maintenance representative and the PM
+works with the architect, contractor, and PPS staff   complete this coordination.
+to coordinate the ordering, delivery, and setup of
+furnishings, movable equipment, and supplies
+in time for classes to begin. The GC or CM/GC
+will be responsible for what is referred to as a
+construction clean. Once the construction clean
+is completed, PPS staff will complete the final
+clean, which includes activities such as stripping
+and waxing of floors.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                  29
+                                         D. EXHIBITS
+
+1.   Organizational Chart
+
+2.   Program Master Schedule
+
+3.   Projects Budget
+
+4. Process & Procedures
+
+5.   PMP Acknowledgment
+
+
+
+
+             | PROGRAM MANAGEMENT PLAN                 30
+                                        D. EXHIBITS
+
+
+EXHIBIT 1 - ORGANIZATIONAL CHART
+
+Please see the following page.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN            31
+PORTLAND PUBLIC SCHOOLS REAL ESTATE, INFRASTRUCTURE AND SCHOOL ENHANCEMENT (RISE)
+                                                                                                                                                                                                                 JON FRANCO
+                                                                                                                                                                                                         SENIOR CHIEF OF OPERATIONS
+
+
+
+
+                                                                                                                                                                                                               SARAH NORMAN
+                                                                                                                                                                                              EXECUTIVE DIRECTOR, REAL ESTATE, INFRASTRUCTURE &
+                                                                                                                                                                                                         SCHOOL ENHANCEMENT (RISE)
+
+
+
+
+                                                                                              TJ HOPKINS                                                                                                                                                                                                                              JOANNA EVENSON
+                                                                                 SENIOR DIRECTOR, RISE BOND PROGRAM                                                                                                                                                                                                                   SENIOR DIRECTOR, RISE
+                                                                                        CHS, JHS, IBW, CEE MODS                                                                                                                                                                                                    CONS. (SEISMIC, ROOFS, ATHLETICS, TECH, SEC, CURR/PE, FAC-IMP)
+
+                                                                                                                                                                                                              ANGELA CAFFREY
+                                                                                                                                                                                                              SENIOR DIRECTOR
+                                                                                                                                                                                                               CONSTRUCTION
+
+
+                                                                                                                                                                                                                                       FACILITY IMPROVEMENT/                                                                      FURNITURE MOVES, SPACE
+    COMMUNICATIONS                                             OPERATIONS CONTROLS                                    DESIGN PLANNING                                                CONSTRUCTION                                                                                 FACILITIES DATA & COMPLIANCE                                                                             REAL ESTATE                   FACILITIES FINANCE
+                                                                                                                                                                                                                                      CONSOLIDATED PROJECTS                                                                             PLANNING
+
+
+
+
+                                                                                                                                                                                      SCOTT MEARS                                                                                                                                       JULIE ROEDER                                           TBD                         TRACY ENBYSK
+     SARAH NORMAN                                                   JESSICA DAY                                      LEILANI CARR                                                                                                                                                            TBD
+                                                                                                                                                                                  SENIOR CONSTRUCTION                                                                                                                                PROJECT MANAGER II                              SENIOR PROGRAM MANAGER             BUSINESS OPERATIONS
+ EXECUTIVE DIRECTOR, RISE                                     COST CONTROLS MANAGER                             SENIOR DESIGN MANAGER                                                                                                                                              SENIOR PROGRAM MANAGER
+                                                                                                                                                                                        MANAGER                                                                                                                                          PLANNING                                           REAL ESTATE                      MANAGER
+
+
+
+                                                 ELLEN LEVENTHAL                 MAYA LITAUER CHAN                                       GEORGE EWING                                                 STEVE EFFROS                                                                                         SARAH MCCANN                                                                                   BECCA NEHSE
+   CHRIS LUENEBURG                                                                                                                                                                                                                                          STEVE MEUNIER                                                                                   NEPHTALI (OZZY) PINTOR                                                            JEN WISHART
+                                               CONSTRUCTION FINANCE            FINANCIAL OPERATIONS                                     DESIGN MANAGER                                           SENIOR PROJECT MANAGER                                                                                   SENIOR MANAGER                                                                                  ADMIN CLERK
+COMMUNICATIONS MANAGER                                                                                                                                                                                                                                 SENIOR PROJECT MANAGER                                                                                   COORDINATOR                                                              BUSINESS OPS ANALYST II
+                                                     MANAGER                         MANAGER                                            JHS, GRICE-ADAIR                                                   JHS                                                                                           DATA GOVERNANCE                                                                                      CUB
+
+
+
+                                                                                                                                           ROB ROTH                                                    ERIK GERDING
+                      DEREK HENDERSON             PATRICK HOSKINS                  VIVIAN ROJAS                                                                                                                                                               JON ATHEY                                                      JASON SUYDAM                                                                                                  LUCIANA BEZERRA
+                                                                                                                                        DESIGN MANAGER                                           SENIOR PROJECT MANAGER
+                    BUSINESS OPS SPECIALIST    PROGRAM COORDINATOR              SENIOR ACCOUNTANT                                                                                                                                                      SENIOR PROJECT MANAGER                                                 DATA ANALYST                                                                                               BUSINESS OPS ANALYST I
+                                                                                                                                            CHS, IBW                                                        CHS
+
+
+
+                                                                               CHRISTINE GARTLAND                                          AYANA HORN                                                    JEN SOHM                                         ALLEN CARPENTER
+                        KENYATTA TRICE           CORINA HEREDIA                                                                                                                                                                                                                                                            SARAH THOMPSON
+                                                                              BUSINESS OPS ANALYST II                                   PROJECT MANAGER                                          SENIOR PROJECT MANAGER                                  PROJECT MANAGER II
+                    OUTREACH COORDINATOR      PROCUREMENT MANAGER                                                                                                                                                                                                                                                            GIS ANALYST
+                                                                                   CONTRACTS                                             INTERIORS & FF&E                                                   IBW                                         SECURITY/TECHNOLOGY
+
+
+
+                                                                                                                                                                                                       GABE ASCH                                           ELLEN CUSICK
+                        NICOLE DURAN               BRANDON NILES                   DAN PETERSON
+                                                                                                                                                                                                    PROJECT MANAGER                                      PROJECT MANAGER
+                     WEBSITE COORDINATOR      SENIOR CONTRACT ANALYST          BUSINESS OPS ANALYST I
+                                                                                                                                                                                                          IBW                                         CONSOLIDATED - SEISMIC/PE
+
+
+
+                                                                                                                                                                                                       AYUSH RATAN
+                                                                                    THAO DINH
+                                                                                                                                             REMOTE                                                 PROJECT MANAGER
+                                                                              BUSINESS OPS SPECIALIST
+                                                                                                                                                                                                      SEISMIC/ROOFS
+
+
+                                                                                                                                                                DREW SCHOTT
+                                                                                  JOHNATHAN WAN                                                                                                       JARED HAYES
+                                                                                                                                                            SENIOR CONSTRUCTION
+                                                                            IT BUSINESS SYSTEMS ANALYST                                                                                             PROJECT MANAGER
+                                                                                                                                                                  MANAGER
+
+
+
+                                                                                                                                                                BLAKE DIVIN                          CAROLINA CANO
+                                                                                                                                                             PROJECT MANAGER                        PROJECT MANAGER
+
+
+
+
+                                                                                                                                                                RUSS FORTE                            KHALIL RIVERA
+                                                                                                                                                            PROGRAM SCHEDULER                  ASSISTANT PROJECT MANAGER
+
+
+
+
+LAST UPDATED JUNE 2026
+                                        D. EXHIBITS
+
+
+EXHIBIT 2 - PROGRAM MASTER SCHEDULE
+
+Please see the following pages.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN            33
+Activity Name                                        Duration      Start         Finish                    2026                       2027                       2028                              2029                        2030             2031
+                                                                                            Q4   Q1   Q2          Q3   Q4   Q1   Q2          Q3   Q4   Q1   Q2          Q3   Q4       Q1      Q2          Q3   Q4   Q1    Q2          Q3   Q4   Q1     Q2
+
+   Portland PS Bond Program
+    JEFFERSON HS
+     PROJECT REDESIGN & CONSTRUCTION DOCUMENTS        479       02-Jan-25 A   08-Dec-26
+     LAND USE PERMIT                                  151       06-Oct-25 A   07-May-26 A
+     BUILDING PERMITS                                 185       20-Mar-26 A   16-Dec-26
+     CONSTRUCTION - SOUTH FIELDS                      206       15-Jun-26     29-Mar-27
+     CONSTRUCTION - NEW BUILDING                      589       01-Mar-27     31-May-29
+     CLOSE-OUT & WARRANTY                              60       01-Jun-29*    23-Aug-29
+     DEMO - OLD BUILDING                              100       01-Jun-29     18-Oct-29
+     CONSTRUCTION - FOOTBALL STADIUM                  203       19-Oct-29      30-Jul-30
+    CLEVELAND HS
+     PROJECT REDESIGN & CONSTRUCTION DOCUMENTS        479       02-Jan-25 A   08-Dec-26
+     LAND USE PERMIT                                  150       01-Oct-25 A   05-May-26 A
+     BUILDING PERMITS                                  40       14-May-26 A   12-Feb-27
+     DEMO & SITEWORK                                  150        06-Jul-26    29-Jan-27
+     CONSTRUCTION - STADIUM                           479       02-Nov-26     31-Aug-28
+     CONSTRUCTION - NEW BUILDING                      630       15-Feb-27      13-Jul-29
+     CLOSE-OUT & WARRANTY                              60        16-Jul-29    05-Oct-29
+    IDA B WELLS HS
+     PROJECT REDESIGN & CONSTRUCTION DOCUMENTS        479       02-Jan-25 A   08-Dec-26
+     LAND USE PERMIT                                  151       08-Apr-26 A   08-Jan-27
+     BUILDING PERMITS                                  96       19-Oct-26     01-Mar-27
+     DEMO & SITEWORK                                   98       02-Dec-26     16-Apr-27
+     CONSTRUCTION - NEW BUILDING                      575       19-Apr-27     29-Jun-29
+     CONSTRUCTION - NEW FIELDS                        339       15-May-29     30-Aug-30
+     CLOSE-OUT & WARRANTY                              60       05-Jul-29*    26-Sep-29
+    GRICE-ADAIR CENTER FOR EDUCATION EXCELL
+                                     EXCELLENCE
+     A/E PROCUREMENT                                   43       24-Dec-25 A 22-Apr-26 A
+     PROGRAMMING & DESIGN                             393       08-Jun-26*    08-Dec-27
+     BUILDING PERMITS                                  73       05-Aug-27     15-Nov-27
+     DEMOLITION & CONSTRUCTION                        392       16-Nov-27     16-May-29
+     CLOSE-OUT & WARRANTY                              60       17-May-29     08-Aug-29
+
+
+
+
+                PROCUREMENT        PERMITTING             CONSTRUCTION                                                   Portland PS                                              Data Date                              08-Jun-26
+                DESIGN             LAND USE PERMIT        CLOSE-OUT & ...
+                                                                                                                        Bond Summary                                              Run Date                               11-Jun-26
+Activity Name                                      Duration       Start         Finish                    2026                       2027                       2028                              2029                        2030             2031
+                                                                                           Q4   Q1   Q2          Q3   Q4   Q1   Q2          Q3   Q4   Q1   Q2          Q3   Q4       Q1      Q2          Q3   Q4   Q1    Q2          Q3   Q4   Q1     Q2
+
+   Portland PS Bond Program
+    ATHLETIC FACILITIES
+     GRANT HS LIGHTS
+      DESIGN                                         37       01-Jan-25 A    28-Feb-25 A
+      LAND USE PERMIT                               150        01-Mar-25 A 08-Aug-25 A
+      PERMITTING                                     65        21-Nov-25 A 16-Feb-26 A
+      CONSTRUCTION                                   49        23-Mar-26 A 26-May-26 A
+      CLOSE-OUT                                      10       28-May-26 A     11-Jun-26
+     MARSHALL MS HUB
+      CONSTRUCTION                                  195       01-Jan-26 A    18-May-26 A
+      PERMITTING                                     66       01-Jan-26 A    01-Jan-26 A
+      DESIGN                                         35       01-Jan-26 A    01-Jan-26 A
+      CLOSE-OUT                                      17       20-May-26 A    12-Jun-26
+      HUB FIELD AND LIGHTS
+       A/E PROCUREMENT                               34       01-Jan-26 A    01-Jan-26 A
+      UPPER FIELD (MULTI-USE)
+       A/E PROCUREMENT                               34       05-Jan-26 A     22-Jul-26
+       DESIGN                                        93         23-Jul-26    30-Nov-26
+       LAND USE PERMIT                              193        05-Oct-26*    30-Jun-27
+       CONSTRUCTION                                 195        23-Sep-27     21-Jun-28
+       CLOSE-OUT                                      5        26-Jun-28     30-Jun-28
+     JACKSON MS HUB
+      PHASE 0
+       LAND USE PERMIT                               43       01-Jan-24 A    10-Sep-24 A
+       DIRECT SELECT / COOP PROCUREMENT              25        22-Dec-25 A   11-Feb-26 A
+       DESIGN                                        37        11-Feb-26 A 29-May-26 A
+       PERMITTING                                    11       29-May-26 A    15-Jun-26
+       CONSTRUCTION                                 107        16-Jun-26     11-Nov-26
+      PHASE 1A
+       LAND USE PERMIT                               98       01-Jan-26 A    01-Jan-26 A
+       DESIGN                                        37        11-Feb-26 A    30-Jul-26
+       PERMITTING                                    28         31-Jul-26    08-Sep-26
+       CONSTRUCTION                                 129        09-Sep-26     08-Mar-27
+      PHASE 1B
+       DESIGN                                       238       01-Apr-26 A     26-Oct-26
+       PERMITTING                                    74        09-Sep-26     21-Dec-26
+       CONSTRUCTION                                  119       22-Dec-26     04-Jun-27
+       CLOSE-OUT                                      8        09-Jun-27     18-Jun-27
+     POWELL PARK
+      P&R NEGOTIATIONS                              105       05-Jan-26 A    30-Jun-26
+      DESIGN                                         20         28-Jul-26    24-Aug-26
+      LAND USE PERMIT                                60        25-Aug-26     16-Nov-26
+      PERMITTING                                     60        17-Nov-26     08-Feb-27
+      CONSTRUCTION                                  196        09-Feb-27     09-Nov-27
+      CLOSE-OUT                                       5        12-Nov-27     18-Nov-27
+     JEFFERSON FIELD
+      DESIGN (BORA)                                   0        01-Sep-25 A 31-Jan-26 A
+      LAND USE PERMIT                               150       01-Oct-25 A    20-Mar-26 A
+      PERMITTING                                     76        08-Dec-25 A   08-Jun-26
+      CONSTRUCTION - PHASE 1                        206        15-Jun-26     29-Mar-27
+      CONSTRUCTION - PHASE 2                        279        01-Jun-29     26-Jun-30
+      CLOSE-OUT                                       5         01-Jul-30     05-Jul-30
+
+                PROCUREMENT      PERMITTING               CONSTRUCTION                                                  Portland PS                                              Data Date                              08-Jun-26
+                DESIGN           LAND USE PERMIT          CLOSE-OUT & ...
+                                                                                                                       Bond Summary                                              Run Date                               11-Jun-26
+Activity Name                                   Duration       Start       Finish                   2026                       2027                       2028                              2029                        2030             2031
+                                                                                     Q4   Q1   Q2          Q3   Q4   Q1   Q2          Q3   Q4   Q1   Q2          Q3   Q4       Q1      Q2          Q3   Q4   Q1    Q2          Q3   Q4   Q1     Q2
+
+   Portland PS Bond Program
+    ATHLETIC FACILITIES
+     ROOSEVELT HS ATHLETIC IMPROVEMENTS
+      A/E PROCUREMENT                             23        15-Jun-26*   15-Jul-26
+      DESIGN                                      87         16-Jul-26   13-Nov-26
+      LAND USE PERMIT                            261        16-Jul-26*   15-Jul-27
+      PERMITTING                                 124         16-Jul-27   05-Jan-28
+      CONSTRUCTION                               197        06-Jan-28    06-Oct-28
+      CLOSE-OUT                                    5        11-Oct-28    17-Oct-28
+     FRANKLIN FIELD
+      A/E PROCUREMENT                             12        15-Jun-26*   30-Jun-26
+      DESIGN                                      44         01-Jul-26   31-Aug-26
+      LAND USE PERMIT                            240        01-Sep-26    02-Aug-27
+      PERMITTING                                 195        03-Aug-27    01-May-28
+      CONSTRUCTION                               196        02-May-28    30-Jan-29
+      CLOSE-OUT                                    5        02-Feb-29    08-Feb-29
+     WEST SYLVAN MS FIELD
+      A/E PROCUREMENT                              9        15-Jun-26*   25-Jun-26
+      DESIGN                                     146        26-Jun-26    15-Jan-27
+      LAND USE PERMIT                            240        18-Jan-27    17-Dec-27
+      PERMITTING                                 195        20-Dec-27    15-Sep-28
+      CONSTRUCTION                               197        18-Sep-28    19-Jun-29
+      CLOSE-OUT                                    5        22-Jun-29    28-Jun-29
+     GRANT HS SEATING
+      A/E PROCUREMENT                             43       15-Jun-26 A   25-Jun-26
+      DESIGN                                     153        26-Jun-26    26-Jan-27
+      LAND USE PERMIT                            128        05-Oct-26*   31-Mar-27
+      PERMITTING                                 132        01-Apr-27    01-Oct-27
+      CONSTRUCTION                               129        04-Oct-27    30-Mar-28
+      CLOSE-OUT                                    5        04-Apr-28    10-Apr-28
+
+
+
+
+                PROCUREMENT   PERMITTING               CONSTRUCTION                                               Portland PS                                              Data Date                              08-Jun-26
+                DESIGN        LAND USE PERMIT          CLOSE-OUT & ...
+                                                                                                                 Bond Summary                                              Run Date                               11-Jun-26
+Activity Name                                    Duration      Start        Finish                   2026                       2027                       2028                              2029                        2030             2031
+                                                                                      Q4   Q1   Q2          Q3   Q4   Q1   Q2          Q3   Q4   Q1   Q2          Q3   Q4       Q1      Q2          Q3   Q4   Q1    Q2          Q3   Q4   Q1     Q2
+
+   Portland PS Bond Program
+    ALL SEISMIC 2025 BOND
+     BEVERLY CLEARY FERNWOOD FULL SEISMIC
+      DESIGN                                      238       15-Jan-26 A   20-Nov-26
+      PERMITTING                                   63       23-Nov-26     17-Feb-27
+      CONSTRUCTION                                 311      11-Jun-27     18-Aug-28
+      CLOSE-OUT                                    30       21-Aug-28     29-Sep-28
+     VERNON & WINTERHAVEN APPROACH B- PARTIAL SEISMI
+                                              SEISMIC
+      DESIGN                                      238       18-Sep-25 A 24-Dec-25 A
+      PERMITTING                                   119      25-Nov-25 A   15-Jul-26
+      CONSTRUCTION                                 57        20-Jul-26    06-Oct-26
+      CLOSE-OUT                                    30       07-Oct-26     17-Nov-26
+     AINSWORTH & KELLY PARTIAL SEISMIC
+      DESIGN                                      150       10-Jun-26     05-Jan-27
+      PERMITTING                                   66       06-Jan-27     07-Apr-27
+      CONSTRUCTION                                 56       11-Jun-27     27-Aug-27
+      CLOSE-OUT                                    45       30-Aug-27     29-Oct-27
+     RICHMOND PARTIAL SEISMIC & ROOF
+      DESIGN                                      150       30-Apr-26 A   25-Nov-26
+      PERMITTING                                  100       26-Nov-26     14-Apr-27
+      CONSTRUCTION                                 56       11-Jun-27     27-Aug-27
+      CLOSE-OUT                                    31       30-Aug-27     11-Oct-27
+     CAPITOL HILL SEISMIC & ROOF
+      DESIGN                                      120       28-Apr-26 A   12-Oct-26
+      PERMITTING                                   97       13-Oct-26     24-Feb-27
+      CONSTRUCTION - PHASE 1                       48       11-Jun-27     17-Aug-27
+      CLOSE-OUT - PHASE 1                          23       18-Aug-27     17-Sep-27
+      CONSTRUCTION - PHASE 2                       48       14-Jun-28     18-Aug-28
+      CLOSE-OUT - PHASE 2                          30       21-Aug-28     29-Sep-28
+     BEACH SEISMIC & ROOF
+      DESIGN                                      120       25-Jun-26     09-Dec-26
+      PERMITTING                                   14       04-Feb-27     23-Feb-27
+      CONSTRUCTION - PHASE 1                       48       07-Jun-27     11-Aug-27
+      CLOSE-OUT - PHASE 1                          23       12-Aug-27     13-Sep-27
+      CONSTRUCTION - PHASE 2                       48       14-Jun-28     18-Aug-28
+      CLOSE-OUT - PHASE 2                          30       21-Aug-28     29-Sep-28
+     ROSE CITY PARK SEISMIC AND ROOF
+      DESIGN                                      160       10-Sep-26     21-Apr-27
+      PERMITTING                                  215       22-Apr-27     16-Feb-28
+      CONSTRUCTION                                 311      16-Jun-28     24-Aug-29
+      CLOSE-OUT                                    30       27-Aug-29     05-Oct-29
+
+
+
+
+                PROCUREMENT    PERMITTING             CONSTRUCTION                                                 Portland PS                                              Data Date                              08-Jun-26
+                DESIGN         LAND USE PERMIT        CLOSE-OUT & ...
+                                                                                                                  Bond Summary                                              Run Date                               11-Jun-26
+                                        D. EXHIBITS
+
+
+EXHIBIT 3 - PROJECT BUDGET
+
+Please see the following pages.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN            38
+   2012 Bond Program Status – Budget Update - Overview
+     Modernizations: Franklin HS, Grant HS, Roosevelt HS, and Faubion PK-8
+     Middle School Science Upgrades
+     Consolidated Projects: Accessibility, Seismic
+
+
+
+                                                         Outstanding
+           Project               Budget                 Encumbrance             Amount Paid to Date       Remaining Balance
+
+Franklin HS Mod                        $110,950,414                       $0               $110,950,414                       $0
+
+Grant HS Mod                           $155,300,188                       $0              $155,300,188                        $0
+
+Roosevelt HS Mod                          $97,128,043                     $0               $97,128,043                        $0
+
+Faubion Replace                        $30,653,663                        $0               $30,653,663                        $0
+
+Grant Upper Field                          $3,170,988                     $0                $3,170,988                        $0
+
+RHS Phase IV                               $6,153,741                     $0                 $6,153,741                       $0
+
+Other Projects                         $112,740,428                    $8,100              $112,710,428                $21,900
+
+Grant & Franklin Add Ons                    $367,663              $92,879                      $72,164                $202,620
+
+Administration                            $31,284,018                     $0               $31,284,018                        $0
+
+Contingency                                  $83,104                      $0                     -$902                 $84,006
+
+PPS 2012 Bond Program Total          $547,832,249                $100,979                $547,422,744                 $308,526
+
+
+
+
+                                                                                                                                   1
+    2017 Bond Program Status – Budget Update - Overview
+     Modernizations: Benson Polytechnic, Lincoln, McDaniel, Kellogg Middle School and Multiple
+     Pathways to Graduation
+
+     Consolidated Projects: Water Quality, Security Upgrades, New Roofs, Asbestos Abatement,
+     Radon Remediation, Lead Paint Stabilization, Life Safety Upgrades, Accessibility, Seismic
+
+                                                        Outstanding
+              Project               Budget             Encumbrance           Amount Paid to Date        Remaining balance
+
+Benson HS Mod                           $146,614,560             $158,943              $143,508,637               $2,946,980
+
+Benson Add Ons                           $2,865,020              $417,585                 $1,092,198               $1,355,237
+
+Benson Swings                            $12,199,595                   $0                $12,199,595                        $0
+
+Lincoln HS Repl                        $240,836,448               $28,738              $224,096,580                $16,711,130
+
+Kellogg MS Replace                      $57,648,703                    $0               $57,648,703                         $0
+
+McDaniel Mod                           $197,000,000               $39,657               $196,817,745                $142,598
+
+Health & Safety                         $169,256,030           $23,133,634             $122,993,632               $23,128,764
+
+Athletics                                $4,895,489              $174,034                $2,278,729                $2,442,726
+
+Administration                           $61,087,401             $203,184               $60,873,810                  $10,407
+
+Contingency                                  $42,039                   $0                          $0                $42,039
+
+PPS 2017 Bond Program Total            $892,445,285           $24,155,774             $821,509,629               $46,779,882
+
+
+
+
+                                                                                                                                 2
+   2020 Bond Program Status – Budget Update - Overview
+      Modernizations: Jefferson HS, Pre-Planning/Design Ida B Wells and Cleveland HS, Grice-Adair
+      Center for Educational Excellence, Roosevelt (added capacity), and Benson
+      Consolidated Projects: Curriculum Materials, New Technology for classroom and distance
+      learning, Health & Safety, Seismic, Security, Re-Roofing
+                              Budget Managed by       Budget Managed by        Outstanding        Amount Paid to
+             Project             PROCEDEO                    PPS              Encumbrance             Date            Remaining Balance
+
+Benson 2020 Funds                                            $164,903,890            $640,328          $162,803,433            $1,460,129
+
+Jefferson HS Mod                      $366,007,500                                $38,429,302           $30,053,013         $297,525,185
+
+Jefferson Add Ons                          $152,175                                  $149,945                 $250                $1,980
+
+CEE                                    $60,000,000                                    $34,238           $16,222,680          $43,743,082
+
+Cleveland HS – Design                   $23,679,515                                 $8,412,380          $15,270,600              -$3,465
+
+Cleveland Swing Site                      $137,500                                      $1,800            $105,905               $29,795
+
+Wells HS – Design                      $20,000,000                                  $2,404,163         $17,584,080                $11,757
+
+Roosevelt PhV – Design                                         $2,000,000               $1,035             $97,625            $1,901,340
+
+MPG Building                                                  $80,447,075             $267,192         $77,947,593            $2,232,290
+
+Curriculum                                                      $63,319,191         $1,255,550          $54,617,744           $7,445,897
+
+Technology                                                    $136,100,000         $16,660,493          $91,534,529          $27,904,978
+
+Infra Projects                                                $268,153,105         $19,787,893        $235,023,435            $13,341,777
+
+Administration                                                 $51,706,045           $1,239,513        $34,440,015            $16,026,517
+
+2017 Bond Balance                                                       $0                   $0                 $0                    $0
+
+Contingency – OSM                                              $79,451,387                   $0                 $0           $79,451,387
+                                                                                                                                            3
+Unallocated Funds                                             $17,649,899                    $0                 $0           $17,649,899
+PPS 2020 Bond Program Total           $469,976,690           $863,730,592         $89,283,832         $735,700,902         $508,722,548
+2025 Bond Program Status – Budget Update - Overview
+  Modernizations: Cleveland HS, Ida B Wells HS, and Jefferson
+
+  Consolidated Projects: Security Upgrades, Seismic, Technology, Improvements for Roosevelt,
+  Lincoln, Franklin, and Grant, and New Athletic Hub Facilities at Jackson MS and Marshall
+  Campuses
+                               Budget Managed by Budget Managed by      Outstanding        Amount Paid to
+              Project             PROCEDEO              PPS            Encumbrance             Date           Remaining Balance
+
+Priority Scope                                         $190,000,000         $10,622,793           $344,233            $179,032,974
+
+Athletics                                               $79,000,000         $1,347,024           $2,047,435            $75,605,541
+
+Technology                                             $176,000,000         $3,916,460          $26,452,579           $145,630,961
+
+Physical Education                                      $10,000,000                   $0                $0            $10,000,000
+
+Curriculum                                              $56,000,000                   $0                $0            $56,000,000
+
+Jefferson HS Modernization           $100,000,000                                     $0                $0           $100,000,000
+
+Cleveland HS Modernization            $448,911,745                          $12,273,030            $393,615          $436,245,100
+
+Ida B Wells HS Modernization         $429,350,000                          $29,359,062            $507,760           $399,483,178
+
+Elementary & Middle Schools                             $171,738,255                  $0                $0            $171,738,255
+
+Admin                                                   $83,050,000        $57,898,825           $7,570,008             $17,581,167
+
+Contingency                                            $125,956,806                   $0                $0            $125,956,806
+PPS 2025 Bond Program Total          $978,261,745      $891,745,061        $115,417,194         $37,315,630         $1,717,273,982
+
+
+
+
+                                                                                                                                      4
+                                                                SAMPLE PPS PROJECT BUDGET 2025 BOND PROGRAM
+                                                                BUDGET/COST BREAKDOWN, CALCULATED PER ALL IN
+                                                                                PROJECT NAME
+
+
+                                                                                    LOC XXX
+                                                                                 Job # XXX-XXX
+          Line                                                                    Object                         Formula                  Budget
+           LN                            Description                              Code        Sub-Objt                                    Amount
+
+                                                                                  CONSTRUCTION
+            1    Construction Budget CCL                                         XXXXXX         XXX                                                0.00
+            2    Move/Swing/Temp. Facilities                                     XXXXXX         XXX                                                0.00
+            3    Estimating CCL                                                  XXXXXX         XXX                   XX% * LN(1+5)                0.00
+            4    Total Construction before Security/Technology                                                                        $             -
+            5    Project Contingency / GC Contract -Owner Approved               XXXXXX         XXX             XX% * LN1                          0.00
+            6    Total Contractor Construction Amount                                                                                 $             -
+            7    Utility Costs and Connection Fees - electric                    XXXXXX         XXX             XX% * LN1                          0.00
+            8    Land Acquisition                                                XXXXXX         XXX             XX% * LN1                          0.00
+            9    Technology                                                      XXXXXX         XXX             XX% * LN1                          0.00
+
+           10                                                                TOTAL PROJECT CONSTRUCTION and CONTINGENCY               $             -
+           11                                                                     ARCHITECT/ AE
+           12 Owner Provided Arch and Eng Svcs                                   XXXXXX         XXX             XX% * LN10                         0.00
+           13 Add Services for Design AE                                         XXXXXX         XXX                 XX% * LN(1+2+3)                0.00
+           14 RAS Review                                                         XXXXXX         XXX              lump sum                          0.00
+           15 AE Reimbursable                                                    XXXXXX         XXX                 XX% * LN(1+2+3)                0.00
+
+           16                                                                                              TOTAL ARCHITECT            $             -
+           17                                                                       SOFT COSTS
+           18    Material Testing                                                XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           19    Geotechnical                                                    XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           20    Land Surveying                                                  XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           21    Cost Estimating                                                 XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           22    Commissioning                                                   XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           23    Roof Inspection                                                 XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           24    Land Use Consultant                                             XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           25    TIA TMP                                                         XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           26    Other Engineering Svcs                                          XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           27    Other Design Services                                           XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           28    Moving Expenses                                                 XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           29    Test & Balance                                                  XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           30
+           31    FF&E for Campus - based upon purpose & extent of addition       XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           32    FF&E Contingency                                                XXXXXX         XXX             XX% * LN31                         0.00
+           33
+           34
+           35 Haz-Mat Abatement                                                  XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           36 Haz-Mat Contingency                                                XXXXXX         XXX             XX% * LN35                         0.00
+           37 Haz-Mat Sample/Monitoring & Hazmat Design Fee                      XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           38
+           39 Permits                                                            XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           40 Fees & Dues                                                        XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           41 Overtime-Custodial Support                                         XXXXXX         XXX                XX% * LN(1+2+3)                 0.00
+           42 District Held Builder's Risk                                       XXXXXX         XXX                  XX% * LN(4+5)                 0.00
+           43 DCIP                                                               XXXXXX         XXX                  XX% * LN(4+5)                 0.00
+           44
+           45                                                                                             TOTAL SOFT COSTS            $             -
+
+           46                                                                  TOTAL CONSTRUCTION, ARCHITECT, SOFT COSTS              $             -
+
+           47    Contingency                                                     XXXXXX         XXX                    XX% * LN(46)                0.00
+           48                                                                TOTAL BUDGET AMOUNT TO ORGANIZATION CODE                 $             -
+           49    Admin Costs                                                     Multiple     Multiple         XX% * LN(1+5)                       0.00
+
+           50                                                                                    PROJECT BUDGET ALLOCATION            $             -
+           51                                                                                      LAND BUDGET ALLOCATION                          0.00
+
+           52                                                                                     TOTAL BUDGET ALLOCATION             $             -
+
+File> %SAMPLE Financial One Pager
+Tab> SAMPLE
+                                                                                                                                                          43
+                                                                                     D. EXHIBITS
+
+
+
+
+EXHIBIT 4 - PROCESSES AND PROCEDURES
+A. PROGRAM MANAGEMENT TEAM                            3. AUDIT/EVALUATION OF PROGRAM MANAGER
+1. PROGRAM MANAGEMENT TEAM ON SITE                    PPS is auditing and evaluating Program Manager’s
+Program Manager is to continuously maintain in        performance from time to time in its discretion,
+Portland, Oregon, a sufficient team of full-time,     including evaluation of key performance
+on-site, and experienced program management           indicators, Program and project progress,
+staff(the “PM Team”) is leading the Program and       compliance with budget and financial integrity,
+its projects and to perform the Services, including   and other relevant factors. Program Manager
+without limitation to regularly meet with PPS         will cooperate and provide fully transparent
+leaders and staff, manage projects, and address       examinations of its Services and finances,
+Program needs. The on-site PM Team may be             including without limitation prompt access to
+supported by team members in other locations.         PPS of all Program and project documentation
+Program Manager will maintain capacity,               and Key Personnel and staff on the PM Team.
+personnel, and systems adequate to increase or
+decrease Services and projects based on Program       4. SCOPE OF PROGRAM MANAGER AUTHORITY
+needs and PPS direction, upon reasonable notice.      PPS may in writing confer limited, enumerated
+PPS will provide the on-site PM Team members          authority to Program Manager and its PM Team to
+with dedicated office/cubicle space.                  represent and act on behalf of PPS, but Program
+                                                      Manager otherwise has no legal authority to bind
+2. STABILITY OF PM TEAM                               PPS with respect to other persons or entities.
+Program Manager is making sure that the PM
+Team’s leadership and Key Personnel will in fact
+be continuously present or available, committed,
+and (unless otherwise agreed) engaged full
+time on PPS’s Program and projects. Should
+any member of the PM Team not be able to so
+continue on the Program or a project, Program
+Manager is providing no less than 45 days’ advance
+written notice (except in emergencies or beyond
+the control of Program Manager) to PPS’s Senior
+Chief of Operations or designer, together with
+its proposal for replacement individuals, who
+must have substantial prior experience on the
+Program or its projects and have qualifications
+commensurate with the departing PM Team
+member. PPS retains the right to object to any
+proposed PM Team member.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                              44
+                                                                                       D. EXHIBITS
+
+
+
+B. PROGRAM MANAGEMENT SERVICES                        •   Design services authorization processes
+1. PROGRAM MANAGEMENT PLAN                                and procedures, including administrative
+Within 30 calendar days after the effective date of       approval processes and responsibilities and
+this Contract, Program Manager is producing to            key documentation for professional services
+PPS a written “first 90 days” plan outlining, among       and preconstruction services;
+other things, onboarding and staffing plans;
+within 90 calendar days after the effective date      •   Processes and procedures for consistent and
+of this Contract, Program Manager is producing            efficient project construction procurement
+to PPS a comprehensive management plan                    and management, such as awarding
+that sets out Program Manager’s team and is               and     negotiating    contracts,  approving
+managing, overseeing, and leading the Program             subcontractors and suppliers, providing
+and its projects, including without limitation its        notices to proceed, processing change orders,
+management and organizational approach for                certifying payment applications, and closing
+the Program and for each project, staffing models         out projects, including complying with PPS
+and requirements (incorporating the use of PPS            processes and procedures mandated by
+staff), and Program and project controls. Program         Oregon Revised Statutes or audit compliance;
+Manager is expecting to incorporate existing PPS      •   Program       communication procedures,
+Program and project controls for bond-funded              including systems, meetings, reporting,
+projects. The Program Management Plan must                investigation, and records;
+also address the following:
+                                                      •   Compliance with PPS’s project management
+•   Program      management    approach   and             information system for bond-funded projects,
+    organization,     including      executive,           records maintenance, and information
+    management, and team staffing plan and                management procedures throughout the
+    responsibilities;                                     Program, including conformance with existing
+•   Program       planning    and     development         auditable workflow and data management
+    activities, including strategic planning for,         systems, data security, project activities, and
+    prioritizing, and defining the scope, schedule,       other tasks;
+    and budget of the projects;                       •   Design of processes and guidelines, including
+•   Program management controls, including                assessment, prioritization, project scope
+    scope management, budget/cost data and                definition, design development, coordination,
+    controls, complete schedules, and quality             and permit process;
+    management;                                       •   Construction process guidelines, including
+•   Procurement strategies and procedures                 preconstruction      and       construction
+    (in conformance with established PPS                  administrative    services,    construction
+    procurement rules), including strategy                phase processes and procedures, program
+    for procurement of design services and                coordination, change order management,
+    construction, if required; procedures for             commissioning,    and    project   closeout
+    pre-purchase of material, systems, and                procedures; and
+    equipment, if required; and evaluating and        •   Project acceptance and turnover guidelines
+    approving substitutions;                              relating to project completion, closeout
+                                                          management, and transition of facilities to
+                                                          PPS and public occupancy and use, including
+                                                          record   documentation,    manuals,     and
+                                                          warranties.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                 45
+                                                                                      D. EXHIBITS
+
+
+
+2. PROGRAM SCHEDULE                                   5. PROGRAM REPORTS
+Program Manager is creating a baseline                Program Manager is preparing and distributing to
+Program Schedule with appropriate milestones,         PPS a monthly Program report to inform PPS and
+and provide regular updates to the Program            stakeholders with relevant information about the
+Schedule, identifying any variances from              Program and each project. The specific contents
+baseline, throughout the term of the Contract.        of the monthly report will be agreed upon by PPS
+The Program Schedule will clearly identify critical   and Program Manager.
+path activities and note any subsequent changes
+to the activities defined as critical path.           6. DESIGN STANDARDS
+                                                      Program Manager is providing advice and input
+3. FISCAL AND BUDGET MANAGEMENT                       to PPS in modifying and updating PPS’s design
+Program Manager is responsible for budget and         standards to be used in the projects.
+fiscal oversight of the Program and its projects
+to ensure financial integrity and project and         7. PROGRAM ADMINISTRATION
+Program completion within Program Cost                Program Manager is providing sufficient on-site
+Budget, including without limitation analysis and     resources to administer, manage, and evaluate
+management of budget, cash flow, programming,         the Program, including both the foregoing duties
+strategic    planning,    contract   documents,       and, without limitation, the following:
+permitting, contingency management, risk
+identification and management, progress               •   Establish and maintain a weekly and monthly
+payment approvals and audits, and financial               reporting regime to keep PPS fully informed
+closeout of projects.                                     of the Program and the progress of each
+                                                          project;
+4. INFORMATION MANAGEMENT                             •   Support, protect, and defend PPS’s interests
+Program Manager is implementing and, for                  in all intersections with the design team,
+the duration of the Program, maintaining and              construction contractors and suppliers, and
+upgrading as necessary a web-based Program                third parties;
+Management Information System (“PMIS”) to
+receive, analyze, distribute, approve, and maintain   •   Monitor, analyze, and evaluate project data
+Program and project reports, Program and project          to determine progress, identify obstacles,
+schedules, and other communications and                   risks, and opportunities, and provide active,
+data, with regular reports and documentation              comprehensive management of the costs and
+as agreed by PPS and Program Manager. PMIS                schedules for the Program and its projects;
+will contain, at a minimum, current status on
+contracts, Program Cost Budget, schedule              •   Manage activities of designated PPS staff and
+and quality on a Program and project basis.               contractors;
+Activities under the Program and for each project
+                                                      •   Manage    and     administer      Program
+will be scheduled and documented through
+                                                          communications and data retention;
+PMIS. Through PMIS, Program Manager is
+organizing information by project, activity, and      •   Prepare and participate in presentations
+other relevant categories. Program Manager is             to PPS’s Board of Education and engage in
+collecting information pertaining to each project         discussions with PPS leaders, Board members,
+and update PMIS on at least a weekly basis. Use           PPS staff, and community stakeholders;
+of PMIS will not preclude Program Manager from
+being required to maintain existing PPS workflow      •   Coordinate, support, and cooperate with
+and data management procedures.                           PPS staff, internal and external auditors,
+                                                          accountants, legal counsel, and other PPS
+                                                          Program Managers;
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                               46
+                                                                                      D. EXHIBITS
+
+
+
+•   Maintain     confidentiality   of    personal   c. Project Scheduling: Program Manager is
+    identifying information, personal health        requiring and administering a uniform critical-
+    information, and privileged information, but    path method schedule for the construction
+    otherwise cooperate with PPS’s production of    of each project, using all relevant inputs,
+    publicly available information in response to   connections, and formulas. Program Manager
+    relevant requests; and                          is requiring and continuously evaluating the
+                                                    CM/GC’s or general contractor’s critical-path
+•   Engage with relevant PPS communities            Project Schedule for each project to ensure that
+    concerning the projects.                        it accurately reflects current project progress
+                                                    and planning. Program Manager will present the
+C. PROJECT MANAGEMENT SERVICES                      Project Schedule to PPS and others (including
+Program Manager is providing all services needed    without limitation during community outreach
+for the successful completion of each project       efforts) together with Program Manager’s
+within the time and budget allowed by PPS.          analysis and recommendations to maintain
+These services include the applicable Program       safety, scope, quality, budget, and time for
+Management Services identified above, scaled        project completion. All schedules must be easily
+to each project, and (without limitation) the       and regularly communicated to PPS in usable
+following:                                          formats, analyses, and summaries to understand
+                                                    the actual performance of and schedule for the
+1. GENERAL SERVICES FOR EACH PROJECT                construction work.
+a. Fiscal and Budget Management: Program
+Manager is providing fiscal and budget              d.   Contingencies:    Program Manager is
+management for each project, consistent with        establishing and recommending contingency
+Program Management Services identified above.       funds and plans to mitigate financial, cost,
+                                                    schedule, and other risks associated with each
+b. Project Management Plan: Consistent with         project and the Risk Management Plan. Program
+the Program Management Plan, Program                Manager is responsible to approve the use of
+Manager is preparing and proposing to PPS           contingency funds in any construction contract
+a Project Management Plan for each project,         to maintain cost discipline and permit timely
+which will address the same issues identified in    completion of the project within the contract
+the Program Management Plan, tailored to each       sum or guaranteed maximum price.
+project.
+                                                    e. Project Services:
+
+                                                    1.   Within the enumerated scope authorized by
+                                                         PPS in writing, act as PPS’s authorized agent
+                                                         and principal contact under project design
+                                                         and construction contracts to (a) decide,
+                                                         approve, or reject project matters on behalf
+                                                         of PPS; (b) receive and transmit project
+                                                         contractual notices, inspection reports, and
+                                                         other communications; (c) transmit project
+                                                         notices, reports, and communications
+                                                         promptly to PPS with appropriate Program
+                                                         Manager      recommendations;       and    (d)
+                                                         communicate PPS and Program Manager
+                                                         decisions to project participants;
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                               47
+                                                                                         D. EXHIBITS
+
+
+
+2.   Oversee and communicate with project               f. Design/Engineering Review Services:
+     participants, which may include both PPS
+     employees and external contractors or              1.   Review, in detail, all Drawings and
+     vendors, to ensure project success, all within          Specifications   to   ensure compliance
+     the limits of PPS’s contractual and legal               with PPS’s technical requirements and
+     duties;                                                 construction standards;
+
+3.   Oversee PPS contractor and vendor                  2.   Coordinate all activities of project teams,
+     performance and billings relative to contract           providing overall team leadership and
+     obligations;                                            guidance throughout the entire process;
+
+4. Develop and implement quality assurance              3.   Maintain a detailed project budget to address
+   plans (e.g., testing, inspection) for each project        all projected costs;
+   consistent with the limits of PPS’s contractual      4. Process and carefully review all submittals,
+   and legal duties;                                       product samples, shop drawings, requests
+5.   Schedule, conduct, and maintain minutes               for information and clarifications. Provide
+     of regular progress meetings among the                tracking, oversight and coordination of
+     architect of record, relevant engineers, and          submittal reviews, samples and shop
+     the general contractor or CM/GC, and other            drawings, in compliance with existing PPS
+     meetings as appropriate, to monitor progress          audit-required workflow and documentation
+     and resolve outstanding issues for each               management systems;
+     project;                                           5.   Perform statistically based quality design
+6. Maintain project files and records, in                    reviews;
+   compliance with existing PPS audit-required          6. Provide oversight of the design teams,
+   workflow and document management                        including without limitation coordination of
+   systems;                                                interfaces with PPS personnel; and
+7.   Notify PPS of contractual notices and other        7.   Record design or programmatic changes
+     communications from project participants;               that are made and approved by PPS, and
+8. Assist and advise PPS and cooperate with                  log these changes and their cost and time in
+   PPS’s legal counsel and forensic consultants              the form of design-phase change orders. Any
+   with respect to claims and disputes,                      deviations from the quality specifications
+   including without limitation preserving data,             contained in the Specifications document
+   documents, electronically stored information,             will be conspicuously noted.
+   objects, and other potential evidence relating
+   to claims and disputes; and
+
+9. Observe project activities and progress and
+   (a) consistent with PPS’s legal and contractual
+   duties, initiate or act upon requests to
+   address opportunities, concerns, or disputes
+   to efficiently achieve project safety, schedule,
+   costs, and other goals; and (b) report to PPS
+   on the observations, reports, requests, and
+   actions, and their outcomes.
+
+
+
+
+             | PROGRAM MANAGEMENT PLAN                                                                 48
+                                                                                          D. EXHIBITS
+
+
+
+g. Preconstruction Services: Program Manager is        7.   Ensure compliance by project participants
+regularly reviewing the development of the design           with legal requirements for procurements;
+for each project and provide recommendations
+to PPS for systems, materials, equipment, and          8. Represent or assist PPS in the negotiation
+techniques that are utilized to achieve the               of the terms of construction and vendor
+standards for each project. Program Manager               contracts;
+is providing advice to PPS on construction             9.   Require and continuously evaluate the CM/
+feasibility, availability of materials and labor,           GC’s or general contractor’s critical-path
+and procurement and time requirements for                   Project Schedule for each project to ensure
+installation and construction. To the extent that           that it properly applies critical-path logic and
+PPS approves or modifies its recommendations,               formulas and accurately reflects current project
+Program Manager is assisting in negotiating or              progress and planning. Program Manager will
+carrying out the recommendations with other                 present the Project Schedule to PPS and others
+relevant parties.                                           (including without limitation during community
+1.   Program Manager is performing at least the             outreach efforts) together with Program
+     following preconstruction services:                    Manger’s analysis and recommendations to
+                                                            maintain safety, scope, quality, budget, and
+2.   Participate with PPS staff and its architect           time for project completion;
+     or engineers to address cost, constructability,
+     project efficiency, and potential cost savings    10. Develop and administer detailed cost
+     of project design and design elements, and            tracking and reporting systems for design
+     provide cost estimating and constructability          and construction of the project; and
+     analyses as requested;                            11. Identify and participate with the design team
+3.   Participate with project architects, engineers,       to capitalize on opportunities for efficiencies
+     and specialty Program Managers (“Design               and cost savings in the design documents as
+     Team”) (i) to validate project scope, project         well as during construction of the project.
+     budget, and schedule parameters; and (ii)
+     to assist in developing better design and         h. Construction Phase Services: During
+     construction plans during the designers’          construction phases of a project, Program
+     preparation of construction drawings and          Manager is providing the following services:
+     specifications;
+                                                       1.   Obtain and coordinate necessary reports
+4. Determine the need for retaining Program                 and reviews from the design team and the
+   Managers to provide professional and other               contractor or CM/GC to ensure compliance
+   services for each project and assist PPS                 with safety, budget, and time requirements;
+   in reviewing qualifications and selecting
+                                                       2.   Ensure that contractor or CM/GC comply
+   Program Managers;
+                                                            with all permitting requirements and permits
+5.   Ensure completion of final bid packages,               required of them. Assist PPS in obtaining all
+     requests for proposals, and project phasing            necessary permits that it is to produce under
+     elements and requirements;                             the contract documents;
+
+6. Recommend          procurement      strategies      3.   Analyze, approve, revise, reject and compare
+   compliant with law to select potential                   applications for payment, submittals, daily
+   contractors and assist PPS in the evaluation             reports, costs, and receipts in accordance
+   of written bids or proposals and the selection           with PPS’s duties and requirements, including
+   of contractors, subcontractors, and vendors;             review of all documentation of costs on each
+                                                            Application for Payment;
+
+
+
+             | PROGRAM MANAGEMENT PLAN                                                                   49
+                                                                                         D. EXHIBITS
+
+
+
+4. Provide audit support as required;                   2.   Assist the Architect in developing an
+                                                             appropriate punch list of outstanding items
+5.   Coordinate closely with inspection activities to        to be corrected at the time of Substantial
+     ensure that submittals correspond with PPS              Completion. Monitor completion of the punch
+     and industry standards and that delivered               list items by the contractor;
+     equipment and materials correspond with
+     submittals and PPS and industry standards;         3.   Coordinate the delivery, assembly,       and
+                                                             installation of furniture, fixtures,     and
+6. Conduct weekly pre-construction and                       equipment;
+   construction meetings with the general
+   contractor or CM/GC, the architect, and other        4. Coordinate required training sessions with
+   key members of the project delivery team;               PPS and contractors and ensure that training
+                                                           is accomplished;
+7.   Establish lines of communication and
+     construction    administration   procedures        5.   Review     operations   and    maintenance
+     for the processing of submittals, shop                  manuals for each project to ensure they meet
+     drawings, requests for information, change              specified requirements;
+     requests, etc. Prepare a project procedures
+     manual to define the handling of all project       6. Assist PPS to obtain occupancy permits,
+     documentation, in concert with PPS’s desired          including preparation of relevant documents
+     forms and processes;                                  for governmental agencies as well as
+                                                           facilitating inspections by governmental
+8. Coordinate dispute resolution and claims                agencies;
+   avoidance services;
+                                                        7.   Coordinate with    commissioning     services
+9. Identify potential liabilities in the requests for        providers; and
+   information that could develop into future
+   requests for change orders;                          8. Verify that all warranties have been received
+                                                           and are in effect and coordinate warranty
+10. Ensure that operations and maintenance                 repair work.
+    manuals are assembled on an ongoing basis
+    during construction to facilitate training,         2. SERVICES FOR CM/GC PROJECTS.
+    maintain warranties, and assist with final          For projects in which PPS selects and contracts
+    compilation;                                        with a CM/GC, Program Manager is ensuring that
+                                                        the CM/GC is under contract to provide a full scope
+11. Manage and maintain all project documents           of design-phase and preconstruction services,
+    and files and ensure as-built drawings are          as well as construction management services
+    kept current by Contractor; and                     through construction of the project, which
+12. Select the services of independent testing          may include some of the functions identified
+    laboratories and review their reports.              in Section C herein. Program Manager and PPS
+                                                        will adjust Program Manager’s duties to properly
+                                                        interface with the duties of the CM/GC and will
+i. Occupancy and Post-Occupancy:
+                                                        ensure that (a) the CM/GC in fact performs its
+1.   Assist the Architect in performing interim         required construction management services
+     and final inspections and in monitoring all        and (b) CM/GC’s construction management
+     corrective work;                                   team participates actively in the design, value
+                                                        engineering, planning, and construction of the
+                                                        project.
+
+
+
+
+             | PROGRAM MANAGEMENT PLAN                                                                  50
+                                                                                       D. EXHIBITS
+
+
+
+D. RISK MANAGEMENT                                    3. PROJECT SAFETY
+1. RISK MANAGEMENT PLAN                               Each CM/GC or general contractor is to be
+Program Manager is investigating each project,        singularly responsible for safety at project sites,
+preparing a risk evaluation, and preparing a risk     in accordance with their contracts and applicable
+management plan for PPS’s approval. Program           law. PPS and Program Manager are not
+Manager, after approval, is implementing,             responsible for the creation or implementation
+managing, and evaluating the risk management          of safety programs and may not direct or enforce
+plan. Risks include, without limitation:              safety standards for matters under the control
+                                                      of the CM/GC or general contractor. Program
+•   Safety   of   students,   PPS     personnel,      Manager is responsible to survey and evaluate
+    construction workers and the public;              the performance of those safety plans and report
+                                                      any deficiencies to the applicable contractor and
+•   Possible continuing operation of PPS or public
+                                                      to PPS.
+    functions in or adjacent to project sites;
+
+•   Financial risks for each project during
+    its design and construction, including
+    appropriate prequalification of participants,
+    financial disclosures, audits, and methods
+    to ensure full payment of all construction
+    workers;
+
+•   Design and engineering risks;
+
+•   Schedule risks for each project; and
+
+•   The proper establishment and application of
+    contingency funds to address risks.
+
+2. PROGRAM AND PROJECT AUDITS:
+Program Manager is proposing appropriate
+terms and methods for PPS or its representatives
+to evaluate or audit (a) Project and Program costs,
+(b) Project and Program schedules, (c) Project
+safety standards and performance, and (d)
+other performance criteria and key performance
+indicators, during the course of the Program
+and each project, and at their termination. PPS
+reserves the right to conduct these audits or
+other audits under any awarded contract.
+
+
+
+
+            | PROGRAM MANAGEMENT PLAN                                                                  51
+                                     D. EXHIBITS
+
+
+
+E. PROCESS IMPROVEMENTS
+
+
+
+
+         | PROGRAM MANAGEMENT PLAN            52
+                                  D. EXHIBITS
+
+EXHIBIT 5 - PMP ACKNOWLEDGMENT
+
+
+
+
+      | PROGRAM MANAGEMENT PLAN            53
+

@@ -1,0 +1,1683 @@
+Portland Public Schools
+
+2017 Bond Performance Audit
+
+
+
+
+Performance Audit – Fiscal Year 2018/2019
+Final Report: 2017 Bond Cost Estimates
+
+
+
+
+April 2019
+
+
+
+
+455 Capitol Mall • Suite 700 • Sacramento, California • 95814 • Tel 916.443.1300 • www.secteam.com
+Table of Contents
+
+Table of Contents ........................................................................................................................................... i
+
+REPORT HIGHLIGHTS........................................................................................................................................ 1
+
+Introduction and Background ......................................................................................................................... 2
+
+Scope and Methodology ................................................................................................................................ 7
+
+Section 1: $790 Million Bond was Partially Supported by Independent Professional Estimates .................... 9
+
+Section 2: Additional Cost Information could have Aided Decision Making and Transparency.................... 22
+
+Section 3: Although Project Estimates Have Increased, PPS Has Been Working on Cost Containment..... 25
+
+Section 4: Conclusions and Recommendations .......................................................................................... 29
+
+Appendix A: Auditee Response ................................................................................................................... 31
+
+
+
+
+SJOBERGEVASHENK                                                                                                                                Page |i
+REPORT HIGHLIGHTS
+RESULTS
+Given the complexity of capital construction projects, accurate cost estimates built on sound methodologies are
+critical to reduce risks of cost overruns, minimize potential gaps in funding, prevent scope reduction, and keep
+promises made to voters. At Portland Public Schools (PPS), initial cost estimates used to develop the 2017 Bond
+were supported by professional estimates and empirical data. However, final cost estimate figures presented to
+the Board of Education (Board) were based on assumptions that were too low and a formal documented
+methodology did not exist to substantiate cost factors that were lower than market conditions at that time. Yet, it is
+still early in the 2017 Bond cycle and there are opportunities, to some extent, to make cost adjustments through in-
+progress value engineering efforts as well as refinements in internal practices to achieve program efficiencies and
+cost savings. However, because of the scale of the budgetary gap, efforts will also need to involve decisions about
+eliminating scope or delaying promised projects to subsequent bond cycles.
+
+BACKGROUND AND PURPOSE                     KEY FINDINGS
+On May 16, 2017, Multnomah County           While a consistent process was employed, a formal, documented methodology
+voters approved a $790 million School        to guide the development of the 2017 Bond budget at $790 million did not exist;
+Building Improvement Bond (2017              however, independent professional cost estimates supported $403.5 million of
+Bond) to fund renovations at Benson          the $580 million in school project hard costs and $45 million of the $150 million
+and Madison High Schools, rebuilds at        for health and safety projects.
+Lincoln High School and Kellogg
+Middle School, and a variety of health      Total cost estimates for the school projects initially prepared by Office of
+and safety projects at schools within        School Modernization (OSM) operational staff generally aligned with market
+the PPS District. Specifically, the 2017     factors, although OSM executive leadership at that time subsequently adjusted
+Bond funds were allocated as follows:        cost factors to a lower range when compared to market conditions and with
+ $580 million in school projects;           similar bonds passed at other school districts in Oregon, Washington, and
+ $150 million of health and safety          California. In total, former OSM executive leadership reduced initial total project
+   projects; and                             cost estimates proposed by OSM operational staff by nearly $100 million
+ $60 million for program                    without a documented methodology, rationale, or explanation.
+   management and contingencies.            Similarly, assumptions used by OSM executive leadership in 2017 to arrive at
+In October 2018, PPS hired Sjoberg           the $60 million budget for program-level costs were generally low when
+Evashenk Consulting to conduct               compared with the 2012 PPS Bond and other school districts reviewed.
+performance audits of the 2012 and          Pre-bond cost estimate information provided to the Board aligned with other
+2017 Bond projects. As requested by          districts; however, additional information could have increased clarity for
+the PPS Board, this first audit scope        decision-makers and transparency to the public.
+focused solely on the development of
+cost estimates supporting the $790          PPS is working on containing costs in light of rising project cost estimates. With
+million bond budget figure.                  only $50.8 million in expenses incurred through December 2018, Bond
+                                             partners will need to exercise continued vigilance to ensure the program stays
+                                             within current budgetary constraints.
+
+CONCLUSIONS
+Current OSM executive leadership and operational staff asserted that significant changes to cost estimation practices have
+been made since the 2017 Bond passed and issues identified in this audit report have already been addressed.
+Since the scope of this audit was limited to assessing the development of cost estimates for the $790 million Bond in 2017,
+we will verify whether OSM current efforts and practices have addressed issues and recommendations noted from this audit
+as part of future bond performance audit cycles.
+
+
+
+
+SJOBERGEVASHENK                                                                                                     Page |1
+Introduction and Background
+
+With the age of Portland schools averaging 77 years old, a citizens committee recommended that Portland
+Public Schools (PPS) engage in a series of school construction bonds to upgrade all PPS schools over a
+30-year period to remedy building deficiencies and modernization of learning environments—thus, bringing
+schools up to current building code and educational standards. 1
+
+Bond Development
+In 2012, Portland voters passed a $482 million bond to pay for the first phase of its school construction
+efforts through a levy against assessed property values. Schools improved in the 2012 Bond included
+Grant, Franklin, and Roosevelt High Schools and Faubion Middle School in addition to a series of building
+improvements at other district schools. This was the first construction bond passed by voters since 1995.
+
+Subsequently, facilities testing revealed growing issues at district schools related to lead, roofing, and fire
+safety systems. Thus, in 2016, PPS began efforts to propose a 2017 Bond measure to fund another series
+of health and safety projects in addition to modernization of three high schools and one middle school. PPS
+enlisted external bond consultants and a Bond Stakeholder Advisory Group to poll likely voters about
+passing a proposed bond and determining preference on scenarios for spending bond proceeds. 2 Further,
+PPS Office of School Modernization (OSM) executive leadership and staff developed cost estimates for the
+various proposed bond options, with the assistance of professional cost estimators, to present to the PPS
+Board of Education (Board) for approval as shown in Exhibit 1.
+
+                                      EXHIBIT 1. 2017 BOND DEVELOPMENT TIMELINE
+
+
+    January 24, 2017                February 13, 2017                 February 28, 2017                     May 16, 2017
+   Four Bond Options               Bond Survey Results             Board Passed Resolution                 Voters Passed
+   Proposed with Cost            Presented with Preferred          to put $790 Million Bond               $790 Million Bond
+       Estimates                         Option                            on Ballot
+
+
+
+                 Sources: Board meeting materials from January 24, 2017; February 13, 2017; and February 28, 2017;
+                                         and 2017 Multnomah County Election Pamphlet.
+
+
+2017 Bond Provisions
+On May 16, 2017, Multnomah County voters approved Measure 26-193, the largest Bond in state history at
+$790 million, backed by a levy rate of $0.68 per $1,000 of assessed property tax value over 30 years. 3 The
+
+1 According to the Proposed Health, Safety and Modernization Bond Frequently Asked Questions published on the PPS website,
+
+some schools were built more than 100 years ago and more than half were built before 1940. Before the prior 2012 Bond, only
+two schools had been built in the last 35 years.
+2 The Bond Stakeholder Advisory Group was formed to provide feedback to the Board in preparation for the 2017 Bond and
+
+consisted of individuals from the local community.
+3 The levy rate was estimated at $1.40 per $1,000 for the first four years, declining thereafter.
+
+
+
+
+SJOBERGEVASHENK                                                                                                      Page |2
+measure funded $580 million in renovations at Benson and Madison High Schools and full rebuilds of
+Lincoln High School and Kellogg Middle School, as well as $150 million for a series of health and safety
+projects improvements at other schools in the PPS District. Approximately one-third of the budgets for each
+high school and middle school project also included funds to address health and safety issues at those
+specific schools as well. Funding was also set aside to provide master planning for future capital upgrades
+and improvements of Cleveland, Jefferson, and Wilson High Schools as part of $60 million in program
+contingency and program management as shown in Exhibit 2.
+
+                                EXHIBIT 2. 2017 KEY COMPONENTS OF $790 MILLION BOND
+                                                        $790 Million Bond
+
+             $580 million                                $150 million                                 $60 million
+         School Capital Projects                   Health & Safety Projects                     Program Management &
+                                                                                                 Program Contingency
+         Rebuilding or Modernizing:        ADA                    Radon                          Included items such as:
+              (1) Benson HS                Asbestos               Roofs                   PPS Personnel Costs
+               (2) Kellogg MS              Fire Safety            Security Systems
+                                                                                            Fees for Program and Construction
+                                           Lead-based Paint       Water Quality
+               (3) Lincoln HS                                                                Management Consultant and Architects
+               (4) Madison HS                                                               Master Planning for Future Schools
+
+
+
+ Source: January 24, 2017 Board of Education Handout, 2017 Multnomah County Election Pamphlet, and Bond Program Budget Overview.
+
+
+School Capital Project Cost Components
+Given the complexities of capital improvement projects, there are multiple cost components associated with
+the planning and construction of school buildings. Projects will have costs associated with design and
+construction activities as well as contingencies for unforeseen needs that may occur during a project. At
+PPS, costs for the design and construction of school capital projects were captured in six primary
+categories as shown in Exhibit 3.
+
+                                      EXHIBIT 3. TOTAL PROJECT COST COMPONENTS
+
+                                               Furniture, Fixtures,        Swing Site
+                                                Equipment Costs           Contingency
+
+                                                                                          Cost
+                                      Soft Costs
+                                                                                        Escalation
+
+
+
+
+                                                                 Total
+                                                                                              Project
+                                Hard Costs                      Project                     Contingency
+                                                                 Cost
+
+
+
+                     Source: Auditor-generated based on internal PPS Budget Development Worksheets and Data.
+
+
+
+
+SJOBERGEVASHENK                                                                                                          Page |3
+Project hard costs include the actual physical construction on the school site such as contractor labor, site
+equipment, materials needed, and utilities costs, while project soft costs typically include design costs
+related to architecture and engineering services as well as other costs such as permits, fees, and
+inspection services. Additional project costs are added for interior school furniture, fixtures, and equipment
+(FF&E) such as desks, filing cabinets, technical equipment, and trade fixtures as well as possible swing site
+contingencies to capture costs associated with setting up a temporary school environment, if needed, while
+renovations are implemented. Another standard component of a project cost is the addition of an escalation
+factor—both a percentage for expected increases to the cost of construction as time passes as well as the
+number of years that escalation growth would be applied. Finally, typical project costs also establish a
+project contingency factor percentage or dollar amount for unforeseen conditions that surface as design
+and construction services are delivered. Combined, these costs represent the total cost to deliver a project.
+During master planning and design phases, project cost components and estimates are regularly refined
+and adjusted with updated data on changing market conditions, design drawings, and site conditions.
+
+School Capital Project Delivery Phases
+Planning and implementing a capital construction project is a complex endeavor with several different
+phases and many different players involved at each phase. Exhibit 4 illustrates the primary phases of a
+capital improvement project including master planning, design, construction, and close-out.
+
+                                        EXHIBIT 4. KEY PROJECT DELIVERY PHASES
+
+
+
+
+                                                                                                     Close-Out
+                                                                                                    Owner Move-In
+                                                                        Construction
+                                                                       "Building" the
+                                                  Design                 Project
+                                           Schematic Design           Project Closeout
+                Master Planning            Design Documents
+                "Visioning" the           Construction
+                 Project                    Documents
+                Initial Cost              Cost Estimates at
+                 Estimates                  each Design Stage
+
+            Source: Auditor-generated based on interviews, process walk-throughs, observations, and documentary review.
+
+
+Health and Safety Projects
+Prior to the bond passage in May 2017, PPS testing showed 99 percent of schools had at least one water
+fixture with lead above acceptable federal levels, roofs were beyond their useful life and leaking, and fire
+safety systems were insufficient or did not include sprinkler systems. Technical staff in PPS’ Facilities and
+Asset Management (FAM) worked in collaboration with external experts to assess school health and safety
+needs and estimated cost of mitigation could total approximately $1.6 billion.
+
+
+SJOBERGEVASHENK                                                                                                          Page |4
+To address these needs and mitigate deficiencies, PPS believed it was more cost effective to address
+health and safety needs as part of full school rebuilds or modernizations following timelines established in
+its 2012 Long Range Facilities Plan. Thus, for the 2017 Bond, $174 million in health and safety
+improvements were included as part of the $580 million capital project cost estimates for Benson High
+School, Lincoln High School, Madison High School, and Kellogg Middle School. 4
+
+Additionally, PPS believed they had capacity to mitigate additional health and safety deficiencies at other
+schools within the PPS District. At the same time, however, there was a practical limit to how much
+construction work could be accomplished during the bond investment cycle due to the availability of skilled
+construction workers and the limited timeframe available to complete work while students are out of
+school—a period of approximately 60 days over school summer break. As part of the 2017 Bond, another
+$150 million was set aside to resolve health and safety concerns at schools across the district.
+
+Bond Partners
+As the largest school district in Oregon and one of the largest in the Pacific Northwest with more than
+49,000 students and approximately 80 schools, PPS administers capital improvement projects and
+maintains school buildings. Within PPS, OSM is primarily responsible for the administration, management,
+and implementation of the 2012 and 2017 Bonds. To assist in these responsibilities, there are a number of
+internal and external Bond Partners involved as well as oversight provided by a citizen’s Bond
+Accountability Committee (BAC) and the Board as shown in Exhibit 5. However, while the BAC and Board
+have responsibility as part of overall bond delivery and oversight, they were not involved with the
+development of project and bond cost estimates.
+
+
+
+
+4 The $174 million set aside for health and safety improvements at the four schools—Lincoln, Madison, Benson, and Kellogg—
+
+were incorporated into total project cost estimates for those schools totaling $580 million.
+
+
+SJOBERGEVASHENK                                                                                                Page |5
+                                                  EXHIBIT 5. KEY BOND PARTNERS
+
+
+            BOND ACCOUNTABILITY COMMITTEE
+                                                                             BOARD OF EDUCATION
+        Citizen's Oversight Body that advises the
+                                                                  Oversight and decision-making body tasked
+      Board and Office of School Modernization staff
+                                                                   with ensuring Bond mandates are fulfilled.
+                   on all Bond matters.
+
+
+
+
+                                                                          PPS EXECUTIVE LEADERSHIP
+                                                                   Superintendent and Deputy Superintendent
+                                                                    oversee and guide OSM staff on all Bond
+                                                                                   matters.
+
+
+
+
+                                            OFFICE OF SCHOOL MODERNIIZATION
+                                                                                               FACILITIES & ASSET MANAGEMENT (FAM)
+                                                 EXECUTIVE LEADERSHIP
+                                                                                              Responsible for maintaining school facilities
+                                       OSM executive leadership with responsibility
+                                                                                                    after construction is complete.
+                                      for bond development and delivery of projects.
+
+
+
+
+                                               OSM OPERATIONAL STAFF
+                                      Senior OSM leadership and project managers
+                                       responsible for delivering the projects on a
+                                                       daily basis.
+
+
+
+
+                                                 EXTERNAL CONSULTANTS
+                                        Cost Estimators, architects, construction
+                                       managers, and contractors responsible for
+                                      designing and constructing projects as well as
+                                        estimating cost and providing site specific
+                                                     management.
+
+
+
+
+          Source: Auditor-generated based on interviews, process walk-throughs, observations, and documentary review.
+                            Note: Exhibit reflects structure at the time the 2017 Bond was developed.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                        Page |6
+Scope and Methodology
+
+PPS hired Sjoberg Evashenk Consulting in October 2018 to conduct annual performance audits of the
+2012 and 2017 School Improvement Bonds over a four-year period. To establish the initial annual work
+plan and audit objectives, Sjoberg Evashenk Consulting interviewed PPS executive leadership and
+operational staff, and stakeholders; gathered and reviewed initial documents; and performed a high-level
+risk assessment.
+
+For 2018, the performance audit will focus on the period between April 1, 2017 and March 31, 2019 and on
+several objectives such as reviewing cost estimates, determining the delivery status of all projects and
+programs, assessing strengths and weaknesses of PPS program oversight, testing specific project
+management practices and challenges, and comparing results to Bond delivery goals, construction industry
+leading practices, and other school districts, where practical and data available.5
+
+Results will be reported in two separate audit reports in 2019. The first performance audit report will have a
+primary objective on attempting to identify the basis for setting the 2017 Bond budget at $790 million as
+requested by the PPS Board.6 To meet that objective, SEC performed a variety of audit tasks including the
+following.
+        Conducted in-depth interviews with key personnel including, but not limited to current
+         Superintendent and Deputy Superintendent business and operations, current Chief Operating
+         Officer, current Senior Director Office of School Modernization, current Senior Director
+         Environmental Health and Safety, school projects senior and assistant project managers,
+         construction managers, Senior Bond Financial Analyst, PPS staff responsible for procurement,
+         public records, information technology, human resources, facilities and asset management, and
+         key consultants including architects and professional cost estimators to understand and assess
+         methodologies, activities, worksheets, tools, context, and models employed to develop the
+         2017 Bond estimates.
+        Analyzed and assessed documents including, but not limited to, cost estimate worksheets and
+         PowerPoint presentations, long range facilities plan, professional cost estimations, architect due
+         diligence reports, Primavera schedules, budget data maintained in PPS’ e-Builder system, and
+         high-level internal budget development documents, in addition to Board agendas, meeting minutes,
+         videos, and meeting materials between September 6, 2016 and February 5, 2019.
+        Compared PPS Office of School Modernization (OSM) cost estimation practices, assumptions, and
+         amounts regarding project costs, contingencies, escalation, and program management to industry
+         standards where available and other school districts in Oregon, Washington, and California.
+
+
+
+
+5 Industry best practices were drawn from a variety of sources including the Construction Management Association of America
+
+(CMAA) Construction Management Standards of Practice, Project Management Body of Knowledge (PMBOK) Construction
+Extension, and Sjoberg Evashenk Capital Construction Program Audit Library.
+6 The second performance audit report will be issued later in 2019.
+
+
+
+
+SJOBERGEVASHENK                                                                                                 Page |7
+       Analyzed master planning documents, due diligence reports, professional cost estimates,
+        schematic designs, design development documents, and construction documents related to
+        Lincoln, Madison, and Benson High Schools as well as Kellogg Middle School.
+       Worked with PPS Information Technology to run queries of employee-specific computer drives and
+        Google drives. Analyzed results of key word search parameters related to the bond, cost
+        estimates, contingencies, budget development and models, project costs, cost estimators, and
+        architects for specific schools from files of past and present employees involved with 2017 Bond
+        estimates.
+       Reviewed results from email search queries performed as part of a two-year public records request
+        containing more than 6,000 pages as well as a 78-page bond fact finding email search.
+       Researched all PPS Board agendas, meeting materials, minutes, and audio between
+        September 6, 2016 and February 5, 2019 as well as the Bond Accountability Committee meeting
+        minutes and progress reports between October 19, 2016 and January 19, 2019.
+       Reviewed publicly available meeting agendas, materials, videos, and meeting minutes to
+        understand and compare other school districts’ information presented to their respective Boards
+        prior to passage of similar bonds for the following school districts:
+            o Beaverton, OR School District
+            o North Clackamas, OR School District
+            o Eugene, OR School District
+            o Salem-Kaiser, OR School District
+            o Vancouver, WA Public School District
+            o San Francisco, CA Unified School District
+            o Santa Clara, CA Unified School District
+       Compared assumptions made by OSM executive leadership and operational staff prior to passage
+        of the Bond regarding soft costs, project and program contingency, escalation, and program
+        management costs to assumptions utilized by the following school districts during the development
+        of similar bond measures:
+             o Beaverton, OR School District
+             o North Clackamas, OR School District
+             o Salem-Kaiser, OR School District
+             o Santa Clara, CA Unified School District
+       Compared PPS’ construction cost escalation against actual changes in construction costs. Actual
+        construction cost were captured using the construction cost index for Portland produced quarterly
+        by Rider Levett Bucknall.
+
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+
+
+SJOBERGEVASHENK                                                                                Page |8
+Section 1: $790 Million Bond was Partially Supported by
+Independent Professional Estimates
+
+In the public sector, where funding amounts are often set by voter-approved measures, owners must
+exercise prudence and diligence in estimating capital project costs and programming limited financial
+resources. Without this framework in place, a program is at risk of financial instability and loss of public
+trust to support similar initiatives in the future. For the $790 million 2017 Bond, we analyzed underlying cost
+estimates for each of the three major components as follows:
+     1. School Capital Projects—$580 million
+     2. Health and Safety Projects—$150 million
+     3. Program Management and Contingency—$60 million
+
+Processes employed by OSM during the early stages of the 2017 Bond development phase were
+consistent with leading project cost estimation practices—as evidenced by both the use of a professional
+cost estimator to calculate project hard costs and external architects to develop school-specific master
+planning documents. However, when OSM began adding other required cost factors to the professional
+hard cost estimates to calculate total project costs, practices employed became less formal and eventually
+were no longer trackable to a replicable methodology.
+
+Nonetheless, while no comprehensive documented methodology for estimating costs for the three Bond
+components was in place, the hard cost portion of the $580 million estimate for the school capital projects
+was supported by underlying independent professional estimates. 7 However, other cost factors were
+added to hard costs to arrive at total project costs as follows:
+          Total Project Cost =          Hard Cost (from professional estimator)
+                                        + Soft Cost (percent of hard cost)
+                                        + FF&E (project specific)
+                                        + Contingency (percent of all of the above)
+                                        + Swing/Temporary Space (project specific)
+                                        + Escalation (based on market condition and construction schedule)
+
+Figures for these cost components, first proposed by OSM operational staff, aligned with market factors at
+that time. However, OSM executive leadership subsequently reduced the total capital school project cost
+estimates by $100 million without adequate justification or explanation of its rationale. 8 Further, the
+underlying assumptions used as part of the reduced project escalation and soft costs were inconsistent with
+market conditions at the time, industry leading practices, and similar bonds passed at other school districts.
+
+
+
+7 Capital project construction hard costs include estimates of expenses such as new construction or renovation, building and site-
+
+work, contractor bond and insurance, general conditions, geotechnical conditions, and other construction-related costs.
+8 Auditors attempted to locate documentation through reviews of internal budget worksheets and emails, 6,000 pages of
+
+documents discovered from a public records email request, key-word search results from employee personal computer drives
+and Google drives, and high-level searches of PPS internal shared drives.
+
+
+SJOBERGEVASHENK                                                                                                     Page |9
+Similarly, we found estimates for the $150 million of health and safety costs seem to be based on
+underlying independent professional estimates as well—although cost estimate reports to substantiate the
+specific details were not available for all health and safety categories. For the third and final component of
+the 2017 Bond related to program-level management and contingency estimates, no industry thresholds or
+best practices exist to validate the $60 million estimate; however, OSM executive leadership used
+assumptions and percentages that were low when compared to other districts reviewed and PPS’ own
+historic performance.
+
+Although OSM operational staff and the program management consultant raised concerns with the cost
+factors used by OSM executive leadership during the development of the bond budget, we were unable to
+locate any documentation on how or whether those concerns were considered when OSM executive
+leadership presented bond options to the Board for approval in January 2017.
+
+Nearly 70 Percent of School Capital Project Costs were Supported by Underlying
+Independent Professional Estimates
+In contrast to best practices guidelines, a formal documented or consistent cost estimating methodology
+was not in place during the early bond budget development phase that included consideration of consistent
+cost components, data sources for underlying assumptions, roles and responsibilities of internal and
+external experts, processes to ensure consistency in cost considerations across schools or experts
+involved, due diligence vetting and approval practices, and retention of underlying documents. 9
+
+However, by early January 2017, initial costs for the school projects’ master planning phase were finalized
+and presented to the Board with more than 73 percent of the $790 million earmarked for four school capital
+project improvements, as shown in Exhibit 6. Part of these costs were developed by PPS-hired architects
+and a professional cost estimator based on initial assessments of school buildings and site conditions, and
+were combined with OSM estimates for soft costs, FF&E, escalation and contingencies to arrive at total
+school project costs.
+
+                           EXHIBIT 6. SCHOOL PROJECTS IN COMPARISON TO $790 MILLION BOND
+
+                         Management,
+                        Contingency: $60
+                          Million (8%)
+                                                                                                  Lincoln: $187 Million
+
+                                                          4 Schools:
+                                                       $580 Million (73%)                         Madison: $146 Million
+
+                Health & Safety: $150
+                    Million (19%)                                                                 Benson: $202 Million
+
+                                                                                                  Kellogg: $45 Million
+
+
+
+  Source: January 24, 2017 Board of Education Handout, 2017 Multnomah County Election Pamphlet, and Bond Program Budget Overview.
+
+
+9 The Construction Management Association of America (CMAA) emphasizes the importance of having a compatible and
+
+consistent cost estimate format to facilitate and communicate cost comparisons.
+
+
+SJOBERGEVASHENK                                                                                                          P a g e | 10
+Total project costs were categorized into six primary components including hard costs, soft costs, FF&E,
+swing, escalation, and contingency. For the hard costs component, the professional cost estimator used
+preliminary architectural drawings prepared by each school’s architect during the master planning phase to
+estimate costs. Aligning with industry practices, the basis of the estimates included a series of assumptions
+including, but not limited to, gross floor area, site-work, and margins and adjustments for items such as
+general conditions, overhead and profit, design contingency, or bonds and insurance.
+
+Based on underlying documents, these independent professional cost estimates for project construction
+hard costs totaled approximately $403.5 million in January 2017 as shown in Exhibit 7—supporting nearly
+70 percent of the $580 million in total school project costs or 51 percent of the total $790 million 2017 Bond.
+
+               EXHIBIT 7. PROFESSIONAL PROJECT CONSTRUCTION HARD COST ESTIMATES AS OF JANUARY 2017
+
+
+     Benson                         Kellogg                       Lincoln                        Madison
+                                                                                                                                $403.5
+     $128.2                          $45.7                        $124.7                         $104.9
+                                                                                                                                Million
+     Million                        Million                       Million                        Million
+
+
+  Source: 2017 Bond Master Planning Final Concept Options reports prepared by PPS cost estimation consultant for the four schools shown.
+Note: Costs were estimated by the PPS cost estimation consultant using rates current as of January 2017. Lincoln Hard Cost shown is for the
+horizontal option with site option B per the 2017 Bond Master Planning Cost Estimate prepared by PPS’ Bond Cost Estimator.
+
+For the remaining cost components related to areas such as soft costs, escalation, and contingency, OSM
+operational staff calculated estimates totaling $271 million using internal percentages and factors applied
+against project construction hard costs. This practice and the initial internal percentages used by OSM
+operational staff generally aligned with industry market conditions at that time.
+
+OSM Executive Leadership Lowered School Capital Project Estimates by
+Approximately $100 Million, but No Explanation or Rationale Existed to Support
+Reduction
+While it is not unusual for project owners like PPS to modify early independent professional cost estimates
+as they are most familiar with project-specific nuances, a documented explanation or rationale for
+adjustments to professional and OSM internal estimates would better ensure the integrity of estimates and
+enhance accountability.
+
+As previously discussed, after OSM executive leadership received professional construction hard cost
+estimates for the four school projects in mid-January 2017 totaling $403.5 million, OSM operational staff
+ran various models adding amounts for soft costs, escalation, contingency, and FF&E to calculate total
+project estimates. One model from January 19, 2017 used cost assumptions that aligned with market
+conditions, historical performance, and leading practices that resulted in a $678 million total project cost
+estimate for the four schools as shown in Exhibit 8. 10 Subsequently, OSM executive leadership lowered the
+
+10 Public records requests data contained cost model versions 22, 23, and 24 that were generated between January 19, 2017
+
+and January 23, 2017. Auditors used the January 19, 2017, version 22 as basis for comparison to data presented to the Board
+on January 24, 2017.
+
+
+SJOBERGEVASHENK                                                                                                             P a g e | 11
+total school project cost amount by $100 million for a new total of $580 million—which was provided to the
+Board on January 24, 2017 and later approved by voters in May 2017.
+
+        EXHIBIT 8. SUMMARY COST ESTIMATE DEVELOPMENT FOR THE FOUR SCHOOL PROJECTS, JANUARY 2017
+                                                         Internal OSM
+                                                          Documents
+                                          $800                                                 Presented
+
+
+                               Millions
+                                                                                                to Board
+                                                              $678
+                                          $700
+                                                                                                 $580
+                                          $600
+
+
+
+
+                                                              $271
+
+
+
+
+                                                                                                   $206
+                                          $500                               $65 Million 
+
+                                          $400
+
+                                          $300
+                                                              $407
+                                                                           $33 Million 
+
+
+
+
+                                                                                                   $374
+                                          $200
+
+                                          $100
+
+                                           $-
+                                                       January 19, 2017                  January 24, 2017 Board
+
+                                                 Hard Costs             Soft & Other Costs          Total Costs
+
+    Source: 2017 Bond Master Planning Final Concept Options reports prepared by PPS cost estimation consultant. OSM Bond Budget
+  Development Worksheets, Version 22, January 19, 2017. Board Working Session Meeting Packet, January 24, 2017. Estimates based on
+                                         Option #1 approved by the Board in February 2017.
+
+While it does not appear that project scope was also cut when cost projections were lowered based on our
+high-level review, it was difficult to determine with certainty since there were no underlying architect due
+diligence reports with validated costs supporting the $100 million reduction. As such, the underlying reason
+for the reduction in costs cannot be substantiated due to a lack of documentation or reliable supporting
+data. With an unsubstantiated approximate $100 million reduction—comprised of $33 million lowered from
+independent professional project construction hard cost estimates and $65 million lowered from internal
+project soft and other cost estimates—PPS was challenged from the beginning to deliver the projects within
+the approved budgets for the 2017 Bond.
+
+At the individual school level, that $100 million reduction during the Bond budget development phase
+resulted in decreases in individual estimates ranging from approximately $23 million to $29 million lower
+than initial pre-bond budget estimates as shown in Exhibit 9.
+
+
+
+
+SJOBERGEVASHENK                                                                                                      P a g e | 12
+                                     EXHIBIT 9. PROJECT COST ESTIMATES BY INDIVIDUAL SCHOOL, JANUARY 2017
+
+  Benson                          Internal OSM                                                 Kellogg
+                                   Documents                          Presented to
+                                                                         Board                                                Internal OSM
+              $270                                                                                        $90                  Documents
+   Millions
+
+
+
+
+                                                                                               Millions
+                                     $231
+              $240
+                                                                          $202                                                   $68                             Presented to
+              $210                    $102                                                                                                                          Board
+
+              $180                                                                                        $60
+
+
+
+
+                                                                                                                                  $22
+                                                                            $80
+              $150                                                                                                                                                     $45
+
+              $120
+
+
+
+
+                                                                                                                                                                        $13
+              $90                                                                                         $30
+                                      $128
+
+
+
+
+                                                                                                                                  $46
+                                                                            $122
+              $60
+
+
+
+
+                                                                                                                                                                        $32
+              $30
+               $-                                                                                          $-
+                              January 19, 2017                    January 24, 2017 Board                                  January 19, 2017                    January 24, 2017 Board
+
+                     Hard Costs              Soft & Other Costs           Total Project Cost                     Hard Costs              Soft & Other Costs           Total Project Cost
+
+
+
+                                                                                                                              Internal OSM
+  Lincoln                         Internal OSM                                                 Madison                         Documents
+                                   Documents                             Presented                                                                                  Presented
+                                                                          to Board                                                                                   to Board
+              $240                                                                                        $180                   $171
+  Millions
+
+
+
+
+                                                                                               Millions
+
+
+
+
+                                     $210
+              $210                                                                                                                                                    $146
+                                                                          $187                            $150                    $65
+              $180
+                                      $83
+
+
+
+
+                                                                                                                                                                        $51
+                                                                            $62
+
+
+
+
+                                                                                                          $120
+              $150
+
+              $120                                                                                        $90
+
+              $90
+                                                                                                          $60
+                                                                                                                                  $106
+                                      $127
+
+
+
+
+                                                                            $125
+
+
+
+
+                                                                                                                                                                        $95
+              $60
+                                                                                                          $30
+              $30
+
+               $-                                                                                          $-
+                              January 19, 2017                    January 24, 2017 Board                                  January 19, 2017                    January 24, 2017 Board
+                     Hard Costs              Soft & Other Costs           Total Project Cost                     Hard Costs              Soft & Other Costs           Total Project Cost
+
+
+
+Source: 2017 Bond Master Planning Final Concept Options reports prepared by PPS cost estimation consultant for the four schools shown.
+OSM Bond Budget Development Worksheets, January 19, 2017. Board Working Session, January 24, 2017.
+Note: Soft & other costs included soft costs, furniture, fixtures, and equipment, project contingency, and escalation. Lincoln Hard Cost shown is
+the Full Replacement Option per the Lincoln 2017 Bond Master Planning Final Concept Options report.
+
+While adjustments to professional estimates may be warranted to account for factors such as expected
+volatility in the construction market, historical data from similar bonds, or professional judgment by OSM
+leadership and operational staff or other industry experts, best practices strongly recommend that those
+considerations be formalized and supported by an underlying methodology that documents the decision-
+
+
+
+
+SJOBERGEVASHENK                                                                                                                                                              P a g e | 13
+making process including any vetting of factors to and validity of assumptions used. 11 However, this
+framework did not appear to be in place when cost estimates for the 2017 Bond were developed. Rather,
+the audit found limited availability of documentary evidence surrounding key budget and cost estimation
+decisions, which further complicated any reconciliation of internal OSM budget working documents with
+information presented to the Board for approval.
+
+When these cost reductions are combined with cost assumptions on the lower-end of the market spectrum
+as discussed in the next section, there is added strain and risk on the budget being sufficient to meet the
+2017 Bond promises. This risk is further compounded if project designs or scopes are not similarly adjusted
+to reflect the budget reductions.
+
+Other School Capital Project Cost Factors Were Low when Compared to the Market
+While project construction hard costs typically comprise the majority of a project’s total costs, there are five
+key cost components related to (1) escalation, (2) soft costs, (3) contingency, (4) FF&E, and (5) swing site
+contingency, if applicable. Our review found that some of the factors OSM executive leadership used in the
+cost estimates presented to the Board for approval of the 2017 Bond were not aligned with market
+conditions at that time.12
+
+Escalation Assumptions were Inconsistent with Market Conditions at that Time and Historical
+Performance
+When looking at historical rolling one-year escalation factor averages for the Portland region prior to the
+passage of the 2017 Bond, escalation was higher than OSM internal bond budget development
+worksheets. Specifically, while the one-year rolling average ranged between 4.4 percent and 6 percent
+between January 2015 and January 2017, OSM executive leadership used an escalation factor at the
+lower-end of the market at 4 percent.
+
+This nuance alone can possibly translate into a $21.2 million variance based on total project costs of
+$580 million.13 In fact, actual escalation since the passage of the 2017 Bond has been higher than 4
+percent, ranging from 4.7 percent to 6.6 percent as shown in Exhibit 10.
+
+
+
+
+11 The Construction Management Association of America (CMAA) Construction Management Standards of Practice, 2015.
+
+12 Market condition factors and data are captured nationally by geographic region and by select metropolitan areas, as well are
+
+widely-reported by industry experts and available for public owner use.
+13 The hypothetical $21.2 million represents the difference between annual escalation rates of 4 percent and 6 percent assuming
+
+a two-year construction period: $580 million minus $76.1 million escalation over 2 years at 4 percent and 6 percent. Difference is
+$21.2 Million.
+
+
+SJOBERGEVASHENK                                                                                                    P a g e | 14
+                EXHIBIT 10. ESCALATION MARKET CONDITIONS VS. OSM ASSUMPTIONS, JANUARY 2017
+         7.0%
+                                     Market One-Year Rolling Average                                              6.5%
+
+                6.0%                 OSM Escalation
+                                                                                                                         6.6%
+         6.0%                                                                                       5.7%
+                                                                                                           6.3%
+                              5.2%                                                    5.3%
+                                                                                             5.8%
+                       5.6%                               4.8%          4.9%
+         5.0%                               4.6%
+
+
+                                     4.6%          4.7%                        4.7%                         OSM Escalation, 4.0%
+         4.0%                                                    4.4%
+
+
+
+         3.0%
+                                                      Bond Budget
+                                                   Development Phase
+
+         2.0%
+                 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+                2015 2015 2015 2015 2016 2016 2016 2016 2017 2017 2017 2017 2018 2018 2018 2018 2019
+
+       Source: Auditor-generated based on North America Quarterly Construction Cost Reports prepared by Rider Levett Bucknall,
+                                                 Quarter 1, 2015 to Quarter 4, 2018.
+
+While the escalation factor used by OSM executive leadership was lower than actual construction cost
+increases at that time, other school districts used similar escalation factors in their bond programs that
+resulted in unfavorable budget issues. For instance, the Beaverton School District used a cost escalation
+factor of just 3 percent in its 2014 bond, while the North Clackamas School District assumed 4 percent
+when planning its 2016 bond package. Not only did both Beaverton and North Clackamas School Districts’
+escalation factors not align with the market, but actual construction cost increases remained well above
+these estimates. In fact, this resulted in a gap between actual and expected escalation in the Beaverton
+School District that is expected to grow to an 8.5 percent gap by 2021.
+
+Moreover, another important escalation aspect for multi-year construction programs relates to the number
+of years for which escalation is calculated that should track with expected construction duration. For
+example, if construction is anticipated to take six years, then escalation should be extended over the same
+six-year period or the project could face an immediate and heightened risk of budget challenges.
+
+For its initial internal 2017 Bond estimates, OSM operational staff correctly considered the four to six-year
+construction schedules based on underlying project scheduling documents as shown in Exhibit 11.
+However, the final estimate reduced that timeframe to two to four years. While reducing the number of
+years in calculating escalation also reduced total project cost estimates, this increased overall risks to the
+program in terms of cost overruns or gaps in funding by not aligning this calculation with reasonable
+construction schedules.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                   P a g e | 15
+                        EXHIBIT 11. REDUCTION IN THE NUMBER OF YEARS FOR ESCALATION CALCULATION
+
+
+
+
+                Years
+                         7
+                                                                                  6
+                         6
+                                      5
+                         5
+                                                            4                                          4
+                         4
+                                                                                  4
+                         3           3.5                                                               3.5
+                         2
+                                                            2
+                         1
+
+                         0
+                                   Benson                Kellogg               Lincoln              Madison
+
+                                              January 19, 2017 OSM Operational Staff Estimate
+                                              January 23, 2017 OSM Executive Leadership Estimate
+
+                        Source: OSM Bond Budget Development Worksheets: January 19, 2017, January 23, 2017, 4pm;
+                                       OSM Internal Project Execution Schedule, December 6, 2017.
+
+In part, the cumulative effect of setting an escalation factor lower than market and shortening the number of
+years for escalation calculation purposes contributed towards the forecast issues experienced shortly after
+the 2017 Bond passed.
+
+Soft Cost Assumptions did Not Align with Historic Performance
+OSM executive leadership set additional project-level soft cost assumptions that were also lower than
+industry values and further exacerbated the budget challenges PPS faced after voters approved the
+2017 Bond. For instance, OSM operational staff initially estimated soft costs at 15 percent of the
+construction hard costs for each of the four schools. However, as shown in Exhibit 12, those soft costs
+were reduced to 13 percent by OSM executive leadership without explanation when sent to the Board for
+approval—a factor that was significantly lower than comparables or historical PPS data from the 2012 Bond
+and internal 2014 High School Estimation Methodology considerations where soft costs were set at around
+20 percent. 14
+
+Likewise, the North Clackamas School District with a similar capital construction bond combined soft cost
+estimates with FF&E estimates to arrive at a combined rate of 35 percent for these hard costs. 15 Although
+the North Clackamas School District’s 35 percent figure included both soft costs and FF&E as one factor, it
+was still higher than the factor used by PPS if we combined soft costs with FF&E. Specifically, PPS’
+combined rate averaged 20.5 percent and ranged from 17 percent to 28 percent for individual schools as
+shown in Exhibit 12.
+
+
+
+
+14 Memo from former OSM Executive Director detailing High School Estimation Methodology, January 16, 2014.
+
+15 The $433 million North Clackamas School District’s Capital Construction Bond passed in November 2016. The budget was
+
+revised to $466 million in May 2017.
+
+
+SJOBERGEVASHENK                                                                                                   P a g e | 16
+              EXHIBIT 12. COMBINED SOFT COST AND FF&E COST FACTORS USED BY PPS, JANUARY 2017
+                                              Soft Cost                      FF&E           Combined Rate
+                                         Initial      Final        Initial          Final       Final
+                      Benson              15%         13%          14%              15%         28%
+                      Kellogg             15%         13%           4%              6%          19%
+                      Lincoln             15%         13%           4%              4%          17%
+                      Madison             15%         13%           5%              5%          18%
+                  Source: OSM Bond Budget Development Worksheets: January 19, 2017 and January 23, 2017, 4pm.
+
+Contingency Assumptions were more Aligned with Past Performance
+By contrast, OSM operational staff estimates for school project contingency were more in line with industry
+at 10 percent for rebuilding Kellogg Middle School and Lincoln High School and 15 percent for the
+renovations at Benson High School and Madison High School. 16 In fact, these percentages were
+comparable to the 2012 PPS Bond that used a 15 percent contingency for modernizations as well as
+aligned with the Beaverton School District that considered a 10 to 15 percent contingency for new
+construction and up to 20 percent for renovations on its school improvement projects. 17, 18
+
+Project-Level Cost Concerns were Raised, but we Could Not Determine if they were
+Considered by OSM Executive Leadership
+During cost development efforts in the days before bond estimates were presented to the Board on January
+24, 2017, OSM operational staff and external consultants raised concerns about factors considered and
+numbers used—although, we could not find any documentation to determine whether those concerns were
+considered or how final decisions were made. In fact, OSM operational staff stressed the need for a
+documented estimation methodology similar to what had been produced for the 2012 Bond that should be
+understandable and replicable. Additional concerns raised are summarized in Exhibit 13 and mostly related
+to cost factors used being too low.
+
+                 EXHIBIT 13. KEY CONCERNS RAISED BY OSM OPERATIONAL STAFF AND CONSULTANTS
+                        PPS
+                                                                             Concerns Raised
+                    Assumptions
+ Soft Cost            10% - 13%          13% is on the lower-end of the acceptable range of 13-15%
+                    4% - 15% or          $16 per square foot is on the lower-end of the acceptable range of $16-$20 per
+ FF&E (1)
+                   $16 - $47 per sf      square foot
+ Contingency          10% - 15%          Low project contingency
+
+
+
+16 The Construction Management Association of America (CMAA) suggests adding a contingency of 15 to 25 percent to the total
+
+of estimated construction costs.
+17 The $680 million Beaverton School District’s Capital Construction Bond passed in May 2014.
+
+18 PPS 2012 Bond contingency factors were similar to internal 2014 High School Estimation Methodology using a 15 percent
+
+contingency factor.
+
+
+SJOBERGEVASHENK                                                                                                P a g e | 17
+                          PPS
+                                                                               Concerns Raised
+                      Assumptions
+                                              Guaranteed Maximum Price (GMP) contingency excluded from total project cost
+                                              estimate (2)
+                     Only considered          Swing excluded from hard cost estimate
+ Swing
+                       for Lincoln            Swing is underestimated
+                                              Should be between 4-5%
+ Escalation            4% annually            4% is low-end of range
+                                              Should be realistic and tie-in with project schedule
+Source: OSM operational staff and external consultants emails, January 2017.
+Note: (1) FF&E was $16/square foot for Kellogg middle school, Lincoln high school, and Madison high school. For Benson, FF&E was $45 per
+square foot on January 19, 2017 and $47 per square foot on January 23, 2017. (2) The Construction Management Association of America
+defines GMP as “a contractual form of agreement wherein a maximum price is established based upon an agreed scope of work stablished
+with an understanding by the parties that the actual cost of work could be more or less.”
+
+Additional school-specific cost concerns raised by external school project architects included, but were not
+limited to, the exclusion of fireproofing steel or insulation of exterior walls from the hard cost estimate.
+Anecdotally these and other concerns such as missing a third-party reconciliation of the hard cost
+estimates were echoed by the school project architects. Yet, there was no documentation to determine
+whether these concerns were considered as part of the 2017 Bond estimates. Contrary to industry and
+good business practice, these concerns and resulting impacts were not sufficiently documented to
+demonstrate diligence in the 2017 Bond decision-making process or promote greater accountability and
+transparency to the public.
+
+Health and Safety Project Costs Appeared to be Based on Independent Estimates and
+Needs Assessments, although Full Documentation did not Exist to Substantiate
+As part of the 2017 Bond, PPS set-aside $150 million for health and safety projects in eight specialty areas
+at schools throughout the district. These eight areas related to water quality, fire safety, asbestos, lead-
+based paint, roofs, Americans with Disabilities Act (ADA), radon, and security systems.
+
+Cost estimates to fully mitigate issues in these areas were calculated using different methodologies
+depending on the unique health and safety area and were based on information sources including
+professional cost estimators and technical consultant estimates; prior assessments for seismic, ADA, and
+roofing needs conducted in 2009; and FAM’s internal facility database as shown in Exhibit 14. 19 This
+included a 2008 comprehensive assessment by an external consultant that established a baseline report of
+facility conditions noting deficiencies by system (such as electrical, fire protection, and roofing) as well as
+deficiencies by cost category (such as hazardous material, ADA compliance, or deferred maintenance).
+Further, PPS indicated that the professional cost estimator updated prior assessment costs, calculated
+contingencies, and estimated inflation. Although the health and safety projects are much smaller in scale
+than the comprehensive school modernizations projects, adding contingency and escalation factors to total
+project costs aligns with best practices.
+
+
+19 Based on a January 24, 2017 Board Bond Work Session Handout.
+
+
+
+
+SJOBERGEVASHENK                                                                                                           P a g e | 18
+While we were not able to locate or substantiate all of the underlying documentation, there did seem to be a
+conscientious methodology employed to estimate costs with supporting empirical data based on
+independent consultant estimates and formal needs assessments in existence at the time. Specifically
+more than $45 million—or 30 percent—of amounts presented to the Board on January 24, 2017 for water
+quality and lead-based paint projects were fully supported by underlying consultant reports prepared in
+2016. In addition, for the roof projects, some assessments prepared by the roofing consultant in 2008 were
+available, but updated 2016 cost estimates could not be located. Similarly for ADA, while the 2013 ADA
+assessment was available, the 2016 ACC cost estimate was not. For the remaining categories, records
+could not be located to support any of those estimates.
+
+   EXHIBIT 14. SOURCES FOR COST ESTIMATES ASSOCIATED WITH THE $150 MILLION IN HEALTH & SAFETY PROJECTS
+ Project Area                  Estimate                                              Cost Data Source (1)
+ Water Quality                  $28,492,000      CH2M December 2016 Report and Cost Estimate
+                                                 ACC December 2016 Cost Estimate based on 2016 FAM Inventory of Existing
+ Fire Safety                    $25,849,990
+                                                 Conditions
+ Asbestos                       $12,000,000      ACC December 2016 Cost Estimate based on 2016 Risk Management Database
+ Lead-based Paint               $16,623,936      PBS Environmental Report and December 2016 Cost Estimate
+                                                 ACC November 2016 Cost Estimate based on FAM Inventory of Existing Conditions
+ Roofs                          $50,907,949
+                                                 and 2008 Professional Roof Consultants, Inc. Assessments
+                                                 ACC November 2016 Cost Estimate based on 2013 Akrom Moisan Architects’ ADA
+ ADA                            $10,000,000
+                                                 assessment
+                                                 ACC November 2016 Cost Estimate based on 2016 PPS Risk Management
+ Radon                           $1,126,125
+                                                 Database
+                                                 Triad Consulting December 2016 Cost Estimate and ACC November 2016 Cost
+ Security Systems                $5,000,000
+                                                 Estimate
+                 Total        $150,000,000
+Source: January 24, 2017 Board of Education Informational Report on Environmental Health and Safety Facility Improvements.
+Acronyms: ACC = Architectural Cost Consultants (an external firm); FAM = Facilities and Asset Management; PBS = PBS Engineering and
+Environmental (an external firm).
+Note (1): In addition to independent professional estimates for project hard costs, PPS added the following factors: 15 percent for soft costs, 10
+percent for contingency, 15 percent for a construction contingency, 5 percent for escalation, and 5 percent for abatement on fire, roof, ADA,
+and security projects.
+
+Although other school districts in Oregon, Washington, and California had similar bond measures with
+mention of health and safety projects planned, we did not find publicly available data to allow a comparison
+to FAM’s health and safety project cost estimates. 20 Moreover, none of the bond measures for the other
+districts we reviewed had a separate standalone health and safety project component like PPS’ 2017 Bond.
+
+
+
+
+20 Other districts reviewed were Beaverton, Clackamas, Eugene, Salem-Kaiser, Hillsboro, Gresham, and Battleground School
+
+Districts in Oregon as well as Vancouver and Seattle School Districts in Washington and San Francisco School District in
+California.
+
+
+SJOBERGEVASHENK                                                                                                                   P a g e | 19
+Program-Level Cost Estimates Were too Low and did not Align with Other Districts
+Reviewed
+As with any major capital construction program, there are costs that cannot be attributed to a specific
+project and typically relate to the overall delivery of the program. Two key components of those
+overarching, program-wide costs are (1) program contingency and (2) program management.
+
+Similar to contingency at a project-level, the intent behind a program contingency is to set aside or reserve
+amounts for unforeseen events and financially mitigate risks associated with the delivery of large-scale
+capital programs. Since the level of risk varies based on unique complexities of individual capital projects
+as well as an owner’s risk tolerance, there are no set established industry thresholds for setting these
+program contingency amounts. Furthermore, program management generally represents labor costs of
+owner staff and fees for any owner representatives hired to assist with the management and delivery of the
+program, as well as technology costs or office space. Depending on the unique mix of in-house and
+consultant staff and related staffing levels, program management costs can also vary and, thus, there are
+no firmly-established industry thresholds for estimating program management amounts. However, both the
+program contingency amounts and the program management amounts are typically applied as a
+percentage of total capital project costs.
+
+For the 2017 Bond, we could not find any documented methodology used to estimate program costs and
+percentages established may be too low when compared to other district bonds we reviewed as well as
+historic experiences of PPS’ 2012 Bond. As a result of assuming program cost percentages on the lower
+end, OSM executive leadership at that time may have increased risks and challenges of delivering the
+Bond projects on-budget and/or as promised to the voters.
+
+Methodology Used to Estimate Program Costs was not Documented
+While we analyzed several internal budget working documents, there was no formal or comprehensive
+budget development methodology employed or documented supporting program cost estimates. For
+instance, OSM executive leadership identified $60 million for program management and program
+contingency. However, there was no information explaining how that number was derived nor any historical
+cost analysis performed to help support assumptions.
+
+Because program management costs are primarily labor dependent, a sound practice in estimating
+management costs entails evaluating a program’s staffing needs over the life of the program. At the
+Beaverton School District, staff derived program management cost estimates for its bond measure in part
+from salary costs of district employees working on the program as well as planned staff augmentation over
+the life of the program. A similar methodology was employed by OSM operational staff for its 2012 Bond
+where its program management cost estimate was based on a thorough analysis of the number of program
+staff, related payroll costs, and expected program management consultant services. Yet, a similar staffing
+assessment or more comprehensive analysis was not done for the 2017 Bond.
+
+Assumption Percentages Applied were Lower than Other Districts Reviewed
+The $60 million for program contingency and program management represented approximately 8 percent
+of program costs, although OSM operational staff and external consultants expressed concerns on the low
+
+
+SJOBERGEVASHENK                                                                                  P a g e | 20
+figure prior to the bond passage. Specifically, one concern expressed that the program contingency portion
+was too low at $20 million and not sufficient to cover site specific conditions at Lincoln, Madison, and
+Benson High Schools. Another concern raised was that at least 6 percent was needed for program
+management alone and the $40 million estimate for program management did not appropriately include
+escalation. However, there was no documentation available demonstrating whether those concerns were
+considered for the options presented to the Board for approval in January 2017.
+
+When compared to other districts in Oregon and California, OSM executive leadership’s 8 percent
+assumption was lower than the other bond programs. For instance, both Beaverton and North Clackamas
+School Districts in Oregon used factors of 14 and 13 percent, respectively, of total project costs. 21 In
+dollars, Beaverton School District’s program contingency and management was $65 million for its $680
+million bond compared to PPS’s lower $60 million amount for its larger $790 million bond. Additionally, the
+Santa Clara Office of Education in California also used a higher factor for its $720 million school
+construction bond program at 13 percent. 22 Even when considering PPS’s own historical experience with
+its 2012 Bond, staff used a 10 percent factor for program-related costs in 2012—further reinforcing
+concerns with the reasonableness of the lower percentage used for the 2017 Bond.
+
+
+
+
+21 Beaverton School District had a $680 million bond passed in 2014. North Clackamas School District had a $433 million bond
+
+passed in 2016.
+22 Santa Clara Office of Education had a $720 million bond that passed in November 2018.
+
+
+
+
+SJOBERGEVASHENK                                                                                                P a g e | 21
+Section 2: Additional Cost Information could have Aided Decision
+Making and Transparency
+
+After compiling and estimating various 2017 Bond project cost scenarios, OSM executive leadership first
+presented four bond options to the Board on January 24, 2017. At this meeting attended by OSM executive
+leadership, OSM operational staff, and architects, only high-level cost information was provided in addition
+to design data and project details. While the level of cost detail was similar to that provided by other
+districts we reviewed, more comprehensive underlying information could have aided with buy-in and
+decision-making as well as enhanced transparency of the Bond activities.
+
+Limited Cost Data Was Provided to the Board
+First introduced in January 2017, PPS and OSM executive leadership provided the Board with four options
+for the 2017 Bond for modernization and rebuild projects, health and safety projects, and program-wide
+efforts as shown in Exhibit 15.
+
+                      EXHIBIT 15. BOND OPTIONS PRESENTED TO BOARD, JANUARY 24, 2017
+
+
+
+
+                                  Source: Board Working Session, January 24, 2017.
+
+
+For the school modernization and rebuild projects, OSM executive leadership provided documents
+including project overviews, Master Planning Committee guiding principles, pre-design due diligence
+reports, health and safety considerations, existing design graphics, and design options. Moreover, OSM
+executive leadership provided a single-figure estimate for construction and a separate figure for total
+project costs in addition to narrative and statistics surrounding student capacity, design, and proposed
+building area in square footage. However, there was no data presented on cost methodology or underlying
+
+
+SJOBERGEVASHENK                                                                                P a g e | 22
+cost assumptions. Without information summarizing estimation methodologies used or rationale behind
+cost assumptions, it is challenging to understand the nuances between the various options proposed or the
+implications of ultimate decisions.
+
+No Rationale was Found Supporting Various Health and Safety Project Options
+For the health and safety projects, PPS executive leadership provided data including a synopsis of the age
+of PPS school facilities, assessment of facility conditions, cost analysis, possible prioritization methods, and
+three options for remediating the health and safety needs. Handouts available to the Board listed specific
+professional cost estimates and technical assessment source documents.
+
+Specifically, PPS executive leadership presented three separate options for the pool of health and safety
+projects ranging between $100 million, $150 million, and $200 million set aside to address nine types of
+possible health and safety needs as shown in Exhibit 16. The primary differences between the three cost
+options were the number of schools that could be funded within a specific category and whether funds for
+security system projects and seismic projects were included in the three options. However, we could not
+find a rationale or documentation supporting the various funding options at the $100 million, $150 million, or
+$200 million levels.
+
+                EXHIBIT 16. HEALTH & SAFETY ESTIMATES AVAILABLE TO BOARD, JANUARY 24, 2017
+
+
+
+
+               Source: January 24, 2017 Board Bond Work Session Health, Safety, and Modernization Bond handout.
+
+
+Board Questions Focused More on Design than Cost
+After the presentations to the Board, members asked a variety of questions, both general and specific to
+individual school modernization projects. Most of the questions were related to either the design process,
+programs to be offered on campus, or other education-related services—but only a few questioning costs.
+Even for the health and safety projects, questions primarily centered on ADA requirements and whether
+
+
+SJOBERGEVASHENK                                                                                                  P a g e | 23
+project budgets for each of the health and safety categories were distributed equitably around the district. In
+terms of vetting the cost estimates presented, there were two primary questions—one related to the
+difference between construction costs and project costs and another related to how costs were allocated to
+FF&E. Additional Board interaction regarding the costs associated with the four different Bond options
+involved members stating preferences for the rebuild options as well as the inclusion of the Kellogg Middle
+School and a brief discussion on bond levy rates.
+
+Also, at two Board meetings in January and February 2017, an external bond marketing consultant
+presented results from a survey of Multnomah County voters to determine the likelihood of passing a PPS
+Bond measure on the May 2017 ballot. Results indicated that the majority of voters would support both a
+$750 million proposed bond as well as an $850 million bond, but the latter could be a tougher sell.
+Questions asked by the Board included asking for details of voter willingness to approve a bond amount
+within the proposed $750 to $850 million range, whether alternatives between school rebuild or school
+modernization had an effect on voter preference, and what level of understanding voters had on how health
+and safety projects would be addressed within the school modernization projects.
+
+Information Provided was Similar to Most Other Districts Reviewed
+While presentations made to the PPS Board did not describe the development of cost estimates, the
+material presented to the Board was not unlike the approaches used by other school districts we reviewed
+when they were developing similar capital construction bond programs.
+
+For example, for the North Clackamas School District’s $433 million capital construction bond, staff
+presented three options to its board with cost assumptions and estimations only briefly discussed when the
+options were presented. Subsequent board meetings in that district focused on the projects included in
+each of the various bond options, public outreach efforts and levels of support for each option, and
+administrative efforts necessary to get the bond measure on the ballot—yet, like PPS’s bond interactions,
+these presentations had limited focus on cost. Rather, the information presented was more focused on the
+higher-level design details of the bond packages as well as the feedback from public engagement efforts.
+
+Similar information was also provided to the Board of Trustees for the Santa Clara Unified School District in
+California prior to its passage of a $720 million school construction bond in 2018. Beginning in late 2017,
+staff presented the board with six bond scenarios; like PPS, the presentations did not appear to include a
+discussion of cost assumptions or methodology. Subsequent board discussions focused on the projects
+included in each of the various bond options, district debt capacity and effects on property taxes, and timing
+of placing the bond measure on the ballot. 23
+
+While it appears that information provided to the PPS Board was consistent with most other districts we
+reviewed, we believe additional data could be provided in the future such as comparisons of cost estimates
+with the current market and/or industry standards as well as performance at other districts, where
+applicable, to better communicate fiscal conditions, potential challenges, and impacts of decisions.
+
+
+23 Results based on publicly available documents such as pre-bond communications, board materials, financial reports, and bond
+
+status reports.
+
+
+SJOBERGEVASHENK                                                                                                P a g e | 24
+Section 3: Although Project Estimates Have Increased, PPS Has
+Been Working on Cost Containment
+
+Estimates to complete the projects for the $790 million 2017 Bond have grown by more than 26 percent to
+$997 million based on December 2018 forecasts. For the capital school projects alone, estimated costs
+have increased from $580 million at bond passage to $797 million. With such a significant increase in less
+than two years since the 2017 Bond passed, delivering all projects proposed to voters within the
+$790 million budget has been challenging.
+
+However, there has been significant activity at Lincoln, Madison, and Benson High Schools as well as
+Kellogg Middle School with OSM operational staff evaluating master plans, refining designs, performing
+revised cost estimates and preparing for construction. Specifically, immediately after the 2017 Bond
+passed, OSM commissioned updates to master planning documents for all four schools with the intent to
+refine design concepts and better align cost estimates with current market conditions. According to current
+OSM executive leadership, practices have changed since the 2017 Bond budgets were developed in late
+2016 and early 2017 and emphasis has been placed on formalizing cost estimation methodologies and
+developing realistic budgets. 24
+
+In addition, while fluctuations in cost estimates are typical as projects advance through various stages of
+planning and design, OSM has initiated cost containment efforts that include revisiting design decisions
+through focused value engineering sessions and obtaining updated independent cost estimates.
+Nonetheless, bridging the budget gap may also require eliminating scopes or defer projects to future bond
+measures. In fact, the Benson High School project is now expected to be completed with the next bond.
+
+Estimated Costs to Complete School Projects Have Increased Nearly 37 Percent
+Since the Bond Passed
+As projects advance through the various stages of their lifecycle and designs become more refined,
+estimates of project costs are updated to reflect current scopes and budgets. For the four schools, total
+capital project budgets were updated as part of typical project milestones such as master planning,
+schematic design, design development, and construction documents. Based on data as of December 2018
+from OSM’s e-Builder system, the school modernizations are now expected to cost $797 million when
+completed—37 percent, or $217 million more than the $580 million estimated for the 2017 Bond as shown
+in Exhibit 17.
+
+
+
+
+24 Assertions will be corroborated in future audits.
+
+
+
+
+SJOBERGEVASHENK                                                                                 P a g e | 25
+           EXHIBIT 17. 2017 BOND BUDGET VS. ESTIMATED COST AT COMPLETION, AS OF DECEMBER 31, 2018
+
+                                                                                        $797
+                                       $800
+
+
+
+
+                            Millions
+                                       $700                                             $199
+                                                         $580
+                                       $600
+
+                                       $500              $146
+                                                                                        $243
+                                       $400
+                                                         $187                            $60
+                                       $300
+                                                          $45
+                                       $200
+                                                                                        $296
+                                       $100              $202
+
+                                        $-
+                                                       2017 Bond             Estimated Cost at Completion
+
+                                              Benson    Kellogg    Lincoln          Madison          Total
+
+
+Source: Board Working Session Meeting Packet, January 24, 2017. Program Management Cost Report from OSM e-Builder system, with data
+                                                      as of December 31, 2018.
+
+Because project pricing is closely tied to market conditions, market volatility and assumptions used to
+predict that volatility—such as escalation—can have a significant impact on cost estimates. As discussed in
+Section 1 of this report, former OSM executive leadership used escalation factors that were lower than
+market when developing the 2017 Bond budget, which could be a contributing factor for the variances
+between January 2017 and December 2018 estimated costs. Specifically, the revised estimates reflected
+escalation and contingency cost factors that were more considerate of market conditions. However, many
+additional factors such as scope additions, design modifications, schedule changes, shortage of skilled
+labor, availability and pricing of materials, or updates to education specifications (Ed Specs) could also
+affect increases in cost estimates.
+
+Comprehensively identifying and reconciling reasons for the estimated cost increase is a significant effort
+that the audit could not undertake for this report. Such an endeavor would involve comparing assumptions
+used across various milestones and projects, reconciling line item amounts to subcontractor bids, reviewing
+detailed design specifications, and assessing the impact of unique design changes and other cost savings
+efforts on cost estimates that requires a level of site-specific knowledge and project familiarity that is
+beyond the scope of this phase of the audit. Yet, as warranted and practical, additional work and analyses
+may be conducted in this area as part of subsequent audits.
+
+Fluctuations in Cost Estimates are Typical During Early Planning and Design
+Despite the various important discussions surrounding budget increases, cost estimates, and cost
+containment, it is not unusual for capital project cost estimates to increase or decrease as projects progress
+through the various project delivery stages as scopes and quantities become more refined and are adjusted
+to align with changing needs or available funding. Even when a project enters the construction phase, costs
+
+
+
+SJOBERGEVASHENK                                                                                                     P a g e | 26
+could increase again due to higher construction bids or unforeseen conditions faced during actual
+construction—ultimately impacting the total project cost at completion.
+
+For instance, the Kellogg Middle School capital project, which will be the first of the four schools to start
+construction in the fall of 2019, was estimated to cost $45 million when the Bond passed in 2017, but latest
+OSM estimates identified the total cost to complete Kellogg at $60 million as shown in Exhibit 18.
+
+ EXHIBIT 18. KELLOGG MIDDLE SCHOOL EXAMPLE SHOWING TOTAL PROJECT COST ESTIMATES AT SELECT MILESTONES
+                 Millions
+
+
+
+
+                            $65
+
+                                                                                          $60             $60
+                                                                            $59
+                            $60
+
+
+                            $55
+
+
+                            $50
+                                                  $46
+                                     $45                     $45
+                            $45
+
+
+                            $40
+                                  2017 Bond   Master Plan   Schematic     Design      Construction   Estimated Cost
+                                               Update        Design     Development   Documents      at Completion
+
+Source: Kellogg updated Master Plan completed November 20, 2017; 90% Schematic Design completed April 12, 2018; Design Development
+ completed July 16, 2018; 50% Construction Documents completed December 17, 2018; Estimated Cost at Completion per e-Builder as of
+                                                       December 31, 2018.
+
+
+While Recent Cost Estimates were Higher than 2017 Bond, OSM is Working on Cost
+Containment
+With estimated costs to deliver the projects rising since the Bond passed in May 2017, OSM operational
+staff have been continually challenged to identify cost saving measures while still delivering the projects in
+accordance with PPS Ed Specs approved by the Board and the needs of the community. Since all of the
+projects were still in the early planning phase when the 2017 Bond passed, there has been opportunity for
+OSM to explore cost containment options through various value engineering efforts— a standard industry-
+wide technique used to identify alternatives to control costs prior to completion of design and before the
+start of construction. 25
+
+For instance, when the 90% Schematic Design for the Kellogg Middle School project identified a $13 million
+difference between the design and construction budget, an external architect worked with OSM operational
+staff to explore options to bridge the gap. 26 Ideas generated included substituting grass for a synthetic turf
+system to reduce costs by $412,000 and reconfiguring the school as a 3-story building instead of a 4-story
+structure by reducing certain programs for a savings of approximately $1.5 million. These and other similar
+
+25 The CMAA states that value engineering is used for the purpose of optimizing value in project designs. It is best completed
+
+during the initial preliminary design stage.
+26 Kellogg 90% Schematic Design Document, April 2018.
+
+
+
+
+SJOBERGEVASHENK                                                                                                      P a g e | 27
+considerations for the Kellogg Middle School designs eventually narrowed the gap between the budget and
+cost estimate from $13 million to $824,000.
+
+Also in-line with leading practices, OSM held a value engineering workshop in December 2018 for the
+Lincoln High School project that identified $29.5 million in cost saving opportunities. Building upon the
+success of the Lincoln High School value engineering workshop, OSM intends to go forward with value
+engineering efforts with the next one scheduled in May 2019 for the Benson High School project.
+
+In addition, as of December 31, 2018, only $50.8 million of the $790 million Bond has been spent or
+committed for the four schools as shown in Exhibit 19. With that in mind, there is still time for PPS oversight
+bodies, OSM, and stakeholders to collaboratively work together towards delivering modern facilities that
+address the needs of the District’s educational goals within the budgetary constraints set by the
+2017 Bond—or determine that some 2017 Bond projects may have to be delayed and delivered as part of
+subsequent bond cycles or reduced scopes may have to be considered. In fact, the completion of the
+Benson High School project has already been deferred to the next bond due to the projected funding
+shortfall.
+
+          EXHIBIT 19. BUDGET TO ACTUALS AND ESTIMATED COST AT COMPLETION, AS OF DECEMBER 31, 2018
+                                                                    Actual Expenses          Commitments
+                                  Status as of December 2018            through           (Encumbrances) as
+                                                                    December 2018          of December 2018
+                      Kellogg     50% Construction Documents       $        4,316,952    $           6,262,444
+                      Madison     100% Design Development          $        6,625,849    $          14,234,869
+                      Benson      Master Planning                  $          519,380    $           3,585,596
+                      Lincoln     75% Schematic Design             $        2,368,891    $          12,845,908
+                                                           Total          $13,831,072              $36,928,817
+                                                                                   $50,759,889
+
+Source: OSM e-Builder ‘Cost Summary - Budget vs. Commit vs. Actuals Paid’ Report; OSM e-Builder “Project Management Cost Report – by
+program”.
+
+
+
+
+SJOBERGEVASHENK                                                                                                       P a g e | 28
+Section 4: Conclusions and Recommendations
+
+During the audit, we primarily focused on PPS and OSM activities in late 2016 and early 2017 leading up to
+the Bond passage. Given that the scope of this audit was limited to assessing the development of cost
+estimates for the $790 million Bond, conclusions drawn and areas suggested for PPS and OSM
+consideration were based on currently available data and practices in place for that time period. While we
+found that initial cost estimates used to develop the 2017 Bond were generally supported by professional
+estimates and followed a consistent process, final cost estimate figures presented to the Board for bond
+approval were lower than market conditions at that time and could not be replicated due to lack of a formal,
+documented methodology.
+
+However, current OSM executive leadership has asserted that many protocols have changed since that
+time and practices recommended from this audit are now in place. These subsequent changes and revised
+practices will be verified as part of the next audit phase or future annual Bond performance audits.
+
+Recommendations
+While OSM operational staff stressed the importance of a bond cost estimation methodology that is
+understandable and traceable to underlying assumptions and records, the cost data presented to the PPS
+Board for approval of the 2017 Bond lacked data to allow for a replication of the figures used by OSM
+executive leadership. To better align cost estimates with prevailing market conditions and industry leading
+practices, OSM should have developed a formal cost estimation methodology for use on all projects,
+documented deviations from standard practice, and established a central location to retain all final cost
+estimates including any supporting documentation used to develop each estimate. However, current OSM
+executive leadership stated that it now ensures its project estimates use factors that align with market
+conditions and better documents results of cost decisions. Since we have not yet had an opportunity to
+verify current practices, we recommend that, on a go-forward basis, OSM should begin or continue to:
+    1. Develop and consistently apply a formal cost estimation methodology across projects regardless if
+       developed in-house or by external consultants, including documentation of the reasons for any
+       deviations from the established methodology.
+    2. Compare and analyze cost estimate assumptions and factors with historic practices and other
+       comparable bonds or districts to determine whether adjustments to estimation methodology seem
+       warranted.
+    3. Establish a central location to retain final estimates at each project phase (master planning,
+       schematic design, design document, construction document), including any supporting
+       documentation used to develop each estimate.
+
+In addition, more comprehensive data could have been provided to the Board when discussing cost
+estimates such as comparisons of estimates with market and/or industry standards as well as performance
+at other districts, where applicable, to better communicate fiscal conditions, potential challenges, and
+impacts of decisions. Thus, to enhance transparency and Board knowledge, OSM should:
+
+
+
+SJOBERGEVASHENK                                                                                 P a g e | 29
+    4. Discuss comparison of cost estimation methodology used with past PPS experiences, current
+       market conditions, and estimates developed by peer districts when presenting cost estimates to the
+       Board and public stakeholders.
+    5. Categorize the reasons for variances in project costs, and aggregate those changes to the
+       program-level to provide information on why costs varied from original bond, as well as report this
+       information to the Board and public stakeholders.
+
+Finally, in light of the increased scrutiny PPS is experiencing with its cost estimates, OSM should identify
+key cost drivers and closely monitor trends that could impact funding available for PPS bond projects.
+Trends with increased program financial risk should be captured, analyzed, and presented to the Board and
+general public along with scenarios to mitigate risks or options to minimize negative impacts resulting from
+cost estimates coming in higher than expected. Following are some recommended actions for
+considerations to assist OSM in responding to changing construction market conditions and strengthen
+transparency and accountability. Specifically, OSM should:
+    6. Conduct an analysis to determine to what degree various factors, especially scope changes and
+       changes in construction costs, caused an increase in construction costs for the 2017 Bond
+       projects. This could include comparing assumptions used across various project milestone reports
+       and/or reconciling line items amounts to subcontractor bids.
+    7. Analyze results of variances to make adjustments to future estimation models and methodology as
+       well as to analyze whether changes are needed in the delivery of projects to ensure stronger cost
+       containment.
+    8. Ensure project milestone reports use consistent data across all projects and clearly identify
+       deviations.
+
+
+
+
+SJOBERGEVASHENK                                                                                P a g e | 30
+Appendix A: Auditee Response
+
+
+
+
+SJOBERGEVASHENK               P a g e | 31
+SJOBERGEVASHENK   P a g e | 32
+SJOBERGEVASHENK   P a g e | 33
+                           PORTLAND PUBLIC SCHOOLS
+                           501 North Dixon Street / Portland, OR 97227
+                           Telephone: (503) 916‐2222/ Fax: (503) 916‐3253
+                           Mailing Address: P. O. Box 3107 / 97208‐3107
+
+
+
+Date:          April 4, 2019
+
+To:            Cathy Brady, Principal
+               Sjoberg, Evashenk & Associate
+
+From:          Dan Jung, Chief Operating Officer
+
+Subject:       Performance Audit – Fiscal year 2018/2019
+               Phase I Report
+               Staff Response
+
+
+
+
+Portland Public Schools (PPS) and the Office of School Modernization (OSM) have received and reviewed
+Sjoberg, Evashenk and Associates (SEC) 2018/2019 March 2019 Audit Report titled “Performance Audit –
+Fiscal Year 2018/2019, Phase I Report: Bond Cost Estimates” (the Report). PPS appreciates the
+significant amount of data and documentation SEC reviewed in a short period of time to produce the
+Report. PPS also appreciates the thoroughness of the Report, the thoughtful conclusions and
+recommendations and the professionalism of the SEC staff.
+
+As noted in the Report, PPS has already concluded and addressed many of the recommendations
+provided. PPS has prepared short responses to each of the recommendations.
+
+SEC Recommendation #1: Develop a formal cost estimation methodology and apply consistently across
+projects regardless if developed in‐house or by external consulates, including documentation of the
+reasons for any deviations from the established methodology.
+
+PPS Response: PPS agrees with this recommendation. As evidenced in the materials that are routinely
+provided to the Board of Education for master planning and other project updates, OSM utilizes has a
+consistent methodology for conveying detailed project cost information. The approach includes
+providing a summary breakdown of the detailed cost estimate generated by a professional construction
+cost estimator, plus all additional costs (with noted assumptions for each item) that sum the project
+total. OSM provides this level of detail on all modernization and new construction projects to convey a
+high level of transparency and provide rationale behind the noted assumptions. Examples of this
+methodology and format can be seen in the master plans brought forward to the Board of Education for
+Kellogg, Madison, Lincoln and Benson. This same level of detail will be employed on future bond
+planning efforts.
+
+SEC Recommendation #2: Compare and analyze cost estimate assumptions and factors with historic
+practices and other comparable bonds or districts to determine whether adjustments to estimation
+methodology seem warranted.
+PPS Response: PPS agrees with this recommendation. As noted on page 29 of the Report, OSM
+operational staff stressed the importance of a bond cost estimation methodology that is understandable
+and traceable to underlying assumptions and records. OSM staff understands the value of providing
+cost data that is founded in professional support, reviewed and vetted prior to being developed into a
+recommendation. Future bond planning efforts will include professionally developed cost estimates and
+robust review of all cost assumptions.
+
+SEC Recommendation #3: Establish a central location to retain final estimates at each project phase
+(master planning, schematic design, design document, construction document), including any
+supporting documentation used to develop each estimate.
+
+PPS Response: PPS agrees with this recommendation. Currently OSM utilizes a “design phase approval”
+process that captures specific detailed project data at the end of each design phase including the
+current building plans (floor plans, elevations, etc), cost estimates, available contingency, current
+schedule status, stakeholder engagement plans, etc. All of this information is reviewed and stored
+electronically in OSM’s project management software system for future use and reference. All 2017
+bond modernization projects have, or will, complete a design phase approval at the end of each design
+phase including master planning, schematic design, design development, and construction documents.
+
+SEC Recommendation #4: Discuss comparison of cost estimation methodology used with past PPS
+experiences, current market conditions, and estimates developed by peer districts when presenting cost
+estimates to the Board and public stakeholders.
+
+PPS Response: PPS agrees with this recommendation. Similar to Recommendation #2, OSM understands
+the value of developing informed and vetted cost data. Future bond planning efforts will include robust
+review of all cost assumptions and comparisons to other relevant and comparable projects and
+programs.
+
+SEC Recommendation #5: Categorize the reasons for variances in project costs, and aggregate those
+changes to the program‐level to provide information on why costs varied from original bond, as well as
+report this information to the Board and public stakeholders.
+
+PPS Response: PPS agrees with this recommendation. In November 2018 OSM prepared two documents
+for the Bond Accountability Committee’s review. One document compared PPS project costs to other
+relevant K‐12 projects nationally; the second document provided a detailed cost breakdown of Madison
+and Lincoln, broken down by individual Construction Specification Institute (CSI) division and compared
+each division of work to recently PPS projects: Roosevelt, Franklin and Grant. Additionally, OSM staff
+highlighted individual cost variances between the projects and provided a division by division analysis of
+the costs and provided reasons for the variances. In an effort to provide additional outside review of
+PPS project costs, in January 2019 OSM hired professional construction cost estimating firm, Rider Levell
+Bucknall, to compare current PPS project costs to other relevant K‐12 projects.
+
+SEC Recommendation #6: Conduct an analysis to determine to what degree various factors, especially
+scope changes and changes in construction costs, caused an increase in construction costs for the 2017
+Bond projects. This could include comparing assumptions used across various project milestone reports
+and/or reconciling line items amounts to subcontractor bids.
+PPS Response: PPS agrees with this recommendation. Similar to Recommendation #5, over the last 12
+months OSM has provided detailed project cost comparison data and continues to develop and provide
+cost information as necessary and requested.
+
+SEC Recommendation #7: Analyze results of variances to make adjustments to future estimation models
+and methodology as well as to analyze whether changes are needed in the delivery of projects to ensure
+stronger cost containment.
+
+PPS Response: PPS agrees with this recommendation. Future bond planning efforts will include robust
+review of all cost assumptions and comparisons to other relevant and comparable projects and
+programs.
+
+SEC Recommendation #8: Ensure project milestone reports use consistent data across all projects and
+clearly identify deviations.
+
+PPS Response: PPS agrees with this recommendation. OSM utilizes standard operating procedures to
+ensure consistency between projects. Each project utilizes a project update template each month to
+report on project status. Similarly, regular reporting structures are utilized for the Bond Accountability
+Committee and quarterly project updates to the Board of Education. PPS and OSM will continue to
+incorporate feedback to improve on processes and procedures.
+

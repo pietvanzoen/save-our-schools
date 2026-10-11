@@ -1,0 +1,76 @@
+COST MODEL WORKBOOK
+2024 General Obligation Bond Planning                                                                                                             05 24 2028
+
+
+                                                                         Modernizations
+                                 Cleveland HS               Ida B Wells HS                Jefferson HS             Tubman MS         1   CBSE + Learning Lab 1
+                               Schematic Design       1   Schematic Design          1   Schematic Design       1   Pre-Planning      2      Pre-Planning       2
+      Hard Cost                       384,968,991 2              365,300,518 2                409,297,113 2             96,720,000 3              64,119,000 3
+      Soft Cost                        33,155,000 3                36,300,000 3                42,007,914 3             12,420,000 4               6,411,900 4
+      FF&E                              8,700,000 4                10,000,000 4                 9,988,000 4              8,280,000 5               3,205,950 5
+      Swing                                  500,000 5                2,200,000 5                 345,000 5              4,140,000 6                       0
+      Project Contingency              41,320,859 6                41,200,000 6                29,459,770 6, 7          18,730,800 7               7,373,685 6
+      Administration              Incl. in Program            Incl. in Program             Incl. in Program              3,312,000 8         Incl. in Program 7
+      Land                                        0                             0                          0                                      15,000,000
+      SUBTOTAL                        468,644,850                455,000,518                  491,097,797              143,602,800                96,110,535
+      Escalation                        Incl. in HC 7                 Incl. in HC 7             Incl. in HC 8           42,855,694 9              25,376,176 8
+      TOTAL                           468,644,850                455,000,518                  491,097,797              186,458,494               121,486,711
+
+
+  Footnotes
+  Cleveland High School
+  1   Comprehensive planning is complete (and Board approved); project is currently in the SD phase
+  2   HC is the total of the Gamut-KJF Estimate (04/08/24) $383,318,991 plus $1.65M for abatement, off-site improvements and utility connections
+  3   SC are based on current data, and include the executed Mahlum Architects contract
+  4   Approximately $28/SF
+  5   Minimal swing costs are expected due to extensive improvements already in place at the Marshall campus
+  6   Approximatley 10% of total project cost
+  7   Escalation to midpoint of construction - varying rates per year totaling $38,096,929
+
+
+  Ida B Wells High School
+  1   Comprehensive planning is complete (and Board approved); project is currently in the SD phase
+  2   HC is the total of the DCW cost estimate (02/04/24)
+  3   SC are based on current data, and include the executed Bora Architects contract
+  4   Approximately $32/SF
+  5   Swing costs include resurfacing track at Jackson for swinging athletics
+  6   Approximatley 10% of total project cost
+  7   Escalation to midpoint of construction
+
+
+  Jefferson High School
+  1   Project is in SD; CMGC (Andersen Construction) was contracted in May 2023 and is supporting design and cost estimating
+  2   HC is the total of the Andersen Construct cost estimate (02/29/24) $407,397,113 plus $1,900,000 for off-site improvements, hazardous materials
+      abatement and utility costs/connections
+  3   SC are based on current data, and include the executed Bora Architects contract
+  4   Approximately $32/SF
+  5   $345,000 of swing costs are include in the overall project SC
+  6   Approximatley 6.5% of total project cost
+  7   Due to the change in project approach, the design of JHS is further along than other projects and includes CMGC design input and costing
+  8   Escalation to midpoint of construction - varying rates per year totaling $57,752,713
+
+
+  Tubman Middle School
+  1   The Tubman cost model was developed to quickly apply ROM costs to different potential Tubman relocation options, including retrofits, new construction,
+      etc. Tubman project costs are currently being updated for the current site option (Humboldt).
+  2   Project is in the pre-planning phase
+  3   HC are based on an assumed building size (120,000 SF per PPS's Middle School Ed Spec, see: https://www.pps.net/Page/2144) multiplied by $/SF. RLB
+      provided a $/SF range ($575 - $690); this model uses the top end of the range, PLUS site development costs estimated at 15% of building costs.
+  4   15% of HC
+  5   10% of HC. We anticipate this total cost to be lower in future iterations
+6   5% of HC. Depending on multiple variables (including ODOT's construction timeline) Tubman students and staff may need to relocation temporary for severa
+7   15% of total project cost
+8   Because the majority of the Tubman relocation funds are non-bond, the Tubman project is estimated as a total cost estimate including administration costs.
+9   Escalation to midpoint of construction
+
+
+CBSE + Learning Lab
+1   The CBSE + Learning Lab project is currently developing programming and facility assumptoins. Project costs are currently being updated.
+2   Project is in the pre-planning phase
+3   HC are based on assumed building size 87,000SF multiplied by $670/SF
+4   10% of HC
+5   5% of HC
+6   10% of HC
+7   5% of HC
+8   Escalation to midpoint of construction
+

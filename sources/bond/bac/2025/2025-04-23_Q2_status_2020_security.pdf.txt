@@ -1,0 +1,82 @@
+2020 Infrastructure: Security                                                                                                         PPS Team Leads: Eric Naes
+                                                                                                                          Number of Completed Projects: 1
+April 2025
+                                                                                                                             Number of Active Projects: 8
+
+STATUS AT A GLANCE
+                                                                                                            As Planned               Caution                 Impacts
+Legend:                                                                                Budget                       X
+                 As planned: no concerns                                               Equity*                                                                       X
+                 Caution: requires attention                                           Schedule                                                                      X
+                 Impacts: impacts occurring                                            Overall                                               X
+
+BUDGET
+                                                  BUDGET                                   FUNDING                                  PROGRESS                                        FORECAST
+                                                                                                                        Actuals To Date    Additional                     Estimate At
+                                      Original Budget       Current Budget      Security Funds    Other Funds             (all funds)     Encumbered                      Completion      Over/Under
+                Unallocated Funds          25,900,000                338,734           338,734                  -                        -                       -                        -        (338,734)
+          Hardware Upgrades-5999                    -               4,214,092        2,882,715        1,331,377                4,214,092                         -              4,214,092                  -
+    Harrison Park - MS Conv - 5706                      -          42,680,239          314,429       42,365,810               35,738,885               3,149,371             41,898,556            (781,683)
+  Cameras & Intrusion Design-6067                       -           4,694,550        4,694,550                  -              1,694,490                393,946                 2,480,502        (2,214,048)
+   Cameras & Intrusion Install Ph 1                     -           5,049,473        5,049,473                  -              2,508,745                         -              2,508,745        (2,540,728)
+      2020 Security Phase 2A-6317                   -               2,817,500        2,817,500                  -              1,377,948                147,301                 1,992,473          (825,027)
+      2020 Security Phase 2B-6340                   -               2,817,500        2,817,500                  -               579,703                 857,752                 1,934,630          (882,870)
+      2020 Security Phase 3A-6381                   -               1,659,989        1,659,989                  -               129,917                 943,956                 1,659,989                  -
+      2021 Security Phase 3B-6422                   -               2,523,805        2,523,805                  -                        -             1,728,444                2,523,805                  -
+      2022 Security Phase 3C-6437                   -               2,801,305        2,801,305                  -                        -             1,505,602                2,801,305                  -
+              2020 Security Totals                  -              69,597,187       25,900,000       43,697,187               46,243,780               8,726,372             62,014,097          (7,583,089)
+
+
+
+EQUITY*          Percent of payments made to Certified owned businesses, percent of labor hours of apprenticeable trades; cumulative
+
+                             MBE      WBE      SDVBE         ESB        N-C        TOTAL             goal               MIN       goal           FEM      goal           APPR       req
+             Consultants      0.00%    0.00%     0.00%       0.00%      0.00%         0.00%          18%
+             Contractors      0.00%    0.00%     0.00%       0.00%      0.00%         0.00%          18%
+                 Overall      0.00%    0.00%     0.00%       0.00%      0.00%         0.00%          18%
+
+              Workforce                                                                                                  1%       25%            1%       14%            43%       20%
+
+
+
+
+                                                                                                                                                                         2020 Infrastructure: Security, April 2025
+                                                                                                                                                                                                      page 1 of 2
+2020 Infrastructure: Security                                                                                                        PPS Team Leads: Eric Naes
+                                                                                                                         Number of Completed Projects: 1
+April 2025
+                                                                                                                            Number of Active Projects: 8
+
+SCHEDULE
+                                                                           2024                                                                             2025
+                          PROJECT       MAY       JUN       JUL      AUG          SEP     OCT      NOV       DEC        JAN      FEB       MAR        APR          MAY   JUN       JUL      AUG
+            Hardware Upgrades-5999
+  Cameras & Intrusion Design-6067
+    Cameras & Intrusion Install Ph 1                         Bidding / Contracting
+         2020 Security Phase 2A-6317                                   Bidding / Contracting
+         2020 Security Phase 2B-6340                                              Bidding / Contracting
+         2020 Security Phase 3A-6381                                                            Bidding / Contracting
+         2021 Security Phase 3B-6422                                                                               Bidding / Contracting
+         2022 Security Phase 3C-6437                                                                                          Bidding / Contracting
+
+                   Baseline                              Planning                                Design & CA                   Construction
+
+
+PROJECT NOTES
+Progress:
+- Phase 2A is near complete, 2B will be wrapping up in May 2025
+- Phase 3A, 3B are currently in construction
+- Phase 3C contract is pending board approval with anticipated start in May 2025
+Accomplishments:
+ - Construction for Phase 1 is now complete and under budget.
+ - Phase 2A and Phase 2B are near completion and will also be under budget
+- All six phases of the project will be completed or under construction in May 2025
+Risks:
+- None to report at this time.
+
+
+
+
+                                                                                                                                                               2020 Infrastructure: Security, April 2025
+                                                                                                                                                                                            page 2 of 2
+
