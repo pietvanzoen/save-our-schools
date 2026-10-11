@@ -3,7 +3,7 @@
 - **Date:** Thursday, March 5, 2026, 5:00 pm
 - **BoardBook:** meeting 735121, https://meetings.boardbook.org/Public/Agenda/915?meeting=735121 [MTG:2026-03-05/735121]
 - **Video:** https://www.youtube.com/watch?v=ppbt9KnsTbk (about 1:17:22)
-- **Transcript:** English auto-captions, re-fetched 2026-10-11. This file replaces an earlier version based on Arabic machine-translated captions.
+- **Transcript:** English auto-captions, re-fetched 2026-10-11.
 - **Attendees** [BB:3998073 p.1] [YT:ppbt9KnsTbk@0:05:04] [YT:ppbt9KnsTbk@0:06:21]:
   - Committee chair Patte Sullivan
   - Stephanie Engelsman

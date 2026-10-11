@@ -1,6 +1,6 @@
 ---
 name: pps-research
-description: Answer questions about Portland Public Schools (PPS) 2026 rightsizing / school closures, the 2025 bond and seismic work, enrollment, budget, specific schools, and what board members and staff said, using only this repository's archived sources, and cite every claim back to them. Use whenever working in the timaelliott/pps repo or asked about PPS closures, schools, board members or meetings.
+description: Answer questions about Portland Public Schools (PPS) 2026 rightsizing / school closures, the 2025 bond and seismic work, enrollment, budget, specific schools, and what board members and staff said, using only this repository's archived sources, and cite every claim back to them. Use whenever working in the timaelliott/save-our-schools repo or asked about PPS closures, schools, board members or meetings.
 ---
 
 # PPS research archive: answering questions from the repo
@@ -49,7 +49,13 @@ python3 tools/doc.py 14505788 2                      # print page 2, the N in [B
 python3 tools/doc.py 14505788 --grep "Rose City"     # matching lines with their page numbers
 python3 tools/doc.py school_impact/maplewood 3       # any sources/ PDF by path fragment
 ```
-Transcript files are `sources/youtube/transcripts/<date>_<videoId>.txt`, with one `[H:MM:SS] text` line per caption.
+Transcripts come in two copies with identical lines and timestamps:
+- `analysis/transcripts_corrected/<date>_<videoId>.txt`: **read this one.** Obvious caption mis-hearings of names are
+  fixed and shown in brackets ("Ricky" → "[Rieke]", "Director the pass" → "Director [DePass]"). Every change is
+  logged in `corrections.csv` there. `search.py` and `window.py` use this copy.
+- `sources/youtube/transcripts/<date>_<videoId>.txt`: the raw captions, the primary source (`window.py --raw`).
+
+Both copies have one `[H:MM:SS] text` line per caption.
 PDF text is `<file>.pdf.txt`, with pages separated by `\f`; `doc.py` prefers the `.ocr.txt` version for scanned PDFs.
 
 **Without a shell (e.g. reading the repo on github.com):** go through the indexes instead.
@@ -84,7 +90,8 @@ PDF text is `<file>.pdf.txt`, with pages separated by `\f`; `doc.py` prefers the
   to the source text, confirm it, and cite the source. When you rely on a judgment made in `analysis/` (a stance score,
   an "Analysis:" paragraph), say it is the archive's analysis.
 - **Quotes are verbatim** from the transcript or PDF text. Auto-captions may only be repaired in `[brackets]`
-  (e.g. "Ricky" → "[Rieke]"). Keep quotes short (1–3 sentences). Never smooth or invent wording.
+  (e.g. "Ricky" → "[Rieke]"). Text copied from the corrected transcript already follows this rule. Keep quotes short
+  (1–3 sentences). Never smooth or invent wording. Other caption errors (numbers, unusual words) remain in both copies.
 - **Speaker attribution** in transcripts is inferred: captions have no speaker labels. Check who the chair recognized
   just before ("Director Splitt…"), or self-identification. State confidence when it isn't obvious. Don't build
   conclusions on low-confidence attributions.
@@ -99,7 +106,8 @@ PDF text is `<file>.pdf.txt`, with pages separated by `\f`; `doc.py` prefers the
 
 ## 5. Traps that cause wrong answers
 
-- **Caption name variants.** Search both spellings. Common ones:
+- **Caption name variants.** The corrected transcripts fix the common ones (about 2,800 fixes). Rarer
+  variants remain, as do variants in other files (quote batches, notes), so search both spellings. Common ones:
   - Ricky = Rieke; Stevenson = Stephenson; Cresten = Creston; Woodmir = Woodmere; Cwood/Swood = Sellwood
   - Mary'sville = Marysville; Englesman/Engleman = Engelsman; "the pass" = DePass; laforte/la Fort = La Forte
   - "arm strong" = Armstrong; IDW/IdB Wells = Ida B. Wells
@@ -107,8 +115,6 @@ PDF text is `<file>.pdf.txt`, with pages separated by `\f`; `doc.py` prefers the
 - **Numbers in captions are unreliable** (e.g. "1,000" captioned for 1,100). Prefer the BoardBook document for any figure.
 - **Board roles changed.** Chase-Miller has been Vice-Chair since Jul 7, 2026 [BB:14305225 p.1]. DePass was Vice-Chair
   before that, and the live pps.net page lagged. The 2025 board turned over in July 2025.
-- **Ten videos were first captured from Arabic auto-translated captions.** They were re-fetched in English and re-analyzed.
-  Prefer `analysis/people/quotes/batch10_redo*` and the `analysis/meetings/` files over the batch notes with CAVEAT headers.
 - **Scenario details:** Scenario A closes 14 schools and Scenario B closes 11 (Stephenson, Rose City Park and Lewis stay open in B).
   Use `analysis/data/school_impact.csv` (from the per-school family guides). It supersedes earlier memo-based figures;
   see `analysis/schools/_discrepancies.md`.

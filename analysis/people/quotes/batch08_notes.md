@@ -1,5 +1,3 @@
-> **CAVEAT (controller, 2026-10-11):** parts of this file were written from YouTube *Arabic auto-translated* captions for these videos: gVtn7AYmhUU, ppbt9KnsTbk, bQb4RGUlfk0, kIF9qrrMy6E, S-pk57P6f_o, YfANSrxqAMI, 3N-rsU_g5Yk, zfvbTie4mpE, U8Cg5voCxXc, k0wbO5egtWA. Those meetings were re-analyzed from English captions in `batch10_redo_notes.md` and the corresponding `analysis/meetings/*.md`; prefer those. Quotes from the Arabic captions were removed from the JSONL files.
-
 # Batch 08 notes: 2026-05-26 → 2026-07-07
 
 This batch covers 9 transcripts and 9 meeting files:
@@ -29,7 +27,7 @@ Quotes are in `batch08.jsonl`: 117 in total (77 high, 37 medium, 3 low confidenc
     - Wang: "Director Englesman" (AI pause)
   - The same order holds in every 6/23 round (travel, OIPA, AI, the $13M amendment and reserves). For example, the reserves round started at "student representative Retorto" and ran Chase-Miller → Sullivan → La Forte → DePass → Wang → Engelsman → Splitt.
   - Quotes that rest only on seat order are marked `medium`. Other batches found a *different* dais order in March 2026 (batch06 notes), so do not carry this order to other dates without re-checking.
-- **6/24 FIO (bQb4RGUlfk0): Arabic captions.** The archived captions are Arabic (`caption_lang: ar`), apparently machine-translated. I summarized the meeting from them and the minutes, but **extracted no quotes**, because verbatim English is not recoverable. If English captions become available, re-run this meeting.
+- **6/24 FIO (bQb4RGUlfk0):** analyzed from English captions in `batch10_redo` (see `analysis/meetings/2026-06-24_bQb4RGUlfk0.md`).
 - **Committee chair discrepancies** (resolved from video):
   - The 6/15 Policy minutes call Chase-Miller "Committee Chair" but say "Committee Chair DePass called the meeting to order". On video, DePass introduces herself as policy committee chair and says Chase-Miller "chairs the teaching and learning" committee.
   - At 6/11 TLE, La Forte was "standing in for committee chair" Chase-Miller.

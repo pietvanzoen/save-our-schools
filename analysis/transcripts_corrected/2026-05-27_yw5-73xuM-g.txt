@@ -1,0 +1,77 @@
+# Summer 2026 Seismic Work
+# Video: https://www.youtube.com/watch?v=yw5-73xuM-g
+# Source: YouTube captions (asr, en), fetched 2026-10-11T08:01:12.609Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2026-05-27_yw5-73xuM-g.txt
+# BoardBook meeting(s): 
+# Link to a moment: https://www.youtube.com/watch?v=yw5-73xuM-g&t=<seconds>s
+
+[0:00:00] Vernon
+[0:00:02] um has a gymnasium. It's an overall
+[0:00:04] concrete building, but the gymnasium has
+[0:00:07] um one wall that's unreinforced masonry
+[0:00:11] and that wall turns the corner. It is uh
+[0:00:14] gravity load-bearing supporting a heavy
+[0:00:16] concrete roof in a high occupancy area.
+[0:00:19] So, we will be addressing this wall
+[0:00:22] supporting in-plane and out-of-plane
+[0:00:25] um
+[0:00:26] providing secondary gravity
+[0:00:27] load-bearing. This will be in
+[0:00:29] construction um this summer 2026 and
+[0:00:33] this one's funded by the 2020 bond.
+[0:00:37] Similar Winter Haven gymnasium, high
+[0:00:40] occupancy area, two um load-bearing
+[0:00:44] unreinforced masonry walls with the
+[0:00:46] return
+[0:00:47] um also supporting a heavy concrete
+[0:00:49] roof.
+[0:00:51] Otherwise, that building is 1920s uh
+[0:00:53] concrete construction um summer 2026
+[0:00:57] construction and 2020 bond.
+[0:01:01] Okay, and then there was also some
+[0:01:02] questions about the roofing projects
+[0:01:05] that are currently in design and the
+[0:01:07] added seismic work that was added
+[0:01:09] post-report
+[0:01:11] um post-our-homes report to those
+[0:01:13] projects. So, I just wanted to go
+[0:01:15] through those as well.
+[0:01:17] So, this is a Chavez roof seismic and
+[0:01:19] bracing. Um the seismic scope that was
+[0:01:22] added to this was um noted in our report
+[0:01:26] um and there are some falling hazards
+[0:01:28] near the egress. So, we are um bracing
+[0:01:31] those falling hazards back to the
+[0:01:33] existing building um in all egress
+[0:01:35] locations.
+[0:01:37] So, this will also be going into
+[0:01:39] construction this summer.
+[0:01:41] 2017 bond-funded.
+[0:01:44] Um Marshall, we have uh
+[0:01:47] roof seismic. Typically, anytime we're
+[0:01:49] doing a re-roof, we're addressing
+[0:01:50] seismic at the roof level. I'm not
+[0:01:52] focusing on all that work right now. I'm
+[0:01:53] just focusing on the added seismic. Um
+[0:01:57] at Marshall, there are some corridors
+[0:02:00] that are supported there. It's concrete
+[0:02:02] frame building. Some of the corridors
+[0:02:04] are supported by a a by a ledge that's
+[0:02:08] pretty narrow in terms of if your
+[0:02:10] building's moving around in the
+[0:02:11] earthquake, there could be a slip off
+[0:02:13] the ledge falling hazard. So, we're
+[0:02:15] providing secondary gravity support
+[0:02:17] there to catch that slab.
+[0:02:22] Uh Vestal is um roof seismic and there
+[0:02:25] are a number of load-bearing URM walls
+[0:02:28] um in this building and those are being
+[0:02:30] addressed as well as expanded scope
+[0:02:33] during this roofing project. So, you can
+[0:02:35] see these are similar to Beach that we
+[0:02:38] were looking at with two layers of
+[0:02:40] hollow clay tile and the masonry veneer.
+[0:02:45] Um Woodmere roof seismic, um wood frame
+[0:02:48] building with concrete gym. There are
+[0:02:50] some unreinforced masonry pilasters at
+[0:02:53] um egresses and we are addressing those
+[0:02:55] as well at five at all five entries.

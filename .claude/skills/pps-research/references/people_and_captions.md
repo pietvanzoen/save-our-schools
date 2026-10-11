@@ -38,6 +38,9 @@ Scott (Zone 1, to Jan 2025).
 
 ## How captions render names (search both)
 
+`tools/caption_fixes.py` corrects these automatically in `analysis/transcripts_corrected/` (rules listed in the script).
+The tables below are still useful for the raw captions, the quote batches and older notes.
+
 | Caption rendering | Canonical |
 |---|---|
 | Wong | Wang |

@@ -1,5 +1,3 @@
-> **CAVEAT (controller, 2026-10-11):** parts of this file were written from YouTube *Arabic auto-translated* captions for these videos: gVtn7AYmhUU, ppbt9KnsTbk, bQb4RGUlfk0, kIF9qrrMy6E, S-pk57P6f_o, YfANSrxqAMI, 3N-rsU_g5Yk, zfvbTie4mpE, U8Cg5voCxXc, k0wbO5egtWA. Those meetings were re-analyzed from English captions in `batch10_redo_notes.md` and the corresponding `analysis/meetings/*.md`; prefer those. Quotes from the Arabic captions were removed from the JSONL files.
-
 # Batch02 notes: board and staff positions, Aug 5 to Sep 30, 2025
 
 **Scope.** 11 transcripts covering 11 meetings:
@@ -22,7 +20,7 @@ Below, **Analysis:** marks my inference. Citations use `[YT:<videoId>@H:MM:SS]`.
 4. **9/9.** Engelsman: "We're going to be having conversations about closing schools" [YT:HGAs0lyZ6kw@1:43:57]. On seismic:
    - La Forte, DePass and Wang tied seismic spending to rightsizing and consolidation;
    - Franco: "we can't retrofit … any building that potentially is going to be up for … right sizing" [YT:HGAs0lyZ6kw@4:15:51].
-5. **9/18 TLE (Arabic captions).** Calvert described a three-pronged sequence: enrollment campaign, then Jefferson dual assignment, then "school-size alignment" (rightsizing), with the timeline to come later and Franco as executive sponsor [YT:gVtn7AYmhUU@1:17:48].
+5. **9/18 TLE.** Calvert described "a three-pronged approach": the enrollment campaign as phase one, Jefferson's dual assignment as phase two, then right-sizing [YT:gVtn7AYmhUU@1:17:48] [YT:gVtn7AYmhUU@1:17:59]. Full English re-analysis: `analysis/meetings/2025-09-18_gVtn7AYmhUU.md`.
 6. **9/30 work session.**
    - La Forte asked that rightsizing be named in the work plan [YT:dVcyfTroSSI@2:18:25].
    - Wang said the "Boundaries"/board town halls are "about eventually right sizing" [YT:dVcyfTroSSI@2:19:14] and floated a boundary vote "this June or … probably January of next school year" [YT:dVcyfTroSSI@2:15:25].
@@ -89,7 +87,7 @@ Below, **Analysis:** marks my inference. Citations use `[YT:<videoId>@H:MM:SS]`.
   - warned stipends will be "a rough news story".
 - Values-alignment framing: board conflict, including on the bond, is about "how" [YT:m70mK_olqlc@0:58:05].
 - Pushes engagement design (seismic "without … pick me, pick me" [YT:HGAs0lyZ6kw@4:16:20]) and transparency. Running "to rebuild trust" so families choose PPS (medium).
-- **West-side enrollment advocate:** asked staff to target by capture rate and not only east-side zip codes, citing low SW capture (Arabic captions) [YT:gVtn7AYmhUU@0:50:58]. Wants CBSE programming reachable from Markham. Asked about Rieke seismic work alongside the Wells project.
+- **West-side enrollment advocate:** asked staff to look at catchment rate and not only where enrollment is down most, noting the targeted schools were all on the east side [YT:gVtn7AYmhUU@0:50:55]. Wants CBSE programming reachable from Markham. Asked about Rieke seismic work alongside the Wells project.
 
 ### Patte Sullivan
 - Few on-record substantive statements in this window. She chairs the Audit Committee.
@@ -129,7 +127,6 @@ Below, **Analysis:** marks my inference. Citations use `[YT:<videoId>@H:MM:SS]`.
 - **Outdoor School:** TLE recommended the resolution on 8/14 (Chase-Miller, La Forte, Splitt). On 9/9 Chase-Miller and Splitt voted no after principals' opposition; only Engelsman and La Forte voted yes.
 
 ## Attribution problems
-- **9/18 TLE (gVtn7AYmhUU): the caption track is an Arabic auto-translation.** No English quotes are possible. I logged 5 Arabic verbatim quotes, flagged in the paraphrase. Speaker identification was easy because speakers self-identified. **Recommend fetching the English ASR track and replacing these quotes.**
 - Many speakers are recognized only after they finish ("Thank you, Director X"). I used post-hoc recognition as high-confidence evidence when it immediately follows.
 - **CBSE 9/9:** the Toni Morrison speaker is attributed to Chase-Miller at low confidence. The chair said "Thank you, director DeFass" right after, yet DePass then gave the history lesson and Splitt thanked "director to pass for the history lesson". Treat as uncertain.
 - **Procedeo 9/9:** the "six years … delays" remark at 5:14:09 is mixed in with Armstrong's pivot; I did not quote it. The La Forte vote quote ("without a full RFP for the next round, it's a no") is inferred from the minutes' vote pattern (medium).

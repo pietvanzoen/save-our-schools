@@ -1,0 +1,1389 @@
+# 2025-12-09 Board of Education’s Facilities Improvement and Oversight Committee
+# Video: https://www.youtube.com/watch?v=XThyXtVtJto
+# Source: YouTube captions (asr, en), fetched 2026-10-11T00:24:58.563Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2025-12-09_XThyXtVtJto.txt
+# BoardBook meeting(s): 2025-12-09|721941
+# Link to a moment: https://www.youtube.com/watch?v=XThyXtVtJto&t=<seconds>s
+
+[0:00:00] Good afternoon everybody. Afternoon,
+[0:00:03] evening. Um,
+[0:00:06] the public meeting of the board of
+[0:00:07] education's facilities improvement and
+[0:00:09] oversight committee
+[0:00:10] >> for December 9th, 2025 is called to
+[0:00:13] order. Did you have a question?
+[0:00:14] >> I mic
+[0:00:16] I think it's just we've got a lively
+[0:00:18] crowd tonight. [laughter]
+[0:00:20] >> Um,
+[0:00:21] >> um, so good afternoon. Thanks for all uh
+[0:00:24] thank you all for being here. And uh
+[0:00:26] before we get started, I just want to
+[0:00:27] share a preview of what's on our agenda
+[0:00:29] today. We have public comment. Um we
+[0:00:32] have the grant bowl update. Um BAC audit
+[0:00:35] recommendations implementation. This is
+[0:00:37] more of just a briefing on work we'll be
+[0:00:39] doing more of next month. Um but just
+[0:00:42] getting a sense of what needs to happen.
+[0:00:44] Um going through the procedial report
+[0:00:45] and the recommendations for Jefferson.
+[0:00:48] Um, and sorry I I messed I messed up
+[0:00:53] that transition from work life to board
+[0:00:55] life. [laughter]
+[0:00:57] [gasps]
+[0:00:58] We're going to have a we're going to
+[0:00:59] start this month. We're going to have a
+[0:01:00] BAC audit recommendations
+[0:01:02] implementation. This is related to um
+[0:01:04] our BSA our audits over the last several
+[0:01:06] years and we have a list of items we're
+[0:01:08] going to start checking off of our lists
+[0:01:10] and incorporating into our meetings uh
+[0:01:12] each month so we can um um make sure
+[0:01:14] that we get them all taken care of. So
+[0:01:16] then we have proc report for uh
+[0:01:18] Jefferson updates um BAC charter. This
+[0:01:21] is what we're going to be setting the
+[0:01:22] stage for for next month and then future
+[0:01:25] agenda topics and next steps. So um do
+[0:01:30] we want to do introductions?
+[0:01:34] >> I mean
+[0:01:35] >> can I can I say something too? So we
+[0:01:37] just went through the agenda but um
+[0:01:38] there's an item that was added late
+[0:01:40] today
+[0:01:41] >> that I have not had the time. I've had a
+[0:01:43] crazy work life also. Um, and so, you
+[0:01:47] know, last week you requested an extra
+[0:01:49] five days, you know, or additional time
+[0:01:50] to read. I'd like to also have the same
+[0:01:53] um courtesy to have the time to read the
+[0:01:56] materials. That would be the BAC
+[0:01:57] charter. Um,
+[0:02:00] yeah, I'd like to do that. I'd like to
+[0:02:02] do that if and you know, it's if if we
+[0:02:04] all need time to read, then I think we
+[0:02:06] all need to be given the courtesy to
+[0:02:07] read the materials. So, I know it's
+[0:02:10] you've said it was urgent that we review
+[0:02:13] it because of the timing of the BAC
+[0:02:14] meeting next month, but that's a
+[0:02:16] self-imposed, you know, that's not a
+[0:02:18] hard
+[0:02:19] >> I I don't think I've done I must not
+[0:02:20] have been quite clear in my
+[0:02:22] communication because what what's
+[0:02:24] happening is next month on January 28th,
+[0:02:28] the BAC is meeting to update their
+[0:02:30] charter. So, I know the audit committee
+[0:02:32] is working on this and uh our internal
+[0:02:34] auditor has come to me suggesting that
+[0:02:37] um there are some flags that she has for
+[0:02:39] us as we work through the next month of
+[0:02:42] things that we might want to um address
+[0:02:43] or make recommendations for for that
+[0:02:46] charter review that happens at the end
+[0:02:48] of January. So, we have one meeting left
+[0:02:49] in between now and then. So, this was
+[0:02:51] just an opportunity for Janice to tell
+[0:02:53] us um like I said more of a briefing of
+[0:02:56] um what we should have our eye on. So my
+[0:02:57] hope was that that would give us between
+[0:02:59] now and our next meeting to actually
+[0:03:00] think about it and just understand like
+[0:03:02] what the ask is for next month,
+[0:03:04] >> right? And again, this was added like
+[0:03:07] this afternoon. I haven't literally had
+[0:03:09] time even to read through my email
+[0:03:11] today. So I'm asking for additional time
+[0:03:14] that the the bond audit committee has a
+[0:03:16] meeting in January
+[0:03:18] >> at the end of January
+[0:03:19] >> and they have another meeting coming up
+[0:03:21] after that. So I'm asking for the
+[0:03:23] courtesy, just the time to read the
+[0:03:25] materials. I literally do not have time
+[0:03:26] to read. Didn't have time to read today.
+[0:03:28] Uh also just left from work a little bit
+[0:03:31] early by the way.
+[0:03:32] >> Um is
+[0:03:34] >> and I'm just saying it's not necessarily
+[0:03:36] an urgent thing.
+[0:03:36] >> I'm I'm listening. I for for me as a
+[0:03:39] committee chair I do feel the need. I
+[0:03:41] have a you know sign significant amount
+[0:03:43] of project management experience and I
+[0:03:45] know that once we start talking about
+[0:03:46] things now it gives us the runway to not
+[0:03:49] be sitting in a meeting next month
+[0:03:50] saying I don't understand what what
+[0:03:52] we're supposed to do in this meeting to
+[0:03:54] hand off for the next meeting. So it's
+[0:03:55] really important to me that we have some
+[0:03:57] advance advanced notice but I'm going to
+[0:03:59] ask Liz in terms of the ability to share
+[0:04:03] information and make sure it's not a
+[0:04:04] serial meeting. Am I able to um take the
+[0:04:08] information from our internal
+[0:04:10] performance auditor, the
+[0:04:11] recommendations? We we we have a shared
+[0:04:14] document that a lot of these
+[0:04:15] recommendations are in, but we're honing
+[0:04:16] in on some that would be relevant to um
+[0:04:19] some new um expenses that have been
+[0:04:21] added to um our purview uh as FIO
+[0:04:24] committee. So, I just want to make sure
+[0:04:25] that I'm able to share information with
+[0:04:28] um Director Chase Miller, vice chair [DePass]
+[0:04:31]  um so that we are prepared for the
+[0:04:34] meeting in January and that we're
+[0:04:37] making, you know,
+[0:04:39] >> does that make sense?
+[0:04:40] >> Yes. So, either directly or through the
+[0:04:42] board office, you can send information
+[0:04:43] out. You just can't have an exchange
+[0:04:46] among a quorum of the board, which would
+[0:04:47] be any two of you about that. But
+[0:04:49] sending out that information one way,
+[0:04:51] >> sure,
+[0:04:52] >> you can certainly do that.
+[0:04:53] >> Okay. So then I would I'm I'mable to
+[0:04:56] that and um I would just I will touch
+[0:04:59] base with our internal auditor tomorrow
+[0:05:02] to share that information with you and
+[0:05:04] um and we'll go from there. How's that
+[0:05:06] sound?
+[0:05:07] >> Well, it should come through the board
+[0:05:08] office, I think. Is that correct?
+[0:05:10] >> I think I can send it. I mean, whichever
+[0:05:12] way I'll I'll check with you, Liz.
+[0:05:14] >> Yeah. Is there Okay. Yeah. I want to I
+[0:05:17] want to protocols which is different
+[0:05:19] than a public meetings question about
+[0:05:21] Okay. including the superintendent and
+[0:05:23] Rosanne in those communications I think
+[0:05:24] is the standard practice.
+[0:05:27] >> Yes. So I was just asking for again for
+[0:05:30] transparency
+[0:05:31] um that we have time to complete the
+[0:05:33] process and for then for time for me to
+[0:05:34] read it. I appreciate it.
+[0:05:36] >> No problem.
+[0:05:37] >> I appreciate it too.
+[0:05:38] >> Good teamwork guys.
+[0:05:40] >> High five ladies. [laughter]
+[0:05:42] >> Okay. So I'm gonna go ahead. We have a
+[0:05:46] busy meeting today. Are you guys go
+[0:05:47] ahead and just jump to public comment?
+[0:05:48] Do we want to do introductions? I see a
+[0:05:50] lot of familiar faces. Um, okay,
+[0:05:53] >> perfect. Let's do it. Um, so next we
+[0:05:57] have public comment. Please make sure
+[0:05:59] when you begin your comments that you
+[0:06:01] clearly state your name and spell your
+[0:06:03] last name. We'll have two minutes to
+[0:06:05] speak. Um, we ask that once you hear the
+[0:06:07] sound of the alarm go off to please wrap
+[0:06:08] up your comments. Um, and then after
+[0:06:11] that um, we'll kick it over to John. So,
+[0:06:13] let me pull up my list for today. Sorry
+[0:06:17] guys, I'm like jumping between a bunch
+[0:06:19] of uh
+[0:06:21] documents here. Okay, [snorts] so first
+[0:06:25] up, it looks like I need to zoom. It's
+[0:06:29] like a hot mess up here today. Um
+[0:06:32] Terrell Garrett.
+[0:06:36] And then do you want to time or do you
+[0:06:37] want me to time?
+[0:06:38] >> I will time. Terrell canled just before
+[0:06:40] we started.
+[0:06:41] >> Okay, great. Okay. I mean, not great,
+[0:06:43] but [laughter] next. Um, John Dwire.
+[0:06:57] All right.
+[0:06:58] Should I get going? Okay, cool. Um, hi,
+[0:07:01] my name is John Dwire, DW.
+[0:07:04] I'm here again speaking on behalf of
+[0:07:05] Safe Structures PPS. Uh, I also have a
+[0:07:08] fourth grader and first grader at
+[0:07:09] Beverly Clearary School. We appreciate
+[0:07:11] the progress that OSM shared at the
+[0:07:13] November facilities committee meeting.
+[0:07:15] It's encouraging to see PPS develop a
+[0:07:17] riskbased framework for prioritizing
+[0:07:19] size uh school repairs. Um however, we
+[0:07:22] are here today to continue urging full
+[0:07:24] transparency around how decisions are
+[0:07:26] being made and how the final list of
+[0:07:27] schools was determined. For example,
+[0:07:30] Jackson Middle School received a risk
+[0:07:32] score of 9.8 and has an enrollment of
+[0:07:35] over 700 students. yet it was not
+[0:07:37] prioritized for seismic work in the 2025
+[0:07:40] bond. Current and future Jackson
+[0:07:42] families deserve a clear explanation for
+[0:07:44] this decision. We're also surprised that
+[0:07:47] two of the selected schools are lottery
+[0:07:48] only rather than neighborhood schools
+[0:07:51] with risk scores of 9.1 and nine. Their
+[0:07:54] selection came at the expense of other
+[0:07:55] higher risk neighborhood schools. uh
+[0:07:58] because these programs draw students
+[0:07:59] from across the district, we'd like to
+[0:08:01] understand whether PPS considered the
+[0:08:03] option of relocating those programs to
+[0:08:05] safer campuses instead of prioritizing
+[0:08:07] seismic work at the current sites.
+[0:08:10] Additionally, of the nine schools chosen
+[0:08:11] for retrofits, only one was a title one
+[0:08:14] school. Several higher risk title one
+[0:08:16] schools were not selected in this
+[0:08:18] initial phase. We expect the district to
+[0:08:20] ensure seismic retrofit projects are
+[0:08:22] carried out with full transparency and
+[0:08:24] an equity focused approach.
+[0:08:26] We ask that OSM provide regular updates
+[0:08:29] on project status and implementation.
+[0:08:30] Transparency and decision-making will
+[0:08:32] help the community understand how
+[0:08:33] schools were selected and build
+[0:08:35] confidence in future phases. We also
+[0:08:38] call on the board to provide strong
+[0:08:39] oversight not only for seismic projects
+[0:08:41] but for all 2025 bond projects. Last
+[0:08:44] week the bond accountability committee
+[0:08:45] shared and I quote the 2025 2025 bond
+[0:08:49] measure seismic scope said that funds
+[0:08:50] were to fully fund 8 to 10 schools.
+[0:08:54] There is concern that with limited funds
+[0:08:55] and escalating costs, there may not be
+[0:08:57] enough money to achieve that goal.
+[0:09:00] This wasn't just aspirational language.
+[0:09:02] It was a formal resolution adopted by
+[0:09:04] the board and the explicit promise made
+[0:09:05] to voters while seeking passage of the
+[0:09:07] bond.
+[0:09:09] Uh, I'll wrap up really quick. The
+[0:09:11] district must honor that commitment it
+[0:09:12] made to the community or it undermines
+[0:09:14] the public trust that made this bond
+[0:09:15] possible. We also want to acknowledge
+[0:09:17] that $100 million is not nearly enough
+[0:09:19] to address all the schools that need
+[0:09:20] seismic work. We urge PPS to continue
+[0:09:23] pursuing grants and other funding
+[0:09:24] opportunities. And while major
+[0:09:26] investments have been made on the high
+[0:09:27] schools, too many lives are still at
+[0:09:28] risk at other schools. Their safety must
+[0:09:30] be treated with equal urgency as the
+[0:09:32] district looks at it.
+[0:09:33] >> Got to wrap up. I'm sorry.
+[0:09:34] >> Yeah. I just want to say seismic
+[0:09:36] improvements for these schools form the
+[0:09:38] core of the next bond.
+[0:09:39] >> Thank you. Appreciate it. Um and we will
+[0:09:42] have a check-in next month. We'll be
+[0:09:43] doing every other month's check-ins on
+[0:09:45] seismic. So that will be coming up next
+[0:09:46] month. So thanks for your comments. Um,
+[0:09:48] Elijah Pro.
+[0:09:50] >> Hi. Can you hear me?
+[0:09:52] >> Yes.
+[0:09:53] >> Hi. My name for the record is Elijah
+[0:09:55] Props. P R O B as in boy S T. And I'm a
+[0:09:58] parent of a now three-year-old son who
+[0:10:00] lives across the street from Buckman
+[0:10:01] Elementary. Um, I hope to enroll my son
+[0:10:04] there in the fall of 2028. Um, so since
+[0:10:07] you've heard from me before, I'd like to
+[0:10:09] congratulate the board on taking big
+[0:10:10] steps uh on the remaining high school
+[0:10:13] modernizations as well as the Center for
+[0:10:14] Black Student Excellence. Thank you also
+[0:10:17] for the work done by this committee and
+[0:10:18] PPS staff to get it to a point right
+[0:10:20] where Beverly Clearary and Rose City
+[0:10:21] Park are receiving full seismic upgrades
+[0:10:24] and other schools are receiving
+[0:10:25] improvements. These are all big
+[0:10:27] milestones. Thank you again. Um so as a
+[0:10:30] prospective Buckman parent and member of
+[0:10:32] Strongtown's PDX, Portland Neighbors
+[0:10:34] Welcome Bike Loud and Safe Structures
+[0:10:36] PPS. I love my community and I know that
+[0:10:39] my views are not just my own but shared
+[0:10:40] by at least hundreds of folks. So here's
+[0:10:43] my ask. Portland parents who are aware
+[0:10:45] of the seismic safety risks in our
+[0:10:47] elementary and middle schools request a
+[0:10:50] request a plan from the district to make
+[0:10:52] every school safe in an event of a full
+[0:10:54] RIP 9.0 earthquake. Um when I look at
+[0:10:58] not just Buckman uh but nearly all the
+[0:11:00] schools surrounding Buckman, they all
+[0:11:02] have home scores of 9.1, 9.0, 8.9, and
+[0:11:06] 8.2. On a 10-point scale, is this safe
+[0:11:10] and acceptable for our children? It's an
+[0:11:12] honest question that I wonder to myself.
+[0:11:14] I would imagine that some of these
+[0:11:16] schools close as part of a consolidation
+[0:11:18] effort, but it's hard to imagine them
+[0:11:20] all closing. If it's truly a good 10
+[0:11:23] years before the district has bond money
+[0:11:25] again, is there a plan to investigate
+[0:11:27] additional funding sources, perhaps
+[0:11:29] state level, federal level, or
+[0:11:30] philanthropy?
+[0:11:32] Um, that's that's a question to the
+[0:11:35] board. And I want to make it clear that
+[0:11:36] I do not blame the board uh for the
+[0:11:38] gross amount of wealth hoarded by the
+[0:11:40] millionaires and billionaires, some
+[0:11:41] local to our region, who could
+[0:11:43] theoretically cut a check to ensure the
+[0:11:44] largest school district in Oregon is
+[0:11:46] safe and modern. Thank you so much for
+[0:11:48] your time and your Tyler's commitment to
+[0:11:49] our children. I yield my remaining time.
+[0:11:53] >> Thank you. Um, FE Great House.
+[0:12:04] Good afternoon to everyone in this room
+[0:12:06] working so hard on Dr. Armstrong's
+[0:12:09] priority to bring safe buildings to PPS
+[0:12:11] students and staff. I'm Dr. Fe
+[0:12:13] greathouse with Safe Indoor Air for
+[0:12:15] Oregon schools. If you are familiar with
+[0:12:18] SAPOS, you might be expecting me to talk
+[0:12:20] today in the middle of flu season about
+[0:12:22] the many kids who are absent today
+[0:12:24] because we still have lots to of work to
+[0:12:27] do on clean air in classrooms. Uh but we
+[0:12:31] are actually here today to talk about
+[0:12:33] the fall heat wave and the temporary
+[0:12:36] cooling measures. Bringing in major
+[0:12:39] equipment to 15 schools on short notice
+[0:12:42] was a big step forward. It showed
+[0:12:44] initiative, creativity, and a commitment
+[0:12:47] to action. To help the district learn
+[0:12:50] from this effort, we've completed a
+[0:12:52] report on our survey of teachers in the
+[0:12:57] 15 schools. Teacher feedback
+[0:13:01] uh indicates that the temporary cooling
+[0:13:03] measures still need significant
+[0:13:06] improvement. I'm going to be straight
+[0:13:08] with you all uh and share that a lot of
+[0:13:10] teacher feedback, not all but a lot, was
+[0:13:13] extremely negative. Only 7% said that
+[0:13:16] the hallway fans were effective at
+[0:13:18] cooling their classrooms. Teachers
+[0:13:20] described extreme noise, safety
+[0:13:23] concerns, and student distraction. Uh at
+[0:13:26] the same time, a much higher proportion
+[0:13:28] of teachers who got portable air
+[0:13:31] conditioners in their actual classroom
+[0:13:33] reported that they were helpful and
+[0:13:35] effective. Teachers top priorities for
+[0:13:38] heat waves this coming spring are air
+[0:13:40] conditioners in the hottest classrooms,
+[0:13:43] upper floor windows being allowed to
+[0:13:45] stay open overnight, and far more
+[0:13:48] thoughtful placement of temporary
+[0:13:50] equipment. Um, I have copies of this
+[0:13:53] report to share with board members and
+[0:13:56] uh staff that I'm aware of uh who work
+[0:13:59] on these types of things.
+[0:14:02] May I ask if you have the all the
+[0:14:04] methodology behind sample size, kind of
+[0:14:06] geographic spread, some of that um
+[0:14:09] backend
+[0:14:10] >> uh information.
+[0:14:11] >> You'll see what's in the report and then
+[0:14:13] if you have further questions,
+[0:14:15] >> shoot me an email.
+[0:14:16] >> Okay. Thank you.
+[0:15:02] Oh, I was like, wait, where did she go?
+[0:15:04] Are you Are you done?
+[0:15:07] >> Okay. All right. [laughter]
+[0:15:08] No, it's okay.
+[0:15:10] I know. Thank you very much, Ephie. We
+[0:15:12] really appreciate all your advocacy
+[0:15:13] around this issue. Um, and Sasha Pock.
+[0:15:22] >> Good afternoon. My name is Sasha
+[0:15:24] Pollock. P O L A CK. I'm a Robert Gray
+[0:15:27] parent. I've worked in the area of
+[0:15:28] climate and clean energy policy for 15
+[0:15:30] years. I was really impressed when I
+[0:15:32] first read the PPS climate policy. It is
+[0:15:34] thorough and thoughtful and not only
+[0:15:36] addresses facilities issues, but also
+[0:15:38] the challenging topic of engaging young
+[0:15:40] people on climate change. I appreciate
+[0:15:42] the fact that this leadership team
+[0:15:43] continues to show commitment to it,
+[0:15:45] particularly in the design of new
+[0:15:47] schools. We are already feeling the
+[0:15:49] initial impacts of the changing climate.
+[0:15:51] Locally, this is manifesting as more
+[0:15:53] extreme weather, colder cold snaps,
+[0:15:55] resulting in more snow days that can
+[0:15:56] lengthen the school year, and especially
+[0:15:58] more hot days, requiring regular cooling
+[0:16:00] during the school year for the first
+[0:16:01] time. It is clear we need to explore new
+[0:16:04] solutions to high temperatures in our
+[0:16:05] buildings. Both to increase
+[0:16:06] effectiveness, reduce approximate health
+[0:16:08] impacts of diesel to which children are
+[0:16:10] more susceptible. Teachers in the SEO
+[0:16:12] survey whose classrooms were near the
+[0:16:14] diesel generators could smell diesel
+[0:16:16] exhaust in their classrooms and also to
+[0:16:18] align with PPS's climate goals. Of
+[0:16:20] course, the primary focus of emergency
+[0:16:22] heat response is regulating temperatures
+[0:16:24] to ensure the safety of students and
+[0:16:26] staff, but it is important to also
+[0:16:27] remain true to PPS's commitment to
+[0:16:29] increase energy efficiency, maximize the
+[0:16:32] use of renewable energy resources, and
+[0:16:34] minimize the use of fossil fuels. This
+[0:16:35] is part of goal 1.1 of the climate
+[0:16:37] policy. We are asking this new creative
+[0:16:40] operations team to explore less fossil
+[0:16:42] fuel intensive options to address
+[0:16:43] extreme heat, including plug-in portable
+[0:16:45] heat pumps as opposed to air
+[0:16:46] conditioners, which are capable of
+[0:16:48] effectively cooling large spaces are
+[0:16:50] less than $300 each and would address
+[0:16:52] many concerns expressed in the SEO
+[0:16:54] survey. If supplemental power is needed,
+[0:16:57] explore using electric batteries instead
+[0:16:59] of diesel generators. Burning diesel
+[0:17:01] causes significant localized health
+[0:17:03] impacts and also emits greenhouse gases
+[0:17:05] including black carbon which has a much
+[0:17:07] higher impact on the climate than CO2.
+[0:17:09] Unfortunately, going forward, extreme
+[0:17:11] temperatures are going to be more and
+[0:17:12] more commonplace and rather than being
+[0:17:14] treated as a one-off crisis where all
+[0:17:16] other policies can be ignored, they
+[0:17:18] should be planned for and thought about
+[0:17:19] well in advance to ensure that responses
+[0:17:21] are aligned with the district's policies
+[0:17:22] and practices, including minimization of
+[0:17:25] the use of fossil fuels. Thank you.
+[0:17:27] >> Thank you.
+[0:17:27] >> Very well timed. Thank you. [laughter]
+[0:17:31] Um, Shannon Kitrich
+[0:17:42] little slow today. I had a battle with
+[0:17:45] kidney stones yesterday. [snorts] Um, hi
+[0:17:48] everyone. My name is Shannon Kitrich.
+[0:17:50] Um, ki tt r i c k. I've been a teacher
+[0:17:54] for 25 years and I am here to represent
+[0:17:57] my students at Roosevelt High School.
+[0:18:00] Did you know and thank you for talking
+[0:18:02] about it, but Portland Public Schools
+[0:18:04] has the strongest climate change
+[0:18:06] response plan in the nation. I have done
+[0:18:09] the research and I think the world um we
+[0:18:11] are going to be climate neutral or
+[0:18:14] carbon neutral by 2040 which is a big
+[0:18:17] feat. Um,
+[0:18:20] and as part of the Portland Clean Energy
+[0:18:23] Fund grant, um, we have basically
+[0:18:26] received $36 million and 2 million of
+[0:18:29] that goes to student projects. Um, and
+[0:18:32] every middle and high school, um,
+[0:18:34] receive $10,000 per year for five years.
+[0:18:37] Um, and I believe there's a strong
+[0:18:40] potential for continued support. Um if
+[0:18:42] our partnership with Portland Clean
+[0:18:44] Energy Fund remains solid and the
+[0:18:46] district can demonstrate measurable
+[0:18:48] progress toward its climate impact
+[0:18:50] goals. Um at present students are
+[0:18:53] struggling to get infrastructure
+[0:18:55] projects approved through facilities and
+[0:18:58] that would meaningfully reduce the
+[0:19:00] carbon um footprint. Students wanted to
+[0:19:02] build a climate justice greenhouse this
+[0:19:04] year but we told it wasn't feasible this
+[0:19:06] year due to the workload of facilities.
+[0:19:09] A student commented, "Miss Kitrich, at
+[0:19:11] this rate, we're going to spend $2
+[0:19:12] million on posters and murals." Um, "My
+[0:19:16] students plan to ask PAF to continue to
+[0:19:18] support beyond the $36 million grant,
+[0:19:21] but the district must show it genuine
+[0:19:23] commitment to reducing climate projects
+[0:19:25] and investing in green infrastructure.
+[0:19:27] We ask facilities to prot prioritize
+[0:19:30] studentled projects and ensure everyone
+[0:19:32] supporting this work are properly
+[0:19:34] resourced and compensated. of the PF
+[0:19:37] funds. Um 10,000 was intended for
+[0:19:40] student led projects and 5,000 was um to
+[0:19:43] compensate um staff facilitating this
+[0:19:46] work. Um yet teachers have only received
+[0:19:49] a small portion of that amount um
+[0:19:51] roughly $2,400. A considerable share
+[0:19:54] appears to be redirected toward
+[0:19:56] administrative costs, though it mean
+[0:19:57] remains unclear what those costs
+[0:19:59] include. Meanwhile, staff such as school
+[0:20:02] secretaries, ordering um and um
+[0:20:05] facilities employees are not being
+[0:20:06] confiscated. Um students have faced
+[0:20:09] significant obstacles trying to move the
+[0:20:11] projects through. Um and moving forward,
+[0:20:13] my hope is to remove the barriers
+[0:20:15] preventing students from contributing
+[0:20:17] meaningful um projects to um reduce our
+[0:20:20] carbon footprint. Thank you for
+[0:20:21] listening.
+[0:20:22] >> Appreciate it, Shannon.
+[0:20:23] >> Thank you.
+[0:20:25] Okay, that wraps up our public comment
+[0:20:27] and
+[0:20:29] let's see here. Um,
+[0:20:33] I'm going to turn this over to Dr. John
+[0:20:35] Franco, senior chief of operations to
+[0:20:37] start off today's presentation.
+[0:20:39] >> Great. Thank you, uh, Director [La Forte]
+[0:20:41] and school board members.
+[0:20:44] So, as Director [La Forte] mentioned, we
+[0:20:46] have, uh, three agenda items today. Uh
+[0:20:49] we're first going to start out with uh
+[0:20:51] an update in regards to the grant bowl.
+[0:20:54] Uh then talk through some uh specific
+[0:20:57] bond audit recommendations
+[0:20:59] uh that were earmarked uh to provide
+[0:21:01] some updates on. And then uh we'll talk
+[0:21:04] through um the Prescidio report on
+[0:21:08] Jefferson. And up to the dis we have uh
+[0:21:11] Tom Audgers who's going to provide us uh
+[0:21:14] an update on the Grand Bowl.
+[0:21:16] >> You're smiling. Good [laughter]
+[0:21:18] afternoon, directors. Good afternoon,
+[0:21:20] Dr. Armstrong. Good afternoon, Dr.
+[0:21:22] Franco. Good afternoon, Liz Large. Um,
+[0:21:25] thank you very much for giving the
+[0:21:26] opportunity. Here's a quick uh update on
+[0:21:28] the grant bowl project. Uh, the permit
+[0:21:32] package has been submitted to the city
+[0:21:33] of Portland. The submitt has passed the
+[0:21:35] initial screening and is officially in
+[0:21:37] the city's intake process. No issues
+[0:21:40] have been flagged, excuse me, have been
+[0:21:41] flagged to date. Uh utility
+[0:21:44] coordination, coordination with Pacific
+[0:21:46] Power is underway. There are no known
+[0:21:50] utility obstacles that would delay
+[0:21:52] processing that we know at this time. We
+[0:21:54] are confirming final service
+[0:21:56] requirements and will update the
+[0:21:57] committee as soon as Pacific Power
+[0:21:59] completes its review.
+[0:22:01] Lighting systems must go. Our lighting
+[0:22:04] vendor informed us today that equipment
+[0:22:06] lead time is on schedule. Based on
+[0:22:09] preliminary signals, we expect the
+[0:22:10] fabrication and delivery timeline to
+[0:22:12] remain consistent with our target
+[0:22:14] schedule. Musco scope does not cover all
+[0:22:17] required electrical work. We are
+[0:22:19] obtaining pricing from our internal
+[0:22:20] electrical team uh for the remaining
+[0:22:22] components. This added scope is expected
+[0:22:25] to be straightforward and low risk in
+[0:22:27] terms of cost and schedule. Uh with
+[0:22:30] permits and intake and vendor timelines
+[0:22:32] being confirmed, the project remains on
+[0:22:34] track. Uh also some additional fun facts
+[0:22:37] with uh our parks coordination. PPS
+[0:22:40] showed some conceptual conceptual plans
+[0:22:42] to Portland parks and recreation for
+[0:22:45] Powell Park which is a shared use park
+[0:22:48] space. Uh parks is reviewing those
+[0:22:50] concept concepts and both agencies uh we
+[0:22:53] will meet in early January to discuss
+[0:22:55] next steps refinance refinements and
+[0:22:57] potential improvements or coordination
+[0:23:00] needs. This is part of a broader PPS
+[0:23:03] effort to ensure district athletic
+[0:23:05] programming is aligned with parks
+[0:23:07] long-term park and recreational plans.
+[0:23:11] Historically, PPS and Parks have had a
+[0:23:12] mixed and sometimes informal structure
+[0:23:14] for sharing or accessing fields and
+[0:23:16] facilities used by schools and community
+[0:23:18] sports groups. Parks is also moving
+[0:23:20] towards a standardized feebased
+[0:23:23] pay-to-play model for all field users,
+[0:23:25] including Portland Public Schools,
+[0:23:27] beginning next year. This won't have any
+[0:23:29] impact on our services.
+[0:23:32] [laughter]
+[0:23:34] Our current risks are low. We are
+[0:23:36] monitoring them. Uh final Pacific Power
+[0:23:38] confirmation. Uh Musco lead time
+[0:23:40] adjustments and coordination with
+[0:23:42] electrical contractor with Musco's
+[0:23:43] installation window. None of these
+[0:23:44] currently threaten the overall project
+[0:23:47] timeline and we will provide the
+[0:23:49] committee with Musco leadtime update and
+[0:23:51] any power Pacific power confirmation as
+[0:23:54] soon as they are received. Are there any
+[0:23:56] questions? Can you just restate what you
+[0:23:59] said about Pal Park? I was really
+[0:24:01] excited to hear something about that.
+[0:24:02] So, one more one more time for those in
+[0:24:05] the back. [laughter]
+[0:24:06] >> Certainly, we Portland public schools
+[0:24:09] showed a conceptual plan uh to uh to
+[0:24:12] parks for Powell Park. Uh Parks is
+[0:24:15] reviewing those concepts. Um it seems in
+[0:24:18] the positive and both agents is going to
+[0:24:20] come together in January to get aligned.
+[0:24:22] >> So, there's an agreement for a meeting
+[0:24:23] in January. That's great. That is great.
+[0:24:25] Thank you.
+[0:24:26] >> You're welcome. And so we're still
+[0:24:27] hitting so March 1st is still our target
+[0:24:29] for before track season starts. Yes,
+[0:24:31] ma'am.
+[0:24:32] >> Okay, great. Thanks.
+[0:24:32] >> You're welcome.
+[0:24:36] >> Same.
+[0:24:37] >> Okay. Thank you, Tom. I'm going to go
+[0:24:40] ahead and call up uh Sarah Norman and
+[0:24:44] Darren Lee. Sarah's our senior director
+[0:24:46] over OSM. and Darren Lee is uh one of
+[0:24:48] our directors of construction who's
+[0:24:50] going to walk us through uh some uh
+[0:24:52] progress updates uh in reference to some
+[0:24:55] bond audit recommendations.
+[0:24:58] >> Can I can I jump in just real quick
+[0:24:59] before I just want to share? So, we have
+[0:25:02] a a list of bond audit recommendations
+[0:25:06] from um several different bond audits
+[0:25:08] that have um cropped up over the last
+[0:25:10] few years. So our internal performance
+[0:25:12] auditor has been preparing or has
+[0:25:14] prepared a document that I'm sure we've
+[0:25:16] all seen it that rolls up all of these.
+[0:25:18] So um the idea is to sort of start
+[0:25:22] chipping away at all of these things
+[0:25:24] like whether it's you know two a month,
+[0:25:26] three a month depending on what our
+[0:25:27] agendas are like but just to start kind
+[0:25:29] of taking a swipe at them and this is
+[0:25:31] our first first day of that. So
+[0:25:33] >> for Virginia I wanted to let you know
+[0:25:34] that OSM has been doing that since the
+[0:25:37] initial audit process. We have we also
+[0:25:39] have a spreadsheet that we've been
+[0:25:40] tracking progress on and have comments
+[0:25:43] and who and like who on our audit
+[0:25:45] committee is is the lead on that. And so
+[0:25:47] that is work that that is work that this
+[0:25:49] staff has been has ongoing been doing.
+[0:25:53] So just wanted to let I just wanted to
+[0:25:54] let you know that it's not new work.
+[0:25:56] Yeah.
+[0:25:57] >> I think what we have is just the stuff
+[0:25:59] that's still outstanding. So this is
+[0:26:01] Thank you.
+[0:26:01] >> Yeah.
+[0:26:04] >> Okay. um wanted to this is these I think
+[0:26:08] there were four total total uh
+[0:26:11] recommendations that um were brought to
+[0:26:14] our attention u for FIO and this is uh
+[0:26:17] clarify and memorialize contract I guess
+[0:26:19] am I do I need to read the slide I'm
+[0:26:22] just trying to okay so we we actually
+[0:26:26] this is complete we actually have taken
+[0:26:28] a lot of the recommend all of the um
+[0:26:30] modifications that we've made to
+[0:26:32] contract uh CMGC contracts moving
+[0:26:34] forward um have been um incorporated and
+[0:26:38] due to the feedback that we've received
+[0:26:40] from the the audit. And so um we just
+[0:26:44] wanted to kind of let you know that
+[0:26:45] that's where we are.
+[0:26:47] >> Yeah. And just addition on some of that
+[0:26:49] um a lot of times uh in the midterm
+[0:26:53] audit,
+[0:26:54] we'll get recommendations and anything a
+[0:26:57] priority that we feel is a priority we
+[0:26:59] we
+[0:27:00] aggressively go after. And this was one
+[0:27:02] of them. We tried to get in front of the
+[0:27:04] other Cleveland and Wells, but timing
+[0:27:07] and uh didn't allow it. So, we were able
+[0:27:09] to because of the switch from Anderson
+[0:27:12] to Hoffman, we were able to get in front
+[0:27:14] of that contract and make these uh 40
+[0:27:18] amendments to the contract from the
+[0:27:21] >> That was one of my questions. If if we
+[0:27:22] could see could provide a list of the 40
+[0:27:25] minutes. Maybe that's something you can
+[0:27:26] just share with. They actually are part
+[0:27:28] of you actually have them because they
+[0:27:29] were they were part of the consent
+[0:27:31] contract that we negotiated with Hoffman
+[0:27:33] in their exhibit R in their contract and
+[0:27:36] all of those all of those re um
+[0:27:38] >> all of those changes to the contract
+[0:27:40] that were agreed upon and negotiated at
+[0:27:41] that time are are there.
+[0:27:46] >> I love it. Okay.
+[0:27:49] >> Okay. Moving to an update on the second.
+[0:27:54] >> Um yeah, this is this is ongoing. Um I
+[0:27:57] just wanted to let you know that we as
+[0:27:59] you mentioned that we have quite a few
+[0:28:01] audit um accountabilities for the
+[0:28:03] overall bond program. Um executive
+[0:28:06] leadership as of um current executive
+[0:28:09] leadership is very active in the
+[0:28:11] performance audit. In fact, I wanted to
+[0:28:13] list here the on the seven-year
+[0:28:14] performance audit that just kicked off.
+[0:28:16] Um, John Franco, myself, Tom Rogers,
+[0:28:19] Peter Peter Jay, I'm just gonna say
+[0:28:22] Peter Jay.
+[0:28:22] >> Yeah, perfect.
+[0:28:23] >> Um, and other key members participated
+[0:28:26] participated in the audit kickoff
+[0:28:27] meeting. Um, and since have completed
+[0:28:29] individual interviews. So, believe me,
+[0:28:31] um, not only that, uh, the the
+[0:28:33] performance auditor also interviews
+[0:28:34] people uh, uh, board uh, board members
+[0:28:37] as well and um, BAC. So, um, definitely
+[0:28:41] executive leadership is involved in the
+[0:28:42] overall audit process.
+[0:28:45] Will there be a point person that we can
+[0:28:48] connect with that you know
+[0:28:49] >> I am the I am the point staff person for
+[0:28:53] the performance audit.
+[0:28:54] >> So I'll reach out to you in terms of
+[0:28:55] like how to like you know best you know
+[0:28:57] communicate this information. So
+[0:28:59] >> our auditor has the same information
+[0:29:00] like just what that workflow looks like
+[0:29:02] because it's kind of it's kind of new.
+[0:29:04] Okay.
+[0:29:04] >> So um great. Okay.
+[0:29:06] >> Yeah.
+[0:29:09] >> Okay.
+[0:29:11] So um this is uh the bond accountability
+[0:29:14] committee uh quarterly reports. Uh we
+[0:29:16] actually do have those on our website. I
+[0:29:18] included the website in this slide.
+[0:29:20] Listen, I know that our website went
+[0:29:22] through a transformation recently
+[0:29:23] [laughter]
+[0:29:24] and and there have been some links and
+[0:29:26] different things that have not have not
+[0:29:29] been uh and until someone tells us we
+[0:29:31] don't know, it's not there. And so just
+[0:29:33] openly um but we are diligently working
+[0:29:35] to make sure that all of those quarterly
+[0:29:36] reports and everything are reported on a
+[0:29:38] regular basis on the website. So, if
+[0:29:40] there is something that you're not
+[0:29:41] seeing or that we can update for you,
+[0:29:43] please let us know and we'll we'll make
+[0:29:44] sure to jump on it.
+[0:29:47] >> Thank you. I just we I know we noticed
+[0:29:48] that there were just a few, you know,
+[0:29:51] that needed required access and I know
+[0:29:53] this is like there's this website's a
+[0:29:55] huge transition. I think we're all we're
+[0:29:56] all feeling it.
+[0:29:57] >> I kind of I feel like I knew where stuff
+[0:29:59] was and now I'm not sure where stuff is.
+[0:30:01] [laughter]
+[0:30:01] >> Okay. It's a secret. So, so no. So,
+[0:30:03] seriously, but if there's something
+[0:30:04] you're looking for, please don't
+[0:30:05] hesitate to reach out through uh Rosa. I
+[0:30:08] mean, we'll we'll get it to you.
+[0:30:09] >> Okay. Great.
+[0:30:16] >> This one I'm gonna let you take.
+[0:30:17] >> Yeah. So, this one it's kind of tied to
+[0:30:19] the other one where we uh the other
+[0:30:21] recommendation where we uh renegotiated
+[0:30:25] the contract
+[0:30:26] for
+[0:30:27] >> [snorts]
+[0:30:27] >> uh Hoffman. Um, a lot of these are
+[0:30:30] internal from our internal auditors that
+[0:30:33] our external auditor um interviewed and
+[0:30:38] it's just things that have come up over
+[0:30:39] the last the especially Benson where
+[0:30:44] um
+[0:30:45] some of our contract language was was
+[0:30:48] vague and had some loopholes that the
+[0:30:50] contractor could exploit and uh in a way
+[0:30:53] that just made it really and
+[0:30:56] um
+[0:30:59] thus the 40 um adjustments and
+[0:31:02] amendments to the other contracts. So,
+[0:31:04] we just received a proposal from our
+[0:31:06] internal auditor. Very happy to get in
+[0:31:09] front of this because usually we do it
+[0:31:11] at a kickoff and then a midterm audit
+[0:31:14] and then by the end we're dealing with
+[0:31:16] same thing we dealt with before, right?
+[0:31:18] And so, we're getting in front of it
+[0:31:20] this time. We have a a proposal uh under
+[0:31:24] review right now and
+[0:31:26] uh he'll be under contract and he's he's
+[0:31:29] audited internally every project high
+[0:31:32] school we've ever done. So he has that
+[0:31:34] in institutional knowledge and ready to
+[0:31:38] go. I could go into very uh specific
+[0:31:41] details, but basically looking at direct
+[0:31:43] labor and burden costs, there's 20
+[0:31:47] bullet points of that. Some contractor
+[0:31:49] costs, materials, materials and
+[0:31:51] equipment, other direct costs, uh GC's
+[0:31:55] and GRs, how they they staff,
+[0:32:00] uh across the board. So um he will
+[0:32:02] definitely be involved um before we
+[0:32:05] start negotiations which is usually
+[0:32:07] about uh
+[0:32:09] 25% construction docks or so. Um, so
+[0:32:13] we'll we'll be uh in place with that
+[0:32:15] contract,
+[0:32:16] >> but I don't I don't want it to be lost
+[0:32:18] that we are going to the one of the
+[0:32:19] reasons that we are in CMGC contracts is
+[0:32:22] because we are bringing the construction
+[0:32:24] team on board ahead of time so that they
+[0:32:26] are in the design meetings with us
+[0:32:27] providing constructibility reviews and
+[0:32:30] understanding the design intent behind a
+[0:32:32] system that might not be completely
+[0:32:33] designed. And so I want one of the
+[0:32:36] reasons you go to a GMP is because it is
+[0:32:38] a guaranteed maximum price. So the onus
+[0:32:41] of all of this is on the contractor and
+[0:32:44] we are going to hold those contractors
+[0:32:46] accountable to PPS for that reason. And
+[0:32:49] so yes, I understand this comment, but I
+[0:32:51] also think it's a it's a change in how
+[0:32:54] we manage our consultants and our
+[0:32:56] contractors and really holding them
+[0:32:58] accountable to the contract language
+[0:33:00] that we currently have in place and the
+[0:33:01] definition of what a GMP is.
+[0:33:07] >> That's great. All good news. And so then
+[0:33:09] the differences between Jeff and Wells
+[0:33:11] and Cleveland are what we talked about
+[0:33:12] on the first one that there were some
+[0:33:15] that's the exhibit R. Okay, great. Thank
+[0:33:18] you.
+[0:33:18] >> Yep.
+[0:33:22] >> Okay, so
+[0:33:27] >> so that concludes the updates on the
+[0:33:29] four um bond audit recommendations and
+[0:33:33] and like Director [La Forte] said um
+[0:33:36] specifically we'll be reviewing
+[0:33:38] um try to review uh updates
+[0:33:42] um at each FIO meeting. And so I think
+[0:33:45] that that's actually a very good
+[0:33:46] practice and and I think to uh Sarah's
+[0:33:49] point like this has been an ongoing
+[0:33:51] piece uh in terms of the staff
+[0:33:54] consistently reviewing these pieces and
+[0:33:56] so happy to provide that those updates
+[0:33:58] moving forward. Um our next agenda topic
+[0:34:01] is in regards to um uh our procidial
+[0:34:05] report which you all have. Um and there
+[0:34:08] here we have um um Brian Johnson who is
+[0:34:13] the president of uh Precid. Very happy
+[0:34:17] to have him there. We know Sarah. And
+[0:34:19] then of course we have and then we have
+[0:34:20] TJ um Watkins here who is also our who's
+[0:34:24] going to be working very specifically
+[0:34:26] with the team. uh she's going to be our
+[0:34:29] um program director and so very happy to
+[0:34:32] to have all three of them here and then
+[0:34:34] we're just gonna they're just going to
+[0:34:35] walk us through uh what's in the report.
+[0:34:38] >> Yeah, this is uh I'm going to kick us
+[0:34:40] off but I'm going to allow my teammates
+[0:34:41] to actually chime in quite a bit. Uh uh
+[0:34:44] this is the first time that we've had
+[0:34:45] the opportunity to actually discuss this
+[0:34:46] report. So we appreciate we appreciate
+[0:34:48] the opportunity to to discuss it. We
+[0:34:50] want to let you know that this was a
+[0:34:52] this is our contract deliverable that we
+[0:34:54] were requested to do at um on page four
+[0:34:56] of our report. We actually reiterate the
+[0:34:59] three main points of what this what this
+[0:35:01] deliverable was to be. And so um and
+[0:35:04] that is exactly what this report did. Um
+[0:35:07] so we were tasked with providing a
+[0:35:12] conceptual outline of opportunities that
+[0:35:14] we could see to expedite the Jefferson
+[0:35:17] project, the Jefferson modernization.
+[0:35:19] And so you cannot comprehensively look
+[0:35:22] at that program without looking at some
+[0:35:24] of the work that some of the ideas that
+[0:35:26] have already been that have already been
+[0:35:27] presented. We noted within our report
+[0:35:30] that we understood that these had been
+[0:35:32] that these had been vetted. However,
+[0:35:34] there's new leadership. There's new
+[0:35:36] board members. There's new So we wanted
+[0:35:38] to make sure again this is a
+[0:35:39] comprehensive to the superintendent and
+[0:35:41] to the district. So we have to we have
+[0:35:43] to show you that those those
+[0:35:45] opportunities are still there should
+[0:35:47] they should they want to investigate
+[0:35:49] them further. So I'm going to go
+[0:35:52] directly into kind of the or the
+[0:35:55] options.
+[0:36:03] It's been a minute since I've looked at
+[0:36:05] this report. So give me a second.
+[0:36:08] All right. Our option number our option
+[0:36:10] number one we called shell. And um what
+[0:36:14] this what this did was it expedited the
+[0:36:16] timeline of being able to move the
+[0:36:20] students into the new building um by
+[0:36:23] getting the first and second floors
+[0:36:25] ready for the students while the
+[0:36:27] interiors were still going on on the
+[0:36:29] third and and fourth floor. Do you want
+[0:36:32] to add anything?
+[0:36:33] >> Yeah. And and just to clarify when we
+[0:36:35] mean shell um the third and fourth
+[0:36:38] floors um everything will be built
+[0:36:40] simultaneously. So the structure
+[0:36:43] everything hard everything would be
+[0:36:44] built simultaneously. So the only work
+[0:36:46] that would be remaining on the third and
+[0:36:48] fourth floor would be like tenant finish
+[0:36:50] out like finishes
+[0:36:51] >> interiors
+[0:36:52] >> interior interior things that wouldn't
+[0:36:54] be uh a detriment to the student
+[0:36:57] learning environment while they're on
+[0:36:58] the first and second floor.
+[0:36:59] >> Exactly. And so, so you have to have
+[0:37:00] your HVAC systems up, you have to have
+[0:37:02] your elevators up, you have to have your
+[0:37:04] life safety systems up. And so that's
+[0:37:06] what we mean by that. And so, believe
+[0:37:07] me, we understand that you have to have
+[0:37:09] all of those things in order to have
+[0:37:10] occupancy. But what this did is it opp
+[0:37:13] it was the opportunity to open up some
+[0:37:15] of those big box spaces for the students
+[0:37:18] a year earlier so that those students
+[0:37:20] that are the students at Jefferson High
+[0:37:22] School could experience that prior to
+[0:37:24] their graduation. And so that's kind of
+[0:37:26] why we didn't want to leave this off the
+[0:37:27] report because it is an opportunity.
+[0:37:29] Yes. Are there logistical things and
+[0:37:31] coordination that need to take place and
+[0:37:32] additional an additional um
+[0:37:35] investigation into this option?
+[0:37:37] Absolutely. But we we we really
+[0:37:39] appreciated this option and again being
+[0:37:42] able to get the students. It's all about
+[0:37:43] the kids getting them in school and
+[0:37:45] letting them have the opportunity to um
+[0:37:48] appreciate the modernization that we're
+[0:37:50] doing for them. And that's what this
+[0:37:51] option is about.
+[0:37:57] The second option which I did did not
+[0:38:00] know if this if this was previously
+[0:38:01] discussed. It was not in my to my
+[0:38:04] knowledge that it was previously
+[0:38:05] discussed. Um it this was actually
+[0:38:07] building a port a portable educational
+[0:38:09] village on site uh for the students. So
+[0:38:12] this would be that the Jefferson
+[0:38:13] students would then re re swing into the
+[0:38:16] portable village that was actually in on
+[0:38:18] site at Jefferson. So it wasn't taking
+[0:38:20] them away from their community and their
+[0:38:23] school. Um and so what this would do is
+[0:38:25] obviously the first step would be um
+[0:38:28] temporary uh temporary educational
+[0:38:30] village. Um and then being able to de
+[0:38:34] demolish the existing Jefferson High
+[0:38:36] School building at the same time or uh
+[0:38:40] at the same at the same time we would be
+[0:38:42] able to go up with the new building and
+[0:38:43] have bring down the old building. And of
+[0:38:46] course, this is all in line with land
+[0:38:48] use and permitting that we would have to
+[0:38:49] all of these are by the way. We took all
+[0:38:51] of that into consideration. We took the
+[0:38:54] schedules that we had from the teams
+[0:38:55] from the design teams and we actually
+[0:38:57] put those into our schedule analysis
+[0:38:58] within the report so that we had all of
+[0:39:00] those accounted for with our schedule
+[0:39:02] dates.
+[0:39:03] >> Yeah. Um this this option is going to
+[0:39:06] take a lot of coordination. Obviously
+[0:39:07] having uh kids in a portable village,
+[0:39:09] you got to think about where where
+[0:39:10] they're going to eat, uh restrooms and
+[0:39:12] things like that. and also the safety
+[0:39:14] concern of kids being in portables. Um,
+[0:39:16] so I mean it's it's an option, but it's
+[0:39:18] going to take a lot of coordination in
+[0:39:20] order to uh make this happen and make
+[0:39:21] sure that the kids are safe and they
+[0:39:22] have a great learning environment while
+[0:39:23] they're in a portable village.
+[0:39:28] >> So then three is not one that we need to
+[0:39:30] talk about too much because you guys are
+[0:39:31] aware of it. It's uh it's swinging the
+[0:39:33] swinging the students off site. it's
+[0:39:35] actually re, you know, providing a
+[0:39:37] additional swing space for the students
+[0:39:38] to go someplace else and and what that
+[0:39:40] would do to the timeline and being able
+[0:39:42] to speed this timeline because it would
+[0:39:43] allow the existing Jefferson building to
+[0:39:45] be demolished and then of course go up
+[0:39:47] with the new building and have the
+[0:39:48] fields done concurrently. So that I know
+[0:39:51] that this has been investigated, you
+[0:39:52] know, obviously, but you cannot do a
+[0:39:54] comprehensive report without showing
+[0:39:55] that there are schedule and um economic
+[0:39:58] benefits to swinging students.
+[0:40:02] I just want to add to that that there's
+[0:40:04] there was significant community push
+[0:40:06] back about swinging students because of
+[0:40:08] the size of our city because of the
+[0:40:09] distance from the community and because
+[0:40:12] the community is already vulnerable and
+[0:40:14] so you know moving them 11 miles away a
+[0:40:17] student body of 400 we just thought
+[0:40:19] we're just going to lose students. So
+[0:40:21] >> the parents really advocated to keep
+[0:40:24] them on site like we did at Lincoln and
+[0:40:26] like we plan to do at [Ida B. Wells].
+[0:40:28] >> Yep. And I just I do want to say that
+[0:40:30] Prescidio I mean in the report it says
+[0:40:33] Prescidio is aware that Portland Public
+[0:40:34] Schools voting community has previously
+[0:40:36] rejected the swing proposed in option
+[0:40:38] three. So I just I just want to make
+[0:40:41] sure that everybody understands we I
+[0:40:42] promise we've been plugged in with you
+[0:40:43] guys with the community. We understood
+[0:40:45] it. But when you're asked to do a
+[0:40:46] comprehensive report, you can't not talk
+[0:40:48] about that option.
+[0:40:50] >> Absolutely. And I it's really for th
+[0:40:52] those in the back.
+[0:40:53] >> Yes. Exactly. Yes.
+[0:40:56] So then we go so then we go through pros
+[0:40:58] and cons of all all three options. Um
+[0:41:01] and obviously I'm not going to read the
+[0:41:02] report to you that's there. It's it's
+[0:41:04] it's a public document. It's on the
+[0:41:06] website I think at this point. Um and
+[0:41:08] then we and after the pros and cons, we
+[0:41:11] go through um design, permitting,
+[0:41:13] construction schedule comparisons. And
+[0:41:15] this is where I kind of talk through how
+[0:41:17] we took what we had been what we had
+[0:41:19] been provided by um the the team and
+[0:41:23] laid that out through the three the
+[0:41:26] three options. So we laid out we had the
+[0:41:27] current plan and then we then we laid
+[0:41:29] out options one, two, and three that I
+[0:41:32] just went through for the overall um and
+[0:41:35] kind of walk through that process.
+[0:41:38] >> Yeah, I'd like to point out that you
+[0:41:40] know each one of these options Presidio
+[0:41:42] has experience. We've done all three of
+[0:41:43] these options in in various other
+[0:41:45] districts. Um, but we wanted to present
+[0:41:47] all of them to you and it ultimately is
+[0:41:49] uh up to the community and the board to
+[0:41:51] decide on how to proceed on on Jefferson
+[0:41:53] High School. But we wanted to make sure
+[0:41:55] that we put all options on the table so
+[0:41:57] the students could have a place to go uh
+[0:42:00] soon as possible.
+[0:42:03] >> So for the Shell option, have you you've
+[0:42:05] done this like another high school like
+[0:42:06] womb tomb with the shell option?
+[0:42:09] >> Yes, ma'am.
+[0:42:10] >> Where was that? Um, Dallas ISD, we've
+[0:42:13] done that. For ISD as well, we've done
+[0:42:14] those sale options
+[0:42:16] >> and I've and I've done it in Washington
+[0:42:18] DC as well.
+[0:42:18] >> Okay.
+[0:42:22] >> How does what is the so what's the
+[0:42:26] process like from this point forward?
+[0:42:27] Like how do we
+[0:42:29] like what's what's happening right now
+[0:42:30] to determine which one of these are move
+[0:42:32] for? I know we're we've talked about the
+[0:42:33] shell option or is that coming to the
+[0:42:35] board? Has colis
+[0:42:38] Hoffman weighed in? I'm just kind of
+[0:42:39] curious.
+[0:42:40] So John, I think this is
+[0:42:42] >> Yeah. So I can uh touch base upon that
+[0:42:44] and I I want to be clear that um
+[0:42:48] obviously the swing is is definitely not
+[0:42:50] something that we would even uh broach
+[0:42:53] to director [DePass]'s point. I think I
+[0:42:56] think to Brian Johnson's point as well
+[0:42:59] in terms of the portable city from a
+[0:43:00] logistic logistics perspective that's
+[0:43:03] not feasible. So from a staff
+[0:43:05] perspective, worth exploring for sure
+[0:43:08] and we wanted to use this as an
+[0:43:09] opportunity to kind of gauge where
+[0:43:11] you're all thinking is the shell option.
+[0:43:14] that is definitely in our mind uh worth
+[0:43:17] I think to Sarah's point um diving in a
+[0:43:21] little deeper and actually figuring out
+[0:43:23] some pieces logistically um because
+[0:43:26] anytime again the whole purpose is
+[0:43:28] accelerating the timeline for Jeff and
+[0:43:31] um keeping that as the foundation and
+[0:43:34] seeing that we and especially with with
+[0:43:37] them having some experience doing this I
+[0:43:39] think it's definitely worth and that
+[0:43:41] would be our recommendation would be the
+[0:43:43] shell for further exploration
+[0:43:46] um to kind of figure that piece out.
+[0:43:48] >> When will we know which one you want to
+[0:43:52] >> I think the move forward with
+[0:43:54] >> I think on the staff memo that went with
+[0:43:56] the what that went with the report to
+[0:43:58] the board I think staff actually said
+[0:44:01] exactly what John just said um is that
+[0:44:03] out of all three options the one that
+[0:44:05] the new option that had been presented
+[0:44:06] was the shell option and you know we may
+[0:44:10] want to further investigate that option.
+[0:44:12] It's so we the swing option is off the
+[0:44:15] table.
+[0:44:16] >> So there's two options.
+[0:44:18] >> One isn't feasible. That's the portable
+[0:44:21] village.
+[0:44:22] >> It could be done with money, enough
+[0:44:24] money and time. And the shell option, in
+[0:44:27] my opinion, I've worked in occupied
+[0:44:30] spaces before and it can be done with
+[0:44:33] some creativity. Um it seems like really
+[0:44:36] the only option. It is
+[0:44:38] >> especially since you have experience
+[0:44:40] doing this which I trust 100%. Um like
+[0:44:45] Yeah. So there's really only the two the
+[0:44:46] shell or the portable v portables
+[0:44:48] village
+[0:44:50] >> which again we have to think about
+[0:44:51] electrifying and plumbing portables.
+[0:44:54] >> Yeah. Yeah.
+[0:44:55] >> And really I mean
+[0:44:56] >> sewer connections
+[0:44:57] >> all the things all the things and
+[0:44:59] >> electrical connections
+[0:45:01] >> because again this was turn this was
+[0:45:03] October and now we're in December and of
+[0:45:05] course we don't stop. I want the
+[0:45:07] Jefferson community and the students to
+[0:45:08] know we haven't stopped the community
+[0:45:10] the team the team is working to push
+[0:45:12] Jefferson forward and so we have we have
+[0:45:14] continued on design documents we've
+[0:45:16] continued with permitting we're actually
+[0:45:18] have early release fields going so the
+[0:45:20] educational portable village that window
+[0:45:23] is a is closing if not closed at this
+[0:45:26] point because we are we're going to be
+[0:45:28] ready to start those fields June
+[0:45:31] >> May 30th
+[0:45:33] >> I was going to say groundbreaking is May
+[0:45:34] 30th so Jefferson team's here. So I just
+[0:45:37] want to make sure uh so so May 30th. So
+[0:45:40] I think kind of that window is is
+[0:45:42] closing as well. So
+[0:45:43] >> So can I just note two things? Um thank
+[0:45:45] you. So I had an opportunity to have an
+[0:45:47] informal conversation with the lead for
+[0:45:50] Kas Hoffman and I said, "Hey, have you
+[0:45:53] you read do you know about this? Uh what
+[0:45:55] are your fillins? What are your
+[0:45:56] thoughts?" Again, it was an informal
+[0:45:58] conversation and he said, "If we have
+[0:46:01] permits and we have the drawing done
+[0:46:03] before January 2027, we can act
+[0:46:06] absolutely speed up to make sure that we
+[0:46:09] get Jefferson open as early as
+[0:46:11] possible." So, that's encouraging. I
+[0:46:13] know that he still would need to have
+[0:46:15] conversations with his team and our
+[0:46:17] team, but he didn't bulk at it. He was
+[0:46:20] like, "If I have the two things in
+[0:46:21] place, permits and drawings, then we can
+[0:46:24] absolutely push." And the other thing I
+[0:46:26] just want to note is that while the
+[0:46:28] window has closed for uh what we call
+[0:46:31] portable village, we know that we don't
+[0:46:35] have um necessarily swing sites up and
+[0:46:37] running when we're ready to do some of
+[0:46:40] those buildings that will need to be
+[0:46:41] replaced for seismic upgrades. And so at
+[0:46:44] some point we are going to have to have
+[0:46:46] a conversation about how we stand up a
+[0:46:49] uh portable uh village if you will to be
+[0:46:53] able to house students while we make
+[0:46:55] critical repairs that can't happen while
+[0:46:57] they're in the building. So I just want
+[0:46:58] to just put that out there just for
+[0:47:01] later ideiation and conversation.
+[0:47:05] >> Absolutely. And I've had also informal
+[0:47:08] conversations with Bora Architects and
+[0:47:10] uh Kus who is here and Kus Hoffman um
+[0:47:13] because both of them were kind of oh my
+[0:47:14] good goodness what are we doing like
+[0:47:16] Sarah what are we doing because I mean
+[0:47:17] you know what's going to affect and so
+[0:47:20] uh they we are eager to sit down with
+[0:47:22] the team the entire team um and and kind
+[0:47:24] of talk through whatever option we may
+[0:47:26] leadership may want us to investigate um
+[0:47:28] we just just kind of waiting for that.
+[0:47:30] So,
+[0:47:31] >> so as long as we have the permits by
+[0:47:33] January 2027, it should be fine.
+[0:47:36] >> That's what it sound informally. That's
+[0:47:38] what it sounds like. [laughter]
+[0:47:41] >> I don't have that I don't have that in
+[0:47:42] writing, Virginia. Okay.
+[0:47:46] [sighs and gasps]
+[0:47:47] >> Um
+[0:47:48] >> is is early assistance available on
+[0:47:50] those permits or no?
+[0:47:52] >> We're actually working with the um major
+[0:47:55] projects group and those meetings have
+[0:47:56] been going really really well. Um, so
+[0:47:58] they are they they're prepared for us
+[0:48:01] and um we've been working really hard
+[0:48:04] with land use to get our land use
+[0:48:06] application actually it's in and um
+[0:48:08] reviewed and pushing that forward as
+[0:48:10] well. And so we're well on our way from
+[0:48:12] a permitting perspective and uh I have
+[0:48:15] bi-weekly calls with the lead of the
+[0:48:17] major projects group at the city to try
+[0:48:19] and coordinate when certain things are
+[0:48:21] going to be coming in because we have
+[0:48:22] three major projects actually four major
+[0:48:24] projects that are about to start. And
+[0:48:25] so, uh, just building that relationship
+[0:48:27] with the city and letting them know that
+[0:48:29] these things are coming, um, really
+[0:48:31] really helps out.
+[0:48:33] >> So, the the whole shell would go up. The
+[0:48:36] students would be on the first and
+[0:48:38] second floors. We'd have bathrooms, we'd
+[0:48:40] have cafeteria, we'd have all of those
+[0:48:42] things, and then the additional work
+[0:48:43] would continue to happen on the third
+[0:48:45] and fourth floors. Okay. I know that I
+[0:48:47] heard some rumblings that they did
+[0:48:48] something similar at Roosevelt, which
+[0:48:50] was our first school that was
+[0:48:52] modernized. I'm not sure how that
+[0:48:53] happened, but there might be some. It's
+[0:48:54] calling out there might be some
+[0:48:55] institutional knowledge
+[0:48:56] >> and and Benson to a to a degree. I don't
+[0:48:59] know if we have folks maybe not prepared
+[0:49:02] to speak to that, but I know that when
+[0:49:03] Benson opened, we still had um the
+[0:49:06] entire uh Anderson construction on the
+[0:49:09] top floor occupied and still building
+[0:49:12] out too. So,
+[0:49:15] >> yes.
+[0:49:16] >> Will the fields be done at this? So, the
+[0:49:18] fields will be done as well.
+[0:49:20] >> The fields will be actually Let me go
+[0:49:22] back to that.
+[0:49:25] Sorry. It's like you read it, but then
+[0:49:26] when you can talk about it, you can kind
+[0:49:27] of start to envision it.
+[0:49:30] >> That option or the fields.
+[0:49:32] >> I don't think the I don't think the
+[0:49:34] football field will be done because we
+[0:49:35] have to the the the demolition the
+[0:49:37] demolition and the I sorry I have to go
+[0:49:39] back and look. I just don't know this
+[0:49:41] off the top of my head, but we have to
+[0:49:42] demo the school and then that creates
+[0:49:44] the the football field. So, it would not
+[0:49:47] be done at the same time. That would
+[0:49:48] still be ongoing as well.
+[0:50:09] That's all I got. It's great.
+[0:50:12] >> It sounds like we know which direction
+[0:50:13] we're headed.
+[0:50:14] >> Okay.
+[0:50:16] >> Just thank you. I appreciate that.
+[0:50:17] >> Thank you.
+[0:50:18] >> Thank you.
+[0:50:20] >> Okay.
+[0:50:22] So, um appreciate appreciate this.
+[0:50:26] Obviously, we have um it's good to get
+[0:50:28] some feedback and direction. So we will
+[0:50:30] move forward with further exploration
+[0:50:33] regards to the shell option. That's
+[0:50:35] exciting.
+[0:50:36] >> It is.
+[0:50:36] >> It is exciting.
+[0:50:37] >> Yeah,
+[0:50:38] >> that was even also exciting. It's I
+[0:50:40] can't believe it's 5:25 and I think
+[0:50:43] we're done.
+[0:50:43] >> I love it. [laughter]
+[0:50:45] >> I know.
+[0:50:46] >> That's a great uh you just look shocked
+[0:50:49] like what? [laughter]
+[0:50:52] >> We're getting there. Everybody look,
+[0:50:53] >> you know, just just keep this in mind
+[0:50:55] for TLE on Thursday.
+[0:50:56] >> Right. That's right. I'm watching
+[0:50:58] [laughter] you.
+[0:51:00] All right. So, um, oh, you know what?
+[0:51:02] Hold on. There is one more thing.
+[0:51:03] Committee members, um, I sent out an
+[0:51:05] email last night and I'll continue to
+[0:51:06] send it out. Are there any topics you
+[0:51:08] want to add to future agendas today or
+[0:51:10] do you want to email me?
+[0:51:11] >> I'd like to email you. Yes.
+[0:51:13] >> Okay, great.
+[0:51:14] >> Okay, perfect.
+[0:51:15] >> So, um, our next meeting of the
+[0:51:18] facilities improvement and oversight
+[0:51:19] committee is January 20th. I'm going to
+[0:51:21] actually use the gavl say this meeting
+[0:51:23] is adjourned just because I can. That's
+[0:51:26] fine.

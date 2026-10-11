@@ -1,0 +1,2552 @@
+# Bond Accountability Committee Meeting August 28th, 2023
+# Video: https://www.youtube.com/watch?v=lAivtj5XitM
+# Source: YouTube captions (asr, en), fetched 2026-10-11T08:01:39.829Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2023-08-29_lAivtj5XitM.txt
+# BoardBook meeting(s): 
+# Link to a moment: https://www.youtube.com/watch?v=lAivtj5XitM&t=<seconds>s
+
+[0:00:03] great could we maybe have our
+[0:00:06] um Bond accountability committee members
+[0:00:08] introduce themselves Kara maybe you need
+[0:00:11] to go first
+[0:00:16] all right student in the chat hi Cara
+[0:00:18] Toronto I'm the uh on accountability
+[0:00:20] member and I think you get the room is
+[0:00:22] chair is that what we go with this year
+[0:00:26] uh Norm how about you go ahead
+[0:00:29] sure I think I've been on the committee
+[0:00:31] about three years now and I'm three and
+[0:00:35] a half years into retirement after 40
+[0:00:37] years in the uh commercial General
+[0:00:39] Contracting industry
+[0:00:41] born and raised and grew up in Portland
+[0:00:43] Oregon went to Portland Public Schools
+[0:00:46] thank you
+[0:00:48] Jonathan
+[0:00:50] sir Jonathan try it I my day job is the
+[0:00:54] director of real estate development at
+[0:00:55] home forward the Housing Authority for
+[0:00:57] Multnomah County that's my third meeting
+[0:00:59] and my kids are very excited to start
+[0:01:01] school at PPS tomorrow
+[0:01:04] awesome uh Greg
+[0:01:07] yeah Greg Dorado I think I've been on
+[0:01:09] this for like three years Norm has been
+[0:01:13] graduated from Franklin High School and
+[0:01:15] been retired for 10 years after 14 as
+[0:01:19] the chief executive for the 12 water
+[0:01:21] district
+[0:01:22] fantastic and uh Ryan I think I saw you
+[0:01:26] out there
+[0:01:39] you had Ryan I'm not sure where Ryan
+[0:01:40] went I think we have
+[0:01:44] lost Ryan okay
+[0:01:47] there's a message in the chat
+[0:01:51] um he's been in and out he has joined a
+[0:01:54] couple times and then okay so he lost
+[0:01:57] connection right on his way home from a
+[0:01:59] summer adventure and I'll hold my camera
+[0:02:01] on and maybe we lost Ryan in transit
+[0:02:05] that he will be
+[0:02:10] okay
+[0:02:12] uh we
+[0:02:14] uh as it turns out we do not have
+[0:02:18] um any public comment tonight we did
+[0:02:20] have somebody who had signed up but then
+[0:02:22] determined that they weren't able to
+[0:02:24] make it to the meeting so they are going
+[0:02:26] to be sending those comments
+[0:02:28] um via email
+[0:02:29] we do have another comment we received
+[0:02:32] via email and we'll be forwarding that
+[0:02:34] to you as well
+[0:02:36] um shortly
+[0:02:39] and give me just a second I'm gonna let
+[0:02:42] Ryan in
+[0:02:50] okay so map holidays for uh
+[0:02:54] I feel like I'm juggling an awful lot of
+[0:02:56] different bits and pieces of technology
+[0:02:58] for the meeting tonight so we'll try not
+[0:03:01] to be too uh tricky with what I'm doing
+[0:03:05] here but we're going to go ahead and get
+[0:03:07] started with the
+[0:03:09] program Administration update
+[0:03:14] uh what I do want to do is of course
+[0:03:18] just mention as we always do that our
+[0:03:21] business Equity utilization data add
+[0:03:23] some constraints so when you see the
+[0:03:25] numbers on our program and project
+[0:03:27] status updates
+[0:03:30] those numbers
+[0:03:32] reflect basically payment to our Prime
+[0:03:35] contractors
+[0:03:36] to the extent that is uh contingent on
+[0:03:42] them entering information about their
+[0:03:44] subcontractors into our software
+[0:03:47] and self-reporting which subcontractor's
+[0:03:50] got how much in payments
+[0:03:52] that delay that information can be
+[0:03:55] delayed up to two or three months
+[0:03:57] um regardless of whenever it comes in we
+[0:03:59] always update those numbers and that'll
+[0:04:01] become pertinent and I think as we
+[0:04:03] discuss business Equity numbers
+[0:04:05] um with that program update give you
+[0:04:07] that in just a minute but it is just a
+[0:04:09] reminder that it is based on payments
+[0:04:11] made it is not based on total contracts
+[0:04:13] so the numbers will continue to change
+[0:04:15] um particularly as we move through our
+[0:04:17] larger projects
+[0:04:19] um you can see quite a bit of variation
+[0:04:20] from the start of a project to the end
+[0:04:22] of the project and what you see at the
+[0:04:24] start does not predict what you're going
+[0:04:25] to see at the end
+[0:04:30] so uh where that becomes useful is as we
+[0:04:35] head right into our program
+[0:04:37] Administration update and usually what I
+[0:04:40] do is I give you all information about
+[0:04:42] the business equity in the workforce
+[0:04:43] Equity numbers before we talk about the
+[0:04:45] finances
+[0:04:47] um you will see that our number if you
+[0:04:50] look at the current versus the prior
+[0:04:52] report for both the cumulative and the
+[0:04:54] 12-month rolling those numbers are down
+[0:04:56] slightly from the previous report
+[0:05:00] with the 12-month report that's not
+[0:05:03] necessarily an indicator of anything
+[0:05:04] significant
+[0:05:06] um they're rolling 12 months month
+[0:05:08] really just looks at what the data has
+[0:05:10] been over the previous 12 months since
+[0:05:11] the time of the meeting
+[0:05:13] uh the cumulative is generally where we
+[0:05:16] try to focus our attention
+[0:05:18] um we do see that that has gone down
+[0:05:20] slightly what we discovered over the
+[0:05:22] previous three months is that there were
+[0:05:24] some payments from one of our bigger
+[0:05:26] projects that were not showing up
+[0:05:28] correctly in our software we've
+[0:05:30] corrected that
+[0:05:31] and so you'll see a correction to the
+[0:05:32] data you'll see that that bigger project
+[0:05:36] was Benson you'll see that as we head
+[0:05:39] into the Benson report as well what I do
+[0:05:42] want to note though is that we're also
+[0:05:43] aware that the Benson payment
+[0:05:45] information is lagging by two to three
+[0:05:48] months
+[0:05:49] um again this is not unusual but it does
+[0:05:52] mean that we're going to see things
+[0:05:54] change as we move forward through the
+[0:05:56] project
+[0:05:57] our Workforce equity and data
+[0:06:01] is not significantly different from what
+[0:06:04] we reported on the last time
+[0:06:07] um you can also see the prior report
+[0:06:09] there to give you some context for the
+[0:06:12] current report
+[0:06:13] um minor increase in
+[0:06:17] minority Workforce
+[0:06:19] and minor decrease in apprenticeship the
+[0:06:23] critical items there of course uh is
+[0:06:26] that the apprenticeship is a hard
+[0:06:27] requirement
+[0:06:29] um the minority in the female Workforce
+[0:06:31] are gold
+[0:06:32] so a hard requirement of 20 for
+[0:06:35] apprenticeship we are above that we've
+[0:06:37] been above that for a number of years
+[0:06:39] now uh and with the minority and female
+[0:06:46] Workforce
+[0:06:48] um those goals are looking very good at
+[0:06:50] the moment uh from the minority
+[0:06:52] standpoint from the female standpoint
+[0:06:54] this is consistent uh where we've been
+[0:06:57] for again several years
+[0:07:00] we do know that if that we want to focus
+[0:07:03] on but we also know that those goals
+[0:07:04] were set without any
+[0:07:07] um you know real understanding of what
+[0:07:10] was immediately achievable
+[0:07:12] and what we're seeing for actual amounts
+[0:07:16] are consistent with other public
+[0:07:17] agencies so that makes us feel that
+[0:07:20] we're generally
+[0:07:23] similar to what other agencies are doing
+[0:07:25] even though we know it needs to be
+[0:07:27] better
+[0:07:31] any questions on Equity before I move on
+[0:07:33] to the financial side of the
+[0:07:36] program report
+[0:07:37] just like a quick one uh and
+[0:07:41] we have a nine percent goal for women
+[0:07:45] labor hours which we often struggle to
+[0:07:49] meet on our projects so it consistent
+[0:07:52] with your comments do you track what
+[0:07:55] jobs women are getting what they're
+[0:07:59] doing on the job sites in addition to
+[0:08:01] the total number of hours that they work
+[0:08:04] what
+[0:08:06] I I think I understand your question as
+[0:08:09] are we tracking which trades the women
+[0:08:12] are showing up in yeah exactly
+[0:08:16] um I'm actually gonna ask avtar if that
+[0:08:20] is data that is specifically tracked
+[0:08:22] after is our certified program business
+[0:08:26] certified business program manager
+[0:08:28] and he is the person who is most
+[0:08:31] familiar with the data that's available
+[0:08:32] in the system Avatar are you available
+[0:08:37] well I'm actually checking out the um
+[0:08:39] spreadsheet right now just so I can make
+[0:08:40] sure I'm accurate in my what I'm saying
+[0:08:44] uh hold on
+[0:08:47] foreign
+[0:08:55] we do certainly have the the breakdown
+[0:08:58] by project
+[0:09:00] but the question of whether
+[0:09:03] we get that information specific to
+[0:09:06] trade I think is the question that we
+[0:09:07] want to find out
+[0:09:10] um at the moment we don't have that
+[0:09:12] broken out into spreadsheet it is
+[0:09:14] something that we can possibly get
+[0:09:17] uh but look into that a little bit
+[0:09:18] further
+[0:09:20] sure that thanks just my own curiosity
+[0:09:24] a good question it's uh definitely
+[0:09:26] something that is worth looking into it
+[0:09:29] might help us identify other ways to
+[0:09:31] Target increasing that goal
+[0:09:38] uh okay moving on to the financial side
+[0:09:42] of things I take Financial with the
+[0:09:44] usually there's some non-financial
+[0:09:46] updates that go along as I go through
+[0:09:47] each of the programs as well but
+[0:09:50] um from the 2012 program
+[0:09:53] um
+[0:09:54] again no new news I think I've said this
+[0:09:57] several times now we're continuing to go
+[0:09:59] through and reconcile
+[0:10:01] um I think we've seen there's some minor
+[0:10:03] changes from the last report as we've
+[0:10:06] reconciled certain areas against our
+[0:10:09] system directly within PPS
+[0:10:12] um we'll continue to do that we'll
+[0:10:14] continue to show it up here but until we
+[0:10:16] have some certainty about what funds we
+[0:10:18] actually have
+[0:10:20] um available to use
+[0:10:22] we're we're not making any plans for
+[0:10:24] them so um once we get to what we feel
+[0:10:27] comfortable we can make plans we will
+[0:10:29] certainly have that conversation here as
+[0:10:30] well
+[0:10:36] moving on to the 2017 program
+[0:10:40] uh we are at 83 spent that is up from 81
+[0:10:45] last time
+[0:10:48] um I think as we
+[0:10:50] mentioned last time
+[0:10:52] that is going to
+[0:10:56] change as we so we have split funding
+[0:11:00] between 2017 and 2020 for the Benson
+[0:11:03] project
+[0:11:04] um with the 2020 fund we are dealing
+[0:11:08] with Arbitrage requirements which is
+[0:11:10] requirements to spend a certain amount
+[0:11:11] of money within a certain amount of time
+[0:11:14] uh on our bond sales and so we have
+[0:11:18] shifted our spending on Benson to 2020
+[0:11:22] funds in order to meet those
+[0:11:24] requirements this is a common thing we
+[0:11:26] do
+[0:11:28] um and
+[0:11:30] that means we're going to see less
+[0:11:33] a lower rate of spend on the 2017 funds
+[0:11:37] because Benson is the project that is
+[0:11:39] spending the most of our 2017 funds at
+[0:11:41] this point so
+[0:11:43] um you will still see that we spent
+[0:11:47] you know
+[0:11:48] um quite a bit as we were making that
+[0:11:51] transition but as we move into the next
+[0:11:53] meeting you should see that rate of
+[0:11:54] spend go down quite a bit on 2017.
+[0:11:58] primarily what's remaining in 2017 other
+[0:12:01] than Benson would be our health and
+[0:12:02] safety projects we have out of our
+[0:12:05] health and safety the the two
+[0:12:09] um
+[0:12:09] active really active programs are the
+[0:12:12] asbestos abatement and the water quality
+[0:12:14] program
+[0:12:16] um
+[0:12:16] and those are fairly small dollar
+[0:12:19] amounts in the grand scheme of things so
+[0:12:21] they're not going to move the needle
+[0:12:23] very much in terms of spend as we move
+[0:12:25] forward we do uh want to note that
+[0:12:30] um Lincoln has
+[0:12:32] um and you'll hear more about Lincoln as
+[0:12:35] we get further into the meeting tonight
+[0:12:37] but they've moved far enough along in
+[0:12:39] their project they're they're starting
+[0:12:41] to remove risks from their risk forecast
+[0:12:44] which means that they are anticipating
+[0:12:47] more money coming back to the program
+[0:12:49] that number has gone up I think it was
+[0:12:52] somewhere around 9 million
+[0:12:54] um at our last report we're up closer to
+[0:12:57] let's see 11.4 this time around
+[0:13:01] um I think we'll continue to see changes
+[0:13:03] in that as we move forward but as we
+[0:13:06] mentioned last time we are not at a
+[0:13:09] point where we are starting to to
+[0:13:11] forecast how we spend that money
+[0:13:14] um that money will come back to the
+[0:13:16] program contingency we do know that the
+[0:13:18] contingency has
+[0:13:20] potentially some available funds that
+[0:13:23] could be utilized on other projects as
+[0:13:24] well and so we want that as a bigger
+[0:13:27] discussion that kind of looks at more
+[0:13:28] than just what Lincoln is bringing back
+[0:13:31] um that discussion is coming soon but
+[0:13:34] it's not tonight
+[0:13:35] so we'll talk more about Lincoln uh as
+[0:13:38] we get further in
+[0:13:41] um health and safety I think as I
+[0:13:43] mentioned before we do actually have
+[0:13:45] um other funds of anticipate coming back
+[0:13:49] to the what we call the health and
+[0:13:52] safety bucket of funds the rate programs
+[0:13:55] that were covered under health and
+[0:13:58] safety some of those did not need all of
+[0:14:01] the funds that were assigned to them uh
+[0:14:04] because they've been able to complete
+[0:14:06] the scope of work with less
+[0:14:08] we do have a good chunk of money that's
+[0:14:09] coming back we are going to continue to
+[0:14:11] spend that on health and safety the
+[0:14:13] question is where does it go
+[0:14:15] um I think what you'll find is that we
+[0:14:18] are looking to spend that primarily on
+[0:14:20] roof Replacements given the pressing
+[0:14:23] need that we have to do that work and
+[0:14:25] the condition that we have of
+[0:14:28] roofs in our district still
+[0:14:31] so we should have more information about
+[0:14:34] that at the next meeting as well
+[0:14:39] questions about 2017 before I move on to
+[0:14:42] 2020.
+[0:14:46] okay
+[0:14:50] for 2020 we have spent 24
+[0:14:54] that's up from 20 last time in real
+[0:14:58] numbers
+[0:14:59] that is 61 million dollars that we've
+[0:15:02] spent in the last three months
+[0:15:03] that is just from the 2020 funds
+[0:15:06] sometimes when we talk about percentages
+[0:15:08] that doesn't mean much but the dollar
+[0:15:09] amount of the 2020 Bond was so much
+[0:15:11] bigger than the amounts for 2017 well
+[0:15:15] that that percentage actually means
+[0:15:17] quite a bit
+[0:15:18] um that number of 61 million does not
+[0:15:21] actually include all of the money that
+[0:15:23] we spent on summer projects
+[0:15:27] so we did a significant amount of work
+[0:15:29] over the summer
+[0:15:31] um typically there's a lag of a month at
+[0:15:34] least in getting all of those
+[0:15:36] invoices into our system Insurance
+[0:15:38] approved and we pulled data from August
+[0:15:43] 1st so there's an entire
+[0:15:46] um good portion of August work that was
+[0:15:49] being completed we have not even seen
+[0:15:51] those invoices yet so the next time I
+[0:15:54] expect we'll see another big increase in
+[0:15:56] the funds that were spent
+[0:16:00] um
+[0:16:01] the bond premium that we talked about at
+[0:16:03] the last meeting
+[0:16:04] that had not been entered into our
+[0:16:07] numbers yet that it has been entered now
+[0:16:10] so you will see a change in the
+[0:16:12] contingency that was a premium of 44.8
+[0:16:16] million from our April Bond sale
+[0:16:20] however uh in addition to putting money
+[0:16:23] into the contingency we also took money
+[0:16:25] out of the contingency we did transfer 4
+[0:16:29] million to the mpg project we've
+[0:16:32] discussed that previously that there
+[0:16:34] have been
+[0:16:35] um
+[0:16:36] real pretty much right from the start of
+[0:16:39] uh settling the GMP Amendment the GMP
+[0:16:43] and it was such a great increase in cost
+[0:16:46] construction cost due to inflation that
+[0:16:50] the GMP was already higher than we had
+[0:16:52] already anticipated it was going to be
+[0:16:54] and then on top of that we had
+[0:16:56] permitting issues Armenian costs were
+[0:16:58] significant more than we anticipate
+[0:17:01] and we also found a significant number
+[0:17:05] of
+[0:17:06] unforeseen conditions primarily dry
+[0:17:09] Wells
+[0:17:10] those are all things that we've
+[0:17:11] discussed in previous meetings we will
+[0:17:13] of course have a Benson and PG
+[0:17:16] presentation later tonight they weren't
+[0:17:19] necessarily planning to go into those
+[0:17:21] things but I'm sure Armin can speak to
+[0:17:23] them during the presentation if you have
+[0:17:24] questions
+[0:17:27] um
+[0:17:27] in addition to the 4 million that we
+[0:17:31] transferred to MPG for those cost
+[0:17:33] overruns
+[0:17:35] um we did also transfer funds to the
+[0:17:37] Harrison Park project
+[0:17:40] um we have had uh quite a bit of
+[0:17:43] discussion particularly at the last
+[0:17:44] meeting about the Harrison Park project
+[0:17:47] and all the different fund sources that
+[0:17:49] were going into it
+[0:17:50] and sort of our need to finalize what
+[0:17:53] the contributions were from those
+[0:17:54] different fund sources before we could
+[0:17:56] make up the funding that was needed for
+[0:17:58] the budget
+[0:18:00] um so we have put all of those fund
+[0:18:03] sources into the project at this point
+[0:18:05] you will get a report out in Harrison
+[0:18:08] Park at the next meeting
+[0:18:10] uh but you will see that that amount is
+[0:18:15] also showing up in the members and it's
+[0:18:17] in the notes we'll always home
+[0:18:21] um projects that occurred this summer
+[0:18:25] we did
+[0:18:26] 10 roof projects
+[0:18:28] first replacing projects most of those
+[0:18:30] are complete there are some minor things
+[0:18:31] that are continuing on
+[0:18:33] um
+[0:18:34] we completed seismic a full seismic
+[0:18:37] upgrade
+[0:18:38] we started the design work for another
+[0:18:41] seismic upgrade I will note that the one
+[0:18:45] that we're designing we did apply for an
+[0:18:47] srgp Grant in the most recent round we
+[0:18:50] did not receive that Grant we have
+[0:18:53] continued forward with the design for
+[0:18:55] that
+[0:18:56] um with kind of two things in mind one
+[0:18:59] is that we we will probably look to see
+[0:19:02] if we can apply for the srgp grant in
+[0:19:06] the next round
+[0:19:08] um beyond that we do have some funding
+[0:19:10] remaining in our seismic allocation from
+[0:19:13] the 2020 Bond we don't think it's enough
+[0:19:16] to cover the full cost so another option
+[0:19:20] would be for us to use program
+[0:19:22] contingency to make up what's remaining
+[0:19:26] for the cost on that having the design
+[0:19:28] complete gonna allow us to put a better
+[0:19:31] cost estimate to that work as well so we
+[0:19:35] can we can have a better sense of
+[0:19:37] whether using conditions contingency is
+[0:19:40] the best way to move forward with that
+[0:19:45] um also this summer
+[0:19:48] classroom door hardware we completed uh
+[0:19:52] um everything related to the classroom
+[0:19:55] door hardware upgrade that was both
+[0:19:58] security and accessibility work
+[0:20:02] except for two kind of special
+[0:20:06] um situations which is to say that our
+[0:20:08] portable
+[0:20:09] require a certain type of hardware
+[0:20:12] that Hardware is
+[0:20:14] on its way as soon as we have it we'll
+[0:20:17] be installing it we expect to have that
+[0:20:19] work done
+[0:20:20] by the end of October
+[0:20:22] we also have several doors within the
+[0:20:25] district that
+[0:20:27] if left alone there is there is no
+[0:20:31] concern about them but when you start to
+[0:20:33] get into the door to replace Hardware
+[0:20:35] they have hazardous materials in the
+[0:20:38] door
+[0:20:39] so what we're doing is we are completely
+[0:20:42] replacing the doors
+[0:20:45] that means every one of those doors has
+[0:20:47] to be measured has to be custom ordered
+[0:20:50] and it it is brought back we've
+[0:20:53] uninstall install installed a new
+[0:20:54] hardware so that work is going to be
+[0:20:57] continuing over the course of the next
+[0:20:58] school year as we go through each of the
+[0:21:01] sites to take those with measurements
+[0:21:05] um we are not giving a timeline
+[0:21:07] specifically on the network will be
+[0:21:08] complete because we want to kind of see
+[0:21:10] how that lays out
+[0:21:12] um with the first set of doors and what
+[0:21:14] I will say is that different sites have
+[0:21:17] different numbers of doors we may have a
+[0:21:20] school thing that has none of them we
+[0:21:23] may have one that has maybe one or two
+[0:21:27] of those types of doors we have other
+[0:21:29] school sites that may have 25 of those
+[0:21:31] doors so the impact is very different
+[0:21:33] depending on the School site
+[0:21:36] um
+[0:21:37] however we're very happy that we did
+[0:21:39] complete all the remainder of the
+[0:21:40] classroom Hardware project prior to the
+[0:21:42] starter School
+[0:21:43] we have all this started our upgrades
+[0:21:46] for accessibility and sped learning
+[0:21:49] environments
+[0:21:50] um those will be continuing on over the
+[0:21:51] course of the school year
+[0:21:53] um most of that is work that we can do
+[0:21:55] without having impacts on on staff and
+[0:21:59] students
+[0:22:00] and we are waiting for contract
+[0:22:03] execution on our security upgrades to
+[0:22:06] cameras
+[0:22:07] that is all the work that is going to be
+[0:22:09] touching
+[0:22:10] most schools in the district and we'll
+[0:22:13] be doing multiple bid packages for that
+[0:22:16] we have
+[0:22:18] I believe received bids for the first
+[0:22:21] four packages
+[0:22:23] um again contact execution is based on
+[0:22:26] approval by the board so we have to time
+[0:22:29] that to board meetings we hope to have
+[0:22:31] that soon so that we can get that work
+[0:22:32] started
+[0:22:34] um technology and curriculum
+[0:22:36] of course they are moving forward as
+[0:22:38] well as I mentioned in our email we are
+[0:22:41] not going to be doing presentations from
+[0:22:42] them tonight but we've let them know
+[0:22:45] that we need presentations at the next
+[0:22:46] meeting
+[0:22:48] modernization
+[0:22:50] presentations tonight
+[0:22:53] primarily that you're going to see
+[0:22:55] Lincoln giving us information that I
+[0:22:59] think we want to hear
+[0:23:00] good information we want to hear and
+[0:23:04] Benson and MPG and then Jefferson we
+[0:23:08] have a slightly longer presentation for
+[0:23:10] Jefferson so we've put that at the very
+[0:23:13] end
+[0:23:15] questions about
+[0:23:17] anything that I've said so far
+[0:23:25] okay
+[0:23:31] uh we do share this information in the
+[0:23:34] presentation
+[0:23:35] um just so you know how that's you
+[0:23:36] understand when we're looking at our
+[0:23:38] our
+[0:23:40] scorecard what the colors mean what
+[0:23:43] they're based on
+[0:23:44] um I don't think I need to go over here
+[0:23:46] but you have that information in your
+[0:23:48] materials
+[0:23:51] and we will
+[0:23:53] move on to Lincoln and I will turn this
+[0:23:57] over to
+[0:23:58] Eric
+[0:24:01] thanks Marina
+[0:24:03] hello everyone my name is Eric gerding
+[0:24:06] senior project manager for Lincoln high
+[0:24:08] school modernization project
+[0:24:12] um and happy to be reporting this
+[0:24:14] meaning that we are
+[0:24:16] going to say about two weeks and three
+[0:24:19] days away from final completion so
+[0:24:23] um
+[0:24:23] been a a long road to get here and uh
+[0:24:27] but really excited to be getting to this
+[0:24:29] point
+[0:24:31] um as far as our our status at a glance
+[0:24:34] at the previous report out to the BAC we
+[0:24:38] were still at a caution uh yellow for
+[0:24:41] our Equity category and uh kind of
+[0:24:44] related back to what Marina was saying
+[0:24:46] earlier that things change as far as
+[0:24:49] those were now getting towards the end
+[0:24:52] of our project and and having more of
+[0:24:57] that reporting coming in and with our
+[0:24:59] number with contractors you know getting
+[0:25:02] over our goals that's helping our
+[0:25:04] overall goals project that you can see
+[0:25:07] we're just just over 19
+[0:25:10] of participation of cozy related firms
+[0:25:14] so we're excited that we we are able to
+[0:25:17] come in above our goal uh that's been
+[0:25:19] great
+[0:25:21] um in general as far as our budget
+[0:25:24] Marina mentioned
+[0:25:26] um you know that we are forecasting a
+[0:25:27] good savings coming back currently about
+[0:25:30] 11.4 million
+[0:25:33] um I guess to put that into some
+[0:25:34] perspective
+[0:25:36] um people are asking kind of why or what
+[0:25:39] happened
+[0:25:40] um we
+[0:25:42] you know we started the project with a
+[0:25:44] 10 contingency for the overall project
+[0:25:47] budget which has been a standard of
+[0:25:50] practice for new construction within the
+[0:25:53] bond program
+[0:25:54] um that overall contingency was 24.2
+[0:25:58] Million
+[0:26:00] so what this is showing is that we you
+[0:26:02] know we use approximately 53 percent of
+[0:26:06] our overall projects and so we can see
+[0:26:07] up to this point our forecast and you
+[0:26:10] know bringing back just under half of
+[0:26:11] that so
+[0:26:13] um we're
+[0:26:15] you know I think as far as within the
+[0:26:16] overall budget and what we were
+[0:26:19] anticipating obviously we we are seeing
+[0:26:21] the same savings a lot of that though is
+[0:26:24] just tied into potential risk that we've
+[0:26:27] been able to
+[0:26:29] um well not have to fully realize as far
+[0:26:32] as paying for various risk items that
+[0:26:34] could occur so between the last
+[0:26:36] reporting the BAC and now
+[0:26:38] um you know we've received our final
+[0:26:40] permits we made our substantial
+[0:26:42] completion dates for phase two
+[0:26:45] um getting p-bot approvals having our
+[0:26:48] grading done you know all the sort of
+[0:26:50] major things still had risks we were
+[0:26:52] able to you know successfully complete
+[0:26:54] those as planned and we're able to kind
+[0:26:57] of release some of that potential risk
+[0:26:59] that we budget our contingency for
+[0:27:02] so
+[0:27:03] um there were I'd say you know various
+[0:27:06] items that are contributing to that
+[0:27:08] savings
+[0:27:10] um
+[0:27:10] a lot of it was timing
+[0:27:13] um
+[0:27:14] you know we were anticipating
+[0:27:17] I mean as you all can remember years ago
+[0:27:20] when we were planning course costs are
+[0:27:22] even higher now
+[0:27:24] um but when there was a lot of work in
+[0:27:27] the market not a lot of competition we
+[0:27:29] were getting really high numbers when we
+[0:27:31] were establishing our budget and when
+[0:27:33] once we actually bought out the project
+[0:27:36] which was I'd say you know just right
+[0:27:39] after uh or as covid the pandemic was
+[0:27:42] starting
+[0:27:43] there was a lull in the markets things
+[0:27:47] kind of slowed down and we ended up
+[0:27:49] getting a lot more competition uh in
+[0:27:52] some of our major buyout items
+[0:27:53] establishing our GMP than we had and
+[0:27:57] anticipated so there was more
+[0:27:58] competition when we set our GMT we also
+[0:28:01] established various
+[0:28:04] you know yet to buy for potential
+[0:28:06] unknowns and things like that uh some
+[0:28:09] items some scope areas that were we
+[0:28:11] couldn't buy out uh we were able to get
+[0:28:14] more competitive numbers say for our
+[0:28:16] theater scope uh there was about eight
+[0:28:18] hundred thousand dollars just in the
+[0:28:19] theater scope uh that we were able to to
+[0:28:24] get back from competitive pricing
+[0:28:27] um really soon after that pricing went
+[0:28:29] way up and we did see some pretty big
+[0:28:31] hits to our structural steel and
+[0:28:34] concrete as we progressed through
+[0:28:36] construction but we were able to kind of
+[0:28:39] hit this little window
+[0:28:41] that really helped us with our GMP in
+[0:28:43] early 2020 and then um you know as we've
+[0:28:46] gone through you know various items uh
+[0:28:49] that we saw potential risk and were able
+[0:28:52] to either mitigate that or things just
+[0:28:54] didn't realize as far as we actually got
+[0:28:56] our permits when
+[0:28:57] he needed them maybe at the last minute
+[0:28:59] sometimes but um and meeting those final
+[0:29:03] uh substantial completion dates without
+[0:29:04] any major hiccups you know was really
+[0:29:06] the main thing for for this year
+[0:29:09] so really excited to be able to put um
+[0:29:11] bring back some money to the program
+[0:29:17] apparently there aren't any questions we
+[0:29:19] can move on to
+[0:29:22] next slide
+[0:29:24] so uh this is our you know kind of
+[0:29:27] overall schedule slide uh this is the
+[0:29:30] same slide we we showed uh showed the
+[0:29:33] BAC back in February
+[0:29:35] um
+[0:29:36] nothing has changed which is great we
+[0:29:38] did meet all those dates that were as
+[0:29:39] planned we're actually now at that
+[0:29:41] little red Red Dot it's kind of the end
+[0:29:44] uh of the line there of the project
+[0:29:46] schedule so
+[0:29:48] um again we're the only thing that's
+[0:29:50] changed here is that we're actually
+[0:29:51] having a ribbon cutting on August 31st
+[0:29:54] in a couple days uh at the first lap
+[0:29:57] around the track celebration
+[0:29:59] so really excited to to have that
+[0:30:01] tonight actually right now or perhaps
+[0:30:05] four minutes ago was kickoff of the
+[0:30:07] first game on the new field which is the
+[0:30:10] girls varsity soccer team playing right
+[0:30:12] now Lincoln so
+[0:30:14] excited about that I was hoping to do
+[0:30:16] this meeting from the Press Box upstairs
+[0:30:18] so I could see it in the background but
+[0:30:19] too many people wanted to be there so
+[0:30:24] um I'll we'll check the aerial camera
+[0:30:26] here in a little bit
+[0:30:28] uh next slide
+[0:30:32] so just to familiarize folks about the
+[0:30:35] phase one and phase two uh you know we
+[0:30:37] spent the first two years of
+[0:30:38] construction building phase one which
+[0:30:40] was on the old football field uh which
+[0:30:43] is you know now where the building's
+[0:30:44] located our phase two work uh over the
+[0:30:46] last school year was to tear down the
+[0:30:50] little building and build a new track
+[0:30:52] and field grandstands field service
+[0:30:55] building team parent Center and practice
+[0:30:57] field and we'll see some pictures of
+[0:31:00] what that looks like
+[0:31:05] so here's an aerial looking down at the
+[0:31:08] main building or what we're calling
+[0:31:09] phase two uh were you know really tight
+[0:31:14] Urban site so just reminding folks we
+[0:31:16] had to go vertical here to get all of
+[0:31:18] our
+[0:31:19] High School Comprehensive High School Ed
+[0:31:21] specs program uh kind of within the
+[0:31:23] building they have a lot of restrictions
+[0:31:25] uh you see the the plaza and sort of
+[0:31:29] open pathway that's on the east side of
+[0:31:31] the building
+[0:31:33] um Tanner treat floats underneath there
+[0:31:34] in a big pipe as well as a bunch of
+[0:31:36] other utilities so that was a no build
+[0:31:39] zone so really did Force us to kind of
+[0:31:42] have that building right up against 18th
+[0:31:44] Avenue and between 17th and 18th Avenue
+[0:31:49] but
+[0:31:51] there's an aerial the new track and
+[0:31:53] field on the east side of the site
+[0:31:57] you'll see that there's a gray building
+[0:31:59] in the foreground there that's what we
+[0:32:01] call the field service building it's a
+[0:32:03] two-story building on the main level we
+[0:32:05] have field storage for athletic
+[0:32:08] equipment on the upper level is a
+[0:32:10] baseball and softball batting batting
+[0:32:13] Barn up on the top levels
+[0:32:16] next slide
+[0:32:20] this is a view back over to the field
+[0:32:23] from the roof of the new building more
+[0:32:25] or less the same view you get from the
+[0:32:27] the stair one which is on the east side
+[0:32:29] of the building as you go up looking
+[0:32:31] back at the track and field
+[0:32:34] there's really excited about this this
+[0:32:36] field we um it's the first field in the
+[0:32:39] district that in fact in Oregon that
+[0:32:41] we're using a
+[0:32:43] an organic infill product instead of the
+[0:32:47] Chrome rubber that we're used to seeing
+[0:32:49] in fields this is an engineered wood
+[0:32:52] that's actually
+[0:32:54] sort of wood fibers that are engineered
+[0:32:58] they're baked at 700 degrees and Kilns
+[0:33:01] and they pretty much they perform the
+[0:33:02] same as the crumb Rubber and lasts the
+[0:33:05] same amount of time it's the same kind
+[0:33:06] of Maintenance but it's a different
+[0:33:08] material it's a lot cooler on the field
+[0:33:11] on hot days and has other advantages as
+[0:33:13] well being an organic material
+[0:33:18] site
+[0:33:22] here's the entry the field service
+[0:33:24] building you enter these doors and you
+[0:33:26] go up a few steps up to the batting
+[0:33:29] Barns and then as I mentioned down below
+[0:33:31] at the track and field level is our
+[0:33:34] field storage area
+[0:33:37] fine
+[0:33:39] this is a view from inside the field
+[0:33:41] service building where the batting cages
+[0:33:43] are kind of looking back at the track
+[0:33:46] and Fields you see the grandstands to
+[0:33:48] the left and the high school back in the
+[0:33:51] distance this was uh
+[0:33:53] I think one of the first activities when
+[0:33:57] we were on site just as soon as we got
+[0:33:59] done of course they were on there with
+[0:34:01] teams practicing and it's seeing a lot
+[0:34:05] of use in the last couple weeks people
+[0:34:06] are really excited to get back on that
+[0:34:08] field
+[0:34:10] next slide
+[0:34:13] so here is a play area at the team
+[0:34:15] parent Center which is a single story
+[0:34:17] building on the left you see it's all
+[0:34:20] glass on one side where the rooms little
+[0:34:23] classrooms are that look out into the
+[0:34:24] play area we've got the field service
+[0:34:27] building just to the right and you can
+[0:34:28] see Lincoln uh in the distance
+[0:34:32] picture please
+[0:34:34] and here's looking back the other way
+[0:34:35] our field service buildings and the play
+[0:34:38] area and you see the you can see the the
+[0:34:40] track surface just to the left
+[0:34:44] excellent
+[0:34:45] and this is the interior of the team
+[0:34:46] parent Center so we have three different
+[0:34:49] rooms there's the same program that we
+[0:34:50] have at all of our Comprehensive High
+[0:34:52] Schools
+[0:34:53] as we're modernizing them there's we've
+[0:34:57] got the Crawlers the wobblers and the
+[0:35:00] toddlers so and they all have access out
+[0:35:03] to the play area so really excited about
+[0:35:05] getting this this program up and running
+[0:35:07] it's it's run by Early Head Start and
+[0:35:09] it's part of our PPS team parent Center
+[0:35:12] Program
+[0:35:13] bye
+[0:35:16] we did keep one structure
+[0:35:20] from what you know while it was on site
+[0:35:22] when we started uh
+[0:35:24] pro project that is a concessions
+[0:35:27] building that was built I believe about
+[0:35:29] 10 or 12 years ago it just worked out
+[0:35:32] that it was at the right elevation and
+[0:35:34] the place to save so we did some
+[0:35:37] upgrades to that it has restrooms that
+[0:35:39] that also service the concessions as
+[0:35:41] well as athletic activities so we built
+[0:35:44] this concessions Plaza that we call out
+[0:35:46] in front of that for for our area for
+[0:35:50] people to gather during games and events
+[0:35:52] and then just in the in the background
+[0:35:54] there you see what is a small practice
+[0:35:56] field we were able to squeeze that into
+[0:35:59] our site and next slide I think that
+[0:36:02] shows the practice field
+[0:36:04] um you know with Lincoln only having you
+[0:36:07] know single track and field uh there's
+[0:36:09] no you know baseball or softball there
+[0:36:11] hasn't been uh those fields that you
+[0:36:13] know at Lincoln for over 70 years since
+[0:36:16] it was first built at this site but we
+[0:36:18] really wanted to get as much field areas
+[0:36:22] possible and so during design we had an
+[0:36:25] alternate to
+[0:36:26] install a you know small practice field
+[0:36:29] and we were able to work it out within
+[0:36:32] our budget and the scope to get that
+[0:36:34] done and it's it's made a huge
+[0:36:38] difference even if it's only you know
+[0:36:40] what is that 25 yards long
+[0:36:43] um from the short end but it's you know
+[0:36:45] it's pretty long otherwise it's getting
+[0:36:47] a lot of use there you know the all the
+[0:36:49] teams are practicing there the marching
+[0:36:50] band can practice there when you're
+[0:36:52] having other practices on the main field
+[0:36:54] so it's been very popular we're glad
+[0:36:56] we're able to provide that I believe
+[0:36:58] that might be our last slide so
+[0:37:02] um
+[0:37:02] happy to answer any questions or any
+[0:37:05] comments if anyone has and thank you for
+[0:37:08] your time
+[0:37:17] any questions or comments
+[0:37:19] I'll link it
+[0:37:22] well done
+[0:37:24] great job
+[0:37:29] thank you thank you it's um we really
+[0:37:32] had a great team uh it's just I mean
+[0:37:34] there's a lot of us are staying on the
+[0:37:37] you know the contractor side and the
+[0:37:39] architects
+[0:37:40] people are saying this is one of the
+[0:37:42] best projects they've had and I think
+[0:37:43] that just really comes down to the
+[0:37:46] teamwork and the team we were able to
+[0:37:48] put together
+[0:37:49] um
+[0:37:50] so really really proud of the work we've
+[0:37:52] done and we've had great great support
+[0:37:54] all around us
+[0:37:56] thank you
+[0:38:01] okay coming up next we've got uh the
+[0:38:05] Benson and multiple Pathways to
+[0:38:07] graduation presentation and I'm going to
+[0:38:09] turn that over to Armand
+[0:38:12] thank you Marina and sorry if my eyes
+[0:38:15] were looking at different screens here
+[0:38:17] everybody it's good to see you all again
+[0:38:20] uh so
+[0:38:22] Benson is right now about 75 complete
+[0:38:28] um our budget is showing cautious but
+[0:38:31] good uh for Benson uh we are we went
+[0:38:35] into this pretty tight uh our
+[0:38:37] contingency was less than typical
+[0:38:39] because our construction drawings are so
+[0:38:42] much further along than most projects at
+[0:38:45] that time when we signed their GMP
+[0:38:48] um it's really helped us we've had some
+[0:38:50] unforeseen conditions on the project but
+[0:38:53] we've been able to manage those very
+[0:38:56] well as far as budget goes
+[0:38:59] um
+[0:39:00] as far as our Equity goes you can see
+[0:39:04] um again as Marina said it always Ebbs
+[0:39:06] and flows uh we're not quite there in
+[0:39:09] some of the places we want to be but we
+[0:39:12] are continuing to work forward uh to
+[0:39:14] that every month
+[0:39:18] um
+[0:39:19] this one is just for
+[0:39:22] pension MPG yep
+[0:39:25] um you can go to the next slide please
+[0:39:28] uh so from a scheduled standpoint we are
+[0:39:31] on schedule prevention
+[0:39:33] uh we are still planning a June 2024
+[0:39:36] opening
+[0:39:38] um even though we've had some hiccups
+[0:39:40] and unforeseen conditions our team is
+[0:39:42] really pivoted well and been able to
+[0:39:45] overcome a lot of those obstacles on
+[0:39:48] site
+[0:39:49] our MPG project is tracking about 30
+[0:39:53] days past where we wanted to be
+[0:39:55] originally when the project first
+[0:39:57] started and as Marina said a lot of that
+[0:39:59] was due to unforeseen conditions we
+[0:40:02] found 10 dry Wells on this very small
+[0:40:04] site that were
+[0:40:07] undocumented so that that took about 20
+[0:40:12] days out of our schedule we also had
+[0:40:14] about a 30-day permit delay with those
+[0:40:17] delays and only being uh less than a
+[0:40:20] month over schedule we're doing pretty
+[0:40:23] well and we will still open on time for
+[0:40:26] the 2024 school year so I think that's a
+[0:40:29] win from a schedule standpoint as well
+[0:40:34] um as far as budget for MPG which I
+[0:40:37] neglected to say in the last slide we
+[0:40:40] are looking good there as well although
+[0:40:41] it's still a little tighter because it's
+[0:40:43] a smaller project
+[0:40:45] um but all is looking good there as well
+[0:40:47] next slide
+[0:40:52] the great view uh for those that don't
+[0:40:55] know Benson is 390
+[0:40:58] 000 square feet it's our largest project
+[0:41:00] here at DPS
+[0:41:03] um this is
+[0:41:05] a view of
+[0:41:07] a pretty accurate view of where we are
+[0:41:09] almost today you can see in the back uh
+[0:41:12] the mpg project is also under
+[0:41:14] construction we'll have some more photos
+[0:41:16] there but the front of the building and
+[0:41:19] the courtyard in the back will all
+[0:41:21] change in the next 30 days we will be
+[0:41:23] starting to really
+[0:41:25] bring home all of the site onto the
+[0:41:28] project
+[0:41:30] uh uh next slide please
+[0:41:35] uh we've had lots of student tours out
+[0:41:39] here we've been doing a great deal of
+[0:41:41] student engagement I will say the
+[0:41:43] contractors Architects Engineers because
+[0:41:46] Benson is I'll say within the industry
+[0:41:49] that we Circle in in our careers
+[0:41:54] um everybody has been really great about
+[0:41:56] providing some great awesome
+[0:41:58] opportunities for the students
+[0:42:01] you can see on the picture on the right
+[0:42:03] hand side we're starting to grade up to
+[0:42:06] the front entrance for those that
+[0:42:07] remember Benson used to have some really
+[0:42:09] tall stairs that used to go up to the
+[0:42:12] entrance but to meet current Ada
+[0:42:15] regulations we will now have some ramps
+[0:42:18] that will Meander down through the size
+[0:42:20] of the entrance to get to the sidewalks
+[0:42:25] uh next slide please
+[0:42:29] this is a great view of Benson being in
+[0:42:33] different stages we have areas in Benson
+[0:42:36] that final painting and finishes are
+[0:42:39] done and complete and we have stagers
+[0:42:41] like you see here where we're still
+[0:42:43] working through some structure and
+[0:42:46] some of the mechanical utilities that
+[0:42:49] are still yet to be installed
+[0:42:52] all the structural steel it has been up
+[0:42:54] for several months so that's a big
+[0:42:55] milestone that we've hit
+[0:42:58] uh
+[0:42:59] uh next slide please
+[0:43:03] uh I gotta get my bearings oh this is
+[0:43:06] building D in the top right this is The
+[0:43:09] Foundry building and the belt right
+[0:43:12] photographs
+[0:43:15] um this is where the Benson bubblers
+[0:43:17] were originally created and manufactured
+[0:43:19] and fabricated so it's really nice to
+[0:43:22] see this building coming back to life on
+[0:43:25] the left this is below our media center
+[0:43:28] this is our band room
+[0:43:31] um
+[0:43:31] so this is another wonderful space as
+[0:43:34] well
+[0:43:35] uh next slide please
+[0:43:39] uh this is a photograph of the what we
+[0:43:43] call the G1 the original gym with the
+[0:43:46] running track you can kind of see the
+[0:43:48] running track there in the foreground
+[0:43:50] those blue rails uh we have kept the
+[0:43:53] running track all the painting is now
+[0:43:56] complete inside this room uh the
+[0:43:59] flooring is right now plywood so that
+[0:44:02] they could get their lifts on there but
+[0:44:05] that should all be wrapped up here in
+[0:44:07] about 30 days
+[0:44:09] next slide please
+[0:44:14] um this is our South Courtyard this will
+[0:44:18] be where
+[0:44:19] students will come in and out from
+[0:44:22] Buckman Field as you can see in the
+[0:44:25] background there's the radio tower
+[0:44:28] that is still an active AM radio tower
+[0:44:30] that we have been keeping going on site
+[0:44:33] during construction uh the building to
+[0:44:36] the right that is the newer gym
+[0:44:40] that's our category 4 structure uh so it
+[0:44:44] is designed to withstand an earthquake
+[0:44:46] as best as possible
+[0:44:49] um it's the most robust category that we
+[0:44:52] have
+[0:44:54] uh all of the existing building was
+[0:44:56] modified with structural steel and then
+[0:44:58] installation and Vapor Barrier was added
+[0:45:03] onto that and then it will be clad with
+[0:45:04] brick so it will also be a great
+[0:45:07] building envelope in addition to a
+[0:45:09] categorical structure
+[0:45:11] next slide please
+[0:45:15] uh one of my favorite spaces this is the
+[0:45:17] new Commons area so this is the
+[0:45:19] cafeteria
+[0:45:20] in the background in the far right you
+[0:45:22] will see the new learning stair being
+[0:45:24] built
+[0:45:25] and as you look through in the center of
+[0:45:27] the picture you'll see some of the brick
+[0:45:29] facade of the existing
+[0:45:31] historic building e that we call that
+[0:45:35] space in between is our Courtyard so you
+[0:45:38] will be able to
+[0:45:40] go outside and enjoy the outdoors and
+[0:45:44] still be enclosed on all four sides by
+[0:45:46] the buildings
+[0:45:48] now next slide please
+[0:45:53] uh these are great photos of our
+[0:45:56] exterior of our new CTE spaces
+[0:45:59] on the bottom left you'll see a lot of
+[0:46:01] Steel protruding out from the building
+[0:46:03] those are for our Brio soles they are
+[0:46:08] um canopies in front of the windows that
+[0:46:11] help reduce the heat gain into the
+[0:46:13] windows but they're also solar panels so
+[0:46:16] they're dual Duty they're gaining solar
+[0:46:18] power and they're preventing heat gain
+[0:46:21] into the windows
+[0:46:23] on the bottom left you'll see some
+[0:46:26] larger canopy sticking out those are so
+[0:46:29] students can pull out some of their
+[0:46:30] projects in the auto shop and actually
+[0:46:33] work Outdoors as well and still be
+[0:46:35] provided with some cover
+[0:46:37] next slide
+[0:46:41] uh inside left is our tiny Home Building
+[0:46:46] area this is where we will be building
+[0:46:48] some tiny homes or the students will be
+[0:46:50] building tiny homes so they have an
+[0:46:52] extra large garage door in that bay
+[0:46:55] on the far bottom right you'll see a
+[0:46:58] typical Bay in our construction shop
+[0:47:01] area
+[0:47:02] and in the top you'll see some classroom
+[0:47:04] spaces that are actually above these
+[0:47:06] construction
+[0:47:07] classrooms next slide please
+[0:47:12] as I mentioned before interior finishes
+[0:47:14] are moving along in some areas
+[0:47:18] the top left is Building E that is our
+[0:47:21] mock-up classroom the bottom right
+[0:47:23] photograph is our mock-up for our
+[0:47:25] science classroom
+[0:47:27] the picture on the top right is actually
+[0:47:30] a
+[0:47:31] Community Gathering Room it will over it
+[0:47:35] is right across from the administrative
+[0:47:37] office and it overlooks the comments
+[0:47:39] area inside the outdoor Courtyard in the
+[0:47:43] Commons area
+[0:47:44] uh next slide please
+[0:47:48] uh more progression of finishes
+[0:47:52] the top right is the mock-up of the CTE
+[0:47:56] space hallways the left is bathroom
+[0:48:00] starting to get finished out
+[0:48:03] the right obviously is lockers and the
+[0:48:06] bottom left is the hallway inside
+[0:48:09] building U
+[0:48:11] next slide please
+[0:48:13] uh construction on the access into
+[0:48:17] Buckman Field is underway we are working
+[0:48:20] through that now and uh moving right
+[0:48:22] along
+[0:48:24] next slide please
+[0:48:26] uh okay multiple Pathways to graduation
+[0:48:29] uh for those that may not remember this
+[0:48:33] is a mass Timber structure
+[0:48:36] we have mass timber for the columns and
+[0:48:39] beams but the floor deck and roof are
+[0:48:43] concrete over metal deck
+[0:48:45] uh the bottom right photograph is the
+[0:48:48] parking garage below
+[0:48:50] and then as you'll see on the top photo
+[0:48:53] the yellow panels are actually
+[0:48:55] prefabricated off-site in Vancouver
+[0:48:58] trucked in and then the panels were all
+[0:49:01] hung
+[0:49:03] the insulation of that exterior went up
+[0:49:05] in 10 days which is pretty cool
+[0:49:08] next slide please
+[0:49:11] uh the top left slide of the last few
+[0:49:14] panels that are
+[0:49:15] ready to go get installed but they're
+[0:49:18] waiting so that they can access in and
+[0:49:20] out of the building uh some of the
+[0:49:22] larger equipment to make it easier
+[0:49:25] bottom left is an outdoor Courtyard
+[0:49:28] space that is located on the second
+[0:49:31] floor
+[0:49:32] and on the right you can kind of see
+[0:49:34] them
+[0:49:35] actually installing one of the panels if
+[0:49:37] you look closely you can see the crane
+[0:49:39] is carrying one of those big yellow
+[0:49:41] panels and putting it in place
+[0:49:44] next slide please
+[0:49:48] uh some more interior photos of the
+[0:49:51] inside again we are only about 45
+[0:49:54] complete
+[0:49:56] at MTG
+[0:49:58] um
+[0:50:00] and it is just a fabulous building when
+[0:50:03] you get there and you see that wood
+[0:50:04] structure inside it just does so much
+[0:50:07] um
+[0:50:08] for people emotionally in the building I
+[0:50:12] think it will be a great great space
+[0:50:15] when it's done the bottom right is our
+[0:50:17] Automotive CTE shop
+[0:50:20] much smaller than Vincent that they have
+[0:50:22] one next slide please
+[0:50:28] yeah okay any questions about Benson or
+[0:50:32] MPG
+[0:50:35] Greg I think you have your hand up yeah
+[0:50:37] I do uh Armin thanks for the great
+[0:50:39] presentation so you commented early in
+[0:50:42] your presentation uh about the
+[0:50:46] contingency and how you had gone further
+[0:50:48] with your design work and so you didn't
+[0:50:50] need to have as big a contingency but I
+[0:50:53] noticed we're still we're 74 done with
+[0:50:55] Benson and you're it shows a one percent
+[0:50:59] contingency 45 done with the mpg and it
+[0:51:04] shows a three percent contingency so I
+[0:51:07] assume that that lines up with your risk
+[0:51:09] log it's that's going to be enough
+[0:51:10] because it's only three million dollars
+[0:51:12] about on the Benson project and I don't
+[0:51:14] have the number on the mpg so for the
+[0:51:17] next 26 you have three million dollars
+[0:51:20] to take care of anything problems that
+[0:51:22] come along is that correct that is
+[0:51:26] correct Craig we are very tight on our
+[0:51:28] risk log
+[0:51:29] um and every day we are assessing it
+[0:51:33] um I think for Benson the only thing
+[0:51:36] that hit us really unexpected was our
+[0:51:39] insurance premium was higher in the
+[0:51:42] beginning
+[0:51:43] um but knowing that in the beginning
+[0:51:44] we're able to Pivot and make sure that
+[0:51:47] we were working on a lot of value
+[0:51:49] engineering up front uh before the
+[0:51:52] project was really progressing forward
+[0:51:54] so having that ability to know that up
+[0:51:56] front helped a lot
+[0:51:58] thank you you're welcome
+[0:52:01] uh Jonathan I think you have your hand
+[0:52:03] out yeah it's a quick one is is MPG
+[0:52:05] fully bought out at this point
+[0:52:08] uh for the subcontractors yeah
+[0:52:11] I believe they may have two or three
+[0:52:15] small contracts like final clean yeah
+[0:52:18] you know but the major contracts are
+[0:52:22] bought out
+[0:52:24] um I want to say there are
+[0:52:27] I'm gonna guess I think there's 47
+[0:52:29] subcontractors on MPG and 91 on Benson
+[0:52:35] so a lot of subcontractors currently at
+[0:52:38] Benson we have about 250 to 275 workers
+[0:52:42] every day at Benson and at MPG we have
+[0:52:45] anywhere from 40 to 70 depending on the
+[0:52:48] activities going on
+[0:52:51] Indian questions
+[0:52:55] all right
+[0:52:57] oh Norm is that your hand up yeah could
+[0:53:00] you explain again how the risk log works
+[0:53:02] if something goes on there is it reduced
+[0:53:05] out of the contingency or is it not
+[0:53:07] reduced out of the contingency until
+[0:53:08] that money is actually firmly committed
+[0:53:11] yeah so it's a good question so what are
+[0:53:13] contingency shows right now are
+[0:53:16] potential
+[0:53:18] changes that have been submitted but not
+[0:53:21] yet approved
+[0:53:22] if that makes sense that's why the
+[0:53:25] contingency looks so low right now
+[0:53:29] got it okay
+[0:53:32] and Marina can attest I will fight for
+[0:53:34] every dollar for once
+[0:53:38] I can attest that Armin fights for every
+[0:53:41] dollar on this project
+[0:53:44] all right well thank you everybody
+[0:53:48] all right so we are moving on to the
+[0:53:51] Jefferson project and I do
+[0:53:53] um before I turn it over the team I do
+[0:53:55] want to just kind of give a little
+[0:53:57] context to this first page which is to
+[0:54:00] say that
+[0:54:01] um Miracles still InDesign for Jefferson
+[0:54:04] we're in the finishing up the first
+[0:54:07] phase of design schematic design which
+[0:54:11] means that the
+[0:54:12] actuals to date don't look very much
+[0:54:16] because design of course doesn't take
+[0:54:18] quite as much money as the instruction
+[0:54:20] does but the other piece of that is our
+[0:54:22] Equity numbers
+[0:54:24] what you're going to see are only
+[0:54:25] numbers for Consultants not for
+[0:54:27] contractors so those numbers will stay
+[0:54:30] at zero percent until construction
+[0:54:31] starts
+[0:54:34] both on the business equity and the
+[0:54:36] workforce
+[0:54:37] so I'm actually
+[0:54:39] um
+[0:54:40] going to uh
+[0:54:43] ask the team if they have anything else
+[0:54:44] to add and then I think they have a
+[0:54:47] presentation here that we're going to go
+[0:54:49] through
+[0:54:51] no I think that was a good that was a
+[0:54:53] good summary
+[0:54:54] um yeah at this early stage that's
+[0:54:56] that's obviously where we are in terms
+[0:54:58] of equity but working closely with uh
+[0:55:02] the newly selected Anderson Construction
+[0:55:04] on their whole Equity approach going
+[0:55:08] forward
+[0:55:12] Okay so
+[0:55:15] I will go ahead and move us to the next
+[0:55:18] slide and the team if you can just let
+[0:55:20] me know when you need me to move to next
+[0:55:21] slides
+[0:55:22] great thanks Marita so hello everyone my
+[0:55:25] name is Steve afros I'm a senior project
+[0:55:27] manager on the Jefferson project and the
+[0:55:30] three of us myself
+[0:55:32] Ayanna horn and Keisha Locklear will be
+[0:55:34] presenting uh doing a little bit more of
+[0:55:37] a deeper dive at this stage of the
+[0:55:40] project and
+[0:55:42] um hopefully moving through it uh
+[0:55:44] efficiently so that you can ask
+[0:55:45] questions along the way or at the end
+[0:55:48] because it does go into uh you know more
+[0:55:51] detail than other projects of this at
+[0:55:52] this point
+[0:55:54] so this is just kind of a an overview of
+[0:55:57] some of the topics the things that we're
+[0:55:58] going to look at um
+[0:55:59] uh in the coming slides so look at a
+[0:56:03] little bit in terms of the schematic
+[0:56:05] design process to date and an overview
+[0:56:08] of our estimating process and then shift
+[0:56:12] into really focusing on the value
+[0:56:14] Engineering Process specifically the
+[0:56:16] workshop that we undertook recently and
+[0:56:20] then looking closely at the studies uh
+[0:56:23] kind of the all of the ideas that kind
+[0:56:25] of came out of that that ve workshop and
+[0:56:28] then uh really kind of what came out of
+[0:56:30] that the findings uh the selection
+[0:56:32] process and really where that led us in
+[0:56:35] terms of our an update on the project
+[0:56:38] if you go to the next slide please
+[0:56:43] so really we wanted to kind of ground
+[0:56:46] everyone before we get into you know
+[0:56:48] some of the details um we are in
+[0:56:51] schematic design that process began in
+[0:56:53] January and uh
+[0:56:55] it's just been a
+[0:56:57] um really a huge effort on the part of
+[0:56:59] particularly with the design team
+[0:57:01] working closely with our department and
+[0:57:04] meeting with stakeholders and Leadership
+[0:57:06] design Advisory Group community members
+[0:57:09] and certainly with the city in
+[0:57:11] particular to really kind of hone in on
+[0:57:13] the approach moving forward in design in
+[0:57:16] schematic design
+[0:57:18] more recently in late April we had a
+[0:57:22] pricing set and that basically was a the
+[0:57:25] concept drawings and narratives that
+[0:57:26] were then priced by the architect's cost
+[0:57:29] estimator
+[0:57:31] so they came back in mid-may showing a
+[0:57:34] 19 overage for the project in terms of
+[0:57:37] comparing the cost estimate to the board
+[0:57:40] approved budget
+[0:57:42] so this was pretty much within the range
+[0:57:45] of what we've seen on past projects at
+[0:57:47] this stage of the process
+[0:57:50] and then more recently I mentioned
+[0:57:52] having Anderson Construction join the
+[0:57:55] project in early May so they began
+[0:57:57] working really closely uh with the
+[0:57:59] design team to really understand the
+[0:58:01] project provide input you know look
+[0:58:03] closely at uh you know
+[0:58:05] uh their expertise in terms of
+[0:58:07] construction Logistics and durations
+[0:58:09] and then really bringing that second
+[0:58:12] cost estimate to Bear uh in mid-june and
+[0:58:16] that's really going to be the focus in
+[0:58:17] terms of looking closely at uh those
+[0:58:20] cost estimates and in particular at the
+[0:58:24] significant overage that we found once
+[0:58:26] Anderson Construction came on board
+[0:58:29] if you go to the next slide
+[0:58:33] so this is just kind of a high level
+[0:58:36] diagram of the the ve process and
+[0:58:39] specifically a ve Workshop that that
+[0:58:41] a whole set of recent projects have uh
+[0:58:45] have gone through
+[0:58:46] and the ve Workshop the value
+[0:58:49] engineering Workshop itself has been is
+[0:58:52] really allows a broad-based
+[0:58:54] participation of district and design and
+[0:58:56] contractor teams to kind of look closely
+[0:59:00] at Value engineering under under the
+[0:59:02] guidance of a third party
+[0:59:04] value specialist but really very
+[0:59:07] specifically to the Jefferson project we
+[0:59:09] extended that ve Workshop process to
+[0:59:12] community members really to bring their
+[0:59:14] perspective to the process so we had our
+[0:59:17] team of Engagement Specialists with the
+[0:59:20] design team co-locate and they um we had
+[0:59:23] representatives from the design Advisory
+[0:59:25] Group as well as Community design
+[0:59:27] organizers that work with co-locate that
+[0:59:30] participated and were able to contribute
+[0:59:32] ideas and also push and pull and
+[0:59:35] understand the priority of competing
+[0:59:36] priorities that you look at during the
+[0:59:38] value Engineering Process
+[0:59:41] if you go to the next slide
+[0:59:44] so this this really kind of shows the
+[0:59:48] dramatic progression of costs obviously
+[0:59:51] we had you know sort of the pre-bond
+[0:59:54] costs we had the bond budget and then we
+[0:59:57] really shifted into the planning process
+[0:59:59] so our board approved budget was 291
+[1:00:03] million dollars
+[1:00:05] and that initial design team estimate
+[1:00:07] was at 346 million
+[1:00:10] then we initially jumped in June up to
+[1:00:13] 561 million dollars and we'll kind of go
+[1:00:16] into a little bit more about the
+[1:00:18] reconciliation process but ultimately
+[1:00:21] the range of reconciliate reconciled uh
+[1:00:24] estimates between the design team and
+[1:00:27] the contractor team range between 451
+[1:00:30] million dollars and 493 million and that
+[1:00:33] was really where uh both the design and
+[1:00:36] the contractor team and us as the owner
+[1:00:38] really started to drill in closely not
+[1:00:40] just on reconciling the estimates but
+[1:00:43] looking closely at where some of these
+[1:00:45] high costs were coming from
+[1:00:48] you go to the next slide
+[1:00:52] so this is just really obviously an
+[1:00:54] illustration of that that dramatic 202
+[1:00:57] million dollar uh overage above the bond
+[1:01:02] approved or borderproof budget
+[1:01:08] so when we reach this this point in the
+[1:01:10] project and I think this is not uncommon
+[1:01:12] for uh Bond projects is we really try to
+[1:01:15] look and compare where we are with this
+[1:01:18] project to other projects and in
+[1:01:19] particular we like to use benchmarks
+[1:01:22] basically dollars or cost per square
+[1:01:24] footage
+[1:01:25] so we really compared it not just to
+[1:01:28] recent a set of recent PPS projects but
+[1:01:31] a whole set of about a dozen
+[1:01:33] school projects total to really kind of
+[1:01:36] understand where those averages were
+[1:01:38] coming in
+[1:01:40] and so you know while the the pandemic
+[1:01:42] really certainly contributed to
+[1:01:45] um you know the inflation line that you
+[1:01:48] see there
+[1:01:49] um
+[1:01:50] we understood that the approach to
+[1:01:52] Jefferson was we were looking at two
+[1:01:54] times what other projects had been if
+[1:01:56] you look at the
+[1:01:57] upper right hand corner so as opposed to
+[1:02:00] 609 dollars per square foot we were
+[1:02:02] looking at close to 1279 dollars per
+[1:02:05] square foot so it really put into
+[1:02:07] context in you know into perspective uh
+[1:02:10] where we were and obviously you know
+[1:02:12] this this was not some kind of part of a
+[1:02:15] normal sort of cost escalation that we
+[1:02:17] were seeing
+[1:02:18] we go to the next slide
+[1:02:22] so this is really where you know both as
+[1:02:25] the design and contractor team were
+[1:02:27] reconciling their costs uh bringing in
+[1:02:30] Anderson Construction working closely
+[1:02:32] with the design team we really tried to
+[1:02:34] understand and pull apart the factors of
+[1:02:36] the project that we're contributing to
+[1:02:38] the magnitude of this cost Delta
+[1:02:41] and these were the the factors that were
+[1:02:44] discussed in you know tremendous detail
+[1:02:46] both leading up to and during the ve
+[1:02:48] Workshop
+[1:02:49] and so not to go into too much detail
+[1:02:52] but you can see really one of the the
+[1:02:55] key sources of complexity and really
+[1:02:57] obviously by extension cost was the
+[1:03:00] constraint of keeping students on campus
+[1:03:02] during construction
+[1:03:04] and that really had a whole set of
+[1:03:06] related inefficiencies and added to the
+[1:03:09] complexity of a phased partial
+[1:03:11] demolition
+[1:03:12] it included a complex phase construction
+[1:03:15] at which
+[1:03:16] extended uh the duration of work and
+[1:03:20] then when you combine that with related
+[1:03:21] escalation over that long or four year
+[1:03:24] period you see that greater impact of
+[1:03:27] those escalated costs
+[1:03:29] so additional factors were considered
+[1:03:31] during the ve e effort that includes you
+[1:03:34] know increased program during schematic
+[1:03:36] design and the logistics of working on a
+[1:03:38] constrained site
+[1:03:41] go to the next slide
+[1:03:45] so really as you can imagine during the
+[1:03:48] ve process really during any ve process
+[1:03:50] we try to imagine that everything every
+[1:03:53] option is on the table so
+[1:03:56] this just kind of illustrates the whole
+[1:03:59] high level set of larger studies that
+[1:04:03] were included during the ve workshop and
+[1:04:06] this is not a complete list but some of
+[1:04:07] them just to kind of quickly go through
+[1:04:09] included
+[1:04:11] frankly reconsidering the demolition of
+[1:04:14] the existing 1909
+[1:04:16] structure do we keep the structure
+[1:04:18] within the building or do we maintain it
+[1:04:22] um we certainly looked at the size of
+[1:04:24] the school but that that consideration
+[1:04:28] really kind of
+[1:04:30] pretty quickly moved off the table
+[1:04:32] because we were looking at you know this
+[1:04:34] this had to kind of Meet the Ed specs
+[1:04:36] for a comprehensive High School
+[1:04:38] so looking at
+[1:04:41] the bottom line here really the focus
+[1:04:43] that we had was on the phasing of the
+[1:04:47] construction as I discussed before so so
+[1:04:50] really that was kind of some of the
+[1:04:51] major contributing factors to
+[1:04:54] um to the cost on the project it really
+[1:04:56] had us looking closely at you know was
+[1:04:59] phasing really something that we should
+[1:05:01] reconsider on the project
+[1:05:03] go to the next slide
+[1:05:06] question before you leave that slide
+[1:05:08] yeah sure
+[1:05:09] go back um
+[1:05:11] yes it says reconsider the size of the
+[1:05:14] school is not a viable option can we
+[1:05:16] explain that please yeah to rephrase it
+[1:05:19] really it's really the program size not
+[1:05:21] necessarily the square footage but um
+[1:05:24] the fact that we were designing this as
+[1:05:25] a comprehensive high school but again we
+[1:05:29] wanted to make sure everything was on
+[1:05:30] the table that had to be a consideration
+[1:05:32] obviously because that affects the
+[1:05:34] overall square footage
+[1:05:36] thank you yeah you're welcome
+[1:05:40] and one other question about this slide
+[1:05:42] there's larger oh I know I'm I'm off
+[1:05:45] mute
+[1:05:46] um there's a couple of boxes that say
+[1:05:47] broken commitment next to them could you
+[1:05:49] clarify what commitment is being broken
+[1:05:52] and and who was it made to
+[1:05:55] so really uh one of those had to do with
+[1:05:59] um whether or not we kept the 1999
+[1:06:01] building so that was part of our from
+[1:06:04] planning all the way through design that
+[1:06:06] was uh you know a really big focus of
+[1:06:08] the community that was a priority for
+[1:06:11] them it was
+[1:06:12] um uh it was kind of
+[1:06:16] really kind of the not just as a
+[1:06:19] historic building but as the power of
+[1:06:21] that building in people's memories and
+[1:06:23] just sort of the connection that the
+[1:06:24] community had to the 1999 building so
+[1:06:26] that was that was kind of really part of
+[1:06:29] that the question of you know really
+[1:06:31] wanting to maintain that commitment
+[1:06:33] at the same time not keeping you know
+[1:06:36] basically not phasing the project as
+[1:06:37] well and not keeping students on site
+[1:06:39] was another
+[1:06:42] commitment that we had made to the
+[1:06:45] community so we had to kind of weigh
+[1:06:46] those options it was obviously you know
+[1:06:48] it was a very difficult kind of
+[1:06:50] balancing between those two but we
+[1:06:53] wanted to be really transparent within
+[1:06:55] our group and with the community about
+[1:06:56] you know this these were these were you
+[1:06:59] know commitments that we had made during
+[1:07:01] the planning and design process to the
+[1:07:03] community
+[1:07:06] so let's go to the next slide yeah
+[1:07:07] you're welcome
+[1:07:10] so um this just kind of really just
+[1:07:13] shows us honing in on you know the the
+[1:07:16] question of phasing and Swinging the
+[1:07:18] possibility of swinging off-site uh as a
+[1:07:20] question
+[1:07:22] um uh it really obviously changes uh
+[1:07:25] both the schedule and the timing of when
+[1:07:27] students would be able to move into the
+[1:07:29] school so that was a major focus of that
+[1:07:32] um
+[1:07:33] it also did allow if we didn't phase the
+[1:07:36] project it really allowed us to optimize
+[1:07:38] the our approach to the 1909 building so
+[1:07:42] basically all that
+[1:07:44] how we design the 99 1909 building could
+[1:07:48] be considered just you know
+[1:07:51] on its own as opposed to thinking about
+[1:07:53] how we kind of had to move students
+[1:07:55] across the site during that phasing
+[1:07:57] approach
+[1:07:58] and you know reducing the building size
+[1:08:00] this is kind of really truly more
+[1:08:02] specifically to reducing the square
+[1:08:04] footage of the building
+[1:08:06] um
+[1:08:06] the the opportunity that we found with
+[1:08:09] considering not facing the project it
+[1:08:12] simply allowed us to find many more
+[1:08:15] efficiencies in those buildings and kind
+[1:08:18] of looking at the program spaces more
+[1:08:20] closely and aligning you know how we
+[1:08:22] laid out the building with really the
+[1:08:24] best layout for for those spaces
+[1:08:28] um
+[1:08:29] this goes into a little bit more detail
+[1:08:31] about the 1909 building why is it so
+[1:08:33] costly to retain
+[1:08:35] I think really the at a high level it
+[1:08:37] being a four-story unreinforced masonry
+[1:08:40] building really
+[1:08:42] um pushed it to a much higher level of
+[1:08:44] complexity than we've dealt with with
+[1:08:46] you know some of the two-story
+[1:08:48] unreinforced masonry buildings that
+[1:08:50] we've dealt with in the past
+[1:08:52] um it's really significantly more
+[1:08:54] complex than those prior projects and
+[1:08:57] the logistics that certainly we learn
+[1:08:59] through having Anderson on the team were
+[1:09:01] really made clear
+[1:09:03] um and it's really also the complexity
+[1:09:06] of considering the kind of the seismic
+[1:09:08] upgrade of these buildings and whether
+[1:09:10] we could in fact you know up not upgrade
+[1:09:12] not just the the new structures but the
+[1:09:15] 1909 building to
+[1:09:17] um risk category four the highest level
+[1:09:19] of seismic upgrade
+[1:09:22] keyword to the next slide please
+[1:09:26] so really our Focus became you know at a
+[1:09:30] certain point we realized that we can't
+[1:09:31] get to budget without eliminating
+[1:09:33] phasing
+[1:09:34] and that meant that the students would
+[1:09:37] have to move in later than the original
+[1:09:39] fall of 2026 that we had committed to
+[1:09:43] um because we simply couldn't complete
+[1:09:44] the whole project by that time
+[1:09:46] so previously in as I discussed in order
+[1:09:49] to try to open the student School for
+[1:09:51] students in the fall of 2026 we added
+[1:09:54] the phasing
+[1:09:55] um and the phasing allowed us to move
+[1:09:57] students into a part of the project by
+[1:09:59] the fall of 2026 and the rest of the
+[1:10:02] project would be complete by the fall of
+[1:10:03] 2020 excuse me fall of 2028
+[1:10:07] but it was really the phasing that was
+[1:10:09] really pushing us over budget so far
+[1:10:10] over budget and with a single phase it
+[1:10:13] actually allows us to be complete and
+[1:10:15] open to students in the fall across the
+[1:10:18] whole site in the fall of 2027.
+[1:10:22] go to the next slide
+[1:10:26] this really just kind of highlights you
+[1:10:28] know kind of the normal kind of planning
+[1:10:30] and design phases and really those
+[1:10:33] critical cost checks but also the fact
+[1:10:36] that we traditionally have these kind of
+[1:10:38] gate checks of both
+[1:10:40] cost estimating and value engineering
+[1:10:43] and you can see how those obviously
+[1:10:45] effectively if you're if you're kind of
+[1:10:48] doing those valuable engineerings
+[1:10:50] throughout the process you know those
+[1:10:51] get smaller and smaller as you move
+[1:10:53] through from schematic design through
+[1:10:56] construction documents
+[1:10:59] go to the next slide can we I raise my
+[1:11:03] hand can we go oh sorry yes
+[1:11:05] who did the cost estimates before
+[1:11:08] Anderson because there was a number of
+[1:11:10] them along the way was that a third
+[1:11:11] party cost consultant or the architect
+[1:11:14] that was through the architect they they
+[1:11:16] hired or they had their own cost
+[1:11:18] estimator rlb under contract
+[1:11:22] so they were they were the cost
+[1:11:24] estimator both prior and obviously
+[1:11:26] during Anderson's uh uh parallel cost
+[1:11:30] estimate
+[1:11:32] so they were after Anderson's cost
+[1:11:35] asthma came in so much higher there was
+[1:11:36] dialogue between the two and some
+[1:11:38] reconciliation and that's yes that's
+[1:11:40] exactly right so that allowed for some
+[1:11:43] adjustments that I think really you know
+[1:11:46] clarified and Anderson did come down in
+[1:11:50] some cases
+[1:11:51] Rob did come up to some extent as well
+[1:11:54] so that's in some ways that's like the
+[1:11:56] traditional kind of cost reconciliation
+[1:11:58] process but we realized obviously that
+[1:12:01] we were just in another order of
+[1:12:03] magnitude of um you know budget overage
+[1:12:05] that this extended Beyond a difference
+[1:12:08] between those two estimates
+[1:12:13] thank you yeah you're welcome
+[1:12:17] so I wanted to to quickly highlight uh
+[1:12:20] the ve Workshop process again mentioned
+[1:12:22] that we've done this on several recent
+[1:12:24] projects and it really allows for that
+[1:12:26] broad-based participation of District
+[1:12:29] design and contractor teams and we we
+[1:12:32] work through a third-party value
+[1:12:33] specialist
+[1:12:35] um so I had mentioned that you know this
+[1:12:39] in this project we really not just
+[1:12:41] included you know an extended list of
+[1:12:44] leadership design team technical experts
+[1:12:48] contractor team we also brought in the
+[1:12:51] community engagement team which was
+[1:12:52] co-locate in their Community design
+[1:12:54] organizers as well as representatives of
+[1:12:57] our design Advisory Group to bring that
+[1:13:00] perspective to the process
+[1:13:04] go to the next slide
+[1:13:06] so um another another way of looking at
+[1:13:09] the same information but basically this
+[1:13:11] is kind of the stair stepping process
+[1:13:13] that the ve Workshop goes through from
+[1:13:16] you know initially gathering information
+[1:13:17] to analyzing it
+[1:13:20] that kind of everything on the table
+[1:13:22] process that I mentioned before is
+[1:13:23] really that brainstorming that happens
+[1:13:26] um and then that evaluation and kind of
+[1:13:28] against a whole set of criteria and
+[1:13:31] developing and then finally kind of
+[1:13:33] presenting uh back to the group so if
+[1:13:36] you see in these yellow bubbles we
+[1:13:37] really try to at critical moments of
+[1:13:40] that process we wanted to bring the
+[1:13:43] community Representatives into the
+[1:13:45] process to both understand uh where we
+[1:13:48] were but also to contribute ideas and to
+[1:13:51] also help inform how we would evaluate
+[1:13:54] those ideas and I think one of the
+[1:13:56] things you'll see in a bit is that we
+[1:13:58] really try to kind of bring in values
+[1:14:01] that go all the way back to the
+[1:14:02] beginning of the process project from
+[1:14:04] the community so this was not just a
+[1:14:05] reflection of District values but really
+[1:14:07] Community Values
+[1:14:09] so I'm not going to hand it off to Ayana
+[1:14:12] to really go into more detail about the
+[1:14:14] ve Workshop process
+[1:14:16] thank you
+[1:14:18] um and so in bringing in community one
+[1:14:21] of the things that we wanted to talk
+[1:14:23] through really early on was what our
+[1:14:24] Workshop objectives were you know when
+[1:14:27] you bring in folks who aren't involved
+[1:14:28] in a process on a regular basis we need
+[1:14:31] to get all on the same page and so we
+[1:14:33] wanted to remind them that we first
+[1:14:35] priority was to align the board approved
+[1:14:38] budget back to 291. that was our first
+[1:14:42] priority and then to identify essential
+[1:14:45] values and functions that we
+[1:14:47] wanted for this project and then to
+[1:14:50] everyone who was involved needed to
+[1:14:52] bring
+[1:14:54] um creative ideas to be active
+[1:14:56] participants and then have an open mind
+[1:14:58] there were no bad ideas you know
+[1:15:00] everything was on the table next slide
+[1:15:04] and because our project team had already
+[1:15:06] done so much work with the community to
+[1:15:08] understand what was important and a
+[1:15:10] value for the school we utilized
+[1:15:12] learnings that were summarized as
+[1:15:14] narrative themes from our early research
+[1:15:16] and these were themes that were
+[1:15:18] developed through our consultant
+[1:15:20] co-locate and these themes have been
+[1:15:23] used to guide the design process and so
+[1:15:25] they were familiar to the community and
+[1:15:27] to the design team and everyone who's
+[1:15:29] working on a project so when we brought
+[1:15:30] in
+[1:15:31] things like trust and racial Equity or
+[1:15:34] identity culture and belongings they
+[1:15:37] were familiar and known to the
+[1:15:41] participants and they could think about
+[1:15:43] an idea like that and weigh it against
+[1:15:46] what does the 1909 building mean
+[1:15:49] for identity culture and belonging and
+[1:15:51] what does the 1909 building also mean
+[1:15:53] for durability and resistance we could
+[1:15:55] weigh some of the decisions that we're
+[1:15:57] making against the narrative themes as
+[1:16:01] well as the ones that you see in white
+[1:16:03] which were ideas that were brought by
+[1:16:06] the larger ve team and so we added those
+[1:16:09] additional five performance criteria
+[1:16:12] next slide
+[1:16:15] and in total after we worked with the
+[1:16:18] group 504 ideas were generated from the
+[1:16:22] group with 30 of the ideas being scored
+[1:16:25] as already being explored by the team so
+[1:16:28] when you walk into the ve
+[1:16:31] with the budget where we were we got to
+[1:16:34] work right away so we had already
+[1:16:36] pulled together a list of ideas and so
+[1:16:39] thirty percent of the ideas that came
+[1:16:41] from that be Workshop
+[1:16:44] were things that we were already looking
+[1:16:46] at 25 percent scored as design
+[1:16:48] suggestions and comments and 25 percent
+[1:16:51] were
+[1:16:52] um
+[1:16:53] rated as great good or moderate ideas
+[1:16:57] next slide
+[1:17:00] and then this slide looks at
+[1:17:05] um the schemes that we reviewed so after
+[1:17:07] we had to come up with those ideas we
+[1:17:09] took a step back and looked at the big
+[1:17:11] drivers and decisions points that needed
+[1:17:14] to be made and would impact so many
+[1:17:16] things moving forward we also took a
+[1:17:18] look to look at the site plan and some
+[1:17:22] of the original planning ideas from the
+[1:17:24] conceptual Master planning process so
+[1:17:26] these included the
+[1:17:28] condensed which is essentially the same
+[1:17:31] plan but smaller rebuilding 1909
+[1:17:36] um
+[1:17:36] we had a new cell in the early phase and
+[1:17:39] so we called this new new South and then
+[1:17:41] we looked at a new North which we called
+[1:17:43] new new North and we looked at these
+[1:17:45] ideas against
+[1:17:47] ideas and implications on swing space
+[1:17:51] seismic program reductions design and
+[1:17:55] construction schedule and Target value
+[1:17:57] design
+[1:17:58] and after analyzing those four against
+[1:18:02] those criteria we reduced it down
+[1:18:06] to the condensed and the new new cells
+[1:18:09] those were the ones that um
+[1:18:11] elevated and came through
+[1:18:14] and so now hand it off to Keisha who
+[1:18:16] will discuss the design
+[1:18:20] thank you
+[1:18:22] so
+[1:18:24] um
+[1:18:25] I'll kind of go through those two
+[1:18:26] schemes that we
+[1:18:28] um in claim to with the ve Workshop
+[1:18:32] just for reference this is the original
+[1:18:36] layout and design or the next slide
+[1:18:42] and so as you can see um with this new
+[1:18:47] condensed scheme uh the biggest
+[1:18:50] Advantage is that it really is the same
+[1:18:52] project plan overall the site is
+[1:18:55] organized and accessed the same ways
+[1:18:58] um as you can see in magenta the
+[1:19:01] building plan does get more tighter
+[1:19:05] um
+[1:19:05] and but thereby much more efficient
+[1:19:09] um
+[1:19:09] the Texan orange showed some of the ways
+[1:19:13] in which we study the impacts of these
+[1:19:16] this more con condensed scheme and some
+[1:19:19] of some of the opportunities like it
+[1:19:22] made room for loading
+[1:19:24] um and you know we could just maximize
+[1:19:27] the efficiency of where some classrooms
+[1:19:29] were able to be placed now that the
+[1:19:31] project wasn't phased anymore so the
+[1:19:34] biggest V Advantage after going through
+[1:19:37] that study is the reduction of overalls
+[1:19:39] of the square footage overall after all
+[1:19:42] of those moves are considered
+[1:19:45] um
+[1:19:46] and as so as of the the design team's
+[1:19:50] estimate first estimate that building
+[1:19:52] square footage was about 369. 369 000
+[1:19:56] square feet and this condensed scheme
+[1:19:58] puts us much closer to the board
+[1:20:01] approved uh plan of about targeting
+[1:20:04] about 335 000 square feet so with this
+[1:20:08] single phase approach the building can
+[1:20:10] become much a much leaner version of the
+[1:20:13] original scheme and Jefferson will
+[1:20:16] actually end up having a much more
+[1:20:17] efficiently efficient layout overall
+[1:20:20] next slide
+[1:20:23] so just for further reference
+[1:20:25] um on the left is the original phase in
+[1:20:29] layout and on the right is the new
+[1:20:32] condensed version and you can sort of
+[1:20:35] see immediately almost in those large
+[1:20:37] white areas and the plan on the left
+[1:20:39] where in the inefficiencies LIE the
+[1:20:43] created by the need to maintain safety
+[1:20:46] buffer zones between phases
+[1:20:50] um and in the new condensed scheme on
+[1:20:52] the right you can see with the less with
+[1:20:54] the less white space creates a much
+[1:20:56] tighter plan
+[1:20:58] by bringing the most southern wall more
+[1:21:01] North it also allows us to have an
+[1:21:06] exterior loading dock
+[1:21:08] um which also drastically reduce the
+[1:21:10] building square footage and gave a
+[1:21:12] little bit more room uh space between
+[1:21:14] the building and the fields to the South
+[1:21:16] next slide
+[1:21:20] the other scheme We examined during ve
+[1:21:22] was this new new South scheme as Ayanna
+[1:21:25] mentioned we referencing a previously
+[1:21:27] studied New South scheme which
+[1:21:29] originally fell off the list during
+[1:21:31] planning due to the community desire to
+[1:21:34] keep the 1909 building however as Steve
+[1:21:37] mentioned
+[1:21:38] um because of the budget overage we had
+[1:21:40] to sort of climb we had an early
+[1:21:42] understanding in ve that there were no
+[1:21:45] sacred cows including the 1909 building
+[1:21:47] so we reach them this option
+[1:21:50] so again it's very diagrammatic but the
+[1:21:53] new school would have an entirely sort
+[1:21:56] of new presence along Alberta and an
+[1:21:59] entry most likely near the corner of
+[1:22:01] Alberta and Commercial and have a much
+[1:22:04] smaller footprint than any of our scheme
+[1:22:07] studied
+[1:22:08] um which would allow for more space for
+[1:22:11] Fields
+[1:22:12] um and you know which
+[1:22:14] probably would move to the other side of
+[1:22:17] the building the baseball field would
+[1:22:18] move to the north of the this new new
+[1:22:21] South scheme next slide
+[1:22:26] so again to compare the plans from the
+[1:22:29] original uh phase this scheme on the
+[1:22:33] right you can see the outline of the
+[1:22:36] existing buildings which leaves the
+[1:22:39] potential for students to allow for
+[1:22:41] students to remain on site in a phased
+[1:22:44] approach and the new building would be
+[1:22:46] mostly independent of all those existing
+[1:22:48] buildings so those existing buildings
+[1:22:51] could be occupied but there's a
+[1:22:54] significant concerns of the option of
+[1:22:56] this option and all without the safety
+[1:23:00] concerns for staff and students and adds
+[1:23:03] back the complexity to construction
+[1:23:07] um Logistics which adds cost and time to
+[1:23:09] the construction schedule and also we
+[1:23:12] have had feedback from landmarks
+[1:23:15] commission that they would not be
+[1:23:16] amenable to the demolition of the 1909
+[1:23:19] building I would most likely deny that
+[1:23:22] request and pushing it back to the city
+[1:23:25] so the complexities of phasing this
+[1:23:28] project with the additional risk and
+[1:23:30] time required for permitting and appeals
+[1:23:34] made this scheme less desirable to the
+[1:23:37] ve Workshop team as a whole including
+[1:23:39] the community members who were in
+[1:23:41] attendance
+[1:23:42] next slide
+[1:23:45] so now I'll just touch on the schedule
+[1:23:47] for both of these options
+[1:23:49] um this is the condensed scheme
+[1:23:51] breakdown on the top bar with the green
+[1:23:54] and the red bars indicate the timing on
+[1:23:57] land use submission that next uh red and
+[1:24:01] gray bar show how the design team is
+[1:24:04] currently sort of ramping up back into
+[1:24:06] schematic design after the pog
+[1:24:08] of value engineering and then a sort of
+[1:24:11] six month design development phase
+[1:24:13] followed by a construction document
+[1:24:15] phase and then the next row two rows the
+[1:24:18] yellow and blue squares indicate the
+[1:24:20] plans for estimating the estimating a
+[1:24:23] review cycle
+[1:24:25] um and then below that the red and the
+[1:24:27] green boxes indicate a current
+[1:24:30] permitting approach where we would most
+[1:24:32] likely be submitting in three packages
+[1:24:34] the red being a demo permit and then the
+[1:24:37] two uh green being a structural and show
+[1:24:40] followed up by mostly interior work in
+[1:24:43] that last
+[1:24:45] um reimburse and then the next blue box
+[1:24:49] uh I wrote down indicates move out
+[1:24:51] summer of 2024 after which the early
+[1:24:54] demo can start in in the in the yellow
+[1:24:57] bars below and then there would be an
+[1:25:00] approximate 34 months of demo
+[1:25:02] construction as you can see in the
+[1:25:04] yellow and the gray with the building
+[1:25:07] ready for student and staff and
+[1:25:08] occupancy as Steve mentioned in the fall
+[1:25:10] of 2027 so although we wouldn't be able
+[1:25:13] to keep the students on site as intended
+[1:25:15] we are able to deliver the finished
+[1:25:17] building a whole year earlier instead of
+[1:25:21] in 2027 instead of 2028.
+[1:25:25] next slide
+[1:25:28] so this is uh the new new South scheme
+[1:25:33] schedule
+[1:25:34] um similar format as the previous
+[1:25:37] um and that second wrote down the most
+[1:25:40] kind of important impact to design
+[1:25:42] schedule is the time that with
+[1:25:44] additional time that will be needed for
+[1:25:46] the schematic design phase uh because
+[1:25:49] this new new South scheme would
+[1:25:51] essentially be a complete redesign so
+[1:25:55] what that does is delay you know how
+[1:25:59] long the documents will take thereby
+[1:26:01] delaying when permits could be submitted
+[1:26:03] and received and then when construction
+[1:26:04] couldn't start most likely until early
+[1:26:07] 2025 as indicated in that long gray bar
+[1:26:12] um instead of what we currently have uh
+[1:26:15] the summer of 2024 and the building most
+[1:26:18] likely wouldn't be ready for occupancy
+[1:26:20] until mid-year 2027 uh most likely not
+[1:26:25] occupiable until fall of 2028 with
+[1:26:28] another additional year of demo of the
+[1:26:31] existing 1909 building to happen after
+[1:26:33] that which is that second great bar
+[1:26:36] so full project completion sometime 2029
+[1:26:42] potentially
+[1:26:43] so now see we'll kind of discuss how we
+[1:26:48] further evaluated these two options of B
+[1:26:52] thanks Keisha
+[1:26:54] so um I just take you very quickly
+[1:26:56] through step by step because we this was
+[1:27:00] a sort of an extended process not just
+[1:27:02] to do the uh estimating and ve e effort
+[1:27:06] but to really do revised pricing so this
+[1:27:10] was happening during that ve workshop
+[1:27:12] and so this really just shows for both
+[1:27:15] options but particularly for the
+[1:27:17] condensed scheme how after changing to a
+[1:27:21] single phase we were able to reduce uh
+[1:27:24] from the original 493 million down to
+[1:27:27] 374 million so we were showing kind of
+[1:27:30] We Were
+[1:27:31] on that path to budget um the phasing
+[1:27:34] had a you know significant impact but
+[1:27:37] obviously we had more work to do
+[1:27:39] go to the next slide please
+[1:27:42] and this is something that we've
+[1:27:43] mentioned but haven't discussed in in
+[1:27:45] detail yet this is really you know a
+[1:27:47] Target value design is something we talk
+[1:27:49] about a lot but I think we may not kind
+[1:27:52] of try to illustrate it for um for the
+[1:27:54] public but it really it's really focuses
+[1:27:57] on Breaking the project into much
+[1:28:00] smaller buckets of money so you're not
+[1:28:02] just focused on the overall estimate
+[1:28:04] that we've been looking at but really
+[1:28:06] each kind of discipline each trade is
+[1:28:09] its own bucket so there's a mechanical
+[1:28:10] bucket electrical bucket landscape
+[1:28:12] everything kind of is a sign these
+[1:28:15] values these Target values and those
+[1:28:18] Target values can't exceed the amounts
+[1:28:21] that are established during the
+[1:28:23] estimating process and if they do you
+[1:28:25] have to find ways if you're going to
+[1:28:26] increase one bucket you have to reduce
+[1:28:27] another bucket
+[1:28:29] so I think one of the members of our
+[1:28:32] contractor team really responded to this
+[1:28:34] I think or described it I think in a
+[1:28:36] really good way and that is that as
+[1:28:38] opposed to just the sort of periodic um
+[1:28:41] you know cost estimate process that we
+[1:28:43] would do by phase this which is often
+[1:28:46] kind of a reactive process this tries to
+[1:28:49] be a very proactive process so that
+[1:28:51] we're constantly design team
+[1:28:54] contractor and owner working in close
+[1:28:57] collaboration to make sure that we're
+[1:28:59] maintaining those Target values during
+[1:29:02] the entire design process
+[1:29:06] you go to the next slide please
+[1:29:08] so this then really shows
+[1:29:11] um you know sort of the results of that
+[1:29:13] that more focused uh Target value design
+[1:29:15] effort so again we have been at 374
+[1:29:20] million dollars and just over the course
+[1:29:22] of that ve Workshop we were able to find
+[1:29:24] an additional 70 million in particular
+[1:29:26] for the condensed scheme that brought us
+[1:29:29] down to 304 million so we ranged again
+[1:29:32] between 301 for the new new South and
+[1:29:35] 304 million for the condensed scheme
+[1:29:39] which were again range from about 10
+[1:29:42] million to 15 million over the original
+[1:29:44] board approved budget so again we were
+[1:29:48] on that path to budget more work was was
+[1:29:50] continuing to happen but it really
+[1:29:52] showed that we were within Striking
+[1:29:54] Distance at that point
+[1:29:56] so now I'm going to hand it off to Jana
+[1:29:58] again to really talk about okay then we
+[1:30:00] have all of these revised costs how are
+[1:30:02] you how are we going to evaluate these
+[1:30:04] two uh primary options going forward
+[1:30:11] thanks Steve so after we went through
+[1:30:13] the TVD exercise the two schemes were
+[1:30:16] further analyzed as Steve mentioned
+[1:30:19] they were very similar in price and so
+[1:30:22] when you're looking at two options that
+[1:30:23] are really close
+[1:30:26] still have to figure out what we need to
+[1:30:27] do
+[1:30:28] and so we then begin to evaluate based
+[1:30:30] on other factors such as swing whether
+[1:30:33] or not the option keeps the 1909
+[1:30:35] building how difficult the land use
+[1:30:37] process would be implications to the
+[1:30:39] schedule and when staff and students
+[1:30:41] could move in
+[1:30:42] as you can see on the chart
+[1:30:45] you know the pricing is listed the
+[1:30:48] swings mentioned
+[1:30:50] whether or not the land use process is
+[1:30:52] easy or hard the schedule fall of 2027
+[1:30:57] or fall 22 28 and potentially 29
+[1:31:01] and then we have this last item listed
+[1:31:03] as performance criteria
+[1:31:05] and so that involved looking at the
+[1:31:08] schemes on a more granular level based
+[1:31:10] on the performance crisis type
+[1:31:12] performance criteria that I mentioned
+[1:31:15] earlier and so we'll look at those
+[1:31:17] results on the next slide
+[1:31:21] and this table shows the results of what
+[1:31:23] comparing the two options based on the
+[1:31:26] listed criteria the entire value
+[1:31:28] engineering Workshop group including
+[1:31:30] community members and dag members went
+[1:31:33] through and agreed upon a weighted score
+[1:31:36] to give each of these criteria a value
+[1:31:38] from a negative 10 to a positive 10. and
+[1:31:41] as you can see the condensed scheme came
+[1:31:44] out far ahead and it became clear that
+[1:31:47] the condensed scheme met some of the
+[1:31:49] most important criteria such as Trust
+[1:31:51] racial Equity identity culture and
+[1:31:54] belonging and safety far better than the
+[1:31:56] new new South scheme
+[1:32:00] only realizing just now how hard it is
+[1:32:01] to say new new South quickly the
+[1:32:04] variables such as keeping the 1909
+[1:32:06] building and having a single phase with
+[1:32:09] students not occupying the site
+[1:32:11] contributed most to this result
+[1:32:15] next slide
+[1:32:17] so the key outcomes from the ve Workshop
+[1:32:20] was to move forward with the TBD design
+[1:32:22] process
+[1:32:24] um you know because as you saw in
+[1:32:26] Steve's slide
+[1:32:28] we still aren't there
+[1:32:30] um but we have a path and so it's to
+[1:32:33] move forward with the TVD design process
+[1:32:35] including continuous estimating feedback
+[1:32:37] as the design elements and the systems
+[1:32:40] and equipment and materials are further
+[1:32:42] defined and refined
+[1:32:43] the condensed footprint with the
+[1:32:46] renovation of the 1909 building in
+[1:32:48] addition this involves
+[1:32:51] review and fine-tuning the space program
+[1:32:53] to the board approved area of 335 as
+[1:32:58] Keisha mentioned
+[1:32:59] and revisiting the site design to meet
+[1:33:01] outdoor space needs and looking for
+[1:33:04] organizational layout and design
+[1:33:05] efficiencies what this really means is
+[1:33:08] we're really taking a look at
+[1:33:11] um
+[1:33:12] the program
+[1:33:14] what we heard during our programming
+[1:33:17] meetings
+[1:33:18] and then taking the
+[1:33:22] ideas that were generated through the ve
+[1:33:24] Workshop about space efficiency
+[1:33:27] overlaying functions
+[1:33:29] um
+[1:33:30] I mean to reduce the square footage the
+[1:33:33] way that we did but without cutting
+[1:33:35] program
+[1:33:36] really is the key to that point right
+[1:33:39] there and then line item three three
+[1:33:42] eliminating phasing to complete the
+[1:33:44] project in 2027.
+[1:33:47] and so to continue this work involved
+[1:33:49] really looking at swing site evaluation
+[1:33:52] and the implications they're in
+[1:33:55] next slide
+[1:33:58] so for JH for Jefferson swing site
+[1:34:01] evaluation
+[1:34:02] big picture once we knew we had to swing
+[1:34:04] we got Right to Work looking at the
+[1:34:06] potential locations
+[1:34:08] um
+[1:34:10] because most of our projects have swung
+[1:34:12] to Marshall Marshall
+[1:34:16] was the item that we looked at
+[1:34:20] first or was the first to come to mind
+[1:34:22] but Marshall was far and so we really
+[1:34:24] wanted to look at other options that
+[1:34:26] would be close in because initially we
+[1:34:30] told the community that we weren't going
+[1:34:31] to move and so knowing that this would
+[1:34:33] be a new and unplanned for change for
+[1:34:36] students and staff our priority is
+[1:34:38] around creating the best environment and
+[1:34:40] experience we're all involved with this
+[1:34:41] new set of circumstances that were
+[1:34:44] that we've been dealt whenever we look
+[1:34:46] at potential sites our options are often
+[1:34:48] limited by land use zoning
+[1:34:50] and this leads us to prioritize our PPS
+[1:34:52] properties so our available PPS
+[1:34:54] properties were Kenton and Marshall
+[1:34:57] um we were also asked to look at whether
+[1:34:59] we could fully move Jefferson students
+[1:35:01] and staff to PCC across the street since
+[1:35:04] we already have students that attend
+[1:35:05] class there
+[1:35:06] as part of reviewing the options we
+[1:35:09] looked at multiple variables and those
+[1:35:11] are outlined on the chart
+[1:35:13] and those include academic spaces space
+[1:35:17] for athletics administrative and partner
+[1:35:19] spaces whether or not the space provides
+[1:35:21] access to PCC and others and we've shown
+[1:35:24] many of those variables on this slide in
+[1:35:26] the next but a couple of the highlights
+[1:35:28] that I'll go through is ADD existing
+[1:35:31] school capacity Jefferson needs roughly
+[1:35:34] 18 general education classrooms
+[1:35:37] five science classrooms three Arts
+[1:35:39] classrooms as well as dance theater and
+[1:35:41] CTE
+[1:35:42] all three of the sites can meet the
+[1:35:44] needs for Gen Ed classrooms but PCC in
+[1:35:46] kitten Kenton fell far short for science
+[1:35:49] Visual Arts and Performing Arts Kenton
+[1:35:52] is small and that that building was
+[1:35:54] built as an elementary school and hunts
+[1:35:56] only one science classroom in PCC while
+[1:35:59] they have science classrooms those
+[1:36:01] classrooms are in use by PCC too and so
+[1:36:03] there would be a scheduling
+[1:36:05] um
+[1:36:06] issue and we had to share scheduling for
+[1:36:08] those classrooms this holds true for
+[1:36:11] arts and dance as well as for us
+[1:36:12] Athletics a marshall on the other hand
+[1:36:15] has all the specialized classrooms and
+[1:36:17] other spaces needed for Jefferson
+[1:36:19] for example starting in the fall Jeff
+[1:36:21] will begin its new construction CTE
+[1:36:23] program and when Benson currently being
+[1:36:25] at Marshall there was a good sized
+[1:36:27] construction shop there for Jefferson to
+[1:36:29] continue and expand its program
+[1:36:32] next slide
+[1:36:34] on this slide you can see more of the
+[1:36:36] variables we looked at such as whether
+[1:36:38] the site could accommodate office space
+[1:36:40] Child Care room for Community Partners
+[1:36:43] and any existing Health Clinic
+[1:36:46] while office space existed across all
+[1:36:48] three of the sites Kenton and PCC both
+[1:36:51] fell short on everything else in
+[1:36:53] addition Marshall was the only one that
+[1:36:55] offered not only space for the existing
+[1:36:57] Jefferson student population but
+[1:36:58] flexibility to grow
+[1:37:00] what completely removed PCC however from
+[1:37:03] consideration
+[1:37:04] was its land use zoning as a CI to
+[1:37:08] campus Institution
+[1:37:10] this zoning does not allow use for the
+[1:37:12] property as a K-12 school which means
+[1:37:14] that we can't run our school on the
+[1:37:16] property there were no exceptions to
+[1:37:18] that zoning Rule and it's a specific
+[1:37:20] zone for pcc's use of the property as a
+[1:37:23] college campus offering college classes
+[1:37:26] so PCC was no longer an option Kenton
+[1:37:29] additionally to being too small could
+[1:37:33] not provide the right spaces to meet the
+[1:37:35] academic needs of Jefferson Jefferson
+[1:37:38] students need to have access to their
+[1:37:40] full High School academic program and
+[1:37:42] would not have that at Kenton so this
+[1:37:44] meant that Kenton was also off the table
+[1:37:49] uh next slide
+[1:37:51] so where we are right now in the process
+[1:37:54] um our next steps is to
+[1:37:57] um review uh the PCC Middle College
+[1:38:00] partnership
+[1:38:02] um and continue conversations with PCC
+[1:38:04] uh the development and communication of
+[1:38:06] details on how this will be accessed
+[1:38:08] from the Marshall campus so there is a
+[1:38:11] Southeast PCC campus
+[1:38:14] that we are exploring how we can
+[1:38:17] continue the relationship and the and
+[1:38:20] the classes at that location
+[1:38:23] Transportation similar to other PPS
+[1:38:26] projects that have swung to the Marshall
+[1:38:27] campus We are continuing to work with
+[1:38:29] PPS Transportation on details of busing
+[1:38:32] development of maps and flyers and
+[1:38:34] communication to Jefferson families to
+[1:38:36] ensure that the community is fully aware
+[1:38:39] of how this transition will occur
+[1:38:42] and design development starts in two
+[1:38:45] weeks so we are Marching forward
+[1:38:50] this concludes our project description
+[1:38:53] do you have any questions
+[1:38:57] I see your hand
+[1:39:00] yeah I I have 100
+[1:39:03] um but I'm actually impressed he's
+[1:39:05] really impressed the board stuck to the
+[1:39:08] budget that's really impressive the fact
+[1:39:10] that you folks were able to go through
+[1:39:12] such an effort to get it down
+[1:39:15] or almost to the budget that's really
+[1:39:17] impressive uh Steve the one question is
+[1:39:20] you talked about uh the 1909 building
+[1:39:22] and seismic work you would you had to do
+[1:39:26] so I assume you're that's included
+[1:39:27] you're gonna have to go through and do
+[1:39:29] that complicated seismic upgrade to that
+[1:39:32] 1909 building right
+[1:39:36] yes although um we're working closely
+[1:39:39] with the the city
+[1:39:41] um and Building Development Services in
+[1:39:44] particular through their major projects
+[1:39:46] group to really understand exactly what
+[1:39:49] that means because there there's a
+[1:39:51] variety of different ways you can
+[1:39:53] achieve that and collaborating with our
+[1:39:57] structural design team and the
+[1:39:58] contractors we're looking to kind of
+[1:40:00] find the most straightforward way to do
+[1:40:02] that you know from Logistics and
+[1:40:04] construction standpoint
+[1:40:07] um so yes it would be you know obviously
+[1:40:09] a seismic upgrade but
+[1:40:11] just trying to work you know as
+[1:40:14] proactively as possible to understand
+[1:40:16] what you know what's what is the best
+[1:40:18] path forward for that
+[1:40:20] you know I had one thing um I know um
+[1:40:23] you talked about the historic commission
+[1:40:25] saying you know there's no way they're
+[1:40:26] going to let you tear down but I
+[1:40:28] remember the pictures you saw in the
+[1:40:29] very beginning when you were talking
+[1:40:31] about this before the bond issue and
+[1:40:33] that building doesn't look like the
+[1:40:35] building that was built in 1909 if I
+[1:40:37] remember right there were over the last
+[1:40:39] what is 100 and some odd years and
+[1:40:41] things kind of been my mind destroyed
+[1:40:44] and it took off because it was they
+[1:40:45] reduced things that were actually part
+[1:40:47] are you building it back to the original
+[1:40:49] 1909
+[1:40:51] um design or is it just what's there
+[1:40:54] right now
+[1:40:55] well I would say we're looking back to
+[1:40:58] 1909 to kind of understand what the
+[1:41:00] original design intent was and kind of
+[1:41:03] historically what it looked like it's
+[1:41:06] not technically a Historic Landmark
+[1:41:08] structure so there's not a the
+[1:41:11] requirement that we do that and there's
+[1:41:12] no way to really achieve it so I think
+[1:41:15] that's actually the point that we're at
+[1:41:18] in terms of understanding kind of what
+[1:41:21] what can you do to
+[1:41:23] um just you know bring some of the that
+[1:41:26] Heritage back but without you know being
+[1:41:28] literal about it and fortunately
+[1:41:30] actually this summer we were also
+[1:41:32] something we didn't mention we were able
+[1:41:34] to work with the contractor to do a
+[1:41:36] whole set of Investigations so they
+[1:41:39] opened up walls they did ground
+[1:41:42] penetrating radar to understand
+[1:41:44] rebar in in you know concrete walls and
+[1:41:48] uh they did a whole set of tests on the
+[1:41:52] brick and on steel and on other
+[1:41:55] components within that 1909 building
+[1:41:57] and also just trying to understand the
+[1:42:00] appearance of it and how much
+[1:42:02] you know feasibly can you bring it back
+[1:42:05] and there was just really helpful
+[1:42:07] information now for the design team to
+[1:42:09] kind of understand okay what practically
+[1:42:11] makes sense you know to both kind of
+[1:42:14] bring back that original Heritage but
+[1:42:16] also make it a building that will last
+[1:42:18] another 100 years we want the building
+[1:42:19] envelope to work and we want it to be
+[1:42:21] you know uh
+[1:42:24] from a practical standpoint you know to
+[1:42:26] be a long lasting structure
+[1:42:30] thank you and just to clarify while it
+[1:42:32] is not a Historic Landmark by the city's
+[1:42:35] definition the city has identified it as
+[1:42:39] a contributing resource to the Piedmont
+[1:42:42] Conservation District
+[1:42:44] which is why it is going through the
+[1:42:48] landmarks commission so yeah that's
+[1:42:50] right you know there are multiple
+[1:42:53] um designations within the city as the
+[1:42:56] different types of
+[1:42:58] um historic
+[1:43:00] um specialized spaces and so this is one
+[1:43:03] of them
+[1:43:09] yes I I just wanted a second uh the
+[1:43:13] praise that Greg mentioned uh just
+[1:43:16] incredible process and a result and I
+[1:43:20] think if this hadn't been handled in
+[1:43:22] such a thorough and exact thing and
+[1:43:25] process it it really could have been a
+[1:43:28] disaster and just a fantastic job how
+[1:43:32] this has been handled and the result
+[1:43:36] thank you yeah we I think a lot of
+[1:43:39] commitment all the way around including
+[1:43:41] from the community but certainly the
+[1:43:43] whole owner architect contractor team
+[1:43:45] and having that really tight
+[1:43:48] collaboration I think has set the tone
+[1:43:50] for the the rest of the project which
+[1:43:52] we're really excited about
+[1:44:03] I uh I do want to acknowledge that
+[1:44:06] we are
+[1:44:08] um we have all struggled with the the
+[1:44:12] need to move students off site
+[1:44:14] we know that that was incredibly
+[1:44:16] important to the community
+[1:44:18] um and
+[1:44:20] we did everything we could to do that to
+[1:44:25] keep them on site during the
+[1:44:26] construction
+[1:44:27] so if this has been
+[1:44:30] uh as much as it's been a very intense
+[1:44:35] process of trying to figure out how we
+[1:44:36] can actually still move the project
+[1:44:39] forward get in those cost estimates
+[1:44:41] um it's also been a little bit of a
+[1:44:43] heartbreaking process
+[1:44:44] as we tried to figure out how to do it
+[1:44:47] in a way that we could still meet yes
+[1:44:49] but the things that we said we were
+[1:44:52] going to do
+[1:44:54] and finding we couldn't on some of those
+[1:44:56] things was was pretty difficult for all
+[1:44:59] of us
+[1:45:06] uh Karen
+[1:45:09] I'm glad you acknowledged that because I
+[1:45:11] was just going to say I know that this
+[1:45:12] has been super challenging on an
+[1:45:14] emotional level
+[1:45:16] um I can't imagine
+[1:45:17] having to show a slide of broken
+[1:45:19] commitments to anyone and
+[1:45:23] the work that you have done and put this
+[1:45:25] presentation together today is
+[1:45:27] absolutely astounding and if I look at
+[1:45:29] what the bac's supposed to do like
+[1:45:32] kudos for hitting the charter items that
+[1:45:36] we are supposed to look at
+[1:45:41] thank you
+[1:45:43] on behalf of the whole team
+[1:45:48] um we do have a lot of work ahead of us
+[1:45:50] we don't want to lose sight of that
+[1:45:53] we're very aware that this is
+[1:45:55] um
+[1:45:56] not just a high impact project it's also
+[1:46:00] a high risk project
+[1:46:02] and so we are
+[1:46:04] dedicating extra resources and and a lot
+[1:46:08] of our existing resources that are
+[1:46:11] dedicating extra time
+[1:46:13] um well beyond their their normal work
+[1:46:16] hours to try to make sure that we can
+[1:46:18] keep everything on track move it forward
+[1:46:21] stay true to the to the program
+[1:46:25] um well also staying within the budget
+[1:46:27] schedule
+[1:46:29] so we will continue to provide updates
+[1:46:31] on the project as we move forward
+[1:46:34] um and you know we'll certainly let you
+[1:46:36] know uh when when or if uh additional
+[1:46:41] concerns come up
+[1:46:45] um that is actually the last of the
+[1:46:47] topics that we had for the meeting if
+[1:46:49] there's anything else
+[1:46:51] um you would like to discuss we have 10
+[1:46:54] minutes before we said we would adjourn
+[1:47:08] um
+[1:47:10] chair would you like to close the
+[1:47:11] meeting
+[1:47:14] yeah happy this meeting uh nice work
+[1:47:17] thank you all very much and
+[1:47:20] I guess we'll see you one more time in
+[1:47:21] person this year
+[1:47:24] November 29th we will find a good
+[1:47:27] location for it and let you know as soon
+[1:47:29] as we have maybe we'll be on the brand
+[1:47:32] thank you all thank you

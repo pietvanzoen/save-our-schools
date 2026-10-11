@@ -16,7 +16,6 @@ Profiles of the people who shape the 2026 rightsizing/school-closure decision, b
 
 **Caveats.**
 - YouTube auto-captions carry no speaker labels. Attribution confidence is in every record. Profiles use only high and medium quotes and flag medium ones *(medium)*; low-confidence quotes (25 records) are excluded from all syntheses and from `positions_timeline.csv`.
-- Ten meetings were first summarized from Arabic machine-translated captions. Those quotes were removed from batch02/09 and replaced by English re-analysis in `batch10_redo`; the older batch notes still contain some stale Arabic-based statements (see `quotes/batch10_redo_notes.md`). Profiles rely on `batch10_redo` for those meetings.
 - The roster is partly outdated: Rashelle Chase-Miller became Vice-Chair on July 7, 2026 [BB:14305225 p.1]; Wang (Chair) and DePass (Vice-Chair) were re-elected Jan 13, 2026 [BB:3998053 p.3].
 - Several 2026 votes come from video roll calls because minutes are missing or self-contradictory (noted in each table).
 

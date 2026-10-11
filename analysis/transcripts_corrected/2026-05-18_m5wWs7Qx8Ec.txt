@@ -1,0 +1,749 @@
+# 2026-05-18 Board of Education's Policy Committee
+# Video: https://www.youtube.com/watch?v=m5wWs7Qx8Ec
+# Source: YouTube captions (asr, en), fetched 2026-10-11T00:26:04.800Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2026-05-18_m5wWs7Qx8Ec.txt
+# BoardBook meeting(s): 2026-05-18|746442
+# Link to a moment: https://www.youtube.com/watch?v=m5wWs7Qx8Ec&t=<seconds>s
+
+[0:00:00] Okay, so we can get started.
+[0:00:04] It's 4:33.
+[0:00:05] Um this is a public meeting of the Board
+[0:00:07] of Education's Policy Committee for May
+[0:00:09] 18th, 2026 is called to order.
+[0:00:13] Good afternoon and welcome.
+[0:00:17] Uh thank you for being here. Um today's
+[0:00:19] agenda includes a review of section two
+[0:00:22] policies on district administration,
+[0:00:26] the district performance auditing
+[0:00:29] uh policy,
+[0:00:30] screen time in schools, which is a
+[0:00:32] discussion item. We will not be doing
+[0:00:34] anything with it, but we'll be
+[0:00:35] discussing it and kind of where it's at.
+[0:00:38] And we're going to postpone the
+[0:00:39] discussion on the revisions to the dis-
+[0:00:40] district student council operating
+[0:00:42] bylaws until we have students here that
+[0:00:45] can speak to it. And Nora is um
+[0:00:48] I believe involved in that
+[0:00:49] decision-making, but not prepared to
+[0:00:51] speak today on the bylaws. And so we'll
+[0:00:52] we'll um put put this off,
+[0:00:55] postpone the discussion until we can
+[0:00:56] have um students in the room.
+[0:00:59] So first we'll begin with introductions
+[0:01:01] and um I'm Michelle DePass. I'm the
+[0:01:03] policy chair and the school board vice
+[0:01:06] chair.
+[0:01:08] I'm Michelle Miller from Zone 4.
+[0:01:12] I'm Nora Isles, a student at Grant High
+[0:01:13] School.
+[0:01:15] And our other policy committee member um
+[0:01:17] Director [Engelsman] is unable to make it
+[0:01:19] tonight.
+[0:01:21] Um
+[0:01:23] Excuse me.
+[0:01:26] Speaking about technology, my watch was
+[0:01:27] just like talking.
+[0:01:30] Okay, um so we're going to start off
+[0:01:32] tonight with public comment and I see
+[0:01:34] that we have um
+[0:01:36] quite of a full roster and perhaps some
+[0:01:38] people are online.
+[0:01:40] Um
+[0:01:42] Roseann, do you want to call up two or
+[0:01:44] maybe three at a time if we have? Sure,
+[0:01:46] let me call the people
+[0:01:47] >> Or two at a time is good. Um we'll start
+[0:01:50] with Holly Hofkamp and Amanda Yerlins.
+[0:01:55] I just got a text from Amanda. She's
+[0:01:56] stuck traffic. She'll be here in a
+[0:01:58] second.
+[0:02:02] Hi there, my name is Holly Hoffcamp.
+[0:02:04] It's h o l l y h o f k a m p. I'm here
+[0:02:08] today as both a PPS parent of three and
+[0:02:11] a practicing family doctor urging
+[0:02:12] district level change of Chromebook and
+[0:02:14] EdTech use in our schools.
+[0:02:16] Just in the past 2 weeks, I've deleted
+[0:02:18] hundreds of gaming files from my sixth
+[0:02:20] grader's PPS Chromebook and which were
+[0:02:22] downloaded from a 34-page document
+[0:02:24] circulating at his middle school that
+[0:02:26] lets students bypass securely via Gmail
+[0:02:29] and play anytime. His transition to
+[0:02:31] middle school with a one-on-one device
+[0:02:32] has been a nightmare that has led to
+[0:02:34] problematic media use, which is a
+[0:02:36] medical term for screen addiction, as
+[0:02:38] well as anxiety, meltdowns, and family
+[0:02:40] conflict. He tells me he wants to stop,
+[0:02:42] but he doesn't know how.
+[0:02:44] My fourth grader struggles to type
+[0:02:46] because she's never been taught how, and
+[0:02:47] yet she spends her day typing in Google
+[0:02:49] Docs and EdApps such as CommonLit rather
+[0:02:51] than using pencil and paper. 2 months
+[0:02:53] ago, I had my first teen patient who was
+[0:02:55] suicidal but refused to engage in mental
+[0:02:57] health counseling because he only
+[0:02:58] trusted the AI chatbot he was using for
+[0:03:01] a counselor and a friend.
+[0:03:03] Surveying our parents at our school as
+[0:03:05] well as our teachers, I hear similar
+[0:03:07] stories across the board. A kid watching
+[0:03:09] an entire R-rated movie in 1 week in
+[0:03:11] class while his substitute without
+[0:03:13] securely accessed looked on unknowingly.
+[0:03:15] Kids of all ages exposed to
+[0:03:17] inappropriate content on buses. Teachers
+[0:03:19] noting behavioral issues when
+[0:03:20] transitioning from screens, and many
+[0:03:22] parents either unaware of all the
+[0:03:24] student data being collected or aware
+[0:03:26] and highly concerned. Many national
+[0:03:28] publications have been featuring stories
+[0:03:30] on how Google and YouTube have taken
+[0:03:32] over the classroom. One disturbing
+[0:03:34] report noted that the company flagged a
+[0:03:36] viewing gap in 2016 and argued that
+[0:03:38] increasing usage in schools Monday
+[0:03:40] through Friday could decrease this gap.
+[0:03:43] Other articles cite one-to-one devices
+[0:03:45] as one of the main reasons for the
+[0:03:46] decline in national test scores over the
+[0:03:48] last 10 years. I do want to clearly say
+[0:03:50] that there are places where tech for
+[0:03:51] students is helpful, particularly in
+[0:03:53] kids with learning differences. As a mom
+[0:03:55] of such kids, I'm acutely aware of how
+[0:03:57] tech can help and hurt.
+[0:03:59] Luckily, things are starting to change,
+[0:04:01] though. A recent win in LA Unified shows
+[0:04:03] that even large districts can do this.
+[0:04:05] We need to take this opportunity to
+[0:04:07] prevent an epidemic of loss of critical
+[0:04:09] thinking skills. I urge you to do what
+[0:04:11] you can to decrease device use in
+[0:04:13] schools.
+[0:04:14] Thank you for your testimony.
+[0:04:30] Next we have Chris Schweizer.
+[0:04:35] Hi Chris.
+[0:04:41] Good afternoon, Chair DePass and Policy
+[0:04:43] Committee members. My name is Chris
+[0:04:44] Schweizer, s c h w e i z e r, he/him,
+[0:04:49] and I teach math and science at
+[0:04:51] Roosevelt.
+[0:04:52] I'm here to respectfully ask that you
+[0:04:53] begin work on an updated policy on a a i
+[0:04:56] and ed tech in schools. While evidence
+[0:04:59] of the negative effects of a i and
+[0:05:01] screen time on cognitive development are
+[0:05:03] piling up, district leadership is
+[0:05:05] doubling down on a pro a i stance that
+[0:05:07] runs counter to the needs of students
+[0:05:09] and the demands of parents and teachers.
+[0:05:11] On January 13th,
+[0:05:13] I presented a petition to the board
+[0:05:15] signed by over 100 employees and parents
+[0:05:17] demanding an end to a i contracts. At
+[0:05:20] the same time, a separate group of
+[0:05:22] parents were organizing to add 150
+[0:05:24] signatures to an open letter of concern
+[0:05:26] about screens and a i in schools, which
+[0:05:28] was sent to the board on January 16th.
+[0:05:31] Currently, a new community petition
+[0:05:33] asking for an end to a i in PPS schools
+[0:05:36] onchange.org has over 500 signatures.
+[0:05:39] A recent study by MIT on using a i to
+[0:05:42] help draft essays states that LLM
+[0:05:46] undeniably reduced the friction involved
+[0:05:48] in answering participants' questions
+[0:05:50] compared to the search engine. However,
+[0:05:53] this convenience came at a cognitive
+[0:05:55] cost, diminishing users' inclination to
+[0:05:58] critically evaluate the LLM's output or
+[0:06:01] {quote} opinions.
+[0:06:03] The reduction in critical thought that
+[0:06:04] comes with using AI for school work is
+[0:06:06] particularly concerning when the new PPS
+[0:06:09] AI guidebook suggests that it is up to
+[0:06:12] individual teacher discretion whether
+[0:06:14] students use LLMs in brainstorming and
+[0:06:16] drafting essays.
+[0:06:18] Overall, the guidebook seems to treat AI
+[0:06:20] use in schools as a positive development
+[0:06:22] counter to the experience of educators,
+[0:06:25] parents, and research.
+[0:06:27] Is there some group of stakeholders who
+[0:06:28] are demanding that AI be rolled out so
+[0:06:30] quickly and uncritically? Because no
+[0:06:33] educator or parent I've talked to has
+[0:06:34] been as uncritical as the recently
+[0:06:36] published AI guidebook.
+[0:06:38] I hope that you can craft a policy that
+[0:06:40] helps the district slow down and listen
+[0:06:42] to stakeholders about their concerns.
+[0:06:44] Thank you.
+[0:06:45] Thank you, Chris.
+[0:06:56] Next, we have Jason Honol,
+[0:06:59] who I'm bringing in right now.
+[0:07:19] Hi. Uh my name is Jason Honol. I am
+[0:07:24] uh a parent of a freshman
+[0:07:27] uh varsity baseball player.
+[0:07:29] I uh
+[0:07:31] coached
+[0:07:32] baseball as volunteer assistant coach
+[0:07:34] from 2018 until 2 years ago, and I now
+[0:07:38] started and run a middle school feeder
+[0:07:41] program, long long time Uh PTSA member.
+[0:07:47] Uh
+[0:07:48] so, the reason I'm here is
+[0:07:51] my understanding was that back in
+[0:07:53] January
+[0:07:55] uh
+[0:07:56] the board made a promise to Jefferson
+[0:07:59] uh
+[0:08:00] that we would have robust programming
+[0:08:04] including athletics on par with other
+[0:08:09] uh comprehensive high schools during our
+[0:08:12] transition to becoming a
+[0:08:14] um comprehensive school.
+[0:08:17] Our athletic director has not
+[0:08:25] which we worked hard
+[0:08:28] for
+[0:08:28] many years to build up to varsity
+[0:08:32] and now they are cutting it. Um I have
+[0:08:36] three teams in our youth feeder program
+[0:08:39] uh with many families that are very
+[0:08:41] upset about not having varsity.
+[0:08:44] Um the one other thing that I will say
+[0:08:47] about it is
+[0:08:49] uh Donnie Seal, our athletic director
+[0:08:53] his reasoning behind cutting varsity
+[0:08:57] is not necessarily wrong.
+[0:09:00] It's good thought.
+[0:09:02] However, what it leaves out is our
+[0:09:05] current players that are there. We have
+[0:09:07] four juniors
+[0:09:10] who [clears throat] were very much
+[0:09:11] looking forward to playing varsity as
+[0:09:13] seniors
+[0:09:15] and I've spoken with their families.
+[0:09:17] They're talking about leaving Jefferson.
+[0:09:20] Um these four baseball players are also
+[0:09:23] key football players, which will
+[0:09:27] devastate our football program as well.
+[0:09:30] Um
+[0:09:31] I just wanted to bring it to the board's
+[0:09:32] attention, make sure this is known
+[0:09:35] and um hopefully there's something we
+[0:09:38] can do about it.
+[0:09:40] Thank you for your time.
+[0:09:42] Thank you, Jason. You you did cut out a
+[0:09:44] little bit there during your testimony,
+[0:09:46] but we got the gist of what you are
+[0:09:49] getting through to us. I really
+[0:09:49] appreciate
+[0:09:51] you advocating for Jefferson students.
+[0:09:54] Thank you, Michelle.
+[0:09:56] Amanda Erlings
+[0:10:05] Yeah, you'll want to I'm just say your
+[0:10:07] your full name, spell your last name,
+[0:10:09] and then you have 3 minutes and right in
+[0:10:11] the front of the dais there is a little
+[0:10:13] you'll hear a beep about 30 seconds
+[0:10:15] before you need to wrap up.
+[0:10:16] Okay, when you hear the beep it'll be
+[0:10:18] orange and then when it turns to red
+[0:10:21] Okay, we want you to wrap wrap up your
+[0:10:23] sentiments. Okay.
+[0:10:24] >> [laughter]
+[0:10:25] >> My name is Amanda and I'm a parent of a
+[0:10:29] first grader
+[0:10:31] and I have been a PPS math teacher
+[0:10:34] with a masters in teaching from Lewis
+[0:10:37] and Clark College.
+[0:10:40] I'm hoping that the screen time
+[0:10:44] conversation will be held again with a
+[0:10:47] town hall
+[0:10:48] and more communication leeway so that
+[0:10:51] we're not scrambling to get the people
+[0:10:54] who really really believe that screen
+[0:10:57] time in class is harmful. Um
+[0:11:01] We want what LA want
+[0:11:04] throughout PPS and we're hoping that
+[0:11:07] it's not going to be a huge effort on
+[0:11:09] parents part
+[0:11:11] and lawsuits to get that to happen. Um
+[0:11:16] What is happening with technology in the
+[0:11:18] classroom right now?
+[0:11:20] I have proof that it is not safe, legal
+[0:11:23] or effective.
+[0:11:25] Um
+[0:11:26] and I'm asking the district to prove
+[0:11:29] that it is safe,
+[0:11:31] legal and effective. Um my child as a
+[0:11:34] 7-year-old has access to YouTube and it
+[0:11:37] is um it is not that he's doing
+[0:11:39] something behind a teacher's back. It
+[0:11:41] has been given to him to do.
+[0:11:43] He has watched um
+[0:11:46] a man's arm be ripped off um
+[0:11:49] and several students believed it was
+[0:11:51] real. It was a horror movie that was
+[0:11:52] part of a TumbleBooks app
+[0:11:55] um video that was okayed by the
+[0:11:57] district.
+[0:11:59] Um
+[0:12:01] and um
+[0:12:05] I have talked to the principals. I
+[0:12:06] talked to the teachers. I've talked to
+[0:12:08] Emily Glasgow. I want to know who's
+[0:12:11] going to be held accountable
+[0:12:13] that for technology to be safe, legal,
+[0:12:16] and effective in the classroom.
+[0:12:18] Otherwise, we're all all of us parents
+[0:12:20] are going to
+[0:12:21] opt out of signing the consent form and
+[0:12:24] we're going to opt out of one-to-one
+[0:12:26] device use.
+[0:12:28] Thank you.
+[0:12:30] Thank you.
+[0:12:40] Do we have anyone else?
+[0:12:42] Yes, our next speaker is Allison and I
+[0:12:44] did not get Allison's last name.
+[0:12:47] But I'm sure she has one, so maybe she
+[0:12:49] can share.
+[0:12:50] Hi Allison.
+[0:12:52] Can you um spell your last name for us,
+[0:12:53] please?
+[0:13:12] Hello Allison, can you hear us?
+[0:13:14] I see your hand up. Can you spell your
+[0:13:16] last name, please?
+[0:13:20] Hi.
+[0:13:24] Yeah, we can't hear you.
+[0:13:30] Give us just a moment.
+[0:13:32] Can you hear me now? We can. Thank you.
+[0:13:36] Right. Thank you.
+[0:13:37] Um thank you for your time to listen to
+[0:13:39] my comments.
+[0:13:41] Um I am a mom um of a kindergartner in
+[0:13:45] Southwest um Portland Public Schools.
+[0:13:47] I'm also
+[0:13:48] a child therapist um for 20
+[0:13:51] [clears throat] years now.
+[0:13:52] Um can you still hear me?
+[0:13:54] Yes, we can hear you um very well. Thank
+[0:13:56] you for asking.
+[0:13:56] >> Okay. Thanks so much.
+[0:13:58] Um thanks for taking the time for this
+[0:14:00] very valuable topic.
+[0:14:02] Um I come to you today with deep concern
+[0:14:05] for the future of children with use of
+[0:14:08] screens in schools.
+[0:14:10] Um I'll
+[0:14:11] give you a snippet of one of my concerns
+[0:14:13] concerning Chromebooks with my son.
+[0:14:16] Um there's this thing called the
+[0:14:17] Securely app. Um parents have access to
+[0:14:20] it, of course, to see what's their child
+[0:14:22] is viewing in I-Ready. Um not a lot of
+[0:14:24] parents know about this, too. I've
+[0:14:26] talked to many parents. They don't even
+[0:14:27] know how it's connected. But anyways, I
+[0:14:29] found out and I went on Securely um
+[0:14:32] just a few months ago and saw that there
+[0:14:35] was a tab called rules. You go to the
+[0:14:37] rules tab and then you see a list and
+[0:14:39] it's a block and allow list.
+[0:14:42] Um this list um I looked at 2 weeks ago
+[0:14:45] and it had the subcategories of sexual
+[0:14:48] content um
+[0:14:51] YouTube, games, um adult content. Um and
+[0:14:56] I saw that and for the category of
+[0:14:58] sexual content, it was allowed for my
+[0:15:00] son.
+[0:15:02] I reported that concern to my principal.
+[0:15:04] Um next uh just um 2 days ago, I went
+[0:15:07] back to look on that rules tab to see
+[0:15:09] what was happening.
+[0:15:10] There was a new list under that rules
+[0:15:12] tab. The rules tab consisted of
+[0:15:15] gambling, drugs, pornography,
+[0:15:19] um
+[0:15:20] adult content, um and and social media,
+[0:15:24] YouTube as well.
+[0:15:26] I also it didn't show if it was blocked
+[0:15:29] or allowed. It had the little circle
+[0:15:31] thing that you can move back and forth,
+[0:15:33] but it didn't even indicate if it was
+[0:15:34] allowed or blocked.
+[0:15:36] This is highly concerning in the context
+[0:15:39] that children are easily able to get
+[0:15:40] onto the internet and off of these
+[0:15:42] programs such as i-Ready.
+[0:15:44] The other point I'd like to make is that
+[0:15:46] i-Ready is under a class action lawsuit
+[0:15:49] right now.
+[0:15:50] Um, I have numerous websites and have
+[0:15:51] done lots of research. So, if you go to
+[0:15:53] edtechlaw
+[0:15:55] uh, dot org, um, there's a lots of
+[0:15:58] information there in regards to this.
+[0:16:00] Um, and the idea is that uh, i-Ready is
+[0:16:03] gathering data from the children and in
+[0:16:04] the and it's off to third parties for
+[0:16:06] people to use at their will. So,
+[0:16:08] children don't have consent, of course,
+[0:16:10] at these young ages to know what's the
+[0:16:11] difference between um, getting on or
+[0:16:13] not. So, it's a conflict of interest.
+[0:16:16] Um,
+[0:16:17] I have deep concerns about um, screen
+[0:16:20] time in general is not an effective
+[0:16:22] solution.
+[0:16:22] >> Allison, I'm sorry to interrupt you.
+[0:16:25] I'm sorry to interrupt you, but your
+[0:16:26] time is up and we don't have any way to
+[0:16:28] um, notify you. I don't know what
+[0:16:29] happened to that opera music that we
+[0:16:30] used to hear, but um,
+[0:16:33] we have to allow everyone the same time
+[0:16:35] to speak.
+[0:16:36] Please can you
+[0:16:37] >> If you'd like to send in your comments,
+[0:16:39] I've um, noted your um, your website and
+[0:16:42] if you'd like to send the school board
+[0:16:44] your comments, we would be glad to have
+[0:16:46] them. Thank you.
+[0:16:47] Okay. Can I please send the the
+[0:16:49] different websites that are all about
+[0:16:51] resources for for
+[0:16:52] >> Yes, you can send whatever you want to
+[0:16:54] send, even you know, notes of thanks or
+[0:16:56] not are welcome, but any links that
+[0:16:58] you'd like us to have access to, please
+[0:17:00] put them in a document and send them to
+[0:17:01] the school board.
+[0:17:02] Okay, is it the same link that I sent
+[0:17:04] um, for all my comments to be a part of
+[0:17:07] this meeting?
+[0:17:07] >> Yes, it is. Okay, thank you. Thank you,
+[0:17:10] too.
+[0:17:10] >> K through 5.
+[0:17:25] >> Is that it?
+[0:17:27] Okay, we're going to move forward now.
+[0:17:29] Just
+[0:17:30] we are having we're shortening our
+[0:17:32] meeting by just a little bit.
+[0:17:34] Um
+[0:17:35] two of our board members actually one of
+[0:17:36] them is not here. So it doesn't matter,
+[0:17:38] but I'm trying to get to another PPS
+[0:17:40] event across town.
+[0:17:42] Um not too late. So I'll be there late,
+[0:17:44] but
+[0:17:45] if we end by let's say 5:40 5:45 that
+[0:17:48] would be great. We're going to move on
+[0:17:50] now to review of the section two
+[0:17:52] policies
+[0:17:54] on district administration.
+[0:17:56] Emily Courtnage, can you please share
+[0:17:58] the proposed revisions to these policies
+[0:18:00] and the updates made made following last
+[0:18:02] month's meeting? And I guess from the
+[0:18:04] staff memo that table that shows the six
+[0:18:07] policies that are being either revised
+[0:18:09] and the one that's being rescinded would
+[0:18:11] be helpful just high level.
+[0:18:18] >> [snorts]
+[0:18:20] >> There are
+[0:18:22] Yes, it is. And and the board is very
+[0:18:24] concerned as well. Tonight is just a
+[0:18:26] discussion. We have nothing for you to
+[0:18:28] do and we have nothing for us to do
+[0:18:29] even. Um but we wanted we put it on the
+[0:18:31] agenda to signal that we are concerned
+[0:18:34] and we're interested and we I think the
+[0:18:38] idea to have a town hall is is a is a
+[0:18:39] good one. There's a lot of people. We
+[0:18:41] also need to look at any unintended
+[0:18:43] consequences, any equity considerations,
+[0:18:46] you know, the reason that and the
+[0:18:47] reasons that we went to a one-to-one
+[0:18:49] device
+[0:18:50] um organization. [clears throat]
+[0:18:52] So thank you. There will be you'll have
+[0:18:53] time to talk
+[0:18:54] >> [laughter]
+[0:18:55] >> and organize and we'll it'll be very
+[0:18:57] broadly known.
+[0:19:00] But we have to move on through our
+[0:19:01] meeting. So do you mind going ahead Ms.
+[0:19:04] Courtnage?
+[0:19:05] Sure. So in section two we have
+[0:19:10] 1 2 3 six policies were recommending one
+[0:19:13] rescission.
+[0:19:15] Um that's of student participation
+[0:19:17] because that content is handled in
+[0:19:20] several other
+[0:19:21] um policies, which I've listed in the
+[0:19:23] memo.
+[0:19:25] Um the other five were recommending
+[0:19:27] updates. Most of them are
+[0:19:29] non-substantive and formatting updates,
+[0:19:31] the same kind we've discussed with the
+[0:19:33] other policies we brought forward.
+[0:19:36] But we do have um a couple areas where
+[0:19:39] we recommend alignment with OSBA policy.
+[0:19:42] Um
+[0:19:44] also in the public access to district
+[0:19:46] records policy in alignment with Oregon
+[0:19:48] public records law.
+[0:19:50] Since we last addressed these briefly at
+[0:19:53] the April April 27th Policy Committee
+[0:19:55] meeting, um I incorporated two changes
+[0:19:59] at the board's uh request.
+[0:20:01] Um first in the racial education equity
+[0:20:04] policy, which is 2.10010,
+[0:20:08] um we added a final sentence to the
+[0:20:10] policy to require that the
+[0:20:12] superintendent's updates and reports to
+[0:20:14] the board on student achievement include
+[0:20:16] achievement data disaggregated by race
+[0:20:19] and reflect measures to address racial
+[0:20:21] disparities in student experience and
+[0:20:23] outcomes. Um and this does reflect
+[0:20:26] current practice, but helps ensure its
+[0:20:28] continuity.
+[0:20:30] Um and then secondly in student
+[0:20:33] educational records, that's 2.50020,
+[0:20:37] um we added some language around um
+[0:20:40] students 18 years or older with
+[0:20:42] disabilities and and also noted um
+[0:20:46] compliance with both federal and state
+[0:20:48] law.
+[0:20:51] Thank you.
+[0:20:52] Um
+[0:20:54] Sorry, I'm kind of going back and forth
+[0:20:56] here. Thank you for that. So, um
+[0:20:58] most of the changes have been
+[0:21:00] non-substantive except for um those last
+[0:21:04] three that um Emily mentioned.
+[0:21:06] Um and our practice already is to
+[0:21:09] disaggregate
+[0:21:10] um outcomes by race.
+[0:21:12] That's been in practice since I've been
+[0:21:14] here um and I think since 2011.
+[0:21:17] Um, but it's nice to have it codified.
+[0:21:21] Um, the next on our agenda is a
+[0:21:24] discussion on the policy 1.60.040.
+[0:21:30] It's the district performance auditing
+[0:21:32] and where we are as a board reviewing
+[0:21:34] any changes.
+[0:21:37] Um, I have two copies of this policy.
+[0:21:42] One six pages and one 15 pages. The 15
+[0:21:45] pages are red line um
+[0:21:47] document that we're I'm going to put
+[0:21:48] aside for now.
+[0:21:50] And what we're going to be reviewing but
+[0:21:52] not today in our meeting is because it's
+[0:21:54] we're going to have a whole a whole
+[0:21:55] board discussion because it's a section
+[0:21:57] one policy.
+[0:21:59] Um, and it looks like it may get a it
+[0:22:01] may get a new number.
+[0:22:08] Director Depass, um may I ask a
+[0:22:11] clarifying question with regard to the
+[0:22:13] section two policies we just introduced?
+[0:22:17] Do you have are you are you moving those
+[0:22:19] forward to the board or are you holding
+[0:22:21] them till next committee? We would I
+[0:22:23] would I would love to move them to the
+[0:22:25] board uh to the full board especially
+[0:22:27] considering that most of the uh changes
+[0:22:30] are revisions are non-substantive.
+[0:22:33] Um, and the ones that are
+[0:22:34] sub-substantive we can refer back to the
+[0:22:36] staff memo and hopefully
+[0:22:39] people can ask you questions if there
+[0:22:41] are any fine points um but yes, so maybe
+[0:22:44] we should take a vote to
+[0:22:46] move them forward.
+[0:22:48] Um,
+[0:22:49] do we need to [clears throat] do this
+[0:22:50] with a motion? I don't think we need to
+[0:22:51] be that formal here.
+[0:22:53] Um, a thumbs up or thumbs down whether
+[0:22:55] we should move section two to the full
+[0:22:57] board.
+[0:23:00] Could I just clarify real quick whether
+[0:23:02] anything's being changed to the student
+[0:23:03] participation in 2.40020?
+[0:23:11] Uh can you answer that? Um it It looks
+[0:23:13] no we're we're rescinding it. So, we're
+[0:23:14] taking it, removing it completely from
+[0:23:16] the policy manual.
+[0:23:18] And we're removing it because
+[0:23:21] um it's outdated. It's outdated and
+[0:23:24] duplicated because we have um the same
+[0:23:26] material um discussed in
+[0:23:29] uh student dis- um
+[0:23:32] in 1.20012,
+[0:23:35] where committed board student
+[0:23:37] participation in district student
+[0:23:38] council board and board committees are
+[0:23:40] addressed. We have student uh
+[0:23:43] participation in site councils addressed
+[0:23:45] in 7.10.010.
+[0:23:49] Um and then we also have uh
+[0:23:53] policy 4.40.010,
+[0:23:55] uh
+[0:23:57] student participation in school affairs.
+[0:23:59] So, those are more recent policies, and
+[0:24:01] so this one um
+[0:24:03] there's nothing in there that isn't
+[0:24:05] covered elsewhere, and it's just
+[0:24:07] very old. Dates from 2001.
+[0:24:10] I'm I'm happy to share my um you can
+[0:24:13] keep that if you'd like. That's the
+[0:24:14] staff memo that outlines each of those
+[0:24:15] six policies, and the column on the far
+[0:24:18] right um tells
+[0:24:19] kind of if you'll see it in another
+[0:24:21] space spot in the policy manual, or you
+[0:24:24] know,
+[0:24:25] you'll see that most of those are
+[0:24:26] revised, except for this one that's
+[0:24:28] being rescinded. Sounds good. Thank you
+[0:24:30] so much. Thank you, too.
+[0:24:32] Um
+[0:24:35] Okay, so it sounds like we will be
+[0:24:36] moving those section two policies to the
+[0:24:39] full board. Yay.
+[0:24:40] It's good to get some work moving kind
+[0:24:42] of ahead this way.
+[0:24:44] Um
+[0:24:45] we'll now um start a discussion tonight
+[0:24:47] on screen time in schools um with a
+[0:24:50] discussion considering a policy for
+[0:24:52] screen time in schools. Um many of us
+[0:24:55] are watching the
+[0:24:57] uh the discussion happening in other
+[0:24:59] parts of the country
+[0:25:00] and are very concerned about it. Most of
+[0:25:03] us except for Nora have or had have had
+[0:25:06] kids in schools and um
+[0:25:09] and so we're not doing anything tonight
+[0:25:11] except to sort of signal that this is
+[0:25:14] this this discussion is coming. It will
+[0:25:16] not it'll be out in public.
+[0:25:18] We will probably seek
+[0:25:20] input from a variety of parents
+[0:25:23] and I believe that Director Chace Miller
+[0:25:25] is also discussing in the teaching and
+[0:25:27] learning.
+[0:25:28] Would you like to speak?
+[0:25:30] Um or or if not then this would be a
+[0:25:34] this would be a place where the policy
+[0:25:35] committee and teaching and learning
+[0:25:36] could collaborate. Yeah, I think um and
+[0:25:40] we had a presentation recently on screen
+[0:25:44] time and tech and how it's used in our
+[0:25:45] curriculum
+[0:25:47] um
+[0:25:47] but I think I think we can also use that
+[0:25:50] as a space to continue the conversation.
+[0:25:53] Um
+[0:25:54] you know this already this was going to
+[0:25:58] be sharing I was going to be sharing
+[0:25:59] this with um
+[0:26:01] Director [Engelsman] she's not here but
+[0:26:04] you and I are collaborating on a policy
+[0:26:07] around screen time so right now that is
+[0:26:10] with staff for review and we'll get
+[0:26:13] staff input and community input but
+[0:26:16] hopefully
+[0:26:18] you know folks feel better knowing that
+[0:26:21] this is something that we're working on
+[0:26:23] and paying attention to um as Director
+[0:26:27] DePass said
+[0:26:29] >> [laughter]
+[0:26:29] >> um
+[0:26:30] we we we have our own kids uh
+[0:26:33] in school and on the devices and see
+[0:26:36] firsthand a lot of what the community is
+[0:26:38] speaking to so
+[0:26:39] I'm glad we're having this conversation
+[0:26:41] and looking forward to moving it
+[0:26:43] forward.
+[0:26:44] Yes, so there's a draft.
+[0:26:47] It's not open yet. We have a process
+[0:26:49] um whereby we draft, we discuss, it has
+[0:26:52] to go through a legal review.
+[0:26:54] Um and no matter what we do, when it
+[0:26:57] comes back to the policy committee, it
+[0:26:59] will be open for a at least a 21-day
+[0:27:02] um comment period in which and we can
+[0:27:04] notify people that that's coming. So,
+[0:27:07] um we just again wanted to put it on the
+[0:27:09] agenda tonight, so um anybody that's
+[0:27:11] interested will know that uh we are also
+[0:27:13] interested and there is work in
+[0:27:15] progress.
+[0:27:19] And uh we we did look to Los Angeles for
+[0:27:22] inspiration on that.
+[0:27:26] Yes.
+[0:27:27] Um
+[0:27:28] so the next um next on the discussion as
+[0:27:30] we started is the policy on district
+[0:27:33] performance auditing. We're going to um
+[0:27:36] it's in our Section 1 policy manual,
+[0:27:38] which has to do with
+[0:27:40] the board's role and um things that are
+[0:27:44] uh
+[0:27:45] you know, how we show up as a board.
+[0:27:47] District performance auditing, uh the
+[0:27:49] board has two employees. One is
+[0:27:52] superintendent and the second one is the
+[0:27:53] district performance auditor. And so
+[0:27:56] we're going to start with uh what we
+[0:27:57] have, which looks like it was um
+[0:28:00] last amended in 2024
+[0:28:04] and going to perhaps update some of the
+[0:28:07] language. Um
+[0:28:09] again, we're not doing anything with
+[0:28:10] that tonight.
+[0:28:12] Um
+[0:28:13] except to know that we would we'd like
+[0:28:15] to schedule a full board discussion when
+[0:28:17] we're discussing all of our Section 1
+[0:28:19] policies.
+[0:28:24] We have a few policies that are in the
+[0:28:26] public comment period. Um so I just want
+[0:28:28] to remind people we have several
+[0:28:30] revisions and rescissions that are in
+[0:28:32] that 21-day window.
+[0:28:34] A 21-day comment period and those are
+[0:28:37] policies 1.70
+[0:28:40] .020P.
+[0:28:42] That's policies and administrative
+[0:28:44] directives.
+[0:28:45] That's a revision.
+[0:28:49] And policy 7.
+[0:28:51] 00.00
+[0:28:53] P community policy policies.
+[0:28:56] Those um involve re- revisions and
+[0:28:59] recisions. So, if you would like to
+[0:29:02] review, if you're curious about that,
+[0:29:04] those are up on the PPS website under
+[0:29:07] board policies, I believe.
+[0:29:09] Um and there's still time to comment
+[0:29:12] before the board takes a full vote.
+[0:29:15] And that is what we have for tonight.
+[0:29:19] Are there any um
+[0:29:21] uh future topics that either of you
+[0:29:23] would like to kind of
+[0:29:26] get in the pipeline?
+[0:29:30] Hearing none, um I will adjourn us.
+[0:29:35] How about that? We're adjourned.

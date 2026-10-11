@@ -11,7 +11,7 @@ This runbook is for collecting new source material (new meetings, transcripts, d
 | Chrome download settings: a fixed download folder, "Ask where to save each file" **off**, and "Automatic downloads" allowed for each site above | The collectors save zip batches without a dialog per file |
 | A foreground tab for YouTube work | Background tabs throttle timers and captures stall |
 | Python 3 with `beautifulsoup4`; `poppler-utils` (pdftotext, pdftoppm); `tesseract-ocr`; `qpdf`; `git` | Processing scripts in `tools/` |
-| Push access to github.com/timaelliott/pps | Commits |
+| Push access to github.com/timaelliott/save-our-schools | Commits |
 
 GitHub rejects files over 100 MB. Run `python3 tools/split_large.py sources/ 95` before committing new big files. It
 splits by page with qpdf for PDFs and in byte chunks otherwise, and writes a `*.SPLIT.md` with sha256 and rejoin steps.
@@ -58,12 +58,16 @@ Do this after each board meeting, and once a month to pick up newly posted minut
    python3 tools/ingest_transcript_exports.py exports.txt
    ```
    This writes the transcript `.txt/.tsv/.meta.json` files and rebuilds `videos_index.csv`.
-4. Check that the first lines are English (a mistranslated track once produced Arabic). The script forces `lang=en`, but verify anyway.
+4. Check that the first lines are English. The script forces `lang=en`, but verify anyway.
 
-### 1c. Rebuild search
+### 1c. Corrected transcripts and search
 ```bash
+python3 tools/caption_fixes.py --stats    # regenerates analysis/transcripts_corrected/ (name fixes in [brackets])
 python3 tools/search.py --rebuild
 ```
+If a new transcript shows a new mis-hearing of a name (check `--stats` and skim the new files), add a rule to
+`RULES` in `tools/caption_fixes.py` and re-run. Rules must be unambiguous. Use the title-only scope for words that are
+also ordinary English ("split", "pass", "green").
 
 ### 1d. Update the analysis (per new meeting)
 1. **Meeting summary and quotes.** Follow `analysis/_transcript_analysis_instructions.md`. Use the next batch id
@@ -96,7 +100,7 @@ git add sources/youtube analysis tools && git commit -m "Refresh: <meetings>" &&
   Add new pages or files there first.
 - On a page of the same site, paste `tools/browser/zipdl.js` and run:
   ```js
-  await __runBatch('https://raw.githubusercontent.com/timaelliott/pps/main/sources/pps_net/_download_manifest.jsonl', ['www.pps.net','resources.finalsite.net'], 0, 60, 'ppsnet_00.zip');
+  await __runBatch('https://raw.githubusercontent.com/timaelliott/save-our-schools/main/sources/pps_net/_download_manifest.jsonl', ['www.pps.net','resources.finalsite.net'], 0, 60, 'ppsnet_00.zip');
   __bstat
   ```
   Repeat with `start` advanced by 60. Use `['bond.pps.net']` on bond.pps.net. Fetches use default credentials:

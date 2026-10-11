@@ -1,0 +1,2333 @@
+# 2026-02-12 Board of Education’s Teaching, Learning, and Enrollment Committee
+# Video: https://www.youtube.com/watch?v=8y-3zX8JaWU
+# Source: YouTube captions (asr, en), fetched 2026-10-11T00:25:19.629Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2026-02-12_8y-3zX8JaWU.txt
+# BoardBook meeting(s): 2026-02-12|731165
+# Link to a moment: https://www.youtube.com/watch?v=8y-3zX8JaWU&t=<seconds>s
+
+[0:00:00] Hey Terry, let's get started.
+[0:00:08] >> This public meeting of the board of
+[0:00:10] education's teaching, learning, and
+[0:00:11] enrollment committee for January 8th,
+[0:00:14] 2026 is called to order. Good afternoon
+[0:00:18] and welcome. I'm sorry I'm not with you
+[0:00:20] all in person today. Um, everybody at my
+[0:00:24] house is sick, including me, but thank
+[0:00:27] you all for being here. Today's agenda
+[0:00:29] includes curriculum deep dive on math
+[0:00:32] and literacy. We will also hear
+[0:00:34] throughout the presentation
+[0:00:37] um information on technology use.
+[0:00:40] So uh let's begin with introductions.
+[0:00:44] Uh my name is Michelle Chase Miller. Uh
+[0:00:47] I reside in uh zone 4 and I'm the
+[0:00:51] committee chair.
+[0:00:54] >> I'm Virginia Fort. Um, I live in
+[0:00:56] Northeast Portland and I'm I'm on the
+[0:01:00] committee.
+[0:01:02] >> Hi, I'm Christy [Splitt]. I'm the third
+[0:01:04] committee member and I live in Southwest
+[0:01:06] Portland. Thanks everybody for being
+[0:01:08] here. We really appreciate having you.
+[0:01:14] >> Um,
+[0:01:16] now we have
+[0:01:19] actually Jay, do you want to introduce
+[0:01:20] yourself?
+[0:01:21] >> Oh, sure. Sorry. Uh, Jay, you know, I'm
+[0:01:23] the chief of student services.
+[0:01:27] Okay. Um, next we have public comment.
+[0:01:30] Rosanne, do we have anyone signed up to
+[0:01:32] speak?
+[0:01:33] >> Yes, we do. Uh, we have Roxy, Jean
+[0:01:37] Ratic, and Reagan Wadsniaak. We also
+[0:01:41] have Crystal Hilton and Nico Bule.
+[0:01:46] Um, please make sure when you begin your
+[0:01:48] comments that you clearly state your
+[0:01:50] name and spell your last name. You will
+[0:01:53] have two minutes to speak. And we ask
+[0:01:55] that once you hear the sound of the
+[0:01:57] alarm go off, please wrap up your
+[0:01:59] comments.
+[0:02:22] These are fun chairs.
+[0:02:26] to spell your last name.
+[0:02:28] >> Am I supposed to start now?
+[0:02:29] >> Yes.
+[0:02:30] >> Okay. My name is Roxanna Jean Ratic or
+[0:02:34] Roxy and my last name is spelled R A D I
+[0:02:36] C K.
+[0:02:40] >> Can I start?
+[0:02:41] >> Yes.
+[0:02:41] >> Hello PPS board members. I'm here on
+[0:02:43] behalf of all MLC high schoolers, middle
+[0:02:45] schoolers planning to save for high
+[0:02:46] school, and all the students who could
+[0:02:48] attend MLC in the future. There is an
+[0:02:50] effort to shut down our high school
+[0:02:52] program next year. The way it is being
+[0:02:54] done is extremely shady with the people
+[0:02:55] behind this effort trying to say our
+[0:02:57] high school is a program and not a
+[0:02:58] school so they can get away with
+[0:02:59] shutting it down without all the proper
+[0:03:00] votes and processes. Metropolitan
+[0:03:03] Learning Center is a remarkably unique
+[0:03:04] school with a tight-knit and
+[0:03:05] self-sustaining community while also
+[0:03:07] being welcoming and supportive of new
+[0:03:09] students. The way we run really benefits
+[0:03:11] many marginalized groups. We as a school
+[0:03:13] are made almost entirely of queer and
+[0:03:16] disabled students and a lot of these
+[0:03:18] students came here because uh due to who
+[0:03:20] they are being at another public high
+[0:03:21] school is not a reasonable possibility.
+[0:03:23] Many of us have been bullied and will be
+[0:03:24] seen as and would be seen as different
+[0:03:26] me included. MLC's environment, small
+[0:03:28] class sizes, and our close student
+[0:03:29] teacher relationships allow for students
+[0:03:31] to grow both socially and academically.
+[0:03:33] These factors are very important for
+[0:03:34] bringing up and supporting students in
+[0:03:36] these demographics that would most
+[0:03:37] likely fall through the cracks in a
+[0:03:39] traditional school. We were told in the
+[0:03:41] school meeting this past Tuesday that we
+[0:03:42] would have to go to our neighborhood
+[0:03:43] schools or to other charter schools like
+[0:03:45] Benson. But these environments are
+[0:03:46] incredibly different and many current
+[0:03:48] students would not be able to succeed.
+[0:03:49] Personally, I can say that my autism
+[0:03:51] makes change very hard for me to handle.
+[0:03:53] At MLC, we don't have bells that ring
+[0:03:55] between classes. We call teachers by
+[0:03:56] their first names. I have classes with
+[0:03:58] students in all of the high school
+[0:03:59] grades, friends with both freshman and
+[0:04:01] seniors. A school like Benson has
+[0:04:02] roughly 800 to 900 students. Lions, the
+[0:04:05] other one has been compared to MLC, has
+[0:04:08] 200 students. There's also not enough
+[0:04:10] space for all of us at Alliance. It
+[0:04:11] would not be such a small school
+[0:04:12] anymore. Here we have kinder buddies,
+[0:04:13] chances to TA for other classes, and
+[0:04:15] unique social opportunities to connect
+[0:04:16] with people in other grades. This is
+[0:04:18] incredibly special, and MLC will not and
+[0:04:19] has not been replicated. If you are
+[0:04:21] shutting it down now, it will not come
+[0:04:22] back. Portland Public School is shutting
+[0:04:24] down our high school is shutting down
+[0:04:25] what makes us different and taking away
+[0:04:26] our place to feel safe and express
+[0:04:27] ourselves. It is also unbelievably
+[0:04:29] ironic to shut down our high school on
+[0:04:30] the basis of low enrollment. is a small
+[0:04:32] school partially because kids here have
+[0:04:34] issues that interfere with their
+[0:04:35] abilities to attend a larger school and
+[0:04:38] uh every single student who is here to
+[0:04:40] support MLC today has struggled with the
+[0:04:42] voice in their head telling them they do
+[0:04:43] not matter. Well, we matter. MLC matters
+[0:04:44] and I hope you take that into account
+[0:04:46] when you vote on the budget. Thank you.
+[0:05:04] All right. Um,
+[0:05:07] good evening. My name is Reagan Waznjak.
+[0:05:10] Regno
+[0:05:12] Z N I A K. I'm here speaking. Uh, I was
+[0:05:16] asked by students and here I am today.
+[0:05:19] Good evening. My name is Reagan Waznjak
+[0:05:20] and I am here today as a parent, a
+[0:05:22] teacher, a community member, and an
+[0:05:24] advocate for equitable and alternative
+[0:05:26] education. Speaking on behalf of
+[0:05:28] Metropolitan Learning Center High School
+[0:05:32] since its founding is an institution for
+[0:05:34] experiential and alternative education
+[0:05:36] for students grades K through 12. It has
+[0:05:38] produced graduates that include authors,
+[0:05:41] artists, activists, and at least one PPS
+[0:05:44] school board vice chair. On Tuesday
+[0:05:47] afternoon, the families of MLC's high
+[0:05:50] school students were coldly informed
+[0:05:53] that as of next year, MLC would no
+[0:05:56] longer be their academic home. The
+[0:05:58] district administration is closing their
+[0:06:00] school. This announcement was a
+[0:06:02] lightning bolt out of a clear blue sky.
+[0:06:04] The families who gathered at 3:45, more
+[0:06:06] than an hour before the end of a
+[0:06:07] traditional workday, were the ones lucky
+[0:06:09] enough to hear the news from district
+[0:06:10] representatives in person. They were
+[0:06:13] only a small representation of the
+[0:06:14] decimate the dedicated families who have
+[0:06:16] fought so hard to transfer their
+[0:06:18] students to MLC. I myself am the parent
+[0:06:20] of an MLC student who could not succeed
+[0:06:22] in his neighborhood school. MLC High
+[0:06:25] School until ear earlier this week was
+[0:06:28] an option for my neurode divergent son
+[0:06:30] whose needs closely mirror those of so
+[0:06:32] many of my students.
+[0:06:34] It has become clear that the process
+[0:06:37] outlined by the district's own policies
+[0:06:39] was not followed to close this school.
+[0:06:42] District officials attempted to clarify
+[0:06:44] that this decision was being defined as
+[0:06:46] a programming change. I would like to
+[0:06:48] make clear Metropolitan Learning Center
+[0:06:50] is a high school. When I print
+[0:06:52] transcripts for my 9th through 12th
+[0:06:54] graders, they do not say Metropolitan
+[0:06:56] Learning Center. They say Metropolitan
+[0:06:58] Learning Center High School. We are a
+[0:07:01] high school and these students are owed
+[0:07:02] the same rights as those at Jefferson,
+[0:07:04] Roosevelt, and Wells, the neighborhood
+[0:07:07] schools they fled. I'm a realist. I know
+[0:07:09] that numbers matter.
+[0:07:12] The budget deficit is being used as the
+[0:07:14] reasoning for this closure, ignoring
+[0:07:16] decades the the decadesl long campaign
+[0:07:19] by district administration to hide,
+[0:07:21] limit, and ultimately erase MLC. The
+[0:07:24] budget that will be presented to the
+[0:07:26] board for a vote, which PPS would like
+[0:07:28] you to believe is written with equity in
+[0:07:30] every line, will be the tool used to
+[0:07:32] destroy the first safe and welcoming
+[0:07:34] school so many of our high school
+[0:07:36] students have found. One number I would
+[0:07:38] like you to consider is the immeasurable
+[0:07:40] number of current and former students
+[0:07:42] who attribute their time at MLC High
+[0:07:45] School for being alive. listening to
+[0:07:47] student responses
+[0:07:49] on Tuesday, hearing their stories in my
+[0:07:52] classroom, and reading their
+[0:07:54] testimonials on the student created
+[0:07:56] change.org petition
+[0:07:58] you can visit at bit.ly/savemlc.
+[0:08:03] I am over and over struck by the harm
+[0:08:05] caused to my disabled, neurode
+[0:08:07] divergent, trans, non-binary, and
+[0:08:10] anxious students by PPS and their
+[0:08:12] neighborhood schools. I fear that losing
+[0:08:15] MLC means that the world will lose these
+[0:08:18] beautiful humans as well. Does PPS
+[0:08:20] really want that number added to their
+[0:08:22] publicity? I wonder what monetary value
+[0:08:24] the district budget has assigned each
+[0:08:26] life put at risk by this closure. Thank
+[0:08:29] you.
+[0:08:43] My name is Nico Buer. N I C O B U E H L
+[0:08:48] E R. All right. My name is Nico Buler
+[0:08:51] and I am a junior at Metropolitan
+[0:08:52] Learning Center among many of my other
+[0:08:54] classmates. I want to talk a little bit
+[0:08:56] about my experience and what makes MLC
+[0:08:58] so special and the reason that we need
+[0:09:00] communities and schools like this.
+[0:09:02] Before I came to MLC, I was in a really
+[0:09:04] difficult part of my life. School was
+[0:09:06] never somewhere that I felt welcome or
+[0:09:07] safe at. Throughout my academic
+[0:09:09] experience, I constantly felt like an
+[0:09:11] outcast. I was bullied for many years by
+[0:09:13] many different people at several
+[0:09:14] different schools. By the time I came to
+[0:09:16] MLC, I had lost hope for a lot of things
+[0:09:18] in my life, especially my education. To
+[0:09:20] me, someone who was struggling
+[0:09:21] immensely, coming to MLC felt like a
+[0:09:23] light at the end of the tunnel. I was
+[0:09:25] immediately welcomed into the school,
+[0:09:26] and I finally felt like I was part of a
+[0:09:28] community when I had not been before. My
+[0:09:30] experience at MLC has helped me grow
+[0:09:32] academically, socially, and as a person.
+[0:09:34] And to lose this place would be
+[0:09:35] devastating not to me, but to others and
+[0:09:37] future students who could potentially
+[0:09:39] come here. Myself and many others are
+[0:09:42] there because it was our last option
+[0:09:43] because we had been failed by this
+[0:09:44] school system multiple times before and
+[0:09:46] had already tried our neighborhood
+[0:09:48] schools. I am urging you to reconsider
+[0:09:50] this decision to take a step back and
+[0:09:51] look at the huge implications this will
+[0:09:53] have for those who will be unfairly and
+[0:09:56] unjustly displaced. Students like us
+[0:09:58] matter and there are far better
+[0:09:59] solutions than completely axing our
+[0:10:01] school just because of budget reasons.
+[0:10:03] We are asking you to explore other
+[0:10:04] options before making a decision that
+[0:10:06] will cause irreparable harm to many
+[0:10:08] students who are vulnerable. Thank you
+[0:10:09] FOR YOUR TIME.
+[0:10:20] MY NAME IS CRYSTAL HILTON. C R Y S T A L
+[0:10:24] H I L T O N. I've been a parent in
+[0:10:26] Portland for since 2008. My son, River,
+[0:10:30] is 24 years old. He's a white cisgender
+[0:10:34] male and he had a very different
+[0:10:35] experience growing up in Portland than
+[0:10:37] my
+[0:10:38] daughter who has brown skin is um queer
+[0:10:41] and gender fluid and just they they live
+[0:10:44] in different worlds. Um
+[0:10:47] and until that is not the case,
+[0:10:50] we've been trying many different schools
+[0:10:52] in Portland. It's I mean she's been to
+[0:10:54] Hayhurst, Capitol Hill,
+[0:10:57] Robert Gray, Kellogg, Portland Village
+[0:11:01] School, which was amazing. She finally
+[0:11:03] got to a place where she was nurtured,
+[0:11:05] treated as a human.
+[0:11:09] The difference in I mean, in one year,
+[0:11:11] she learned more than she learned ever.
+[0:11:14] her uh her scores on standardized
+[0:11:17] testings went up by 90% which is I was
+[0:11:19] told the maximum increase that is
+[0:11:22] possible from that one year at Portland
+[0:11:25] Village school. I was terrified what was
+[0:11:27] going to happen when we have to go to
+[0:11:28] [Ida B. Wells] because I can't afford to send
+[0:11:32] her to a Waldorf high school.
+[0:11:36] I was so grateful when we found this
+[0:11:40] place just this term. She just got
+[0:11:42] there. And so now to think that she
+[0:11:46] might have to go back to [Ida B. Wells],
+[0:11:47] well, she's already been treated with
+[0:11:48] racism this year by the librarian,
+[0:11:52] the PE teacher, the art teacher, just
+[0:11:56] not racism by the art teacher. There was
+[0:11:57] a different thing. She teaches special
+[0:11:59] ed kids differently than other kids. My
+[0:12:01] daughter's not even in special ed
+[0:12:02] anymore. She has been in special ed for
+[0:12:04] social and emotional support. So when
+[0:12:07] she's in a nurturing environment,
+[0:12:11] uh she doesn't need that. She wasn't in
+[0:12:12] any IEP or any kind of thing. She was in
+[0:12:15] general ed and succeeded, excelled.
+[0:12:19] And if that is taken from her again, I
+[0:12:21] can't even imagine. I don't know what to
+[0:12:23] say.
+[0:12:26] Thank you.
+[0:12:37] And we have one more speaker signed up
+[0:12:39] tonight.
+[0:12:44] >> Oh, we have one more speaker signed up.
+[0:12:50] Steve Bule
+[0:12:58] Horrible
+[0:13:11] treated, but it's also horrible that
+[0:13:14] they're thinking of.
+[0:13:21] >> Thanks, Steve.
+[0:13:29] I timed this down to two minutes. So,
+[0:13:31] tell me when to start.
+[0:13:33] >> Ready? As soon as you say your name.
+[0:13:39] >> Here are some ideas to help elementary
+[0:13:41] school children learn better in our
+[0:13:43] schools. In math, we need to have older
+[0:13:46] children work problems regularly, maybe
+[0:13:49] 150 days out of 170 or so. Conceptual
+[0:13:53] understanding which takes so up much of
+[0:13:55] the time now is critically important of
+[0:13:57] course but it needs to be lended with
+[0:13:59] actually doing problem solving. Without
+[0:14:02] problem solving at a high level it is
+[0:14:05] extremely hard for children to obtain a
+[0:14:07] math sense.
+[0:14:09] PS every general education child should
+[0:14:11] know their times tables by the end of
+[0:14:12] third grade. In teaching writing we need
+[0:14:16] to have children write daily including
+[0:14:18] creating compositions and essays. By
+[0:14:21] third grade, they should know how to
+[0:14:22] paragraph. Their work should be
+[0:14:25] corrected. Along with this, we should
+[0:14:27] teach grammar as a system since it is a
+[0:14:29] system. PPS has begun to improve their
+[0:14:32] reading teaching as they seem to be
+[0:14:34] making sure we are now teaching phonics.
+[0:14:37] Two things that could help even more
+[0:14:39] would be to create a complete reading
+[0:14:40] curriculum, which included such things
+[0:14:42] as making sure there is reading time,
+[0:14:45] teaching children how to choose good
+[0:14:47] books, and assessing and helping
+[0:14:49] children with pronunciation, meaning,
+[0:14:51] and syntax. It would also speed up
+[0:14:54] children's learning by giving all
+[0:14:56] teachers a copy of the specific phonics
+[0:14:58] they should teach.
+[0:15:00] Teaching technology is a fourth basic
+[0:15:03] skill with standards developed so that
+[0:15:05] students are taught the technology
+[0:15:07] itself not just how to respond to it
+[0:15:09] would be a good idea. Right now there is
+[0:15:12] a lot of argument over technology and
+[0:15:14] how is used and how schools should
+[0:15:16] respond to it but little discussion of
+[0:15:18] what specific technology should be
+[0:15:20] taught at what grade level. Thank you
+[0:15:22] for listening. And I already had PS
+[0:15:25] closing Metropolitan Learning Center
+[0:15:27] High School is a BIG MISTAKE.
+[0:15:37] THANK YOU FOR JOINING US and sharing
+[0:15:39] your thoughts regarding the upcoming
+[0:15:42] changes in MLC. I'm a graduate from an
+[0:15:45] alternative school myself, one that is
+[0:15:48] very similar to MLC and I understand the
+[0:15:51] importance of alternative school
+[0:15:53] options. I speak from the heart when I
+[0:15:55] say that we hear your concerns and want
+[0:15:59] to ensure that you have a direct line to
+[0:16:01] leadership and the board of education.
+[0:16:04] The superintendent, senior chief of
+[0:16:06] academics, and chief of schools will be
+[0:16:08] hosting a listening session for all MLC
+[0:16:10] families and students on Wednesday,
+[0:16:13] February 18th at 6:00 p.m. This will be
+[0:16:17] an opportunity to discuss the reasoning
+[0:16:19] behind these decisions and more
+[0:16:21] importantly the specific supports the
+[0:16:24] district is putting in place for our
+[0:16:25] students moving forward. I've confirmed
+[0:16:28] with staff that every student currently
+[0:16:30] enrolled in the high school program will
+[0:16:32] receive individualized transition
+[0:16:35] support. This includes one-on-one
+[0:16:38] counseling, assistance in exploring and
+[0:16:40] enrolling in other in other high school
+[0:16:43] options within the district, and ongoing
+[0:16:45] family engagement throughout the
+[0:16:46] transition process.
+[0:16:49] This is a moment when our district is
+[0:16:51] faced with significant financial
+[0:16:53] challenges. This year we're cutting $50
+[0:16:55] million from our budget. Um, this will
+[0:16:59] contribute to over hundred million in
+[0:17:02] cuts over three years. I encourage you
+[0:17:05] all to reach out to your legislators
+[0:17:08] and share your experiences
+[0:17:10] and ask them to fully fund public
+[0:17:13] education in Oregon so that we can have
+[0:17:15] educational options that meet the needs
+[0:17:17] of all of our students.
+[0:17:20] Thank you all so much for being here
+[0:17:21] today.
+[0:17:24] Um before we move on, I want to uh
+[0:17:27] correct uh the date uh and confirm that
+[0:17:30] today is Thursday, February 12th.
+[0:17:34] Okay. So now on to our topic of today's
+[0:17:39] meeting, a math and literacy curriculum
+[0:17:41] deep dive. Chief Uno, would you like to
+[0:17:44] introduce our presenters
+[0:17:46] >> be before we get started? Uh, Director
+[0:17:50] Chase Miller, I just want to clarify.
+[0:17:52] I've just heard that the date of the MLC
+[0:17:54] meeting will be February 18th at 6 PM.
+[0:17:59] >> Thank you so much, Rosanne.
+[0:18:02] >> At MLC,
+[0:18:09] >> really, thank you so much for being
+[0:18:10] here. I know you don't want to stay and
+[0:18:11] listen to the presentation, which is
+[0:18:12] fine, but thank you so much for being
+[0:18:14] here. We really appreciate you turning
+[0:18:16] out and
+[0:18:19] really appreciate noting our school.
+[0:18:38] >> Okay. Um well, tonight as we uh begin
+[0:18:42] our conversation and um focus on um our
+[0:18:46] math and language arts curriculum, I'd
+[0:18:48] like to invite up uh Dr. Emily [Glasgow]
+[0:18:51] and uh uh Dr. Phipe Haste to uh lead us
+[0:18:56] through this conversation.
+[0:19:00] >> Maybe you start with introductions while
+[0:19:02] I work on getting our slides up.
+[0:19:05] >> Um
+[0:19:06] sure, vice chair. Thank you for the um
+[0:19:09] or committee chair I should say. Uh
+[0:19:11] thank you for the opportunity board
+[0:19:12] directors. Good evening. Um Chief Yuno,
+[0:19:15] uh thank you. Uh my name is Philip
+[0:19:17] Pistach. I'm the senior director for
+[0:19:19] secondary academics. I'm joined by um
+[0:19:22] Emily Glasgow, senior director for PK5
+[0:19:25] academics. And I just want to take a
+[0:19:27] moment and appreciate the amazing team
+[0:19:29] uh that I get to work with. So um
+[0:19:32] assistant director Anjen Bryant uh is in
+[0:19:35] the audience and supports language arts
+[0:19:37] and uh social studies. Uh assistant
+[0:19:40] director Tuton Dwan who supports math
+[0:19:42] and science is also in the audience. Uh
+[0:19:45] Morgan Halibbrurn supports uh high
+[0:19:47] school uh language arts and social
+[0:19:49] studies and Noel Gorbette um supports
+[0:19:53] math and science at the high school
+[0:19:54] level as well. Both of them contributed
+[0:19:56] to this evening's presentation but are
+[0:19:58] unable to attend unfortunately. So thank
+[0:20:00] you. Yeah, thank you. Thanks for having
+[0:20:02] us this afternoon sle evening. Again,
+[0:20:05] I'm Emily [Glasgow]. I want to introduce
+[0:20:06] the team behind me that helps lead at
+[0:20:08] the elementary level. Um, so we have
+[0:20:11] director Melissa Shakner who oversees K5
+[0:20:13] ELA and social studies and Patrice Woods
+[0:20:16] who's the director of K5 math and
+[0:20:18] science and Elizabeth Martin who um is
+[0:20:22] the assistant director of K12 academic
+[0:20:24] interventions. They're all here on hand.
+[0:20:26] since they helped us prepare the
+[0:20:27] presentation and um should we have any
+[0:20:30] questions weigh in the weeds, our
+[0:20:31] content experts are in the room. So,
+[0:20:33] we'll dive in. We have a multimedia
+[0:20:36] presentation for you um with some videos
+[0:20:39] and things to to keep it interesting
+[0:20:41] hopefully. Um here's our agenda. Um we
+[0:20:44] have a lot of content to cover. We're
+[0:20:46] we're charged with talking about K12
+[0:20:49] mathematics and language arts. Um so, we
+[0:20:52] have kind of have it chunked. We want to
+[0:20:54] go all the way through K12 mathematics
+[0:20:56] and then see what questions you have and
+[0:20:57] then go all the way through K12 language
+[0:20:59] arts and see what questions you have if
+[0:21:01] that's okay. Um our guiding question
+[0:21:03] this this evening is what does math and
+[0:21:05] language arts core instruction look,
+[0:21:07] sound, and feel like in K12 PPS
+[0:21:09] classrooms? And then upon your request,
+[0:21:12] um we're sort of integrating into the
+[0:21:15] conversation where and how does
+[0:21:16] technology show up to support that
+[0:21:18] learning.
+[0:21:21] So, I'm going to start with K5
+[0:21:22] mathematics. Um, and then I'll pass to
+[0:21:25] Phipe for secondary. Um, our core
+[0:21:28] curriculum in K5 mathematics in all
+[0:21:31] classrooms is called I Ready. Um, and
+[0:21:33] it's a suite of, this is just an image
+[0:21:35] to sort of show you everything it
+[0:21:37] includes. Um, there is a digital teacher
+[0:21:39] toolbox that is teacherfacing. Um that
+[0:21:42] is where teachers find everything they
+[0:21:44] need, all their lesson plans, um all
+[0:21:47] their data, all videos, tools,
+[0:21:50] resources, um information on how to do
+[0:21:52] differentiation for different students.
+[0:21:55] Uh there is a student work text or
+[0:21:57] workbook that you see here in this
+[0:21:58] image. It is used for practice. It is
+[0:22:01] not used all the time. This is not kids
+[0:22:03] in workbooks all day long, but it is the
+[0:22:05] place where students practice and apply
+[0:22:07] their learning. Um there is a you can
+[0:22:11] see on the slide there are
+[0:22:12] manipulatives. So all those little tiles
+[0:22:14] we call manipulatives. There are lots of
+[0:22:16] different ones besides those pictured
+[0:22:18] here. And every lesson calls for things
+[0:22:20] that students can manipulate with their
+[0:22:22] hands um to practice and learn more
+[0:22:25] mathematics. There is an online practice
+[0:22:28] tool that I'll talk a little bit more
+[0:22:29] about called my path which is studentf
+[0:22:31] facing. And there is also a diagnostic
+[0:22:33] assessment which we'll talk a little bit
+[0:22:35] more about.
+[0:22:38] You can see on this slide how many
+[0:22:41] minutes per day students at each grade
+[0:22:43] level spend on mathematics. Um I'm not
+[0:22:47] going to spend a lot more time talking
+[0:22:48] about that. You can see what it looks
+[0:22:49] like, but it's expected that those many
+[0:22:50] minutes happen every day in every
+[0:22:52] classroom. And then because they say it
+[0:22:54] better than we do, I'm going to show you
+[0:22:56] a very quick like two-minute video that
+[0:22:58] kind of goes over um what the structure
+[0:23:01] of a lesson looks and feels like across
+[0:23:03] a week um and some of the core
+[0:23:06] instructional routines that are part of
+[0:23:08] I Ready in particular the try discuss
+[0:23:10] connect routine. So we'll watch this
+[0:23:11] quick video and then we'll talk a little
+[0:23:13] bit more about what you heard. Hopefully
+[0:23:15] it'll work. Let's give it a try.
+[0:23:28] When it comes to mathematics, the key to
+[0:23:30] long-term learning lies in developing
+[0:23:32] deep conceptual understanding along with
+[0:23:34] application and procedural fluency. I
+[0:23:37] Ready Classroom Mathematics takes a
+[0:23:39] unique yet proven approach to get these
+[0:23:41] results. Our lessons span multiple days
+[0:23:44] to give students the time they need to
+[0:23:46] dig into the concepts, develop their
+[0:23:49] understanding, build procedural fluency,
+[0:23:51] and apply their learning to new ideas.
+[0:23:54] Each lesson is comprised of multiple
+[0:23:57] sessions. Each session or day takes
+[0:24:00] about 45 to 60 minutes to complete.
+[0:24:03] There are three different session types:
+[0:24:05] explore, develop, and refine.
+[0:24:09] The explore sessions are the first
+[0:24:11] sessions in every lesson. They set the
+[0:24:13] stage for the new concepts the students
+[0:24:15] are going to learn. The session uses an
+[0:24:18] engaging task that helps students
+[0:24:20] connect previously learned concepts to
+[0:24:22] the new ideas of the lesson. In develop
+[0:24:26] sessions, the class uses the
+[0:24:27] discourse-based try discuss connect
+[0:24:30] routine.
+[0:24:31] Through the routine, students develop,
+[0:24:34] discuss, and compare strategies to solve
+[0:24:36] a problem. By discussing one rich
+[0:24:39] problem in depth, students make
+[0:24:40] connections between strategies and
+[0:24:42] better retain what they learn. They then
+[0:24:45] apply this learning to new problems.
+[0:24:48] The refined sessions are the last
+[0:24:50] sessions in a lesson. They provide
+[0:24:52] built-in time for students to practice
+[0:24:54] and deepen their understanding.
+[0:24:56] At the beginning of the refined session,
+[0:24:59] teachers check student work on the start
+[0:25:01] activity and observe their reasoning on
+[0:25:03] questions in the lesson. As teachers
+[0:25:06] monitor students understanding, they can
+[0:25:08] choose from the reteing resources on
+[0:25:11] level practice or extension activities
+[0:25:13] to further address diverse student
+[0:25:15] learning needs. The flexibility of the
+[0:25:18] refined sessions provides dedicated
+[0:25:21] class time for further differentiation.
+[0:25:24] The multipleday lessons in I Ready
+[0:25:26] Classroom Mathematics progressively
+[0:25:28] build student understanding and provide
+[0:25:30] the time students need to process new
+[0:25:32] ideas. This thoughtful approach deepens
+[0:25:36] conceptual understanding, procedural
+[0:25:38] fluency, and the ability to apply the
+[0:25:40] learning to new situations.
+[0:25:42] The instructional design of I Ready
+[0:25:44] Classroom Mathematics helps students
+[0:25:46] connect to mathematics in new ways and
+[0:25:49] sets them up for long-term success.
+[0:25:57] Let me get back to the slides.
+[0:26:00] Um, so
+[0:26:03] here's another way of sort of capturing
+[0:26:05] what you heard and saw in the video. Um,
+[0:26:07] what should be happening in an IR
+[0:26:09] mathematics lesson is that every day or
+[0:26:11] definitely across the week there's whole
+[0:26:13] group learning opportunities or small
+[0:26:15] group learning opportunities and there's
+[0:26:16] some independent practice or application
+[0:26:18] time. Um, people often ask like what
+[0:26:21] makes this different than the old math,
+[0:26:23] right? The old math. So I think some of
+[0:26:25] that you heard in the video. This is a
+[0:26:27] very discourseheavy curriculum, meaning
+[0:26:29] kids spend a lot of time talking with
+[0:26:31] one another about strategies. They play
+[0:26:34] out their strategies on whiteboards and
+[0:26:36] share them with partners. They're
+[0:26:37] encouraged to make mistakes and learn
+[0:26:39] from their mistakes. Often a teacher
+[0:26:41] might even call up a student who made a
+[0:26:42] mistake in their thinking and the whole
+[0:26:44] class will kind of talk that through and
+[0:26:46] think about how to help that student
+[0:26:47] rroot because again there's a belief
+[0:26:49] that we learn through mistakes. Um, and
+[0:26:52] then I think you heard also there's
+[0:26:54] opportunities as the week progresses for
+[0:26:57] teachers to differentiate and use data
+[0:26:59] to determine if they need to work with
+[0:27:00] certain students to retach and do small
+[0:27:02] groups while other students are moving
+[0:27:04] forward or doing more problems. It's a
+[0:27:06] less is more approach. We're not doing
+[0:27:08] pages and pages of problems. We're going
+[0:27:10] deep into less problems to really make
+[0:27:12] sure there's conceptual understanding.
+[0:27:14] The other piece I want to just emphasize
+[0:27:16] before we talk about assessment is the
+[0:27:18] individualized online my path practice.
+[0:27:20] So there was a specific question your
+[0:27:22] committee had about technology usage.
+[0:27:24] There is um this program called my path.
+[0:27:27] Students take a diagnostic assessment um
+[0:27:29] three times a year and the diagnostic
+[0:27:31] assessment places them within this
+[0:27:33] online practice tool um according to
+[0:27:36] their skills. Um it's recommended that
+[0:27:38] students do 30 to 45 minutes a week on
+[0:27:41] this. So it's not very much. It's
+[0:27:43] definitely not even every day. Um, and
+[0:27:45] it's a supplement to the teacher
+[0:27:47] instruction, to the small group
+[0:27:48] instruction, just to give kids those
+[0:27:50] added kind of atbats at their level to
+[0:27:52] build skills up toward, you know, the
+[0:27:54] grade level standards or beyond if
+[0:27:56] that's where they are. Um, the research
+[0:27:58] in is clear that kids who do that 30 to
+[0:28:01] 45 minutes a week are much more likely
+[0:28:03] to meet meet their um, growth and
+[0:28:05] stretch targets that are set within the
+[0:28:07] diagnostic.
+[0:28:09] And the last thing is assessment on this
+[0:28:11] topic. So in K5 mathematics, just like
+[0:28:14] you'll hear across the board in K12,
+[0:28:16] everything, we have a balanced
+[0:28:18] assessment system. So we have interim
+[0:28:20] assessments that we do fall, winter,
+[0:28:22] spring. That's the diagnostic. There's
+[0:28:24] ongoing assessment that's just kind of
+[0:28:26] baked into the lessons. Um it might look
+[0:28:29] like a quick exit ticket on the way out
+[0:28:30] the door as kids are wrapping up the
+[0:28:32] lesson. It might be a lesson quiz or a
+[0:28:34] comprehension check. These are quick and
+[0:28:36] they're just like little dipsticks to
+[0:28:38] give teachers information about where
+[0:28:40] kids are and what they need to retach
+[0:28:41] and support. And then there's end of
+[0:28:43] unit assessments again um for teachers
+[0:28:45] to sort of check at the end of a unit
+[0:28:47] where are we? What did kids master? How
+[0:28:49] did I do as the teacher? What do I need
+[0:28:50] to maybe circle back and do with some
+[0:28:52] students?
+[0:28:54] I'm going to pass for 612 math. You want
+[0:28:56] me to slip here or you want?
+[0:28:59] >> Okay,
+[0:29:01] >> great. Thanks, Emily.
+[0:29:02] >> Yeah. So in uh secondary uh mathematics,
+[0:29:06] we use our adopted curriculum uh which
+[0:29:08] is mid school math for middle school and
+[0:29:11] illustrative mathematics uh to bring the
+[0:29:13] focus, coherence, and rigor of our math
+[0:29:16] standards to life. And we anchor what
+[0:29:19] strong instruction looks like um by
+[0:29:22] using core actions as a shared
+[0:29:25] framework. And these actions really
+[0:29:26] speak to uh what we teach uh how we
+[0:29:30] teach it and how students engage in
+[0:29:33] learning.
+[0:29:34] At the middle school level, we use
+[0:29:36] middle school math as our core
+[0:29:37] curriculum. Students receive uh 45
+[0:29:40] minutes of math instruction per day,
+[0:29:43] providing consistent dedicated time for
+[0:29:45] grade level learning. Uh introduction is
+[0:29:48] intentionally uh focused on one um sorry
+[0:29:52] instruction is intentionally focused on
+[0:29:54] one priority standard at a time allowing
+[0:29:57] students to develop deeper understanding
+[0:30:00] rather than moving quickly from one
+[0:30:02] topic to another.
+[0:30:06] The midschool math curriculum uh
+[0:30:08] includes several integrated components.
+[0:30:12] So, uh, much like our K5 curriculum, our
+[0:30:16] mid, uh, middle school curriculum is,
+[0:30:18] uh, predictable. Um, the midschool math
+[0:30:21] curriculum includes simulations,
+[0:30:23] structured practice, uh, printables, and
+[0:30:25] quick checks for understanding. These
+[0:30:28] pieces are designed to work together as
+[0:30:29] a coherent lesson sequence, supporting
+[0:30:32] consistent instructional practice across
+[0:30:34] classrooms, and ensure students are
+[0:30:37] engaged in math in a variety of
+[0:30:39] different ways.
+[0:30:42] I know we're supposed to wait for our
+[0:30:43] questions, but I don't understand that
+[0:30:45] slide. So, can we go back?
+[0:30:46] >> Um, what is a math simulator?
+[0:30:50] >> Um, I'm going to talk about in the very
+[0:30:52] next slide.
+[0:30:53] >> Great.
+[0:30:53] >> Yes. And I appreciate the question. Um,
+[0:30:57] so
+[0:30:57] >> in case it's not going to get covered, I
+[0:30:59] also don't know what a clicker quiz is.
+[0:31:01] So, thank you.
+[0:31:01] >> Great. Uh so
+[0:31:05] every um every lesson begins with a a
+[0:31:09] storybased uh thinking task. So students
+[0:31:12] encounter a meaningful problem first,
+[0:31:15] discuss their thinking and work towards
+[0:31:17] solutions before formal instruction. So
+[0:31:20] this is also very different certainly
+[0:31:22] from how I experienced math um in middle
+[0:31:24] school where my experience and I think
+[0:31:27] the experience of um many other students
+[0:31:29] was watching a teacher demonstrate how
+[0:31:33] to solve a problem then doing some
+[0:31:36] problem solving together and then having
+[0:31:38] homework to solve problems on my own
+[0:31:41] which really focuses on procedural
+[0:31:44] fluency but doesn't necessarily allow
+[0:31:47] for the possibility of developing deep
+[0:31:49] conceptual understanding. So in our
+[0:31:52] middle school curriculum and similar to
+[0:31:53] our high school curriculum, we begin
+[0:31:55] with the problem and we create space for
+[0:31:58] students to engage in some thinking
+[0:32:00] about problem solving. Um so this uh
+[0:32:05] approach positions students as thinkers
+[0:32:07] and sense makers from the start and
+[0:32:10] would like to illustrate this by showing
+[0:32:12] a brief video if that's okay
+[0:32:15] and hopefully this will
+[0:32:24] Hi, I'm Jacqueline Johnson, director of
+[0:32:26] professional learning with Mid School
+[0:32:28] Math. Each standard is introduced to
+[0:32:30] students in an investigation. The first
+[0:32:33] part of the week is that conceptual
+[0:32:35] immersion, building that opportunity for
+[0:32:37] productive failure, struggling, and
+[0:32:39] collaborating. For the math simulator,
+[0:32:41] they just get to start out with a great
+[0:32:43] story. They give kids an opportunity to
+[0:32:46] really think about what would they need
+[0:32:48] in order to solve this problem.
+[0:32:50] >> I just know it's going to be one side of
+[0:32:52] the equation equals another side of the
+[0:32:54] equation. It could equal like the same
+[0:32:56] amount he makes. We need to see like how
+[0:32:59] much burn he has first and how much he's
+[0:33:02] on each of the first four.
+[0:33:03] >> We didn't know how many pickles are in
+[0:33:06] the jaw. We need to find out what
+[0:33:08] they're using to make them and what that
+[0:33:10] costs. Once we've gone through that
+[0:33:11] discussion, we grab the artifact which
+[0:33:14] then gives them um numbers, any kind of
+[0:33:17] information that they would need and
+[0:33:18] they start to just work with that
+[0:33:20] information.
+[0:33:22] >> So I multiply right and I got 120 and
+[0:33:27] 720. So 720 is definitely much greater.
+[0:33:32] >> Yeah, we got to add these together. So
+[0:33:34] if we multiply it then add those
+[0:33:35] together. But this is the one.
+[0:33:38] >> I think
+[0:33:39] >> it's so much fun to watch my students
+[0:33:41] process through that, come up with
+[0:33:43] things you would never think of, have
+[0:33:45] great discussions around the room, and
+[0:33:47] so it's just a wonderful way to start
+[0:33:49] the week with my students.
+[0:34:00] Nice.
+[0:34:02] And we can come back to any other
+[0:34:04] questions you you might have. So, uh,
+[0:34:06] assessments in middle school, uh, are
+[0:34:09] closely aligned with our, um, with the
+[0:34:12] standards and what's been taught. Uh,
+[0:34:14] standard checks occur at the end of
+[0:34:16] each, uh, standard and provide some of
+[0:34:19] it, summitative evidence for
+[0:34:21] standardsbased, uh, grading, while post
+[0:34:23] milestone assessments help monitor
+[0:34:25] progress on major grade level
+[0:34:27] expectations and often include uh, more
+[0:34:30] than one standard.
+[0:34:34] uh at the high school level um they
+[0:34:37] experience a different curriculum but
+[0:34:39] there is definitely continuity in
+[0:34:41] instructional experiences.
+[0:34:44] Uh we continue to emphasize uh
+[0:34:46] reasoning, problem solving as well as
+[0:34:49] conceptual understanding
+[0:34:52] um in math instruction.
+[0:34:56] Students at the high school level must
+[0:34:58] earn a three at least three math credits
+[0:35:01] um at the algebra 1 and above level in
+[0:35:04] order to meet graduation requirements.
+[0:35:06] And then we also encourage students uh
+[0:35:09] to take uh the fourth year of math as
+[0:35:12] well. High school math is typically
+[0:35:14] taught uh on a block schedule providing
+[0:35:17] between 180 and uh 270 minutes of
+[0:35:20] instruction per week depending depending
+[0:35:22] on the week.
+[0:35:25] uh illustrative mathematics or I am uh
+[0:35:29] lessons follow a consistent structure
+[0:35:31] that support supports student discourse.
+[0:35:34] So again the the idea of like
+[0:35:36] predictable structure is um really
+[0:35:39] important. Uh these lessons support
+[0:35:42] student discourse uh reasoning and
+[0:35:44] reflection. Students engage with
+[0:35:46] challenging problems first explain their
+[0:35:48] thinking and refine understanding
+[0:35:50] through discussion and practice. So you
+[0:35:55] would typically see at the beginning of
+[0:35:56] a lesson the introduction of a problem
+[0:35:58] and the time and opportunity for
+[0:36:00] students to grapple uh with those
+[0:36:02] problems before they transition to small
+[0:36:04] group um or uh instruction and small
+[0:36:08] group work.
+[0:36:12] Um at the secondary level our literacy
+[0:36:14] uh sorry I'm uh getting ahead of myself.
+[0:36:18] Uh let me just find this is the video
+[0:36:20] but I want to introduce the uh building
+[0:36:23] thinking classrooms which is a an
+[0:36:26] instructional approach uh separate from
+[0:36:28] the curriculum itself. Uh and we're
+[0:36:30] seeing our middle school and high school
+[0:36:32] teachers quite excited uh about uh some
+[0:36:36] of the professional development that
+[0:36:37] we've offered around building thinking
+[0:36:39] classrooms. So this is a researchbased
+[0:36:42] instructional approach that focuses on
+[0:36:45] getting every student actively thinking
+[0:36:48] um during the learning time. Students
+[0:36:50] work collaboratively on rich accessible
+[0:36:54] problems often using vertical uh
+[0:36:57] whiteboard uh erasable whiteboards. Um
+[0:37:01] and we're going to show you a brief
+[0:37:03] video from Emma Georgetta's algebra 34
+[0:37:06] class at uh McDaniel High School.
+[0:37:20] Today we're going to start with bringing
+[0:37:22] back some stuff from yesterday and then
+[0:37:23] I'm going to send you into some new
+[0:37:24] territory together. Snag whoever you
+[0:37:27] want. Thank you, David. The blue one.
+[0:37:32] >> You know what I'm going to have you guys
+[0:37:33] do? I'm going to have you please.
+[0:37:35] >> Oh yeah, we're waking up. Will you
+[0:37:38] please find your board and bring your
+[0:37:39] notes? You might want them. I'm not
+[0:37:41] sure. We'll find out though.
+[0:37:43] >> Beautiful. You're on page four. You were
+[0:37:44] answering all those problems on a
+[0:37:45] whiteboard WITH YOUR PARTNER. YOU'RE
+[0:37:46] TALKING through it. How did you get
+[0:37:47] that? Which craft did you use? What do
+[0:37:50] you think? And then there's some bonus
+[0:37:51] problems with
+[0:37:55] >> Okay, we have
+[0:37:59] fig.
+[0:38:06] Well, can I'm gonna invite, if you're
+[0:38:07] willing, Anthony to be the writer and
+[0:38:09] you have to explain what you did to hear
+[0:38:11] this.
+[0:38:13] >> And then make sure you're asking a
+[0:38:14] question so you're like, where did that
+[0:38:16] even be?
+[0:38:20] >> What are you guys thinking about?
+[0:38:25] >> Cool. How come?
+[0:38:27] >> This is where I got confused cuz when
+[0:38:29] yome
+[0:38:33] It's
+[0:38:33] >> probably not too bad, right?
+[0:38:35] >> Step slices bottom two or extensions.
+[0:38:37] It's all for the variable.
+[0:38:44] >> Nice.
+[0:38:51] >> So,
+[0:38:54] >> cool. Then check it. Right. How do you
+[0:38:55] know if you're right?
+[0:38:57] >> Um,
+[0:39:00] put it back in. Plug it back in. It
+[0:39:02] works. Take that next one. Poke it
+[0:39:03] through. You guys have lots of good
+[0:39:05] pathways.
+[0:39:07] >> Cool. How do you guys know you're right?
+[0:39:09] >> Oh, what's a way to figure out if you're
+[0:39:11] right?
+[0:39:14] >> Yeah.
+[0:39:16] >> Oh, it is.
+[0:39:18] >> Where's your equal sign?
+[0:39:21] >> For right there.
+[0:39:23] >> Tell me about this symbol. I'm worried
+[0:39:25] that the symbol went over too many
+[0:39:27] things. Just don't know where it ends.
+[0:39:30] >> That actually doesn't matter.
+[0:39:33] >> Wait. So So
+[0:39:35] >> let's go back on.
+[0:39:36] >> Yeah.
+[0:39:41] >> And we're going to keep stairstepping
+[0:39:42] upwards. You guys have such great
+[0:39:44] thoughts on your boards.
+[0:39:46] >> It's very exciting.
+[0:39:48] >> All right, you guys. I'm gonna move you.
+[0:39:53] So, uh you may have noticed that the
+[0:39:55] teacher is asking a lot of questions. Um
+[0:39:58] how would you check? Uh how did you get
+[0:40:00] that? What do you think? Uh students are
+[0:40:03] working with each other. They're making
+[0:40:05] their thinking uh visible and public.
+[0:40:08] Often times uh in lessons like this
+[0:40:11] students will actually rotate uh from
+[0:40:13] one station to another and we'll respond
+[0:40:15] to each other's uh work and uh rather
+[0:40:19] than learning being kind of private and
+[0:40:21] kind of transactional between the
+[0:40:23] student and the teacher it is
+[0:40:24] collaborative um and very very public.
+[0:40:29] Uh lastly, regarding assessments, um
+[0:40:33] high school assessments also include
+[0:40:35] formative checks um such as um uh
+[0:40:40] readiness checks and cooldowns as well
+[0:40:41] as end of the unitit assessments uh that
+[0:40:44] synthesize the learning from the entire
+[0:40:46] unit. Uh these provide common evidence
+[0:40:49] of learning and support uh across uh
+[0:40:51] schools.
+[0:40:53] So, I think we can um
+[0:40:56] answer any questions you might have
+[0:40:58] about math and also maybe our math um to
+[0:41:02] Patrice can help as if needed as well.
+[0:41:09] >> Come up.
+[0:41:12] >> They're pretty comfortable. I don't
+[0:41:13] know. You're welcome to.
+[0:41:16] >> And any questions before we transition
+[0:41:19] to ELA?
+[0:41:22] Yeah. Um, I have questions. Um, but do
+[0:41:26] those of you in the room want to begin?
+[0:41:30] >> Let's defer to you being virtual because
+[0:41:32] it's harder to like prioritize virtual
+[0:41:34] people, you know?
+[0:41:35] >> Thank you. Um, okay. So, I was curious,
+[0:41:39] um, what feedback are we getting on
+[0:41:41] these curriculums from teachers?
+[0:41:45] >> That's a great question. um at the
+[0:41:47] elementary level I would say so this is
+[0:41:48] our I should have started by saying this
+[0:41:50] is our fifth year in Ire mathematics
+[0:41:52] implementation so it's no longer a new
+[0:41:54] approach or a new curriculum in the
+[0:41:56] district um Patrice please come down if
+[0:41:58] you have anything to add um I would say
+[0:42:00] largely though um teachers like it um we
+[0:42:05] like everything else have a range of
+[0:42:07] implementation across the system but um
+[0:42:10] I almost never I almost never go into a
+[0:42:13] classroom where I don't see a teacher
+[0:42:14] very much trying to teach already and
+[0:42:16] trying to use the I Ready materials.
+[0:42:17] There's there's no resistance to the
+[0:42:20] concept of I Ready. I think there's
+[0:42:21] just, you know, continued learning on on
+[0:42:23] behalf of teachers. But, uh, Patrice,
+[0:42:26] please flesh that out.
+[0:42:27] >> Um, only thing I'll add to that is, um,
+[0:42:30] for kindergarten and first grade
+[0:42:32] educators. So, initially when we adopted
+[0:42:35] I Ready, um, again, you saw that it's,
+[0:42:37] you know, discoursebased. And so there
+[0:42:39] was a lot of feedback that this is not
+[0:42:42] developmentally appropriate for
+[0:42:44] kindergarten students and first grade
+[0:42:45] students. And we heard that a lot. Uh
+[0:42:47] Curriculum Associates heard that a lot.
+[0:42:49] They are across the United States. And
+[0:42:51] as a result of that feedback, they
+[0:42:54] actually revamped their kindergarten and
+[0:42:56] first grade um programming. And so in
+[0:42:59] 2024
+[0:43:01] um they rolled that out. and our
+[0:43:03] kindergarten, we did a little pilot with
+[0:43:05] some kindergarten and first grade
+[0:43:06] teachers and they absolutely loved it,
+[0:43:08] at least the the group um compared to
+[0:43:11] what uh they had had in the past. And so
+[0:43:14] um again to Emily's point, I haven't
+[0:43:16] heard a lot of complaints about it. Um
+[0:43:18] we continue to work with educators to
+[0:43:21] strengthen implementation, especially
+[0:43:22] around the discourse piece because um
+[0:43:25] that's not always going as smoothly as
+[0:43:27] we would hope. But um they are working
+[0:43:29] very hard and our teachers are doing a
+[0:43:31] good job. Um and the data is showing
+[0:43:34] that as well. We're seeing some definite
+[0:43:36] improvements across the year. So this is
+[0:43:38] year four for us doing the I Ready
+[0:43:41] diagnostic and um just looking at we
+[0:43:43] don't have any data slides in there and
+[0:43:45] I'm sure we can get them to you if you
+[0:43:46] like. Um but just looking thinking about
+[0:43:49] the progression from our growth and
+[0:43:52] performance from the first uh
+[0:43:54] administration of the IRA diagnostic to
+[0:43:56] now is just huge. Uh we're we're spread
+[0:44:01] across a lot more schools are high
+[0:44:03] performance versus lower performance and
+[0:44:05] high growth. So they're using it. They
+[0:44:08] like it. They especially like the
+[0:44:09] teacher friendliness of the um the data
+[0:44:14] reports from doing the I'm sorry about
+[0:44:16] that um from doing the diagnostics. So
+[0:44:20] um I I mean I couldn't say 100% of them
+[0:44:23] love it because that's just never going
+[0:44:24] to be the case, but I haven't heard too
+[0:44:27] many complaints about it. So
+[0:44:30] >> thank you. Um and I would love to see
+[0:44:32] the data at some point.
+[0:44:34] >> Absolutely.
+[0:44:35] Um,
+[0:44:36] >> can we hear about the high school side,
+[0:44:37] the secondary side? Yeah, the secondary
+[0:44:39] side.
+[0:44:39] >> I can speak to middle grades, mid school
+[0:44:41] math. It is definitely a different
+[0:44:42] approach. Um, as an educator, especially
+[0:44:45] in math, one of the hardest questions to
+[0:44:48] answer when a student asks is when are
+[0:44:50] we ever going to use this? And this is
+[0:44:52] why this is a different approach. It
+[0:44:54] opens with that story-based thinking
+[0:44:56] task um where they they are
+[0:44:59] demonstrating a situation where you need
+[0:45:01] to apply the math that you're about to
+[0:45:03] learn to actually answer the question,
+[0:45:06] but we're not going to tell you what you
+[0:45:09] need to know. You tell us what you need
+[0:45:11] to know to answer this question. And so,
+[0:45:13] it's a completely different approach in
+[0:45:14] that it it opens with the application
+[0:45:16] part first. here's a situation where you
+[0:45:19] need to apply some math skills and then
+[0:45:22] you tell me how you're going to apply it
+[0:45:24] based on some uh additional artifacts
+[0:45:26] that I'm going to give you later and so
+[0:45:28] that it encourages that productive
+[0:45:30] struggle for students
+[0:45:33] >> and how do you think teachers feel about
+[0:45:34] it? Um
+[0:45:37] it is an adaptive shift for our teachers
+[0:45:39] because it is different than how we
+[0:45:42] learned math growing up and we are
+[0:45:44] continuing to support that adaptive
+[0:45:46] shift for our teachers. Some teachers
+[0:45:48] love it. Um they share that they love
+[0:45:50] teaching it because it's fun. It is
+[0:45:52] different. Um but if you are a teacher
+[0:45:55] who has not um adapted to that shift um
+[0:45:59] it can be more challenging.
+[0:46:05] Um, so
+[0:46:09] I guess this isn't about the curriculum
+[0:46:10] itself, but kind of implementation.
+[0:46:13] Um, I I love the presentation and the
+[0:46:16] way that it's laid out and the
+[0:46:18] sequencing and everything. Um, it looks
+[0:46:20] really great and it it it makes sense to
+[0:46:22] me and uh looks engaging, but I'm
+[0:46:26] curious about the reality the reality of
+[0:46:29] implementation
+[0:46:30] given class sizes. Um, and this is like
+[0:46:34] a little bit of a personal anecdote, but
+[0:46:38] um, I was in a class-siz committee
+[0:46:40] meeting um, at my kids school for my
+[0:46:43] kids second grade class, and uh, one of
+[0:46:47] the teachers shared that because of her
+[0:46:50] class size numbers, um, she just doesn't
+[0:46:53] have the time in the day to work with
+[0:46:56] kids individually. And so they end up um
+[0:47:00] doing curriculum.
+[0:47:02] Kids who are not at grade level end up
+[0:47:06] doing a lot of um a lot of time online.
+[0:47:12] Um while they're giving direct
+[0:47:14] instruction to other students. Um, so
+[0:47:18] I'm just I'm curious what your thoughts
+[0:47:20] are on how
+[0:47:23] educators are balancing the challenge of
+[0:47:26] um, you know, trying to implement
+[0:47:29] curriculum to fidelity with the
+[0:47:31] realities of our class sizes.
+[0:47:33] >> So I can speak to that a little. Um so
+[0:47:37] similar to what Tuton was sharing in
+[0:47:40] terms of it being sort of a shift for
+[0:47:42] educators um one of the big shifts
+[0:47:44] within uh the use of the I Ready
+[0:47:46] instructional materials is this idea of
+[0:47:50] sort of a consistent daily um move to uh
+[0:47:55] small group work. So um the way that the
+[0:47:57] lessons were set up um and you saw the
+[0:48:00] uh video uh there's opportunity for
+[0:48:02] small group work on a daily basis. And
+[0:48:05] so to your uh point with your anecdote,
+[0:48:08] um it it one it takes like the getting
+[0:48:11] in there and doing it. It's not going to
+[0:48:13] be comfortable at first, especially if
+[0:48:14] you're not used to it. But it's one of
+[0:48:16] those things where we got to continue to
+[0:48:19] practice it until we can get better at
+[0:48:20] it. And I'm saying that to say so for
+[0:48:23] example um if you've got kiddos that
+[0:48:25] need a little bit of extra support when
+[0:48:27] you implement that small group work and
+[0:48:29] that there's rotation so the the kids
+[0:48:31] are doing about 15 or 20 minute
+[0:48:32] rotations there are lessons actually and
+[0:48:35] Emily mentioned teacher toolbox within
+[0:48:38] teacher toolbox that are exactly aligned
+[0:48:40] to whatever concept we're learning. So
+[0:48:43] whether it's, you know, in this unit or
+[0:48:45] an upcoming uh standard or upcoming
+[0:48:48] lesson, um there are uh opportunities
+[0:48:51] for teachers to then use those tools for
+[0:48:54] instruction, which again are designed
+[0:48:56] for small groups and provide kiddos with
+[0:48:58] those. And then when kids do the
+[0:49:00] rotations, they get opportunities to
+[0:49:01] practice with one another on that same
+[0:49:03] concept or a concept that uh gives them
+[0:49:06] a bridge to access that grade level
+[0:49:10] content. So again, it's just one of
+[0:49:12] those things. By no means am I saying
+[0:49:14] it's easy. I'm certainly not trying to
+[0:49:16] come across that way. Um but it is
+[0:49:19] something that's different for some
+[0:49:20] folks and it's something that in theory
+[0:49:24] is done daily so that kids kind of
+[0:49:27] understand the um process and the
+[0:49:30] protocol in terms of uh okay we have
+[0:49:33] teacher time we might have a whole group
+[0:49:35] lesson and then we shift to u student le
+[0:49:38] uh centers individual centers maybe they
+[0:49:41] do my path a couple days a week or not
+[0:49:43] so yeah so practice practice and
+[0:49:47] whatever whatever support is needed, we
+[0:49:49] are willing to come and provide at any
+[0:49:52] way any way we can. So, and I know that
+[0:49:54] um instructional coaches also have been
+[0:49:56] through some of these as well. So,
+[0:49:58] whatever they are able to provide as
+[0:49:59] well. Um, and it, like I said, sometimes
+[0:50:01] it takes that um, like one-on-one work
+[0:50:05] or that willingness, and I'm not saying
+[0:50:07] the teacher's not willing, but that
+[0:50:09] willingness to step outside of my
+[0:50:11] comfort zone and teach it a little
+[0:50:13] differently than I'm used to or than
+[0:50:15] I've learned for that matter.
+[0:50:19] >> Okay. So I think what I'm hearing you
+[0:50:22] say in relation to because my concern is
+[0:50:24] about like kids getting uh put on on my
+[0:50:28] path uh in lie of having time
+[0:50:31] >> y
+[0:50:32] >> with the teacher directly. Um, so what
+[0:50:34] what I think I'm hearing you say is that
+[0:50:37] um with with with focus on that small
+[0:50:41] group time um that that's the
+[0:50:44] opportunity for teachers to be working
+[0:50:46] with students at all levels um and and
+[0:50:50] that's kind of an adjustment.
+[0:50:52] >> Yeah. So that's not the putting kids on
+[0:50:54] computers because differentiation is
+[0:50:56] challenging is not the recommended
+[0:50:58] answer, right? And um that's on us to
+[0:51:01] continue professional learning with
+[0:51:02] educators around how to really plan for
+[0:51:05] the kids in the room. Big class, small
+[0:51:07] class, big range, small range, and
+[0:51:09] really use everything the curriculum
+[0:51:10] offers, including this approach to small
+[0:51:12] group instruction. And it's it's a
+[0:51:14] learning process, but it's, you know,
+[0:51:16] it's possible in large classrooms to
+[0:51:18] ensure that everybody's getting daily
+[0:51:20] grade level math instruction. That's our
+[0:51:22] expectation.
+[0:51:23] >> Okay. Thank you. Um, I'm going to shift
+[0:51:26] to 68 and I'm going to be quick because
+[0:51:28] I don't want to take up too much time.
+[0:51:29] Um, this is another personal anecdote as
+[0:51:32] both of my kids have been sick multiple
+[0:51:34] days this week. Um, and got my kid doing
+[0:51:39] his math that he's missing right now.
+[0:51:41] Um, I love the sequencing of the of the
+[0:51:44] week and the way that um the the
+[0:51:48] standards unfold across the week. But
+[0:51:50] what happens if kids miss
+[0:51:53] a day or multiple days? Um how how do
+[0:51:57] those gaps get filled given the way that
+[0:51:59] the the uh standard is scaffolded?
+[0:52:03] >> Yes. So um there's a very specific
+[0:52:05] sequence for midchool math. Day one is
+[0:52:08] that thinking task. Day two they deepen
+[0:52:11] their understanding applying the
+[0:52:13] concepts for that standard uh as it
+[0:52:16] relates to the story. Day three is where
+[0:52:19] teacher instruction gets folded in and
+[0:52:21] they get to practice it u through the
+[0:52:23] practice printable which looks like a
+[0:52:25] worksheet. And then day four is a
+[0:52:27] clicker quiz. If students are absent,
+[0:52:29] student or teachers can still assign
+[0:52:32] those different components to students
+[0:52:34] so that they can stay caught up uh and
+[0:52:37] catch up with additional help. So all of
+[0:52:40] those components are there um and they
+[0:52:43] can still be assigned.
+[0:52:45] I assume that's what my kid is working
+[0:52:47] on in the other room right now. Um,
+[0:52:51] is is a week enough time for students to
+[0:52:53] master a standard
+[0:52:55] >> and happens when it's not?
+[0:52:56] >> Yes, that's a really great question. One
+[0:52:59] of the beautiful parts about midchool
+[0:53:00] math is that it's a predictable
+[0:53:02] structure. So, it's easy for teachers to
+[0:53:04] get used to that structure, students to
+[0:53:06] get used to those structures. Um, but in
+[0:53:08] reality, some standards are simpler and
+[0:53:11] some standards are more complex. And
+[0:53:13] what we've done in 68 is we've gotten
+[0:53:15] we've hosted teacher workg groupoups uh
+[0:53:18] where teachers have come in for days and
+[0:53:21] they have identified okay these are the
+[0:53:23] simpler standards these are the the
+[0:53:25] standards that where we can shave off a
+[0:53:27] couple days maybe we don't need the
+[0:53:29] whole five days maybe we can cover it in
+[0:53:31] three days these standards are more
+[0:53:33] complex and they require more time
+[0:53:35] because we know that there might be some
+[0:53:37] lagging skills involved and so we will
+[0:53:40] dedicate more time in the scope and
+[0:53:42] sequence for that and we have adjusted
+[0:53:44] that based on direct teacher feedback
+[0:53:47] and teachers have actually been the ones
+[0:53:49] who have identified those and um
+[0:53:52] adjusted scope and sequence accordingly.
+[0:53:54] >> Okay. Um this feels related uh how does
+[0:53:58] midchool math uh scaffold for sped
+[0:54:00] students
+[0:54:01] >> for special education? What a great
+[0:54:03] question and that really is folded into
+[0:54:07] um how we can support teachers in I
+[0:54:10] would call it thin slicing. It's
+[0:54:12] integrating some of those building
+[0:54:13] thinking classrooms strategies directly
+[0:54:16] into the the curriculum. They are
+[0:54:18] curriculum agnostic those practices. One
+[0:54:21] example would be the practice printable
+[0:54:23] day three. We hosted PD on this with
+[0:54:26] instructional coaches. And so we would
+[0:54:28] take a comp complex question and we thin
+[0:54:34] slice it and we scaffold it. And so we
+[0:54:36] take we look at what skill or concept is
+[0:54:40] needed as a prerequis prerequisit
+[0:54:43] prerequisite skill. We
+[0:54:47] chunk it for students and then build it
+[0:54:50] up so that they can see how they can
+[0:54:52] actually um
+[0:54:56] answer that question but in small small
+[0:55:00] chunks building up from prior grade
+[0:55:04] levels.
+[0:55:05] Okay, thank you. Um, I think this is my
+[0:55:08] last question. Um, I'm curious about the
+[0:55:10] assessments.
+[0:55:11] >> Um, I've I've heard about synergy kiosk
+[0:55:15] assessments.
+[0:55:17] Um, and is that the same thing as the
+[0:55:21] assessments um that are a part of the
+[0:55:24] units that um y'all were talking about?
+[0:55:27] And then also are the assessments in in
+[0:55:31] the units uh what are considered to be
+[0:55:34] um embedded assessments?
+[0:55:38] >> Uh that's right. So the the end of the
+[0:55:41] unitunit assessments, post milestones as
+[0:55:44] they're known at the uh middle school
+[0:55:45] level or end of the unit assessments at
+[0:55:47] the at the high school level are uh
+[0:55:51] curriculum aligned assessments. they're
+[0:55:53] assessing what was taught in in that uh
+[0:55:57] curriculum. They're all standardsbased.
+[0:55:59] In other words, we each item on the
+[0:56:02] assessment is connected to a particular
+[0:56:04] standard that was taught and that is
+[0:56:06] being assessed. And the big shift that
+[0:56:08] we're making this year is that we're
+[0:56:09] transitioning these assessment
+[0:56:11] assessments from paper and pencil to an
+[0:56:14] online uh platform called synergy
+[0:56:16] assessment module. Uh so what that means
+[0:56:19] is that the assessments themselves are
+[0:56:21] not changing a whole lot but where
+[0:56:23] students complete the assessments is.
+[0:56:25] And so they'll be completing assessments
+[0:56:27] uh on Chromebooks. They would simply log
+[0:56:29] in through student view. The assessment
+[0:56:31] would be there. The real benefit of
+[0:56:34] doing that is that it makes uh student
+[0:56:37] learning and progress more transparent
+[0:56:41] for all of us who are responsible for
+[0:56:43] our student learning. In other words, um
+[0:56:46] we certainly see our teachers as as the
+[0:56:49] highest levels of student learning and
+[0:56:51] obviously they are responsible for
+[0:56:53] student learning, but we also think of
+[0:56:54] our instructional coaches and our
+[0:56:56] principles and our uh curriculum leads
+[0:56:59] and central office leaders as also being
+[0:57:02] responsible. And so having access to
+[0:57:06] information about student progress can
+[0:57:09] allow us to be much more responsive to
+[0:57:11] student needs. For example, if we can
+[0:57:15] see centrally how our students did on
+[0:57:20] their first algebra assessment in ninth
+[0:57:23] grade, not just in a teachers classroom,
+[0:57:26] but across our district, we can
+[0:57:28] extrapolate some information about
+[0:57:31] strengths and weaknesses that we may
+[0:57:33] need to address as far as the curriculum
+[0:57:36] sequence is concerned in 8th grade or
+[0:57:39] later on in ninth grade in algebra. And
+[0:57:42] right now, because all of our end of the
+[0:57:44] unit assessments are paper pencil, we
+[0:57:48] just don't have the ability to have
+[0:57:50] access to that uh information. We wait
+[0:57:53] until the end of a semester to see what
+[0:57:55] the course passage rates were, but we
+[0:57:59] don't have that nuanced standard
+[0:58:02] specific information that we re really
+[0:58:04] need to be to be responsive to student
+[0:58:07] learning. So we are uh um starting with
+[0:58:12] math and language arts uh this year and
+[0:58:16] we are engaging conversations with uh
+[0:58:18] teachers as uh Tuton mentioned around
+[0:58:21] designing some of the assessments. We're
+[0:58:23] really monitoring what is their uh user
+[0:58:26] experience so we can make adjustments as
+[0:58:28] well. Um and then we'll continue that
+[0:58:30] conversation to see whether and when we
+[0:58:33] bring other content areas on board as
+[0:58:35] well. Um, we believe that standardized
+[0:58:38] assessments are critical. They provide
+[0:58:40] us some really important information,
+[0:58:43] but we also think that curriculum
+[0:58:45] embedded assessments or curriculum
+[0:58:47] aligned assessments are are important as
+[0:58:49] well, so we can have that more timely uh
+[0:58:52] informative data to respond to student
+[0:58:55] learning.
+[0:58:57] I just want to emphasize uh something
+[0:58:59] that Tutam just mentioned briefly but um
+[0:59:03] uh Tutam Noel I think Patrice as well
+[0:59:08] are engaged in constant conversations
+[0:59:10] with teachers uh to adjust curriculum to
+[0:59:15] review assessments talk about individual
+[0:59:17] items on the assessment in other words
+[0:59:20] just because we have an adopted
+[0:59:22] curriculum that doesn't mean that that's
+[0:59:24] a kind of a static
+[0:59:27] body of texts and activities. We're
+[0:59:29] we're constantly engaging conversations
+[0:59:32] to see where do adjustments need to be
+[0:59:34] made um exactly because of some of the
+[0:59:36] questions that you're raising around how
+[0:59:39] is this working for students, where do
+[0:59:40] we need more time, where do we need less
+[0:59:42] time, how is the sequence, etc. So, that
+[0:59:44] work is ongoing.
+[0:59:47] >> I'm gonna just time check us for a
+[0:59:49] minute if that's okay. Um we could talk
+[0:59:51] about math this whole time and we still
+[0:59:53] also want to talk about language arts.
+[0:59:55] We have about 30 minutes left. So, I'll
+[0:59:56] leave it up to you guys if you want us
+[0:59:58] to move forward. Um, or if you have a,
+[1:00:00] you know, a few more burning questions
+[1:00:01] about math.
+[1:00:04] >> I have one burning question. So, I
+[1:00:05] answered uh the several that I had. Um,
+[1:00:08] because this is technology- based um
+[1:00:12] Okay, so just I want to back up just one
+[1:00:13] second. So,
+[1:00:16] educators are not required to use the
+[1:00:18] curriculum, correct?
+[1:00:20] >> Or they are they are required.
+[1:00:21] >> They're expected to use the curriculum.
+[1:00:22] >> Expected or required.
+[1:00:24] Okay, so that answers part of So my
+[1:00:29] question I guess it's a moot point was
+[1:00:31] how if we can tell if students who are
+[1:00:32] using the curriculum are improving their
+[1:00:34] math skills at a faster rate than those
+[1:00:35] who are not but they're required to use
+[1:00:37] it.
+[1:00:37] >> So it is uh a moot point and um that was
+[1:00:43] my question. Maybe it might be helpful
+[1:00:46] for you because I just remember hearing
+[1:00:47] this from you guys some other time to
+[1:00:50] talk a little bit about how you gauge
+[1:00:52] teacher fidelity as far as like how you
+[1:00:54] know that they're using it, they're
+[1:00:56] supposed to be using it.
+[1:00:58] >> We I know it's not 100%. Um could you
+[1:01:01] just share a little bit about that
+[1:01:02] because I know I heard it at some point
+[1:01:03] along the way and maybe that'll help you
+[1:01:04] to understand the dynamic a little
+[1:01:06] better.
+[1:01:06] >> Sure. And this this would be true across
+[1:01:08] language arts and mathematics. So, we do
+[1:01:10] have um a district-wide K12
+[1:01:13] instructional look for tool um that kind
+[1:01:16] of, you know, it's a rubric that lays
+[1:01:18] out what we expect to see in in
+[1:01:20] classrooms, including high quality
+[1:01:21] implementation of high-quality
+[1:01:22] instructional materials that we've
+[1:01:24] adopted. Um we use that on our principal
+[1:01:26] instructional walks. So, when principles
+[1:01:28] go together on instructional walks, they
+[1:01:30] calibrate together after seeing
+[1:01:32] classrooms on the scores for those
+[1:01:33] classrooms. they enter it into a central
+[1:01:35] database and we can see that we can pull
+[1:01:37] that data and that's part of how we
+[1:01:39] monitor our district continuous
+[1:01:41] improvement plan uh part of which is
+[1:01:43] grounded in the implementation of our
+[1:01:45] high quality materials
+[1:01:48] and
+[1:01:48] >> I feel like I've seen percentages right
+[1:01:50] >> yes correct
+[1:01:51] >> in some other yes place okay
+[1:01:53] >> you have
+[1:01:55] >> it's pretty pretty high
+[1:01:57] >> lower the higher the older the kids the
+[1:02:00] lower the number
+[1:02:01] >> correct you're remembering correctly
+[1:02:03] Yeah.
+[1:02:05] >> Yeah. Okay.
+[1:02:07] >> Transition to language arts.
+[1:02:09] >> Good job.
+[1:02:09] >> All right. Thank you, Patrice, too, Tom.
+[1:02:12] >> Thank you.
+[1:02:15] >> All right.
+[1:02:17] We're going to start with K5 again.
+[1:02:19] There are a lot of parts to the K5
+[1:02:21] curriculum. I think one of the things I
+[1:02:22] want to say just at the beginning is I'm
+[1:02:24] going to start actually K12 and talk
+[1:02:26] about some things that are true K12.
+[1:02:27] You've heard us talk about the science
+[1:02:29] of reading before. um you've heard us
+[1:02:31] talk about how complex that is. Um so
+[1:02:34] we're going to talk a little bit about
+[1:02:34] that here and in particular I think we
+[1:02:36] wanted to start by talking about again
+[1:02:38] kind of old versus new like what has
+[1:02:40] shifted what's the big deal about the
+[1:02:42] science of reading we talk about it as
+[1:02:43] this transformation.
+[1:02:45] So previously in Portland public schools
+[1:02:47] and quite frankly most of the country
+[1:02:49] used we used a balanced literacy
+[1:02:51] approach which was now we know not
+[1:02:53] exactly grounded in um the best and most
+[1:02:55] current uh research around reading um in
+[1:02:58] PPS in K5 that looked like readers and
+[1:03:00] writers workshop historically. Um now we
+[1:03:04] use what's called structured literacy
+[1:03:05] which is grounded in research grounded
+[1:03:07] in the science of reading. Um part of
+[1:03:11] what's important in the K5 space in that
+[1:03:13] transformation is we now do explicit
+[1:03:14] instruction and foundational skills and
+[1:03:17] we also um do integrated reading and
+[1:03:20] writing work. Kids are writing,
+[1:03:22] speaking, listening about complex text
+[1:03:24] which was not always the case when we
+[1:03:26] were using our balanced literacy
+[1:03:27] approach. Um prior to our current
+[1:03:30] adoptions, we had inconsistent
+[1:03:32] implementation of instructional
+[1:03:33] practices. There was still a lot of pick
+[1:03:35] and choose your own adventure happening
+[1:03:36] in different schools and different
+[1:03:37] classrooms. Now we have required
+[1:03:40] high-quality instructional materials
+[1:03:42] that we expect to see in every
+[1:03:43] classroom. Um there was a heavy reliance
+[1:03:47] um previously I would say at all levels
+[1:03:48] K12 on what we called level text which
+[1:03:51] means kids kind of reading at their
+[1:03:53] level text instead of at grade level
+[1:03:55] text. And part of this transformation
+[1:03:57] has really been the expectation that
+[1:03:59] kids are accessing grade level complex
+[1:04:01] text every day even if they need
+[1:04:02] scaffolds and supports to get there. Um
+[1:04:07] and then there was uneven access to
+[1:04:08] resources. Um kids and this is still
+[1:04:10] true to some extent as we work on our
+[1:04:12] implementation across the system but
+[1:04:14] kids were reading different books and
+[1:04:16] getting different access and having
+[1:04:17] different writing prompts and we have a
+[1:04:19] lot more coherence and consistency
+[1:04:21] across our classrooms now. Um we've
+[1:04:24] shown you this before as well. This is
+[1:04:26] um Scarboro's rope, which is one of the
+[1:04:28] images often used to explain kind of
+[1:04:30] what's most important about the science
+[1:04:31] of reading. Um again, just it shows at
+[1:04:34] the bottom of the rope um the
+[1:04:36] foundational skills that we teach in our
+[1:04:38] primary grades that need to be taught
+[1:04:39] explicitly. And then what in the upper
+[1:04:43] half we see language comprehension,
+[1:04:44] background knowledge, vocabulary in our
+[1:04:47] K3, K2 classrooms, all those parts need
+[1:04:50] to be taught explicitly. As kids start
+[1:04:53] to get older around third, fourth grade,
+[1:04:55] the rope comes together and we start to
+[1:04:58] more explicitly just teach the upper
+[1:04:59] half of the rope because kids should
+[1:05:01] have the skills at the lower half of the
+[1:05:02] rope. What you can see on this slide um
+[1:05:05] is that we have curricular resources K12
+[1:05:08] aligned to all the parts of the rope. Um
+[1:05:11] that's what's illustrated in that sort
+[1:05:12] of rainbow text on the left and we'll
+[1:05:14] talk about all those different um
+[1:05:15] curricula in this presentation.
+[1:05:19] So at the K5 level again we have a lot
+[1:05:21] of components. We have Heggerty
+[1:05:23] foundations geodess and Whitten wisdom
+[1:05:25] in our English classrooms and then in
+[1:05:27] our Spanish DLI classrooms dual language
+[1:05:30] classrooms we have two other curricula
+[1:05:32] um huntos alexto and benchmark adilante
+[1:05:35] advance. Um that uh allows us to make
+[1:05:38] sure that in both Spanish language and
+[1:05:40] English language in those classroom kids
+[1:05:41] are still getting all the parts of the
+[1:05:43] rope. Um all these curricula have a lot
+[1:05:46] of components. Obviously they have a lot
+[1:05:47] of books, lots and lots of books in our
+[1:05:50] classroom. Um in Whiten Wisdom where and
+[1:05:52] and in benchmark um we're looking at
+[1:05:53] like the actual kind of books you would
+[1:05:55] like buy online or buy at Barnes & Noble
+[1:05:57] if you still go to stores, right? Like
+[1:05:58] real um authentic texts.
+[1:06:03] Here's what this looks like on a
+[1:06:04] schedule. Again, this is in an English
+[1:06:06] classroom. Um, you can see that in our
+[1:06:10] K2 classrooms, we're talking about two
+[1:06:12] hours a day dedicated to literacy. Uh,
+[1:06:14] third grade is still two hours a day and
+[1:06:16] it goes down to 90 minutes in fourth and
+[1:06:17] fifth because they no longer need to be
+[1:06:19] doing that explicit foundational skills
+[1:06:21] instruction. And then you can kind of
+[1:06:23] see on the slide how this plays out in
+[1:06:25] terms of the different curricular
+[1:06:26] pieces. It is a lot. We say often this
+[1:06:29] phrase reading is rocket science. It is
+[1:06:32] rocket science in that we know how to do
+[1:06:33] it. It's also rocket science in that
+[1:06:35] it's really complicated particularly for
+[1:06:37] our elementary and primary teachers um
+[1:06:39] to put all these pieces together uh for
+[1:06:41] students uh and doable. All the
+[1:06:43] resources are there.
+[1:06:47] To answer the question about technology
+[1:06:49] um this is what it looks like at the
+[1:06:50] elementary level. Um our kindergarten
+[1:06:53] through 2 grade classrooms have 2 to one
+[1:06:55] access with Chromebooks right now.
+[1:06:57] meaning to um students to everyone
+[1:06:59] Chromebook and in third through fifth
+[1:07:01] and beyond up through 61 12th we have
+[1:07:03] onetoone access. There's not a lot of
+[1:07:05] technology expected um in our K5
+[1:07:08] literacy classrooms. Kids should not be
+[1:07:10] spending a lot of time on computers. We
+[1:07:13] have a tool um that's associated with
+[1:07:16] our foundations curriculum called Funhub
+[1:07:18] Practice. Um, it's a tool that, you
+[1:07:21] know, may be used about 25 minutes per
+[1:07:23] week for students to go on and do some
+[1:07:24] independent practice with the
+[1:07:26] foundational skills, phonics skills that
+[1:07:28] they've been learning in foundations.
+[1:07:30] Teachers can monitor it and see how kids
+[1:07:32] are doing and um can use that to help
+[1:07:34] with some data and retaching. We have a
+[1:07:36] tool called Learning Ally that again can
+[1:07:38] be used as a supplement um to help kids
+[1:07:40] who need uh audio access to the complex
+[1:07:43] text that they may not be able to access
+[1:07:45] themselves yet. Um, and then there is
+[1:07:47] also a tool that aligns with the Spanish
+[1:07:49] DLI benchmark curriculum um, that can be
+[1:07:52] used um, kind of on and off to sub
+[1:07:54] supplement lessons. It might be used
+[1:07:55] during the what I need block as well to
+[1:07:57] give kids some more independent
+[1:07:58] practice. The only other real reason why
+[1:08:01] kids would be on computers is sometimes
+[1:08:03] in the upper elementary space when
+[1:08:05] they're writing in their Witten Wisdom
+[1:08:06] classrooms, they may do some of their
+[1:08:08] writing on computers as well.
+[1:08:12] And then really just like in math um we
+[1:08:16] have a balanced assessment system in in
+[1:08:18] literacy and language arts. So there's
+[1:08:20] ongoing classroom checks that are
+[1:08:22] happening every day. There's a lot of
+[1:08:23] observation that happens in language
+[1:08:25] arts. There might be looking at small
+[1:08:26] pieces of writing. Even in foundations
+[1:08:28] when kids are doing dictation and they
+[1:08:30] hold up their whiteboard for the kids,
+[1:08:32] you know, the teacher to see what they
+[1:08:33] wrote. There's that immediate feedback
+[1:08:34] piece that happens. We have curriculum
+[1:08:37] based assessments, um, end of unitit
+[1:08:39] tasks that ask kids to write about text,
+[1:08:42] um, to read new passages they haven't
+[1:08:45] read before and, um, practice their
+[1:08:47] comprehension skills and show the
+[1:08:48] teacher what they know. Um, and then we
+[1:08:51] have sort of our benchmark assessments
+[1:08:53] um, that that you're aware of. We have
+[1:08:55] our map and we have our map fluency for
+[1:08:57] K2. So, the whole suite um, gives us
+[1:09:00] quite a bit of information about where
+[1:09:01] kids are as readers and writers.
+[1:09:04] And again, like we've done in the other
+[1:09:06] sections, we wanted to sort of
+[1:09:07] illustrate for you what this can look
+[1:09:09] like. Um, I had the wonderful
+[1:09:12] opportunity to be at uh Jason Lee last
+[1:09:15] week on a bright spot visit where we
+[1:09:17] were on the hunt for some really
+[1:09:18] excellent implementation to see what we
+[1:09:20] could capture. Um, and we happened into
+[1:09:22] a fourth grade classroom where the
+[1:09:24] teacher was teaching this novel called
+[1:09:26] Hatchet. It's a um module on survival
+[1:09:28] skills. Um, kids get really engaged in
+[1:09:30] it. It's really interesting stuff. I was
+[1:09:33] reading this book out loud to my
+[1:09:35] daughter because it's an OB book. She
+[1:09:36] read it for school last year, but she's
+[1:09:38] in fifth grade. I've been reading it out
+[1:09:39] loud. This book is intense. If you guys
+[1:09:41] haven't read it, I've read like three
+[1:09:43] chapters out loud and was like,
+[1:09:45] >> "Okay."
+[1:09:46] >> Yeah.
+[1:09:46] >> Yeah.
+[1:09:47] >> Engaging, right? Like, so um like real
+[1:09:49] book, engaging stuff. Um I'm like never
+[1:09:52] ever want to go to like the Canadian
+[1:09:54] Forest ever.
+[1:09:56] >> Yes.
+[1:09:56] >> Yeah. All right, moving on.
+[1:09:57] >> I remember reading it in elementary
+[1:09:59] school and like it rocked my world.
+[1:10:02] Yeah. Yeah. So, super um interesting
+[1:10:06] text. The kids are engaged in it. They
+[1:10:08] spend a long time in one text, doing a
+[1:10:10] lot with one text. Um you can see this
+[1:10:12] is lesson 26 of 34. Um I'm not going to
+[1:10:15] read to you the parts of the lesson.
+[1:10:16] Whitten wisdom lessons are long. There's
+[1:10:18] a lot of components to them. Um, we saw
+[1:10:21] lots of things in this classroom that
+[1:10:22] were exciting to us, but um, what we
+[1:10:24] wanted to illustrate to you, and this
+[1:10:25] isn't, you know, like the best video
+[1:10:27] from a technology standpoint, but you
+[1:10:28] should be able to hear what we want you
+[1:10:30] to hear. Hope you hear, which is, um,
+[1:10:32] the kids really engaging in using text
+[1:10:36] evidence to answer questions, which is
+[1:10:38] what standards call on kids to do. And
+[1:10:40] remember, these are fourth graders. And
+[1:10:42] so this teacher um was doing a beautiful
+[1:10:45] job as Witten Wisdom asked her to
+[1:10:47] facilitating textbased discussion,
+[1:10:49] getting excited about the content like
+[1:10:51] you guys just did um with the kids and
+[1:10:53] then pushing them back into the text to
+[1:10:55] find answers, ground their answers,
+[1:10:56] reread sections if they weren't getting
+[1:10:58] the full complexity. And this is really
+[1:11:00] how comprehension grows. So we're just
+[1:11:02] going to do just a minute or two of
+[1:11:04] this. Again, visual is not amazing, but
+[1:11:07] you'll get the audio.
+[1:11:11] I think how Brian changed is he told us
+[1:11:15] his own self was he said he move he also
+[1:11:22] said on page 114
+[1:11:25] Brian looked back for a moment felt
+[1:11:29] afraid because he was he was right he
+[1:11:34] knew him definitely feels more
+[1:11:36] comfortable around the animal last time
+[1:11:39] he was scared That is how I think Brian.
+[1:11:44] >> What does it take or what did it take
+[1:11:46] Brian to get raspberries
+[1:11:49] versus what does it take for a new Brian
+[1:11:51] to catch fish? Aler, can you weigh in on
+[1:11:53] that?
+[1:11:56] >> Sure. Um, so for the raspberries, you
+[1:11:59] said walk all the way to the forest and
+[1:12:03] for fish, you just
+[1:12:06] have to walk over to a nearby lake. We
+[1:12:10] make the fishing sound easy.
+[1:12:13] Was the fishing always easy?
+[1:12:17] >> Who can pass the microphone and answer
+[1:12:20] what did it take for him to actually
+[1:12:21] catch a fish?
+[1:12:23] This new Brian,
+[1:12:26] tell me, Henry.
+[1:12:28] >> So, he had to just make a bowl coming
+[1:12:32] off a sphere.
+[1:12:34] >> Okay, tell me, how long did it take him
+[1:12:36] to make a sphere? Let's find it in the
+[1:12:38] book. Someone find it in the book.
+[1:12:42] What bird is missing?
+[1:12:44] >> The bow. The arrow.
+[1:12:48] >> I want you all to read the end of page
+[1:12:52] 117
+[1:12:54] to yourself. You're going to read the
+[1:12:57] last paragraph in 117
+[1:13:01] and you're going to continue to read the
+[1:13:04] first and second paragraph on 118. Are
+[1:13:06] you ready?
+[1:13:07] >> Yes.
+[1:13:08] >> Go.
+[1:13:10] >> So, what was cool and hopefully you
+[1:13:12] could catch some of that in there about
+[1:13:13] this lesson, right? Is the teachers
+[1:13:15] really facilitating the kids are digging
+[1:13:17] into the text and answering questions.
+[1:13:19] They wrote about the text. They
+[1:13:20] discussed the text and then they got up
+[1:13:23] while some kids were finishing writing.
+[1:13:24] The kids that were done got up and did a
+[1:13:27] mix and mingle in the back of the room
+[1:13:28] where they were sharing with each other
+[1:13:30] while the teacher continued to support
+[1:13:31] the kids who were getting their thoughts
+[1:13:33] on writing uh on paper. And all of this
+[1:13:36] is fourth graders talking about how
+[1:13:39] character development happens through
+[1:13:41] evidence, through text, and grounding.
+[1:13:43] And it it it's cool. It's high level
+[1:13:45] stuff. And um what we hope kids are are
+[1:13:47] doing in fourth grade and and beyond.
+[1:13:49] And what our wind wisdom curriculum um
+[1:13:50] really calls for and pushes for.
+[1:13:53] Um let's see if I can make this move.
+[1:13:59] Here we go. So that's K5. I'm going to
+[1:14:01] pass to 612 and then we can do questions
+[1:14:03] at the end.
+[1:14:05] So at the secondary level, our focus is
+[1:14:08] really on the upper end of the rope. Um
+[1:14:12] the components that support strong
+[1:14:14] comprehension and meaningful um and
+[1:14:17] meaning making. Uh this includes
+[1:14:19] language comprehension, background
+[1:14:21] knowledge, language structures,
+[1:14:24] uh um literacy knowledge, etc.
+[1:14:28] uh instruction is designed to strengthen
+[1:14:30] these strands through sustained work
+[1:14:32] with complex texts. That's a key pillar
+[1:14:36] of highquality um instruction at the
+[1:14:39] secondary level at the K5 level as well
+[1:14:42] uh through discussion and writing as
+[1:14:43] well. So, um, unlike our math
+[1:14:46] curriculum, which we have one curriculum
+[1:14:48] for middle school, another one for high
+[1:14:50] school at the, uh, in the English
+[1:14:53] language arts, we have the same
+[1:14:54] curriculum for middle school and high
+[1:14:57] school. We use what's called HMH into
+[1:15:00] literature as our core curriculum. Uh,
+[1:15:03] the curriculum definitely provides a
+[1:15:05] common foundation uh, comprehensive um,
+[1:15:09] and flexible texts. Um, and there's some
+[1:15:14] flexibility for teachers to uh make some
+[1:15:16] instructional decisions as well from
+[1:15:18] some choice texts as well. More than
+[1:15:21] 1500 school districts throughout the
+[1:15:23] country use HMH and um, you know,
+[1:15:26] including 200 school districts that are
+[1:15:28] as large or larger than PPS.
+[1:15:33] a little bit um beyond the curriculum
+[1:15:35] and uh just to talk a little bit about
+[1:15:38] the the pedagogy and philosophy behind
+[1:15:41] what we think of as high quality
+[1:15:42] instruction. Um we think of three core
+[1:15:46] actions as um instrumental in making
+[1:15:51] sure that our teachers are teaching the
+[1:15:54] way that our students need to be
+[1:15:55] learning. One, uh lessons need to be
+[1:15:58] focused on high quality texts. Uh two,
+[1:16:02] we want to make sure that teachers are
+[1:16:05] engaging students through uh questions
+[1:16:09] and standards aligned tasks. And then
+[1:16:12] three, and in my opinion most
+[1:16:14] importantly, um students need to do the
+[1:16:17] work. Um uh the person doing the uh the
+[1:16:21] thinking is doing the learning uh or the
+[1:16:23] person doing the work is doing doing the
+[1:16:25] learning.
+[1:16:26] So our curriculum thankfully allows us
+[1:16:30] to really operationalize all those uh
+[1:16:33] shifts. We um into literature directly
+[1:16:37] supports these shifts through several
+[1:16:40] key features features uh units build
+[1:16:43] around high interests content focused
+[1:16:46] topics that span literature, science,
+[1:16:49] the arts and social studies. texts are
+[1:16:52] high quality uh and rigorous and lessons
+[1:16:56] are intentionally text uh focused.
+[1:17:00] One way to um illustrate this is to just
+[1:17:04] briefly show you
+[1:17:07] um that the HMH curriculum, all the
+[1:17:10] units are organized around specific uh
+[1:17:14] themes. And so all the texts included in
+[1:17:17] those units help students build
+[1:17:20] background knowledge related to uh those
+[1:17:23] themes.
+[1:17:26] Just a an example from uh 8th grade
+[1:17:30] actually this quarter. So uh right now
+[1:17:34] uh our eighth graders are studying the
+[1:17:36] works of uh Nikki Grimes and Sandra
+[1:17:40] Cisneros. Students will also analyze
+[1:17:43] texts from poets Audrey Lord and Pat
+[1:17:45] Moira. Uh this unit will culminate in
+[1:17:49] two assessments, a comprehension uh
+[1:17:52] reading exam as well as a writing
+[1:17:54] assessment which also includes planning,
+[1:17:57] drafting, and revising.
+[1:18:00] Our ninth graders begin um their high
+[1:18:04] school experience by studying Langston
+[1:18:06] Hughes, uh Samira Ahmed, Maya Angelou.
+[1:18:10] uh in 10th grade they're exposed to
+[1:18:12] writing by Dr. King, Malcolm X, and
+[1:18:14] Coulson Whitehead. So again, a wide
+[1:18:17] range of authors and across grade
+[1:18:20] levels, these intentional text
+[1:18:22] selections allow students to deepen
+[1:18:24] knowledge, expand vocabulary, and make
+[1:18:27] connections over time.
+[1:18:30] Um, as far as instructional minutes, uh,
+[1:18:33] similar to math, at the 68 level, uh,
+[1:18:36] students have 45 minutes a day of, uh,
+[1:18:40] ELA instruction.
+[1:18:42] And at the high school level, it's uh,
+[1:18:46] 90 minutes uh, every other day. One
+[1:18:49] thing to mention about high schools in
+[1:18:51] particular, whoops, this slide was not
+[1:18:53] um, is there a way to just
+[1:18:57] refresh? One thing to point out at the
+[1:19:00] high school level is in addition to the
+[1:19:04] um core maybe it's not there uh in
+[1:19:08] addition to the core English language
+[1:19:10] arts curriculum starting in 10th grade
+[1:19:13] or 11th grade certainly there are also
+[1:19:16] opportunities for students to take
+[1:19:18] advanced uh courses. So that includes AP
+[1:19:22] lit, AP lang, it includes IB courses and
+[1:19:25] then a large portfolio of dual credit
+[1:19:28] courses that include um uh sports and
+[1:19:32] culture, feminism and gender studies, uh
+[1:19:35] fiction, myth and mystery, hiphop and
+[1:19:37] literature, Latin American lit, lots of
+[1:19:41] different writing 115 and writing 121
+[1:19:44] courses. is these are courses that are
+[1:19:45] aligned with uh PCC and allow students
+[1:19:48] to earn college credit while still in
+[1:19:51] high school.
+[1:19:55] So we can do questions. Do you want to
+[1:19:56] come up Melissa
+[1:20:02] >> and Anjen had a class to attend so um
+[1:20:05] she was excused.
+[1:20:06] >> That's fair.
+[1:20:09] Um, I know we're bumping up against
+[1:20:11] time, so I will keep my questions uh
+[1:20:13] short and sweet. Um, I remember from our
+[1:20:18] CTE presentation
+[1:20:21] um being really excited about
+[1:20:24] um gosh, I'm going to forget exactly
+[1:20:25] what we call it, but bringing um some of
+[1:20:28] the science of reading pieces into CTE
+[1:20:32] to help our older our older students.
+[1:20:35] Um, I'm curious about other ways, um, we
+[1:20:39] are, uh, helping our secondary students
+[1:20:42] who didn't get that bottom strand, um,
+[1:20:45] of of the reading rope when they were in
+[1:20:47] elementary school. What we're doing to
+[1:20:49] to bring them along and catch them up.
+[1:20:53] >> Yeah, we'll have um, our colleague
+[1:20:56] Elizabeth Martin uh, answer some of the
+[1:20:59] questions. I'll I'll answer some parts
+[1:21:01] as well. just to say I was at McDaniel
+[1:21:02] High School just yesterday um doing an
+[1:21:05] observation where a CT teacher was
+[1:21:07] applying some of the literacy strategies
+[1:21:10] that they were exposed to the day before
+[1:21:14] um in a cohort of CT teachers who were
+[1:21:17] uh learning about how to apply science
+[1:21:19] of reading in CTE. And so that's one of
+[1:21:22] the things that we're really excited
+[1:21:24] about to expand to um other content
+[1:21:27] areas and make it clear that when we
+[1:21:29] talk about literacy, we're not just
+[1:21:31] talking about English language arts and
+[1:21:34] that they each discipline whether it's
+[1:21:37] science or social studies or CT or
+[1:21:39] business or computer science or health
+[1:21:43] occupations each each discipline has its
+[1:21:46] own literacy demands and its own
+[1:21:49] literacy kind of tools. tools and
+[1:21:51] protocols and approaches and it's
+[1:21:53] incumbent upon all of us as the
+[1:21:55] instructors of those various disciplines
+[1:21:57] to help students develop the skills they
+[1:22:00] need to make meaning. Uh and
+[1:22:02] interestingly enough, some of those
+[1:22:04] skills are very much transferable. So
+[1:22:06] whether you're reading a computer code
+[1:22:10] text or a novel or a poem or um medical
+[1:22:15] chart, some of the same principles of
+[1:22:18] science of reading are very much
+[1:22:20] relevant. The importance of background
+[1:22:21] knowledge, the importance of vocabulary,
+[1:22:24] the importance of understanding the
+[1:22:25] structure of the language. Um and so
+[1:22:28] we're we're actively engaging in
+[1:22:30] conversations around how to uh uh bring
+[1:22:33] science of reading across our content
+[1:22:36] areas. And so this summer, for example,
+[1:22:38] we will have two daylong institutes for
+[1:22:42] our math, science, social studies, and
+[1:22:46] language arts uh teachers uh to uh talk
+[1:22:50] about the implications of science or
+[1:22:52] reading um on all of those content
+[1:22:55] areas. But then to answer maybe
+[1:22:58] questions about how we support our
+[1:22:59] struggling struggling students,
+[1:23:01] >> yeah, I think maybe particularly middle
+[1:23:02] school intervention and what that looks
+[1:23:03] like. Yeah, the last two years we've
+[1:23:05] been prioritizing um staffing at middle
+[1:23:08] schools specifically for reading and
+[1:23:10] math intervention. I can speak to that
+[1:23:12] as well. Um so they all talked about
+[1:23:15] assessments um that are curriculum
+[1:23:17] embedded. Um teachers look at that and
+[1:23:19] they provide some reteing through that
+[1:23:21] curriculum. But when the student is
+[1:23:24] really struggling and we have our MAP
+[1:23:27] data, kids can take uh during an
+[1:23:30] elective time an intervention course.
+[1:23:33] Um, one thing to note is the curricula
+[1:23:35] that we use during that time is not the
+[1:23:38] grade level curriculum. It's actually
+[1:23:40] going back into those skills and
+[1:23:42] strategies that kids didn't learn across
+[1:23:44] K through three, maybe four or five. Um,
+[1:23:47] we use a program called rewards um in
+[1:23:50] the reading intervention space and we
+[1:23:51] actually um use I Ready in the math
+[1:23:54] intervention space. Um, they all have
+[1:23:56] embedded assessments. Uh we do
+[1:23:58] standardsbased grading um with that so
+[1:24:01] parents see how their student is doing
+[1:24:03] in those courses in middle school. Um
+[1:24:05] and then we check kind of fall to winter
+[1:24:09] semester data and growth and consider
+[1:24:12] are we exiting a student or are we
+[1:24:14] continuing um to meet their needs. But
+[1:24:16] it is a science of reading curriculum
+[1:24:18] actually developed by our local um
+[1:24:21] famous SO person Anita Archer. Um and so
+[1:24:24] it's a triedand-true program. It goes
+[1:24:27] into some of those K3 skills as I
+[1:24:29] mentioned, but then it's really fastly
+[1:24:31] moving to get them into text that looks
+[1:24:33] like what they see every day in their
+[1:24:36] regular classes, but it teaches them
+[1:24:38] strategies on how to break down those
+[1:24:40] word parts. Going back to the vocabulary
+[1:24:42] you mentioned, the meaning, um,
+[1:24:44] syllables, all the Greek and Latin
+[1:24:46] roots, all of it is in there.
+[1:24:50] >> Yeah.
+[1:24:52] >> Thank you, uh, Director [Splitt], Director
+[1:24:54] [La Forte]. uh take it away.
+[1:24:58] >> Um I mostly just want to say because I
+[1:25:00] feel like I mean I know like not a
+[1:25:02] million people watch this, but um what I
+[1:25:05] see both through my own kids who are in
+[1:25:08] elementary school still and hearing what
+[1:25:11] the high school students are doing is
+[1:25:12] like a real commitment to making sure
+[1:25:14] that our kids are learning about people
+[1:25:18] from all over the world and people that
+[1:25:20] look like them and people that don't. Um
+[1:25:22] and I just think that's really great.
+[1:25:24] Um, and I know it's like Portland, so
+[1:25:26] maybe we take it for granted, but I was
+[1:25:29] driving around um, I was driving around
+[1:25:33] some rowdy fifth graders not too long
+[1:25:35] ago, and somebody was, you know, I love
+[1:25:38] our senior citizens who do the signs on
+[1:25:42] the side of the road stuff, you know,
+[1:25:44] um, people of all ages, but it does
+[1:25:45] seem, this was a particularly older
+[1:25:47] group, and one of them had a um, no
+[1:25:49] one's illegal on stolen land, and they
+[1:25:51] all like talked about it and got it, and
+[1:25:53] it was like amazing. that like fifth
+[1:25:55] graders understand what that means. Um,
+[1:25:59] and it's not because of exposure from
+[1:26:01] their parents. It's because in fifth
+[1:26:02] grade they spend a bunch of time in Witt
+[1:26:05] and Wisdom learning about indigenous
+[1:26:07] cultures in the United States. And
+[1:26:08] particularly, it seems like they at
+[1:26:10] least in our classroom learned a lot
+[1:26:11] about indigenous cultures here in
+[1:26:13] Oregon. So, I just wanted to give a
+[1:26:15] shout out for that because I think we
+[1:26:16] take it for granted and it's not
+[1:26:18] something that's true everywhere and
+[1:26:19] it's not something that was true decades
+[1:26:21] ago. Um the question that I have um you
+[1:26:25] so oddly enough Michelle literally asked
+[1:26:27] two questions I had but I kind of want
+[1:26:29] to go back to the one about teachers and
+[1:26:31] add in students and also just ask I
+[1:26:34] guess a third question but I know we're
+[1:26:36] at time so I'll try to keep it short. Um
+[1:26:38] do we do anything intentionally
+[1:26:42] to get teacher feedback other than just
+[1:26:44] being in the tea of being with teachers
+[1:26:46] which is what I heard earlier. Do we do
+[1:26:48] more do anything more intentional than
+[1:26:51] that to see how they're doing with
+[1:26:52] curriculum? And then um I just made up
+[1:26:56] my own metaphor. Hopefully that made
+[1:26:57] sense. Um and then this is going to be a
+[1:27:00] three-parter. So there's that. Do we do
+[1:27:02] anything with students to see how
+[1:27:04] they're feeling about
+[1:27:07] how they're learning? And that would be
+[1:27:09] really hard. So probably maybe not, but
+[1:27:11] I'm just curious. And then especially
+[1:27:14] older kids could though be more engaged.
+[1:27:17] And then the final question is we're
+[1:27:19] getting to the point with some of this
+[1:27:21] curriculum where it's time to revisit
+[1:27:24] which like kind of devastates me because
+[1:27:25] it seems like just yesterday I watched
+[1:27:27] the teachers at my kids school really
+[1:27:28] struggle with implementing. Um so I'm
+[1:27:31] just curious when that is coming for I
+[1:27:35] think I heard I read five years and I
+[1:27:37] think
+[1:27:38] >> my little one was in first grade. My
+[1:27:40] older one was in first grade so we're at
+[1:27:41] four years for the
+[1:27:43] >> Yeah.
+[1:27:44] >> Yeah.
+[1:27:44] >> big grouping in elementary school at
+[1:27:46] least. So
+[1:27:47] >> try to do those as quick as you can. One
+[1:27:49] sentence each.
+[1:27:50] >> Melissa, do you want to take the teacher
+[1:27:52] feedback question, then I can take the
+[1:27:53] adoption cycle questions?
+[1:27:55] >> Sure. Um, so I think uh I would say
+[1:27:58] every day I get uh feedback from
+[1:28:00] teachers. We're out in the schools. Um,
+[1:28:02] they're emailing me. We we have a really
+[1:28:05] fluid uh conversation with teachers u
+[1:28:08] all the time. we've been doing the
+[1:28:09] science and reading uh cohorts and so uh
+[1:28:14] we get in-depth feedback from those 20
+[1:28:16] schools um and so this this year it's
+[1:28:19] with a certain 20 schools that we're
+[1:28:21] getting that feedback but we do take
+[1:28:22] that seriously and we h have tried to
+[1:28:25] adjust and make resources and um um are
+[1:28:30] always trying to listen to what they
+[1:28:33] have uh given us and try to make
+[1:28:36] adjustments work with great minds work
+[1:28:38] with Wilson
+[1:28:39] um to get um products or make make
+[1:28:43] things for them to adjust the curriculum
+[1:28:45] um to support them.
+[1:28:48] >> And then on the adoption cycles, um the
+[1:28:50] general rule of thumb is there's a
+[1:28:52] seven-year review process that the state
+[1:28:54] requires. Um it's a review process. You
+[1:28:57] don't have to do a new adoption. You
+[1:28:58] have to go through a review of the
+[1:29:00] current standards, the current
+[1:29:02] materials, the data, what else is out
+[1:29:04] there, and then make the determination
+[1:29:05] about what's best. Um, we have in in the
+[1:29:08] K5 space like I already just revised
+[1:29:10] everything. Patrice spoke about that and
+[1:29:12] we did kind of a midcycle update and
+[1:29:14] revision with them. So, we'll see when
+[1:29:18] we get to that point. We'll go through
+[1:29:19] the same process we always go through,
+[1:29:21] which is part of our adoption process
+[1:29:23] where we get together a teacher team. We
+[1:29:26] study everything. We, you know, we
+[1:29:28] consider all the possibilities. But we
+[1:29:31] may decide if there's traction um to
+[1:29:33] stay with some of our current resources
+[1:29:35] if they're working because we know that
+[1:29:37] um the learning curve isn't always worth
+[1:29:38] it, if we still have really quality
+[1:29:41] materials in front of our kids. So, does
+[1:29:44] that help? Yeah. So, we'll see.
+[1:29:46] >> I think so. I'm like I have like a weird
+[1:29:47] bias toward keeping it, I guess. Yeah.
+[1:29:49] >> Um and then I just have one comment. Um,
+[1:29:54] we've talked before in this venue about
+[1:29:57] assessment and as we're moving toward
+[1:30:00] more of the curriculum embedded
+[1:30:02] assessment becoming online so that the
+[1:30:05] district can use it, I hope we'll
+[1:30:07] consider doing away with
+[1:30:10] non-standardsbased
+[1:30:12] like maps. Well, maybe it's
+[1:30:13] standardsbased but not like tied to the
+[1:30:16] curriculum nor tied to the OSAS. I'm
+[1:30:20] having like a moment where I want to
+[1:30:21] talk about the Oregon Climate Action
+[1:30:23] Commission. That's work OSAS. Yeah.
+[1:30:25] Okay. I've got an OCAC in my work.
+[1:30:28] >> Um so I just as a comment wise I would
+[1:30:30] just love it if we would as we're moving
+[1:30:32] toward that model um not be using more
+[1:30:36] computer-based assessments than we need
+[1:30:38] to be using to like get the data that we
+[1:30:40] need about how our kids are doing. And I
+[1:30:42] will just leave it at that. Thank you.
+[1:30:44] >> I will say just a note on that. I think
+[1:30:45] Dr. Adams has shared and you'll be
+[1:30:47] hearing more. Um, as part of the state's
+[1:30:49] new accountability framework, we will be
+[1:30:51] required as a district to choose an
+[1:30:53] interim assessment that we do administer
+[1:30:55] K8 three times a year. We largely
+[1:30:58] already have those bustles in place in
+[1:30:59] our system, but we will need to to
+[1:31:01] continue that practice in addition to um
+[1:31:04] our curriculum embedded assessments.
+[1:31:07] >> Yes. Maybe find that balance as that
+[1:31:08] comes online so we're not adding more
+[1:31:10] testing on computers to kids that um you
+[1:31:13] know don't love it.
+[1:31:14] >> Absolutely. There shouldn't be more um
+[1:31:16] because we already have the practice but
+[1:31:17] we will need to continue that practice.
+[1:31:21] >> Um one of my questions was basically
+[1:31:24] what you asked like do we need to update
+[1:31:25] which you answered. Um my question is
+[1:31:28] actually at the high school level um on
+[1:31:30] the last slide um the ELA curriculum
+[1:31:33] that we offer to our high schoolers.
+[1:31:35] There was a time when uh in the not too
+[1:31:38] recent past where AP Lit and AP Lang
+[1:31:41] were not offered necessarily across all
+[1:31:43] of our high schools. Some had them, some
+[1:31:45] didn't. Has that changed? Does every
+[1:31:46] high school have AP Lang and AP Lit?
+[1:31:50] Now,
+[1:31:51] >> um, every high school except Cleveland
+[1:31:54] and Lincoln, which have their IB, but
+[1:31:56] all of our schools, um,
+[1:31:59] >> Jefferson is developing that program and
+[1:32:02] will have. One exciting thing that we've
+[1:32:05] been doing at the high school level is
+[1:32:07] thinking about how can advanced
+[1:32:09] coursework be integrated as part of our
+[1:32:12] core curriculum so that it's not
+[1:32:16] kind of elective only for some students
+[1:32:19] if they choose to and it's doubling up
+[1:32:22] on credit but how can we make it an
+[1:32:24] integral part of their experience. So,
+[1:32:27] at um McDaniel High School, for example,
+[1:32:30] they offer pre-AP 9th grade English and
+[1:32:33] then all of their 10th graders take AP
+[1:32:36] Seminar as their 10th grade English
+[1:32:38] class. In 11th grade, students can
+[1:32:42] choose between AP Lang and some dual
+[1:32:44] credit courses. Uh so just just a small
+[1:32:47] example, but at all of our high schools
+[1:32:50] there are advanced coursework options uh
+[1:32:52] that are either AP, IB, and or dual
+[1:32:55] credit.
+[1:32:56] >> But for AP Lit and AP Lang, like it was
+[1:32:59] it was a big issue at one of our high
+[1:33:00] schools because we didn't have one of
+[1:33:03] them. I think it was AP Lit
+[1:33:05] >> and that's in place now. There was a lot
+[1:33:07] of parent
+[1:33:08] >> push back.
+[1:33:09] >> Let me triple check if I was just
+[1:33:11] curious.
+[1:33:12] >> Yeah, if that's okay with you. But my as
+[1:33:14] far as advanced coursework options, all
+[1:33:17] of them uh offer it. I'll triple check
+[1:33:20] if if if all nonAB high schools offer
+[1:33:23] both AP LED and AP lang. Yeah. Yeah.
+[1:33:31] Any any other questions?
+[1:33:35] We're good. Look at us. We are only
+[1:33:38] seven minutes over. That's pretty good
+[1:33:40] for this committee. Um, thank you all so
+[1:33:43] much. Uh, this is really informative.
+[1:33:46] Uh, oh my gosh, I don't have my glasses
+[1:33:49] on. Um,
+[1:33:52] >> I'm off to my niece's Obaba battle,
+[1:33:54] speaking of literacy. So,
+[1:33:57] >> yise.
+[1:33:58] >> Thank you for the opportunity to make it
+[1:34:00] in time.
+[1:34:00] >> Thank you so much.
+[1:34:02] >> Thanks.
+[1:34:02] >> This was a great presentation. Thank
+[1:34:04] you. Thank you.
+[1:34:06] >> Thank you. I'm trying to figure out how
+[1:34:07] to get down from your screen.
+[1:34:10] Our
+[1:34:13] next meeting of the teaching, learning
+[1:34:14] and enrollment committee is scheduled
+[1:34:16] for March 12th. At that meeting, we will
+[1:34:19] receive
+[1:34:21] an uh let's see, we'll talk about
+[1:34:24] continu continuity of instruction and
+[1:34:28] extended field trip followup and
+[1:34:31] enrollment. And we will have our two new
+[1:34:34] student reps joining us, which will be
+[1:34:36] really exciting. And with that, this
+[1:34:39] meeting is adjourned. Thank you
+[1:34:40] everybody.
+[1:34:41] >> Get well soon. Director

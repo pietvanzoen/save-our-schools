@@ -3,7 +3,7 @@
 - **Date:** Wednesday, September 23, 2026, 4:30 pm. The chair opened by calling it the meeting "for September 22nd" [YT:zfvbTie4mpE@0:00:03]; the agenda and video title say September 23.
 - **BoardBook:** meeting 768451, https://meetings.boardbook.org/Public/Agenda/915?meeting=768451 [MTG:2026-09-23/768451]
 - **Video:** https://www.youtube.com/watch?v=zfvbTie4mpE (about 35:21)
-- **Transcript:** English auto-captions, re-fetched 2026-10-11. This file replaces an earlier version based on Arabic machine-translated captions.
+- **Transcript:** English auto-captions, re-fetched 2026-10-11.
 - **Attendees** [YT:zfvbTie4mpE@0:00:29] [YT:zfvbTie4mpE@0:00:49] [YT:zfvbTie4mpE@0:01:13] [YT:zfvbTie4mpE@0:02:00]:
   - In the room:
     - Committee chair Michelle DePass ("I'm the chair of this committee this year")

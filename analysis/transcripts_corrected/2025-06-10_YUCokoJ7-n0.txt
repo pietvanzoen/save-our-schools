@@ -1,0 +1,2039 @@
+# 2025-06-10 Tax Supervising and Conservation Comission (TSCC) Hearing
+# Video: https://www.youtube.com/watch?v=YUCokoJ7-n0
+# Source: YouTube captions (asr, en), fetched 2026-10-10T23:40:07.157Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2025-06-10_YUCokoJ7-n0.txt
+# BoardBook meeting(s): 2025-06-10|693907
+# Link to a moment: https://www.youtube.com/watch?v=YUCokoJ7-n0&t=<seconds>s
+
+[0:00:03] Good evening everyone. I have a nice
+[0:00:05] small room today for so many people. Uh
+[0:00:09] we'll go ahead and get started. I will
+[0:00:11] officially call to order the annual
+[0:00:13] Portland public schools budget hearing.
+[0:00:14] My name is Harmony Keos. I am chair of
+[0:00:16] the tax supervising and conservation
+[0:00:18] commission. I welcome everyone to this
+[0:00:21] hearing. As a reminder, the TSC is a
+[0:00:24] community oversight commission
+[0:00:25] established by the Oregon legislature
+[0:00:27] more than a hundred years ago. The TSC
+[0:00:30] oversees the budgets of all TSC member
+[0:00:33] taxing districts and annually conducts a
+[0:00:35] thorough budget review and certification
+[0:00:37] process. Additionally, the TSC holds
+[0:00:40] public budget hearings like this one to
+[0:00:42] engage with district leadership and
+[0:00:44] provide additional opportunity for
+[0:00:46] public comment before the budget is
+[0:00:47] adopted. I will now ask my fellow
+[0:00:49] commissioners and the staff to introduce
+[0:00:51] themselves and state if they have any
+[0:00:52] business relationships with the district
+[0:00:54] that could be perceived as a conflict of
+[0:00:56] interest. We'll start to my left. Good
+[0:00:59] afternoon. My name is Todd Burton and
+[0:01:01] this is my second year on the TSC. I do
+[0:01:04] not have any uh business relationships
+[0:01:05] with the school district. In my former
+[0:01:08] life, I was a finance officer for a
+[0:01:10] couple of uh uh jurisdictions in the
+[0:01:12] region and very familiar with local
+[0:01:13] budget law and all the things that
+[0:01:15] you've worked on. Thank you.
+[0:01:18] My name is Rita Moore. Uh this is my
+[0:01:21] first year on the commission. Um, I am a
+[0:01:23] former policy analyst for the state and
+[0:01:26] a former member of the Portland school
+[0:01:28] board.
+[0:01:30] Um, and I have no conflicts.
+[0:01:35] Hi, good afternoon. Allison Lugonap.
+[0:01:37] This is my second year on the TSC. Um, I
+[0:01:40] uh am an organizational development
+[0:01:42] consultant. I also have a rising fifth
+[0:01:44] grader at Atkinson in the immersion
+[0:01:46] program and a rising seventh grader at
+[0:01:48] [Sellwood] Middle School. And I have no
+[0:01:50] conflicts with the district.
+[0:01:53] Good evening. Uh Matt Tanghue, fourth
+[0:01:55] year on the commission and uh but
+[0:01:57] currently vice chair. Uh my day job is
+[0:02:00] as a municipal bond investment banker
+[0:02:03] and financial adviser. I have two
+[0:02:06] daughters, one who just graduated from
+[0:02:08] Grant. So I was there at the ceremony.
+[0:02:12] So thank you for shaking her head. 480
+[0:02:15] other kids or whatever it was. and uh uh
+[0:02:18] my other daughters will be a rising
+[0:02:20] senior grant and I have no uh conflicts
+[0:02:24] with the district.
+[0:02:26] I'm Britney Abiari, the budget analyst
+[0:02:28] with TSC.
+[0:02:30] And I'm Allegra Wilhight, executive
+[0:02:32] director with TSC. Again, I'm Harmony
+[0:02:34] Ke. I'm chair of TC TSC. This is my
+[0:02:37] seventh and final year with the
+[0:02:39] commission. I know, darn. Uh so I'm
+[0:02:42] gonna ask all my questions tonight. Uh,
+[0:02:44] I am a former middle school math and
+[0:02:47] science teacher. I still work in K to2
+[0:02:50] science education curriculum and
+[0:02:52] assessment. Um, so near and dear to my
+[0:02:55] heart, I have a we're talking rising so
+[0:02:59] close two more days. I have a rising
+[0:03:01] third grader at [Atkinson] as well in
+[0:03:03] Southeast Portland and a rising sixth
+[0:03:06] grader off to middle school at Harrison
+[0:03:08] Park. Uh, and I have no conflicts with
+[0:03:10] the district. Um, and we'll go ahead and
+[0:03:12] let um, district representatives uh,
+[0:03:16] introduce themselves as they come up to
+[0:03:17] answer questions if that works for all
+[0:03:19] of you. We'll start with uh, we'd like
+[0:03:22] to acknowledge the district's receipt of
+[0:03:24] the meritorious budget award for the
+[0:03:26] fiscal 2425
+[0:03:28] budget season. Uh, we always like to
+[0:03:31] acknowledge those things because they
+[0:03:32] help us as TSC have clarity and
+[0:03:36] transparency to read through the budget
+[0:03:38] and understand what it means, but also
+[0:03:39] the public as a whole. A clear budget
+[0:03:41] document is best for everyone. Uh we'll
+[0:03:45] start with any introductory remarks from
+[0:03:47] the district after which we'll hear
+[0:03:49] public comment. Then we'll ask our
+[0:03:51] questions and discuss the budget with
+[0:03:52] you. Uh we're looking for forward to a
+[0:03:55] very robust conversation today. As a
+[0:03:57] reminder, since we only have a short
+[0:03:59] time with you today, we encourage you to
+[0:04:01] speak directly and openly and keep the
+[0:04:03] reading of any written comments brief to
+[0:04:05] allow for more back and forth
+[0:04:07] discussion. So I'll now turn the floor
+[0:04:08] over to Dr. Kimberly Armstrong,
+[0:04:11] superintendent for Portland Public
+[0:04:12] Schools.
+[0:04:23] Greetings.
+[0:04:25] Thank you all for being here. Um, it's
+[0:04:27] always an exciting time as we begin to
+[0:04:31] conclude school and um, also get our
+[0:04:36] proposed budget. um not only um adopted
+[0:04:40] but um just finalized as we prepare
+[0:04:42] forward. And so we received your
+[0:04:45] questions. The team has had some time to
+[0:04:49] um drill down and and get answers and I
+[0:04:51] hope will be a robust exchange. And just
+[0:04:55] know that uh one of the things that
+[0:04:57] we're proud of and should be taken into
+[0:05:00] consideration is for the first time in
+[0:05:02] the last five years, I think, or maybe
+[0:05:05] six years, we have a full financial
+[0:05:07] leadership team. And that wasn't the
+[0:05:09] case before. And so we're so excited for
+[0:05:12] our um financial leadership team to be
+[0:05:15] under the direction of Michelle
+[0:05:16] Morrison, who's an experienced CFO from
+[0:05:20] Hillsboro. and the team that she's
+[0:05:22] assembled are also um individuals who
+[0:05:25] come with a really strong background on
+[0:05:29] uh making sure that schools are uh
+[0:05:32] fiscally responsible and that the
+[0:05:34] accounting is as it should be. And so I
+[0:05:36] thank you for being here and I
+[0:05:38] appreciate the time that you all spent
+[0:05:41] going through our budget documents and I
+[0:05:43] look forward to the team answering
+[0:05:45] whatever questions you have. So thank
+[0:05:48] you. I'll now call on any members of the
+[0:05:50] public who would like to speak. Each
+[0:05:52] person is limited to three minutes of
+[0:05:54] public comment, and we'll let you know
+[0:05:55] when you're nearing the end of your
+[0:05:56] time. Allegra, do we have any members of
+[0:05:59] the public signed up to testify? Uh,
+[0:06:01] yes, we do. TSC welcomes both in-person
+[0:06:03] verbal testimony and written comments
+[0:06:05] from the public. We have one of each
+[0:06:07] today. So, TSC received a written public
+[0:06:09] comment for today's hearing from John
+[0:06:11] Charles, president of Cascade Policy
+[0:06:13] Institute. The submitted comment
+[0:06:14] discusses PPS's equity funding policy
+[0:06:17] and its relationship to state and
+[0:06:18] federal civil rights laws. The
+[0:06:20] commissioners have received the full
+[0:06:22] written public comment and it is
+[0:06:23] currently available on our TSC website
+[0:06:25] and will also be included in our meeting
+[0:06:27] minutes for our in-person public
+[0:06:29] testimony. Uh we have Naomi Inman. So
+[0:06:31] Naomi, if you'd like to come up, we will
+[0:06:33] have three minutes. I'll go ahead and
+[0:06:35] start the timer.
+[0:06:38] All righty.
+[0:06:41] Good afternoon, Chairman. our
+[0:06:43] chairperson Kas and TSC. I'm here on be
+[0:06:46] behalf of Cascade Policy Institute to
+[0:06:48] point out the public comment submitted
+[0:06:50] by John Charles as mentioned and we
+[0:06:53] believe this is a serious matter as we
+[0:06:55] believe the PPS budget does not comply
+[0:06:57] with state and federal civil rights law.
+[0:07:00] First pages four and five of the draft
+[0:07:03] budget volume two chart rank order
+[0:07:05] funding for all PPS schools and Rosa
+[0:07:08] Parks at the top has the highest funded
+[0:07:10] and highest FTE K to5 school allocating
+[0:07:15] 16,6560
+[0:07:17] per student versus $8,54
+[0:07:20] at Richmond the last school on the page.
+[0:07:23] This is a 2:1 difference in funding. In
+[0:07:26] addition, the disparity in students per
+[0:07:28] FTE staff is a full 3 and a half to one,
+[0:07:30] while Rosa Parks has an FTE of 4.4 to1
+[0:07:35] and Richmond's is 14.4 to1. This notable
+[0:07:38] disparity is driven by the district's
+[0:07:41] equity funding policy using both poverty
+[0:07:43] and race as factors in waiting resources
+[0:07:46] for KDA schools. The district
+[0:07:48] distributes money to schools with higher
+[0:07:50] percentages of historically underserved
+[0:07:53] students which serves as a euphemism for
+[0:07:56] the four races listed on page two of the
+[0:07:59] budget. We believe this is a violation
+[0:08:01] of state law statute 659.850
+[0:08:05] and that race needs to be removed from
+[0:08:07] the equation so that every student in
+[0:08:09] the PPS district has equal treatment
+[0:08:11] regardless of race. RS659850
+[0:08:15] prohibits discrimination in any public
+[0:08:18] school on the basis of race and PPS
+[0:08:20] funding is clearly discriminatory. The
+[0:08:23] statute tells us that discrimination
+[0:08:25] includes unreasonably differentiated
+[0:08:27] treatment and is discriminatory in
+[0:08:30] operation based on race etc. In short,
+[0:08:33] these statutes tell us that when the
+[0:08:35] legislature appropriates money to a
+[0:08:37] school that discrimination on base uh
+[0:08:40] based on race does not allow. This also
+[0:08:43] violates the federal law and title six
+[0:08:46] of the 1964 Civil Rights Act, which
+[0:08:48] recent Supreme Court decisions have
+[0:08:51] upheld. While it's lawful to skew
+[0:08:53] funding based on socioeconomic economic
+[0:08:56] factors, race should not be a factor.
+[0:09:00] Last month, [Abernethy] Elementary shut
+[0:09:02] down its reading literacy partnership
+[0:09:05] because they no longer qualify through
+[0:09:07] that equity lens. They started asking
+[0:09:10] and they want to understand why atne
+[0:09:13] students in their school should get less
+[0:09:14] than their peers at other schools. That
+[0:09:17] is exactly the right question to ask. As
+[0:09:20] classifying every person through an
+[0:09:21] equity lens is a euphemi euphemism for
+[0:09:25] discrimination based on race rather than
+[0:09:27] on the true needs of every child. We
+[0:09:30] urge you to change this trajectory and
+[0:09:32] withhold certification of the budget
+[0:09:34] until they complied with all state and
+[0:09:37] federal civil rights laws both in
+[0:09:39] principle and in practice. Thank you for
+[0:09:42] your time and your service in our
+[0:09:43] community. Wow. right on time. Uh thank
+[0:09:47] you so much for your testimony. Your
+[0:09:49] comments will be entered into our public
+[0:09:51] meeting record. We also took into
+[0:09:52] consideration the written comments
+[0:09:54] submitted by your uh colleague um and
+[0:09:57] are incorporated to the degree possible
+[0:09:59] in our questions today. Um
+[0:10:03] yes and that's it for today. Great.
+[0:10:06] Okay. So we'll go ahead and dive into
+[0:10:08] our discussion and Matt you have the
+[0:10:10] first question today.
+[0:10:12] Thank you. So, the community budget
+[0:10:16] review committee's report to the board
+[0:10:18] this year highlights one of PPS's
+[0:10:20] biggest challenges, which is essentially
+[0:10:22] a structural deficit to provide the the
+[0:10:26] education that the community wants. Um,
+[0:10:30] committee further cautions that without
+[0:10:32] a multi-year plan, PPS risk falling
+[0:10:34] deeper into austerity, potentially
+[0:10:36] compromising its commitments to equity,
+[0:10:38] excellence, and innovation. How do you
+[0:10:41] respond to these concerns and what is
+[0:10:43] the district's strategy for addressing
+[0:10:45] its structural deficit?
+[0:10:50] Thank you for your question. Good
+[0:10:51] evening. Michelle Morrison, district
+[0:10:53] financial officer for PPS. Um this this
+[0:10:57] question has got very broad scope and I
+[0:11:01] think it's fair to say that a lot has to
+[0:11:03] be determined yet as we continue to move
+[0:11:06] forward in an environment where our
+[0:11:08] resources are not keeping pace with our
+[0:11:10] requirements. And so really student
+[0:11:13] enrollment is a major driver of all of
+[0:11:16] our funding sources. So that's something
+[0:11:18] that we're taking into consideration. I
+[0:11:21] did prepare something in writing. So if
+[0:11:23] it looks like I'm reading, I'm actually
+[0:11:24] reading.
+[0:11:26] I do apologize for that. So we have
+[0:11:28] taken a systemwide approach over the
+[0:11:30] last two years and budget planning. Um
+[0:11:32] the situation we're in today is
+[0:11:35] unfortunate but not entirely unforeseen.
+[0:11:37] We've been working towards a resolution
+[0:11:40] for a while. Given the magnitude of the
+[0:11:43] imbalance, the district must continue to
+[0:11:45] review the overall system of support for
+[0:11:47] schools and students while maintaining
+[0:11:49] our focus on district and board uh
+[0:11:52] student outcome goals.
+[0:11:54] Some system changes that have already
+[0:11:56] been implemented with a focus on
+[0:11:58] sustainability and school-based
+[0:12:00] stability and flexibility. That's you're
+[0:12:02] probably going to see more and more of
+[0:12:04] that as we move through our future
+[0:12:06] budget cycles is really trying to strike
+[0:12:09] that balance between what happens how
+[0:12:12] how we move our communitywide goals
+[0:12:14] forward while still balancing the needs
+[0:12:16] of the local school environment.
+[0:12:19] So, one example would be uh this year we
+[0:12:22] reduced some of the supplemental
+[0:12:24] staffing that we've been able to put in
+[0:12:25] place and use to build capacity over the
+[0:12:28] last couple years since the pandemic and
+[0:12:31] we've begin to scale that back. Um, as
+[0:12:34] we start to kind of renormalize the the
+[0:12:37] staffing that we had prior to the
+[0:12:39] pandemic
+[0:12:41] in the upcoming year, some shifts will
+[0:12:43] include promoting blended classrooms at
+[0:12:45] the fourth and fifth grade level, split
+[0:12:47] classrooms, and allowing flexibility for
+[0:12:50] additional blended grade level
+[0:12:52] classrooms. That is a practice that
+[0:12:54] we've had in Portland public schools,
+[0:12:56] and we've seen success with it. but
+[0:12:58] developing more of a programmatic
+[0:13:02] um approach to it where training is
+[0:13:06] provided. Um all of the supports for a
+[0:13:09] staff member to transition from a
+[0:13:11] straight um grade classroom to a blend
+[0:13:14] have been more normalized. And so I
+[0:13:16] think that's a shift that we've made to
+[0:13:19] kind of make better use of our FTE, our
+[0:13:22] teaching FTE in the schools, our smaller
+[0:13:24] schools especially. And then at the
+[0:13:26] secondary level having a high school
+[0:13:29] class minimum of 15. So if you think
+[0:13:32] about how how much we get per student
+[0:13:35] and how much a teacher costs um even
+[0:13:37] that is still pretty low class size at
+[0:13:39] the secondary level. I know we we took
+[0:13:42] extra care to make sure that programs
+[0:13:44] weren't being eliminated due to that. So
+[0:13:46] trying to find ways to group classes
+[0:13:49] together um in order to preserve
+[0:13:51] programming was a a big focus for us as
+[0:13:54] well.
+[0:13:56] uh again supplemental supports trying to
+[0:13:59] find the right fit for that as we
+[0:14:01] continue to move forward with our
+[0:14:02] district initiatives.
+[0:14:04] Um and then you know implementing
+[0:14:08] organizational structural changes that
+[0:14:10] will improve efficiency and result in
+[0:14:11] cost savings. So, an example of that
+[0:14:14] would be our the new ERP system that
+[0:14:17] we're looking at um implementing. Uh
+[0:14:20] that will kind of help operationalize a
+[0:14:22] lot of things that are really technical
+[0:14:24] and manual right now and make better use
+[0:14:26] of our staff time.
+[0:14:28] I think moving beyond 2526,
+[0:14:32] the district is expecting another budget
+[0:14:34] reduction of at least $32 million given
+[0:14:37] the trajectory we're on and the current
+[0:14:40] assumptions we have our budget built on.
+[0:14:42] And as those assumptions become actuals,
+[0:14:45] there's a potential of some change and
+[0:14:47] we will continue to report out on that
+[0:14:49] as it occurs.
+[0:14:51] Um, we'll be sharing uh enrollment and
+[0:14:54] attendance campaign information later in
+[0:14:57] this evening and um, school staff have
+[0:15:00] been actively recruiting to improve
+[0:15:01] enrollment estimates. So, we have the
+[0:15:04] information that we've been provided,
+[0:15:05] but we are implementing some new
+[0:15:07] strategies to to draw kids into our
+[0:15:11] schools.
+[0:15:12] And with the passage of the 2025 bond,
+[0:15:15] thank you for your support in that. I
+[0:15:18] know there were um some mixed feelings
+[0:15:20] in the community, but we were super
+[0:15:21] thankful for that gift. Uh the district
+[0:15:24] will develop and share a school
+[0:15:25] optimization plan in partnership with
+[0:15:28] the community. So, we recognize that we
+[0:15:30] do have some um changes in um student
+[0:15:34] location around the district and
+[0:15:36] different um conditions of our
+[0:15:39] facilities and what that might mean as
+[0:15:40] we move forward. So, uh school
+[0:15:42] optimization that that's um a big focus
+[0:15:45] for us coming up.
+[0:15:49] Thank you for the answer. Um, I know we
+[0:15:52] all know, well, I assume that PPS is not
+[0:15:55] the only school district to be facing
+[0:15:57] these challenges around the state and
+[0:15:59] around the country.
+[0:16:02] Don't think that there's any district
+[0:16:03] that has like a secret sauce to solve
+[0:16:06] all of these problems with declining
+[0:16:08] enrollment. But um are there other
+[0:16:11] districts that you know are doing some
+[0:16:14] things that that you can implement here
+[0:16:16] in in PPS or things that they're doing
+[0:16:18] that you wouldn't implement here in PPS?
+[0:16:21] Thank you Matt. I think, you know, we
+[0:16:24] are a pretty tight tight network across
+[0:16:26] the state in terms of our administrators
+[0:16:29] and our um finance folks and we do kind
+[0:16:33] of see the the the high leverage um
+[0:16:37] strategies that are working in other
+[0:16:39] districts. And so I think really um
+[0:16:42] being really strong with community
+[0:16:43] partners as essential for rounding out
+[0:16:45] that school experience for our students.
+[0:16:48] and we have a lot of that in Portland
+[0:16:49] and that's that's very exciting. I would
+[0:16:51] say that um the shift to standardizing
+[0:16:55] that fourth fifth grade uh split in the
+[0:16:59] classroom that's that's a pretty common
+[0:17:00] practice um across the state especially
+[0:17:03] as you know the students come in the
+[0:17:05] fall and they they may not be in the
+[0:17:07] exact package as we thought they would
+[0:17:08] be in terms of grade level. And so that
+[0:17:11] builds some flexibility into our system
+[0:17:14] um but is also a common practice that
+[0:17:16] that works well elsewhere and creates
+[0:17:18] efficiencies.
+[0:17:20] Thank you. Um just another followup and
+[0:17:23] um you know PPS and others you've been
+[0:17:26] advocating to the state for more
+[0:17:29] adequate school funding. Um so and we've
+[0:17:34] heard that I mean I've heard that every
+[0:17:35] year since I've been on this you know
+[0:17:37] it's an ongoing battle. I understand the
+[0:17:39] state has uh different u needs that
+[0:17:42] they're balancing as well, but can you
+[0:17:44] speak to where you think um you know PPS
+[0:17:48] can be successful in advocating for
+[0:17:51] funding that would help the structural
+[0:17:53] imbalance? Yeah, thank you for that
+[0:17:55] question. This legislative session has
+[0:17:57] been very very interesting as we um see
+[0:18:00] some changes at the federal level and
+[0:18:02] also in just our local economies what's
+[0:18:05] happening. So the state revenue forecast
+[0:18:08] shifted quite a bit from what we heard
+[0:18:10] in March to what we heard last month. Um
+[0:18:13] and of course that's the one that sets
+[0:18:15] the state funding and appropriation
+[0:18:17] levels for the next two years. So we had
+[0:18:20] done a lot of advocacy around additional
+[0:18:23] funding for special education and I
+[0:18:26] think that you know that was great
+[0:18:28] advocacy and it was well heard but I
+[0:18:30] don't think there's the additional
+[0:18:31] funding available to support a new
+[0:18:34] initiative there. I do believe that the
+[0:18:37] current service level calculations that
+[0:18:39] were updated from last bianium to this
+[0:18:41] bianium those that was a really strong
+[0:18:44] improvement for us as well and that took
+[0:18:46] a lot of partnership and a lot of
+[0:18:48] meetings to make that happen.
+[0:18:52] I'm just going to try and summarize what
+[0:18:54] I heard. So, I mean, it sounds like
+[0:18:56] we're not getting more money from the
+[0:18:58] state and we're still going to face
+[0:19:01] structural deficits at least for the
+[0:19:03] short term because of the economic
+[0:19:04] forecast
+[0:19:06] and we're making incremental changes to
+[0:19:09] the extent we can optimizing fourth
+[0:19:11] fifth blends and um some other reducing
+[0:19:14] supplemental staff and things like that
+[0:19:16] which are all these small and then
+[0:19:19] school optimization and school closures,
+[0:19:21] right, is what that means are kind of
+[0:19:23] the like one of maybe next big steps. Is
+[0:19:27] there
+[0:19:28] do we think there are other big moves
+[0:19:31] the district can make in in terms of
+[0:19:34] trying to close this gap or is uh we
+[0:19:37] talked to MESD a few weeks ago and we
+[0:19:41] talked about it's just going to be hard
+[0:19:43] about kind of moving through this space
+[0:19:45] and it's going to be hard and there you
+[0:19:49] know there's not a secret sauce like
+[0:19:52] Matt said is that or are there other
+[0:19:54] kind of big changes that we might
+[0:19:58] That's a great question and I'm not
+[0:20:00] quite sure how you can phone a friend
+[0:20:02] too. Any any friends are welcome to come
+[0:20:05] up and and join me, but I I do think
+[0:20:08] that some of this is just gradual over
+[0:20:10] time as we respond to student needs. And
+[0:20:12] we're going to have to be flexible in
+[0:20:14] that space. So, it might not be a big
+[0:20:16] sweeping change, but small efficiencies
+[0:20:19] throughout our schools and systems that
+[0:20:22] are that are going to make the
+[0:20:23] difference for us in the long run.
+[0:20:26] Hi, Deborah. Deborah [Kafoury], uh, chief
+[0:20:28] of staff. Um, I'm 100% agree with
+[0:20:32] everything Michelle has said, and I wish
+[0:20:33] I could say to you all, especially you
+[0:20:36] PPS parent, that skies are going to be
+[0:20:39] bluer tomorrow. But I do think that the
+[0:20:41] changes that we are making, at the very
+[0:20:44] least, getting us stable will help. And
+[0:20:46] I know that it's hard to talk about
+[0:20:48] stability when we're looking at a $32
+[0:20:49] million shortfall at least next year.
+[0:20:51] But I I think having the financial
+[0:20:54] strong financial team in place, having
+[0:20:57] um the commitment that we are having to
+[0:20:59] literacy and getting raising our our
+[0:21:02] scores for our students, I think that
+[0:21:04] that will help play into getting people
+[0:21:07] to stay in PPS, getting more people to
+[0:21:10] um not choose alternatives, and that
+[0:21:12] will help some. Uh but I I just don't
+[0:21:15] see in the in the near future. I think
+[0:21:18] what we're seeing right now might be as
+[0:21:20] good as we get. We don't know what's
+[0:21:21] happening with the federal government
+[0:21:22] either. We still remain um committed to
+[0:21:27] working with our parent communities and
+[0:21:28] our nonprofit partners to lobby the
+[0:21:31] legislature. It's not over yet. And um
+[0:21:34] we we believe that the changes that we
+[0:21:36] want to see, especially around special
+[0:21:38] education funding, are the right thing
+[0:21:40] to do and that the legislature should
+[0:21:42] follow the lead of Washington state and
+[0:21:44] make dramatic changes at some point.
+[0:21:46] Thank you. Go ahead, Rita.
+[0:21:51] Unfortunately, PPS has faced similarly
+[0:21:54] large consecutive budget shortfalls
+[0:21:56] multiple times in the last 25 years. Uh
+[0:22:00] faced with no good choices, the district
+[0:22:02] has each time tried to preserve
+[0:22:05] classroom educators and direct student
+[0:22:07] services. But over time, multiple cuts
+[0:22:10] to administration, maintenance, and
+[0:22:12] other functions led to significant
+[0:22:14] losses in institutional capacity that
+[0:22:16] over time ended up impacting classes and
+[0:22:19] exacerbated the district's long-standing
+[0:22:22] problem of inequitable student
+[0:22:23] experiences. Um, in 2017, superintendent
+[0:22:27] desri described PPS as a district of
+[0:22:30] schools, not a school district.
+[0:22:32] So, central office positions have been
+[0:22:35] cut significantly over the last three
+[0:22:37] years.
+[0:22:39] What impacts are you seeing in terms of
+[0:22:41] support for schools and educators?
+[0:22:46] Thank you for that question. I am going
+[0:22:47] to call up some friends that can help
+[0:22:50] with some context.
+[0:22:56] We're we're going to get into some weeds
+[0:22:57] here. So, yeah, it's good.
+[0:23:02] Good afternoon. Oh jeez. John Franco,
+[0:23:05] chief of schools. Good afternoon.
+[0:23:07] Christina Howard, chief academic
+[0:23:08] officer. Um I'm going to start us off by
+[0:23:10] just reading a bit higher level and then
+[0:23:14] um we have other folks who can call up
+[0:23:16] um if we're in the weeds. Um so while
+[0:23:20] we're preserving direct student
+[0:23:21] services,
+[0:23:23] uh central office must still support the
+[0:23:25] priority work that has the biggest
+[0:23:26] impact on students and advances our
+[0:23:29] board goals. We are actively evaluating
+[0:23:31] what is essential to sustain
+[0:23:34] uh that support and what is not. So in
+[0:23:37] recent years, PPS has made key strategic
+[0:23:40] investments that support progress toward
+[0:23:43] board and strategic plan goals and
+[0:23:45] enhance service delivery and academic
+[0:23:47] outcomes at every PPS school. PPS has
+[0:23:50] been advancing work on the
+[0:23:52] implementation of a unified vision of
+[0:23:53] teaching and learning. our first version
+[0:23:56] of a culturally responsive and
+[0:23:58] culturally sustaining instructional
+[0:23:59] framework that identifies learning and
+[0:24:01] teaching practices that support all
+[0:24:03] students in attaining the graduate
+[0:24:05] portrait.
+[0:24:07] Additionally, the district invested in
+[0:24:08] the adoption of highquality learning
+[0:24:10] materials for K12 English language arts
+[0:24:13] and mathematics.
+[0:24:15] Professional development for teachers
+[0:24:16] and principles have been another area of
+[0:24:18] focus. And in recent years,
+[0:24:20] instructional coaches allocated to every
+[0:24:22] PPS school site to provide job embedded
+[0:24:25] professional development for teachers.
+[0:24:27] PPS continues to use an equity lens in
+[0:24:29] resource allocation, operating programs
+[0:24:32] that serve focal students, and using a
+[0:24:34] differentiated staffing formula.
+[0:24:39] I I think the only thing that I would
+[0:24:41] add to that is I think through our
+[0:24:44] budgeting process and that is in
+[0:24:46] conversations with building leaders and
+[0:24:48] various stakeholders like we there's a a
+[0:24:51] series of prioritization steps that we
+[0:24:54] have to undergo in conversations and so
+[0:24:57] we're very proud about that we were able
+[0:24:58] to you know add back instructional
+[0:25:01] coaches that um interventionists are
+[0:25:04] still in play for schools um based bas
+[0:25:07] on data. Uh we're also to add back uh
+[0:25:11] some some nonformmula assistant
+[0:25:13] principles and this is all based on you
+[0:25:16] know feedback from our building leaders.
+[0:25:18] And so it is a prioritization piece um
+[0:25:21] that we will have to go through because
+[0:25:23] in the initial pieces we were like okay
+[0:25:25] uh we want to protect class sizes as
+[0:25:27] best as we can but it was there was a
+[0:25:29] definite push uh to maintain these these
+[0:25:33] positions. To your point um Dr. or more
+[0:25:37] in terms of that level of support for
+[0:25:39] kids.
+[0:25:42] Um, can can you give us a sense of what
+[0:25:45] percent of the operating budget is spent
+[0:25:47] on administration?
+[0:25:51] I think I'm so if I ask questions that
+[0:25:55] are too deep in weeds and you don't have
+[0:25:57] the question the answers in front of
+[0:25:59] you, um, you can always send them to us
+[0:26:01] later.
+[0:26:03] Yeah, that is one I I I would need
+[0:26:05] Michelle to come back up here. I don't
+[0:26:06] know if she if that's one thing and
+[0:26:08] maybe we can get back to you and I don't
+[0:26:10] know if she can answer that question
+[0:26:12] right up front.
+[0:26:18] Thanks, John. Yes, we do have that
+[0:26:20] information available. Um, but it kind
+[0:26:24] of begs a few more questions. So when
+[0:26:25] you ask about the percentage of
+[0:26:27] administration, we have administrators
+[0:26:29] in the building in departments and then
+[0:26:32] we have some central office positions as
+[0:26:34] well. And so without a little bit more
+[0:26:36] detail, it's hard to parse it out.
+[0:26:39] Central office in particular, do do you
+[0:26:42] have Yeah, it's it's between five and 6%
+[0:26:46] central office administration. Okay. um
+[0:26:51] of our our total administrative pool. I
+[0:26:54] have a chart here that was provided by
+[0:26:56] my team that says central office
+[0:26:58] administration at 2.58%
+[0:27:01] which is a very different number and I
+[0:27:03] think that's looking more at just
+[0:27:05] administrative staff. We have a lot of
+[0:27:07] non-represented staff also that kind of
+[0:27:11] provide that administrative support. So
+[0:27:14] I I think it's a bit of a range, but
+[0:27:16] it's it's a fairly small percentage of
+[0:27:19] what we need that you know those folks
+[0:27:22] make decisions and implement plans that
+[0:27:24] really provide support for students. Do
+[0:27:27] you have a sense of how that's changed
+[0:27:29] over time or how it compares to
+[0:27:31] comparator districts? I think it's
+[0:27:33] pretty similar to comparative districts
+[0:27:36] that that's some data that we can
+[0:27:37] collect and provide. Um I'm great I'm
+[0:27:40] grateful that you're interested in that.
+[0:27:42] it's going to come up for us soon in
+[0:27:44] bargaining as well. Um, but again,
+[0:27:47] determining what you you mean by
+[0:27:49] administration is going to be important,
+[0:27:52] right? I I I'm asking because in my
+[0:27:56] experience, I've been involved with the
+[0:27:59] district since forever. Um, this is a
+[0:28:03] question that comes up frequently.
+[0:28:07] Parents ask, unions ask, the public
+[0:28:10] asks. Um, so I I would encourage you to
+[0:28:15] to try to come up with a way to explain
+[0:28:21] what these terms mean in terms of a
+[0:28:23] school district, first of all, and then
+[0:28:26] kind of put into context how PPS is um,
+[0:28:31] you know, what what financial resources
+[0:28:35] are being dedicated to what people would
+[0:28:37] think of as administration. Um because I
+[0:28:43] I think this it it is very complicated.
+[0:28:46] I mean, I've been around long enough to
+[0:28:48] know it's complicated. Um, and it's very
+[0:28:51] difficult, I think, for just plain folks
+[0:28:53] who don't have their heads in the budget
+[0:28:55] books, um, to really get a handle on,
+[0:28:59] um, kind of what what impact
+[0:29:03] administration plays in the
+[0:29:05] functionality of a district and the
+[0:29:07] classroom experience of students and
+[0:29:09] also how it's funded. Um, so I guess a
+[0:29:14] broader question I would ask is um
+[0:29:18] can can you give us a sense of um how
+[0:29:21] the district is planning to balance the
+[0:29:26] need for um preserving classrooms in the
+[0:29:30] current crisis against the need for um
+[0:29:35] maintaining institutional capacity
+[0:29:38] um over the long haul. Um, I mean this
+[0:29:42] is this is a dilemma that everybody we
+[0:29:44] talk to is dealing with like how do you
+[0:29:46] how do you deal with the you know fire
+[0:29:49] in front of you and and still preserve
+[0:29:52] institutional capacity going forward.
+[0:29:54] So, do you have a since this crisis is
+[0:29:58] probably not going to go away anytime
+[0:30:00] soon,
+[0:30:02] can you articulate an approach that PPS
+[0:30:04] is taking to this dilemma
+[0:30:09] or not? I mean, I think we're looking at
+[0:30:12] our priorities. So, if our priorities
+[0:30:14] for next year are literacy, math, 9th
+[0:30:18] grade, uh success or on track,
+[0:30:21] attendance, right? Then we would say
+[0:30:23] based on that what supports are going to
+[0:30:26] be needed. So for example with literacy
+[0:30:29] when we're thinking about providing
+[0:30:31] support to early literacy we have folks
+[0:30:34] who are providing professional learning
+[0:30:36] to administrators to teachers to
+[0:30:38] coaches. We have folks who are working
+[0:30:41] on high impact tutoring. We have folks
+[0:30:44] who are supporting the interventionists
+[0:30:46] around professional learning. And so
+[0:30:47] that's an example of of a priority that
+[0:30:50] we need to then support centrally. So
+[0:30:53] those positions are critical, right? And
+[0:30:55] then how are we funding those positions?
+[0:30:57] Well, that's a combination of grants and
+[0:31:00] it's a combination of general fund. And
+[0:31:02] so then that's that's how we would look
+[0:31:03] at that. And so when we look at um also
+[0:31:07] our focal students who who are our focal
+[0:31:09] students who need support, how do we
+[0:31:11] fund that? Um what is our data saying?
+[0:31:15] what uh what supports at the school
+[0:31:18] level could be supported at the school
+[0:31:19] level and then what supports will be at
+[0:31:21] the central office level. And so those
+[0:31:24] are all sort of the conversations and
+[0:31:25] then also bringing in principles for
+[0:31:28] feedback and um what do they value as a
+[0:31:32] support and then what is not feeling
+[0:31:34] supportive um because again every
+[0:31:36] decision we're making has impacts in the
+[0:31:39] classroom has a is another impact that
+[0:31:43] we have to talk about. So that's just an
+[0:31:45] example and I would just piggyback on
+[0:31:48] that. I think I don't want to also
+[0:31:50] underscore that throughout this entire
+[0:31:52] process is our superintendent has been
+[0:31:55] very clear is that if there are
+[0:31:56] positions potentially in line for
+[0:31:59] reduction, what are the mitigating steps
+[0:32:01] that we are going to employ? And so
+[0:32:03] that's been an immense thought process
+[0:32:05] that we've had to undergo. And I also
+[0:32:07] don't want to underscore the importance
+[0:32:09] of I mean we're in the midst of a K12
+[0:32:12] math and language arts adoption and and
+[0:32:15] an immense focus instructionally on tier
+[0:32:18] one and when we can provide consistency
+[0:32:21] of experience of of consistency of
+[0:32:24] experience for students in regards to
+[0:32:26] instruction. I mean, you know, that to
+[0:32:30] me is a is a layer that we can't
+[0:32:32] discount. When all of our kids are
+[0:32:34] receiving grade level standards aligned
+[0:32:36] instruction across the board, will we
+[0:32:39] need as many interventionists? Right? If
+[0:32:41] we're building and having the
+[0:32:42] conversations about capacity and
+[0:32:44] building the instructional leadership
+[0:32:46] capacity of our building leaders, will
+[0:32:47] we need instructional coaches? You know
+[0:32:50] what I mean? And so I think that that's
+[0:32:52] an important piece that's really looking
+[0:32:54] at, you know, a a little bit of a long
+[0:32:57] game, but we find immense value
+[0:32:59] obviously in that instruction component.
+[0:33:02] It is the ELA and math adoption part of
+[0:33:06] part of a 10-year cycle, sixear cycle.
+[0:33:10] My my job is in curriculum and
+[0:33:13] assessment, so I know that it varies by
+[0:33:15] state. Um, but I'm curious. I know wit
+[0:33:18] and wisdom is not that old. And I know a
+[0:33:22] a complaint you hear from teachers all
+[0:33:24] the time is like new curriculum, I have
+[0:33:26] to learn a new thing all the time. I I'm
+[0:33:28] too busy learning a new thing to
+[0:33:30] implement it faithfully, let alone do
+[0:33:32] right by my students. And so I'm
+[0:33:34] curious, can you give us a little idea
+[0:33:36] of like what that cycle is and what was
+[0:33:38] the maybe when was the last adopted and
+[0:33:41] what's the impulse for the new adoption?
+[0:33:43] Yeah, sure. Um, so we're on seven-year
+[0:33:46] adoption cycles and we've worked really
+[0:33:47] hard over the last few years to get on
+[0:33:50] the state adoption cycle. So the state
+[0:33:52] will put out when curriculum and so
+[0:33:54] we're aligning because then there's also
+[0:33:57] standards that the state will adopt and
+[0:33:59] so we're trying to be really in close
+[0:34:01] alignment and that's taken us a while
+[0:34:02] and I I we are we are on that now. Um
+[0:34:06] and so with the example of Whiten
+[0:34:08] Wisdom, I think uh this is year four and
+[0:34:12] so three years right it will be up again
+[0:34:14] and there's a whole process that
+[0:34:16] involves um teachers and teacher leaders
+[0:34:20] and families and we have a whole process
+[0:34:23] for that um that has been um and then we
+[0:34:26] present to the board actually we're
+[0:34:27] presenting tonight around science um and
+[0:34:30] so it's it's according to the state
+[0:34:31] adoption cycles
+[0:34:36] Um, so PPS reviews current kindergarten
+[0:34:39] enrollment as part of developing
+[0:34:41] enrollment forecasts. What about
+[0:34:43] attrition at other points in the school
+[0:34:45] pipeline? Do you look at enrollment
+[0:34:47] trends in other grades? And what factors
+[0:34:49] um do you think are driving the decline
+[0:34:51] in enrollment?
+[0:34:54] Hi, good evening. I'm Renard Adams and
+[0:34:56] the chief accountability equity officer
+[0:34:57] for the district. So, excuse me. Yes, we
+[0:35:01] do um review enrollment at all levels of
+[0:35:04] the school system
+[0:35:06] and in particular we look at grade
+[0:35:07] progression that is how many students
+[0:35:09] say in fourth grade continue with us to
+[0:35:11] fifth grade, sixth grade to 7th grade
+[0:35:14] etc. And um we see that grade
+[0:35:16] progression rates have been fairly
+[0:35:18] stable with the exception of the co
+[0:35:20] years when those rules about attendance
+[0:35:22] were changed and engagement was very
+[0:35:25] difficult for many of our families and
+[0:35:26] our students. The incoming kindergarten
+[0:35:29] cohort is now or cohorts are now much
+[0:35:33] smaller than those pre- pandemic and
+[0:35:35] they're also smaller than our current
+[0:35:37] graduating cohorts of students and
+[0:35:39] seniors in high school resulting in some
+[0:35:42] decreasing enrollment overall. When we
+[0:35:45] examine the data, our trends show that
+[0:35:47] our fifth to sixth grade progression has
+[0:35:50] our lowest progression rate and that our
+[0:35:52] eighth to 9th progression rate has
+[0:35:54] improved over time. Our internal
+[0:35:57] analysis have not shown that there is um
+[0:36:00] or are significant enrollment declines
+[0:36:02] at the higher grade levels.
+[0:36:08] Um relative to those trends of for
+[0:36:11] example students starting at PPS and
+[0:36:13] then moving to other districts or to
+[0:36:14] private school. I know you mentioned
+[0:36:16] like that fifth to sixth grade
+[0:36:17] progression which as a parent that's
+[0:36:19] actually what I hear like on the
+[0:36:21] playground at the soccer fields, right?
+[0:36:22] Parents talking about that being the big
+[0:36:24] shift. Are you are you able to determine
+[0:36:27] whether that will continue or increase
+[0:36:30] or decrease over time at this point or
+[0:36:32] kind of what are your thoughts around
+[0:36:33] that? Sure. So, we um work with the
+[0:36:36] population resource center at Portland
+[0:36:38] State University each year to update our
+[0:36:41] enrollment projections. So, we um always
+[0:36:44] are using a current forecast based on
+[0:36:46] the most current data that we have. Um,
+[0:36:50] we are projecting an enrollment decline
+[0:36:53] over the next several years and we are
+[0:36:56] working on enrollment strategies and
+[0:36:58] enrollment campaign to try to interrupt
+[0:37:00] and disrupt what is predicted to occur.
+[0:37:03] You'll hear more about that later from
+[0:37:05] one of my peers. Um, unfortunately we're
+[0:37:07] not always aware of where formerly
+[0:37:09] enrolled students go. as you know at the
+[0:37:11] as you might as you may know at the high
+[0:37:14] school level we're required to know
+[0:37:16] where they go or they count as dropouts
+[0:37:18] if we don't know what program they've
+[0:37:19] enrolled in that same requirement and
+[0:37:22] those same um penalties don't
+[0:37:26] necessarily exist uh K8 and so we don't
+[0:37:29] always know though we hear from parents
+[0:37:31] and families around what discussions on
+[0:37:34] the playground sometimes we've heard
+[0:37:36] that parents have made different choices
+[0:37:39] about schooling based bas on, for
+[0:37:41] example, kindergarten class size, um,
+[0:37:44] where they might be able to choose, uh,
+[0:37:46] a private school that can have that can
+[0:37:48] offer them a lower class size than
+[0:37:50] we're, um, currently able to offer in
+[0:37:52] PPS.
+[0:37:53] I have a followup.
+[0:37:55] It's not just at least my experience has
+[0:37:59] been and our school has a capture rate
+[0:38:01] of anywhere I've seen it anywhere from
+[0:38:03] 59 to 60 something%
+[0:38:07] over the six years that we've been at
+[0:38:09] [Atkinson] which is just one example right
+[0:38:11] and it's been COVID over these years
+[0:38:13] right my kid was a kindergartener in
+[0:38:16] 201920
+[0:38:18] uh so certainly probably a different
+[0:38:20] experience than um other families um in
+[0:38:25] who have older children. But we've seen
+[0:38:27] that. We've also seen so this low
+[0:38:30] capture rate, but it's not just kids
+[0:38:32] leaving to go to private school or
+[0:38:34] things like that. Lots of kids are
+[0:38:36] opting out of uh their neighborhood
+[0:38:39] school, right? We're seeing and PPS has
+[0:38:41] many focus option schools. Uh families
+[0:38:45] are choosing those options instead of
+[0:38:48] neighborhood schools. And we also were
+[0:38:50] uh part of the Southeast Guiding
+[0:38:52] Coalition. So certainly boundary uh
+[0:38:55] boundary changes and disruption as a
+[0:38:58] result of that has been an issue, but
+[0:39:00] I'm curious if the district's having any
+[0:39:02] conversation about it feels a little bit
+[0:39:06] like there's a culture of optioning your
+[0:39:09] schools, right? Like, oh, maybe not this
+[0:39:11] one, maybe this one. And it's internal,
+[0:39:13] not just like broadly in the community.
+[0:39:16] And I'm just curious. And often what we
+[0:39:19] hear is like, well, that that's a better
+[0:39:22] school, right? The focus option is a
+[0:39:23] better school than your neighborhood
+[0:39:25] school. And I'm I'm curious what
+[0:39:28] conversations, if any, the district is
+[0:39:30] having around these types of kind of
+[0:39:32] internal mechanisms that are kind of
+[0:39:35] creating, I think, a culture of um
+[0:39:41] school choice beyond maybe the the
+[0:39:46] baseline that's keeping our schools
+[0:39:48] enrolled, right? Like if you willing to,
+[0:39:50] oh, if I don't get into the if I don't
+[0:39:52] get into Winter Haven, then we'll go to
+[0:39:54] St. Ignatius or if I if we don't get
+[0:39:57] into creative science then we'll we'll
+[0:39:59] go to trackers. I'm making up
+[0:40:03] um pulling things out of thin air. But
+[0:40:04] I'm just curious if there are any
+[0:40:05] conversations around kind of that focus
+[0:40:07] option program kind of within the
+[0:40:10] district.
+[0:40:11] While there aren't current conversations
+[0:40:14] about focus options, what we are having
+[0:40:16] conversations about as a part of our
+[0:40:19] developing enrollment campaign and
+[0:40:21] strategy is how can we market the
+[0:40:23] brilliance and excellence of every
+[0:40:25] school. Um, we know that building strong
+[0:40:27] schools across the board is going to be
+[0:40:29] the answer um to try to bring people
+[0:40:32] back and have people choose um Portland
+[0:40:36] public schools as a as a premier school
+[0:40:38] district. And so part of that work has
+[0:40:42] been working with our chief of
+[0:40:43] communications and a cross functional
+[0:40:46] section Dr. Franco our chief of schools
+[0:40:48] and some other stakeholders to think
+[0:40:50] about how do we build and brand the
+[0:40:53] system and part of that is sort of this
+[0:40:55] idea that like legacies are made at PPS.
+[0:40:57] Um and then how do we build and brand
+[0:41:00] each particular school with a focus on
+[0:41:03] those zip codes that have seen the most
+[0:41:04] enrollment decline.
+[0:41:11] I have the next question. Uh, perfect
+[0:41:13] timing and transition. Uh, can you
+[0:41:15] provide more details about that about
+[0:41:17] the district's recruitment, retention,
+[0:41:19] and recovery campaign aimed at
+[0:41:20] increasing enrollment? What specific
+[0:41:23] actions are being taken to bring
+[0:41:24] students back to PPS and keep students
+[0:41:27] there? Um, and how will the district
+[0:41:29] measure success? Sure. Thank you. Uh,
+[0:41:32] can you all hear me? Okay. Good evening.
+[0:41:34] uh Candace Gross, chief of
+[0:41:35] communications. Um so we're gearing up
+[0:41:38] uh to your point um um and sorry I'm
+[0:41:41] reading from my laptop. So we're gearing
+[0:41:44] up for an enrollment campaign to start
+[0:41:45] this fall and included in this campaign
+[0:41:47] will be messaging and highlights from
+[0:41:49] each school and then an overall
+[0:41:51] highlight from the district regarding an
+[0:41:53] array of great things that are
+[0:41:54] happening. Um and so this is a the RR
+[0:41:59] campaign is being executed through two
+[0:42:01] parallel strategies. The first one is a
+[0:42:03] global district-wide narrative which is
+[0:42:06] uh called legacies are made at PPS which
+[0:42:08] focuses on the um reigniting public
+[0:42:12] trust and brand pride in uh PPS. And
+[0:42:14] then the second part of that strategy is
+[0:42:17] a localized school specific outreach. Um
+[0:42:20] that campaign is called opportunities in
+[0:42:22] your community. Um targeting
+[0:42:24] neighborhoods with high student
+[0:42:25] attrition and highlighting the unique
+[0:42:26] programs and supportive environments
+[0:42:28] within those local uh schools. Um and so
+[0:42:32] we we've been doing a lot of for the
+[0:42:34] last few months actually I think three
+[0:42:36] months or so uh doing a lot of data and
+[0:42:39] research before we can even fully launch
+[0:42:41] into this campaign. Some of that
+[0:42:43] research includes uh parent view and I
+[0:42:45] know my colleague will talk a little bit
+[0:42:47] about that but collecting data from
+[0:42:49] parent view um collecting data from um
+[0:42:52] the the heat maps um different things
+[0:42:54] like that hearing feedback from um
+[0:42:57] community members parents teachers just
+[0:43:00] to hear uh why uh folks are unenrolling
+[0:43:03] but also uh another strategy and
+[0:43:06] approach we've taken is sending out a
+[0:43:08] survey to all building leaders to ask
+[0:43:10] what makes your school great. I know we
+[0:43:12] focus a lot on why they leave, but also
+[0:43:14] trying to focus on why they stay so that
+[0:43:16] we can highlight those parts in the
+[0:43:18] campaign. Um, and then the most
+[0:43:20] important part is measuring success,
+[0:43:21] right? Because we can do all this work
+[0:43:23] and not know if any of this is actually
+[0:43:25] working. And so some of that success uh
+[0:43:28] will uh or we'll do some quantitative
+[0:43:30] and qualitative measurements along the
+[0:43:32] way. So, of course, some of that will be
+[0:43:35] um enrollment increases in targeted
+[0:43:37] schools um and across the district
+[0:43:39] overall reduction in the number of
+[0:43:41] unverified students in parent view. Uh
+[0:43:44] family perception and satisfaction
+[0:43:46] metrics collected through the fall and
+[0:43:47] spring surveys. Um and then campaign
+[0:43:50] engagement met metrics which you know if
+[0:43:52] we are doing media buys or ad spending
+[0:43:55] trying to figure out what the return on
+[0:43:56] investment is and uh visibility um based
+[0:43:59] on the targeted areas and approaches
+[0:44:01] that we're taking for the campaign.
+[0:44:05] Yeah. The only thing I would add to that
+[0:44:08] is that this goes well beyond as well
+[0:44:10] just kind of uh displaying the things
+[0:44:12] that are great within PPS. I think what
+[0:44:15] we have found uh through this as we get
+[0:44:18] ready for a fall kickoff is that we need
+[0:44:21] to be more standardized around best
+[0:44:23] practice uh uh within buildings. And so
+[0:44:26] another piece with this is creating uh
+[0:44:29] standardized principal toolkits of how
+[0:44:32] to increase enrollment and also
+[0:44:34] attendance and those very specific
+[0:44:36] things so that uh we're all on the same
+[0:44:39] page. Uh we've conducted focus groups as
+[0:44:42] well with building leaders very
+[0:44:43] specifically ones who we know have been
+[0:44:45] doing this work and doing it very well
+[0:44:46] that have outstanding community outreach
+[0:44:49] you know what are the websites look like
+[0:44:51] what do newsletters look like and so
+[0:44:54] standardizing those approaches of those
+[0:44:56] best practices across the district will
+[0:44:58] be another mainstay uh for us as well.
+[0:45:03] Um curious um I think if I understood
+[0:45:06] you correctly Mr. Adams, that the
+[0:45:08] attrition rates were lower going from
+[0:45:11] eighth eighth and nth grades. They were
+[0:45:13] stable. Stable. Are you seeing any
+[0:45:16] anything with the new high schools that
+[0:45:18] have been constructed recently,
+[0:45:20] Franklin, Id Wells, um Lincoln, is that
+[0:45:25] and is there any data that tells you
+[0:45:27] that with the newer facilities, you're
+[0:45:29] seeing less attrition? Yes, actually. Um
+[0:45:32] thank you for the question. I appreciate
+[0:45:33] it. What we typically have seen is a bit
+[0:45:37] of an enrollment dip while while the
+[0:45:39] school is under construction
+[0:45:41] specifically um and more notably when
+[0:45:44] we've had to shift students to the
+[0:45:46] Marshall campus while their their home
+[0:45:48] campus was being constructed
+[0:45:50] deconstructed and reconstructed. And
+[0:45:52] what we've seen at all of our modernized
+[0:45:55] campus is an enrollment bump. So, um,
+[0:45:57] we've seen an increase in enrollment
+[0:45:59] once the new building has come online
+[0:46:02] for those next few years, which then has
+[0:46:04] trended, um, a bit more stably and a
+[0:46:08] positive direction for those schools.
+[0:46:11] So, you would anticipate maybe a similar
+[0:46:13] trend with the schools that are upcoming
+[0:46:14] for for um, improvements, the ones with
+[0:46:17] the new Yes, we would. Yeah. Great.
+[0:46:19] Thank you.
+[0:46:20] Does that extend to the uh the feeder
+[0:46:23] schools when you get a bump in a high
+[0:46:25] school enrollment? Does it filter down
+[0:46:27] into the feeder schools? I don't know
+[0:46:29] that we've done an analysis, but that's
+[0:46:30] a great question. So, I have to take
+[0:46:31] that back to the team. Certainly like
+[0:46:33] the middle school years.
+[0:46:38] Thank you.
+[0:46:40] So, um we know that one of the things
+[0:46:42] that remains a possibility in the near
+[0:46:44] future is school closures. Can you tell
+[0:46:46] us more about why school closures might
+[0:46:48] be one of the approaches for addressing
+[0:46:49] PPS's challenges and what are the
+[0:46:52] advantages and disadvantages of this
+[0:46:53] approach? Yeah, I'm happy to I'm happy
+[0:46:55] to talk about that. First, I just want
+[0:46:57] to Can you hear me? Okay. Okay, there we
+[0:46:59] go. How many times I've been up here and
+[0:47:01] I still can't figure the mic out. Um, so
+[0:47:05] first of all, I just want to acknowledge
+[0:47:06] any level I mean I've been I've been in
+[0:47:08] education for 25 years and been doing
+[0:47:10] this a long time. anytime you you think
+[0:47:13] about or go engage in a process around
+[0:47:15] school optimization or school closure,
+[0:47:17] boundary adjustments, those types of
+[0:47:19] things, I mean, those those hit
+[0:47:21] emotional tones that are very difficult.
+[0:47:25] And so the advantage is when we're
+[0:47:27] talking about a $40 million shortfall
+[0:47:29] and then potentially 30 million uh the
+[0:47:32] following year. I mean obviously the I
+[0:47:35] wouldn't say advantages but those are
+[0:47:37] things we have to think about because
+[0:47:40] we're talking about trying to to save
+[0:47:42] money. Um and also I would say too
+[0:47:44] there's another piece around increasing
+[0:47:46] program efficiency. So for example, some
+[0:47:49] of the cost savings could be reduced
+[0:47:52] operational costs such as utilities,
+[0:47:55] custodial
+[0:47:56] maintenance, transportation.
+[0:47:59] Um I would also say there's a deferred
+[0:48:01] maintenance piece savings. Um I mean
+[0:48:04] older buildings the reality is uh we
+[0:48:06] have a lot of old buildings and in order
+[0:48:08] to maintain them uh it costs money. Um,
+[0:48:12] also when we're thinking if again
+[0:48:14] engaging in this in this conversation
+[0:48:17] would also mean um again school
+[0:48:21] consolidation or potentially closing
+[0:48:23] schools that means the kids would have
+[0:48:25] to go somewhere else, right? And so when
+[0:48:27] you can increase the number of kids in a
+[0:48:30] building or in a school that leads to
+[0:48:33] more funding and potentially more robust
+[0:48:36] pro programming. I mean that's just a
+[0:48:38] reality, right? And specific to like the
+[0:48:40] secondary for example, the more kids you
+[0:48:42] have, the more elective offerings you
+[0:48:44] can have. I mean, that's just that's
+[0:48:45] just a reality. Um, and and I would say
+[0:48:48] too, as part of the second question, I I
+[0:48:50] think you said, and I touched on it a
+[0:48:52] little bit. Um, you know, the
+[0:48:54] disadvantages of course is the ripple
+[0:48:56] effect uh in school communities. I mean,
+[0:48:59] that's that's just the reality. And like
+[0:49:01] I said, as someone who's been a part of
+[0:49:02] those pieces before, people attend
+[0:49:04] schools within their communities for a
+[0:49:06] reason. And so um that just speaks to
+[0:49:09] the importance of an important process
+[0:49:12] um of engagement that that we would have
+[0:49:15] to go through.
+[0:49:17] Thank you. Um as a followup, do you at
+[0:49:20] this point have a timeline and a process
+[0:49:22] to start making those decisions or when
+[0:49:24] you might do that? Yeah, we are engaging
+[0:49:27] I would say this. I mean the first piece
+[0:49:29] is really to assemble a team to really
+[0:49:32] kind of talk through and then from that
+[0:49:34] steering group kind of outline what
+[0:49:36] those projected next steps are. And so
+[0:49:40] obviously that would involved multiple
+[0:49:42] stakeholders. The school board would
+[0:49:43] need to be involved. Obviously our
+[0:49:45] superintendent would have to give us
+[0:49:47] direction on that. Um, but you know
+[0:49:50] towards the end of this school year in
+[0:49:52] June is when we're going to right now is
+[0:49:54] when we're going to start talking about
+[0:49:55] it and then obviously get a little bit
+[0:49:57] more refined as we head into into the
+[0:50:00] fall.
+[0:50:02] I mentioned before that I had sat on the
+[0:50:04] SEGC, the Southeast Guiding Coalition,
+[0:50:06] right? I've been through the boundary
+[0:50:08] process. Not a great process, right?
+[0:50:12] challenging
+[0:50:13] uh personally uh communitywide and of
+[0:50:17] course we did it kind of in the midst of
+[0:50:19] COVID uh which added a layer to it.
+[0:50:22] this, you know, school closures are not
+[0:50:24] that diff they're different in some ways
+[0:50:27] certainly from a boundary shift, but
+[0:50:29] this is a pretty contentious personal
+[0:50:33] process, right? It it communities will
+[0:50:37] rise up and say, "But our school is
+[0:50:40] great and these are all the reasons why
+[0:50:42] and um we all have personal connections
+[0:50:44] to our neighborhoods and our community."
+[0:50:46] So, can you tell us a little bit about
+[0:50:48] what factors will be considered when
+[0:50:49] weighing the choice to close which
+[0:50:52] schools and kind of how you've how you
+[0:50:55] plan to kind of mitigate that
+[0:50:58] emotional reaction to whatever degree
+[0:51:01] you can. I appreciate the question and
+[0:51:04] the thoughtfulness in which you're
+[0:51:06] asking. I mean, I just wanted to come
+[0:51:08] forward and say, of course, ditto um
+[0:51:10] what Dr. Franco has said about um the
+[0:51:13] process and being thoughtful and
+[0:51:14] intentional to be on a timeline that
+[0:51:17] will engage and bring in as many voices
+[0:51:19] as possible. I think I've said from the
+[0:51:22] start that anything uh around school
+[0:51:25] closures, boundaries, it's a community
+[0:51:27] conversation and so we want to involve
+[0:51:29] community as much as possible. I feel
+[0:51:32] I'm pretty confident that um the way in
+[0:51:35] which we do the work will be a model
+[0:51:37] that can be used across the United
+[0:51:39] States because it will be done well. It
+[0:51:41] will include different voices and the
+[0:51:42] timeline I think will be fair. Uh we'll
+[0:51:46] use a uh a resource a group of
+[0:51:49] individuals to be a resource um to
+[0:51:51] really synthesize and analyze the data
+[0:51:54] that we're collecting on the decisions
+[0:51:56] that we make. I think the reality and
+[0:51:58] what we really want community to know is
+[0:52:00] that you know even when we look at some
+[0:52:02] of our um our schools with if I look at
+[0:52:06] DLI for example you know there are
+[0:52:09] schools where we have seven kiddos
+[0:52:12] enrolled in the neighborhood um
+[0:52:14] classroom because there's over 20 plus
+[0:52:17] students in the dual language immersion
+[0:52:20] and that is the opposite in some other
+[0:52:22] spaces right and so how do we look at
+[0:52:25] all of our offerings and Not just from,
+[0:52:28] you know, of course we want to be
+[0:52:29] fiscally responsible. So, not just from
+[0:52:31] a, you know, how can we save money
+[0:52:34] standpoint, but like how are we setting
+[0:52:36] up our schools for the next couple of
+[0:52:38] generations to really optimize uh
+[0:52:41] learning and the resources that are rich
+[0:52:44] in the communities that that are served.
+[0:52:47] So, I I I it would be remiss of us to
+[0:52:49] say that like, you know, we have x
+[0:52:51] amount of schools and here's the process
+[0:52:53] without it being grounded in community.
+[0:52:55] It could be that, you know, it's
+[0:52:58] recommended that no schools are closed
+[0:52:59] and it's more of a reconfiguration of
+[0:53:02] the programs that we have that can
+[0:53:04] adequately distribute students in ways
+[0:53:06] that set up environments to be more
+[0:53:09] robust and um allow us to use our
+[0:53:12] resources better. So, just really
+[0:53:14] grounding in community and and um um
+[0:53:18] identifying the data that we'll use to
+[0:53:20] move through those decisions are the
+[0:53:21] very first steps.
+[0:53:25] uh as a as a veteran of some of these
+[0:53:28] conversations in a previous life, um
+[0:53:33] have you have you thought about looking
+[0:53:35] back? PPS has done this to varying
+[0:53:38] degrees since
+[0:53:40] at least 2005, right? Um,
+[0:53:45] and
+[0:53:47] it has been there have been some
+[0:53:50] positive things. There have been some
+[0:53:52] not so positive things that came out of
+[0:53:53] it. Um, are you looking back at some
+[0:53:56] lessons that you might learn from past
+[0:53:58] experience? Absolutely. The [Southeast Guiding Coalition]
+[0:54:01] , I appreciate you
+[0:54:02] mentioning that, will not be the model
+[0:54:04] in which we deploy. Um, and so no no
+[0:54:08] disrespect on the process, but we learn
+[0:54:10] lessons as we go. Correct. And so we we
+[0:54:12] know some lessons. We're also looking at
+[0:54:15] um school districts across the country
+[0:54:16] where the work has moved well like in
+[0:54:19] San Antonio's school district and then
+[0:54:21] in places where it didn't move so well
+[0:54:23] like San Francisco Unified um you know
+[0:54:26] where I was educated. And so, uh,
+[0:54:29] looking at those examples, not just in
+[0:54:31] the state of Oregon, but even, you know,
+[0:54:33] across the nation, it's a benefit being
+[0:54:36] a council district school because we
+[0:54:38] have access to people and information
+[0:54:40] and resources. And so, yes, data locally
+[0:54:44] and examples and stories and um
+[0:54:48] information nationally. I I have a
+[0:54:51] controversial opinion. Sure. I do not
+[0:54:53] think Portland is a unicorn. Yeah. Um,
+[0:54:56] so I'm I'm very glad to hear that you're
+[0:54:58] looking at other examples that you might
+[0:55:01] learn from. Yeah, absolutely. We we plan
+[0:55:03] to to do this in a way that will be a
+[0:55:06] model for others to follow. Yeah, I will
+[0:55:08] say despite my not super positive
+[0:55:11] experience with SEGC. I I am optimistic
+[0:55:14] for this as in a school with lots of
+[0:55:17] enrollment um bobbles over the last
+[0:55:21] several years like we've noticed like
+[0:55:23] when there isn't a fully enrolled school
+[0:55:25] the programming up down the staffing up
+[0:55:29] down the loss of staff experienced staff
+[0:55:32] having to rehire staff uh class size
+[0:55:36] going from 14 to 30 one year to the next
+[0:55:40] um and every which way full-time
+[0:55:42] library, not full-time library. We're
+[0:55:44] seeing that we've seen that our entire
+[0:55:47] school experience. And I think despite
+[0:55:50] um how difficult this would be if to
+[0:55:52] kind of repair some of that or stabilize
+[0:55:55] those things would make a huge
+[0:55:57] difference to us and I think people all
+[0:56:00] over PPS and not just the learners,
+[0:56:03] right? I mean the employees, right? I
+[0:56:05] don't think it feels good for employees
+[0:56:07] to um not be renewed every year or have
+[0:56:11] the non-renewal letter and have to
+[0:56:13] wonder about where they'll teach or
+[0:56:14] where they'll support next. Right. So,
+[0:56:17] stabilization I would say in multiple
+[0:56:19] areas too. Yeah. I was curious, you
+[0:56:22] mentioned your peer review with some of
+[0:56:24] uh different school districts. Um it may
+[0:56:26] be too early to ask this question, but
+[0:56:28] what did you learn or what do you think
+[0:56:30] you might learn from San Antonio? You
+[0:56:32] know, I appreciate their community
+[0:56:34] process and I've had a couple of
+[0:56:36] conversations with their superintendent.
+[0:56:37] We still want to do further case study,
+[0:56:39] but their community process and really
+[0:56:42] um grounding in community and having
+[0:56:44] those conversations looking at data and
+[0:56:48] not already going in with the end in
+[0:56:50] mind. You know, oftentimes as educators,
+[0:56:52] you know, we're told from day one in the
+[0:56:54] classroom, begin with the end in mind.
+[0:56:56] Well, in a process like boundaries and
+[0:56:58] school closure, we can't begin with the
+[0:57:00] end in mind. We have to be open. We have
+[0:57:02] to hear the stories and we have to
+[0:57:04] understand the impacts not just in a
+[0:57:06] local right year or two or three but
+[0:57:09] like generations, right? How are we
+[0:57:11] setting up this district? Like good city
+[0:57:14] planners, you know, that plan for the
+[0:57:16] rail uh road and the light rails and all
+[0:57:20] of those things because they see 50
+[0:57:22] years from now the uh beauty of a city
+[0:57:24] and what it can be. That's the same
+[0:57:26] mindset that we want to deploy when we
+[0:57:29] approach our work about the future of
+[0:57:30] Portland public schools. What a
+[0:57:32] beautiful place it will continue to be
+[0:57:34] 50 to 60 years from now. And then how do
+[0:57:37] we set up our schools to be um optimized
+[0:57:40] to serve families and students and um to
+[0:57:43] be a great place to work.
+[0:57:48] Thank you. Well, I don't envy your
+[0:57:51] position to embark in this process and I
+[0:57:54] have to admit to feeling a little bit
+[0:57:55] relieved that my kids are almost out. I
+[0:57:58] got one more to talk about that, but
+[0:58:00] thank you for the the making the the
+[0:58:02] hard choices and doing the hard work.
+[0:58:04] So, I appreciate that.
+[0:58:06] Um we've heard reports of uh since the
+[0:58:11] pandemic of a dramatic increase in
+[0:58:12] students who are are chronically absent
+[0:58:15] and I think the number it's quoted as
+[0:58:17] now over 36%.
+[0:58:20] Uh so over a third of students are are
+[0:58:22] deemed chronically absent. Um which is
+[0:58:25] when I saw that was kind of a striking
+[0:58:27] number. Um, can you talk about what the
+[0:58:30] drivers are for this increase and and
+[0:58:33] what uh what you all are doing to try to
+[0:58:37] change the trend here? Yeah, sure. Good
+[0:58:39] evening. Um, thank you for the question.
+[0:58:41] Uh, JBNO, chief of student services. So,
+[0:58:45] uh, chronic absenteeism, it's a complex
+[0:58:48] issue. So, as as a district, um, we are
+[0:58:52] addressing it through three datadriven
+[0:58:54] processes. Um the first is uh the assert
+[0:58:59] process. So it's attended support and
+[0:59:01] engagement re response team. So that's
+[0:59:04] at the school level. So each school has
+[0:59:07] an assert team that uh addresses
+[0:59:11] absenteeism data and develops
+[0:59:12] individualized
+[0:59:14] intervention plans for students. In
+[0:59:17] addition to that, at the school level,
+[0:59:18] each school supports attendance through
+[0:59:21] their uh continuous improvement plan.
+[0:59:24] And then at the district level this
+[0:59:26] year, we implemented a work group that
+[0:59:30] focused on root cause analysis and uh
+[0:59:34] evidence-based
+[0:59:35] intervention strategies that were being
+[0:59:37] effective across our system. We then
+[0:59:40] made recommendations um to each school,
+[0:59:44] to each assert team to support usage of
+[0:59:46] those strategies. So what we know is
+[0:59:49] that some root causes for chronic
+[0:59:51] absenteeism are engaging instruction,
+[0:59:55] students feeling a sense of belonging,
+[0:59:57] relationships with peers, and um a being
+[1:00:01] seen by a trusted adult. And that is
+[1:00:04] some of the root causes because of the
+[1:00:07] complexity related to chronic
+[1:00:09] absenteeism.
+[1:00:11] So each of our building leaders have
+[1:00:14] identified attendance as a goal andor
+[1:00:16] action step in their continuous
+[1:00:17] improvement plan as I identified and
+[1:00:20] each of our student service providers in
+[1:00:23] schools are working as part of their
+[1:00:24] assert teams and are targeting high le
+[1:00:27] high leverage family engagement
+[1:00:29] strategies such as home visits,
+[1:00:31] individual and group skill development
+[1:00:34] supports, student and family engagement
+[1:00:36] strategies which have been identified as
+[1:00:38] one of the most effective intervention
+[1:00:41] supports and then monitoring tracking
+[1:00:43] the efficacy of each individual students
+[1:00:46] interventions.
+[1:00:48] Several of our highne schools this year
+[1:00:50] have made significant gains in average
+[1:00:52] daily attendance which is a key
+[1:00:54] indicator of progression towards chronic
+[1:00:57] absenteeism.
+[1:00:59] Um these improvements have reflect
+[1:01:02] intentional student centered strategies
+[1:01:04] designed to remove barriers to
+[1:01:05] attendance.
+[1:01:07] Several of our schools have seen nearly
+[1:01:10] six and seven four percentage um gains
+[1:01:14] in chronic absenteeism because of these
+[1:01:17] specific interventions I've identified.
+[1:01:20] And these results demonstrate that a
+[1:01:22] focus on these events investments I'm
+[1:01:25] sorry such as family outreach, student
+[1:01:27] mentorship, and then culturally specific
+[1:01:29] focused practices are making tangible
+[1:01:31] impact.
+[1:01:33] The progress achieved by our these
+[1:01:35] schools highlight the importance of
+[1:01:38] continuing and expanding effective
+[1:01:40] attendance initiatives particularly as
+[1:01:41] supported by family and classroom
+[1:01:43] engagement strategies and most intensive
+[1:01:46] interventions provided by our student
+[1:01:47] service providers. So, uh we understand
+[1:01:52] that the most impactful strategy for
+[1:01:54] student attendance is the relationship
+[1:01:56] um in the connection between the student
+[1:01:58] and their instructor in the classroom.
+[1:02:01] And
+[1:02:03] parent and family engagement is the
+[1:02:06] strategy that is emphasized the most
+[1:02:09] with supporting and closing attendance
+[1:02:13] gaps for our chronically absent
+[1:02:15] students. And that is what is emphasized
+[1:02:17] across our system.
+[1:02:20] Thank you. Um, can you talk about what
+[1:02:22] how you define chronic absenteeism and
+[1:02:25] does this get to a point where it
+[1:02:27] actually affects the funding for the
+[1:02:30] district? It it can. Yes, thank you for
+[1:02:32] that question. So the the state actually
+[1:02:35] defines chronically absent absenteeism
+[1:02:37] and it means missing 10% of the school
+[1:02:42] year. So 16 days, 17 days in a 180
+[1:02:46] school day a year, which that's not what
+[1:02:49] we have, but it would be 18 days. So So
+[1:02:51] it's missing approximately a month of
+[1:02:53] instruction. Okay. Um and uh there's
+[1:02:57] also reports about uh absenteeism being
+[1:02:59] chronic among staff and uh teachers. Um
+[1:03:04] what are your strategies to change that?
+[1:03:07] I'm gonna um I'm playing Sharon Reese,
+[1:03:11] our um uh chief human resource officer,
+[1:03:14] as she is out this evening. So, uh I I
+[1:03:17] am actually going to read the response
+[1:03:19] and then if you have follow-up
+[1:03:21] questions, we'll probably have to get
+[1:03:22] back to you on that. Um or I can just
+[1:03:25] wing it, but probably. Yeah, exactly. Um
+[1:03:29] so, it's it's true. In fact, there was
+[1:03:31] an Oregonian article recently about
+[1:03:32] this. Um, our district has seen an
+[1:03:35] increase in leaves of over 250% over the
+[1:03:38] last six years. Myriad of factors,
+[1:03:41] COVID, um, expanded leave laws and
+[1:03:43] Oregon's new family paid family leave
+[1:03:46] laws have all contributed to this
+[1:03:48] increase. Um, our teacher substitute
+[1:03:51] fill rate averaged 92% each week this
+[1:03:55] year and we have 875 teacher substitutes
+[1:03:59] following the ratification of teacher
+[1:04:02] substitute collective bargaining
+[1:04:03] agreement earlier this year um in
+[1:04:05] October of 2024. Our district
+[1:04:07] implemented a new subset of teacher
+[1:04:10] substitutes who commit to a schedule in
+[1:04:12] advance and then the durist district
+[1:04:15] directs their placement in our highest
+[1:04:18] needs lowest fill rate schools. So
+[1:04:21] that's um been something that's been
+[1:04:23] successful and the fill rate for um
+[1:04:26] substitute parah educators averages only
+[1:04:29] about 50% and so our district has been
+[1:04:31] working on resources for filling these
+[1:04:33] positions in the upcoming year. Um
+[1:04:35] overall we take this commitment very
+[1:04:37] seriously. I think we're doing the
+[1:04:39] strategies that we're undertaking are
+[1:04:41] are vast and different and it's
+[1:04:43] obviously different depending on on each
+[1:04:45] person. Um I'll just comment on one
+[1:04:47] thing that our superintendent um has
+[1:04:49] prioritized which is building and
+[1:04:51] maintaining strong relationships and I
+[1:04:53] think that's a key component of this.
+[1:04:55] She has worked very closely with uh PAT
+[1:04:58] and held uh 10 listening sessions um
+[1:05:02] when she started her uh tenure here
+[1:05:04] which um in the evenings several hours
+[1:05:07] each night over a several month period
+[1:05:09] to really understand directly from our
+[1:05:13] um teachers and our leaders and our
+[1:05:15] schools about the um problems that
+[1:05:17] they're experiencing and how we as a
+[1:05:19] district can better serve their needs.
+[1:05:21] So this is a work in progress. Is there
+[1:05:23] a distinction in terms of the um I'm
+[1:05:28] trying to clarify students versus staff.
+[1:05:31] So students uh like demographically like
+[1:05:33] are we seeing higher absentee rates at a
+[1:05:35] certain grade level band or is it kind
+[1:05:38] of across the district or is it a
+[1:05:41] different is it at higher need schools
+[1:05:43] versus
+[1:05:45] like wealthier schools. What's is there
+[1:05:48] a breakdown or is it kind of across the
+[1:05:50] board we're seeing this?
+[1:05:53] I can get you more specific information,
+[1:05:56] but there are disparities. Yes. Okay.
+[1:06:00] Can I without betraying any confidences
+[1:06:04] or information you're not ready yet to
+[1:06:07] divulge, um can you share anything about
+[1:06:10] what the superintendent heard from
+[1:06:13] teachers during these conversations
+[1:06:15] about the drivers of absenteeism?
+[1:06:23] Um I I
+[1:06:25] Yeah, I think if you don't want to,
+[1:06:28] that's okay, too. A few Yeah, I'm
+[1:06:31] probably better to hear it from her. She
+[1:06:34] was the one who sat through all those
+[1:06:36] hours of listening and building
+[1:06:38] relationships for the absenteeism for
+[1:06:41] teachers, what you heard on your tour.
+[1:06:44] Yeah. Um I I think I would say that one
+[1:06:48] of the things that um was lifted up was
+[1:06:53] you know there has been this
+[1:06:55] concentrated uh effort to really
+[1:06:58] highlight the way in which students were
+[1:07:01] impacted during um COVID and um even in
+[1:07:04] their families and how it's impacted
+[1:07:06] their return or even you know them just
+[1:07:11] not uh choosing to to come back. And one
+[1:07:14] of the things that I heard from
+[1:07:15] educators is that there doesn't seem to
+[1:07:17] be that same conversation happening for
+[1:07:20] the adults who um serve in the system.
+[1:07:23] And so I think some folks feel um a
+[1:07:26] little invisible first in the
+[1:07:28] conversation and then just the well
+[1:07:30] well-being of of individuals and the
+[1:07:32] impacts to families I think is um
+[1:07:36] something new. And I think also when we
+[1:07:38] think of of COVID and the impact with
+[1:07:40] the illnesses that uh happened and um
+[1:07:44] those who are um have health
+[1:07:46] sensitivities I think is the term that
+[1:07:48] uh we we learn to use. You know just the
+[1:07:51] impact of that being in contact with
+[1:07:53] germs every day and folks a little bit
+[1:07:55] more aware of the way in which their
+[1:07:58] immune systems are um intact or not.
+[1:08:01] Right. Um I know that there's been a lot
+[1:08:04] of um language around um and a lot of
+[1:08:07] conversation around some of the laws
+[1:08:08] that definitely are uh more supportive
+[1:08:11] for folks to be able to um access leave.
+[1:08:16] I'm approaching approaching it with I'm
+[1:08:18] approaching it with a um assetbased
+[1:08:21] mindset to say that you know our folks
+[1:08:22] aren't well if they're not attending.
+[1:08:25] Um, and we need to make sure that we're
+[1:08:27] centering health and wellness in our
+[1:08:29] work as a system and that we're seeing
+[1:08:31] people and um, understanding why they're
+[1:08:34] not showing up so that we can begin to
+[1:08:37] intervene and and fix where we can fix
+[1:08:40] and offer solutions and support or other
+[1:08:43] options when that's needed. Um, and so
+[1:08:46] that's primarily been the conversation.
+[1:08:49] Um, and it we just have to continue to
+[1:08:51] pay attention to not just learning
+[1:08:53] environments, but work environments as
+[1:08:54] well. And you know, I hope that with the
+[1:08:57] improvement of our infrastructure and
+[1:08:59] some of those things that will just
+[1:09:01] automatically be addressed that that
+[1:09:03] means that our classrooms will be
+[1:09:05] healthier, safer places to be.
+[1:09:08] So, we thank our voters.
+[1:09:11] I I was going to ask if it's informing
+[1:09:13] decisions or planning around um
+[1:09:17] modernization and you know HVAC systems
+[1:09:21] and that sort of thing. Yes. Yes.
+[1:09:23] Absolutely. That's that last sentence
+[1:09:26] about just uh really doing all that we
+[1:09:29] can in an expedited way to make sure
+[1:09:32] that our our classrooms are uh well
+[1:09:34] protected um from germs and airborne uh
+[1:09:39] things. Thank you. Yeah, thank you. Out
+[1:09:43] of curiosity, is there a correlation
+[1:09:45] between start times and absenteeism? And
+[1:09:49] have you seen any shift in the schools
+[1:09:52] and the grades that you you've shifted
+[1:09:54] over the past year? Well, I'm sorry. I
+[1:09:57] can say this. We there there the data
+[1:10:01] does identify more chronic absenteeism
+[1:10:04] in our secondary grades. Um, and so, um,
+[1:10:08] I mean, I haven't I don't have an
+[1:10:11] analysis specifically to start time in
+[1:10:13] relationship to that, but there as far
+[1:10:16] as disparities, there is there is more
+[1:10:18] chronic absenteeism at the secondary.
+[1:10:20] So, middle school and high school level.
+[1:10:23] Um,
+[1:10:25] but I'd have to look more specific. I
+[1:10:26] mean, is there research that that you
+[1:10:28] start later, they're going to more kids
+[1:10:30] are going to come to school for those
+[1:10:31] secondary? Um there was a lot of
+[1:10:34] research prior to the pandemic related
+[1:10:37] to chronic absenteeism. There was a lot
+[1:10:39] of research prior to the pandemic
+[1:10:41] related to dropout
+[1:10:43] um like
+[1:10:46] intervention that was connected to start
+[1:10:49] time. So both of those things um there's
+[1:10:52] since been a lot of research um
+[1:10:56] after the pandemic that has changed some
+[1:10:59] thoughts muddied the waters.
+[1:11:02] Thank you.
+[1:11:05] Um, one one last followup. Um,
+[1:11:08] so during my days as a parent, I know
+[1:11:12] the the the weird weeks with the
+[1:11:15] shortened days either from the bottom or
+[1:11:17] the top were kind of nightmarish to deal
+[1:11:20] with. Um, and I I hear a lot from
+[1:11:25] current parents that the problem has not
+[1:11:28] only not gone away, it may actually have
+[1:11:31] be a little more difficult to deal with.
+[1:11:33] Um, it have you looked at absentee what
+[1:11:37] kind of impact um the the variances in
+[1:11:41] weekly schedule might be having on
+[1:11:43] absenteeism.
+[1:11:47] So, I think you might be talking about
+[1:11:49] um like for example some of our high
+[1:11:51] school schedules with AB schedules and
+[1:11:55] No, no. I'm I'm talking about like, you
+[1:11:57] know, a shortened day. You know, it's a
+[1:11:59] it's a it's a Friday, but we're not
+[1:12:01] having school or that 16, right? The the
+[1:12:06] CBR, it was in the CBRC report, right?
+[1:12:08] 16 out of only, we only have 16 out of
+[1:12:11] 38 weeks that are full five day weeks of
+[1:12:14] school.
+[1:12:15] less than a third. And so I think
+[1:12:19] after CBRC said it and certainly parents
+[1:12:22] are having the conversation because
+[1:12:24] we're regularly, oh this oh Monday's off
+[1:12:26] again. Um you know what are the what's
+[1:12:29] the child care look like? But also like
+[1:12:32] just the momentum in the classroom,
+[1:12:34] right? It gets hard to oh we're back
+[1:12:36] from spring break but Friday and Monday
+[1:12:39] are now off. uh the you know it was like
+[1:12:42] the Wednesday before spring break was a
+[1:12:44] half day, you had a whole week of
+[1:12:46] school, then you had four days uh and
+[1:12:48] then you had a Friday and a Monday off
+[1:12:50] again and then you So I think we're
+[1:12:53] we're just asking what are the what are
+[1:12:55] the conversations around absenteeism
+[1:12:58] um related to kind of full weeks of
+[1:13:00] school? No, I thank you. I appreciate
+[1:13:02] that clarification. I I do know that um
+[1:13:06] over the course of this last year, we
+[1:13:08] have a committee of folks that works to
+[1:13:10] put together that schedule and includes
+[1:13:13] um representation from labor partners
+[1:13:15] and and building leaders and and other
+[1:13:18] folks from the district. And I know that
+[1:13:21] um a significant amount of feedback was
+[1:13:23] gathered um in specifically in
+[1:13:25] relationship to that. And I know that
+[1:13:27] consideration was um involved in
+[1:13:31] development of the schedule moving into
+[1:13:33] next year um and and the impact of not
+[1:13:37] only attendance but just the
+[1:13:38] interruption in instruction. Is it
+[1:13:41] better next year? I know that it
+[1:13:44] directly was I haven't counted I it was
+[1:13:48] directly impactful in the development of
+[1:13:50] the schedule. I Okay. Don't I'll go home
+[1:13:53] and count. Uh,
+[1:13:56] full disclosure, Rita and I both sat on
+[1:13:58] CBRC, so we're champions of your
+[1:14:01] community budget review committee. Todd,
+[1:14:03] I think we've got time for our last
+[1:14:05] question. Great. Thank you, Harmony. We
+[1:14:07] want to talk a little bit about the
+[1:14:08] bond. Congratulations on having the
+[1:14:10] passage of the 2000 May May bond issue.
+[1:14:13] Um, one of the more topical and recent
+[1:14:15] um investments that the school uh board
+[1:14:18] and the district have decided to make
+[1:14:20] are doing seismic improvements. And
+[1:14:22] according to your website, uh you're
+[1:14:25] looking at eight to 10 schools to do
+[1:14:28] seismic improvements that pose the
+[1:14:30] greatest uh risk for a a significant
+[1:14:33] seismic event. However, the number of
+[1:14:35] schools that would be eligible for these
+[1:14:37] kinds of improvements is far greater
+[1:14:39] than the 8 to 10 sites that you've
+[1:14:41] identified on your website. Has have you
+[1:14:44] done a prioritization or will you do a
+[1:14:46] prioritization of which schools will be
+[1:14:48] first in line for these seismic
+[1:14:50] upgrades? Thanks for the question. I'm
+[1:14:53] Stormmy Shanks. I'm the senior director
+[1:14:54] of the Office of School Modernization.
+[1:14:56] Uh yes, we are in the process of that
+[1:14:59] prioritization and planning effort right
+[1:15:01] now. We think of it in three steps. That
+[1:15:03] first step was to identify all the
+[1:15:05] seismic deficiencies across all of our
+[1:15:07] school buildings and that step is
+[1:15:09] complete. Uh that report is available on
+[1:15:12] our website right now from our
+[1:15:13] structural engineer. Um and that report
+[1:15:16] includes a rough uh cost estimate to uh
+[1:15:19] correct those deficiencies.
+[1:15:22] The total cost of that um with all
+[1:15:24] project costs considered would be a
+[1:15:26] little over $1 billion. Um the second
+[1:15:30] step is to have that um our structural
+[1:15:33] engineer is going to take a look at
+[1:15:34] those that accounting of all the
+[1:15:36] deficiencies and provide us with a
+[1:15:38] prioritization that's based on a set of
+[1:15:40] criteria that we've worked with them to
+[1:15:42] develop. uh that criteria is the
+[1:15:46] structural risk score which is
+[1:15:47] calculated based on um FEMA uh standards
+[1:15:52] and so it's based on the year of
+[1:15:53] construction of the building or building
+[1:15:55] parked. Not all of our school buildings
+[1:15:58] were built in one shot and have only one
+[1:16:01] type of structural system. So, it's the
+[1:16:04] um the year of construction of the
+[1:16:06] building part and the structural system
+[1:16:08] type. Uh and then any seismic
+[1:16:11] improvements that have already been
+[1:16:12] completed on those building parts. That
+[1:16:14] would give it kind of a seismic
+[1:16:16] structural risk score. And then we are
+[1:16:18] also factoring in an importance factor
+[1:16:21] that takes into account sort of the
+[1:16:23] occupancy of the space um that the
+[1:16:25] deficiency would affect. So um we would
+[1:16:29] uh an important score on a storage room
+[1:16:31] or a boiler room would be different than
+[1:16:33] that of a a gym or a classroom for
+[1:16:36] example. Um and then the third step
+[1:16:39] would be to take that uh structural
+[1:16:41] engineering evaluation and evaluate it
+[1:16:44] through our own uh PPS priority
+[1:16:46] criteria. Those criteria have not yet
+[1:16:49] been defined, but they would look like
+[1:16:51] things like is this school planned for a
+[1:16:53] consolidation um from our school
+[1:16:56] optimization
+[1:16:57] um efforts that are happening or um
+[1:17:00] looking at kind of the feasibility of
+[1:17:02] completing the project while the school
+[1:17:04] is operating or if it would need um if
+[1:17:06] those students would need to move to a
+[1:17:07] swing site while that um while that
+[1:17:10] construction work is done. So that is
+[1:17:12] kind of the three steps that we think of
+[1:17:15] in this um planning and prioritization
+[1:17:18] phase of the seismic improvement
+[1:17:19] program. So if my numbers are right, you
+[1:17:22] had a billion dollar identified and you
+[1:17:24] have maybe 10 12% available in the bond
+[1:17:28] proceeds at least initially. So um if
+[1:17:30] you find the need greater, would you be
+[1:17:32] looking at other resources within the
+[1:17:34] bonded authority to do more seismic work
+[1:17:37] than what had initially been planned? So
+[1:17:40] we um there are other sources of funding
+[1:17:44] available. We do get seismic retrofit
+[1:17:46] grants um from the state from time to
+[1:17:49] time. Those are um limited in their
+[1:17:52] amount and how many we're eligible for
+[1:17:54] per year. So, we'll always be pursuing
+[1:17:57] those grants to augment the bond funding
+[1:18:01] and then to um
+[1:18:04] so I think part of the other question is
+[1:18:06] could we allocate more of the 2025 bond
+[1:18:08] funds to the seismic improvements then
+[1:18:12] um are there trade-offs that would be
+[1:18:15] available to do that? Yeah. So, you
+[1:18:17] know, the answer is yes, that the board
+[1:18:20] could decide to prioritize
+[1:18:22] um more 2025 bond funding for seismic
+[1:18:26] improvements. Um the tradeoffs would be
+[1:18:29] that um you know, we have a facilities
+[1:18:32] condition assessment that has identified
+[1:18:35] um over $1 billion worth of uh
+[1:18:38] deficiencies in our existing conditions
+[1:18:40] for our buildings. Um and it has um
+[1:18:45] it it characterizes the average uh
+[1:18:48] facility condition of our schools as
+[1:18:50] poor. Um in order to maintain an Is that
+[1:18:55] a scale of 10? What's that? Is that a
+[1:18:57] four out of 10? Poor P O R. Sorry.
+[1:19:02] Yep. Um sure. It's poor on a scale of
+[1:19:05] 10. Um so the in order to maintain a an
+[1:19:09] existing u facilities condition we need
+[1:19:13] to engage in a program of capital
+[1:19:16] improvement because every year more
+[1:19:18] things would be added to the deficiency
+[1:19:20] uh list if we do nothing. So that um
+[1:19:23] staff estimates that that would be $150
+[1:19:26] million annual um capital improvement
+[1:19:29] program to maintain that poor condition
+[1:19:32] um average. Um what's that? Maintain Y
+[1:19:36] maintain a poor condition. Yes. And then
+[1:19:38] we also have our um long range
+[1:19:40] facilities plan that identifies high
+[1:19:43] priority improvements that don't
+[1:19:45] actually address existing conditions at
+[1:19:47] all. So those are things like um like
+[1:19:49] adding cooling, improving our athletics
+[1:19:52] uh facilities
+[1:19:53] um and improving the kind of educational
+[1:19:57] um how well our buildings um facilitate
+[1:20:01] the educational goals that we have. Um
+[1:20:05] and those are things that are not
+[1:20:06] addressed in a facilities condition
+[1:20:08] assessment for example and neither is
+[1:20:10] seismic actually. Um, and so the that
+[1:20:13] that scope of work would cost many
+[1:20:16] billions of dollars to address. And the
+[1:20:19] uh 2025 bond planning documents allocate
+[1:20:23] $190 million to deferred scope or
+[1:20:26] deferred maintenance and priority scope
+[1:20:28] items. And the seismic improvements are
+[1:20:31] a subcategory of that. So the tradeoff
+[1:20:35] would be we could spend more uh money on
+[1:20:39] seismic improvements that would leave
+[1:20:40] less available to um correct significant
+[1:20:45] deficiencies that are going to affect
+[1:20:47] the operation of our schools.
+[1:20:51] Um, so when you when you get to the
+[1:20:53] point of prioritizing for the seismic
+[1:20:55] work, um,
+[1:20:57] do you anticipate uh working um or at
+[1:21:01] least consulting with the the county and
+[1:21:04] the city about strategic priorities for
+[1:21:08] seismic resilience?
+[1:21:11] We we don't have that on our plan right
+[1:21:14] now. Um for for a while
+[1:21:18] I mean my info is old but for a while we
+[1:21:21] were doing um sort of active
+[1:21:24] collaboration with the emergency
+[1:21:26] management bureaus in both the county
+[1:21:28] and the city. Mhm. Um, has that
+[1:21:30] continued and are is that going to
+[1:21:33] factor at all? Because I can imagine
+[1:21:35] there might be like strategic locations
+[1:21:38] where upgrading the seismic resilience
+[1:21:41] of a particular school might be much
+[1:21:45] more consequential than someplace else.
+[1:21:48] um that that work has continued more in
+[1:21:51] our modernizations as we strategize
+[1:21:54] about the level of resiliency that we
+[1:21:57] are including in those projects for the
+[1:22:00] particularly for the high schools. Um
+[1:22:03] and because this work of uh the 2025
+[1:22:07] bond seismic improvement program is just
+[1:22:09] beginning, we haven't um we haven't sort
+[1:22:12] of conceptualized what that might look
+[1:22:13] like yet.
+[1:22:14] Alison's gonna have our last I have a
+[1:22:16] just a quick followup about facilities
+[1:22:18] like in that larger pool of funds that
+[1:22:19] you mentioned in terms of maintenance.
+[1:22:21] Does that account for any issues that
+[1:22:24] might come up like two years ago we saw
+[1:22:26] the ice storm that destroyed essentially
+[1:22:27] schools? And so I'm wondering like as we
+[1:22:29] move forward with climate change and
+[1:22:30] natural disasters occurring like that.
+[1:22:32] Um you know is that part of that funding
+[1:22:34] pool that would have some funds
+[1:22:36] allocated towards yes you know
+[1:22:38] contingencies like that? Yes. So, the
+[1:22:40] board's resolution that prioritized
+[1:22:42] seismic uh improvements also um noted
+[1:22:47] that the the first priority for those
+[1:22:49] deferred maintenance and priority scope
+[1:22:51] funds identified in the 2025 bond
+[1:22:54] planning documents is a $100 million
+[1:22:58] um set aside for endof life replacements
+[1:23:02] and essentially things that are about to
+[1:23:05] um affect our ability to to um operate
+[1:23:08] as a as a school building. So that
+[1:23:11] that's part of that amount is um
+[1:23:14] addressing those things that are going
+[1:23:15] to basically keep us from having
+[1:23:17] students in buildings. Yeah. Okay.
+[1:23:20] That'll close our discussion for
+[1:23:22] tonight. Thank you so much. Uh and thank
+[1:23:24] you to everyone. Obviously not easy
+[1:23:27] topics. Um we appreciate the
+[1:23:30] transparency and thoughtfulness with
+[1:23:32] which you've engaged with us and with
+[1:23:33] the public as a whole. um as we kind of
+[1:23:36] move through the hard uh for the
+[1:23:40] foreseeable future. So, we have a little
+[1:23:42] business to do. So, I will close the
+[1:23:44] hearing and open a regular business
+[1:23:46] meeting of the TSTC. Commissioners, do
+[1:23:48] you have any additional comments on the
+[1:23:50] budget?
+[1:23:51] Okay. Uh Leer, can you please provide
+[1:23:54] the staff recommendation for the
+[1:23:55] certification letter? Uh yes, and first
+[1:23:58] just a huge thank you to PPS budget and
+[1:24:01] finance staff. We so appreciate your
+[1:24:03] partnership through the budget process
+[1:24:05] and throughout the year. We know uh as
+[1:24:07] the superintendent mentioned earlier
+[1:24:09] that it has been a challenging last
+[1:24:11] couple of years and just the
+[1:24:12] professionalism and diligence has been
+[1:24:14] so clear. Uh we as staff found the
+[1:24:17] budget estimates to be reasonable for
+[1:24:18] the purposes stated and in substantial
+[1:24:20] compliance with budget law. Staff
+[1:24:22] suggests no recommendations or
+[1:24:24] objections to the fiscal year 2526
+[1:24:27] approved budget. Thank you. May I have a
+[1:24:30] motion authorizing the commission to
+[1:24:32] sign the certification letter with no
+[1:24:34] objections or recommendations as
+[1:24:36] recommended by staff?
+[1:24:39] I'll move. I'll second. All in favor,
+[1:24:41] please say I. I. I. The PPS budget for
+[1:24:45] 2526 is so certified by TSC. Allegra
+[1:24:49] follows up right away with our
+[1:24:50] certification letter so you can package
+[1:24:52] everything for your budget adoption. We
+[1:24:54] wish you the best of luck through the
+[1:24:56] rest of the budget cycle um and through
+[1:24:58] the hard times ahead. We'll try and stay
+[1:25:01] optimistic like like your superintendent
+[1:25:05] continues to be.

@@ -1,0 +1,2050 @@
+# 2026-02-05 Board of Education's Audit Committee
+# Video: https://www.youtube.com/watch?v=GUddTQ3Kx30
+# Source: YouTube captions (asr, en), fetched 2026-10-11T00:25:16.226Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2026-02-05_GUddTQ3Kx30.txt
+# BoardBook meeting(s): 2026-02-05|730080
+# Link to a moment: https://www.youtube.com/watch?v=GUddTQ3Kx30&t=<seconds>s
+
+[0:00:00] All right. Um, hello everyone. This is
+[0:00:04] much better than our first audit
+[0:00:05] committee meeting when I had to start
+[0:00:07] all by myself because everybody had
+[0:00:09] problems with traffic. So, welcome
+[0:00:12] everyone.
+[0:00:14] It's 5:00 and so I'd like to call the
+[0:00:17] audit committee meeting to order. Thank
+[0:00:20] you all for being here. We have a full
+[0:00:22] agenda today. So, I would like to get
+[0:00:24] started with introductions. My name is
+[0:00:26] Patty Sullivan. I am a board member and
+[0:00:30] the chair of this audit committee.
+[0:00:32] Starting to my right,
+[0:00:35] let's go start with Mary Katherine and
+[0:00:37] we'll come around.
+[0:00:45] >> Janice Hansen,
+[0:00:47] PPS internal auditor.
+[0:00:50] >> Eban Cole, district student council
+[0:00:52] representative.
+[0:00:54] >> Stephanie [Engelsman], uh, zone 6
+[0:00:56] representative.
+[0:01:00] be me. Uh Christy [Splitt], I live in
+[0:01:03] Southwest Portland.
+[0:01:05] Jennifer Samuels, she her and I'm a
+[0:01:07] community member.
+[0:01:10] Caroline [Zavitkovski], she her. I'm also a
+[0:01:13] community member.
+[0:01:15] Michelle Morrison, chief financial
+[0:01:16] officer for the district.
+[0:01:19] >> Okay. Thank you everyone. and um
+[0:01:22] Stephanie and Christy, you're also board
+[0:01:25] members and members of the committee.
+[0:01:28] So um
+[0:01:32] let's see.
+[0:01:36] So on the agenda today, we're going to
+[0:01:38] start with public testimony. Then we
+[0:01:41] will have a presentation of audit
+[0:01:43] results of the district's annual
+[0:01:45] comprehensive financial report and
+[0:01:47] single audit. and we'll wrap up the
+[0:01:49] meeting with a presentation of the
+[0:01:51] multilingual learners English language
+[0:01:54] development compliance audit. Miss
+[0:01:57] Bradshaw, do we have anyone signed up
+[0:01:58] for public comment?
+[0:01:59] >> We do not.
+[0:02:01] >> All right, we can go on.
+[0:02:04] The first item on our agenda, as I said,
+[0:02:07] is a presentation of the audit results
+[0:02:09] of the district's annual comprehensive
+[0:02:11] financial report, commonly abbreviated
+[0:02:14] to the ACFR,
+[0:02:17] and the single audit, which is an audit
+[0:02:19] of compliance with federal grant
+[0:02:21] requirements.
+[0:02:23] Oregon state law states in part that all
+[0:02:26] school boards will have an annual
+[0:02:28] independent audit performed in a manner
+[0:02:30] set forth in the Oregon revised statutes
+[0:02:34] OS 328.465
+[0:02:37] and a copy of the audit report must be
+[0:02:40] shared with the district board. Today we
+[0:02:43] have chief financial officer Michelle
+[0:02:45] Morrison here with an independent
+[0:02:48] auditor Dan Miley who is a partner at
+[0:02:51] TKW
+[0:02:53] which is Talbert Corvola and Warick
+[0:02:56] the accounting firm we contract with to
+[0:02:58] perform the required audits. Chief
+[0:03:01] Morrison, would you please introduce
+[0:03:03] this topic?
+[0:03:04] >> Yes, thank you so much. Thank you for
+[0:03:06] your time this evening and attention to
+[0:03:07] this matter. Do want to kind of start
+[0:03:09] with a bit of an introduction. And I
+[0:03:12] know that Cara's getting our
+[0:03:13] presentation up on screen. Um do just to
+[0:03:17] acknowledge the late date of this
+[0:03:19] report. It's typical that this comes to
+[0:03:21] the board sometime in December or even
+[0:03:25] January for the prior year which ends in
+[0:03:27] June uh 30th the prior year. So we are
+[0:03:31] aware that this particular process has
+[0:03:34] gone differently in terms of timeline
+[0:03:36] for various reasons and our auditor is
+[0:03:39] going to share some information about
+[0:03:40] that with you. So we'll go ahead and get
+[0:03:42] started.
+[0:03:45] See if I can
+[0:03:47] navigate
+[0:03:51] our familiar slides. Always a little bit
+[0:03:53] of a wow.
+[0:03:57] Our presentation tonight is two-part. I
+[0:03:59] have a kind of the overarching
+[0:04:01] presentation with our auditor Dan Miley
+[0:04:04] um taking up the next little bit to
+[0:04:06] explain uh an overview of the process
+[0:04:10] and the engagement and the things that
+[0:04:12] they do as their work with us as a team.
+[0:04:15] So with that, I'm going to turn it over
+[0:04:16] to Dan. Thank you.
+[0:04:19] >> Good evening. Uh
+[0:04:22] the financial statement audit and the
+[0:04:24] single audit definitely um had some
+[0:04:26] challenges this year, but we made it
+[0:04:27] through. got it done. Um, I'd like to
+[0:04:31] thank uh Michelle, Rachel, and all the
+[0:04:35] staff and within the finance department,
+[0:04:37] but also um we talk with people
+[0:04:40] throughout the district um and with the
+[0:04:43] board and like that. So, we do a lot of
+[0:04:46] work um
+[0:04:49] to get to this point. Um we use um what
+[0:04:53] we call gas um
+[0:04:56] um auditing standards generally accepted
+[0:04:59] in the United States of America and then
+[0:05:01] also another form of gas is government
+[0:05:04] auditing standards which is those um put
+[0:05:07] out by the federal government the
+[0:05:08] controller general of the United States.
+[0:05:11] in timing. Um we start before interim
+[0:05:15] fieldwork with talking with finance
+[0:05:17] department getting schedules together
+[0:05:20] sort of developing the plan. Um then at
+[0:05:23] interim that which started in May this
+[0:05:25] year we came out with a team um more
+[0:05:29] questions. Um we started doing some risk
+[0:05:33] assessments getting an understanding of
+[0:05:35] internal controls and then testing um
+[0:05:39] those controls. Um, and then beginning
+[0:05:42] to start, well, we try to start on
+[0:05:44] single audit, which we'll get to a
+[0:05:46] little bit later. Um, and then final
+[0:05:48] field work, we came out again to the
+[0:05:50] district. Um,
+[0:05:53] and we're here for 3 weeks in person and
+[0:05:56] then of course continued on remotely
+[0:05:59] that this was the first year since the
+[0:06:03] pandemic that I think we were back on
+[0:06:05] site pretty much full-time during the
+[0:06:08] audit fieldwork time. So that definitely
+[0:06:10] helped in um some circumstances.
+[0:06:14] Um there was a delay in getting um the
+[0:06:18] office of management and budget
+[0:06:19] compliance supplement. This is sort of
+[0:06:21] the road map for the single audit. This
+[0:06:23] has what the federal government wants us
+[0:06:24] to look at with all the federal
+[0:06:26] expenditures
+[0:06:27] um program. So without it we sort of
+[0:06:31] don't know what the federal government
+[0:06:32] wants us to do with it. We had a draft
+[0:06:35] and then went back and forth of whether
+[0:06:36] there was going to be changes, no
+[0:06:38] changes, how that was going to go
+[0:06:39] through. Um, and it did not come out
+[0:06:42] till the end of November, which when we
+[0:06:45] were planning on doing this work in
+[0:06:47] October,
+[0:06:49] there could be some timing difference
+[0:06:51] differences there, you can imagine. But
+[0:06:53] we got it, we worked through that. Um,
+[0:06:56] the single audit um was three major
+[0:06:59] programs this year. uh child nutrition
+[0:07:01] cluster, title one, and for the last
+[0:07:04] year, I think the education
+[0:07:06] stabilization fund. Um those were the
+[0:07:08] COVID um monies that came out. Um all
+[0:07:12] said, those three programs represented
+[0:07:15] 47% of the $64 million of federal
+[0:07:18] expenditures that the district had for
+[0:07:19] the fiscal year.
+[0:07:24] Um I am happy to report that at the end
+[0:07:27] of this um we were able to issue an
+[0:07:30] unmodified opinion which means that the
+[0:07:32] financial statements are in our opinion
+[0:07:34] are presented fairly in accordance with
+[0:07:35] the US GAP um generally accepted
+[0:07:38] accounting principles.
+[0:07:40] um part of the audit um part of what we
+[0:07:44] call MS uh Oregon minimum standards
+[0:07:48] um which is Oregon state regulations
+[0:07:50] regarding um what governments in Oregon
+[0:07:54] need to do as part of the audit. There
+[0:07:56] are certain things that we need to test.
+[0:07:57] Some of these go over
+[0:08:00] um Oregon local budget law, purchasing
+[0:08:04] um external use of funds,
+[0:08:07] um ADM, those types of things.
+[0:08:11] Um during the course of our our work,
+[0:08:14] there was three findings that um we had
+[0:08:18] to report in the
+[0:08:22] in our report. Um
+[0:08:25] in accordance with uh Oregon State
+[0:08:27] Regulations,
+[0:08:28] um there was two instances of
+[0:08:30] overexpendures.
+[0:08:32] um one in the general fund for for
+[0:08:34] instruction by about 4.1 million and
+[0:08:38] then one in the special revenue fund for
+[0:08:40] support services of about 3.6 million.
+[0:08:44] Um the second one was
+[0:08:48] sort of a process driven thing. Um there
+[0:08:52] was a supplemental budget that was
+[0:08:53] passed by the district, but it used the
+[0:08:57] rules and the process set forth for a
+[0:09:00] budget transfer resolution. So a
+[0:09:02] supplemental budget normally requires a
+[0:09:05] little bit more formal notifications and
+[0:09:07] that kind of stuff. So um it was just
+[0:09:10] something that we noted. And the last um
+[0:09:14] finding that we have um related to
+[0:09:17] teacher experience. This one pops up
+[0:09:19] every once in a while. It's not an
+[0:09:21] uncommon one for school districts just
+[0:09:23] because of how when teachers move around
+[0:09:26] from one school district to another when
+[0:09:27] they get hired they may not have all the
+[0:09:29] information. OD is changing information
+[0:09:31] in the background sometimes.
+[0:09:34] Um so out of the population of almost
+[0:09:38] 2900 teachers that we that you guys have
+[0:09:42] um we selected 60 and four of those had
+[0:09:45] issues. Um
+[0:09:49] >> can I ask if we have a question?
+[0:09:51] >> Yeah.
+[0:09:51] >> Can we ask you?
+[0:09:52] >> Yes. Sorry I started. Yeah.
+[0:09:54] >> Okay. Um, I just wondered with that
+[0:09:56] supplemental budget.
+[0:09:58] >> Yeah,
+[0:09:58] >> I thought I had read
+[0:10:00] >> that if it wasn't over a certain amount,
+[0:10:03] you could just do a transfer, but it
+[0:10:05] sounds like you're saying
+[0:10:06] >> um
+[0:10:06] >> should have done something else.
+[0:10:08] >> So, any time that you change
+[0:10:10] appropriations
+[0:10:11] up or down, and that's what triggered
+[0:10:15] this is that you actually reduced
+[0:10:16] appropriations,
+[0:10:19] um, a supplemental budget is needed. So,
+[0:10:22] it's one of those little things people
+[0:10:24] are like, "Well, we're lowering
+[0:10:25] appropriations. What's the risk?" And
+[0:10:27] so, it's it's not the first client I've
+[0:10:29] run into where something like this has
+[0:10:31] happened.
+[0:10:33] >> U most people get the increase of
+[0:10:35] appropriations.
+[0:10:37] >> Would you mind just I would just
+[0:10:38] appreciate kind of hearing this again
+[0:10:40] because it sounds like something we
+[0:10:43] maybe made a mistake in as a board. So,
+[0:10:46] did the did we just not have it come to
+[0:10:49] us to vote either way or did we use the
+[0:10:51] wrong process to do it or how how did we
+[0:10:54] do it and what do you recommend in the
+[0:10:55] future very specifically?
+[0:10:56] >> Um, thanks.
+[0:10:58] >> The board voted on it. Um, but there's
+[0:11:01] whenever you change a budget, state law
+[0:11:04] has two different ways you can do it. on
+[0:11:07] what they call a budget transfer, which
+[0:11:10] is general notice but not um as formal
+[0:11:15] and then a supplemental budget and that
+[0:11:17] requires certain publications within
+[0:11:20] certain time frames. Um we did discuss
+[0:11:25] this with finance staff and
+[0:11:28] um gave them some resources on okay
+[0:11:31] here's the process to follow in the
+[0:11:32] future. Um, so I think everybody's
+[0:11:37] >> So we don't need to know that much about
+[0:11:38] it. Yeah.
+[0:11:39] >> As long as we
+[0:11:40] >> Yeah. Well, it's sort of it it's what
+[0:11:43] needs to happen before it goes to the
+[0:11:45] board. So it's more of the did it get
+[0:11:47] published
+[0:11:49] correctly with the within the right time
+[0:11:51] frames. Um that type of thing.
+[0:11:55] >> And is there an amount threshold or
+[0:11:56] anything like that or it's just any time
+[0:11:58] there's a
+[0:12:00] >> um
+[0:12:00] >> decrease? So, anytime there's a change
+[0:12:02] in appropriations, a supplemental budget
+[0:12:04] is needed or I think now I'm doing it
+[0:12:08] out of memory, 15% of operating
+[0:12:13] contingencies are moved out. Oh, so 15%
+[0:12:16] of appropriations are moved out of
+[0:12:18] operating contingencies. That would also
+[0:12:20] need a supplemental budget.
+[0:12:21] >> Okay, thanks. So,
+[0:12:27] Moving
+[0:12:36] on to the single audit. Um part of the
+[0:12:40] single audit is we also have to issue uh
+[0:12:44] a report on internal controls over
+[0:12:46] financial reporting. Um
+[0:12:50] and as part of that there was one
+[0:12:52] significant deficiency that we noted um
+[0:12:54] over financial reporting um and it just
+[0:12:58] had to do with there was a number of
+[0:13:00] different state grants and federal
+[0:13:03] grants that sort of crossed um
+[0:13:07] they were just recorded in the wrong
+[0:13:08] bucket and it they had to move it
+[0:13:10] around. Um and then some timing issues
+[0:13:14] as well. Um
+[0:13:17] so so that was the one on um internal
+[0:13:21] control and that actually was repeated
+[0:13:23] as a
+[0:13:25] um
+[0:13:26] as a internal control finding over
+[0:13:28] compliance as one of the six down below
+[0:13:30] because it also impacted your schedule
+[0:13:33] of um federal expenditures. So what we
+[0:13:36] use as the basis for the single audit to
+[0:13:38] know what programs to audit. Um so
+[0:13:41] whenever that starts moving that gets us
+[0:13:44] a little nervous as well. Um
+[0:13:48] for the single audit the three major
+[0:13:50] programs that we audited there's an
+[0:13:53] unmodified opinion that we believe that
+[0:13:55] they're in substantial compliance with
+[0:13:57] federal regulations.
+[0:13:59] the I don't while there's six
+[0:14:01] deficiencies up there, it's other than
+[0:14:05] the one that we just talked about,
+[0:14:06] there's only three others, three of them
+[0:14:09] are the same issue but related to each
+[0:14:11] major program. Um, and we just have to
+[0:14:14] re repeat it because each program is
+[0:14:17] sort of its own independent what we call
+[0:14:19] mini audit.
+[0:14:21] Um, the one that crossed over all three
+[0:14:24] was indirect.
+[0:14:26] Um and while there was an error in
+[0:14:29] indirect charges that very small and it
+[0:14:32] was corrected and so there was no
+[0:14:34] compliance issues but there was no
+[0:14:37] documentation of
+[0:14:40] review and approval of those um indirect
+[0:14:44] charges in those calculations.
+[0:14:46] The person that made them has no long
+[0:14:50] was has moved on was no longer with the
+[0:14:52] district. So, we're thinking
+[0:14:55] they're somewhere in an email, maybe
+[0:14:57] hopefully. Um, but because the district
+[0:15:00] couldn't provide the documentation,
+[0:15:01] unfortunately, in the single audit
+[0:15:03] world, if you don't document it, we
+[0:15:05] can't say it happened.
+[0:15:07] Um, and that's actually sort of the
+[0:15:09] common theme with the next one as well.
+[0:15:12] Um, related to there was one about
+[0:15:16] um reporting with the education
+[0:15:18] stabilization fund. um just the report
+[0:15:21] was submitted on time. We found no
+[0:15:25] issues with the numbers in the report,
+[0:15:26] but we couldn't find any documentation
+[0:15:29] of the review and approval before it
+[0:15:31] went. Um
+[0:15:34] and the last one, and this one was noted
+[0:15:37] also by OD during a a program review of
+[0:15:40] title one, was just time and effort
+[0:15:43] certifications or some acceptable
+[0:15:45] alternative. The district wasn't keeping
+[0:15:48] track of those.
+[0:15:50] Um,
+[0:15:51] and then I know that Michelle and
+[0:15:53] Rachel, they have been working on uh the
+[0:15:56] corrective action plan. And so I think a
+[0:16:00] lot of that place is is relatively easy
+[0:16:04] fixes and just making sure that
+[0:16:06] documentation is kept and the processes
+[0:16:08] are in in place, which I'm assuming you
+[0:16:12] guys will get to in a little bit.
+[0:16:19] Um, anything else before moving on about
+[0:16:22] the audit, single audit,
+[0:16:25] anything?
+[0:16:26] Okay. Some other required um
+[0:16:29] communications is um there's some
+[0:16:33] significant accounting practices
+[0:16:35] policies. These are listed in the notes
+[0:16:37] that sort of go over how they came
+[0:16:40] about. One of the major changes um to
+[0:16:43] the district's financial statements this
+[0:16:45] year was um the implementation of what
+[0:16:47] we call Gazsby Statement 101. So the
+[0:16:50] government accounting standards board is
+[0:16:51] what Gazsby stands for. And it had to do
+[0:16:54] with compensated ampses. So it changed
+[0:16:57] it from
+[0:16:59] historically governments had to record
+[0:17:01] what they would pay out. So this would
+[0:17:04] be like vacation time, somebody leaves
+[0:17:05] the district, you have to pay that out.
+[0:17:08] They tweaked the wording to either paid
+[0:17:10] out or used to try and match up when the
+[0:17:14] benefit was earned to the period to the
+[0:17:17] same period that expense. Um so
+[0:17:22] it now includes sick time. So the impact
+[0:17:26] to the district's financial statements
+[0:17:28] was approximately $42 million increase
+[0:17:32] in the compensated absence liability to
+[0:17:34] account for that sick time that um the
+[0:17:37] district estimates will be used um over
+[0:17:40] the course of uh teachers
+[0:17:44] um employment.
+[0:17:46] >> Um
+[0:17:47] >> so so was that not not recorded at all
+[0:17:51] or recorded in the wrong place? um that
+[0:17:55] is a new accounting standard. So, so
+[0:17:58] there was a piece of it that was
+[0:18:00] recorded. So, your vacation time has
+[0:18:02] always been recorded. Now, there's sick
+[0:18:04] time layered on top of this. I like to
+[0:18:07] say that reality didn't change for you
+[0:18:09] guys just how the scorekeeping
+[0:18:12] goes. So, it just changed a little bit
+[0:18:15] and made it a little bit more visible
+[0:18:16] that in addition to this vacation time
+[0:18:19] that district employees have, there's
+[0:18:21] also this sick time that that um
+[0:18:25] employees have that is going to be used
+[0:18:27] and when they're using it, they are
+[0:18:29] providing no services to the district
+[0:18:31] because they're on a leave. Um they also
+[0:18:33] cover some other types of leave, but
+[0:18:35] those are relatively minimal for the
+[0:18:37] district. they would in they set out
+[0:18:39] rules for like parental leave u military
+[0:18:42] leave um jury duty even is came up in
+[0:18:45] the standard. So all these smaller types
+[0:18:49] of things as well.
+[0:18:50] >> Yes. So I just want to be clear they we
+[0:18:55] know that we spent that money.
+[0:18:57] >> We just had it in different spots.
+[0:18:59] >> Well no this money has not been spent
+[0:19:01] yet. This is an incurred liability. So
+[0:19:04] this is what you think you're going to
+[0:19:06] pay on sick leave in the future.
+[0:19:09] >> Sorry. [laughter]
+[0:19:12] >> All right. Thank you.
+[0:19:12] >> So So yeah. So this isn't necessarily an
+[0:19:15] error that was done. This is just
+[0:19:18] >> um the accounting rules changed on you.
+[0:19:23] [clears throat]
+[0:19:23] >> Can I ask a followup just I understand
+[0:19:25] it. The accounting rules change I think
+[0:19:26] this is maybe what Patty was asking. So
+[0:19:28] the accounting rules changed but the
+[0:19:30] budget didn't change. So it's not like
+[0:19:32] we had to find 42 extra million. It was
+[0:19:35] just how it's being
+[0:19:36] >> Yeah. Okay.
+[0:19:37] >> And these are being um what we call on
+[0:19:40] the entitywide basis. So the
+[0:19:43] governmental activity. So they aren't so
+[0:19:45] these aren't being recorded at the fund
+[0:19:46] basis until they're actually used, which
+[0:19:48] is historically how they've been
+[0:19:49] recorded by the district. So when you
+[0:19:51] actually pay the money, that's when it
+[0:19:52] shows up in the at the fund level on the
+[0:19:55] budgetary basis.
+[0:20:03] Yeah, we like to split hairs every once
+[0:20:05] in a while. [laughter]
+[0:20:09] >> But I this did come up with I mean a new
+[0:20:12] way of calculating, a new methodology, a
+[0:20:13] new way of thinking for everyone. I this
+[0:20:16] isn't just a a PPS issue. This is every
+[0:20:19] single government in the United States
+[0:20:21] now has to take this into account in
+[0:20:24] their financial reports. So this is
+[0:20:25] everybody
+[0:20:27] if it not that it makes it everybody
+[0:20:29] feel better but
+[0:20:34] um the other standard um had a minimal
+[0:20:37] impact on the district. Um there's now a
+[0:20:42] standard that if there's certain risks
+[0:20:44] that the district is experiencing or
+[0:20:46] they believe is going to experience in
+[0:20:50] the near future, those have to be
+[0:20:51] disclosed.
+[0:20:53] Um, and this is
+[0:20:56] more than a material impact. I the
+[0:21:00] wording is a little strange in the um in
+[0:21:02] the standard but more than a material
+[0:21:05] impact on the operations or financial
+[0:21:09] condition of the district. So this would
+[0:21:10] be
+[0:21:12] um one of the the examples that they use
+[0:21:15] in the standard is
+[0:21:17] you have 90% plus of your employees
+[0:21:20] belong to a union and they go on strike
+[0:21:23] that would significantly impact the
+[0:21:25] operations of a government. So that
+[0:21:27] would be something that would be
+[0:21:28] disclosed in that um management went
+[0:21:32] through this with a new standard
+[0:21:34] evaluated it and it's their belief that
+[0:21:36] nothing rose to that level. We aren't
+[0:21:39] aware of anything that would raise to
+[0:21:40] that level either.
+[0:21:43] Um and then there's
+[0:21:47] as always significant accounting
+[0:21:48] estimates are used um in the financial
+[0:21:52] statements. You can see the list there.
+[0:21:54] But whenever an estimate is made, it
+[0:21:57] gives an opportunity to um for
+[0:22:01] management to introduce bias. Not saying
+[0:22:03] that we found any, but it's one of those
+[0:22:05] things that it's a higher risk because
+[0:22:07] you have to make a judgment. Do we use
+[0:22:09] option A or option B? And so it's
+[0:22:12] something that we always encourage
+[0:22:15] um audit committees, boards, and all to
+[0:22:17] take a closer look at some of those
+[0:22:18] things to make sure they make sense and
+[0:22:20] ask questions if they don't. Um just to
+[0:22:23] make sure that hey, there's not
+[0:22:26] something that is tilting one way or
+[0:22:28] another, that it's all sort of okay,
+[0:22:30] that all makes sense to me.
+[0:22:36] Um in the letter that was provided um in
+[0:22:40] the communications to those charged with
+[0:22:42] governance letter that we called of the
+[0:22:43] audit results there's um
+[0:22:47] four um proposed adjusting entries.
+[0:22:49] Those sort of go with the um controlled
+[0:22:52] deficiencies that we already talked
+[0:22:54] about. So I won't go into any of those
+[0:22:56] too much unless somebody wants to. Um
+[0:22:59] there is two uncorrected misstatements.
+[0:23:02] Um one involved a proposed journal
+[0:23:06] entry. So when we take a sample um if we
+[0:23:09] find an error we have to project an
+[0:23:11] error. Um the district created or the
+[0:23:15] district fixed the error that we found
+[0:23:17] but we still have this projected error.
+[0:23:19] It's not material. We agree with um
+[0:23:22] management in that respect, but it's
+[0:23:25] still large enough that we have to
+[0:23:28] include the in our communications
+[0:23:31] um just to let you know that hey, there
+[0:23:33] might be something more out there. The
+[0:23:36] other one, and this I don't think has
+[0:23:39] happened very often here at PPS, is the
+[0:23:45] local government investment pool should
+[0:23:48] be stated at fair value. Every year the
+[0:23:52] the state of Oregon um which I'm just
+[0:23:56] going to call LJIP just easier um puts
+[0:24:00] out financial statements for this pool
+[0:24:02] and gives a
+[0:24:05] a fair market adjustment should make but
+[0:24:08] it operates more like a money market
+[0:24:09] account. If a dollar's in there the
+[0:24:11] district will never be able to pull out
+[0:24:13] more than that dollar that's in there.
+[0:24:15] and it just again raised above that
+[0:24:17] threshold that went hey it's not fair
+[0:24:19] market value for one fund um just
+[0:24:21] because of the large dollar amount in
+[0:24:24] there with a with a smaller activity
+[0:24:26] this year it just ra got outside of
+[0:24:28] those thresholds. So that difference
+[0:24:30] between what was recorded in the LGIP
+[0:24:33] account and what was um
+[0:24:36] what should have been there when you
+[0:24:38] account for this fairer value factor
+[0:24:40] that gets published was there not once
+[0:24:43] again not material
+[0:24:45] But it was outside of our threshold that
+[0:24:47] we have to report that
+[0:24:48] >> I have a quick question. Sorry.
+[0:24:50] >> Yeah.
+[0:24:50] >> Um the letter that you just mentioned to
+[0:24:54] those charged with governance, is that
+[0:24:55] in the packet
+[0:24:57] or is it separately attached?
+[0:25:00] >> I don't I didn't notice that packet.
+[0:25:02] >> Okay.
+[0:25:03] >> Or I didn't notice the letter.
+[0:25:05] >> Okay.
+[0:25:06] >> To those charged with governance in the
+[0:25:08] packet.
+[0:25:10] >> I'm not sure that it's in the audit
+[0:25:11] committee. It may have gone to the full
+[0:25:13] board in that packet.
+[0:25:16] >> Oh, so we'll we'll double check on that.
+[0:25:19] >> Okay.
+[0:25:25] >> Um
+[0:25:26] >> I had a quick question about uh you were
+[0:25:28] mentioning fair value in the investment
+[0:25:30] fund. How is that determined?
+[0:25:32] um the
+[0:25:34] the um state of Oregon um create as part
+[0:25:39] of their um audited financial statements
+[0:25:42] develops what that is and what they
+[0:25:44] stated it at. So their financial
+[0:25:47] statements have it at fair value and
+[0:25:48] then they just go here's the calculation
+[0:25:50] to get from what we say you have to
+[0:25:52] where we got.
+[0:25:54] >> Thank you.
+[0:25:54] >> So and it's relatively small. It's like
+[0:25:58] 0.049%
+[0:26:00] or something some small percentage like
+[0:26:03] that.
+[0:26:05] So
+[0:26:06] >> just to to go back to the letter, it is
+[0:26:09] posted with the materials and board book
+[0:26:11] for this meeting. That letter
+[0:26:17] >> the 2025 communications with those
+[0:26:19] charged with governance letter that was
+[0:26:22] referenced here is in board book as part
+[0:26:24] of the materials. Okay. Any
+[0:26:34] other questions?
+[0:26:36] >> Can I ask uh did I hear you say that
+[0:26:39] those like the journal entry adjustments
+[0:26:41] and the misstatements were related back
+[0:26:43] to the findings or
+[0:26:46] >> Yeah. So the whenever we have a proposed
+[0:26:50] adjusting journal entry the assumption
+[0:26:53] normally is that there was a a control
+[0:26:56] deficiency somewhere. Um
+[0:27:00] so
+[0:27:02] let me see here. So like there's an
+[0:27:04] adjusting entry to correct revenue
+[0:27:06] balances. Well, that relates to the to
+[0:27:09] the federal and state monies um getting
+[0:27:12] corrected um that we discussed with the
+[0:27:15] control um findings. Um and then
+[0:27:20] additionally, there was a
+[0:27:23] one revenue that we saw that was
+[0:27:24] recorded twice. Um
+[0:27:28] and but then there was
+[0:27:32] some unavailable grant revenue which is
+[0:27:34] again just a timing thing. So it all
+[0:27:36] sort of goes into that one finding over
+[0:27:39] um while there's four adjusting entries,
+[0:27:42] it all sort of revolves around revenue.
+[0:27:44] And so that's why there's one control
+[0:27:46] finding there.
+[0:27:49] >> Sorry, I'm just having a hard time
+[0:27:50] keeping track of all the different
+[0:27:51] findings. Were those the findings from
+[0:27:52] the single audit or the other finding?
+[0:27:55] So which finding does this go back to?
+[0:27:57] >> So this is the one that crosses both a
+[0:27:59] single audit finding and the financial
+[0:28:01] statement finding.
+[0:28:04] So
+[0:28:06] and and those are in more detail um in
+[0:28:10] the schedule of findings in question
+[0:28:12] cost within the acer itself which is
+[0:28:14] towards the back. It's
+[0:28:21] page
+[0:28:24] 143 is when that schedule starts. Sorry.
+[0:28:38] Um,
+[0:28:39] another thing that we're required to do
+[0:28:41] by standards is if we're aware of the
+[0:28:43] district consulting with any other CPAs,
+[0:28:46] which we are not aware of, um, the
+[0:28:49] government accounting standards board
+[0:28:51] has continued to stay busy. There's
+[0:28:53] there's three um issued standards, two
+[0:28:56] that will be effective next year. Uh
+[0:28:58] Gatsby statement 103 um will make
+[0:29:02] changes to the financial reporting
+[0:29:04] model. Um this will impact
+[0:29:07] for the district probably the biggest
+[0:29:10] impacts will be to your management
+[0:29:13] discussion and analysis.
+[0:29:15] the categories you can sort of see are
+[0:29:17] sort of the same, but it reemphasizes
+[0:29:19] that they do not want boilerplate
+[0:29:21] analysis. They want it specific to the
+[0:29:24] entity. Um, and that it really needs to
+[0:29:27] describe what's happening, not just I
+[0:29:30] and why, not just what happened, but
+[0:29:32] okay, why what's going on there that's
+[0:29:34] causing this? Um the other thing that
+[0:29:37] will change is some definitions around
+[0:29:40] um significant and unusual events and
+[0:29:43] infrequent events. Um it will impact
+[0:29:47] your budget schedules. So there's the
+[0:29:49] biggest difference there is you will now
+[0:29:53] have to show a column for the change
+[0:29:55] from your beginning to ending fund
+[0:29:57] balance. And then also what used to be
+[0:30:00] in the MDNA about um budget variances
+[0:30:04] are now moved to the notes to those.
+[0:30:08] Um there's also going to be some changes
+[0:30:10] with how the internal service fund so
+[0:30:13] proprietary funds change their
+[0:30:15] formatting a bit. It won't really change
+[0:30:18] numbers per se, but it will change the
+[0:30:20] presentation of what's there.
+[0:30:24] Um, and then with 104,
+[0:30:28] um, it just spells out a little bit
+[0:30:30] clearly, more clear than what's in the
+[0:30:32] standard right now of what they expect
+[0:30:34] to be disclosed in the capital asset
+[0:30:36] footnote for intangible assets like your
+[0:30:39] subscription um, arrangements and your
+[0:30:42] lease arrangements that are now showing
+[0:30:44] up on the um, statement of net position
+[0:30:47] for the district.
+[0:30:49] Um, it also goes over
+[0:30:53] and gives some guidance that was unclear
+[0:30:55] in the past about how to report assets
+[0:30:58] available for sale.
+[0:31:00] And then the last one is 2 years from
+[0:31:03] now and it just gives some additional
+[0:31:05] guidance on what and how to dis disclose
+[0:31:08] subsequent events. So things that that
+[0:31:10] happen after the financial statement
+[0:31:12] date. So in this case what's happened
+[0:31:15] since December or since June 30th 25
+[0:31:18] would how those events would be
+[0:31:20] disclosed in in an act for
+[0:31:24] um this is also a point that we like to
+[0:31:27] make is that there's a shared
+[0:31:28] responsibility for independence. We do
+[0:31:31] our best to maintain our independence
+[0:31:32] from the district. we are the
+[0:31:34] independent auditors that requires us to
+[0:31:36] do certain things, make sure we don't
+[0:31:37] enter into certain relationships, but
+[0:31:39] also um the district has some
+[0:31:42] responsibility to make sure that they
+[0:31:43] don't accidentally impair some
+[0:31:46] independence as well. And then also to
+[0:31:49] bring your attention to the management
+[0:31:51] representation letter that is attached
+[0:31:53] to that um letter um to those charged
+[0:31:56] with governance and that covers
+[0:32:00] all the
+[0:32:02] representation. So the things that
+[0:32:04] management told us in writing um that
+[0:32:06] covers yes we everything that we
+[0:32:10] responded to was truthful. Yes we gave
+[0:32:12] you the right reports all those things.
+[0:32:20] Um, so [clears throat] I just looked it
+[0:32:21] up and car or Miss Bradshaw is correct.
+[0:32:24] It it is posted, but I like to prepare
+[0:32:27] you guys for the meeting. And this is
+[0:32:29] not one of the documents that I printed
+[0:32:31] and brought to you guys. So you might
+[0:32:34] want to go into board books and and it's
+[0:32:38] titled the 2025 communication with those
+[0:32:41] charged with governance. So, that letter
+[0:32:44] you probably haven't seen, but it's
+[0:32:47] there now.
+[0:32:56] >> I have a couple questions. Um, the first
+[0:33:00] is going back to there was one of the
+[0:33:03] findings that was about overexpendures.
+[0:33:06] Could you explain that one?
+[0:33:10] So
+[0:33:11] the district passes a budget um that has
+[0:33:15] appropriations included within that
+[0:33:17] budget process.
+[0:33:19] Um when the district spends more than
+[0:33:22] that budgeted amount, we have to report
+[0:33:24] that um as part of the state
+[0:33:27] regulations. So as part of that, the
+[0:33:31] general fund for the instruction
+[0:33:33] function spent more than what was
+[0:33:35] budgeted by the districts. And the same
+[0:33:38] thing for the special revenue fund with
+[0:33:40] support services.
+[0:33:43] So, so um the district expenditures
+[0:33:48] exceeded the authorization from the
+[0:33:50] board.
+[0:33:53] >> Thank you. I have one more question. Um
+[0:33:56] and I'm not sure if this is better for
+[0:33:57] you or Michelle. So, if you're like you
+[0:34:00] can tell me that I you want to wait. But
+[0:34:02] um I'm just wondering what like the
+[0:34:05] possible implications of these findings
+[0:34:07] are like the consequences to the
+[0:34:10] district.
+[0:34:14] >> I'll take that. Uh it doesn't look
+[0:34:17] great. Um you know, fortunately for us,
+[0:34:20] it's not findings that uh end in a
+[0:34:24] criminal case. These are compliance
+[0:34:27] issues. there was a tremendous amount of
+[0:34:29] turnover in the finance office over the
+[0:34:31] last year. So I I think some of these
+[0:34:35] things are clear evidence of that and I
+[0:34:37] know that the team that's in place now
+[0:34:40] is uh has embraced change from the
+[0:34:44] moment they started and many of these
+[0:34:46] things have already been uh effectively
+[0:34:50] um addressed through better controls and
+[0:34:52] oversight. when you look at the uh was
+[0:34:55] it reviewed and approved before it went
+[0:34:57] out the door uh for the ESSER report for
+[0:35:00] example there was nothing wrong with the
+[0:35:02] report there was nothing wrong inside
+[0:35:04] the report our auditors were looking for
+[0:35:06] confirmation that we had oversight
+[0:35:08] before it went to the state and that was
+[0:35:10] the component we were missing and so we
+[0:35:13] learned a lot through this audit process
+[0:35:15] I want to express gratitude to Dan and
+[0:35:16] his team uh to Rachel Lopez Hopper and
+[0:35:20] Michael Miranda Moore are here they're
+[0:35:22] standing standing here on behalf of a
+[0:35:24] whole uh small army of people who have
+[0:35:27] dug in to really make sure that this
+[0:35:28] report is as transparent as we could
+[0:35:31] bring to you. Um ideally we would like
+[0:35:34] to have no findings
+[0:35:37] uh at any level federal um compliance
+[0:35:41] state level. So that's our goal is to um
+[0:35:44] eliminate those over the course of time.
+[0:35:47] >> Thank you. Um, in terms of is are there
+[0:35:50] any risk beyond reputational risks like
+[0:35:53] could it affect like risks from funding
+[0:35:56] perspectives or bond ratings or
+[0:35:59] >> No, there was a a question of timing. We
+[0:36:01] got a little tight on our timing because
+[0:36:03] the state of Oregon had a a February 2nd
+[0:36:07] cuto off to receive this report and so
+[0:36:10] that that got a little close for us
+[0:36:12] because had we missed that deadline, we
+[0:36:14] would have had to gone foregone our
+[0:36:16] February state school fund payment which
+[0:36:19] would have become a cash flow issue. So
+[0:36:21] there was definitely some heat under us
+[0:36:23] to go ahead and wrap this up as quickly
+[0:36:25] as possible as we were moving through.
+[0:36:27] Again, a lot of this was uh kind of
+[0:36:30] check and balance and then documentation
+[0:36:33] of that check and balance in place. So,
+[0:36:36] um this report does um was required in
+[0:36:39] order for us to uh deliver our
+[0:36:41] preliminary official statement for the
+[0:36:43] bonds we're about ready to sell because
+[0:36:45] this is the documentation of our
+[0:36:48] performance. So, um I don't see it being
+[0:36:51] an impact to the sale, but it is a
+[0:36:53] necessary component in order to to have
+[0:36:55] a sale on the market. So, I don't
+[0:36:57] anticipate any of these findings um
+[0:37:00] hurting us in that way. Um as we go to
+[0:37:03] the bond market,
+[0:37:09] um my question kind of goes along with
+[0:37:12] that in that your your staff is is
+[0:37:15] working on it, but when you look at your
+[0:37:18] at least what's on board, you've got
+[0:37:20] some vacancies. Have they been filled or
+[0:37:23] are you feeling short staffed?
+[0:37:24] >> They have been filled. Thank you so much
+[0:37:26] for the question. So, uh I started in my
+[0:37:30] role as chief financial officer after an
+[0:37:33] almost two-year interim period of uh a
+[0:37:37] permanent person in that role. And when
+[0:37:40] I came on, I was able to hire three
+[0:37:42] additional financial leadership
+[0:37:44] positions that had also been uh and and
+[0:37:47] just not in place for a period of time.
+[0:37:51] And so that lack of oversight is what
+[0:37:54] you're seeing here. And we are fully
+[0:37:55] staffed today. And I'm so thankful.
+[0:37:58] >> Good. Because we know [laughter]
+[0:38:01] that it's hard to be fully staffed.
+[0:38:03] >> Yeah.
+[0:38:03] >> Even if you have the money, it's hard to
+[0:38:05] find the right people.
+[0:38:06] >> I think we have the right team.
+[0:38:07] >> But now you have the right people. Good.
+[0:38:09] Um I also there was something I really
+[0:38:12] didn't understand. Um
+[0:38:15] the district had made a decision to not
+[0:38:18] use the 10% dimminimous indirect cost
+[0:38:21] rate and we're figuring a different one
+[0:38:24] I think which was lower but probably
+[0:38:26] takes more effort to figure out.
+[0:38:29] >> Is there any reason for that? Well,
+[0:38:31] there's a state level certification that
+[0:38:34] we get for our indirect rate and they
+[0:38:36] take all of our expenses and they kind
+[0:38:38] of do a calculation on behalf of all the
+[0:38:40] districts that will yield typically clo
+[0:38:43] between four and 5%. I don't know what
+[0:38:45] our exact number is today. I think the
+[0:38:47] as we look at those targeted program
+[0:38:50] funds, it is the practice in PPS to
+[0:38:54] target as many of those funds as we can
+[0:38:56] towards the program and less towards
+[0:38:59] overhead, which would be that higher
+[0:39:01] 10%. So I I would say that that's been
+[0:39:04] the value for us is to have those
+[0:39:06] dollars go to the program rather than to
+[0:39:09] overhead.
+[0:39:09] >> And so it doesn't take that much more
+[0:39:12] time to figure it out. No, no, it's just
+[0:39:15] a standard percentage rate. Yeah, and
+[0:39:17] it's issued to us. So, I'm not sure why
+[0:39:19] there was as much fluctuation as there
+[0:39:21] was.
+[0:39:23] >> Okay. Any more questions?
+[0:39:29] >> Okay. Um,
+[0:39:30] >> I had a comment. I almost forgot. Um,
+[0:39:32] and then I I like pulled this up to make
+[0:39:33] it and then I like looked away. Hold on.
+[0:39:35] I have to look at page 143 again.
+[0:39:38] >> Um, but it's not where it's supposed to
+[0:39:40] be. You want to borrow my 143?
+[0:39:43] >> Yeah, it's out of order. I just had it
+[0:39:46] in my hand. Maybe it's not 143. Yeah,
+[0:39:49] but that's the right page. Okay. Um, one
+[0:39:51] thing that I thought was really helpful
+[0:39:53] for me to understand as somebody who's
+[0:39:56] not an auditor to like anybody who might
+[0:39:58] be listening out there is it says
+[0:40:00] significant deficiency. And that sounds
+[0:40:04] really bad, but actually material
+[0:40:07] weakness is sort of like the really bad
+[0:40:09] one. and this is like the less bad one.
+[0:40:11] And so just simply put, I wanted to say
+[0:40:13] so [laughter]
+[0:40:15] and remind us all that having this many
+[0:40:16] findings might not feel good, but
+[0:40:18] they're the kind of findings that are
+[0:40:19] like dimminimous that we need to improve
+[0:40:21] things, but not like we have major
+[0:40:23] issues. So I just thought I would put
+[0:40:25] that on the record because that was kind
+[0:40:27] of my understanding,
+[0:40:29] >> right? And also understanding we have
+[0:40:32] not had a CFO for a long time and we
+[0:40:36] obviously have one now that
+[0:40:39] is really in charge and I'm really
+[0:40:42] appreciate you Michelle. Um,
+[0:40:46] and so many of the problems had to do
+[0:40:49] obviously with not enough staff to check
+[0:40:50] on things. So, it sounds like we've
+[0:40:54] >> um
+[0:40:54] >> solved the problem.
+[0:40:56] >> I actually did have um one question.
+[0:40:58] Sorry. Um,
+[0:41:00] >> good. the uh qualification for a
+[0:41:03] low-risk oddity. Um is the fact that PPS
+[0:41:07] doesn't qualify, does that have any
+[0:41:09] implications for funding or elsewhere?
+[0:41:14] >> The main thing that that impacts is the
+[0:41:19] coverage of federal expenditures that we
+[0:41:21] have to audit. So a low-risk audit is
+[0:41:24] 20%, high-risisk audit is 40% of
+[0:41:26] expenditures. And I think this relates
+[0:41:29] to a finding two years ago. So we do a
+[0:41:32] twoyear look back period and it's very
+[0:41:36] much check I did you do this checkbox.
+[0:41:40] Did you do this checkbox did you not do
+[0:41:42] this? Okay that gets you into a
+[0:41:44] high-risisk audit. And so this was I
+[0:41:46] think related to a finding if I remember
+[0:41:48] correctly a couple years ago. So it
+[0:41:50] should roll off um soon. So, it's still
+[0:41:55] high risk because of the findings this
+[0:41:58] time.
+[0:41:58] >> Yeah. A material weakness triggers a
+[0:42:01] high-risisk audit um for the most part.
+[0:42:04] Or if your failure to file on time, um
+[0:42:08] those are the two big ones that people
+[0:42:11] get tripped up on as material weakness
+[0:42:13] or failure to file on time. And then
+[0:42:15] there's also a few other things in
+[0:42:18] there, but those aren't as common.
+[0:42:19] >> And I understand that mainly means that
+[0:42:22] the next year you'll look at more
+[0:42:23] things. Yep. More work.
+[0:42:25] >> Yep.
+[0:42:26] >> More risk comes more work. [laughter]
+[0:42:28] >> All right. Thank you.
+[0:42:31] >> Thank you very much for the
+[0:42:32] >> Oh, sorry.
+[0:42:33] >> No, no, no. I just wasn't sure if you
+[0:42:34] were done. I have a question on that
+[0:42:36] part. Um
+[0:42:37] >> I admit in a in an ideal world, I would
+[0:42:40] have read the ACFRS for the last 10
+[0:42:43] years to understand. Um we now have
+[0:42:45] Michelle on board. We have a fully
+[0:42:46] staffed finance office. So there were
+[0:42:48] four out of 60 I think I heard you say
+[0:42:51] that were found. What were the last
+[0:42:53] ones? And does that mean it's getting
+[0:42:55] better? Like, explain that to me. Um,
+[0:42:57] >> I think last year it was five or six.
+[0:43:00] >> Do you look at the same?
+[0:43:02] >> No, we pull randomly everything over.
+[0:43:05] Okay. All the teachers in the district.
+[0:43:08] Let's take 60 and see.
+[0:43:11] >> I see.
+[0:43:11] >> And see if they're correct or not.
+[0:43:13] >> Okay.
+[0:43:14] >> Um, and we do this on a number of other
+[0:43:16] things with ADM as well. I attendance. I
+[0:43:20] did somebody who didn't show up for 10
+[0:43:22] days get properly removed from the roles
+[0:43:26] that kind of stuff. So,
+[0:43:27] >> so there is a lot of stuff that we
+[0:43:29] tested that went right. I do want to
+[0:43:31] specify. [laughter]
+[0:43:32] >> Great. Okay. Thank you.
+[0:43:34] >> Um I did look up the history of of that
+[0:43:37] issue specifically. So I can kind of
+[0:43:39] just tell you at a high level in 2024
+[0:43:42] the teachers experience there were 60
+[0:43:45] tested and four errors. And then in 2023
+[0:43:49] there were no compliance related errors.
+[0:43:52] Um in 2022
+[0:43:55] there were 60 tested with six errors
+[0:43:59] related to years of experience. And then
+[0:44:02] I went back one more year which is 2021
+[0:44:06] and there were 60 tested with four
+[0:44:08] errors.
+[0:44:13] Okay. Um any more questions?
+[0:44:16] Okay. Um, thank you very much. Um, in
+[0:44:19] looking over the audit results for the
+[0:44:21] last few years, we see that there's
+[0:44:23] there was one financial statement
+[0:44:25] related finding in the 2023 ACFR, but we
+[0:44:30] have otherwise had no financial
+[0:44:31] statement or single audit related
+[0:44:33] finding since 2017.
+[0:44:36] As we have had such a long run of clean
+[0:44:38] audits, I want to refresh our
+[0:44:40] understanding of what the OS states
+[0:44:42] related to audit determinations.
+[0:44:46] O RS 3284767
+[0:44:49] states in part, "Upon receipt of the
+[0:44:52] audit report, the school district board
+[0:44:55] shall determine the measures the board
+[0:44:56] considers necessary to correct any
+[0:44:59] deficiencies disclosed in the audit
+[0:45:01] report. The board shall adopt a
+[0:45:04] resolution setting forth any corrective
+[0:45:06] measures the board proposes and the time
+[0:45:08] estimated to complete the measures."
+[0:45:11] after the audit committee.
+[0:45:14] Um,
+[0:45:16] well, we've already had a chance to ask
+[0:45:18] our questions. I'm going to be asking
+[0:45:20] you for your positions on a couple of
+[0:45:22] options that the committee has. First,
+[0:45:26] we can make a recommendation to the full
+[0:45:28] board that the board accept the ACFR and
+[0:45:31] single audit report as is.
+[0:45:34] Secondly, we can make a recommendation
+[0:45:36] to the full board to accept the reports
+[0:45:38] and pass a resolution affirming the
+[0:45:40] corrective action staff have outlined in
+[0:45:42] their presentation.
+[0:45:44] And third, we can make a recommendation
+[0:45:46] to the full board to accept the reports
+[0:45:49] and pass a resolution setting forth any
+[0:45:52] corrective measures the board proposes
+[0:45:54] and the period of time estimated to
+[0:45:56] complete the measures. I have printed
+[0:45:59] those three on a piece of paper that
+[0:46:01] should be in front of you. because I
+[0:46:03] know that I cannot I'm a visual learner.
+[0:46:06] I can't keep those things in my head. Um
+[0:46:10] so if you want to take a look at those
+[0:46:13] um
+[0:46:16] think about what you want to recommend
+[0:46:19] to the full board.
+[0:46:24] Personally, as I think on this, I'm
+[0:46:26] leaning toward the option to make a
+[0:46:28] recommendation to the full board to
+[0:46:30] accept the reports and pass a resolution
+[0:46:33] affirming the corrective actions staff
+[0:46:35] has outlined in their presentation. Um,
+[0:46:38] we've had clean audits for so many
+[0:46:40] years. I think a resolution to
+[0:46:42] acknowledge the significance
+[0:46:44] deficiencies that were identified in the
+[0:46:47] audit and affirm the board's support of
+[0:46:49] the corrective actions is the most
+[0:46:52] appropriate course of action.
+[0:46:54] But I want you to look at them,
+[0:46:57] ask any questions you have,
+[0:47:01] and then we'll vote on
+[0:47:04] >> which one.
+[0:47:05] >> We're curious if we hear more about the
+[0:47:06] corrective actions or are we just basing
+[0:47:08] it on what we've read?
+[0:47:10] >> I do have some more slides and I do have
+[0:47:12] staff here to answer any questions you
+[0:47:14] might have. Um it shouldn't take too
+[0:47:16] long to get through them if you want to
+[0:47:18] think about those options that um Chair
+[0:47:21] Sullivan offered.
+[0:47:24] Can I can I ask whether there's a hybrid
+[0:47:27] option where I like two, but I I do like
+[0:47:31] the time period estimated to complete
+[0:47:33] the measures. Is it possible to
+[0:47:36] sort of have a resolution affirming the
+[0:47:39] corrective actions that I think we're
+[0:47:40] going to learn about, but then also with
+[0:47:42] a timeline
+[0:47:43] >> or is that
+[0:47:44] >> isn't the third one a timeline? Well,
+[0:47:46] the the third one I I wondered about the
+[0:47:48] third one because it it seems to say any
+[0:47:51] corrective measures the board proposes.
+[0:47:53] I wasn't sure like whether we're really
+[0:47:56] the ones who should be proposing it.
+[0:47:58] >> So, the corrective action plans
+[0:47:59] addressing these findings, they have to
+[0:48:01] have uh state the who, who is going to
+[0:48:04] be accountable for this, um what is
+[0:48:07] going to happen and then by when. So,
+[0:48:09] those are already outlined within the
+[0:48:11] corrective action plan that we've
+[0:48:13] offered. Um, and if there are additional
+[0:48:16] considerations, I I haven't heard that
+[0:48:19] yet, but we can, you know, entertain
+[0:48:22] that.
+[0:48:24] Yeah, I I will [laughter] defer to you
+[0:48:27] to say if we could actually have a whole
+[0:48:30] different
+[0:48:31] uh
+[0:48:32] >> Oh, um not that I'm I think that by
+[0:48:36] affirming the corrective action plan
+[0:48:38] that staff have outlined
+[0:48:41] um we're affirming the time that is
+[0:48:44] included referenced in the corrective
+[0:48:47] action plan, but I think Michelle has a
+[0:48:49] few more slides where she's going to go
+[0:48:51] over those corrective action plans. So
+[0:48:53] maybe we could make that decision after
+[0:48:55] we let her um go on with a couple more
+[0:48:58] slides.
+[0:48:59] >> Okay,
+[0:49:01] >> great. Okay, I'll finish this up. Dan,
+[0:49:03] thank you so much for coming tonight.
+[0:49:05] Appreciate all of the inperson teamwork
+[0:49:07] that we had through this process. It's
+[0:49:09] been great.
+[0:49:10] >> Yeah, thank you for answering our
+[0:49:11] questions.
+[0:49:11] >> Uh, no problem. And if you have any
+[0:49:13] more, please feel free to reach out. We
+[0:49:14] do work for the board. So,
+[0:49:20] >> oh, I just had a slide with his contact
+[0:49:22] info. So, it's in the deck. If you want
+[0:49:24] to reach out to him, that's fine. Um,
+[0:49:26] these are uh highlights that I wanted to
+[0:49:28] bring forward to you. This is based on
+[0:49:30] my past experience in terms of providing
+[0:49:33] a little bit more readability to a
+[0:49:35] pretty highly technical document. So
+[0:49:37] just um the staff memo is really just a
+[0:49:40] summary to identify specific points of
+[0:49:42] interest through the report. Um the ACER
+[0:49:45] is really a a instrument for reporting
+[0:49:50] uh private uh industry as well. So it's
+[0:49:53] applied to local governments and it
+[0:49:56] comes across a little bit different
+[0:49:58] because we're not profit makers, right?
+[0:50:00] So that's why the the document is highly
+[0:50:03] technical, but um hopefully these points
+[0:50:05] of interest will be helpful for you.
+[0:50:07] >> May I confirm that you call it a
+[0:50:11] >> Okay,
+[0:50:12] >> that's what all the cool kids say.
+[0:50:14] >> Yeah. [laughter]
+[0:50:16] >> So uh we do I did want to point out the
+[0:50:18] GFOA award that is a a gold star
+[0:50:21] standard that PPS has held to for uh a
+[0:50:24] very very long time with or without
+[0:50:26] findings. Basically, that means that we
+[0:50:28] have a series of pretty intensive
+[0:50:31] questionnaires that we go through as
+[0:50:33] we're putting together the report to
+[0:50:35] make sure that we include um all of the
+[0:50:37] necessary components that we need for
+[0:50:39] full disclosure um in the marketplace
+[0:50:41] into um uh the community at large. We do
+[0:50:46] have a description of the corrective
+[0:50:47] action plans on uh all of the findings
+[0:50:50] that were discussed here tonight. Um
+[0:50:52] again, some of them are related and
+[0:50:55] overlapping. Um but we've identified
+[0:50:58] those our up operational fund balance
+[0:51:01] that minimum target that we were
+[0:51:02] striving to hit for the year. Um that's
+[0:51:05] a high uh level of interest to
+[0:51:08] especially our labor partners as we move
+[0:51:10] into negotiations. Um that's an area
+[0:51:13] that if they have identified any type of
+[0:51:15] a surplus that would indicate to them
+[0:51:17] that there's additional dollars
+[0:51:19] available for spending rather than our
+[0:51:21] absolute minimum target. we have the
+[0:51:24] management discussion and analysis and
+[0:51:26] that's basically uh a description of
+[0:51:29] what's changed over uh period over
+[0:51:32] period. So what's gone up, what's gone
+[0:51:34] down, uh our rationale for why that
+[0:51:37] occurred. So that's a little bit of
+[0:51:39] reflection from uh our management's
+[0:51:41] position between years. And then the
+[0:51:44] whole last part of the book, aside from
+[0:51:47] the correspondence from our auditors, is
+[0:51:49] supplemental and statistical information
+[0:51:52] that is pretty interesting if you're
+[0:51:54] thinking about buying bonds, for
+[0:51:55] example, because you can see how our
+[0:51:57] local economy is doing, what our
+[0:51:59] enrollment trends are doing, what our
+[0:52:00] staffing is doing, are we
+[0:52:02] operationalizing reductions as needed if
+[0:52:05] enrollment's declining. That's something
+[0:52:06] that our uh recent ratings uh firms uh
+[0:52:10] look at pretty significantly. So, those
+[0:52:13] are areas of interest in the staff memo.
+[0:52:16] Happy to expand on those. If you guys
+[0:52:18] have feedback for me, I'd sure like to
+[0:52:19] get it better every year.
+[0:52:22] Uh, the note on findings, this uh I
+[0:52:25] included with my correspondence to you
+[0:52:27] last um to the board last week. Um, just
+[0:52:30] uh this is not an excuse, but it's a
+[0:52:33] reminder of the the the timing of this.
+[0:52:37] We were well over halfway for fiscal
+[0:52:39] year 2425 when I came into my role.
+[0:52:43] Shortly thereafter, our financial team
+[0:52:45] was uh filled completely. So we had the
+[0:52:49] correct leadership. On the heels of
+[0:52:51] that, we had some critical roles turn
+[0:52:53] over. And so there was definitely a gap.
+[0:52:55] You can see goldfish one going to
+[0:52:59] goldfish 2. It's a lot like what it felt
+[0:53:01] like for our team. And so, uh, just a
+[0:53:04] reminder that none of these findings
+[0:53:05] were due to a loss or misuse of funds.
+[0:53:08] So, those controls were solidly in place
+[0:53:10] through the transition, and we're really
+[0:53:12] thankful for that.
+[0:53:16] So, this is the corrective action plan
+[0:53:18] for federal, super tiny type, but you
+[0:53:22] can see that we have that one that's
+[0:53:23] kind of standing alone. um about the
+[0:53:26] SEIFA which is um when we are in the
+[0:53:29] springtime doing our May work with our
+[0:53:31] auditors, we do an estimate that kind of
+[0:53:34] shows um what our total amount of
+[0:53:36] federal funding is going to be and from
+[0:53:38] that they decide how much of that pie is
+[0:53:41] going to need testing and at what level.
+[0:53:43] And we um we didn't correctly identify
+[0:53:46] that amount. So it kind of created a
+[0:53:48] reset in their work when they came back.
+[0:53:51] Um the other federal program things
+[0:53:53] listed down below there. Um a lot of it
+[0:53:56] has to do with review and approval. So
+[0:53:59] we were missing that step. We're aware
+[0:54:00] of that now. And notification to staff
+[0:54:03] members around time and effort. When we
+[0:54:06] uh realized that that was going to be a
+[0:54:07] challenge for us this year. It was the
+[0:54:09] same time that the um federal programs
+[0:54:12] were shutting down. And so we uh worked
+[0:54:16] with HR to make sure that we were still
+[0:54:17] notifying people that they were
+[0:54:19] federally funded without the fear of
+[0:54:22] losing their positions because of the
+[0:54:23] shutdown. So it was a little bit tricky
+[0:54:25] coming through that, but we've kind of
+[0:54:27] normalized that notification process
+[0:54:30] moving forward so that that's not going
+[0:54:31] to be an issue.
+[0:54:34] >> Can I ask a question?
+[0:54:36] >> Yeah.
+[0:54:36] >> Um I really appreciate that you're
+[0:54:39] taking responsibility here. I'm just
+[0:54:42] curious what that looks like downstream
+[0:54:44] from you like a general answer like if
+[0:54:47] you're going to ensure this happens do
+[0:54:49] you develop process and procedures with
+[0:54:52] your wonderful colleagues that they
+[0:54:54] adhere to because otherwise I just want
+[0:54:58] to dig a little like the tiniest bit
+[0:54:59] deeper into what that means to you when
+[0:55:01] you take responsibility personally
+[0:55:03] versus some sort of like systems answer
+[0:55:05] here. Yeah, we already have like I said
+[0:55:09] corrected this through oversight that's
+[0:55:11] standardized um which is my tool right I
+[0:55:15] go there do this and then uh follow up
+[0:55:17] to make sure that that happens so I want
+[0:55:19] to say that um you know my senior
+[0:55:23] director is is always saying like uh
+[0:55:27] charge and then verify so give that and
+[0:55:30] then follow up to make sure that those
+[0:55:32] things are happening that's a lot of the
+[0:55:33] work um that I do and that they do to
+[0:55:36] his leaders as well. So, I mean, it's
+[0:55:39] it was a little eyeopening coming from a
+[0:55:42] pretty highly controlled environment and
+[0:55:44] and not understanding where those catch
+[0:55:46] points are. And um I'm feeling fairly
+[0:55:49] confident that the chief financial and
+[0:55:51] the finance office has a clear
+[0:55:54] understanding of what these challenges
+[0:55:55] were and how we can address them moving
+[0:55:57] forward.
+[0:56:00] Hi, I also have a um question about
+[0:56:03] whether there's some sort of succession
+[0:56:06] plan or a plan is it would it be part of
+[0:56:09] a correction plan a a corrective action
+[0:56:12] plan to document what would happen the
+[0:56:14] next time there's a transition?
+[0:56:17] >> Yes. I think coming into this we
+[0:56:19] recognized that there was a significant
+[0:56:21] lack of documentation
+[0:56:23] of processes for certain decisions that
+[0:56:26] were being made and there was no
+[0:56:28] immediate
+[0:56:30] um repercussion because of that like
+[0:56:32] this is the repercussion and those those
+[0:56:34] folks are long gone. So I think um the
+[0:56:37] awareness, the controls, the the
+[0:56:39] standardized trainings for our team
+[0:56:41] members um a a org chart that supports
+[0:56:46] the structure of oversight I think is
+[0:56:48] going to be critical for us as well. So
+[0:56:51] I think we've learned a lot. We've
+[0:56:54] learned how to embed that more into the
+[0:56:56] roles of uh our managers and that was
+[0:57:00] this higher level of managers that we
+[0:57:02] were missing for a while. So, um, making
+[0:57:05] sure that as they come on, they know
+[0:57:07] exactly what to look for.
+[0:57:11] >> So, have you have you set up like a
+[0:57:15] documentation plan? It's all done.
+[0:57:18] >> Yes. Yes. And I can bring samples if
+[0:57:20] you'd like to see them.
+[0:57:22] >> I believe you.
+[0:57:24] Um, aside from documentation, has PPS
+[0:57:27] made any efforts to um, you know, um,
+[0:57:31] retain staff in this like specific
+[0:57:34] department to, you know, as part of, uh,
+[0:57:37] solving this issue.
+[0:57:38] >> Absolutely. I tell them every day how
+[0:57:40] important they are to me and to the
+[0:57:43] students here in the community at PPS. I
+[0:57:46] think that uh any leadership change it's
+[0:57:49] it has lasting effects and so we are
+[0:57:51] definitely um starting at the bottom of
+[0:57:54] that hill and then creating that uh
+[0:57:57] cross trainining and path for retention
+[0:57:59] recruitment and retention and growth so
+[0:58:02] that we h so that I have a succession
+[0:58:04] plan. Uh that's that's the ideal state.
+[0:58:06] I really appreciate that question.
+[0:58:10] I'd like to tease um Chief Morrison
+[0:58:13] about signing a five-year contract to
+[0:58:16] stay with PPS. I mean, I know I'm just
+[0:58:18] teasing her, but I've said that multiple
+[0:58:20] times just because it would be so nice
+[0:58:24] and it's really important to have the
+[0:58:25] consistency of the leadership. So, I
+[0:58:28] know you haven't officially signed any
+[0:58:30] formal contract requiring you to stay
+[0:58:32] for certain number of years, but we
+[0:58:34] certainly hope that you do.
+[0:58:37] >> Thank you, Janice.
+[0:58:39] We'll we'll wrap this up so that we can
+[0:58:40] get to our ML um information that I know
+[0:58:43] you guys also need to take in tonight.
+[0:58:46] We have the corrective action plan for
+[0:58:47] the state programs. We've talked a lot
+[0:58:49] about the uh the appropriations that
+[0:58:52] were exceeded and we have a plan in
+[0:58:54] place for addressing that. Um
+[0:58:56] fortunately, we had the resources to
+[0:58:58] match it. So that's how we were able to
+[0:59:01] still land on our minimum fund balance.
+[0:59:04] um the the budget transfers in lie of
+[0:59:06] supplemental budget. We talked about
+[0:59:08] that mechanism uh as well. And last
+[0:59:10] spring uh as a new team, we weren't
+[0:59:13] quite sure which mechanism to use. We
+[0:59:16] did bring an action request to the
+[0:59:18] board. It was approved um but it it
+[0:59:21] didn't align well with local budget law.
+[0:59:24] And then the state reporting of teacher
+[0:59:25] experience, any of those factors that
+[0:59:28] our audit partners are testing are
+[0:59:30] related to the state school fund. So
+[0:59:32] there is a teacher experience factor.
+[0:59:35] Whether you're above or below the state
+[0:59:37] average, you get an adjustment in your
+[0:59:39] funding. Is it the acknowledgement that
+[0:59:40] those senior teachers are typically
+[0:59:42] going to cost more? Um and just like all
+[0:59:44] of the other waiting that happens with
+[0:59:46] the student average daily membership um
+[0:59:49] or demographic type, how they're being
+[0:59:51] recorded and how we're being funded are
+[0:59:54] critical. Um and our auditors are making
+[0:59:56] sure that we're not over under reporting
+[0:59:58] those
+[1:00:02] Uh these are the next steps. There's no
+[1:00:04] changes to the report at this point. It
+[1:00:06] is final. We are going to move towards
+[1:00:08] board approval by resolution. We kind of
+[1:00:11] talked a little bit about some options
+[1:00:12] here tonight. Um so that is information
+[1:00:15] that's already in the board packet. If
+[1:00:17] if something is going to be different
+[1:00:20] from that from the committee, I think
+[1:00:21] that notification would need to go
+[1:00:23] fairly quickly. And then we have a
+[1:00:26] multiple filings that we're required to
+[1:00:28] do for disclosure as far as uh Oregon
+[1:00:31] Department of Education, the Secretary
+[1:00:33] of State's office, and Emma, which is
+[1:00:35] our uh kind of our clearing house for
+[1:00:39] bond buyers. That's where they go to see
+[1:00:41] your um financial information and any
+[1:00:44] material events that have occurred. And
+[1:00:47] then of course implementation of our
+[1:00:48] corrective action plans. I think I've
+[1:00:50] mentioned we've we're already well on
+[1:00:52] our way for that and uh preparing to
+[1:00:54] have a a great audit this year.
+[1:00:59] Thank you so much all for your time and
+[1:01:01] I can take questions after this meeting
+[1:01:03] as well. You're welcome to continue to
+[1:01:06] ask questions but uh they may come to
+[1:01:08] you later.
+[1:01:10] Okay. Any more questions right now
+[1:01:12] before we vote on
+[1:01:15] um the recommendation?
+[1:01:19] We've asked a lot of questions. I'm
+[1:01:21] really pleased with our committee
+[1:01:23] [laughter] here. Um a lot going on. Um
+[1:01:28] okay, I'd like us to vote now. This is
+[1:01:30] what we'll present to the board if we
+[1:01:32] vote on it. Um, those in favor of making
+[1:01:35] a recommendation to the full board to
+[1:01:37] accept the reports and pass a resolution
+[1:01:40] affirming the corrective actions staff
+[1:01:42] have outlined in their presentation.
+[1:01:45] Please say yes.
+[1:01:48] >> We're allowed to vote.
+[1:01:51] >> Yes.
+[1:01:52] >> Well, we want to know what you you think
+[1:01:54] though.
+[1:01:54] >> Okay. Got it.
+[1:01:56] >> So, it's like an informal vote, right?
+[1:01:58] Committees can't make decisions. So it's
+[1:01:59] just like
+[1:02:00] >> well we can we can decide what we want
+[1:02:02] to present to the board.
+[1:02:03] >> Okay. The committee is
+[1:02:05] >> send it out of committee
+[1:02:06] >> voting on what type of referral it would
+[1:02:09] like to make to the board.
+[1:02:10] >> Okay.
+[1:02:10] >> Yeah.
+[1:02:10] >> Okay.
+[1:02:11] >> Right.
+[1:02:14] >> So um
+[1:02:18] if you agree with that one that I just
+[1:02:20] stated, please say yes.
+[1:02:22] >> Yes. It's the second one.
+[1:02:23] >> Can I ask
+[1:02:24] >> middle one?
+[1:02:25] >> Yeah.
+[1:02:26] >> Um Michelle, I'm sorry. I'm not I've
+[1:02:28] looked at I looked at this stuff last
+[1:02:30] night and now I'm hazy. Does the
+[1:02:32] corrective action plan in the bigger
+[1:02:34] document have the dates by which
+[1:02:36] >> or it's already done?
+[1:02:37] >> No, that's that's in my it's outlined in
+[1:02:40] my uh memo.
+[1:02:42] >> So there's where the dates are. It's in
+[1:02:44] the memo. Okay. I just wanted to make
+[1:02:46] sure because I know Steph was saying or
+[1:02:47] I'm sorry, Director [Engelsman] was saying
+[1:02:49] that the dates were important to her.
+[1:02:51] So, as long as the the dates that are in
+[1:02:53] your memo are included in our
+[1:02:56] resolution. Yeah. Okay. Just making
+[1:02:58] sure.
+[1:02:59] >> Yep.
+[1:03:00] >> Then I wonder if that'd be number three.
+[1:03:02] >> I don't think so because I think number
+[1:03:04] three is us changing it.
+[1:03:06] >> Yeah.
+[1:03:06] >> Making different recommendations with a
+[1:03:08] different timeline. That's what I got
+[1:03:10] out of that conversation.
+[1:03:12] >> Yeah. I don't even know what I did my
+[1:03:14] third one.
+[1:03:15] >> I lost mine, too.
+[1:03:19] >> Thank you.
+[1:03:20] Let's see. Yeah, the last one.
+[1:03:24] Setting forth any corrective measures
+[1:03:26] the board proposes. So, we would propose
+[1:03:29] more than have already been proposed by
+[1:03:31] Michelle. That was the part that
+[1:03:33] concerned me because I don't feel at
+[1:03:35] all.
+[1:03:37] >> Yeah.
+[1:03:37] >> Um because there's no way I could
+[1:03:39] propose anything,
+[1:03:40] >> right? Yeah. Yeah. So, if there's a
+[1:03:42] timeline to director [Splitt]'s point, if
+[1:03:44] there's a timeline in the corrective
+[1:03:46] actions that you're proposing that we've
+[1:03:48] looked at, that seems good to me, which
+[1:03:50] seems like it's number two. I don't feel
+[1:03:52] equipped to add anything different. You
+[1:03:54] may be able to assist us with that.
+[1:03:57] >> I want number two, but with dates, but
+[1:04:00] that the expert staff is who proposes.
+[1:04:03] That's what I would suggest that we add
+[1:04:05] some dates in to number two
+[1:04:09] >> separate from the dates because I think
+[1:04:10] that was my original question but then
+[1:04:12] it sounded like there are dates in the
+[1:04:14] corrective action that we would be
+[1:04:16] adopting. So I think I I thought I was
+[1:04:20] getting dates
+[1:04:21] >> about. So tell me,
+[1:04:23] >> I think maybe I'm just I'm going to
+[1:04:25] suggest maybe the second half of two is
+[1:04:28] pass a resolution affirming the
+[1:04:31] corrective actions and timeline staff
+[1:04:34] have outlined in their presentation
+[1:04:38] >> and or in the corrective action
+[1:04:41] >> memo
+[1:04:41] >> memo.
+[1:04:42] >> I don't have that paper and that's all I
+[1:04:44] don't know that I need it. I I just want
+[1:04:47] to give you probably my thoughts around
+[1:04:48] prep preparing for tonight and then
+[1:04:50] preparing for uh next week. So there is
+[1:04:53] already in the board uh packet the staff
+[1:04:56] memo that outlines the corrective action
+[1:04:58] plan with the timelines for
+[1:05:00] implementation which are immediately. So
+[1:05:02] it's upon passage um and there is a res
+[1:05:06] resolution already out there. So, I'm
+[1:05:10] this piece I wasn't really prepared to
+[1:05:12] help navigate because I think it's
+[1:05:14] already in the pipeline to the board.
+[1:05:18] >> Although we didn't see it, I'm going to
+[1:05:19] go I'm going to agree that I think that
+[1:05:21] they are in there and I think we should
+[1:05:23] honor that they have proposed timelines
+[1:05:25] by including that in our resolution.
+[1:05:27] That's my suggestion.
+[1:05:32] Um, do we need to
+[1:05:35] actually change the wording then on
+[1:05:38] this?
+[1:05:40] I mean to be honest I am not quite sure
+[1:05:43] how the resolution
+[1:05:45] proposal would work but um I think that
+[1:05:50] you would want to reach out to the chair
+[1:05:53] of the board to discuss like the option
+[1:05:55] on how to accompany the recommendation
+[1:05:58] from the audit committee to the packet.
+[1:06:05] >> Can I Yeah. Can we just take a minute
+[1:06:07] and pull up what's already resolved in
+[1:06:10] the packet if somebody already wrote the
+[1:06:12] resolution?
+[1:06:14] >> It seems kind of awkward that we're
+[1:06:15] supposed to be making a resolution to
+[1:06:17] the board, but the board somebody
+[1:06:19] already decided what it is and it's in
+[1:06:21] the packet. [laughter]
+[1:06:25] >> Resolution would be discussed now.
+[1:06:30] >> Okay.
+[1:06:33] >> Okay. However,
+[1:06:35] you want to look what's most important
+[1:06:37] now
+[1:06:42] that
+[1:06:43] recommends that
+[1:06:48] support
+[1:07:03] like
+[1:07:04] we need to like break for a second.
+[1:07:06] >> Um yeah, let's take a
+[1:07:09] three minute break to look it up.
+[1:08:16] Oh, okay. Take me forever to get in.
+[1:08:27] You got it.
+[1:10:10] Oh, I think so.
+[1:10:16] Okay. The resolution. The board of
+[1:10:17] education accepts the annual
+[1:10:19] comprehensive financial reports
+[1:10:22] to management and report on requirements
+[1:10:24] for federal boards of school district
+[1:10:26] number 1J county Oregon for the fiscal
+[1:10:30] year ended June 30th 2025 and approved
+[1:10:33] the corrective action plan in response
+[1:10:35] to the deficiencies reported by the
+[1:10:37] audit team.
+[1:10:40] >> That's what it says in corrective plan
+[1:10:41] has time in it.
+[1:10:45] Yeah. um doesn't have a timeline.
+[1:10:47] >> No, the corrective the corrective action
+[1:10:49] plan has a timeline. So, yeah.
+[1:10:53] >> Okay. Can we all
+[1:10:54] >> Can I ask you a quick question?
+[1:10:56] >> Yes.
+[1:10:56] >> So, the corrective action plan timelines
+[1:10:59] without a timeline in the resolution can
+[1:11:03] change without board oversight or board
+[1:11:06] approval if they need to change. Right.
+[1:11:08] Is that fair?
+[1:11:10] >> Well, they're effective immediately,
+[1:11:12] right? So I don't see that changing.
+[1:11:15] Okay. Like this is the in response to
+[1:11:18] the findings with or without board
+[1:11:20] action those things are going to occur.
+[1:11:23] >> Okay.
+[1:11:23] >> That that is our plan.
+[1:11:25] >> Okay. Thank you.
+[1:11:26] >> Okay.
+[1:11:26] >> I think all we're doing is just
+[1:11:28] informally blessing this.
+[1:11:30] >> Right. Um just so you know in the audit
+[1:11:33] committee's charter it does say the
+[1:11:35] audit committee has the um opportunity
+[1:11:38] to make recommendations to the full
+[1:11:40] board and management about reporting
+[1:11:43] monitoring and corrective action plans.
+[1:11:46] So we've had such great audit really
+[1:11:48] clean we haven't really felt the need to
+[1:11:52] discuss the option of making a
+[1:11:53] recommendation related to any corrective
+[1:11:56] action plans but it is certainly within
+[1:12:00] the charter to allow us to do so.
+[1:12:06] So since we do have that opportunity
+[1:12:11] um
+[1:12:14] if we can approve this that will save
+[1:12:16] time at the board meeting anyway or we
+[1:12:19] can advise that we think it's a good
+[1:12:21] idea. So um is there anybody who
+[1:12:26] has more they want to say about this?
+[1:12:30] Can we all say yes we agree with the
+[1:12:33] resolution that's coming up at the board
+[1:12:35] meeting? Yes. Okay. Yes.
+[1:12:38] Good. [laughter] Thank you. And in your
+[1:12:41] committee report to the board, you can
+[1:12:43] just like since it's already written and
+[1:12:45] everything, you can just let them know,
+[1:12:48] let the board know that that resolution
+[1:12:50] comes with the recommendation of the
+[1:12:52] audit committee.
+[1:12:54] >> Okay. So, I'll reach out to the chair of
+[1:12:57] the board for that before beforehand.
+[1:13:01] Um,
+[1:13:03] oh, one other thing I just
+[1:13:06] wanted to ask Chief Morrison and the
+[1:13:09] auditor from TKW about the timing of the
+[1:13:12] completion of the ACFR and single audit
+[1:13:15] reports moving forward. I understand the
+[1:13:18] unique circumstances
+[1:13:20] delayed the report this year
+[1:13:23] and due due to those circumstances. I
+[1:13:25] understand that Chief Morrison has
+[1:13:27] already submitted the reports to the
+[1:13:28] state to meet the deadline. For the last
+[1:13:31] several years, the ACFR package and
+[1:13:34] single audit report have not been
+[1:13:35] provided to the audit committee until
+[1:13:37] the day of the audit committee meeting.
+[1:13:40] for today's meeting. We had the
+[1:13:41] documents several days in advance and
+[1:13:43] were able to review them in detail and
+[1:13:46] we really appreciate the opportunity the
+[1:13:48] last couple of days provided us to
+[1:13:50] better understand this information and
+[1:13:52] you know it's it's a hard as you said
+[1:13:55] we're not auditors it's really hard to
+[1:13:57] understand it. Um, Janice helped us go
+[1:14:00] through it and understand and it it
+[1:14:03] compared to last year, I mean, I it just
+[1:14:05] felt good that you had some knowledge
+[1:14:08] and that you were understanding what was
+[1:14:10] said. It it makes a big difference. Um,
+[1:14:14] so moving forward, I just wonder, is
+[1:14:16] there anything that the audit committee
+[1:14:18] can do to support this work to ensure
+[1:14:20] we're able to receive the information
+[1:14:23] earlier so we have time to review it?
+[1:14:26] >> Yeah, it's our intent. we already have
+[1:14:28] calendared for our next year for
+[1:14:31] preliminary fieldwork and then uh our
+[1:14:33] final in the fall. So really the delay
+[1:14:36] of the federal shutdown and issuing the
+[1:14:38] guidance that's kind of an outlier in
+[1:14:42] terms of what we have control over. But
+[1:14:44] you know given the um the new Gazsby
+[1:14:47] statements that are coming up for us,
+[1:14:49] we're going to have our eyes on those
+[1:14:50] and be ready to um include those in our
+[1:14:53] report as as the best we can. So, aside
+[1:14:57] from that, aside from another delay due
+[1:14:59] to federal program shutdown, we we
+[1:15:02] should be on target to bring it to you
+[1:15:04] um in in January at the latest. Usually,
+[1:15:07] our December meetings a little early um
+[1:15:10] for the full report, but I definitely by
+[1:15:13] January.
+[1:15:13] >> Try to get it you you know you I know
+[1:15:16] you try to get it earlier.
+[1:15:18] >> Oh, yes. the sooner the better we can do
+[1:15:19] and if there's anything we can do to
+[1:15:22] >> to help probably not but uh just let us
+[1:15:25] know.
+[1:15:26] >> Thank you. I would appreciate any
+[1:15:27] feedback you guys have on the report for
+[1:15:30] readability or the staff memo uh as
+[1:15:32] well. So always looking to improve.
+[1:15:35] >> Okay. Well, thank you all so much. Um
+[1:15:38] we're look I'm looking at the clock and
+[1:15:41] um Janice
+[1:15:43] has uh a presentation for us on the
+[1:15:46] multilingual learners the English
+[1:15:49] language development audit report. And
+[1:15:51] since we are down to a short amount of
+[1:15:55] time
+[1:15:56] um Janice can either do the short
+[1:15:59] presentation or the long presentation. I
+[1:16:01] think she'll probably decide on the
+[1:16:03] short. So I'm going to turn it over to
+[1:16:05] Janice. And if anybody who's not wanting
+[1:16:09] to learn about this ELLL, oops, sorry,
+[1:16:12] it's not ELLL, it's changed this
+[1:16:14] presentation, you are welcome to sneak
+[1:16:17] out. You don't, we won't feel bad. So
+[1:16:20] Janice, it's up to you.
+[1:16:24] Great. Thank you everyone. Um, I printed
+[1:16:27] a copy of the report for you guys. Um,
+[1:16:30] so I want to start by just mentioning
+[1:16:33] that PPS is transitioning. the use of um
+[1:16:36] the language in the way in which we talk
+[1:16:38] about u multilingual learners. So what
+[1:16:42] was what we previously referred to as
+[1:16:46] ELLL or English language learners were
+[1:16:48] now using assetbased language. So
+[1:16:51] multilingual learners um and I along
+[1:16:57] with a lot of people will probably
+[1:16:58] accidentally slip but um it is the
+[1:17:01] intent to try to use that assetbased
+[1:17:03] language. Um if you have a the copy of
+[1:17:08] the report I'm just kind of go over the
+[1:17:12] executive summary with you guys because
+[1:17:15] um we're a little bit short on time. So
+[1:17:18] if you flip to page six of the report
+[1:17:22] that lists the executive summary. So the
+[1:17:26] objective of the audit was to determine
+[1:17:28] if the school district has adequate
+[1:17:30] internal controls to ensure compliance
+[1:17:33] with applicable requirements, stating in
+[1:17:35] part that public schools must take
+[1:17:38] affirmative actions to ensure students
+[1:17:41] with limited proficiency can meaningly
+[1:17:44] meaningfully participate in their
+[1:17:46] educational programs and services. We
+[1:17:50] identified a couple of key compliance
+[1:17:52] categories for testing.
+[1:17:57] Those are the identification and
+[1:17:59] assessment of ML students, multilingual
+[1:18:03] learners, um the required communication
+[1:18:07] with student families, the title three
+[1:18:10] EL familyformational sessions, and the
+[1:18:14] annual ELPA, which is the English
+[1:18:17] language proficiency assessment
+[1:18:19] summitive. um exiting the ELD program
+[1:18:23] and post-exit monitoring. We did um we
+[1:18:28] tested a lot of different students um
+[1:18:30] over a period of years and um we did
+[1:18:35] identify some non-compliance.
+[1:18:37] Ultimately the um the kind of
+[1:18:41] overarching conclusion is that we found
+[1:18:44] the internal controls need to be
+[1:18:46] strengthened to maintain the overall
+[1:18:48] integrity of the school district's
+[1:18:50] compliance with applicable requirements.
+[1:18:54] The audit did not did not identify any
+[1:18:58] instances of intentional fraud or even a
+[1:19:02] lack of care. Um actually quite the
+[1:19:04] opposite. We saw a lot of care being put
+[1:19:08] into the work. However, we did um
+[1:19:12] identify instances of non-compliance in
+[1:19:14] each of the key compliance categories we
+[1:19:17] tested as well as some opportunities for
+[1:19:20] process improvements.
+[1:19:22] We um made a total of nine
+[1:19:25] recommendations and management has
+[1:19:27] agreed with all nine of the
+[1:19:29] recommendations.
+[1:19:31] Um,
+[1:19:32] in the throughout the report following
+[1:19:35] each of the recommendations, management
+[1:19:38] has included their response and that's
+[1:19:41] in blue font. Um, so it will pop out to
+[1:19:44] you and it looks like they already have
+[1:19:48] a lot of things in the works in order to
+[1:19:52] address some of the instances of
+[1:19:54] non-compliance.
+[1:19:56] Um there is also um been a little bit of
+[1:20:00] shifting in staffing between the funded
+[1:20:04] programs team and the multi- lingual
+[1:20:07] services team. Um so the recommendations
+[1:20:13] are made primarily to the multilingual
+[1:20:16] services team which will have um which
+[1:20:20] will be the
+[1:20:22] team that will need to implement the
+[1:20:24] recommendations to ensure client um
+[1:20:27] compliance moving forward. And we do
+[1:20:31] today have with us Will Flores up there
+[1:20:34] in the corner just in case anybody wants
+[1:20:36] to ask him any questions. Um and we also
+[1:20:39] have Joanna Tobin here and um we wanted
+[1:20:43] to invite them like I I think that we
+[1:20:47] will have them back in 90 days or so to
+[1:20:52] talk about the implement plan sorry the
+[1:20:55] implementation plan that they come up
+[1:20:58] with over the next 90 days. So um but
+[1:21:03] definitely wanted to have them here in
+[1:21:05] case there are any specific questions.
+[1:21:09] Um
+[1:21:10] the team doing the work exercised a lot
+[1:21:15] of care and
+[1:21:17] appeared really diligent. I mean we saw
+[1:21:20] lots of emails with reminder emails and
+[1:21:23] and sending followup um to kind of get
+[1:21:27] that compliance going. So, I do think
+[1:21:29] that the recommendations that we've
+[1:21:31] provided will um kind of close some of
+[1:21:35] the accountability gap in our framework
+[1:21:38] by including
+[1:21:41] um by recommending that the multilingual
+[1:21:44] services team collaborate with our chief
+[1:21:46] of schools to develop a accountability
+[1:21:50] protocol that will support the team in
+[1:21:53] ensuring compliance.
+[1:22:00] That's high level. But luckily, I did
+[1:22:02] try to meet with you all to go over the
+[1:22:05] detailed, but I did anticipate it would
+[1:22:07] be a um a late night, so I did prepare
+[1:22:12] just a little bit to go over and I'll
+[1:22:14] take any questions that you might have.
+[1:22:17] >> Okay. I know you went over with us, at
+[1:22:20] least with me, and I assume everybody
+[1:22:22] else really carefully. Um I don't know
+[1:22:26] if um Jennifer and Caroline and or Evan
+[1:22:30] and you two you all did. Okay. So that
+[1:22:32] was wonderful. It was a really um
+[1:22:36] thorough presentation to all of us and I
+[1:22:38] really appreciated it.
+[1:22:40] >> And I think I'll just put out there I
+[1:22:42] think it's really important work. Um,
+[1:22:43] one thing we've been hearing about as a
+[1:22:45] board is that our multil- language
+[1:22:47] learners are the ones that are sometimes
+[1:22:50] having the hardest time um,
+[1:22:52] demonstrating academic progress. And we
+[1:22:56] have work to do to figure out why that
+[1:22:58] is, help increase their sense of
+[1:22:59] belonging in our schools, help them gain
+[1:23:02] the skill, academic skills that we want
+[1:23:04] them to gain so that they can be
+[1:23:06] successful adults. Um, so I think it's
+[1:23:08] just really great that we um that we
+[1:23:11] took a look at what was working and
+[1:23:13] wasn't working with that program. And I
+[1:23:15] hope that what's in there can be
+[1:23:16] informative so that we can better
+[1:23:19] identify these kids, get them the
+[1:23:20] services they need. And then I also
+[1:23:22] thought it was really important that we
+[1:23:23] looked at um how they were doing sort of
+[1:23:25] after they came out of the program. Um,
+[1:23:28] and I think it's so important that we um
+[1:23:31] make sure that these kids continue to
+[1:23:34] have somebody checking out to see if
+[1:23:35] they need um any I'm stuck thinking of
+[1:23:38] the word adaptations, which is not the
+[1:23:40] right word, but like adjustments or
+[1:23:42] whatever. Accommodations is the right
+[1:23:43] word. There we go. um if they need
+[1:23:45] additional accommodations to be
+[1:23:46] academically successful um and just
+[1:23:49] otherwise successful in school, although
+[1:23:50] we don't super measure that in the
+[1:23:52] process. But um but I just wanted to say
+[1:23:55] thank you and just for anyone listening,
+[1:23:58] it's just important work for something
+[1:24:01] that we are really needing to to lean in
+[1:24:03] on as a board and as a district. And I
+[1:24:06] also just wanted to thank um Chief Super
+[1:24:10] Chief, do we call her Super Chief
+[1:24:12] [laughter] Howard? I'm not sure what we
+[1:24:13] call her. Chief Howard um who um and her
+[1:24:17] team who um agreed to all the
+[1:24:19] recommendations and I think are like
+[1:24:22] excited to make the changes. It sounds
+[1:24:23] like um I think that um I think of I've
+[1:24:26] talked about this a little bit in other
+[1:24:28] spaces, but I think of audits and
+[1:24:31] accountability as just really important
+[1:24:34] to my own quality of work. Like if
+[1:24:36] nobody's ever reviewing my work, then
+[1:24:38] it's not going to be as good. And so I
+[1:24:40] think the more the district can like
+[1:24:41] open up and and the district does seem
+[1:24:43] to open up to audits as a chance to make
+[1:24:45] improvements um and just part of a
+[1:24:48] continuous improvement model which I
+[1:24:50] think is just important for any
+[1:24:51] organization or any human being. Um and
+[1:24:53] so I just wanted to specifically shout
+[1:24:56] out the folks you worked with on this
+[1:24:58] who were getting audited. Um [laughter]
+[1:25:00] and then also um uh Super Chief Howard
+[1:25:04] and her team for um just opening up to
+[1:25:07] getting that feedback and wanting to be
+[1:25:09] part of improving their work. I kind of
+[1:25:11] was repetitive, but forgive me.
+[1:25:15] >> But you repeated really nice things.
+[1:25:16] [laughter]
+[1:25:17] >> That's okay.
+[1:25:19] >> Okay. Um,
+[1:25:22] now that this report is presented to the
+[1:25:24] audit committee, it's considered final
+[1:25:27] and it's going to be added to the
+[1:25:29] completed audits posted on the PPS audit
+[1:25:31] reports page. I'll also send a request
+[1:25:34] to the board office to have the report
+[1:25:35] posted in the supplemental resources
+[1:25:37] section of board books for the next
+[1:25:40] regular meeting of the board. And I
+[1:25:41] think is that already done?
+[1:25:44] Okay. Um, and I don't know if anybody
+[1:25:48] will read the whole thing, but I think I
+[1:25:50] know there's there's a lot in it. Um, so
+[1:25:53] to wrap up the meeting, I want to just
+[1:25:55] take a few minutes to consider future
+[1:25:57] agenda topics for the audit committee
+[1:25:59] and next steps.
+[1:26:01] So, our internal auditor has been
+[1:26:03] tracking our progress on the audit
+[1:26:04] committee's work plan for the year
+[1:26:07] and it's on the agenda document that you
+[1:26:09] have in front of you. So, I know I don't
+[1:26:13] never remember from meeting to meeting
+[1:26:15] what's coming up, but if you want to
+[1:26:18] look at it, see what's coming up, see if
+[1:26:22] you want to add anything else. Um
+[1:26:27] um let us know. You don't really have to
+[1:26:30] let us know tonight even, but just look
+[1:26:32] ahead for um future when we make them
+[1:26:35] up.
+[1:26:37] I also know um that have to just check
+[1:26:41] on dates because I think
+[1:26:44] >> you have a real problem.
+[1:26:46] >> Yeah, you have issues.
+[1:26:47] >> Yeah, I think so. The the standing work
+[1:26:50] session meeting I think we're going to
+[1:26:52] be able to move that instead of this.
+[1:26:56] So,
+[1:26:57] I think I'm okay. I'm going to keep
+[1:26:58] coming to
+[1:26:59] >> March.
+[1:27:00] >> The other thing you're doing
+[1:27:03] >> I reached out to the chair of that.
+[1:27:05] They're gonna they're going to work on
+[1:27:07] >> maybe moving that the other day.
+[1:27:08] >> Perfect. Because it would be a lot of
+[1:27:10] >> Yeah.
+[1:27:10] >> changing dates.
+[1:27:12] >> Okay. Wonderful. Thank you,
+[1:27:13] >> Stephanie. Stephanie, thank you.
+[1:27:14] >> Oh, thank you. Um,
+[1:27:17] >> director. [laughter]
+[1:27:20] >> Um, I like first names. Me, too. Okay.
+[1:27:23] [snorts] Um,
+[1:27:25] so, [clears throat]
+[1:27:26] thank you for that. That really is
+[1:27:28] helpful.
+[1:27:30] Then to summarize next steps, I've got
+[1:27:32] two. I'll submit the English this
+[1:27:37] English. No, not I'm sorry. I got to say
+[1:27:39] it right. Multilingual
+[1:27:42] multilingual learner. Too many L's.
+[1:27:44] [laughter] It won't roll off the tongue.
+[1:27:47] Multilingual learner English language
+[1:27:49] development audit to the board office.
+[1:27:51] Um, oh, I already said that. Reported to
+[1:27:54] board book for the next meeting. and
+[1:27:57] I'll plan to touch base with the chair
+[1:27:59] of the board to discuss how to bring the
+[1:28:03] resolution we discussed. No, it's
+[1:28:06] already there. We'll I'll just tell him
+[1:28:07] we agree with that resolution.
+[1:28:10] And
+[1:28:13] um
+[1:28:15] then I was going to talk about
+[1:28:16] scheduling, but that's taken care of.
+[1:28:19] And anything else? Anybody have anything
+[1:28:22] they want to share or
+[1:28:25] have for future meetings or
+[1:28:28] >> anything?
+[1:28:32] Will you look at this?
+[1:28:33] >> Look at the time.
+[1:28:34] >> Janice, thank you. You did a great job
+[1:28:37] of presenting quickly. I know you had a
+[1:28:39] lot you could have said, but I do
+[1:28:41] appreciate it.
+[1:28:42] >> Thank you.
+[1:28:43] >> Should have asked if you guys wanted to
+[1:28:45] say anything.
+[1:28:48] I think we're really happy what was
+[1:28:50] presented.
+[1:29:10] >> I'm sorry for not directly thanking you
+[1:29:12] two that are in the room. I just didn't
+[1:29:13] know that you two were here for that.
+[1:29:16] So, just thanked your boss when I should
+[1:29:18] have thanked you. My apologies.
+[1:29:20] >> I get to do this meeting ajourned.
+[1:29:23] >> Nice work.
+[1:29:24] >> Yeah.

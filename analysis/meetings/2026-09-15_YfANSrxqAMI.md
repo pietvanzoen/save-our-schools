@@ -3,7 +3,7 @@
 - **Date:** Tuesday, September 15, 2026, noon (virtual). Started late because of technical problems [YT:YfANSrxqAMI@0:00:03].
 - **BoardBook:** meeting 766660, https://meetings.boardbook.org/Public/Agenda/915?meeting=766660 [MTG:2026-09-15/766660]
 - **Video:** https://www.youtube.com/watch?v=YfANSrxqAMI (about 54:14)
-- **Transcript:** English auto-captions, re-fetched 2026-10-11. This file replaces an earlier version based on Arabic machine-translated captions.
+- **Transcript:** English auto-captions, re-fetched 2026-10-11.
 - **Attendees:**
   - Committee chair Christy Splitt
   - Patte Sullivan

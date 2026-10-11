@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Print a window of a meeting transcript around a timestamp, to read context and check who is speaking.
 
-Usage:  python3 tools/window.py <videoId> <H:MM:SS> [minutes_before] [minutes_after]
+Usage:  python3 tools/window.py <videoId> <H:MM:SS> [minutes_before] [minutes_after] [--raw]
+Reads the corrected copy (analysis/transcripts_corrected/, caption name fixes in [brackets]) when it exists;
+--raw shows the original captions from sources/youtube/transcripts/.
         python3 tools/window.py zOUH2Jq7Owo 2:23:24          # default 2 min before, 2 min after
         python3 tools/window.py zOUH2Jq7Owo 2:23:24 0.5 4
 Each output line is "[H:MM:SS] caption text  <youtube link>" (the link is printed every ~30 s).
@@ -20,10 +22,13 @@ def secs(t):
     return parts[0] * 3600 + parts[1] * 60 + parts[2]
 
 def main():
-    vid, ts = sys.argv[1], sys.argv[2]
-    before = float(sys.argv[3]) if len(sys.argv) > 3 else 2
-    after = float(sys.argv[4]) if len(sys.argv) > 4 else 2
-    files = list((ROOT / "sources/youtube/transcripts").glob(f"*_{vid}.txt"))
+    args = [a for a in sys.argv[1:] if a != "--raw"]
+    vid, ts = args[0], args[1]
+    before = float(args[2]) if len(args) > 2 else 2
+    after = float(args[3]) if len(args) > 3 else 2
+    raw = "--raw" in sys.argv
+    files = [] if raw else list((ROOT / "analysis/transcripts_corrected").glob(f"*_{vid}.txt"))
+    files = files or list((ROOT / "sources/youtube/transcripts").glob(f"*_{vid}.txt"))
     if not files: sys.exit(f"no transcript for {vid} (see sources/youtube/videos_index.csv)")
     t0, lo, hi = secs(ts), secs(ts) - before * 60, secs(ts) + after * 60
     print(f"# {files[0].relative_to(ROOT)}  window {ts} -{before}m/+{after}m")

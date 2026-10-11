@@ -17,6 +17,8 @@ Everything here is derived from `sources/` and cites back to it. The citation fo
 | `_verification_report.md` | Independent fact-check: method, pass rates, 20 discrepancies, 25 corrections applied | Know which errors were fixed and how reliable each area is |
 | `_transcript_analysis_instructions.md` | Instructions given to the meeting-analysis agents | How `meetings/` and the quote batches were produced |
 | `README.md` | This index | — |
+| `transcripts_corrected/` | All meeting transcripts with caption mis-hearings of names fixed in [brackets], plus `corrections.csv` | Reading and quoting transcripts (search and `tools/window.py` use these) |
+| `_published_pages.md` | Shareable pages built from the archive, with links | Republishing |
 
 ## topics/: cross-cutting syntheses
 

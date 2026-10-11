@@ -1,0 +1,1314 @@
+# 2026-09-01 Board of Education's Intergovernmental Affairs Committee Meeting
+# Video: https://www.youtube.com/watch?v=kIF9qrrMy6E
+# Source: YouTube captions (asr, en), fetched 2026-10-11T01:01:59.124Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2026-09-01_kIF9qrrMy6E.txt
+# BoardBook meeting(s): 2026-09-01|763670
+# Link to a moment: https://www.youtube.com/watch?v=kIF9qrrMy6E&t=<seconds>s
+
+[0:00:02] The board of education's
+[0:00:03] intergovernmental affairs committee for
+[0:00:05] September 1st, 2026 is called to order.
+[0:00:08] Good afternoon and welcome to the very
+[0:00:11] first time this board will meet for this
+[0:00:14] 2627 school year. A little preview of
+[0:00:18] our agenda. We'll have an overview of
+[0:00:20] the public employee retirement system,
+[0:00:22] which is sure to be a big topic of
+[0:00:24] conversation during the upcoming
+[0:00:25] legislative session. And we'll also do a
+[0:00:28] review and discussion of some
+[0:00:29] legislative principles that we think we
+[0:00:32] ought to adopt as a group as we pursue
+[0:00:35] um our legislative agenda over the
+[0:00:37] course of the next few months. With
+[0:00:39] that, I'd love to begin with
+[0:00:40] introductions. We'll have um our two
+[0:00:43] directors introduce themselves first and
+[0:00:45] then staff can introduce themselves as
+[0:00:48] well. I'm Christy [Splitt]. I am um on the
+[0:00:52] Portland Public School Board. I am a
+[0:00:55] resident of zone one, but as always, we
+[0:00:57] represent the entire district as board
+[0:00:59] directors. And I'll turn it over to uh
+[0:01:02] Director Sullivan.
+[0:01:04] >> Hi, U Director Sullivan. Um board of
+[0:01:08] directors. I live in zone three and of
+[0:01:13] course represent the whole district.
+[0:01:15] And I'll call on Stephanie.
+[0:01:20] >> Hi, good afternoon. I couldn't get my
+[0:01:22] mute off. I'm Stephanie [Engelsman]. Um I
+[0:01:25] live in Southeast Portland, zone 6. Um
+[0:01:27] really excited to be here with this new
+[0:01:30] committee.
+[0:01:32] >> Great. And I'll ask Ben to come next as
+[0:01:34] he's running point for this committee as
+[0:01:36] our staff.
+[0:01:39] >> Good afternoon. Uh my name is Ben
+[0:01:41] Gerwitz and I'm proud to serve as the
+[0:01:43] senior manager of government relations
+[0:01:45] at PPS.
+[0:01:47] Christy, back to you.
+[0:01:49] >> Chief KOR.
+[0:01:53] Good afternoon. Really excited for this
+[0:01:55] uh inaugural kickoff of our committee.
+[0:01:58] Um Deborah [Kafoury], chief of staff at
+[0:02:00] PPS.
+[0:02:01] >> Great. And Michelle, you're going to be
+[0:02:04] presenting to us. So I don't know if you
+[0:02:06] need to introduce yourself as like
+[0:02:07] committee or go for it if you want.
+[0:02:09] Otherwise, we'll see you in a sec.
+[0:02:11] [laughter]
+[0:02:13] >> Um yeah. Hello Michelle Morrison. I have
+[0:02:16] a little bit of a feedback issue with my
+[0:02:20] machine. I don't know if you guys are
+[0:02:23] experiencing that. It's just me.
+[0:02:25] >> So Stephen, you sound great on this end
+[0:02:27] for what it's worth.
+[0:02:28] >> Good. Glad to hear that. Um, special
+[0:02:31] shout out to Roseanne Powell who
+[0:02:34] facilitates this committee that's other
+[0:02:37] committee. There you are, Roseanne.
+[0:02:41] Do you want to introduce yourself?
+[0:02:44] >> Sure. Yes. Roseanne Powell, board
+[0:02:46] manager. Happy to be here.
+[0:02:49] I was trying to not call on people that
+[0:02:51] didn't have their cameras on. Sorry.
+[0:02:52] [laughter]
+[0:02:53] That's my cue, I guess. All right. Um
+[0:02:55] well, thank you all for saying hello and
+[0:02:58] um we're going to start. First agenda
+[0:02:59] item is public comment. Did anyone um
+[0:03:01] sign up for public comment today? No.
+[0:03:04] Okay. Well, hopefully we'll have some
+[0:03:05] people decide to show up in the future.
+[0:03:09] All right. So, from that, we are going
+[0:03:12] to go into that overview of the public
+[0:03:15] employee retirement system. We've been
+[0:03:17] really excited to have this presentation
+[0:03:19] and I'm excited to have it here. And
+[0:03:20] Chief [Kafoury], would you like to
+[0:03:22] introduce this item for us?
+[0:03:24] >> Sure. Thank you. Um, PERS is a topic
+[0:03:28] that is hot in the press, but so often,
+[0:03:31] all too often, people don't quite
+[0:03:32] understand it because it is extremely
+[0:03:34] complex. We are very fortunate at
+[0:03:36] Portland public schools that our CFO is
+[0:03:39] a as close as one can get to an expert
+[0:03:42] on PERS without actually working in the
+[0:03:44] office u the PERS office. So I'm really
+[0:03:47] excited to have uh Michelle Morrison
+[0:03:49] here our CFO. She's going to talk about
+[0:03:51] how PERS is affecting our budget, our
+[0:03:54] stability and our the future of our
+[0:03:56] school district. Michelle,
+[0:04:00] >> thank you. Chief [Kafoury] again. Michelle
+[0:04:02] Morrison, chief financial officer for
+[0:04:05] Portland public schools. A long time
+[0:04:09] PERS nerd, uh, following the system for
+[0:04:13] 30 years, looking at all sides of it.
+[0:04:16] I'm involved with the PERS employer
+[0:04:19] advisory group where PERS staff will
+[0:04:22] bring concepts forward to public
+[0:04:24] employers for feedback. Um, and then
+[0:04:28] just tracking PERS through various forms
+[0:04:31] of legislative legislative issues.
+[0:04:35] Sorry, it's still getting feedback. Hold
+[0:04:37] on.
+[0:04:50] No,
+[0:04:52] I can hear now.
+[0:04:55] All right. I apologize for that. I'm
+[0:04:58] gonna go ahead and share my slides that
+[0:05:01] I have. Oh, I can't share slides.
+[0:05:05] Roseanne,
+[0:05:09] >> you should be able to share slides.
+[0:05:11] >> Okay.
+[0:05:13] It says, "The host isn't allowing
+[0:05:15] sharing for this webinar." So,
+[0:05:18] >> um, a little bit of backstory. I know
+[0:05:21] that Ben sent out a note yesterday to
+[0:05:25] ask you guys to do a little bit of
+[0:05:26] pre-work and check out the webinar uh
+[0:05:30] from Khan Academy that talked about
+[0:05:34] defined benefits versus a defined
+[0:05:36] contribution program. And I don't know
+[0:05:39] if you had a chance to do that, and if
+[0:05:41] you didn't, that's okay. But it's a
+[0:05:44] really terrific breakdown to compare the
+[0:05:47] difference, but also talks about the
+[0:05:50] risks of the assumptions of um hers
+[0:05:55] board or this the c the state as they
+[0:05:59] are funding pensions. Um and I think
+[0:06:03] it's in it's daylight's kind of the
+[0:06:05] state of our system today. So I
+[0:06:09] definitely encourage you to check that
+[0:06:12] out. Okay, I can see my windows now.
+[0:06:16] Thank you.
+[0:06:28] >> I'm trying to pull it up for you,
+[0:06:29] Michelle, too. And I'm having a
+[0:06:32] difficult
+[0:06:32] >> Would you like me to share the slides?
+[0:06:38] >> Yeah, if anyone chooses to do that. I
+[0:06:42] live in the world of Google Meets and so
+[0:06:45] this adventure is a little different for
+[0:06:47] me today.
+[0:06:49] >> The settings did change for what it's
+[0:06:50] worth. You might check again Michelle to
+[0:06:52] see if if you press share if it lets you
+[0:06:54] go. So you can control it if you want.
+[0:06:55] But
+[0:06:57] if it still doesn't work then yeah Bener
+[0:06:59] I can do Ben can do it. I have the
+[0:07:01] ability to share to you.
+[0:07:04] Looks like I can.
+[0:07:08] Let's see. Go to slideshow.
+[0:07:12] Holy smokes. There it is. Okay.
+[0:07:17] >> And I'm still getting echo. So, if my
+[0:07:19] speech is strange, it's because I'm
+[0:07:21] hearing it come out of my computer while
+[0:07:24] I talk.
+[0:07:26] So today we're going to talk about the
+[0:07:29] overview of the program uh system
+[0:07:33] administration what that looks like from
+[0:07:35] a state level our employer
+[0:07:38] responsibilities
+[0:07:39] and then also employee benefits.
+[0:07:48] Okay, can you still hear me? Okay,
+[0:07:53] I turned my sound off and it got rid of
+[0:07:54] the echo. So now I know.
+[0:07:58] All right. PERS overview. So PERS
+[0:08:01] actually has a really robust website too
+[0:08:04] for public at large for employers and
+[0:08:07] for employees at various benefit levels.
+[0:08:09] So I would encourage you to um always
+[0:08:12] check that out if that's in of interest
+[0:08:14] to you. Um the purpose of PERS is to
+[0:08:18] provide a reliable long-term retirement
+[0:08:21] income for public employees through a
+[0:08:22] structured pension plan. And I think our
+[0:08:25] public employees would often suggest
+[0:08:27] that yes, PERS is expensive, but they
+[0:08:30] also have bargained uh through
+[0:08:33] negotiations
+[0:08:35] um and given up compensation in order to
+[0:08:38] have this plan. And similarly for
+[0:08:40] insurance. So that was the purpose of
+[0:08:42] establishing um the PERS system. It is a
+[0:08:46] defined benefit program. Um, so it's
+[0:08:48] going to offer a predetermined monthly
+[0:08:51] benefit based on three years of final
+[0:08:54] average salary um,
+[0:08:58] regardless of the the career of a
+[0:09:01] person. So the video link there again to
+[0:09:04] the Khan Academy video that talks about
+[0:09:06] the difference between a defined benefit
+[0:09:08] program which is if you meet the minimum
+[0:09:11] requirements of uh eligibility then you
+[0:09:14] get the benefit whereas a defined um
+[0:09:17] contribution program is you set money
+[0:09:20] aside you hopefully it earns additional
+[0:09:23] dollars and then whatever you end up
+[0:09:25] with when you determine your retirement
+[0:09:27] that's the that's the amount that you
+[0:09:29] get. it's not a a benefit for the rest
+[0:09:31] of your life. It's just whatever you had
+[0:09:34] set aside. So that's what the um
+[0:09:37] uh video illustrates.
+[0:09:41] So for per system administration
+[0:09:43] um the governance so it's a state agency
+[0:09:46] with board members and um you guys may
+[0:09:49] be more or less familiar with this than
+[0:09:52] I am. maybe it's preaching to the choir
+[0:09:54] a little bit. Um but the board members
+[0:09:56] are appointed by the governor and the
+[0:09:59] rules that um guide it are adopted by
+[0:10:02] the legislator legislature. So every
+[0:10:06] legislative session there's usually a
+[0:10:08] couple um housekeeping some u minor
+[0:10:12] changes um just based on experience of
+[0:10:15] the system or situations that are coming
+[0:10:17] up. But um there have been some really
+[0:10:20] significant PERS reform efforts that
+[0:10:23] have um impacted the the long-term
+[0:10:26] health of the system. So the system
+[0:10:29] design
+[0:10:31] uh really the pension plan is organized
+[0:10:33] and managed at the state and district
+[0:10:35] levels. So um there are some um rules
+[0:10:40] regarding how the state manages the
+[0:10:42] system but then employers too have rules
+[0:10:44] that they have to adhere to and report
+[0:10:48] and so that our benefits for retirees
+[0:10:51] are correct.
+[0:10:53] um any type of reform again um really
+[0:10:56] address addresses the ongoing legal and
+[0:10:59] administrative changes to the system and
+[0:11:02] the kind of the long-term viability of
+[0:11:05] of the system. So how well it's funded.
+[0:11:08] You may have read that currently our
+[0:11:10] PERS um pension program has a very
+[0:11:13] significant unfunded liability which
+[0:11:16] creates a spike in employer rates
+[0:11:18] especially if market earnings on
+[0:11:20] investments don't meet the assumed
+[0:11:23] earnings rate of 6.9%.
+[0:11:27] So for our um employer responsibilities,
+[0:11:31] school districts and all public
+[0:11:32] agencies, so that includes cities,
+[0:11:34] counties, other districts. Um we are
+[0:11:39] responsible for funding kind of the gap
+[0:11:42] of um whatever isn't meeting the
+[0:11:46] liability whether it's the employee
+[0:11:48] contributions. Um it is a 6% for PPS
+[0:11:52] employees. So they also are contributing
+[0:11:54] to their retirement. Um and then for
+[0:11:58] again market earnings the assumed rate
+[0:12:01] for earnings for PERS in order for it to
+[0:12:04] maintain um kind of equilibrium is 6.9%.
+[0:12:10] So anytime those investment earnings are
+[0:12:13] under that the employers make up the
+[0:12:15] difference in the employer contribution
+[0:12:17] rate. Um if the earnings are higher
+[0:12:20] likewise the employers could experience
+[0:12:22] a a decrease in rate. Um but that is not
+[0:12:27] typically what happens or it hasn't
+[0:12:29] happened in the most recent piania.
+[0:12:32] So for an average educator the district
+[0:12:34] pays approximately
+[0:12:36] uh 22
+[0:12:38] um just 22
+[0:12:41] uh000 annually towards PERS and debt
+[0:12:44] service for the pension obligation
+[0:12:46] bonds. So we have the amount that we pay
+[0:12:49] to pers and then we also have an amount
+[0:12:51] in principal and interest that we pay
+[0:12:53] back on the pension obligation bonds
+[0:12:56] that we have sold in multiple tanches
+[0:12:58] over the years.
+[0:13:01] >> Chief Morrison, could I ask? So for
+[0:13:03] compliance purposes again um we have to
+[0:13:05] be really um
+[0:13:08] critical and detail oriented when we're
+[0:13:10] reporting of employee hours because that
+[0:13:12] uh will influence their benefit
+[0:13:15] calculations uh at the time that they go
+[0:13:17] to retire. And so every single public
+[0:13:19] employee has their hours of service
+[0:13:22] reported for different terms tur uh
+[0:13:25] tiers of um retirees. There's tier one,
+[0:13:29] there's tier two, and there's uh tier
+[0:13:31] three, also known as OPSer. Their um
+[0:13:35] hours may uh mean a different
+[0:13:38] calculation depending on the benefit
+[0:13:40] plans that they pick. So, it's still the
+[0:13:43] data that we report that drives that um
+[0:13:46] retirement monthly payment.
+[0:13:49] We have regular internal audits um to
+[0:13:51] make sure that our practices are aligned
+[0:13:54] with state standards and laws around
+[0:13:56] reporting. Um and then PERS does provide
+[0:14:00] training on their electronic platform
+[0:14:02] for data consumption and is currently in
+[0:14:05] the process of modernizing it. It's um
+[0:14:08] been static in place much like our PPS
+[0:14:11] peopleoft system for many years and it
+[0:14:14] is becoming less um less able to manage
+[0:14:18] the nuances of multiple tiers and
+[0:14:20] reforms and the complexities of our PERS
+[0:14:23] benefits system.
+[0:14:27] I can't see anyone. So Christie, could
+[0:14:29] you just come on and interrupt me if I
+[0:14:31] need to stop or change something?
+[0:14:35] >> You can't. Can you hear?
+[0:14:41] >> I'm sorry. Can you repeat that?
+[0:14:43] >> Yeah, I just was seeing if you could
+[0:14:44] hear. I think since you have the
+[0:14:45] situation you do with audio, let's just
+[0:14:48] go ahead and let you run. I was going to
+[0:14:50] ask a clarifying question just on but
+[0:14:52] I'll just keep tabs of my little
+[0:14:53] clarifying questions and ask at the end
+[0:14:55] and you can go back to the slide. Um
+[0:14:57] hopefully that works for the other
+[0:14:58] members of the committee given the
+[0:14:59] situation. So you just keep going and
+[0:15:01] turn your sound on when you're done.
+[0:15:04] >> Thank you. Thank you so much.
+[0:15:10] All right.
+[0:15:13] So any oper operationalizing
+[0:15:16] system changes. So when uh really for an
+[0:15:22] employer,
+[0:15:24] one of the most challenging things is to
+[0:15:26] forecast
+[0:15:28] um impacts of rate fluctuations. Um and
+[0:15:32] we're comparing to current service level
+[0:15:35] based on advisory information um from
+[0:15:38] PERS. Uh we are monitoring our pension
+[0:15:42] obligation bonds and when that debt
+[0:15:44] service becomes retired. Um but at the
+[0:15:46] same time that becomes retired, we lose
+[0:15:49] the rate credits from those side
+[0:15:51] accounts. And so that's really a big
+[0:15:53] part of what's coming us up for us in
+[0:15:55] the next bianium.
+[0:15:58] Um administering reforms. So changes to
+[0:16:01] contributions
+[0:16:03] uh retirey work limitations. For
+[0:16:05] example, there was a 1039 annual hour
+[0:16:09] limit for many many years which is
+[0:16:11] currently um suspended to allow retirees
+[0:16:16] to work back unlimited hours um for most
+[0:16:20] situations.
+[0:16:22] And then also as folks are getting ready
+[0:16:24] to retire, we try to through human
+[0:16:26] resources and our benefits team provide
+[0:16:29] resources to retirees so that they uh
+[0:16:32] understand where to go for information.
+[0:16:34] Our staff members are not PERS um
+[0:16:38] specialists. So they really have to
+[0:16:40] provide uh direction on on where folks
+[0:16:43] need to go for their planning purposes.
+[0:16:46] I think one of the thing that's uh
+[0:16:48] important to note here that every
+[0:16:50] employer is different and so for school
+[0:16:52] districts when we're thinking about um
+[0:16:56] advocacy around school funding a
+[0:16:59] situation for PPS can be very different
+[0:17:02] from any other situation in the state
+[0:17:04] depending on whether or not that
+[0:17:06] employer sold pension obligation bonds,
+[0:17:09] when they sold those bonds, how well
+[0:17:11] they did because uh each percentage
+[0:17:14] point of payroll is a significant impact
+[0:17:18] no matter what school district you're
+[0:17:19] in. But we all have a different
+[0:17:21] percentage point right now that we are
+[0:17:23] contributing either to PERS or to debt
+[0:17:26] service on those um bonds that we sold.
+[0:17:34] So this is um kind of a projected
+[0:17:38] uh graphic of our recent history and
+[0:17:43] then kind of what our uh [clears throat]
+[0:17:45] recent and um future experience looks
+[0:17:48] like based on uh information that was
+[0:17:51] released for it was the 2024
+[0:17:54] um advisory rates that were released and
+[0:17:57] the information that's currently on the
+[0:17:59] website. We will be receiving our actual
+[0:18:03] employer rate in October and with that
+[0:18:06] we'll come uh we'll kind of tie into a a
+[0:18:10] budget update as well. But you can see
+[0:18:12] now that we're currently
+[0:18:15] um
+[0:18:16] moving uh significantly
+[0:18:19] uh in 2728 in terms of costs both for
+[0:18:24] our um our PERS and our um
+[0:18:31] PERS U which is the debt service we pay
+[0:18:33] on the bonds.
+[0:18:36] All right. So our side accounts and
+[0:18:38] pension bonds. So this this these are
+[0:18:41] words that float around a lot in space
+[0:18:43] and can be difficult to track. So when
+[0:18:46] we um sold pension obligation bonds,
+[0:18:50] we've sold in 2002, 2003, and again in
+[0:18:53] 2020. And each one of those
+[0:18:56] circumstances has yielded a tremendous
+[0:18:58] benefit to PPS. The 2002 and 2003 um
+[0:19:04] side accounts created by the bonds that
+[0:19:07] we sold. So we we sell the bonds, we get
+[0:19:09] a big lump sum of cash and we send that
+[0:19:12] uh those funds to PERS and they invest
+[0:19:14] it over time and the the earnings on
+[0:19:19] those bonds was so great early on. So in
+[0:19:23] the early 2000s um that it provided us a
+[0:19:26] very very significant rate credit um
+[0:19:30] that a lot of employers didn't
+[0:19:31] necessarily experience um over the
+[0:19:34] course of the last 22 years. So, I can
+[0:19:37] share that uh in in PPS alone, the
+[0:19:41] pension bond strategy yielded, uh just
+[0:19:45] over $500 million in savings to us.
+[0:19:50] So, um what's happening for us coming up
+[0:19:54] is those rate credits as those bonds
+[0:19:57] expire are coming off um from PERS,
+[0:20:00] which is uh creating a significant
+[0:20:03] increase in our employer rate. um while
+[0:20:07] our pension uh obligation bond debt
+[0:20:10] service is going down. Just the timing
+[0:20:13] is a little challenging for us.
+[0:20:20] I'm going to I'm going to turn my
+[0:20:22] speaker back on because there are so
+[0:20:23] many questions that people have around
+[0:20:26] this strategy.
+[0:20:30] >> Patty or I'm sorry, Director Sullivan.
+[0:20:34] Yes, definitely. [laughter]
+[0:20:36] The um um the side accounts,
+[0:20:41] the earnings, when the bonds expire, why
+[0:20:45] it's so much bigger now, all that is
+[0:20:49] complicated. And if you could just kind
+[0:20:52] of explain it again, I mean, do I do
+[0:20:54] understand? So, do we sell bonds like we
+[0:20:56] do for for buildings
+[0:20:59] or
+[0:21:00] >> they're a different kind of bond. So
+[0:21:02] pension obligation bonds are not tax
+[0:21:06] exempt
+[0:21:08] and we we sell them for the purpose of
+[0:21:11] giving those dollars to pers for
+[0:21:14] investment purposes.
+[0:21:17] in 2002 and 2003, there was a a group of
+[0:21:22] employers that sold bonds. And because
+[0:21:25] it was a a large amount of money and the
+[0:21:29] market was very friendly, we we earned
+[0:21:32] an awful lot of of additional dollars
+[0:21:38] on top of
+[0:21:40] um
+[0:21:42] the principles. And and how do you get
+[0:21:45] the bonds [clears throat] in the first
+[0:21:46] place? Do they have to get approved?
+[0:21:49] >> Yes, they are. Okay.
+[0:21:52] >> Yeah.
+[0:21:53] >> I'm just going to go off and on. I'm
+[0:21:54] sorry. The the feedback is really um
+[0:21:57] difficult for me. So, yes, we would go
+[0:22:01] through a board process to sell those
+[0:22:03] bonds because it is an obligation and it
+[0:22:06] is repaid out of our operating budget.
+[0:22:10] So, I think that's important to know.
+[0:22:12] there's an analysis that happens to
+[0:22:14] determine whether or not the risk is
+[0:22:17] worth um the sale. Uh the market today
+[0:22:21] is not the same as it was at that time.
+[0:22:24] So there is a a higher level of risk. Um
+[0:22:28] and also the the length of the debt is
+[0:22:32] also another variable. Director Sullivan
+[0:22:35] um and and that's an option that we're
+[0:22:38] currently exploring. I do expect to
+[0:22:40] bring some information to the board as
+[0:22:42] soon as I get our final um employer
+[0:22:44] rates.
+[0:22:46] >> So does now is it that our side accounts
+[0:22:50] are totally used up?
+[0:22:54] Is that the case?
+[0:22:56] >> Yeah, the 2002 and 2003 are expiring.
+[0:22:59] >> Okay. in the next two years. The biggest
+[0:23:03] budgetary challenge for us in 2728 is
+[0:23:06] because we are still paying debt service
+[0:23:09] on those bonds. At the same time, we
+[0:23:11] will be experiencing a higher employer
+[0:23:13] rate. So, there's there's going to be an
+[0:23:16] an uptick for sure in um impact for that
+[0:23:20] one-year period and then it will
+[0:23:22] decrease back down to about um a more
+[0:23:26] level standard after that.
+[0:23:28] We will still continue to carry debt
+[0:23:30] service for the 2020 bonds that we sold
+[0:23:34] >> and and explain exactly what debt
+[0:23:36] service is.
+[0:23:38] >> So debt service
+[0:23:40] on um bonds. So we we sold we got a
+[0:23:44] whole bunch of cash um and this is
+[0:23:47] similar to our building bonds except for
+[0:23:50] that we can't raise additional taxes to
+[0:23:52] pay it back. So it's it's the the
+[0:23:56] principal and the interest payment back
+[0:23:58] on that money. Basically what the
+[0:24:01] pension obligation bonds do is we're
+[0:24:05] banking through analysis on p and uh
+[0:24:09] ability to invest and earn more money
+[0:24:12] than what we're going to owe on that
+[0:24:14] money. That's really what happens.
+[0:24:18] >> Okay.
+[0:24:22] Um, I just have a quick question while
+[0:24:24] we're on this topic. Um, Michelle from
+[0:24:26] or I'm sorry, I can never remember,
+[0:24:27] Chief Morrison, is that right? Um, can
+[0:24:30] you remind me of um how other like my
+[0:24:35] understanding is other districts are
+[0:24:37] experiencing a similar dynamic? It's not
+[0:24:39] just us. Can you explain a little bit
+[0:24:42] about that because I think you're pretty
+[0:24:43] close to other people in your role
+[0:24:45] around the state.
+[0:24:48] >> Yeah, thank you for that. My colleagues
+[0:24:49] and actually in our area. So Beaverton
+[0:24:52] and Hillsborow both are experiencing a
+[0:24:56] similar experience, not at maybe the
+[0:25:00] same level um overall as PPS um in the
+[0:25:04] in the upcoming bienium, but they are to
+[0:25:07] having some of their rate credits
+[0:25:09] expire. And that information can be
+[0:25:12] found on the PERS employer website. um
+[0:25:16] they have a rate projection tool that we
+[0:25:18] can use to determine um if we do a lump
+[0:25:22] sum deposit with them from pension
+[0:25:24] obligation bonds exactly kind of what
+[0:25:27] type of rate credit that might you know
+[0:25:30] project out. Um but the information that
+[0:25:33] they currently have loaded isn't isn't
+[0:25:35] current. It's from 2004. But it is true
+[0:25:38] that other districts are already um yes
+[0:25:42] experiencing the same thing.
+[0:25:46] Director Sullivan, you're muted.
+[0:25:50] >> Director Sullivan, you're muted.
+[0:25:54] >> Shouldn't we have been able to
+[0:25:56] anticipate this would happen?
+[0:26:03] >> Um,
+[0:26:05] yes and no. I think the whole pandemic
+[0:26:08] experience really kind of threw all
+[0:26:10] districts for a loop. Um, and that's a
+[0:26:12] whole another discussion around um,
+[0:26:18] payroll rates and how they impact what
+[0:26:21] employers pay to pers.
+[0:26:23] So that's not that's not information
+[0:26:25] that I had gathered here today. I do
+[0:26:27] think that folks had anticipated some
+[0:26:30] level of contribution needed and that
+[0:26:33] was why our PERS reserve account was
+[0:26:36] established but we already accessed it
+[0:26:39] in order to um avoid additional cuts in
+[0:26:43] uh the last fiscal year.
+[0:26:46] >> Yeah,
+[0:26:46] >> hold on. I have some tech support here,
+[0:26:48] guys.
+[0:26:54] Director Sullivan, you can keep talking.
+[0:26:58] >> Um,
+[0:27:02] sorry, that that was just my question.
+[0:27:05] Um, I guess we did anticipate it and
+[0:27:08] then we used some last year, use that
+[0:27:10] extra and there's just no more extra.
+[0:27:14] And I I know in reading or in listening
+[0:27:17] to the um video that Ben suggested we
+[0:27:20] listen to talked about, oh gosh, I think
+[0:27:24] the rates will go up so we can spend
+[0:27:26] more on teachers or you know, whatever.
+[0:27:28] And I suppose that's been happening for
+[0:27:30] years. So here we are.
+[0:27:34] >> Yeah.
+[0:27:35] >> Yeah. Thanks, Director [Engelsman]. Do you
+[0:27:38] have any Oh, you do. Perfect. I just saw
+[0:27:40] your hand go up. Go ahead. This is an
+[0:27:41] illustration of what we anticipate for
+[0:27:44] 2728 for our pension obligation. Um that
+[0:27:50] and that's the combined rate. That's an
+[0:27:52] increase in the employer rate and uh
+[0:27:55] still paying debt service on those
+[0:27:57] bonds. So we're going from about 24
+[0:28:00] cents on the dollar to almost uh to 33.5
+[0:28:03] cents on the dollar for wages that we
+[0:28:06] pay to eligible staff members. And so
+[0:28:08] it's creating uh a one-time challenge
+[0:28:11] for us for sure um in terms of planning
+[0:28:14] ahead. And this was information that was
+[0:28:17] used to um provide that budget deficit
+[0:28:21] that was shared in our longer term
+[0:28:23] projections back last spring.
+[0:28:30] >> Thanks, Director [Engelsman]. Go ahead.
+[0:28:32] >> Hi. Um, Chief Morrison, would you mind
+[0:28:34] going back to that slide? But more
+[0:28:37] importantly, the slide I had a question
+[0:28:38] on before your most recent statement.
+[0:28:41] Can you go back a couple more? It was
+[0:28:42] the one that showed it stabilizing and
+[0:28:44] going down. This one. Um, so before you
+[0:28:49] just made that last sentence statement,
+[0:28:51] I was going to ask about this slide and
+[0:28:54] remembering you saying that this next
+[0:28:56] budget year is going to be a crisis
+[0:28:59] again, but then things should stabilize.
+[0:29:02] Um,
+[0:29:03] is this table what we're looking at here
+[0:29:06] part of that stabilization hope outlook
+[0:29:10] that you mentioned?
+[0:29:12] >> Yeah.
+[0:29:13] >> Okay. So then on that, if you don't mind
+[0:29:16] going forward a few slides then that's
+[0:29:18] what I thought and then I looked at this
+[0:29:20] one um which looks like it goes down and
+[0:29:22] then goes back up. So, does that mean
+[0:29:24] that this stabilization budget hope is
+[0:29:27] only a year and that that we'll then go
+[0:29:30] back into budget crisis as this starts
+[0:29:32] to climb again?
+[0:29:33] >> Well, I think it depends on the level of
+[0:29:36] funding that we receive. Director
+[0:29:38] [Engelsman].
+[0:29:39] >> Okay.
+[0:29:39] >> Um, if if we receive a level of funding
+[0:29:42] that that kind of keeps pace with the
+[0:29:45] pension obligation as it grows over a
+[0:29:47] period of time. Um I'm not sure if I
+[0:29:50] included a slide or not in this chart,
+[0:29:52] but it uh if we once we get to 20 uh 527
+[0:29:58] or 3537
+[0:30:00] bianium, the curve actually starts to
+[0:30:02] come back down in employer rates because
+[0:30:06] some of those reform efforts have um are
+[0:30:09] starting to turn the tide around the
+[0:30:12] unfunded liability. So what you're
+[0:30:14] seeing projected here is based on what
+[0:30:17] PERS information was provided from the
+[0:30:20] 2004 24 year. They are preparing to
+[0:30:23] release information from 2025 that will
+[0:30:26] set our rates for that upcoming bianium.
+[0:30:29] So there will be an update to this. But
+[0:30:32] based on um kind of the history over
+[0:30:36] PERS's earnings and rates and the
+[0:30:38] unfunded liability um this is what would
+[0:30:42] based on historical data this is what we
+[0:30:44] could expect to see um in the next
+[0:30:47] couple of bianium.
+[0:30:49] >> Okay. Um
+[0:30:53] uh just for timekeeping sake um I think
+[0:30:56] this is a slightly different deck than
+[0:30:57] what's posted online for what it's
+[0:30:59] worth. Um, so or maybe not. Anyway, but
+[0:31:03] bottom line is um I think we have maybe
+[0:31:05] 10 more minutes for this conversation
+[0:31:08] for what it's worth.
+[0:31:10] >> Yeah.
+[0:31:11] >> Yeah. Let me move ahead.
+[0:31:13] >> This is a little bit different than what
+[0:31:15] was posted last February for the board.
+[0:31:18] Um, but this should be what is in our um
+[0:31:23] packet and I'll verify that for sure.
+[0:31:27] >> Okay. I think I think I figured it out
+[0:31:29] the actual benefit side of the picture
+[0:31:32] which is pretty amazing.
+[0:31:34] >> So there it is does provide guaranteed
+[0:31:36] income
+[0:31:38] um for the remainder of their life. So,
+[0:31:42] PERS uses a 20-year retirement window as
+[0:31:45] they're calculating the liability, but
+[0:31:47] the actual benefit will go for uh the
+[0:31:50] remainder of someone's um life, which is
+[0:31:53] a pretty tremendous benefit.
+[0:31:59] This is postreform uh PERS benefit. So
+[0:32:02] you can see we have tier one that was
+[0:32:05] the original um higher and for full
+[0:32:08] formula and money match. Those
+[0:32:10] calculation methods um generated some
+[0:32:13] pretty um large uh retirement benefits
+[0:32:17] for some folks. We have our tier 2 which
+[0:32:20] was a high date between 96 and August
+[0:32:24] 2003
+[0:32:26] um which is it was kind of the first um
+[0:32:29] blush reform and it was forward-looking.
+[0:32:32] it's was determined unconstitutional to
+[0:32:35] change benefits that folks had already
+[0:32:38] earned and that's why it's on the these
+[0:32:40] higher dates are so important when um
+[0:32:43] looking at both the benefit and and the
+[0:32:46] cost of that pension benefit. So tier 2
+[0:32:50] was um kind of some less significant
+[0:32:54] changes I think than OPSer or tier three
+[0:32:59] um with which um most of our staff
+[0:33:03] members today active staff members are
+[0:33:06] obser um eligible.
+[0:33:12] So, this was just an an imagination
+[0:33:16] scenario
+[0:33:17] um for an obser tier three educator.
+[0:33:20] Kind of this is what it would look like
+[0:33:23] um for them if we went through all of
+[0:33:26] the calculations. This is one of
+[0:33:28] multiple things they could choose to um
+[0:33:32] uh take as their benefit upon
+[0:33:34] retirement. There are some choices
+[0:33:35] available to them. Um but this is an
+[0:33:37] example of what that look might look
+[0:33:39] like.
+[0:33:41] So we have that final total benefit um
+[0:33:45] of just under 63,000
+[0:33:50] a year or 5237 per month that is gross.
+[0:33:54] They are taxed on that amount and there
+[0:33:57] is typically a um pers developed cola
+[0:34:00] that's applied um year after year on top
+[0:34:04] of that. So it's not necessarily static.
+[0:34:06] is designed to grow um over time with
+[0:34:09] inflation.
+[0:34:14] So this is the present value of future
+[0:34:16] benefits. And this was something that I
+[0:34:20] thought would be a great illustration.
+[0:34:22] It's not information that's available on
+[0:34:24] the on the PERS website, but I wanted to
+[0:34:27] make sure that, you know, we could talk
+[0:34:29] about what our current value of future
+[0:34:31] benefits is because I think for new
+[0:34:34] teachers, they don't necessarily
+[0:34:35] recognize
+[0:34:37] um how much the employer is contributing
+[0:34:39] to their future um when they are
+[0:34:43] considering um coming to work for PPS
+[0:34:45] for example. So, you can see here in
+[0:34:48] this graphic um across the the first
+[0:34:52] half of this chart is the working years,
+[0:34:55] the active uh 30-year period of a
+[0:34:58] educator or other public employee. Um
+[0:35:02] what their and I worked backwards from
+[0:35:04] what their probably likely final average
+[0:35:07] salary would be if they had one more
+[0:35:10] year to work for retirement. Um the
+[0:35:14] light green is significant because it
+[0:35:16] represents um the value of that
+[0:35:19] retirement spread out over the life of
+[0:35:22] that um career. So if they were to take
+[0:35:26] that benefit while they were working at
+[0:35:29] the end their last year they would have
+[0:35:31] earned 1518 $8.95
+[0:35:35] um instead of $110,000.
+[0:35:38] So, it's just all of that value spread
+[0:35:41] out over the life of the career. Um, but
+[0:35:43] instead they save it and they um have
+[0:35:46] that up until their retirement. This
+[0:35:49] again assumes a 20-year period after
+[0:35:52] retirement. It could be much longer.
+[0:35:59] Okay, I am going to
+[0:36:04] take any questions. I know we're out of
+[0:36:06] time.
+[0:36:08] Um, I think if anybody has subsequent
+[0:36:11] questions that are quick, let's get to
+[0:36:13] them. If people can write them down,
+[0:36:15] what I'm wondering about is if we can
+[0:36:17] invite Chief Morrison to come back and
+[0:36:19] we can have like a continuation of this
+[0:36:20] conversation so we don't slow down the
+[0:36:23] next thing that we need to get done so
+[0:36:24] that we can move forward. We'll talk a
+[0:36:26] little bit about that when we get to it.
+[0:36:27] Um, if that works for people.
+[0:36:30] >> Have one quick question if that's okay.
+[0:36:32] um if somebody works so I guess what are
+[0:36:35] the question about like vesting versus
+[0:36:39] if you vest how long do you does it take
+[0:36:41] to vest in pers and then what if you
+[0:36:43] don't work all the way through
+[0:36:44] retirement how does that affect whether
+[0:36:46] someone gets pers or how much they get
+[0:36:48] for life like what if they leave
+[0:36:51] Portland public schools after 12 years
+[0:36:53] of working here which I imagine is
+[0:36:55] postvesting but before retirement and
+[0:36:57] they go I don't know do something
+[0:37:02] Yeah, thank you for that question. It
+[0:37:04] depends on if they go to work for
+[0:37:05] another public employer.
+[0:37:08] If they did that, it would kind of
+[0:37:09] follow with them and and they would
+[0:37:12] still be able to get their full benefit.
+[0:37:15] um they will have some level of
+[0:37:20] benefit, but it's going to be based on
+[0:37:22] their final average salary and it's
+[0:37:26] whatever they contributed to their
+[0:37:28] individual um account as well. That's
+[0:37:31] that's part of the whole benefit
+[0:37:33] package. Um they had there's a five-year
+[0:37:37] minimum
+[0:37:39] and there's uh I think there's the first
+[0:37:41] six months of hires a waiting period. So
+[0:37:44] I mean those those two things are
+[0:37:47] probably milestones for a career. I
+[0:37:49] don't think you get any benefits if you
+[0:37:50] work less than five years. And even uh
+[0:37:54] there may be an hourly requirement to
+[0:37:56] like a minimum number of hours for
+[0:37:58] example. So if you're super part-time
+[0:38:01] for 5 years um you still might not
+[0:38:04] qualify for benefits.
+[0:38:08] >> That's helpful. And Patty if it's quick
+[0:38:09] go ahead. Otherwise, I'm happy to hear
+[0:38:12] >> bouncing off of that. If um so for those
+[0:38:16] first five years or you didn't work
+[0:38:17] quite five years, you didn't get any
+[0:38:20] benefit, but were you paying in those
+[0:38:22] five years to the system?
+[0:38:27] >> But you never get that back.
+[0:38:28] >> No.
+[0:38:29] >> Okay.
+[0:38:30] >> Yep. Um All right. So, um with that, I'
+[0:38:35] I'd actually love to continue the
+[0:38:36] conversation. and I had questions that I
+[0:38:38] didn't ask. So, we'll build that in for
+[0:38:40] next time um to just do a little more
+[0:38:43] because this is going to be a really
+[0:38:44] important topic for us to understand. Um
+[0:38:47] but with that, I'd love to turn things
+[0:38:48] over to it. I thought that Ben was
+[0:38:52] leading it, but it sounds like my script
+[0:38:54] has me turning things over to Deborah.
+[0:38:55] So, you guys can like publicly row
+[0:38:56] shambo for it and decide who wants to go
+[0:38:59] ahead and introduce the conversation.
+[0:39:00] >> Yeah, we have an internal Thank you for
+[0:39:02] that uh director. We have an internal
+[0:39:04] direction that chiefs are supposed to
+[0:39:06] kick off.
+[0:39:08] >> Okay, great. Go ahead, Chief Kore.
+[0:39:11] >> Um because it has nothing to do with the
+[0:39:13] fantastic uh qualities and capabilities
+[0:39:16] of our government relations um senior
+[0:39:18] manager Ben. Uh so that is a really
+[0:39:21] interesting conversation and super
+[0:39:23] complex and you can understand why many
+[0:39:26] legislators who are overseeing this
+[0:39:28] don't have the understanding that they
+[0:39:30] actually should have because you can
+[0:39:32] spend a whole session being on a
+[0:39:34] committee that is nothing but pers like
+[0:39:36] I did and still struggle with the
+[0:39:39] intricate details of it. It's just
+[0:39:40] really complex and I'm really thankful
+[0:39:42] that you all are taking your time to try
+[0:39:44] to understand it because not a lot of
+[0:39:46] people do and it makes a difference. But
+[0:39:50] we also know that it's really important
+[0:39:52] as we enter into um the time right
+[0:39:55] before the long legislative session of
+[0:39:57] 2027 that our board has a legislative
+[0:40:02] agenda. And the first step in that is to
+[0:40:04] have a discussion about the principles
+[0:40:06] that we want to talk about that will
+[0:40:08] help guide the future conversations
+[0:40:10] around a legislative agenda which again
+[0:40:13] we haven't had this committee since my
+[0:40:15] time here at school district and I think
+[0:40:17] it will really help you all to hone in
+[0:40:20] on what are the crucial elements that we
+[0:40:23] want to both advocate for and um oppose
+[0:40:27] during this upcoming session. So, uh,
+[0:40:29] take it away.
+[0:40:33] >> Great. Um, well, thank you, Chief
+[0:40:35] [Kafoury]. Um, and I am just sharing my
+[0:40:38] slides. One moment.
+[0:40:42] Oops. One moment.
+[0:40:47] Um, can everyone see my slides?
+[0:40:51] >> Yep.
+[0:40:52] >> Great. Um, so yeah, thank you again,
+[0:40:55] Chair [Splitt] and Chief [Kafoury], Ben
+[0:40:58] Gerwood's here on the government
+[0:41:00] relations team. Um, and since this is
+[0:41:03] the first inaugural meeting, I just
+[0:41:05] wanted to take a couple minutes to kind
+[0:41:08] of give a little bit of level setting of
+[0:41:10] what these next couple of meetings are
+[0:41:13] going to look like, what are we going to
+[0:41:14] do, uh, what could we do, and really
+[0:41:17] also hear from you about what you want
+[0:41:19] this to look like. Um so so
+[0:41:25] really the purpose of this committee and
+[0:41:28] this is really coming from a discussion
+[0:41:30] that I had with chair [Splitt]. Um the
+[0:41:33] vision is really to work towards
+[0:41:34] establishing a set of legislative
+[0:41:36] priorities that will become our our the
+[0:41:40] official legislative priorities for the
+[0:41:42] 2020 long 2027 long session.
+[0:41:46] um that will guide our work. And in
+[0:41:49] developing that those uh legislative
+[0:41:52] priorities, we want to use this as a a
+[0:41:55] platform to hear from our external
+[0:41:57] partners who will be in the trenches
+[0:41:59] with working together to fight for
+[0:42:01] public education and hear what they're
+[0:42:03] working on and maybe hear how their
+[0:42:05] priorities might impact or influence
+[0:42:08] what we want to work on. Um, and then as
+[0:42:12] we adopt those legislative priorities,
+[0:42:15] we get into legisl the legislative
+[0:42:17] session. This will also be an
+[0:42:19] opportunity for the board members to
+[0:42:21] hear kind of the updates on what those
+[0:42:23] priorities are, how are they shaping
+[0:42:26] out, um, what are they looking like and
+[0:42:29] what are might be some opportunities to
+[0:42:32] continue engagement into advocacy and
+[0:42:35] help strategize.
+[0:42:37] Um, so a little bit about how this is
+[0:42:39] going to roll out over the next couple
+[0:42:41] of of months here. Um, we're on step one
+[0:42:45] today. Woohoo. We've made it. Um, we're
+[0:42:48] going to discuss some legislative
+[0:42:49] principles. Um, we're next meeting we're
+[0:42:53] going to take what you all have given me
+[0:42:55] and we're going to recommend to the
+[0:42:57] board what those legislative principles
+[0:42:59] are. Um after that we're going to hear
+[0:43:02] from external partners on their
+[0:43:04] legislative priorities and then when you
+[0:43:07] combine the legislative prior principles
+[0:43:12] and the presentations from our partners
+[0:43:14] that will form form into November 10th.
+[0:43:18] We're going to establish our final
+[0:43:20] legislative priorities and then the
+[0:43:23] board will vote um on November 17th um
+[0:43:27] through a presentation and a robust
+[0:43:29] discussion and that will be kind of our
+[0:43:32] official kickup into legislative
+[0:43:33] session. So this might seem like you
+[0:43:36] know it's 3 months away but it's really
+[0:43:39] in my mind it's tomorrow. We're really
+[0:43:41] knocking on the door.
+[0:43:43] Um so getting a little bit into deeper
+[0:43:46] in a little bit deeper into step one I
+[0:43:50] think that you might have the question
+[0:43:52] of like why do we need to establish
+[0:43:54] legislative principles? Um we need to be
+[0:43:58] unified in our communication and our
+[0:44:01] thinking. Um, if if you I always like
+[0:44:05] think about if you want to go far, go
+[0:44:06] alone. Or if you want to go fast, go
+[0:44:09] alone. But if you want to go far, go
+[0:44:10] together. And by going together, we can
+[0:44:13] really make some big headway. Um, part
+[0:44:15] of that is going to be you all meeting
+[0:44:18] with legislators in your district,
+[0:44:19] talking about things like PERS, um,
+[0:44:22] talking about some of the other
+[0:44:23] priorities that you have, um, really
+[0:44:25] building some momentum, uh, and buyin
+[0:44:28] from our elected officials. Um, as I
+[0:44:31] said, it's also going to kind of garner
+[0:44:34] the way that we think through what our
+[0:44:37] partners are looking at and what they're
+[0:44:39] prioritizing.
+[0:44:41] Um, and it'll also help us understand
+[0:44:44] what the ways that legislators are
+[0:44:47] presenting their their ideas and
+[0:44:50] concepts ahead of the 2027 session.
+[0:44:54] Um, does anyone have any questions on
+[0:44:57] this slide before I move forward?
+[0:45:03] Seeing none, I'll move us right along.
+[0:45:06] Um, so I took the liberty of kind of
+[0:45:10] giving a little bit of a loose idea of
+[0:45:12] what could be some um legislative uh
+[0:45:17] principles. Um, but then after this
+[0:45:19] slide, I'll turn it back to direct
+[0:45:22] director [Splitt] to help facilitate a
+[0:45:24] conversation to kind of formalize those
+[0:45:26] ideas. But here are some ideas that I
+[0:45:28] have. Um and uh and also those were
+[0:45:33] developed in uh in collaboration with
+[0:45:37] many on this call. Um but adequate
+[0:45:39] funding to meet students needs, support
+[0:45:42] for students with disabilities, um
+[0:45:44] strengthen education or strengthen
+[0:45:47] educator preparation programs, defend
+[0:45:49] against unfunded mandates. Um and
+[0:45:53] perhaps there's others that you all have
+[0:45:55] in mind. Um, so with that, pretty short
+[0:45:58] and sweet. Um, I will turn it back to
+[0:46:01] Chair [Splitt] to help lead us in a
+[0:46:03] discussion. And
+[0:46:04] >> will you go ahead? Will you put slide
+[0:46:06] five on for our discussion?
+[0:46:08] >> Yes.
+[0:46:09] >> Great. Thank you.
+[0:46:12] >> Well, I just wanted to say thank you so
+[0:46:14] much to to Ben and to Chief Kore
+[0:46:19] um pulling this together. One of the
+[0:46:22] things that um Ben and I talked about um
+[0:46:26] in putting together both this committee,
+[0:46:28] by the way, for what it's worth, what
+[0:46:30] you're sharing is like the pres not the
+[0:46:32] presentation.
+[0:46:32] >> Oh, I'm sorry. I'm sorry.
+[0:46:34] >> It's totally okay. I don't really mind.
+[0:46:35] But if you want us to see your tropical
+[0:46:38] background, I wish we were elsewhere.
+[0:46:39] You're killing it. But um anyway,
+[0:46:42] [laughter] we had a discussion about
+[0:46:43] this and one of the things but I do want
+[0:46:45] to see see slide five still. So when you
+[0:46:47] get
+[0:46:48] >> uh I'm just pulling it up. I'm taking it
+[0:46:50] down.
+[0:46:52] >> Um [clears throat] but um but what um
+[0:46:54] what we wanted to do was have principles
+[0:46:56] to really help us in our conversations
+[0:47:00] with legislators and really give um each
+[0:47:05] member of the board because I would love
+[0:47:06] each member of the board to take on
+[0:47:08] meeting with that. We have a lot of
+[0:47:10] legislators. We have a lot of people who
+[0:47:12] live in Portland. So we have a lot of
+[0:47:14] legislators compared to other districts.
+[0:47:16] And so I'm hoping we can develop these
+[0:47:18] principles and then I can send out an
+[0:47:21] email to kind of or perhaps we do it
+[0:47:23] here to see who would like to meet with
+[0:47:24] like which legislators and we'll be
+[0:47:26] taking that principles document with us
+[0:47:29] so that it gives us like a tool to walk
+[0:47:31] through sort of what we're thinking are
+[0:47:33] important issues and hear from them what
+[0:47:35] we're missing from what they're hearing
+[0:47:37] from families, from constituents, from
+[0:47:39] others um to kind of go out and do that
+[0:47:42] work. So the principles document to me
+[0:47:44] is really critically important for that.
+[0:47:46] But again, we'll be s this will not be
+[0:47:48] our final legislative agenda. This will
+[0:47:51] just be kind of an iterative step in
+[0:47:53] case that wasn't clear. So I'm thankful
+[0:47:55] um to to you for putting that forward.
+[0:47:57] Um this list looks great to me. Um, I I
+[0:48:01] can't think of a specific thing I'd add,
+[0:48:03] but I'd welcome input from Director
+[0:48:05] Sullivan and Director [Engelsman], whether
+[0:48:07] that's today or if you want to send
+[0:48:10] ideas on after marinating on it, um, to
+[0:48:13] Ben, then we can have a a new list that
+[0:48:17] we talk about in two weeks from now, um,
+[0:48:20] with any additions that you have either
+[0:48:21] today or otherwise. Um but the adequate
+[0:48:25] funding um one thing on that one is
+[0:48:27] really also I really want to make it
+[0:48:30] clear that we have this unique situation
+[0:48:32] that other districts share with us this
+[0:48:35] moment in time where we're really being
+[0:48:36] hit by PERS. Um, so that I want to make
+[0:48:40] sure that that even though it's not
+[0:48:41] called out here, I think that in the
+[0:48:43] final document, I would want it called
+[0:48:44] out as like a special circumstance that
+[0:48:46] warrants like special attention from the
+[0:48:48] legislature just given the challenges
+[0:48:50] they're having overall with budget. But
+[0:48:53] otherwise, the support for students with
+[0:48:54] disabilities to me can include things
+[0:48:57] like looking at the special education
+[0:48:59] cap, looking at the high um the
+[0:49:01] high-cost disability. We have a couple
+[0:49:03] of contracts up tonight for hundreds of
+[0:49:07] thousands of dollars for individual
+[0:49:09] students. Um, just to give an example
+[0:49:11] and the state has this policy of helping
+[0:49:15] us to pay for that, but then they don't
+[0:49:17] actually fund it adequately. So, that's
+[0:49:18] the sort of thing we're talking about
+[0:49:20] there. Um, the strengthen educator
+[0:49:22] preparation programs, if you're on TLE
+[0:49:24] or have watched, you've heard me talk
+[0:49:26] about this. We pay a lot of attention to
+[0:49:28] our multiling multilingual learners, but
+[0:49:31] we don't offer what half the states in
+[0:49:33] the country do. Um is or require as half
+[0:49:36] the states in the in the country do um
+[0:49:38] that educators coming out of teacher
+[0:49:40] education programs in this state come
+[0:49:42] out prepared to be um teaching English
+[0:49:45] language learners. And I can't remember
+[0:49:47] it's a higher amount. I believe like
+[0:49:49] twothirds of states require science of
+[0:49:51] reading training for new teachers. Now
+[0:49:54] I've got the numbers. I know I sent them
+[0:49:55] to Ben at some point, but that's one
+[0:49:57] that's on my mind where we're falling
+[0:49:59] behind other states that are having
+[0:50:01] these requirements to make sure teachers
+[0:50:03] arrive on day one with some extra
+[0:50:04] training in two areas where we know that
+[0:50:06] we struggle. Um, and then finally, just
+[0:50:09] the perpetual defending against unfunded
+[0:50:11] mandates. So, um, especially in a time
+[0:50:13] when there's not a lot of money and a
+[0:50:15] lot of desire to do a lot of things
+[0:50:16] around education, like for example,
+[0:50:18] extend the school year without
+[0:50:20] additional resources seems to be on some
+[0:50:22] to-do lists. Um, I want to make sure
+[0:50:24] that we're in shape to to um to have a
+[0:50:27] voice there. So, these are I' I've
+[0:50:29] talked about them with Ben. These look
+[0:50:31] good to me, but I'm super curious and
+[0:50:33] we'll stop talking now to let um
+[0:50:35] Director [Sullivan] or Director [Engelsman]
+[0:50:36] share anything that's missing. But
+[0:50:38] again, I want to open the door for this
+[0:50:40] entire like 10 days ahead of us to get
+[0:50:43] any other ideas to Ben to include for
+[0:50:45] our conversation on the 15th. So you
+[0:50:47] don't have to feel pressured to be ready
+[0:50:49] and answer today since we have to talk
+[0:50:51] about it first here versus being able to
+[0:50:53] set up in advance.
+[0:50:57] >> Go ahead, Director Sullivan, but take
+[0:50:58] yourself off mute.
+[0:51:03] >> I thought I did, but I put myself off.
+[0:51:05] >> Yeah, [laughter]
+[0:51:06] I saw it.
+[0:51:07] >> I was gonna be on top of it this time.
+[0:51:09] Um, yeah, I think the unfunded mandates
+[0:51:12] is a really, really good one for me.
+[0:51:15] like when you talk about um the support
+[0:51:19] for English language learners and
+[0:51:20] science of reading they're they would be
+[0:51:22] very happy to require that without
+[0:51:24] giving us money. So I think we have to
+[0:51:26] be careful too about what we want them
+[0:51:28] to do and make sure they fund it. Um I
+[0:51:32] just I'd have a list of all the unfunded
+[0:51:34] mandates and is there any chance to get
+[0:51:37] rid of any unfunded mandates do you
+[0:51:39] think that they've already given it?
+[0:51:41] That's another thing we might think
+[0:51:43] about. I certainly wouldn't mind
+[0:51:45] tweaking our principles to reflect both
+[0:51:47] defending against and getting rid of
+[0:51:49] >> and getting rid of some that you know
+[0:51:52] >> we can get you a list of um at least
+[0:51:56] some of I'm sure there's some more
+[0:51:57] embedded in there that we don't know
+[0:51:59] about but we can get you a list. So uh
+[0:52:01] if you want
+[0:52:02] >> you gave me a really good list which I
+[0:52:04] think [laughter] and maybe there's even
+[0:52:05] more. Um, so I guess those two things
+[0:52:09] I'm really really thinking about. And my
+[0:52:13] experience in speaking with legislators
+[0:52:16] last year when we went down was they
+[0:52:19] sort of listen and say, "Oh, yeah,
+[0:52:21] that's important, but we don't have the
+[0:52:22] money." So, I guess I'm looking for
+[0:52:26] um
+[0:52:28] I don't know, maybe ways that might work
+[0:52:30] better. So, and oh, and when you talk
+[0:52:32] about partners, are you talking mostly
+[0:52:34] about union partners?
+[0:52:41] Maybe it might be good um and director
+[0:52:44] engments
+[0:52:47] at this point from um director [Engelsman]
+[0:52:50] to hear some of the groups that we have
+[0:52:52] lined up to come talk with us at those
+[0:52:54] committee meetings that are coming up.
+[0:52:56] Um as we mentioned, we're making sure
+[0:52:58] we're hearing from external groups
+[0:53:00] because we want to go far together. Um,
+[0:53:02] so do you have anything director engated
+[0:53:10] list of unfunded mandates? And um, as we
+[0:53:13] prepare, I'd love to see within that
+[0:53:16] um, like a cost analysis of what the
+[0:53:19] what each unfunded mandate has cost our
+[0:53:21] district. And cost analysis would
+[0:53:23] include [snorts] um like employee like
+[0:53:27] um how it might have affected we had to
+[0:53:31] lay some people off to hire other people
+[0:53:33] to do things that the first people
+[0:53:34] weren't prepared to you know just um a
+[0:53:38] consequences list of how those unfunded
+[0:53:40] mandates have affected the district. But
+[0:53:43] I'd love to have that sent to me too.
+[0:53:45] >> Yeah, that's great. I know we have the
+[0:53:46] list of unfunded mandates and a lot of
+[0:53:48] legislators were asking us for costs and
+[0:53:50] I don't know that we were ever able
+[0:53:52] given where we were in timing to put
+[0:53:55] that together, but if we can get that, I
+[0:53:57] know it would be really helpful.
+[0:53:59] >> I I do know that um the Coalition of
+[0:54:01] School Administrators and the Oregon
+[0:54:03] School Board Association put together an
+[0:54:06] updated list that does have some costs.
+[0:54:08] So, I can um I can get that to you all.
+[0:54:11] >> Love that. Great. Um, do you want to lay
+[0:54:15] out um, Ben, before you disappear, um,
+[0:54:17] do you want to lay out who's been
+[0:54:19] invited so far and just see um, if
+[0:54:22] there's any other organizations that
+[0:54:24] anybody else would like to make sure we
+[0:54:26] invite. And I know don't know how many
+[0:54:27] people are listening at home or at work,
+[0:54:29] but if you have are hearing this and
+[0:54:31] have other ideas, please be in touch
+[0:54:33] seps.net
+[0:54:34] if there are groups that you would like
+[0:54:36] us to hear from as well.
+[0:54:39] >> Yeah. Um just kind of a curs cursory
+[0:54:43] list. Um we have reached out to the
+[0:54:46] Portland Association of Teachers, our
+[0:54:49] our fabulous teacher union. Um and they
+[0:54:53] um so they have received the invite. Um
+[0:54:56] another group is community and parents
+[0:54:58] for public schools has received an
+[0:55:00] invite and are planning to attend. Um
+[0:55:03] and they um
+[0:55:06] CPPS is short. um they're a group of
+[0:55:10] very active parents who um really want
+[0:55:13] to fight for public schools. Um so
+[0:55:15] excited to have them. Um and then that
+[0:55:17] third group that I reached out to is
+[0:55:19] actually other school districts. So
+[0:55:21] there's a couple school districts um
+[0:55:24] across the state kind of with very
+[0:55:26] geographic uh demog demographics
+[0:55:31] um who have uh lobbyists in the same way
+[0:55:34] that I am a lobbyist for PPS. Um and
+[0:55:38] we've invited them to come talk about
+[0:55:40] some of their lo leg legislative
+[0:55:42] priorities that they're adopting and
+[0:55:44] working towards. Um so that's a short
+[0:55:46] list. Um and super welcome feedback on
+[0:55:51] an on additional uh organizations.
+[0:55:55] >> Great. We can keep talking about that
+[0:55:57] and if you have ideas, please feel free
+[0:56:00] to send them to me or Ben. Um
+[0:56:02] particularly Ben if you're a board
+[0:56:04] member. And then if [clears throat]
+[0:56:05] you're not a board member, you can email
+[0:56:06] either one of us. And then um the other
+[0:56:09] thing is I guess we've sort of morphed
+[0:56:11] into our last agenda item meeting, which
+[0:56:13] is any other topics that folks would
+[0:56:15] like us to cover um in this venue. Um
+[0:56:19] and again, we'll ask this at every
+[0:56:20] meeting, so don't feel like you need to
+[0:56:22] come up with it now.
+[0:56:25] Director Sullivan, Director [Engelsman],
+[0:56:27] anything else other than sort of this
+[0:56:29] principles piece, hearing from other
+[0:56:31] groups and then working on a legislative
+[0:56:33] agenda?
+[0:56:36] >> Yeah, for me maybe more direction in how
+[0:56:40] to contact um what's your best way of
+[0:56:44] making a difference by going down to the
+[0:56:46] legislature.
+[0:56:49] >> It's like an advocacy advocacy 101
+[0:56:52] >> to help me know. Yep. Best way to do it.
+[0:56:55] Absolutely. Do that. Great.
+[0:56:57] >> I have a quick question. Director
+[0:56:59] Sullivan, are you talking about for
+[0:57:01] yourself, for board members, or for uh
+[0:57:04] your constituents who may be emailing
+[0:57:06] you asking how they can help or both?
+[0:57:07] All of the above.
+[0:57:08] >> All of above. I was thinking of myself,
+[0:57:11] but all of above would be very useful.
+[0:57:15] >> Great.
+[0:57:16] >> And I'll just offer one thing. I know
+[0:57:18] we're on time. Um I Ben is and and I
+[0:57:21] both are more than willing and ready to
+[0:57:23] help anyone who wants some training. So
+[0:57:26] Director Sullivan, I know you're here
+[0:57:28] here in our off building a lot. If you
+[0:57:30] want to stop by and schedule some time,
+[0:57:32] we can help um help you with figuring
+[0:57:34] out the best way to respond when a
+[0:57:36] legislator says we don't have any money.
+[0:57:42] >> Does it just print some more? I joke. I
+[0:57:44] joke. Okay. Um any last words from
+[0:57:46] Director [Engelsman]?
+[0:57:48] Okay, with that, um, our next meeting
+[0:57:50] will be Tuesday, September 15th at noon.
+[0:57:53] We've already asked that we have a few
+[0:57:55] minutes to ask any follow-up questions
+[0:57:57] to Chief Morrison if she's willing to
+[0:57:59] come back and join us at that one. If
+[0:58:01] that doesn't work, we'll talk about
+[0:58:02] another one. Um, we'll continue to talk
+[0:58:05] about the principles document and
+[0:58:06] ideally make recommend recommend that
+[0:58:09] document to move forward um, for final
+[0:58:12] approval. Um, so we have a couple of
+[0:58:14] agenda items and I think we may have
+[0:58:16] some of our external groups that day. So
+[0:58:18] we'll look forward to seeing you all on
+[0:58:20] September 15th at noon and this meeting
+[0:58:22] is adjourned.

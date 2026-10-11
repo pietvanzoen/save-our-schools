@@ -3,7 +3,7 @@
 - **Date:** Thursday, September 18, 2025, 4:30 pm
 - **BoardBook:** meeting 709744, https://meetings.boardbook.org/Public/Agenda/915?meeting=709744 [MTG:2025-09-18/709744]
 - **Video:** https://www.youtube.com/watch?v=gVtn7AYmhUU (about 1:26:35)
-- **Transcript:** English auto-captions, re-fetched 2026-10-11. This file replaces an earlier version based on Arabic machine-translated captions.
+- **Transcript:** English auto-captions, re-fetched 2026-10-11.
 - **Committee** [YT:gVtn7AYmhUU@0:00:27] [YT:gVtn7AYmhUU@0:00:43] [YT:gVtn7AYmhUU@0:00:48]:
   - Chair Rashelle Chase-Miller (Zone 4)
   - Virginia La Forte (Zone 5)

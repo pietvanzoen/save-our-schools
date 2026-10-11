@@ -1,0 +1,1263 @@
+# 2026-10-06 Board of Education's Annual Ethics Training
+# Video: https://www.youtube.com/watch?v=k0wbO5egtWA
+# Source: YouTube captions (asr, en), fetched 2026-10-11T01:02:01.399Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2026-10-06_k0wbO5egtWA.txt
+# BoardBook meeting(s): 2026-10-06|770670
+# Link to a moment: https://www.youtube.com/watch?v=k0wbO5egtWA&t=<seconds>s
+
+[0:00:00] Right.
+[0:00:02] Um, this meeting is called to order of
+[0:00:07] the annual ethics training for the
+[0:00:10] board.
+[0:00:11] >> I'll hand this over.
+[0:00:12] >> I'll I'll give a very brief intro to
+[0:00:14] Mike Porter who you know from prior
+[0:00:17] trainings, one of our uh longstanding
+[0:00:20] and most valued uh legal partners who
+[0:00:22] knows this district so well. Uh we asked
+[0:00:25] Mike to add some additional components.
+[0:00:27] We last year did ethics and public
+[0:00:29] meetings. We asked for some more public
+[0:00:31] meetings this year. Uh having received a
+[0:00:34] request and also to add some fura
+[0:00:35] information. There's a lot of content
+[0:00:37] for an hour. So Mike's going to go fast,
+[0:00:40] but if you have questions along the way,
+[0:00:41] please ask them. And if we need more
+[0:00:43] time at the different
+[0:00:47] >> Great. Thanks. I appreciate being here.
+[0:00:50] I know you've got a lot on your plate
+[0:00:51] tonight and want to get to your 6:00
+[0:00:53] meeting, but I appreciate you uh
+[0:00:56] allowing me to participate. Uh always
+[0:00:58] glad to work with uh Portland Public
+[0:01:01] Schools in any capacity. Um
+[0:01:05] I think was addressed the big picture in
+[0:01:08] a lot of ways, but it is a good
+[0:01:10] practice. And in fact, you have a policy
+[0:01:12] that says, "Hey, once a year revisit
+[0:01:15] addressing key ethics issues, key public
+[0:01:18] meeting, uh, meetings issues." And so,
+[0:01:22] uh, glad to do that. And as Liz said,
+[0:01:26] we, uh, we do it a little bit
+[0:01:28] differently each year. Uh, whether that
+[0:01:30] makes it, you know, much more
+[0:01:32] fascinating or not, I will let you
+[0:01:34] decide. Um but uh for example last year
+[0:01:38] we pulled from your policies a lot and
+[0:01:40] talked about what you had done
+[0:01:42] internally. Um and tonight what we
+[0:01:46] thought we'd do is hit some big picture
+[0:01:48] issues with overview of the ethics law
+[0:01:52] and really trying to focus uh there
+[0:01:54] there are a lot of components to OS244
+[0:01:58] which is the chapter with the ethics law
+[0:02:01] but try and uh keep to the the big
+[0:02:03] picture. You could spend
+[0:02:06] two hours on any of these topics and
+[0:02:09] some of the subtopics and we'll talk
+[0:02:11] about where you can do that if you're
+[0:02:12] really interested in doing that. Um, so
+[0:02:15] we'll stay pretty higher level both with
+[0:02:17] the ethics law and the public meetings
+[0:02:19] law and just the key concepts and issues
+[0:02:22] that come up more regularly for boards.
+[0:02:26] And then the FURPA and the public
+[0:02:28] records law intersection. I know there
+[0:02:30] was a a request for that. Uh it's an
+[0:02:33] interesting issue. It's a time where
+[0:02:35] furpa which was sort of just always
+[0:02:37] something pretty readily dealt with for
+[0:02:39] many many years has made a bit of a
+[0:02:42] comeback with all the privacy
+[0:02:43] considerations that have evolved in the
+[0:02:46] last
+[0:02:48] 10 12 15 years. Uh and so really a lot
+[0:02:52] of this is to help you issue spot. Um
+[0:02:55] because in an hour you can't get into
+[0:02:57] the weeds on every single definition,
+[0:02:59] every single problem. But when you hear,
+[0:03:02] "Oh, we talked about that. That was one
+[0:03:05] of our topics. Okay, where do I dig in
+[0:03:08] cuz these are the types of things that I
+[0:03:10] want to make sure I handle properly and
+[0:03:12] either get Liz involved in her office or
+[0:03:15] um you know, evaluate them yourselves.
+[0:03:18] So
+[0:03:20] if we start uh with the ethics law
+[0:03:23] first, I I always like to point out any
+[0:03:25] resources that are available and there
+[0:03:27] are a lot more and they are updated
+[0:03:30] which is a real uh positive and shout
+[0:03:32] out to the Oregon Government Ethics
+[0:03:35] Commission which has really uh enhanced
+[0:03:38] its website, enhanced its materials. Um,
+[0:03:41] I don't know if you'll be able to
+[0:03:42] hyperlink it, but you from the materials
+[0:03:45] the way you get them, but these are
+[0:03:46] hyperl if you can, but obviously you
+[0:03:48] could find them uh through Google and
+[0:03:51] and looking for them. But there is a a
+[0:03:54] government ethics law and guide that
+[0:03:56] goes into detail on uh all of the areas
+[0:03:59] covered by the Oregon ethics law uh
+[0:04:03] including the ones we'll cover tonight.
+[0:04:06] Uh there are live webinars, there's a
+[0:04:09] calendar, they take topics like gifts.
+[0:04:13] You can get an hour and a half on gifts,
+[0:04:15] right? We're going to get 5 minutes
+[0:04:16] tonight, 5 to 7 minutes. You can get all
+[0:04:19] the gift information that you want uh
+[0:04:22] through that. And you can also get it uh
+[0:04:24] in the guide. And then also I'd
+[0:04:26] encourage you if these issues come up to
+[0:04:29] look at PPS's policy because it tracks
+[0:04:33] the uh rules and the regulations, but it
+[0:04:36] also has um I don't know if gloss is the
+[0:04:40] right word, but it describes how PPS
+[0:04:43] looks at the the importance of these
+[0:04:45] ethics laws and gives some sort of like
+[0:04:48] aspirational when in doubt, let's make
+[0:04:51] sure we are on the side of our community
+[0:04:54] seeing as transparent and accountable
+[0:04:57] and so uh you know it has kind of some
+[0:05:00] policy guidance for decision making
+[0:05:03] around that
+[0:05:05] uh we'll we'll touch on the three
+[0:05:09] most common issues that come up under
+[0:05:11] Oregon ethics law that is the conflict
+[0:05:14] and they're all interrelated in many
+[0:05:16] ways but conflicts of interest has
+[0:05:18] special rules around the way board
+[0:05:21] members operate uh manage any potential
+[0:05:24] or actual conflicts that come up,
+[0:05:27] prohibited use of officer position, uh,
+[0:05:30] and gifts, which, as I said, you know,
+[0:05:32] it's it's got a life on to its own, but
+[0:05:35] we'll try and get to what the, uh, core
+[0:05:38] issues are.
+[0:05:40] So
+[0:05:43] conflicts of interest uh can come up for
+[0:05:47] both employees
+[0:05:49] and for board members and they are dealt
+[0:05:52] with differently and I know some staff
+[0:05:56] either are here or elsewhere. There's a
+[0:05:58] way the ethics guide is very good with
+[0:06:00] like a sample letter of if I think I
+[0:06:03] have a conflict of interest how I should
+[0:06:06] report that internally and similarly uh
+[0:06:09] for board members it has a good
+[0:06:11] description and kind of like scripts and
+[0:06:13] when do I say things and flowcharts for
+[0:06:16] our purposes just want to make sure
+[0:06:18] you've got the key definitions of when
+[0:06:21] these issues arise. So two types of uh
+[0:06:27] conflict of interest. A potential
+[0:06:31] conflict of interest where
+[0:06:34] this applies to any basically this is
+[0:06:37] any action that would come in front of
+[0:06:39] you. So it's an action, a decision or a
+[0:06:42] recommendation
+[0:06:44] uh which uh you can have resolutions
+[0:06:47] that uh you know propose moving in a
+[0:06:50] certain direction. uh you can have
+[0:06:52] decisions to sign, you know, to to uh
+[0:06:56] execute a contract, decisions to open an
+[0:06:59] RFP,
+[0:07:00] uh anything that comes before you. And
+[0:07:03] it applies
+[0:07:06] to you,
+[0:07:08] to a relative,
+[0:07:11] uh or a business that you're associated
+[0:07:14] with. And this is where you can spend
+[0:07:16] forever getting down in the weeds with
+[0:07:19] relatives. I tried to think of like
+[0:07:20] what's the short, you know, there's a
+[0:07:23] list that's like 12 or 14. If you're if
+[0:07:26] you're in steps and in-laws, you need to
+[0:07:30] still be aware. And it's also relatives
+[0:07:32] of your spouse. So, a step of your
+[0:07:36] spouse,
+[0:07:38] uh, like a stepsister, step brother is a
+[0:07:41] a relative. And so, if they would have a
+[0:07:44] potential or actual conflict of
+[0:07:46] interest, you have to be aware of that.
+[0:07:49] And it has to be something that's
+[0:07:50] reasonably known to the person or to you
+[0:07:53] for it to arise. The um
+[0:07:57] uh the the
+[0:08:00] guide book or the the the guide for
+[0:08:02] public officials talks about and then it
+[0:08:04] stops at uh cousin, aunt and uncle or
+[0:08:07] the examples that it gives that fall
+[0:08:08] outside of the relatives. Now I say that
+[0:08:12] this is where like your policy comes in
+[0:08:14] because your policy talks about avoiding
+[0:08:17] even the perception of a conflict of
+[0:08:19] interest and uh I have four uncles.
+[0:08:24] Two of them I'm very close to. The other
+[0:08:26] two I'm not not close to but you know
+[0:08:28] nobody would perceive that I'd be acting
+[0:08:31] on their behalf. somebody could perceive
+[0:08:33] that I was, you know, [snorts] had the
+[0:08:35] the interest of a couple of them that
+[0:08:37] are that I see more frequently and spend
+[0:08:39] more time frequently. So, uh, the the
+[0:08:43] guide book even points out public
+[0:08:45] officials frequently will announce that
+[0:08:47] there is a there could be a perceived uh
+[0:08:51] conflict of interest even if technically
+[0:08:53] there's not. That's a judgment that you
+[0:08:55] have to make uh for yourself.
+[0:08:58] So, a potential conflict uh is something
+[0:09:02] that could in theory uh financially
+[0:09:06] impact you or a relative or a business
+[0:09:10] that you're associated with, which is
+[0:09:12] usually being an officer or an employee
+[0:09:15] or a relative being an officer or an
+[0:09:17] employee. And if there's a possibility
+[0:09:21] of a conflict, a potential conflict, you
+[0:09:24] make a public announcement and then you
+[0:09:26] may participate in the decision and you
+[0:09:29] may participate in the voting. Uh may,
+[0:09:34] great word, optional word. Uh and so you
+[0:09:37] have a choice. Uh and maybe your choice
+[0:09:40] is uh influenced by whether or not
+[0:09:42] there's going to be an issue with the
+[0:09:43] quorum and uh how close it is. uh but
+[0:09:46] you can also choose not to participate
+[0:09:49] in those things. Contrast that with an
+[0:09:53] actual conflict of interest. You're
+[0:09:55] voting on something that would
+[0:10:00] give a contract to your the company that
+[0:10:05] your spouse works with. You have an
+[0:10:07] actual conflict of interest because it
+[0:10:09] would financially impact you your
+[0:10:12] relative. you make a public announcement
+[0:10:15] and then you may not discuss or vote on
+[0:10:19] the matter at all. Um, when we do the
+[0:10:22] longer version of this or if you uh look
+[0:10:24] into it more deeply, there are some
+[0:10:26] exceptions that I would call like
+[0:10:28] emergency exceptions like the board is
+[0:10:29] not going to be able to act um without
+[0:10:34] uh without you voting. And so there are
+[0:10:38] special rules around that, but I think
+[0:10:40] that will, you know, we could end up
+[0:10:42] going down there down the rabbit hole
+[0:10:44] forever on that. One uh change in the
+[0:10:47] law in 2025 to be aware of relates to
+[0:10:51] adopting a budget. So this is the same
+[0:10:54] place where the law changed and allowed
+[0:10:55] uh you to have dinner here uh without uh
+[0:10:58] it being an issue. uh same law uh
+[0:11:01] subsection before it was when adopting a
+[0:11:05] budget, if there is a uh conflict of
+[0:11:10] interest simply within the budget,
+[0:11:12] you're still permitted to participate
+[0:11:15] and vote. So, contrast that with
+[0:11:17] approving a collective bargaining
+[0:11:18] agreement, which might which would have
+[0:11:20] a different outcome. Um when it's just
+[0:11:23] the budget at large, there's an
+[0:11:25] exception for that. So that's a a a new
+[0:11:28] exception
+[0:11:30] that uh could certainly come up.
+[0:11:36] Let me
+[0:11:38] move to
+[0:11:40] interrelated rule uh applies to all
+[0:11:44] public officers and this is the
+[0:11:47] prohibited use of office or position.
+[0:11:51] And so this is the rule that says you
+[0:11:55] may not uh
+[0:12:00] use or attempt to use and I think
+[0:12:03] attempt to use is important to
+[0:12:06] recognize. Uh use or attempt to use your
+[0:12:10] officer position to obtain financial
+[0:12:13] benefit or avoid financial detriment.
+[0:12:16] And again, this is for uh yourself, a
+[0:12:19] relative, a business with your
+[0:12:21] associate. It's also a household member,
+[0:12:23] which I probably should uh uh put up
+[0:12:26] there.
+[0:12:27] >> Detriment or
+[0:12:28] >> detriment. Yes.
+[0:12:29] >> There's a typo on your
+[0:12:30] >> Oh, really?
+[0:12:32] >> Yes.
+[0:12:33] >> Oh, determinant.
+[0:12:34] >> Determinant.
+[0:12:37] >> That's all right. I'm going to live with
+[0:12:38] that
+[0:12:38] >> for next time.
+[0:12:39] >> I appreciate that. And I'm I'm going to
+[0:12:42] live live with it all all evening at
+[0:12:45] least. that'll it'll I appreciate you
+[0:12:47] pointing it out.
+[0:12:49] >> Uh it is avoid
+[0:12:50] >> you won't judge but someone else might
+[0:12:51] in the future.
+[0:12:53] >> I will I will judge uh
+[0:12:57] >> and uh the the uh examples the there are
+[0:13:01] a lot of examples in the ethics
+[0:13:04] handbook. So a couple examples one they
+[0:13:06] come up this is an employment example
+[0:13:08] that gives you the idea. I think it
+[0:13:10] could uh be an elected official as well.
+[0:13:13] a firefighter who has access to laundry
+[0:13:16] allows their roommate, so a member of a
+[0:13:18] household to use the laundry uh machine.
+[0:13:22] So, that's one. The other one uh that I
+[0:13:24] thought was interesting for elected
+[0:13:25] official, city council, this is the
+[0:13:28] example, pressures staff to enter a
+[0:13:32] contract that increases real estate
+[0:13:35] value of property that they own. And so
+[0:13:39] that's an attempt to use description of,
+[0:13:43] you know, it's kind of you can, you
+[0:13:46] know, this this law was passed to avoid
+[0:13:50] people doing exactly that. Uh, you know,
+[0:13:52] trying to use their position to
+[0:13:56] >> dad's looking for work.
+[0:13:57] >> Exactly.
+[0:13:58] >> Exactly. So, um, so those are the
+[0:14:01] examples that come up uh come up there.
+[0:14:04] There are there are a lot of exceptions
+[0:14:06] like this this law is just filled with
+[0:14:09] for every general rule there are a lot
+[0:14:10] of exceptions. So you want to know okay
+[0:14:12] the general rules there and then
+[0:14:15] exceptions are things like it's part of
+[0:14:17] uh somebody's official compensation.
+[0:14:20] Um it is uh honorarium where you're
+[0:14:25] asked to speak and it's part of your
+[0:14:30] profession. Uh so that's not prohi pro
+[0:14:33] prohibited use of your position for
+[0:14:36] financial gain. And again those all have
+[0:14:40] detailed rules. It's kind of like when
+[0:14:42] we talk about executive sessions you
+[0:14:44] know there might be four or five things
+[0:14:46] that you have to look at and make sure
+[0:14:48] you satisfy to fall into the exception.
+[0:14:52] And then the big exception
+[0:14:55] that
+[0:14:57] is is gifts. and it's an exception, but
+[0:15:01] it's the way it's phrased is kind of
+[0:15:03] feels like it's backwards. Um, because
+[0:15:05] you're actually permitted to take gifts
+[0:15:08] so long as the gift does not uh exceed
+[0:15:13] $50 from a single source in a calendar
+[0:15:18] year.
+[0:15:19] Uh
+[0:15:21] and again this applies also to
+[0:15:25] uh relatives and your spouse's
+[0:15:28] relatives.
+[0:15:30] The there are 19 pages
+[0:15:33] in the OGC handbook dedicated to what a
+[0:15:36] gift is and what a gift is uh not. what
+[0:15:42] it is by definition something of
+[0:15:44] economic value not offered on the same
+[0:15:48] terms to the general public and it's
+[0:15:50] from someone with an administrative or
+[0:15:53] legislative interest in a potential
+[0:15:55] decision that could come before the
+[0:15:58] public official. So there's a there's a
+[0:16:00] lot uh to it and it's whether you uh
+[0:16:03] like like with conflicts of interest
+[0:16:05] whether you reasonably would perceive
+[0:16:07] it. And I was trying to come up with
+[0:16:08] like a hypothetical because you could
+[0:16:11] have a child who is a relative who
+[0:16:17] is
+[0:16:19] 22 like my child who gets a you know
+[0:16:24] somebody gives him a ticket to the
+[0:16:25] Blazers game. That person happens to
+[0:16:27] have business before the board. the
+[0:16:29] child has no idea about this. This is a
+[0:16:31] completely independent relationship.
+[0:16:34] That's not going to lead to um
+[0:16:38] a a claim that there's a a violation
+[0:16:42] that's strong because there wasn't a
+[0:16:43] reasonable perception at the time that
+[0:16:46] there was going to be I'm not using the
+[0:16:49] office
+[0:16:51] uh for financial gain so that my son can
+[0:16:54] get the can get the ticket. Um so you
+[0:16:59] know those can get uh very uh
+[0:17:02] complicated and again it's something
+[0:17:03] distinct from the general public. So
+[0:17:06] there are a lot of cases about benefits
+[0:17:08] that get offered for people who
+[0:17:10] volunteer or work for public entities
+[0:17:13] public school districts. And the
+[0:17:15] question will often be okay was that
+[0:17:18] something that was because you were with
+[0:17:21] a public entity or is that also offered
+[0:17:25] uh to a private entity? So uh some you
+[0:17:29] know company's going to give out a
+[0:17:30] discount. It's a significant discount
+[0:17:33] but they they do it at a convention
+[0:17:35] that's full of private uh uh private
+[0:17:39] sector folks and public sector folks.
+[0:17:41] It's the same as being uh you're on the
+[0:17:44] same terms as the general public.
+[0:17:46] >> M can I offer just one example that yes
+[0:17:50] >> repeatedly my time here um going to uh a
+[0:17:55] national convention with a group that
+[0:17:57] the district has a membership in that
+[0:17:59] the board votes on that membership
+[0:18:01] contract.
+[0:18:02] And so what are the what are the ways
+[0:18:05] you can engage with the conference? You
+[0:18:10] could think about that example, Mike,
+[0:18:12] because that creates the board is voting
+[0:18:14] on the contract with the organization.
+[0:18:17] >> So, the board is voting on the contract
+[0:18:19] with the organization. I mean, I think
+[0:18:21] you would run the risk here of it if
+[0:18:26] you're getting an invitation from the
+[0:18:29] organization to something that is
+[0:18:33] uh I feel like I'm going to say a rest
+[0:18:36] like some fancy restaurant is going to
+[0:18:37] be the saddest like nobody goes there
+[0:18:40] type of thing. But, you know, it's
+[0:18:41] >> a private reception or something.
+[0:18:43] >> Yeah. a priv and a private reception
+[0:18:47] that is nice and it's going to be more
+[0:18:49] than $50, you're running the risk that
+[0:18:52] that it's a gift and they have a they
+[0:18:54] definitely have a legislative or
+[0:18:56] administrative interest because you vote
+[0:18:58] on their contract
+[0:18:59] >> unless it's part of the conference,
+[0:19:01] >> right? If you pay to attend,
+[0:19:02] >> if you pay to attend it,
+[0:19:04] >> if it's part of it, it's like the after
+[0:19:06] hours stuff. And even if like, let's say
+[0:19:10] you're at a conference in Arizona and
+[0:19:13] they take you to some fancy wing in the
+[0:19:17] Cardinals football stadium and they're
+[0:19:20] having like a session there and then the
+[0:19:24] other part of it is then, you know, like
+[0:19:27] team connection and a game. Um, and
+[0:19:31] that's come up a few times as well.
+[0:19:33] >> And so part of that too is there's an
+[0:19:35] exception for appearing in your official
+[0:19:37] capacity where entertainment is uh
+[0:19:41] incidental to it. And so you're there,
+[0:19:43] you're representative of the district.
+[0:19:45] And so you can uh end up falling into
+[0:19:48] exceptions. And this is what happens is
+[0:19:50] you you have the issue come up, you
+[0:19:52] worry about it, rightly so. And then you
+[0:19:55] look through and see whether or not
+[0:19:57] there is an exception that applies. So
+[0:20:00] you do lots of things where you go to
+[0:20:03] dinners and charitable events and it's
+[0:20:05] hey stand up if you're a member of the
+[0:20:07] city council. Stand up if you're a
+[0:20:09] member of the Portland school board.
+[0:20:10] Okay. You're probably you're going to be
+[0:20:12] fine. Yes.
+[0:20:13] >> I was just going to say but then you
+[0:20:14] raised your hand politely and I did not.
+[0:20:16] So I feel like you should
+[0:20:17] >> I was going to say I think there should
+[0:20:18] be an exception for 22 year olds because
+[0:20:20] a lot of times you know they don't tell
+[0:20:22] you every move they're making.
+[0:20:24] Exactly. Well, you couldn't reasonably
+[0:20:27] predict what was happening.
+[0:20:28] >> Um, so I just want to add on like let's
+[0:20:31] say you're at the Arizona Cardinals
+[0:20:33] thing, but then like a contractor
+[0:20:35] textbooks is like, "Hey, come out for
+[0:20:40] drinks with us at this super fancy
+[0:20:42] high-rise place in downtown Phoenix."
+[0:20:44] That's where suddenly we have a problem.
+[0:20:46] >> That's that's where you're moving away
+[0:20:47] from your role as an official capacity.
+[0:20:50] And you can feel it. I think there's
+[0:20:52] like this step that happens after.
+[0:20:54] >> Yeah, you can feel it, right? Like,
+[0:20:56] okay, they are trying to sell me
+[0:20:58] something and they want to um get in and
+[0:21:03] you know, they're potentially going to
+[0:21:05] be coming before the board with
+[0:21:07] something or they don't even have to be
+[0:21:09] coming. They just have to have a
+[0:21:11] legislative or administrative interest.
+[0:21:13] So, those are all good things uh to to
+[0:21:16] look out for. Um, also like swag is uh,
+[0:21:20] you know, common, but if it's swag that,
+[0:21:23] uh, it came up a long time ago at this
+[0:21:26] very training. If you think you regift
+[0:21:28] it, think twice before, uh, taking the
+[0:21:30] swag. Uh, the the regift rule. Uh,
+[0:21:34] there's also a new exception for swag
+[0:21:37] from the public entity. you can get up
+[0:21:39] to $100 of swag from the public entity
+[0:21:43] itself and it is not considered a gift
+[0:21:45] which uh is a new rule from the last
+[0:21:49] year or two.
+[0:21:52] So uh again uh don't use attempt to use
+[0:21:59] uh position for financial gain or
+[0:22:01] detriment and gift is the the issue that
+[0:22:04] comes up the most and like like I said I
+[0:22:06] think it's a 60inute
+[0:22:08] webinar on gifts that OGC is doing. So,
+[0:22:12] if you want to walk through all those
+[0:22:14] examples and see where the nuance in
+[0:22:16] going to the conference, going to a
+[0:22:18] conference event that's associated with
+[0:22:20] the conference and being pulled in to
+[0:22:22] something that's more like a vendor
+[0:22:24] push, you know, I think that's the type
+[0:22:26] of thing that I would expect them to uh
+[0:22:28] to hit there.
+[0:22:30] Uh just wrap this section with uh OEC
+[0:22:36] when they investigate these there's a
+[0:22:38] process for investigating a complaint.
+[0:22:40] Uh
+[0:22:42] generally they are compliance oriented
+[0:22:45] and if they think it's a good faith
+[0:22:47] error, you'll get like an advisory
+[0:22:50] uh an advisory letter. Uh but they can
+[0:22:53] give a civil penalty for up to $1,000
+[0:22:57] per violation. And then they can also uh
+[0:23:00] have an uh set an additional penalty
+[0:23:04] that's based on any gain that was a
+[0:23:08] financial gain based on misuse of
+[0:23:10] position uh or a conflict of interest or
+[0:23:14] avoidance of uh financial detriment. So
+[0:23:17] something to be aware of there.
+[0:23:22] Any final words on ethics before we move
+[0:23:25] into uh public meetings law and the
+[0:23:29] rule? I don't have it in here, but there
+[0:23:31] is a rule that you're allowed to
+[0:23:33] exercise reasonable control over the uh
+[0:23:35] public meeting to the extent necessary
+[0:23:37] to make sure you can meeting
+[0:23:42] the lawyer humor.
+[0:23:45] >> That is the oxymoron. So, uh,
+[0:23:50] okay. Well, uh, public meetings law,
+[0:23:53] it's, uh,
+[0:23:58] we talk about this a lot, but there it
+[0:24:00] can get complicated. There's a ton of
+[0:24:02] definitions. They all matter. Uh, when
+[0:24:05] it goes wrong, especially with respect
+[0:24:07] to executive sessions, you see, you can
+[0:24:10] see litigation about it. It gets uh,
+[0:24:13] amplified a lot. Um, OGC again, uh, it
+[0:24:19] sounds like I'm getting some financial
+[0:24:21] gain from OGC the way I'm promoting
+[0:24:24] them. Uh, but they really did a good
+[0:24:25] job. uh there there they have a public
+[0:24:29] meetings law page and then they have uh
+[0:24:32] webinars on public meetings law and in
+[0:24:36] fact there is a rule for all elected
+[0:24:39] board members where there's a budget of
+[0:24:41] a million dollars or more that during
+[0:24:43] your time as a board member uh you need
+[0:24:46] to take an OGC or OGC approved full
+[0:24:51] public meetings training. Curious has
+[0:24:53] anyone done that?
+[0:24:55] >> Yeah. good. I did it last week. Uh and
+[0:24:58] uh you know it was good. They um I think
+[0:25:02] rightly go through they have a a ton of
+[0:25:06] like flowcharts and decision trees. Uh
+[0:25:10] they have a lot of publications out on
+[0:25:12] that website now. So you know it's a
+[0:25:15] good it's a good resource. What's that?
+[0:25:18] >> Oh I'm sorry I just said defense. Um
+[0:25:21] >> Oh we did I did an OSBA one.
+[0:25:25] OSBA put one on. I think that's the one
+[0:25:27] maybe we do that.
+[0:25:28] >> Oh, okay. And and it counted. Yeah.
+[0:25:30] >> Yeah.
+[0:25:31] >> Good. I couldn't remember if they were
+[0:25:34] still doing that or not, but you can get
+[0:25:36] them anytime. And then they also for the
+[0:25:38] very interested have lots of uh
+[0:25:40] subtopics where you can do an hour and a
+[0:25:43] half on executive sessions, you know,
+[0:25:46] separate from the mandatory training for
+[0:25:48] the people who really love it. Uh and
+[0:25:51] then of course the attorney general. Uh
+[0:25:54] this is uh you know as soon as somebody
+[0:25:56] says public meeting or public record
+[0:25:58] this sits by my desk I still like to
+[0:26:01] have a book every now and then uh and it
+[0:26:04] has lots of guidance in it about uh any
+[0:26:07] of the areas that are intention in it.
+[0:26:10] uh public body that you know so many
+[0:26:13] defined terms here obviously the the
+[0:26:16] governing body of a public entity and
+[0:26:20] that's the body like we are in right now
+[0:26:22] that has authority to make decisions and
+[0:26:26] then the tricky area that comes up is
+[0:26:28] the authority to make recommendations
+[0:26:31] and it's recommendations to the public
+[0:26:35] body. So you can have a committee that
+[0:26:38] reports and makes recommendations to a
+[0:26:43] uh officer to a employee a chief
+[0:26:45] executive officer. Uh uh here a deputy
+[0:26:49] superintendent.
+[0:26:50] The recommendation goes to the deputy
+[0:26:52] superintendent to decide what to bring
+[0:26:55] to the board. Deputy superintendent and
+[0:26:57] superintendent. That would not be a
+[0:27:00] public uh body. So when if you're going
+[0:27:04] to have advisory committees, the
+[0:27:06] district should always evaluate, okay,
+[0:27:08] is this going to report to the board? Is
+[0:27:10] this going to report who's who's this
+[0:27:12] going to report to? Uh and then proceed
+[0:27:16] accordingly. And if it's going to report
+[0:27:18] and make recommendations to the board,
+[0:27:21] then it's going to be a public body. You
+[0:27:23] ought to get those folks if you can
+[0:27:25] trained on their obligations uh as being
+[0:27:29] uh with respect to to public meetings
+[0:27:32] because it's sort of everyone's
+[0:27:33] obligation. They say that a lot in OGC
+[0:27:36] training is everyone's got an individual
+[0:27:38] obligation to you know make sure that we
+[0:27:41] are abiding by
+[0:27:43] the uh public
+[0:27:46] uh meetings law.
+[0:27:50] definition of meeting. Um,
+[0:27:55] you may recall there was a lot of case
+[0:27:57] law a few years ago that really threw
+[0:27:59] things into uh chaos is a little strong
+[0:28:03] word, but there was a case that talked
+[0:28:05] about serial communications. The
+[0:28:07] legislature got uh uh got behind trying
+[0:28:11] to put some definition around that. And
+[0:28:14] so uh recent revisions to the public
+[0:28:18] meetings law clarified the definition of
+[0:28:21] meeting and has a lot of words that are
+[0:28:24] defined within the definition. But a
+[0:28:26] convening of the governing body of a
+[0:28:28] public body which a quorum is required
+[0:28:31] in order to make a decision to
+[0:28:34] deliberate
+[0:28:36] or to deliberate toward a decision on
+[0:28:39] any matter. So you can see if you chunk
+[0:28:42] that out, there's a lot of things that
+[0:28:44] you can get into and a lot of nuance to
+[0:28:47] get towards uh for all of those things
+[0:28:50] to be satisfied before it's a meeting
+[0:28:53] which would generally be open to the
+[0:28:55] public unless it is uh an executive
+[0:28:59] session
+[0:29:01] convening. This is where the legislature
+[0:29:03] stepped in and tried to replace the case
+[0:29:04] law. Gathering in a physical location.
+[0:29:07] Obvious. Using electronic video or
+[0:29:10] telephone to communicate
+[0:29:12] contemporaneously among participants.
+[0:29:16] Serial electronic written communication
+[0:29:19] among participants or using an
+[0:29:22] intermediary to communicate among
+[0:29:24] participants. These last two C and D uh
+[0:29:28] ogec like blends that together a lot.
+[0:29:31] The the last one's almost a form of
+[0:29:34] serial communication.
+[0:29:36] Um so it doesn't have to be real-time
+[0:29:39] communication.
+[0:29:41] Can be one to the next to the next. And
+[0:29:45] and I know you know that um but it's
+[0:29:48] just it's good to uh to remember that
+[0:29:50] people getting on the same document at
+[0:29:52] the same time can easily turn into um
+[0:29:57] into serial communications. There's a
+[0:30:00] good uh FAQ in the OGC handbook that has
+[0:30:05] the questions that come up a lot. When I
+[0:30:07] attended the OGC session last week, they
+[0:30:10] were asked the question about like what
+[0:30:13] about using a Google doc to change a
+[0:30:17] policy and they said yes, that's a
+[0:30:19] public meeting. Uh they also have good
+[0:30:21] guidance if you think you've made a
+[0:30:22] mistake on how to go back and fix it,
+[0:30:24] which is, you know, kind of like saying,
+[0:30:26] "Hey, let's have a redo." If you if if
+[0:30:29] somebody catches something uh before
+[0:30:32] before there's a complaint, before
+[0:30:33] there's a grievance about it, you
+[0:30:36] there's good advice in there about uh uh
+[0:30:39] fixing it.
+[0:30:45] uh deliberation, discussion or
+[0:30:47] communication that's part of the
+[0:30:49] decisionmaking pro process and that's
+[0:30:52] about something that is going to come
+[0:30:54] before the v the board. So, um, it's
+[0:30:58] kind of that reasonleness standard, not
+[0:31:01] theoretical, right? I mean, you could
+[0:31:04] theoretically I could come up with a ton
+[0:31:06] of things that the chances they're going
+[0:31:08] to come before a public entity's board
+[0:31:10] are very low, but they might, you know,
+[0:31:12] they they might. Uh, it's okay.
+[0:31:16] in the current based on what we
+[0:31:18] currently know is there some chance that
+[0:31:20] this is going to be an issue that comes
+[0:31:23] up before the board that it you have to
+[0:31:26] be deliberating to toward that before
+[0:31:30] you're going to get into a public
+[0:31:31] meeting. So you can see you chunk out
+[0:31:33] all of these definitions and uh each one
+[0:31:38] has to be satisfied before it's actually
+[0:31:40] a public meeting. And then there are
+[0:31:42] definitions of what is not a there's a a
+[0:31:46] description of what is not a public
+[0:31:48] meeting in the law. Something that's
+[0:31:51] purely factual or educational. This is
+[0:31:53] one where you know you have to be
+[0:31:55] careful about this. Like purely factual
+[0:31:59] or educational
+[0:32:01] if if a board is going to do something
+[0:32:03] that falls within that it has to really
+[0:32:06] make sure it doesn't turn into I mean
+[0:32:08] it's hard right? Like it's hard. you
+[0:32:10] have all these decisions that you're
+[0:32:12] going to be making uh and if it starts
+[0:32:15] turning into deliberation about
+[0:32:17] something that's going to come before
+[0:32:18] the board that uh can run into uh a
+[0:32:22] problem.
+[0:32:23] >> So this is not a public meeting
+[0:32:28] >> this uh there we could do this as not a
+[0:32:32] public meeting. the district some years
+[0:32:34] ago decided to do it as a public meeting
+[0:32:36] for uh purposes of transparency
+[0:32:39] >> and in case there were examples that
+[0:32:40] were brought up that might be subject to
+[0:32:42] a deliberation at some point didn't we
+[0:32:44] didn't have to cut off conversation if
+[0:32:47] something like that happened. So it's
+[0:32:48] probably a pretty conservative
+[0:32:51] >> decision but because the liability is
+[0:32:54] individual to you all who tend to
+[0:32:57] earn
+[0:32:59] >> That's a good question. We actually used
+[0:33:00] to do it uh we we used to do it as an
+[0:33:02] attorney client privilege meeting many
+[0:33:04] years ago and it was not open to the
+[0:33:06] public and then there was a view that
+[0:33:08] you know people think we're in here
+[0:33:10] telling you you should violate the law
+[0:33:12] which of course we're not but uh you
+[0:33:14] know we didn't want anybody to be able
+[0:33:16] to grab a hold of that narrative.
+[0:33:18] >> Yeah.
+[0:33:18] >> How is that what we've been doing and
+[0:33:20] I'm just going to ask your legal
+[0:33:22] sometimes we'll see somebody send an
+[0:33:24] article and they'll just say here's an
+[0:33:25] article don't respond. Does that seem an
+[0:33:28] okay framework?
+[0:33:30] >> I think some my my sense here's an
+[0:33:33] article is information if it's an
+[0:33:36] attempt to persuade and then that gets
+[0:33:39] talked about what what's dangerous about
+[0:33:42] it. So like this is this is the
+[0:33:44] challenge. I can take something in
+[0:33:47] isolation and say that is not a
+[0:33:50] deliberation.
+[0:33:51] You have to trust everyone else to not
+[0:33:56] Yeah. talk about it. Use an
+[0:33:58] intermediary. There's good example.
+[0:34:00] >> Okay. But the being literal to her
+[0:34:02] question.
+[0:34:02] >> Yeah.
+[0:34:03] >> Here's an article. Don't respond. No one
+[0:34:05] responds. I think that's
+[0:34:06] >> I think it's not a deliberating towards
+[0:34:08] a decision.
+[0:34:10] >> For sure because I like sharing
+[0:34:11] information.
+[0:34:12] >> Yeah. And then just to follow up. So
+[0:34:13] weekly I tend to send articles or
+[0:34:16] writeups about the work we're
+[0:34:18] informational.
+[0:34:19] And then I also do agenda reviews, um,
+[0:34:23] opportunities for folks to come together
+[0:34:25] while I walk through what's on the
+[0:34:27] agenda in small groups, not um, at
+[0:34:30] quorum. U, but it isn't a, um, a
+[0:34:34] discussion or a deliberation. It's more
+[0:34:36] of just, you know, unpacking
+[0:34:38] >> facts. Yeah, these are the facts that
+[0:34:41] we're dealing with. So, there are
+[0:34:43] circumstances certainly that are just
+[0:34:45] factual or just educational. Um, what I
+[0:34:49] think is when everyone gathers in the
+[0:34:51] same room, even like this, the you just
+[0:34:54] have to be careful. You want to be
+[0:34:56] intentional if we're doing it and we're
+[0:34:58] not calling it a public meeting. Um, and
+[0:35:01] you get into this with retreats that are
+[0:35:03] for uh, you know, working together and
+[0:35:07] we're not going to discuss anything on
+[0:35:09] the that will come before us. You know,
+[0:35:11] the challenge in not doing that is is
+[0:35:14] real. Well, let's just I'm sorry. Just
+[0:35:17] to go back to that because I think that
+[0:35:18] there's been times when we've heard that
+[0:35:20] some of our board members are
+[0:35:22] uncomfortable with coming in to receive
+[0:35:25] like facts or materials um outside of a
+[0:35:29] board meeting. And so when there are
+[0:35:33] small group meetings,
+[0:35:35] >> if you don't have uh a a quorum and you
+[0:35:39] are just giving factual information,
+[0:35:42] there's a there's actually a good
+[0:35:43] example in the OGC that they use two
+[0:35:46] they give two examples. It's basically
+[0:35:48] that they say uh it's a city manager and
+[0:35:52] the city manager meets with the council
+[0:35:55] members and I think it's 2x2
+[0:35:58] to present information about something
+[0:36:01] that's coming up before the board and it
+[0:36:04] does that's okay. The city manager
+[0:36:07] starts asking what do you think about
+[0:36:09] this and what are you going to do and
+[0:36:10] then ask the next 2 by two and says what
+[0:36:13] are you uh you know how are you going to
+[0:36:15] be out uh What's your view on this? It
+[0:36:19] starts running into being an
+[0:36:20] intermediary. Yes.
+[0:36:22] >> So in let's say we were talking about
+[0:36:24] one of these small group meetings and a
+[0:36:26] board member in that meeting starts
+[0:36:27] offering their opinion about something
+[0:36:29] that is going to be on the agenda. So,
+[0:36:33] as long as you don't uh go to the next
+[0:36:36] group with and try and get to like a a
+[0:36:40] deliberation about it with the other
+[0:36:42] people, that one discussion I don't
+[0:36:45] think would violate the public meetings.
+[0:36:48] >> It's the serial and you're taking
+[0:36:50] information from that and taking it to
+[0:36:51] the next small meeting. Right. But if it
+[0:36:53] stays with the city manager,
+[0:36:56] >> right context.
+[0:36:58] >> Yep. You can have multiple board members
+[0:36:59] in the room together when that's
+[0:37:01] happening.
+[0:37:01] >> Uh, as long as you don't get to a
+[0:37:02] quorum.
+[0:37:03] >> Okay. What about if you're asking
+[0:37:05] questions in that meeting? Isn't that
+[0:37:07] borderline deliberating?
+[0:37:09] >> Like asking questions and engaging in
+[0:37:11] like a back and forth.
+[0:37:12] >> If you don't have enough to have a
+[0:37:13] quorum, you're not going to uh cross
+[0:37:16] that threshold
+[0:37:17] >> provided you can rest assured that the
+[0:37:20] next small group meeting.
+[0:37:22] >> That's right. So,
+[0:37:24] director A says this in a meeting. The
+[0:37:27] next small group meeting with director C
+[0:37:29] and D, we said, "Well, director A said
+[0:37:31] this. Had you considered that? Oh, now
+[0:37:33] now we now we're crossing into the
+[0:37:36] potential problem.
+[0:37:38] >> So, we have to
+[0:37:41] so director A could have a meeting.
+[0:37:43] Director A could then talk to B and C or
+[0:37:46] B and then B in that next meeting could
+[0:37:48] say, director A told me this."
+[0:37:51] >> Right. It doesn't have to be happening
+[0:37:52] in the meetings. It could be happening
+[0:37:53] behind
+[0:37:53] >> That's right. And if it's happening
+[0:37:55] behind the scenes, it's going to run.
+[0:37:57] It's runs the risk of you have to police
+[0:37:59] yourselves.
+[0:37:59] >> You need D to get a quorum.
+[0:38:01] >> Yes.
+[0:38:01] >> Right. Right. But presumably D's meeting
+[0:38:03] is going to happen. But just that
+[0:38:06] >> you've started the serial communication.
+[0:38:08] >> You have to assume like it's on me as A
+[0:38:11] to assume that B doesn't then talk to C
+[0:38:13] doesn't talk to D. We don't know how
+[0:38:16] >> that's the danger,
+[0:38:16] >> right?
+[0:38:17] >> Yes.
+[0:38:17] >> But you've all been trained here about
+[0:38:19] not not to do that, right?
+[0:38:20] >> Exactly. Yes, I think that's just too
+[0:38:23] many.
+[0:38:24] >> The OGC was taking the position that if
+[0:38:27] you talk to the media and then the media
+[0:38:29] starts asking other people question that
+[0:38:31] could be a serial communication, but
+[0:38:32] they backed off uh that interpretation.
+[0:38:35] >> Put it out here that we all avoid
+[0:38:37] talking to each other a lot just to
+[0:38:39] avoid this whole
+[0:38:41] >> you you're you're not alone. Yep. And
+[0:38:43] that is the way the law is currently
+[0:38:46] constructed. And you know, there was uh
+[0:38:47] legislation to try and soften that up
+[0:38:50] that uh was vetoed this year.
+[0:38:51] >> I want the public to know our general
+[0:38:53] approach. We just don't really talk to
+[0:38:55] each other much and it's probably not
+[0:38:56] good for us.
+[0:38:57] >> Thank you, public.
+[0:38:59] Given what director [Splitt] just said and
+[0:39:02] we understand like
+[0:39:05] the serial nature of this
+[0:39:08] >> can we start having conversations with
+[0:39:10] each other.
+[0:39:13] >> So actually this is probably why we keep
+[0:39:15] this as a public meeting because even
+[0:39:17] right now it's starting to get into
+[0:39:19] deliberating towards the way that you're
+[0:39:22] going to uh act with each other. Uh and
+[0:39:25] so you know different people h I mean
+[0:39:28] this is a real challenge with boards and
+[0:39:31] with other boards that I work with is
+[0:39:34] different people understandably human
+[0:39:36] beings have different risk tolerances uh
+[0:39:39] for things like that. And so, you know,
+[0:39:42] those are the types of things when you
+[0:39:44] talk about board protocols
+[0:39:46] that, you know, you you could
+[0:39:48] crystallize to some sort of protocol,
+[0:39:51] but a protocol designed to ensure that
+[0:39:53] you don't violate public meetings.
+[0:39:55] >> So, you think it's just better like that
+[0:39:57] we continue to avoid having
+[0:39:58] conversations?
+[0:39:59] >> I don't, you know, I don't um if you
+[0:40:02] want to avoid the risk of a of a
+[0:40:04] complaint. Yes. Um, I appreciate the
+[0:40:07] reality like I uh
+[0:40:11] >> I I
+[0:40:12] >> I think she was asking for correct me if
+[0:40:14] I'm wrong, but like just how I shared
+[0:40:17] before about how some folks are
+[0:40:19] concerned that if we're doing these
+[0:40:21] educational information sessions that it
+[0:40:24] then becomes like board deliberation or
+[0:40:26] something outside of um or creating, you
+[0:40:31] know, some sort of something. And so I
+[0:40:34] guess I was wondering as the question or
+[0:40:36] maybe your question um you know you're
+[0:40:40] saying here on record that if it's for
+[0:40:43] information or to gather facts or
+[0:40:46] educational and it's not a quorum then
+[0:40:50] that's okay.
+[0:40:51] >> Yes. Yes.
+[0:40:53] >> Given that we don't talk about it once
+[0:40:55] we get out of there. So
+[0:40:56] >> and and start having the chain turn into
+[0:40:58] a serial communication. Uh I mean I I
+[0:41:01] know I hold myself accountable to pretty
+[0:41:03] high standards, but how do we all do
+[0:41:04] that?
+[0:41:05] >> Yeah. I mean I think that's
+[0:41:06] >> an MDA do we you know I I can only trust
+[0:41:10] what I can do in terms of you know uh
+[0:41:14] >> well I think this is to the point
+[0:41:16] earlier of we don't talk to each other
+[0:41:18] uh because the law um makes creates some
+[0:41:22] disincentives.
+[0:41:24] But I don't want them to walk out of
+[0:41:25] here thinking they can't talk to each
+[0:41:27] other outside a quorum
+[0:41:29] >> very carefully and thoughtfully. I mean
+[0:41:31] I the answer I don't think you should
+[0:41:33] take away from this is you can't talk to
+[0:41:35] each other ever outside.
+[0:41:37] >> That's right.
+[0:41:38] >> Right.
+[0:41:38] >> You don't want to use I think about like
+[0:41:41] the purpose of the public meetings law
+[0:41:43] is to avoid having a bunch of secret
+[0:41:45] decisions made. And so if you have
+[0:41:49] confidence that you can have a
+[0:41:50] confidential conversation that is not
+[0:41:52] deliberating towards a decision that's
+[0:41:54] not going to go three four uh people uh
+[0:41:57] you know start down that path and as Liz
+[0:42:00] said you're all here so you know uh not
+[0:42:03] to take conversation a to you know that
+[0:42:06] you're in and take it to two or three
+[0:42:08] more people that is about a decision
+[0:42:11] that's going to come before the board. I
+[0:42:13] think practically if you start a
+[0:42:15] sentence with let me tell you what
+[0:42:17] director so and so said that's where you
+[0:42:19] want to check yourself and back up. But
+[0:42:22] if you're not in a forum and you want to
+[0:42:24] have a conversation with one of your
+[0:42:25] colleagues that's helpful to the work of
+[0:42:27] the board and is not you don't mean
+[0:42:29] enough to have every conversation.
+[0:42:32] So I I think you have to be very
+[0:42:33] thoughtful and deliberate and always
+[0:42:35] make sure you're checking yourself about
+[0:42:37] not sharing information across small
+[0:42:40] groups. But I
+[0:42:43] >> I don't think that's
+[0:42:44] >> Yeah. What if you just talk to somebody
+[0:42:47] about something you want to have on the
+[0:42:49] agenda at a committee meeting?
+[0:42:52] >> Can you ask that?
+[0:42:53] >> So, I'm not sure exactly how your agenda
+[0:42:56] is set up, but I would think you could
+[0:42:58] ask that that that would be something
+[0:43:00] appropriate to ask in a committee
+[0:43:02] meeting. Um,
+[0:43:04] >> I mean, what if someone like as chair of
+[0:43:06] a committee, someone says, "I hope you
+[0:43:07] bring blah blah blah up."
+[0:43:09] >> Yeah, I think that that's I think that
+[0:43:11] that's appropriate. I don't
+[0:43:13] >> otherwise how in the world do you
+[0:43:14] >> Yeah. If you can say thank you, right?
+[0:43:18] >> Thank you. Receive. I think going back
+[0:43:20] and forth with another member of the
+[0:43:21] audit committee that would create a
+[0:43:23] quorum
+[0:43:24] about the content and what we will
+[0:43:26] discuss. Like that's where you get into
+[0:43:28] problems. I'd like this added to the
+[0:43:30] dear Patty. I'd like this added to the
+[0:43:31] agenda. Thank you.
+[0:43:34] >> So would that be considered scheduling
+[0:43:36] as one? uh get what goes on an agenda is
+[0:43:40] probably going to get beyond scheduling.
+[0:43:42] Scheduling is can we meet at 4:30 or 5
+[0:43:45] and um you know that's uh because what
+[0:43:49] gets on an agenda can matter you know uh
+[0:43:53] can be significant. So uh I'm not going
+[0:43:56] to spend a long time on
+[0:43:59] uh executive sessions um in part because
+[0:44:02] Liz is with you most of the time and can
+[0:44:04] uh police them. uh you all complete uh
+[0:44:07] each other. [snorts] Um you know there
+[0:44:10] there there's kind of 12 main ones. Uh
+[0:44:13] there's a very good OGC flowchart about
+[0:44:16] what each type requires. Uh the big
+[0:44:19] thing is is you know they are
+[0:44:21] confidential. The information within
+[0:44:23] them is confidential. Uh and that's
+[0:44:27] actually a pretty good segue.
+[0:44:29] Uh oh well I think we probably covered
+[0:44:31] key practices through our discussion
+[0:44:34] here. Right. the reply to all. We talked
+[0:44:37] about intermediaries
+[0:44:39] um group editing being a problem. Uh and
+[0:44:42] then maintaining confidentiality of
+[0:44:45] executive sessions which falls neatly uh
+[0:44:50] oh I had one more slide before that. Uh
+[0:44:53] violations of the executive or of
+[0:44:56] [snorts] public meetings law. There's a
+[0:44:57] whole bunch of ways people can challenge
+[0:44:59] it. They can bring it to court. uh they
+[0:45:01] can uh get their fees if they find a
+[0:45:05] violation. You can have the decision
+[0:45:06] voided. Uh there can be personal
+[0:45:09] liability uh and civil penalties. So
+[0:45:12] there's a lot that can um arise.
+[0:45:16] So we're getting close to time and
+[0:45:19] wanted to get into the public records
+[0:45:22] law fura intersection and kind of hot
+[0:45:25] issues in education records. So I
+[0:45:28] actually start just with public records
+[0:45:30] law. Oregon as you know major
+[0:45:34] uh transparency state every person has
+[0:45:37] the right to see all the public bodies.
+[0:45:39] We start from its public and in fact uh
+[0:45:43] you know a public record it's any
+[0:45:45] writing containing information relating
+[0:45:47] to the conduct of the public's business
+[0:45:50] prepared owned or retained by the public
+[0:45:52] body regardless of form. So question is
+[0:45:56] a student's record a public record.
+[0:46:03] >> It is a public record.
+[0:46:05] >> It's just got an exemption.
+[0:46:06] >> Correct. So it's a public record that
+[0:46:09] has an exemption. In fact, I just saw a
+[0:46:11] DA opinion uh about that and
+[0:46:14] found the exemption to a student record
+[0:46:17] applied but rejected uh the entity had
+[0:46:20] said rejected it on the basis that it
+[0:46:22] was not a public record at all. And the
+[0:46:24] DA said no, it's a public record. It's
+[0:46:26] just exempt because there is an
+[0:46:28] exemption for records protected by
+[0:46:31] federal law, records protected by state
+[0:46:33] law.
+[0:46:35] um furpa because of course it comes up
+[0:46:38] so much in the educational context uh
+[0:46:41] something that I know you hear a lot
+[0:46:43] about uh it had an interesting history
+[0:46:46] that we don't have time to get into but
+[0:46:47] it was really a lot about access it was
+[0:46:50] uh today it would probably be about
+[0:46:53] confidentiality more than access but
+[0:46:55] this was we don't get to see we parents
+[0:46:58] don't get to see anything about our
+[0:47:00] students and uh schools are giving it
+[0:47:03] away so there was obviously a dual
+[0:47:05] purpose. Uh but we want access because
+[0:47:08] FURPA in large part says, hey, a parent
+[0:47:11] of a student is entitled to review their
+[0:47:15] own education records. Uh
+[0:47:19] confidentiality provisions preclude
+[0:47:21] anyone from disclosing
+[0:47:23] uh information from education records
+[0:47:25] unless there's an exception. You have a
+[0:47:27] board policy that tracks that. You
+[0:47:30] cannot sue under federal law for a
+[0:47:32] violation of uh furpa, but state law has
+[0:47:36] a lawsuit that says if there's a
+[0:47:38] reckless disclosure of education
+[0:47:39] records, a person can file a lawsuit and
+[0:47:42] they can recover their attorney's fees.
+[0:47:44] Um, and I note that if it's a reckless
+[0:47:46] disclosure, you start running into
+[0:47:48] questions about whether or not a person
+[0:47:50] who was reckless would be defended and
+[0:47:53] indemnified uh because, you know,
+[0:47:55] they're being reckless. Uh
+[0:48:01] couple quick definitions. Uh education
+[0:48:05] records. They have personally
+[0:48:06] identifiable information directly
+[0:48:08] related by a to a student maintained by
+[0:48:12] a school district just like we did with
+[0:48:15] the uh public meetings. Now, you're not
+[0:48:18] going to work daytoday with these
+[0:48:19] definitions the way you have to with
+[0:48:21] public meetings, but you can you can
+[0:48:23] break these definitions down and get
+[0:48:25] into a lot of nuance as to what these uh
+[0:48:30] what these are, but like personally
+[0:48:32] identifiable information. Uh, obviously
+[0:48:35] a a name is a full name is personally
+[0:48:38] identifiable most of the time, I would
+[0:48:40] think. But let's say you have a small
+[0:48:42] school and somebody says the sixth
+[0:48:46] grader who was the star of the play.
+[0:48:50] Well, that's personally identifiable
+[0:48:52] information that may be in an education
+[0:48:55] uh record. Now, per uh there may be
+[0:49:00] exceptions that allow for that, but but
+[0:49:02] I'm trying to get around personally
+[0:49:04] identifiable
+[0:49:05] uh related to the student. So often
+[0:49:08] times like a record that's really about
+[0:49:10] the parent may not even name the student
+[0:49:13] but it's about the parent is directly
+[0:49:16] related to the student and then
+[0:49:18] maintained by this is a real tricky area
+[0:49:21] and the courts have struggled with like
+[0:49:23] emails.
+[0:49:25] So emails about a student are probably
+[0:49:29] often times not fura records. Uh now is
+[0:49:34] there an email that says this is our
+[0:49:36] safety plan for the student? It's like
+[0:49:39] an official record. It's going to go in
+[0:49:41] the official this is how we're doing
+[0:49:42] this. This is how we're managing this
+[0:49:44] situation. But back and forth between
+[0:49:47] parents. Now don't get so comfortable
+[0:49:50] that okay, it's not an education record.
+[0:49:52] Therefore,
+[0:49:53] it doesn't have any protections. It's
+[0:49:56] still private information about a
+[0:49:58] student. So a lot of times we will end
+[0:50:00] up arguing well it may not be an
+[0:50:02] education record but like under the
+[0:50:04] public records law there's the personal
+[0:50:07] privacy exemption where people would
+[0:50:08] expect that information about a child is
+[0:50:10] kept confidential. Yes.
+[0:50:13] >> Can I [snorts] just ask what when does
+[0:50:15] this like come up?
+[0:50:17] >> Ah great question. Uh it comes up uh in
+[0:50:21] uh and I think there have been some
+[0:50:23] questions about that. So that's one
+[0:50:24] reason that's on here. But school
+[0:50:26] official with a legitimate educational
+[0:50:28] interest. This is where it comes up can
+[0:50:30] come up with board members in
+[0:50:31] particular. Um the board when it acts
+[0:50:36] for the school district is really like
+[0:50:38] the board has authority over certain
+[0:50:40] things.
+[0:50:42] If a board member, let's say, got a
+[0:50:46] complaint from a constituent about a
+[0:50:49] disciplined situation of a student and
+[0:50:52] went and demanded,
+[0:50:54] I want to see, went to the school and
+[0:50:56] demanded, I want to see those records,
+[0:50:58] there'd be a good argument that there's
+[0:51:01] not a legitimate educational interest
+[0:51:02] for that individual board member to in
+[0:51:06] that spot review those records. So that
+[0:51:09] uh that's uh one way that it uh comes up
+[0:51:14] uh probably most commonly uh with board
+[0:51:16] members. Uh directory information about
+[0:51:19] like athletics uh size and uh height and
+[0:51:22] weight of of athletes as long as
+[0:51:25] somebody doesn't opt out can be given.
+[0:51:27] Uh lots of exceptions. But since we're
+[0:51:30] getting down to time and it's getting
+[0:51:32] active, uh let me get to the key key
+[0:51:35] issues for boards of directors. Uh
+[0:51:38] boards have a lot of board members will
+[0:51:39] ask who's got access to this
+[0:51:42] information. Uh the district put
+[0:51:44] together a really good uh data privacy
+[0:51:48] agreement for contractors. Contractors
+[0:51:50] get student record information because
+[0:51:52] they can be considered school officials
+[0:51:55] with a legitimate educational interest.
+[0:51:57] And the district has uh uh agreements
+[0:52:01] that maintain control of the records,
+[0:52:05] put burdens on the contractor for taking
+[0:52:07] care of them. Um maintaining
+[0:52:10] confidentiality. So there can be
+[0:52:11] concerns too. Uh boards do get student
+[0:52:15] records. Sometimes they might or
+[0:52:16] information about students that's not a
+[0:52:18] student records. Don't want to be taking
+[0:52:20] that information and sticking it in your
+[0:52:23] personal chat. GPT
+[0:52:25] um cuz that can be a disclosure gets it
+[0:52:27] out in the public arena. So that's
+[0:52:29] something to uh be careful about and
+[0:52:32] then furpa one aspect of like I
+[0:52:34] mentioned just because it's non furpa
+[0:52:37] doesn't mean it's not confidential.
+[0:52:39] >> So I know you all are looking forward to
+[0:52:42] getting to your next meeting. Yeah,
+[0:52:45] and I've dealt with Oregon state laws on
+[0:52:46] this a lot in my practice. Are they
+[0:52:48] stronger than Furpa? Oregon laws often
+[0:52:50] are. Are they stronger than Furpa?
+[0:52:51] They're quite consistent. Like very
+[0:52:54] rarely do I see something where there's
+[0:52:57] a significant difference.
+[0:53:01] >> Thank you.
+[0:53:02] >> All right.
+[0:53:03] >> I know it was a lot. If you if it
+[0:53:04] marinates or you know your legal
+[0:53:06] department is open for questions.
+[0:53:13] >> Thanks for your time. I appreciate
+[0:53:15] >> appreciate all the good work that you do
+[0:53:17] and appreciate that it's important and
+[0:53:20] challenging.
+[0:53:22] >> Thank you so much. All right, let's meet
+[0:53:24] a journey. He said he started
+[0:53:26] proceeding.

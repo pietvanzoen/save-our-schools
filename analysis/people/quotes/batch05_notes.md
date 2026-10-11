@@ -1,5 +1,3 @@
-> **CAVEAT (controller, 2026-10-11):** parts of this file were written from YouTube *Arabic auto-translated* captions for these videos: gVtn7AYmhUU, ppbt9KnsTbk, bQb4RGUlfk0, kIF9qrrMy6E, S-pk57P6f_o, YfANSrxqAMI, 3N-rsU_g5Yk, zfvbTie4mpE, U8Cg5voCxXc, k0wbO5egtWA. Those meetings were re-analyzed from English captions in `batch10_redo_notes.md` and the corresponding `analysis/meetings/*.md`; prefer those. Quotes from the Arabic captions were removed from the JSONL files.
-
 # Batch05 notes: transcripts 2026-01-27 to 2026-03-08
 
 Scope: 8 meetings:
@@ -105,7 +103,7 @@ Output: `analysis/people/quotes/batch05.jsonl` (120 quotes). Every quote string 
     - The MLC-precedent lines follow a caption speaker change (">>") after Splitt's blends proposal. Attributed to Splitt (medium).
     - The "vocal parents... changed our minds" quote is DePass (medium): the facilitator said "Michelle", and the caption also renders Rashelle as "Michelle", but the content fits DePass's engagement background.
     - Several retreat speakers addressed as "Michelle" were left unattributed (both DePass and Chase-Miller are captioned as Michelle).
-- **2026-03-05 Audit Committee:** the only archived caption track is an **Arabic machine translation** (`caption_lang: ar`). I summarized from it and the minutes but extracted **no quotes**, since the English wording cannot be verified. If English captions are fetched later, the Brennan transfer data (about 7,000 transfer requests a year; about 1,350 hardship requests; 15% of hardship offers declined; small kindergarten cohorts at two lottery schools; DLI attrition) deserves verbatim quotes.
+- **2026-03-05 Audit Committee:** analyzed from English captions in `batch10_redo` (see `analysis/meetings/2026-03-05_ppbt9KnsTbk.md`).
 - **2026-02-23 Policy Committee:** scanned by keyword rather than read line by line (low rightsizing relevance). One medium DePass quote on air-change costing.
 - **2026-02-10:** the minutes call the bill "HB 412", but the transcript says House Bill 4112. I used HB 4112.
 
@@ -161,7 +159,7 @@ Output: `analysis/people/quotes/batch05.jsonl` (120 quotes). Every quote string 
 - **Audit:** Sullivan (chair), Splitt, Engelsman [BB:3998063 p.1] [BB:3998073 p.1]
 - **TLE:** Chase-Miller (chair), La Forte, Splitt [BB:3998065 p.1]
 - **Policy:** DePass (chair), Chase-Miller, Engelsman [BB:3998071 p.1]
-- **FIO:** La Forte is chair [YT:ppbt9KnsTbk@1:14:11]
+- **FIO:** La Forte is chair [YT:ppbt9KnsTbk@1:14:17]
 - **Liaisons:** Splitt to the BAC [YT:s2BtyvEqG-o@3:16:17]; the CBRC board representative gave the report at [YT:s2BtyvEqG-o@3:29:20] (likely Sullivan; not named in the captions or minutes); the Climate Crisis Response Committee liaison report at [YT:s2BtyvEqG-o@3:32:56] (likely Wang; not named); La Forte as board rep to the Fund for PPS [YT:s2BtyvEqG-o@1:59:25]
 - **Staff:**
   - Judy Brennan, Director of Enrollment & Transfer (20th year running the lottery) [BB:3998073 p.1]

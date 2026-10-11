@@ -28,12 +28,16 @@ def rows():
         vid = tsv.stem.split("_", 1)[1]; date = tsv.name[:10]
         meta = json.loads(tsv.with_suffix(".meta.json").read_text())
         title = (meta.get("meta") or {}).get("title", "")
+        # caption text comes from the corrected copy (name fixes in [brackets]) when it exists; it aligns 1:1 with the TSV rows
+        corr = ROOT / "analysis/transcripts_corrected" / (tsv.stem + ".txt")
+        ctext = [re.sub(r"^\[\d+:\d\d:\d\d\] ?", "", l) for l in corr.read_text().splitlines() if re.match(r"^\[\d+:\d\d:\d\d\]", l)] if corr.exists() else None
+        rows_tsv = [l.split("\t", 2) for l in tsv.read_text().splitlines()[1:]]
+        if ctext is not None and len(ctext) != len(rows_tsv): ctext = None
         win, start = [], None
-        for line in tsv.read_text().splitlines()[1:]:
-            parts = line.split("\t", 2)
+        for i, parts in enumerate(rows_tsv):
             if len(parts) < 3: continue
             ms = int(parts[0]); start = ms if start is None else start
-            win.append(parts[2])
+            win.append(ctext[i] if ctext is not None else parts[2])
             if ms - start >= 60000:
                 yield ("transcript", date, title, f"https://www.youtube.com/watch?v={vid}&t={start//1000}s",
                        f"[YT:{vid}@{hms(start/1000)}]", " ".join(win), "")

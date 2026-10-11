@@ -38,7 +38,9 @@ and how board members and senior staff think and change positions over time. Rou
 - `sources/boardbook/meetings_index.csv`: every meeting since 2025-01-01
 - `sources/boardbook/attachments_index.csv`: every agenda/supplemental attachment with tags and local paths
 - `sources/boardbook/meetings/<date>_<id>_<slug>/meeting.json`: agenda items + attachments per meeting
-- `sources/youtube/transcripts/`: per-video transcripts (when present)
+- `sources/youtube/transcripts/`: per-video raw auto-captions (primary source; never edit)
+- `analysis/transcripts_corrected/`: same transcripts with caption name mis-hearings fixed in [brackets]; read and
+  quote from these (`tools/caption_fixes.py` regenerates them; `corrections.csv` logs every change)
 - PDF text: `<file>.pdf.txt` next to each PDF (pages separated by form feed \f). Scanned PDFs also have
   `<file>.pdf.ocr.txt` (tesseract OCR of image-only pages; may contain recognition errors; verify against the PDF)
 - pps.net / bond.pps.net archives: `sources/pps_net/`, `sources/bond/` with `_manifests/` (URL, final URL, fetch time)

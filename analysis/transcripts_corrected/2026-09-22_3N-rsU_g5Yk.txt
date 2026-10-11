@@ -1,0 +1,1557 @@
+# 2026-09-22 Board of Education's Policy Committee
+# Video: https://www.youtube.com/watch?v=3N-rsU_g5Yk
+# Source: YouTube captions (asr, en), fetched 2026-10-11T01:02:07.674Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2026-09-22_3N-rsU_g5Yk.txt
+# BoardBook meeting(s): 2026-09-22|767981
+# Link to a moment: https://www.youtube.com/watch?v=3N-rsU_g5Yk&t=<seconds>s
+
+[0:00:00] Hello, good morning, or good afternoon.
+[0:00:02] Um, I am thrilled to call to order the
+[0:00:04] public meeting of the Board of
+[0:00:06] Education's Policy Committee for
+[0:00:08] September 22nd. Um, good afternoon and
+[0:00:11] welcome. Thank you all for being here
+[0:00:12] and for everybody who is listening right
+[0:00:15] now online or watching in the future,
+[0:00:17] uh, welcome as well.
+[0:00:19] Um, today's agenda includes a few
+[0:00:21] things. We'll start with a discussion of
+[0:00:23] the proposed 2026-27
+[0:00:25] Committee Work Plan. Thank you to Sharon
+[0:00:28] and probably Emily for coming up with
+[0:00:30] that after we had some conversations.
+[0:00:32] Um, a review and discussion of the draft
+[0:00:35] policy on digital device and screen use
+[0:00:37] brought forward by Schools Beyond
+[0:00:39] Screens. Thank you.
+[0:00:41] Um, we'll also begin a discussion on an
+[0:00:43] AI policy. Um, and of course at the end
+[0:00:46] I will be asking committee members if
+[0:00:47] they have any agenda items they want to
+[0:00:49] bring forward for discussion at a future
+[0:00:51] meeting. Um, there are other things that
+[0:00:54] we will discuss briefly today that are
+[0:00:56] in the committee work plan just so
+[0:00:57] anyone hears like, "Oh, you didn't
+[0:00:58] mention the thing I want to talk about."
+[0:01:00] Um, let's start with introductions. My
+[0:01:02] name is Stephanie [Engelsman]. I am the
+[0:01:04] Zone 6 representative, um, and also the
+[0:01:07] committee chair for the Policy Committee
+[0:01:08] this year.
+[0:01:10] >> Hi, my name's Patty Sullivan. Um,
+[0:01:13] director
+[0:01:14] of, let's see, what am I? Zone 3. Yeah.
+[0:01:20] >> I'm Virginia [La Forte]. I'm elected out of,
+[0:01:22] oh my god, Zone 5.
+[0:01:26] And excited to join this committee this
+[0:01:28] year.
+[0:01:31] >> Uh, Emily Courtneidge, senior legal
+[0:01:33] counsel.
+[0:01:37] >> Roseann Powell, board manager.
+[0:01:41] >> Um,
+[0:01:43] Now, Ms. Powell, could you tell us
+[0:01:44] please if we have any public comment?
+[0:01:45] Anyone signed up to speak?
+[0:01:46] >> We do. We have five people signed up.
+[0:01:49] >> Okay, could you call the first three,
+[0:01:51] four, however many you think we should
+[0:01:52] call?
+[0:01:53] >> Okay, I'll call four and And we'll put
+[0:01:55] our virtual person at the end.
+[0:01:58] I see that we have Chair [Wang], too. Um
+[0:02:00] sorry, before we go on, Chair [Wang],
+[0:02:02] would you like to introduce yourself?
+[0:02:04] >> Yeah, hi.
+[0:02:06] I'm Chair Eddie [Wang], an ex-officio
+[0:02:08] member.
+[0:02:08] >> I think you're still muted.
+[0:02:11] >> Thank you.
+[0:02:17] >> But we could not hear you, but if you
+[0:02:18] try again, maybe?
+[0:02:26] Chair [Wang], would you um introduce
+[0:02:28] yourself again, see if we can hear you
+[0:02:29] now?
+[0:02:30] >> It didn't work the first time.
+[0:02:31] >> Now we hear you. Yep.
+[0:02:32] >> All right, thank you. Hi, my name is uh
+[0:02:34] Chair uh Board I'm currently serving as
+[0:02:36] a Board Chair,
+[0:02:38] Eddie [Wang],
+[0:02:39] uh ex-officio member of this committee,
+[0:02:41] and here to be of help if I can. So,
+[0:02:43] thank you.
+[0:02:45] >> Thank you, Chair [Wang]. Sorry, I hadn't
+[0:02:46] looked up yet, so I apologize for uh
+[0:02:48] skipping over you. Thank you for being
+[0:02:49] here. All right, Ms. Powell.
+[0:02:51] >> Yes, we have Miranda Rake, Holly
+[0:02:55] Milne Milne.
+[0:03:00] >> Oh, sorry.
+[0:03:02] Um Anya
+[0:03:04] Anya
+[0:03:06] Sorry.
+[0:03:07] Thank you. Mines and Anna Wybeck.
+[0:03:19] All right, thank you, everybody. Um
+[0:03:20] before we start, uh please make sure to
+[0:03:22] begin your comments with clearly stating
+[0:03:24] your name and spelling your last name.
+[0:03:26] You will have 2 minutes to speak. Once
+[0:03:27] you hear the sound of the alarm go off,
+[0:03:29] please wrap up your comments. And when
+[0:03:31] one commenter uh ends, you're welcome to
+[0:03:33] go ahead and get started, even if the
+[0:03:35] button hasn't changed yet.
+[0:03:41] >> Um hi, my name is Miranda Rake, r a k e,
+[0:03:44] and I'm a PPS parent and co-founder of
+[0:03:46] Schools Beyond Screens Portland. I want
+[0:03:49] to highlight a phrase that we've used in
+[0:03:50] our proposed screen policy for PPS that
+[0:03:53] I see as its North Star. Proven benefit.
+[0:03:56] We ask that digital products come into
+[0:03:58] the classroom only where there is proven
+[0:04:00] benefit over analog alternatives. This
+[0:04:03] is not the standard that PPS holds
+[0:04:05] digital products to at the moment and
+[0:04:07] it's the least our kids deserve. We've
+[0:04:09] worked on this policy for months and
+[0:04:11] there's so much to say. I want to assure
+[0:04:13] you that my very analog education in PPS
+[0:04:16] in the 80s prepared me well for the
+[0:04:18] digital world in which I live and work.
+[0:04:20] I want to talk about the fact that PPS
+[0:04:22] cannot turn off Google searches AI
+[0:04:24] overview even though we are in an AI
+[0:04:26] pause, even though we know it is often
+[0:04:29] inaccurate. I want you to see who truly
+[0:04:31] decides right now if students encounter
+[0:04:33] AI at school. It's not the district, the
+[0:04:35] board, or educators. It's a
+[0:04:37] multi-billion dollar private company.
+[0:04:40] Tech companies have positioned
+[0:04:41] themselves in our public schools in
+[0:04:43] order to, in their own words, build a
+[0:04:45] pipeline of future users.
+[0:04:47] Now we see the consequences of this
+[0:04:49] Faustian arrangement, driven not by
+[0:04:51] proven benefit, but by insatiable profit
+[0:04:54] seeking.
+[0:04:55] Earlier today I was in my daughter's
+[0:04:56] kindergarten class during their i-Ready
+[0:04:58] assessment. It was eye-opening and I've
+[0:05:00] sent a short additional statement about
+[0:05:02] that experience to each of you.
+[0:05:05] As you consider our policy, I hope
+[0:05:06] you'll agree that our kids deserve
+[0:05:08] better. They deserve proven benefit.
+[0:05:10] I'll close now with words from poet Mary
+[0:05:12] Oliver that speak to the heart of this
+[0:05:15] policy.
+[0:05:16] "We don't matter much," she writes, "but
+[0:05:19] the children do. Give them the fields
+[0:05:21] and the woods and the possibility of a
+[0:05:24] world salvaged from the lords of profit.
+[0:05:27] Stand them in the stream, head them
+[0:05:28] upstream, rejoice as they learn to love
+[0:05:31] this green space they live in, its
+[0:05:34] sticks and leaves and the silent
+[0:05:35] beautiful blossoms. Attention is the
+[0:05:38] beginning of devotion."
+[0:05:40] Thank you for your time.
+[0:05:46] My name is Holly Hoffcamp, H O f k a m
+[0:05:48] p. I'm a mom of three PPS kids and a
+[0:05:51] co-lead of Schools Beyond Screens
+[0:05:52] Portland. As a doctor who nerds out on
+[0:05:55] screen time research, I've waited for
+[0:05:57] the report released this month by the
+[0:05:59] American Psychological Association on
+[0:06:01] children and adolescents learning on ed
+[0:06:03] tech, which I've printed for you. Today,
+[0:06:06] I'll highlight three themes. First,
+[0:06:08] technology comes with opportunity costs,
+[0:06:10] especially for developing brains. Time
+[0:06:13] on technology can displace reading,
+[0:06:15] movement, conversation, hands-on
+[0:06:16] experiences, and social connection.
+[0:06:19] While the report doesn't recommend
+[0:06:20] specific screen time limits, I believe
+[0:06:22] limits are the most reliable way to
+[0:06:24] protect time for these essential
+[0:06:25] developmental experiences across a
+[0:06:27] district this large. Second, AI requires
+[0:06:30] caution. The report warns that
+[0:06:32] generative AI may make students more
+[0:06:34] productive at the expense of actual
+[0:06:36] learning. Are we simply trying to make
+[0:06:38] children more productive, or are we
+[0:06:40] trying to make teach children who can
+[0:06:42] think critically, solve problems, and
+[0:06:43] adapt? AI holds promise, but until we
+[0:06:46] have appropriate research, safeguards,
+[0:06:48] and AI literacy, a continued pause is
+[0:06:50] appropriate. Finally, the report puts
+[0:06:53] the responsibility on systems and
+[0:06:54] adults, not students. It calls for
+[0:06:56] students to choose tools based on
+[0:06:58] evidence of learning, not engagement,
+[0:07:00] using rigorous independent research. It
+[0:07:02] calls for schools to turn off
+[0:07:04] distracting features, consider the needs
+[0:07:06] of different learners, protect student
+[0:07:07] data from commercial interests, and
+[0:07:09] ensure technology supports rather than
+[0:07:11] replaces human relationships. Before
+[0:07:14] investing limited dollars in ed tech, we
+[0:07:16] should ask what the same investment
+[0:07:17] could do if we put it towards teachers
+[0:07:19] and strong instructional practices.
+[0:07:21] Technology has an important role in
+[0:07:23] education, but it should be used
+[0:07:24] intentionally, safely, and based on
+[0:07:26] evidence. The policy before you builds
+[0:07:28] this in through rigorous vetting,
+[0:07:30] stakeholder oversight, and annual
+[0:07:32] evaluation. It's ambitious, but many
+[0:07:34] districts are paving the way. So, as you
+[0:07:36] shape this policy, please be bold. Our
+[0:07:38] kids and their learning are worth it,
+[0:07:40] and the evidence supports it.
+[0:07:45] >> Good afternoon. My name is Anna Weehi,
+[0:07:47] and I'm a Boise Eliot resident, a high
+[0:07:49] school teacher at a nearby district, and
+[0:07:52] a mother to a 3-year-old. I'm here to
+[0:07:54] ask the board to adopt a strict policy
+[0:07:56] that significantly limits screen time
+[0:07:58] across all grades. I stand with the
+[0:08:00] growing coalition of parents, teachers,
+[0:08:02] and researchers who agree that screens
+[0:08:04] in school are detrimental to our
+[0:08:06] children's learning and mental health.
+[0:08:09] Having taught long enough to remember
+[0:08:10] the before times, I've seen these
+[0:08:12] harmful impacts firsthand. I also bought
+[0:08:15] into the promises of EdTech, but now
+[0:08:18] there is clear data. We were wrong.
+[0:08:20] This summer, I audited my own curriculum
+[0:08:23] asking whether my students' Chromebook
+[0:08:24] use truly enhanced my curriculum or was
+[0:08:28] just out of convenience for me. Now, we
+[0:08:30] rarely use them. A growing body of
+[0:08:32] evidence shows that skills practiced on
+[0:08:35] apps rarely transfer to real life, while
+[0:08:37] paper and pencil consistently produce
+[0:08:40] better results.
+[0:08:41] So, I ask the board, has PPS collected
+[0:08:45] data that proves that our current EdTech
+[0:08:47] investments are actually improving
+[0:08:49] learning?
+[0:08:51] On a personal note, I deeply believe in
+[0:08:53] public education, and I've always
+[0:08:55] assumed that my son would attend Boise
+[0:08:56] Eliot. But, our family has worked really
+[0:08:59] hard to keep his first 3 years
+[0:09:01] screen-free, and he never asks for
+[0:09:03] screen time.
+[0:09:04] To guarantee that our efforts weren't
+[0:09:05] undone, I enrolled him in a private
+[0:09:07] Montessori preschool, and for the first
+[0:09:10] time, I'm considering keeping him in the
+[0:09:12] Montessori long-term.
+[0:09:14] This deeply conflicts with my values,
+[0:09:16] and Boise Eliot has an amazing staff and
+[0:09:19] community, and I want my son there. I
+[0:09:21] would feel confident sending him to PPS
+[0:09:23] if I knew the district had a technology
+[0:09:25] policy that aligns with the current
+[0:09:27] neuroscience of what we and what we know
+[0:09:29] in our hearts is the best practice for
+[0:09:31] our kids. Our kids deserve proven
+[0:09:33] pedagogy, and not to be test subjects
+[0:09:36] for the latest tech ventures made by
+[0:09:38] folks trained in marketing and not
+[0:09:40] education. Please take a strong stance
+[0:09:42] and limit educational technology.
+[0:09:47] My name is Anya Mines, m i n e s. I'm
+[0:09:51] the mother of two students at our
+[0:09:52] neighborhood school, James John
+[0:09:53] Elementary. My daughter's in third
+[0:09:55] grade, my son is in fifth. Uh he is
+[0:09:57] autistic and is currently in a general
+[0:09:59] education classroom with support. I
+[0:10:01] would like to comment on screen policy
+[0:10:03] as it relates to our experience in
+[0:10:04] special education.
+[0:10:05] My son attended James John for
+[0:10:07] kindergarten and first grade, but it was
+[0:10:09] really hard. At the end of first grade,
+[0:10:11] the IEP team recommended a placement
+[0:10:13] change to a CB focus classroom and the
+[0:10:15] district placed us at Peninsula
+[0:10:16] Elementary. We had been at school for
+[0:10:18] roughly 4 weeks when I opened the weekly
+[0:10:20] Securely update and realized my son had
+[0:10:23] spent over 4 hours on YouTube every day
+[0:10:25] that week. I joked to my husband, "He's
+[0:10:27] busted." But when I contacted the focus
+[0:10:29] classroom teacher, she actually already
+[0:10:31] knew. She explained there was not enough
+[0:10:33] staff in the CB room to both support my
+[0:10:35] son in gen ed and also maintain
+[0:10:37] classroom safety. So he spent the week
+[0:10:39] on YouTube and no one told us. I realize
+[0:10:42] this is a conversation that gets harder
+[0:10:43] every day. You hope Monday will be a
+[0:10:45] one-off, but when it's not, how do you
+[0:10:47] explain to a parent that their
+[0:10:48] 8-year-old spent yesterday and the day
+[0:10:50] before and the day before that bopping
+[0:10:52] around YouTube? Coming from the gen ed
+[0:10:54] space, I was gobsmacked. But when I
+[0:10:56] talked to other sped parents, they were
+[0:10:58] considerably less surprised. Over the
+[0:11:01] next 2 years, even on good days, my son
+[0:11:03] spent at least 50 minutes on YouTube.
+[0:11:05] This is 12% of the elementary school
+[0:11:07] day. If chronic absence is missing 10%
+[0:11:09] of the school year, then every morning
+[0:11:11] we hustled him to school to be
+[0:11:13] chronically absent. We couldn't get away
+[0:11:15] from daily YouTube time until PPS
+[0:11:17] implemented the inclusion model in North
+[0:11:19] Portland and James John was able to
+[0:11:21] welcome my son back into a gen ed
+[0:11:23] classroom.
+[0:11:24] Parents deserve to know how their
+[0:11:25] children use screens at school. And
+[0:11:28] schools also need to know how screens
+[0:11:29] are are used in their classrooms and if
+[0:11:32] they're used differently in gen ed and
+[0:11:33] sped spaces. Please mandate
+[0:11:35] disaggregation of screen time by school
+[0:11:38] and by gen ed versus focus classroom.
+[0:11:40] Please mandate a breakdown of what
+[0:11:42] programs or websites students access
+[0:11:44] during screen time. It would ideally be
+[0:11:46] publicly presented just like attendance
+[0:11:48] data.
+[0:11:49] If we let shame present prevent us from
+[0:11:52] being transparent with each other, we
+[0:11:53] can't work together for us equality
+[0:11:55] education for all students. Thank you
+[0:11:56] very much for your time.
+[0:12:02] >> And we have Lauren Moore virtually.
+[0:12:06] >> Hi there. Hopefully this is working.
+[0:12:09] Um
+[0:12:09] my name is Dr. Lauren Moore, spelled m o
+[0:12:12] o r e. My pronouns are she, her. I'm a
+[0:12:15] mom and local family physician. I live
+[0:12:17] in the Creston-Kenilworth neighborhood.
+[0:12:19] Um I want to urge the board to enact a
+[0:12:21] strict and concrete limitations on
+[0:12:23] screen time and technology use in
+[0:12:25] classrooms,
+[0:12:26] um such as those set forth in the policy
+[0:12:28] proposal by Schools Before Screens.
+[0:12:31] Um I've been in regular practice for
+[0:12:33] about 4 years, but I've spent 15 years
+[0:12:35] in direct patient care in one capacity
+[0:12:36] or another.
+[0:12:38] I care for a large pediatric population
+[0:12:39] as well as many adult patients who are
+[0:12:42] parents, educators, and guidance
+[0:12:43] counselors.
+[0:12:45] I've seen a lot of concerning changes in
+[0:12:46] kids and adolescents in these last 15
+[0:12:48] years. Um I see teens on a weekly basis
+[0:12:51] who can't understand or fill out a
+[0:12:53] simple yes/no questionnaire on paper.
+[0:12:55] I've talked to parents who haven't ever
+[0:12:57] seen their children read a chapter book
+[0:12:59] for school.
+[0:13:00] Uh they see their kids bypass firewall
+[0:13:02] firewalls on school-issued computers to
+[0:13:04] watch streaming services or be rewarded
+[0:13:07] for good behavior with YouTube time in
+[0:13:09] class.
+[0:13:10] We know they're struggling academically
+[0:13:12] and socially, and I firmly believe
+[0:13:14] over-reliance on technology and screen
+[0:13:16] time are playing a large role.
+[0:13:18] And I can understand why in my own
+[0:13:20] experience in the decades I spent in
+[0:13:21] school, I learned and retained
+[0:13:23] significantly less from online classes
+[0:13:25] or when I relayed relied on computer um
+[0:13:28] computers to study or take notes. A
+[0:13:30] wealth of uh data supports these
+[0:13:32] observations, as well. You can find some
+[0:13:34] of this data in the footnotes of the
+[0:13:36] policy proposal from Schools Beyond
+[0:13:37] Screens.
+[0:13:39] Additionally, as a parent of an almost
+[0:13:41] 3-year-old with another on the way, I
+[0:13:42] worry about the education my kids are
+[0:13:44] going to receive for these reasons.
+[0:13:46] I think it will be so valuable for them
+[0:13:48] to be able to engage with our community
+[0:13:50] by walking just the four blocks to our
+[0:13:51] elementary school, picking up their
+[0:13:53] neighbor friends along the way. Um but I
+[0:13:55] also really want to prioritize a strong
+[0:13:57] academic foundation for them.
+[0:13:59] Avoiding change inertia and returning to
+[0:14:01] a more limited, reasonable approach to
+[0:14:03] screens in school, I think is one of the
+[0:14:04] best things we can do to achieve that.
+[0:14:07] Thank you.
+[0:14:12] >> Is that all?
+[0:14:13] >> Um only because in my prior world, I
+[0:14:17] would talk about records, I just want to
+[0:14:18] say thank you to the materials that were
+[0:14:20] handed us to us. Um
+[0:14:22] there's the APA American Psychological
+[0:14:24] Association expert report on children's
+[0:14:26] and adolescents learning with
+[0:14:28] educational technology.
+[0:14:30] Then there's an artificial intelligence
+[0:14:31] AI and screen time from New York City
+[0:14:34] public schools. It's a guidance. Then
+[0:14:37] there's also board approved June 23rd,
+[0:14:40] 2026 Los Angeles Unified School District
+[0:14:43] guidelines for student screen time
+[0:14:45] policy. And then finally, a packet from
+[0:14:48] Portland Public Schools securely student
+[0:14:51] screenshots from September of 2026,
+[0:14:53] which appears to be screenshots from
+[0:14:56] sixth grade, second grade, kindergarten,
+[0:14:58] and among um lots of others of what kids
+[0:15:01] are getting on
+[0:15:02] um
+[0:15:04] when they're not supposed to be. So
+[0:15:05] anyway, thank you for these materials.
+[0:15:07] Um
+[0:15:08] now we will move to our first discussion
+[0:15:12] today, which is the discussion for the
+[0:15:14] 2026-27
+[0:15:15] committee work plan. I didn't talk to
+[0:15:18] Ms. Curtinage about it beforehand. Do
+[0:15:20] you want to introduce it? I know it was
+[0:15:22] Ms. Tunkara was talking about it or did
+[0:15:24] you just want to dive into it? Okay.
+[0:15:25] >> am happy to introduce it. Um
+[0:15:28] Sharon and I worked on this together.
+[0:15:30] The first um side you see there is a
+[0:15:33] work plan for substantive policy
+[0:15:35] changes.
+[0:15:36] And that includes both new policy
+[0:15:39] development and revision of current
+[0:15:41] policies. Um we've outlined some here
+[0:15:44] including those starting in September at
+[0:15:46] this meeting. That would be the screen
+[0:15:47] time and healthy technology policy
+[0:15:49] development. Um also looking at
+[0:15:51] artificial intelligence.
+[0:15:53] For October, we have a couple staff
+[0:15:56] initiated uh policy revisions ready to
+[0:15:59] go
+[0:16:00] um including climate crisis response
+[0:16:02] policy and a comprehensive health and
+[0:16:04] wellness policy.
+[0:16:05] And then we have some suggestions for
+[0:16:07] later in the year
+[0:16:09] um that our chair um Englund
+[0:16:12] uh suggested for policy committee review
+[0:16:14] this year.
+[0:16:16] On
+[0:16:17] the reverse side, we have a work plan
+[0:16:21] for routine review.
+[0:16:23] Uh we have a board um policy that wrote
+[0:16:26] that asked the board uh to strive to
+[0:16:28] review all policies at at least once
+[0:16:30] every four years. That's a big ask. Um
+[0:16:34] but we uh recommend a cadence for review
+[0:16:37] of several of the
+[0:16:38] uh sections of policies that we have um
+[0:16:41] not yet reviewed. We did complete two
+[0:16:42] sections um last year.
+[0:16:47] >> Thank you. And for the other committee
+[0:16:48] members, my thought in asking legal to
+[0:16:51] help me create something like this is
+[0:16:52] just so that we have it early on in the
+[0:16:54] policy year and community members
+[0:16:56] interested in what we're doing when can
+[0:16:58] refer to this. Obviously, there may be
+[0:17:00] some movement to it as things are
+[0:17:02] shorter or longer than anticipated or
+[0:17:04] other ideas come up. Um but I wanted to
+[0:17:07] also note that under uh this agenda
+[0:17:11] item, I had asked to include a revisions
+[0:17:14] to a board policy 3.30.080,
+[0:17:18] which I think was worked on last year by
+[0:17:20] Chair [Wang] and Safos, which incorporates
+[0:17:24] some changes. So, I've asked to have
+[0:17:25] that up even though we're not discussing
+[0:17:27] that today, it'll be on
+[0:17:30] um
+[0:17:32] maybe October. It'll be on October's
+[0:17:34] agenda item to discuss. So, I hope we
+[0:17:36] can put it up early in so that people
+[0:17:38] have a lot of time to review and read
+[0:17:39] and come up with thoughts, questions,
+[0:17:41] and be ready for that conversation in
+[0:17:43] October. And I see we have some members
+[0:17:45] of that community here today, so thank
+[0:17:46] you very much.
+[0:17:48] Um any thoughts or things to talk about?
+[0:17:50] I know we'll have at the end of the
+[0:17:52] committee meeting any additional things
+[0:17:54] to add on here, but thoughts about this
+[0:17:55] so far?
+[0:17:58] >> Um just I appreciate this to kind of
+[0:18:01] know where we're going and how they
+[0:18:03] follow through. Just appreciate it a
+[0:18:05] lot. I did read and it was nice to be
+[0:18:07] able to read this ahead to be able to
+[0:18:09] think about it.
+[0:18:10] Um
+[0:18:12] In fact, I didn't know we had more time,
+[0:18:13] so that's good.
+[0:18:15] Now I'm ready. And um anyway, I just
+[0:18:18] appreciate the organization.
+[0:18:21] >> I was going to say the same thing. Thank
+[0:18:22] you.
+[0:18:25] >> So, uh we'll see you in October then. Um
+[0:18:27] thank you. We'll make sure that there's
+[0:18:29] um
+[0:18:30] public comment time um on this.
+[0:18:33] Uh next up would be
+[0:18:36] item number four, discussions the School
+[0:18:39] Beyond Screens Digital Device and Screen
+[0:18:41] Use Policy Draft. Um Ms. Courtney, would
+[0:18:44] you like to introduce this?
+[0:18:48] >> Um you know what? I am not the expert on
+[0:18:51] this policy. I will defer to you on this
+[0:18:53] one.
+[0:18:53] >> Okay.
+[0:18:54] Um
+[0:18:56] this came up because I believe that
+[0:18:59] every single
+[0:19:01] board member has expressed a desire to
+[0:19:04] work on screen
+[0:19:05] um a screen time policy. Uh screens, I
+[0:19:09] think everybody has felt it since COVID
+[0:19:11] hit in 2019 have sort of become
+[0:19:14] ever-present in our schools at an
+[0:19:17] earlier and earlier age, frankly. Uh and
+[0:19:19] so this screen time policy was something
+[0:19:22] that Schools Be on Screens was
+[0:19:24] um I'm grateful that you were willing
+[0:19:26] and able to do the work and it sounds
+[0:19:27] like from my understanding is it's a
+[0:19:29] policy that has been looked at and used
+[0:19:31] um around the nation. This is not just
+[0:19:34] the first time ever being brought
+[0:19:35] forward. Um it's very um detailed. It's
+[0:19:39] very it I'd like to think it has thought
+[0:19:41] about a lot of stuff. Though I did get a
+[0:19:43] perhaps
+[0:19:45] there are some things to talk about.
+[0:19:46] Certainly not going to be the be-all and
+[0:19:48] end-all today. Um we put it up.
+[0:19:50] Hopefully the other chair members that
+[0:19:53] excuse me other committee members have
+[0:19:54] had an opportunity to read it and I just
+[0:19:56] thought we could start the conversation
+[0:19:58] now. Any thoughts? Any concerns? Any
+[0:20:01] um anything to bring up?
+[0:20:24] >> Sorry, can you turn up the microphone or
+[0:20:26] turn on the microphone? Can't hear you.
+[0:20:28] >> Sorry.
+[0:20:28] Sorry. I always do that.
+[0:20:30] >> Thanks, Gerald.
+[0:20:31] >> Personally, I you know
+[0:20:33] I know there's probably little things to
+[0:20:34] look at, but the whole idea there is
+[0:20:37] wonderful.
+[0:20:39] Um
+[0:20:40] we
+[0:20:41] got an
+[0:20:43] And I'm more interested in early
+[0:20:45] childhood. That's where my experience
+[0:20:46] is.
+[0:20:47] But we did get a email from somebody
+[0:20:51] whose daughter, high school freshman, is
+[0:20:54] bringing home
+[0:20:55] um her computer from school and they
+[0:20:59] don't
+[0:21:00] the family has not let her do that and
+[0:21:03] they just found her scrolling on things
+[0:21:05] that she shouldn't be on.
+[0:21:07] When they talked to school, they said
+[0:21:09] they couldn't take it off. It was board
+[0:21:11] policy that it was on and I'm going,
+[0:21:13] "Really? I don't know. We got to look at
+[0:21:14] that and we certainly don't want that to
+[0:21:16] happen." So,
+[0:21:18] um
+[0:21:20] I think all of us are open to anything
+[0:21:23] you
+[0:21:25] have to tell us. I don't think you have
+[0:21:27] to convince us of anything. I just think
+[0:21:29] we need to get going and get the policy
+[0:21:32] written so that it works.
+[0:21:36] >> I guess I just have sort of a
+[0:21:37] just a comment. Um that um we're hearing
+[0:21:41] from so many parents and caregivers and
+[0:21:44] educators
+[0:21:45] about the challenges that this
+[0:21:47] generation of parents are facing. I
+[0:21:49] think about, you know, I watch, you
+[0:21:51] know, I go into schools and I see like
+[0:21:53] I think about when screens became part
+[0:21:55] of our lives. Like I remember, you know,
+[0:21:56] when I had I don't want I never I don't
+[0:21:58] I ever tell any stories about myself,
+[0:21:59] but this this is actually relevant.
+[0:22:02] I remember my kids are 4 years apart and
+[0:22:05] when I had my first child in 2005, the
+[0:22:08] iPhone didn't exist.
+[0:22:09] And when I had my second child in 2009,
+[0:22:12] all of a sudden I had an iPhone while I
+[0:22:13] was up in the middle of the night, you
+[0:22:15] know, taking care of him. I was like,
+[0:22:16] "Oh, finally I'm you know, I'm not
+[0:22:17] bored." And Facebook was invented. And
+[0:22:19] um but I think about how
+[0:22:22] quickly things change and how long ago
+[0:22:25] that was. That was 17 years ago and I
+[0:22:26] can't imagine how difficult it is for
+[0:22:30] parents of young children who are
+[0:22:31] working very, very hard to control and
+[0:22:35] limit and navigate screen time for their
+[0:22:37] young children. I can't imagine the
+[0:22:39] frustration of going into a public
+[0:22:41] school system where there are no
+[0:22:44] guardrails. So, I am very passionate
+[0:22:46] about getting a policy through this
+[0:22:48] year. I I this is um incredible. I kept
+[0:22:51] I read the policy and I kept it every
+[0:22:53] time I had a question, it was addressed.
+[0:22:55] And I still have some questions, but um
+[0:22:57] I just want to say thank you for,
+[0:22:59] you know, the heavy lift that happened
+[0:23:00] here for us and um
+[0:23:03] yeah, I'm really excited to get started.
+[0:23:06] >> And so, I will say that um
+[0:23:08] the great work done by the Schools
+[0:23:10] Beyond Screens, I was able to get it to
+[0:23:12] legal um Oh, I see Chair [Wang] has his
+[0:23:14] hand up. Just um last week, at the end
+[0:23:17] of the week, not even very long ago. And
+[0:23:19] so, what I had said was I have no
+[0:23:20] intention of expecting a presentation or
+[0:23:22] report or the thoughts from legal or the
+[0:23:25] um experts subject matter experts today.
+[0:23:29] This is just to get it started, um but
+[0:23:31] maybe in October we can have a full
+[0:23:32] presentation with some thoughts and
+[0:23:34] concerns, and maybe that you can let us
+[0:23:36] know in advance when things start to
+[0:23:37] come up, so we can start to address them
+[0:23:39] rather than having to just hear about it
+[0:23:41] first off in the
+[0:23:42] in the
+[0:23:43] >> Yes, um thank you. And uh we do have
+[0:23:46] some staff here who may be able to weigh
+[0:23:49] in, but they also just got the policy
+[0:23:52] late last week. Um we want to probably
+[0:23:54] hear from some of our instructional
+[0:23:57] experts, assessment,
+[0:24:00] you know, talk talk about mandatory or
+[0:24:03] required assessments and how this
+[0:24:05] interacts, um maybe the digital
+[0:24:07] resources purchasing process,
+[0:24:10] um contracting process, um intersection
+[0:24:13] with any special education requirements.
+[0:24:14] There's just a lot to think about, and I
+[0:24:16] think by um October we could have a
+[0:24:18] number of staff ready to come weigh in
+[0:24:21] on some of those matters.
+[0:24:26] Chair [Wang].
+[0:24:28] >> Um yeah, I first I want to thank you for
+[0:24:30] to the group that brought this forward.
+[0:24:32] A lot of work put into this. There's a
+[0:24:34] lot of good stuff I see in here.
+[0:24:36] Um as a former teacher myself, I tend to
+[0:24:38] stress as much analog teaching as
+[0:24:40] possible. It just makes sense. You see
+[0:24:42] it in the students.
+[0:24:43] Um one thing I do want to kind of uh
+[0:24:46] bring forward first
+[0:24:48] in terms of
+[0:24:49] uh when we start drafting a policy is
+[0:24:52] that um you know
+[0:24:54] making sure that we follow or try to
+[0:24:55] follow as much as possible best practice
+[0:24:57] in terms of the fact that, you know,
+[0:24:59] policies should set direction, vision,
+[0:25:01] and guidelines, and then we would
+[0:25:05] I think it's usually considered best
+[0:25:06] practice to put items that are
+[0:25:07] prescriptive in the administrative
+[0:25:10] directive. And the reason for that is
+[0:25:11] because
+[0:25:12] as you know, there are always unintended
+[0:25:14] consequences or things that we didn't
+[0:25:17] foresee. Like, for example, if you we
+[0:25:19] decide that this policy didn't go far
+[0:25:21] enough or maybe there are ways that
+[0:25:23] students were able to get around some of
+[0:25:24] these restrictions, having some of the
+[0:25:27] prescriptive elements in the
+[0:25:28] administrative directive means that the
+[0:25:30] district can pivot and address those
+[0:25:32] situations
+[0:25:33] uh timely and quickly versus having to
+[0:25:36] go through the whole policy process
+[0:25:38] um thoroughly. So, I think it would be a
+[0:25:40] good exercise, just my recommendation,
+[0:25:42] you know, take it or leave it however
+[0:25:44] you like, is identify the parts of this
+[0:25:46] policy that are
+[0:25:48] um present a vision, uh guidelines,
+[0:25:52] limits,
+[0:25:54] which is uh what are things that
+[0:25:55] policies can establish, and then
+[0:25:57] separate the things that are
+[0:25:58] prescriptive and how-tos into
+[0:26:02] um a separate thing to be directed into
+[0:26:04] the administrative directive. I That's
+[0:26:06] something I recommend, and uh it just
+[0:26:08] allows
+[0:26:09] um especially when things
+[0:26:11] you know, it's hard to tell how how it's
+[0:26:13] going to or people are going to react to
+[0:26:15] it and what people come up with. And
+[0:26:17] then the last thing I do recommend, I
+[0:26:18] really want to push forward, is that um
+[0:26:21] to have a teaching teacher work group
+[0:26:25] to work through this policy as well, to
+[0:26:27] also try to figure out what parts of
+[0:26:30] this may present some problems, what
+[0:26:31] parts of this that teachers agree with
+[0:26:33] and want to implement, cuz I there
+[0:26:35] there's going to be a lot of stuff here
+[0:26:36] that may abut
+[0:26:38] things such as like academic freedom and
+[0:26:40] and things like that in our other
+[0:26:42] policies. You know, for example,
+[0:26:44] uh I know in in
+[0:26:47] uh in my teaching, like, for example, if
+[0:26:48] I wanted to show, you know, there's this
+[0:26:49] wonderful 5-minute clip of MythBusters
+[0:26:52] that use to show like projectile and
+[0:26:54] gravity
+[0:26:55] um
+[0:26:56] um motion.
+[0:26:57] And do I need to get in my principal to
+[0:27:00] sign off on that to show you know, share
+[0:27:02] this little 5-minute video clip because
+[0:27:04] you know, my hand gestures and my
+[0:27:06] uh dancing ability doesn't illustrate
+[0:27:08] projectile motion very well and uh
+[0:27:11] sometimes this will just solve the
+[0:27:12] problem especially when we do like
+[0:27:13] formative assessments and find out yeah,
+[0:27:15] there are some holes in our students'
+[0:27:17] understanding um and as a teacher I may
+[0:27:20] have to pivot really quickly and
+[0:27:22] um there are things that you know, just
+[0:27:24] in practice
+[0:27:26] often differs very wildly from what we
+[0:27:29] hope.
+[0:27:30] And so yeah, I I would really stress
+[0:27:32] that we have a work group comprised of a
+[0:27:34] lot of um our
+[0:27:35] our PPS teachers uh to also work through
+[0:27:38] this policy and
+[0:27:39] and and I'm eager to hear what they
+[0:27:42] come up with too. So, thank you.
+[0:27:45] But otherwise I I I like the direction.
+[0:27:47] Um
+[0:27:48] I want to make sure that it it's goes
+[0:27:50] forward as well implemented as possible.
+[0:27:52] So, thank you.
+[0:27:55] >> Thank you, Chair [Wang]. I just want to
+[0:27:56] say um I know that Schools Beyond
+[0:27:57] Screens team has been working alongside
+[0:27:59] PAT and trying to get teacher um
+[0:28:02] involvement already and they've been
+[0:28:03] doing that for a lot of the summer. I
+[0:28:05] see a lot of heads nodding again to my
+[0:28:06] record uh keeping. Um so, they're
+[0:28:08] already and I would agree with you that
+[0:28:10] it would be great to get um I keep I'm
+[0:28:12] looking at you like you can see me uh to
+[0:28:13] get teachers involved in this process
+[0:28:16] cuz they're the ones with our kids.
+[0:28:19] >> Thank you for sharing that. That's
+[0:28:20] actually really um
+[0:28:21] Sorry, I just wanted to jump in really
+[0:28:22] quick.
+[0:28:23] I know you didn't call on me yet.
+[0:28:25] >> Yeah, well that that's exactly what I
+[0:28:27] wanted to talk about was getting the
+[0:28:28] teacher buy-in. Cuz I was meeting with
+[0:28:31] some um
+[0:28:33] teacher reps the other day
+[0:28:35] and asked about that, how are you
+[0:28:38] what how are you feeling about it? And
+[0:28:40] they said pretty much yeah, okay, but
+[0:28:43] the academic freedom bit and they don't
+[0:28:45] want to feel like they've got I guess,
+[0:28:47] you know, somebody looking down at them
+[0:28:49] from on high, but
+[0:28:51] uh but they we do have to get buy-in.
+[0:28:53] That's for sure.
+[0:28:55] >> Moving Moving forward, can I ask um
+[0:28:58] the group that brought this forward if
+[0:28:59] they are meeting with teachers and PAT
+[0:29:01] to um
+[0:29:03] to document when, who was met with, and
+[0:29:06] and what was said, just so we can kind
+[0:29:08] of keep track of
+[0:29:09] uh
+[0:29:10] you know, the expanse of our feedback
+[0:29:13] process.
+[0:29:15] Thank you.
+[0:29:20] >> Oh.
+[0:29:21] I really have nothing to say, just that
+[0:29:22] that was awesome. My list was uh was uh
+[0:29:24] talking to um
+[0:29:26] our educators um
+[0:29:28] mostly about like how to unwind what we
+[0:29:31] already have in place.
+[0:29:34] >> Yeah, and to Director Sullivan's comment
+[0:29:36] and even our public commenter today,
+[0:29:38] high school teacher, and even Chair
+[0:29:39] Wang's comments of I've been surprised
+[0:29:42] not not surprised. I've been pleasantly
+[0:29:45] surprised to hear how many teachers have
+[0:29:46] approached us um at different functions
+[0:29:49] to say, especially at the high school
+[0:29:50] level, like we're just backing off
+[0:29:51] entirely and not doing it on their own
+[0:29:53] free will, putting extra work on
+[0:29:54] themselves, of course, because they
+[0:29:56] realize that it's better for their kids
+[0:29:58] to not be doing it on screen. So,
+[0:30:00] um I'm glad that we're here doing this.
+[0:30:02] I know the entire board is excited to do
+[0:30:04] something. This is certainly not just
+[0:30:06] the three of us. It's all seven have
+[0:30:07] expressed interest, and um yeah.
+[0:30:10] Uh the one thing I maybe you can answer
+[0:30:11] this, somebody can answer this today, is
+[0:30:13] I've heard different answers to whether
+[0:30:16] Governor Kotek's assessment requirements
+[0:30:18] apply to K-1.
+[0:30:21] Does anyone know, and if not, could we
+[0:30:23] have an answer by next by October?
+[0:30:25] Thank you.
+[0:30:29] >> Um yes, that's I think a really
+[0:30:31] important question. As somebody who
+[0:30:33] taught K-1, too,
+[0:30:35] the thought of having to teach those
+[0:30:37] kids to do anything on the computer
+[0:30:39] just drives me crazy. I don't know how
+[0:30:41] you do it. And it's not good for the
+[0:30:43] kids, it's not good for the teacher.
+[0:30:44] There's certainly another way to assess
+[0:30:46] children at that age besides on a
+[0:30:48] computer. They've been doing it for many
+[0:30:49] years. So, I it may be required, but I
+[0:30:54] think maybe we can un-require it.
+[0:30:57] Hopefully.
+[0:31:00] >> Yeah, I'll be happy to follow up and um
+[0:31:02] perhaps we could have staff here for the
+[0:31:04] October meeting to speak to that.
+[0:31:06] >> Perfect. Thank you. So, barring anything
+[0:31:08] else on this right now, I would like to
+[0:31:10] just
+[0:31:11] put this on the October agenda and move
+[0:31:14] on to our next. And thank you everybody
+[0:31:15] for being here today.
+[0:31:17] And I'm going to need you back.
+[0:31:23] All right. So,
+[0:31:26] now I would like to move on to um
+[0:31:29] discussion five talking about artificial
+[0:31:31] artificial intelligence AI
+[0:31:33] and a policy. Unlike the screen time
+[0:31:35] policy, we don't yet have anything
+[0:31:37] formal um presented today, but just
+[0:31:40] wanting to get this on the agenda on the
+[0:31:42] get the conversation started about also
+[0:31:45] coming up with an AI policy. Um
+[0:31:48] I understand that there might be a
+[0:31:49] couple of places in the administrative
+[0:31:52] directives,
+[0:31:53] maybe in a board policy already that
+[0:31:55] sort of touch on AI, but we absolutely
+[0:31:57] do not have an AI policy, which much
+[0:31:59] like the screen time policy is overdue
+[0:32:02] especially given the
+[0:32:04] both fast-moving pace of AI and the near
+[0:32:07] constant uh media attention of bad stuff
+[0:32:11] happening around AI um and our
+[0:32:13] information and our kids. So, I wanted
+[0:32:15] to have this on here. Um in talking with
+[0:32:18] Ms. Curtinage, it sounds like maybe we
+[0:32:20] could put something in October and like
+[0:32:22] have the conversation, but
+[0:32:24] um if you have any thoughts about what
+[0:32:25] you would like to see um
+[0:32:28] where where we should start, I don't
+[0:32:29] know, but I'd like to get that started.
+[0:32:31] >> I can share that um the AI audit that we
+[0:32:34] requested in June will be coming next
+[0:32:37] month.
+[0:32:37] >> Okay.
+[0:32:38] >> And I would need to check my notes, but
+[0:32:40] it's either I can't remember if it's
+[0:32:41] coming to TLE to the or to the full
+[0:32:42] board, but it's coming to one or the
+[0:32:44] other. I can honestly I can
+[0:32:46] can't remember
+[0:32:47] if it's It may be coming to TLE because
+[0:32:49] we have such a full board agenda, but
+[0:32:50] it's coming. Like the staff confirmed uh
+[0:32:52] with me last week that they will be
+[0:32:53] ready. So, I think having that
+[0:32:55] information
+[0:32:56] I'm not saying we can't start the
+[0:32:57] conversation without it, but I think it
+[0:32:59] will be really helpful once we know like
+[0:33:00] kind of current state. And um and it's
+[0:33:03] interesting I had a conversation um this
+[0:33:06] week with one of our high school
+[0:33:07] principals about um I was actually
+[0:33:09] calling about screen time and how that
+[0:33:12] looked at um
+[0:33:13] looked in
+[0:33:14] a particular high school and
+[0:33:17] cuz my like I feel like I'm like my son,
+[0:33:19] my kids today. I'm like sorry.
+[0:33:21] But um
+[0:33:23] I was hearing that
+[0:33:25] there was much more um
+[0:33:28] paperwork today that they weren't
+[0:33:29] allowed they weren't allowed to take
+[0:33:30] notes on their computers anymore. And I
+[0:33:32] just thought, oh wow, is that a class
+[0:33:33] policy, educator driven policy? It turns
+[0:33:35] out it is educator driven and um admin
+[0:33:38] approved, but it's specifically because
+[0:33:41] of the use of AI because it's become so
+[0:33:44] rampant and such a problem at the high
+[0:33:47] school level um that they are just a lot
+[0:33:50] of educators just not allowing kids to
+[0:33:51] even take notes on their computers
+[0:33:52] anymore. So, I thought that was
+[0:33:54] interesting.
+[0:33:54] >> Mhm.
+[0:33:55] >> And yeah.
+[0:33:58] >> Um
+[0:33:59] and yet in this letter about from the
+[0:34:01] high school freshman, it was the
+[0:34:03] computer was sent home and there were
+[0:34:06] things on it where they could get into
+[0:34:08] everything on their computer and
+[0:34:10] she says that uh
+[0:34:13] they were told it had to be on there.
+[0:34:15] So
+[0:34:16] this is something we really have to look
+[0:34:18] into.
+[0:34:18] >> Yeah, I noticed in the in the screen
+[0:34:20] time policy they they start touching on
+[0:34:23] device use and devices going home and I
+[0:34:25] thought that was a really interesting
+[0:34:27] um
+[0:34:28] because that's that is true Director
+[0:34:30] Sullivan that the high school students
+[0:34:32] um do have devices that go to and from
+[0:34:34] school, um, every day. So,
+[0:34:38] yeah, there's just it's like how do you
+[0:34:41] there has to be a better way to control
+[0:34:43] what they can access.
+[0:34:45] >> And what she is also asking is
+[0:34:48] for a heads-up in advance of what's
+[0:34:50] going to be coming home because there's
+[0:34:51] lots of people who are restricting
+[0:34:53] devices at home. So, she says she should
+[0:34:55] at least know what's coming.
+[0:34:57] And if they can opt out.
+[0:34:59] So.
+[0:35:01] And it seems to me that could happen
+[0:35:02] pretty fast.
+[0:35:05] But, I don't know.
+[0:35:07] >> The only thing I can think of is for,
+[0:35:10] um,
+[0:35:11] homework assignments that include a lot
+[0:35:13] of I would I saw a lot of this over the
+[0:35:15] past few years, homework assignments
+[0:35:17] coming home and the assignment is to
+[0:35:18] watch this video and
+[0:35:22] as as part of the prep for your
+[0:35:23] assignment. So,
+[0:35:25] when I was mentioning earlier about
+[0:35:27] educators having to unwind,
+[0:35:29] some things like that, I feel like
+[0:35:30] that's sort of
+[0:35:32] it's going to be an interesting
+[0:35:32] conversation.
+[0:35:33] How do we do it, you know,
+[0:35:36] carefully in a way that doesn't, um,
+[0:35:40] impact what we're teaching in society.
+[0:35:42] It's such a
+[0:35:43] >> Yeah, and we remove certain programs
+[0:35:45] from the computers that go home, which I
+[0:35:47] guess they are not doing.
+[0:35:50] Yeah, I was really,
+[0:35:51] you know, sort of blown away by that
+[0:35:54] email. Your emails make a difference,
+[0:35:55] everybody.
+[0:35:57] Don't really have like so many of them,
+[0:35:58] but
+[0:36:00] they do make a difference.
+[0:36:01] >> Um, I have a note. I feel like we're I'm
+[0:36:03] jumping back to screen time, but I guess
+[0:36:04] it's not it's not all interrelated, but
+[0:36:06] it is a little bit, but just I had a
+[0:36:07] note too in terms of, um, there's some
+[0:36:09] limits in here for grades 9 through 12,
+[0:36:12] um, how much time
+[0:36:15] per subject per week in class.
+[0:36:18] And I had a note about what about out of
+[0:36:20] class. Like teachers are assigning,
+[0:36:23] you know, tasks that require screen time
+[0:36:26] at home to do your homework. Like you
+[0:36:27] there needs to be some sort of control
+[0:36:28] there, too.
+[0:36:31] Thank you.
+[0:36:33] >> Um as I understand it and I've I've
+[0:36:35] asked for the presentation next time, we
+[0:36:36] have the the policy Excuse me, the
+[0:36:38] district's AI guidebook and then there
+[0:36:41] these other spots where it's touched
+[0:36:43] upon. And then as part of what we were
+[0:36:45] given is this New York City sort of
+[0:36:48] guidance on AI and screen time. And
+[0:36:52] since we're telling stories, I'll tell
+[0:36:53] you that my
+[0:36:54] um 11-year-old recognizing the
+[0:36:57] somewhat disaster that AI is, Googled
+[0:37:00] how to turn AI off and then told me,
+[0:37:02] "Would you like me to turn it off your
+[0:37:03] phone?" So, you know, our kids are
+[0:37:06] seeing early on and recognizing that
+[0:37:08] it's it's weird to have someone just pop
+[0:37:10] up and give you an answer and
+[0:37:13] there's there's just absolutely no even
+[0:37:15] internet research that has to happen if
+[0:37:16] AI is on there. It even takes away
+[0:37:19] what used to be book research, which is
+[0:37:21] now internet research, and now it's just
+[0:37:22] something somewhere giving you
+[0:37:24] information that I think I'm always
+[0:37:27] checking cuz it's often not completely
+[0:37:29] accurate.
+[0:37:30] Um
+[0:37:31] so I'm hoping that we can with staff's
+[0:37:33] assistance, maybe by October have the
+[0:37:36] early workings of an AI policy ready to
+[0:37:39] talk about and look at and
+[0:37:41] um yeah.
+[0:37:42] Anyway.
+[0:37:45] These two subjects go together so well
+[0:37:47] that we can really make it work, I
+[0:37:50] think.
+[0:37:52] >> You know, it's interesting, too. I've
+[0:37:53] talked to a lot of students. There's
+[0:37:54] many students I don't think there's a
+[0:37:55] student I see now that I don't ask about
+[0:37:58] um how they feel about AI and it is
+[0:38:01] overwhelmingly negative, which almost
+[0:38:03] feels counterintuitive
+[0:38:05] raising children in an age
+[0:38:08] where we, you know, digital adoption was
+[0:38:10] the norm.
+[0:38:11] I thought they would see it as sort of
+[0:38:12] the shiny new toy, which I think a lot
+[0:38:14] of adults do.
+[0:38:15] >> Mhm.
+[0:38:16] >> I don't think children are seeing it
+[0:38:18] that way. And uh cuz all of the feedback
+[0:38:20] without exception that I ever received
+[0:38:22] has been negative from students that
+[0:38:23] they do not want it in the classrooms,
+[0:38:25] they do not want it as part of their
+[0:38:26] curriculum. Um, so, in terms of us, you
+[0:38:29] know, student-centered approach, I mean,
+[0:38:30] I'm sure
+[0:38:31] I think of it this way, too. We They
+[0:38:32] know the cell phone policy
+[0:38:34] last, I guess it wasn't last year, it
+[0:38:35] was the year before,
+[0:38:37] when we heard from students, it was, you
+[0:38:38] know, "Teach us responsible cell phone
+[0:38:40] use by letting us have our phones."
+[0:38:43] I'm not buying that kind of route for
+[0:38:45] AI. Teach us responsible AI use by
+[0:38:47] letting us have AI. Um,
+[0:38:50] I'm not there, and I don't think I'll
+[0:38:52] Never say never. I don't think I'll get
+[0:38:53] there. Um, and uh in this particular
+[0:38:56] case, the student support on limiting AI
+[0:38:58] is uh is great.
+[0:39:01] >> And lastly, I'll say it's a Chair [Wang]'s
+[0:39:03] suggestion, um and I know that Schools
+[0:39:05] Beyond the Screens is already doing it,
+[0:39:07] certainly having teacher and educator
+[0:39:08] buy-in on this as well would be great to
+[0:39:11] have. So, um stay tuned.
+[0:39:13] Thank you.
+[0:39:16] Uh all right. Um,
+[0:39:19] I think our last
+[0:39:21] order of business today is other
+[0:39:23] business and future agenda items. So, I
+[0:39:24] guess I would ask us to
+[0:39:27] in this conversation go back up to the
+[0:39:30] draft committee work plan, and um we can
+[0:39:33] maybe talk about some of these other
+[0:39:34] ones more
+[0:39:36] um
+[0:39:37] at length, but if you have any other
+[0:39:39] ideas for future agenda items, maybe we
+[0:39:41] can figure out where to put them.
+[0:39:44] >> Um, this is from another email I got um
+[0:39:48] from a Robert Gray Middle School parent
+[0:39:52] that I'm not even sure she's a parent,
+[0:39:53] she just might be a community member,
+[0:39:55] who finds um
+[0:39:57] that middle school students are running
+[0:39:59] around on motorized dirt bikes,
+[0:40:02] and that it's pretty da- looks pretty
+[0:40:03] dangerous, and if there's a policy about
+[0:40:06] that, uh we could make one that their
+[0:40:09] bikes are not allowed on or motorized,
+[0:40:11] anyway, dirt bikes are not allowed on
+[0:40:13] school property. Anyway, there's more
+[0:40:15] information about this, and it just
+[0:40:17] seems like a safety issue.
+[0:40:19] >> It's a really interesting. I've seen the
+[0:40:20] same issue
+[0:40:21] in my neighborhood high school. It's the
+[0:40:23] with the electric
+[0:40:25] the e-bikes with the big fat tires.
+[0:40:28] Yeah, they were tearing up the tracks.
+[0:40:29] That's actually really interesting call
+[0:40:31] out.
+[0:40:32] >> Yeah.
+[0:40:33] >> I suspect that there are probably
+[0:40:35] already safety and
+[0:40:37] policies and administrative directives
+[0:40:40] and school rules in place
+[0:40:42] about whether that can happen. And
+[0:40:43] certainly if there isn't, then
+[0:40:45] but maybe we can figure that out before
+[0:40:47] we decide.
+[0:40:48] >> Yeah, and actually it's not
+[0:40:50] necessarily dirt bikes, just motorized
+[0:40:52] bikes. And you know, they go pretty
+[0:40:54] fast. So.
+[0:40:56] >> Uh Chair Wang.
+[0:40:57] >> Um yeah, I know that some cities have um
+[0:41:01] uh made it illegal for
+[0:41:04] uh
+[0:41:05] people under 18 to ride motorized
+[0:41:08] bicycles or or whatnot. I mean, the
+[0:41:10] reason I think
+[0:41:12] it may be worth for also pursuing
+[0:41:13] pressuring the city or
+[0:41:16] county to do something is because of
+[0:41:17] enforcement ability.
+[0:41:20] Right? Because PPS has limited
+[0:41:22] enforcement. You know, someone we does
+[0:41:24] wheelies around in our park or
+[0:41:26] what what can we do versus what the city
+[0:41:29] can do are very different different
+[0:41:30] conversations.
+[0:41:31] >> Yeah, that's right. She does mention
+[0:41:33] that
+[0:41:35] dirt bikes are not street legal.
+[0:41:37] And e-bikes are not permitted for
+[0:41:39] students under 16. So, it does sound
+[0:41:41] like a
+[0:41:42] just
+[0:41:44] uh enforcement situation.
+[0:41:47] Which is not easy, ever. So.
+[0:41:50] Yeah.
+[0:41:51] >> Thank you.
+[0:41:52] Uh Director [La Forte].
+[0:41:55] >> Um there are some outstanding
+[0:41:59] recommendations from prior bond audits
+[0:42:01] that tackle
+[0:42:03] items that live in policy. Um
+[0:42:06] I
+[0:42:07] Janice is pulling together a list, but I
+[0:42:09] know one of the the big ones is the
+[0:42:11] equity in public purchasing and
+[0:42:12] contracting policy. There are a number
+[0:42:14] of recommendations from our external
+[0:42:16] auditor. So, I'll send you an email on
+[0:42:19] the side of like what those outstanding
+[0:42:21] policies are.
+[0:42:23] I'd love to see us tackle and work into
+[0:42:25] our work plan this year. And um
+[0:42:28] I have a couple other ideas that I'm
+[0:42:29] reviewing the current policies for. And
+[0:42:32] uh so,
+[0:42:33] much more to come.
+[0:42:34] >> Thank you.
+[0:42:36] >> Uh and then for the ones that I had um
+[0:42:38] suggested and had on here already, it's
+[0:42:41] simply listed as vegetarian options and
+[0:42:43] um
+[0:42:45] for those of you who don't know, if
+[0:42:46] there are kids who for religious reasons
+[0:42:49] or
+[0:42:51] ethical reasons choose not to eat meat,
+[0:42:53] when they go to the hot lunch line,
+[0:42:55] if there's not an a vegetarian option,
+[0:42:58] they have an Uncrustable
+[0:43:00] um
+[0:43:00] and some other stuff and that is their
+[0:43:02] lunch.
+[0:43:03] And um we have administrative directives
+[0:43:06] on
+[0:43:07] probably every ingredient that's in an
+[0:43:08] in an Uncrustable is supposed to be
+[0:43:10] avoided. Yet, here it is as the main and
+[0:43:13] only option for kids who don't have a
+[0:43:15] hot lunch option. Um I know it's
+[0:43:17] possible because I looked at the high
+[0:43:19] school lunch calendar and there is
+[0:43:22] multiple vegetarian options every single
+[0:43:24] day as well as the alternate alternating
+[0:43:28] hot lunch option that alternates every
+[0:43:30] day of the week. So, high schoolers have
+[0:43:32] it out there.
+[0:43:33] I also know um that a rice and beans
+[0:43:37] combination is
+[0:43:39] internationally known as being
+[0:43:41] inexpensive, but also very healthy. And
+[0:43:43] then if you add some scrambled eggs and
+[0:43:44] an avocado, apparently, per Instagram,
+[0:43:46] it's like the best meal out there. Um
+[0:43:49] but uh we all I'm saying is we can do
+[0:43:51] better for our kids who are choosing for
+[0:43:52] ethical, environmental, feminism, any
+[0:43:54] any of the reasons and or religious
+[0:43:56] reasons to not eat the meat that's the
+[0:43:58] only option for them. We can do better.
+[0:44:01] Um and so, I was looking at
+[0:44:03] where it could go and frankly, I think
+[0:44:05] it can go in the um
+[0:44:09] Say if else, what's that policy?
+[0:44:11] The one that's on the agenda already.
+[0:44:14] >> The climate policy?
+[0:44:14] >> Yes, the climate policy. Yeah, because
+[0:44:17] in there in pillar two
+[0:44:20] point something
+[0:44:21] it talks about offering plant-based um
+[0:44:24] as a whenever possible. And so I thought
+[0:44:26] we could um have this on here to talk
+[0:44:29] about
+[0:44:30] heightening it, um making it stronger,
+[0:44:31] making it so that our kids get something
+[0:44:33] nutritious in their bodies um any day of
+[0:44:35] the week that they come into the hot
+[0:44:37] lunch line.
+[0:44:38] So that's on there. Um
+[0:44:41] that was one of my ideas. And then
+[0:44:45] uh the other one
+[0:44:47] >> Does this have a question?
+[0:44:49] >> Yes, please.
+[0:44:50] >> Is there a nutrition policy as well that
+[0:44:52] it could go under?
+[0:44:54] >> Uh
+[0:44:54] >> Probably.
+[0:44:55] >> Potentially. Yeah, we could look at
+[0:44:57] that, too. That's a great idea. A
+[0:44:58] nutrition policy might also be a good
+[0:44:59] way to put it. Yeah, even if it's not
+[0:45:01] already an option there, we could add it
+[0:45:02] there. That might be a better place for
+[0:45:03] it. Good question. Good call.
+[0:45:05] And then the other one um
+[0:45:07] >> I just want to I just want to Oh, sorry
+[0:45:08] to butt in before you move in. Uh we do
+[0:45:10] have board policy 4.30.023,
+[0:45:13] which is healthy substance-free learning
+[0:45:14] environment. I know it deals with other
+[0:45:16] stuff, but there's that word healthy in
+[0:45:18] there.
+[0:45:19] >> Yeah, thank you. I looked at that one. I
+[0:45:20] spent a bunch of time working with some
+[0:45:22] um people in the community on looking
+[0:45:24] for a place where it could go, but you
+[0:45:25] said 4.
+[0:45:29] >> Uh 4.30
+[0:45:31] .023.
+[0:45:33] >> Okay.
+[0:45:34] Thank you. Yeah, I think there's
+[0:45:35] probably a place to put it and we maybe
+[0:45:37] um I'm happy to take this on and for the
+[0:45:42] maybe December meeting, by the time we
+[0:45:43] get to December, have something lined
+[0:45:45] up, teed up, ready to go that everybody
+[0:45:47] can look at in advance and be ready to
+[0:45:48] talk about.
+[0:45:49] Thank you.
+[0:45:51] O'Teral Lang's hand went down. The other
+[0:45:53] one um which it looks like has been
+[0:45:55] slated for maybe February um is an idea
+[0:45:58] of use of student images. And the one
+[0:46:00] thing that um
+[0:46:03] I know that there are some families out
+[0:46:04] there that work really hard to keep
+[0:46:06] their children's images off the
+[0:46:07] internet.
+[0:46:09] From my professional experience, I know
+[0:46:10] that there are some families out there
+[0:46:11] who need to have their children's images
+[0:46:13] kept off the internet for safety
+[0:46:14] reasons. Be it foster care, be it
+[0:46:16] domestic violence situation. Um and then
+[0:46:21] there are kids that just don't they
+[0:46:22] can't consent. We know that they can't
+[0:46:23] consent cuz they're children.
+[0:46:25] Um and then I saw in our back to school
+[0:46:28] images coming up um
+[0:46:31] lots of faces of kids right front and
+[0:46:33] center which feels very
+[0:46:36] like there's my kid. And the reason that
+[0:46:38] I was really really um
+[0:46:40] affected by it this year was the middle
+[0:46:42] school that my my three kids go to. I
+[0:46:44] was at the first day of school and I saw
+[0:46:47] the two kids who ended up on the PPS
+[0:46:51] social media account with the name of
+[0:46:52] the middle school behind them and
+[0:46:54] they're two
+[0:46:55] head to toe with their bodies right
+[0:46:57] there.
+[0:46:58] Um
+[0:46:59] and I've up obviously I know these kids
+[0:47:01] and suddenly they're up on the internet
+[0:47:02] and I don't know if
+[0:47:04] the parents know that they're on the
+[0:47:05] internet. I know I would feel very
+[0:47:07] uncomfortable if my kids ended up on the
+[0:47:08] internet certainly with their middle
+[0:47:09] school behind them.
+[0:47:10] Then there's also all of the other stuff
+[0:47:12] that's happening out there. Um I was
+[0:47:14] reading last month that in Oregon um a
+[0:47:17] federal employee was charged with taking
+[0:47:20] pictures just regular pictures and
+[0:47:22] mutating them into
+[0:47:25] the unspeakable. Um
+[0:47:28] which can happen with any picture that's
+[0:47:29] out there.
+[0:47:30] Uh while it is really cute and fun and
+[0:47:34] perhaps very great for advertising to
+[0:47:37] have our kids
+[0:47:39] um up there showing how much fun they're
+[0:47:40] having going back to school
+[0:47:42] I think we as a board really need to
+[0:47:44] recognize what is more important, keep
+[0:47:46] our kids safety or have them up on the
+[0:47:48] internet. Um so I wanted to talk about a
+[0:47:50] policy that maybe says two things. One,
+[0:47:53] you just take photos from the back. They
+[0:47:54] can be going into a school without their
+[0:47:56] faces. Um
+[0:47:58] or if you're at an event in the school
+[0:48:01] like a like a um
+[0:48:04] What am I trying to An assembly. Thank
+[0:48:06] you. If there's an assembly, it's great
+[0:48:08] to want to take pictures up front
+[0:48:10] showing everybody there smiling,
+[0:48:12] applauding, and everything. But again,
+[0:48:14] juggling whether that kid's safety and
+[0:48:16] privacy, in my opinion, is out outweighs
+[0:48:20] taking their picture and putting it on
+[0:48:21] the internet forever for anyone to do
+[0:48:24] with as they please
+[0:48:25] is something that we need to be talking
+[0:48:27] about. So, I would like to and I'm happy
+[0:48:29] to take this on as well to start talking
+[0:48:31] about in early 2027 about having a
+[0:48:34] policy that says we as a public school
+[0:48:36] recognize that a child's a child's
+[0:48:39] privacy,
+[0:48:41] um safety issues far outweigh the need
+[0:48:44] for ever putting their faces front and
+[0:48:46] center on the internet.
+[0:48:49] >> I have a question about that.
+[0:48:51] I know when we went to first day of
+[0:48:53] school to greet kids,
+[0:48:56] they said, "You can take pictures,
+[0:48:58] but be sure it's you only see the back
+[0:49:00] of the child." For anything we would
+[0:49:03] bring to show our back-to-school time.
+[0:49:06] So, I'm wondering if those kids had
+[0:49:08] given permission
+[0:49:09] or if we didn't follow the rule.
+[0:49:13] Or if there's a rule at all. I don't
+[0:49:15] know.
+[0:49:15] That all the stuff you brought up
+[0:49:17] is really important to we need to be
+[0:49:19] clear
+[0:49:20] about what our rules what our policies
+[0:49:22] are.
+[0:49:23] >> Yeah.
+[0:49:25] >> So, I can
+[0:49:27] I was just making sure I remember this
+[0:49:28] correctly. Um
+[0:49:30] There
+[0:49:32] I think this is a really important
+[0:49:33] policy for us to focus on this year. Um
+[0:49:36] because
+[0:49:38] if there if you're in an area
+[0:49:40] with a camera where there isn't an
+[0:49:42] expectation of privacy,
+[0:49:45] and Emily, you might speak this to this
+[0:49:46] as well. You can take a picture and post
+[0:49:49] it. So, you could make an argument that
+[0:49:51] if you were
+[0:49:53] at a school assembly with 300 kids that
+[0:49:55] there was no expectation of privacy so
+[0:49:57] you could take a picture and post it. I
+[0:49:58] think we would have to have a policy to
+[0:50:00] supersede any other
+[0:50:04] laws. We We need a a PPS policy. Is that
+[0:50:06] fair?
+[0:50:07] Otherwise, we really don't have any sort
+[0:50:08] of
+[0:50:10] >> Right, I think we default to the
+[0:50:12] standard
+[0:50:13] laws. We do I know there is an
+[0:50:16] an ability of students to or families to
+[0:50:19] opt out of media
+[0:50:22] um
+[0:50:23] and photos at the at during the
+[0:50:25] registration process and the annual
+[0:50:27] registration process. I would like
+[0:50:30] I don't I'm not
+[0:50:32] I'm not the right person to speak to
+[0:50:33] that but I would like
+[0:50:35] that that we hear from our
+[0:50:37] communications and media folks to speak
+[0:50:39] to that process and how that is
+[0:50:40] enforced.
+[0:50:44] >> I think that would be great maybe looks
+[0:50:46] like for now this is on February so we
+[0:50:48] can work on something and then hear from
+[0:50:51] That'd be great. Thank you.
+[0:50:55] And then on here is an alternate
+[0:50:57] transportation but it may already be
+[0:50:59] nicely settled into the
+[0:51:02] climate justice policy.
+[0:51:05] Um
+[0:51:06] but I know that so many schools are
+[0:51:08] working so hard to get kids to school in
+[0:51:12] other ways for the
+[0:51:14] positive
+[0:51:16] consequences that happen as a result of
+[0:51:18] kids getting their wiggles out before
+[0:51:19] when they go where they go and sit still
+[0:51:20] for a while and
+[0:51:22] helps with attendance, it helps with
+[0:51:23] their absenteeism, it helps with
+[0:51:24] attention, everything. So that may not
+[0:51:26] be but I was thinking like we could as a
+[0:51:28] district really
+[0:51:30] embrace
+[0:51:31] um
+[0:51:33] alternate transportation but it looks
+[0:51:34] like it might keep looking at this great
+[0:51:36] house cuz
+[0:51:37] you're here.
+[0:51:38] Um
+[0:51:38] but that it may already be in there so
+[0:51:41] that's just a couple of my ideas.
+[0:51:47] Emily, could you walk us through just um
+[0:51:49] for since we we have a lot on lot on the
+[0:51:51] docket
+[0:51:53] for this year.
+[0:51:54] How
+[0:51:55] the drafting and approval like passage
+[0:51:58] of a policy works. Like I know there's a
+[0:52:00] first reading, a second reading, like
+[0:52:02] there's a certain number of days in
+[0:52:03] between. Could you share with us exactly
+[0:52:05] how that process works?
+[0:52:07] >> Ooh, that is that's actually
+[0:52:09] >> me on the spot.
+[0:52:09] >> Yes.
+[0:52:11] That's actually outlined in the board's
+[0:52:12] policy on policies. So we could look to
+[0:52:15] that. Um so uh that policy provides that
+[0:52:19] either staff can introduce um a new
+[0:52:21] policy or a policy change or board
+[0:52:24] members can or community members can
+[0:52:26] bring one to this committee. Um this
+[0:52:30] committee decides whether to go forward,
+[0:52:32] considers the proposal, um and after
+[0:52:36] consideration can vote, you know,
+[0:52:38] informally vote it out of committee and
+[0:52:40] say we want the full board to consider
+[0:52:43] uh this either new policy or policy
+[0:52:45] revision. Um when it goes to the full
+[0:52:47] board, there is a first reading and that
+[0:52:50] and that proposed policy change is
+[0:52:52] posted um
+[0:52:55] to give an opportunity for public com-
+[0:52:57] comment and input. And then there is a
+[0:52:59] second reading, which is
+[0:53:01] >> Rosanne, do you know? Is it 21 days?
+[0:53:04] Okay.
+[0:53:05] >> 21 days later at least. Uh so that's
+[0:53:08] just going to depend when board meetings
+[0:53:10] are uh scheduled. And then board members
+[0:53:13] themselves have a chance to weigh in.
+[0:53:14] They may want to introduce amendments.
+[0:53:17] S- very substantive amendments kind of
+[0:53:20] starts the clock over with a new first
+[0:53:22] reading and then second reading. So um
+[0:53:24] yeah, that's the process.
+[0:53:27] >> Thank you.
+[0:53:31] >> And then you vote right after the second
+[0:53:33] reading, right?
+[0:53:35] >> Yes, you vote at the second reading.
+[0:53:37] Yep.
+[0:53:40] >> Um
+[0:53:42] so with that, uh if anything else comes
+[0:53:44] up, any other ideas or suggestions for
+[0:53:46] future agenda items, please email me and
+[0:53:49] to every other board member who's not on
+[0:53:50] the committee, same thing. If you have
+[0:53:52] ideas or thoughts for future agenda
+[0:53:54] items, um and then otherwise, I will
+[0:53:57] simply tell you that our next policy
+[0:53:59] committee meeting is on October 27th,
+[0:54:02] which I believe is a Tuesday at 4:30.
+[0:54:04] Um this meeting is adjourned.
+[0:54:07] Thank you.

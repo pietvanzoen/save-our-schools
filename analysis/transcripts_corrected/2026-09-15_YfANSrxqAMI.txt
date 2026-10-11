@@ -1,0 +1,1318 @@
+# 2026-09-15 Board of Education's Intergovernmental Affairs Committee
+# Video: https://www.youtube.com/watch?v=YfANSrxqAMI
+# Source: YouTube captions (asr, en), fetched 2026-10-11T01:02:10.901Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2026-09-15_YfANSrxqAMI.txt
+# BoardBook meeting(s): 2026-09-15|766660
+# Link to a moment: https://www.youtube.com/watch?v=YfANSrxqAMI&t=<seconds>s
+
+[0:00:03] I'm happy to call our meeting to order
+[0:00:05] today. This is the intergovernmental
+[0:00:07] fair intergovernmental affairs
+[0:00:09] committee. Um our meeting uh September
+[0:00:12] 15th, 2026. For those watching online,
+[0:00:15] apologies for our delay. We had a couple
+[0:00:18] of different technical glitches, mine
+[0:00:20] and in general. Um but we are here and
+[0:00:22] live now. Uh today our agenda really
+[0:00:24] just has a couple of parts. were um
+[0:00:27] asking we we were asking questions about
+[0:00:30] a presentation on the public employee
+[0:00:32] retirement system of Chief Morrison last
+[0:00:35] time um and a couple of questions still
+[0:00:37] remained. So, we'll have just a few
+[0:00:39] minutes to finish that agenda item up
+[0:00:41] and then we will move on to a
+[0:00:43] conversation about principles underlying
+[0:00:46] our conversation about a legislative
+[0:00:49] agenda.
+[0:00:52] Anything else that I'm missing? Is that
+[0:00:55] great? Okay, great. Okay.
+[0:00:57] >> Yeah, one more thing is um in case
+[0:00:59] there's other additional items at the
+[0:01:00] end.
+[0:01:01] >> Thank you so much. Appreciate it. All
+[0:01:04] right, so with that um I I was hoping
+[0:01:07] that we could revisit um the
+[0:01:10] conversation on the public employee
+[0:01:11] retirement system. Um last time I just
+[0:01:15] had a couple of questions left over and
+[0:01:17] I think that also director Sullivan has
+[0:01:20] a question um that she had in her mind
+[0:01:22] related to this as well. So, um, I'm go
+[0:01:25] I'm happy to go ahead and get started.
+[0:01:27] Um, the question that I had was actually
+[0:01:29] on a slide, so it'd be kind of hard to
+[0:01:32] talk about without being able to look at
+[0:01:33] the slides, but I I think we might have
+[0:01:35] a limitation on sharing slides. So, um,
+[0:01:37] for those who are watching online,
+[0:01:39] there's meeting materials posted that
+[0:01:41] you can find to get to that slide deck.
+[0:01:43] Um along the way in the presentation you
+[0:01:46] shared some numbers around what each
+[0:01:48] employee pays into or what Portland
+[0:01:51] Public Schools pays for each employ
+[0:01:54] current current employee that is within
+[0:01:57] the PERS system. And I'm curious what
+[0:02:00] the breakdown is is of those dollars
+[0:02:03] between our contribution to their share
+[0:02:06] of their future PERS benefits, if that's
+[0:02:09] even how it works, versus what that cost
+[0:02:13] is toward paying for retired staff. Does
+[0:02:17] that make sense?
+[0:02:19] >> Yeah, I think I captured that. Let me
+[0:02:21] paraphrase because Rosanne poked her
+[0:02:22] head in. She let me know that I can
+[0:02:24] share slides if I need to share slides.
+[0:02:26] So, um, I can I can do that, but let me
+[0:02:29] see if I can answer your question if I
+[0:02:31] heard the whole thing. Um, and I did fix
+[0:02:34] my sound, so there's no feedback.
+[0:02:35] >> You're perfect now. Yay.
+[0:02:37] >> Um, so the amount that we're currently
+[0:02:41] paying into the PERS system is about
+[0:02:44] twothirds of that, those dollars are are
+[0:02:47] funding for
+[0:02:49] um eligible members who are no longer
+[0:02:52] contributing to the system. They're no
+[0:02:54] longer active in our system. So that's
+[0:02:57] we have a significant number of tier
+[0:02:59] one, tier 2 folks that have already
+[0:03:02] began their retirement. And so that's um
+[0:03:04] a big part of what the current liability
+[0:03:06] is funding. But it's also projected
+[0:03:09] um by the PERS actuaries on what they
+[0:03:12] think the anticipated value of benefits
+[0:03:15] is going to be for the folks that are
+[0:03:16] currently in the system. But right now
+[0:03:18] it's about 2/3 to onethird of the
+[0:03:21] one-third active participants and
+[0:03:23] twothirds of folks who are already um
+[0:03:27] eligible for benefits.
+[0:03:29] >> Great. That was my big question. Um uh
+[0:03:32] just for what it's worth, the reason I'm
+[0:03:35] interested in this is because um it
+[0:03:38] strikes me that schools
+[0:03:41] um uniquely have to pay for the benefits
+[0:03:45] of retirees
+[0:03:47] out of current dollars that are coming
+[0:03:50] in versus the state taking care of those
+[0:03:54] as they do agency by agency otherwise in
+[0:03:56] the state government. So, I think it
+[0:03:58] just is a unique dynamic and it's one
+[0:04:00] that very few other states have
+[0:04:03] retained. Many other states don't count
+[0:04:06] retirey benefits as part of school
+[0:04:08] funding. Um, and it makes it really hard
+[0:04:11] for Oregon to compare ourselves in an
+[0:04:15] applesto apples way with other states
+[0:04:17] because there's this each district is
+[0:04:20] different. Every district has a
+[0:04:21] different amount of money going into the
+[0:04:23] purse pot. Each district has a different
+[0:04:26] dynamic about whether it's a third
+[0:04:27] that's going toward current or twothirds
+[0:04:29] going toward retirees. So it makes it
+[0:04:31] very hard to easily know how much of our
+[0:04:34] existing school funding pot is going
+[0:04:37] toward PERS for people who are no longer
+[0:04:40] working in our schools. And I want to
+[0:04:42] make sure those retirees are taken care
+[0:04:44] of. But what other states have done is
+[0:04:46] detach it so that it's school funding
+[0:04:48] that's going toward current classrooms
+[0:04:49] now and then the retired um educators
+[0:04:52] and other staff are handled in like a
+[0:04:54] separate space. And since most other
+[0:04:57] states do that, we can't look at how
+[0:04:59] much money say Mississippi is spending
+[0:05:01] per student and have that compare to how
+[0:05:04] much Oregon is pending spending per
+[0:05:06] student fairly if we have so many of our
+[0:05:08] dollars going toward PERS. So it's it's
+[0:05:11] really hard to find like clean and clear
+[0:05:13] numbers for that. So, I think one thing
+[0:05:15] I would just hope is that we um both
+[0:05:18] Chief Morrison and her colleagues at
+[0:05:20] other districts looking for kind of
+[0:05:22] clean ways to illustrate the effect and
+[0:05:25] impact that those costs have on our
+[0:05:27] system. So, that was my big question
+[0:05:29] just to make sure people understood
+[0:05:31] because when I looked at it, it could
+[0:05:32] just be like this. It could sound like
+[0:05:34] to someone that this is just what's
+[0:05:36] going towards somebody's future
+[0:05:37] benefits. Um, and I just wanted to
+[0:05:40] clarify that and um, make sure people
+[0:05:41] understood why it's something I'm
+[0:05:43] specifically interested in. Um, Director
+[0:05:46] [Engelsman] and then Director Sullivan.
+[0:05:49] >> Thank you. Did I Did I just hear you say
+[0:05:51] because I've asked this a couple of
+[0:05:52] times. Did I just hear you say that in
+[0:05:54] Oregon for other state agencies that it
+[0:05:57] is separated?
+[0:05:58] >> Yeah.
+[0:05:59] >> Okay. I've been trying to get that. So,
+[0:06:01] okay, that's great for me to finally
+[0:06:04] hear. Thank you.
+[0:06:05] >> Yeah. So for the rest of for state
+[0:06:07] government, it's all handled through the
+[0:06:09] public. No, it's all handled through
+[0:06:12] PERS.
+[0:06:13] So the PERS budget includes whatever
+[0:06:17] state a whatever the payments are for
+[0:06:20] retired state workers. So like whether
+[0:06:22] that state worker worked at DEEQ or the
+[0:06:26] Oregon Health Authority, those agencies
+[0:06:29] aren't stuck continuing to pay for that
+[0:06:32] retirees benefits using the dollars that
+[0:06:35] they received to do their work. Now it's
+[0:06:37] a unique dynamic amongst
+[0:06:39] >> so their bottom doesn't potentially fall
+[0:06:41] out when the bill is higher than
+[0:06:43] anticipated.
+[0:06:44] >> Exactly. It has no impact on their work
+[0:06:46] at all. higher higher than the funding
+[0:06:49] is able to increase. I do think uh that
+[0:06:52] that's really great to share director
+[0:06:55] [Splitt] I know that we have circulated and
+[0:06:58] and I know Ben has access to it and
+[0:07:01] presentation by equitable equitable um
+[0:07:04] that looks at the Oregon system and the
+[0:07:06] true costs of the pension system. So
+[0:07:09] which has been
+[0:07:11] difficult to track and it is variable by
+[0:07:13] district and so I do think that a shift
+[0:07:16] towards a different structure at the
+[0:07:18] state level would require a significant
+[0:07:20] amount of redirection of resources as
+[0:07:22] well. So again there would be a a a
+[0:07:25] probably a challenging transition period
+[0:07:27] to to move towards that model but um it
+[0:07:30] is unique that um 197 school districts
+[0:07:34] are have to grapple with this in a
+[0:07:35] different way. Mhm. [clears throat]
+[0:07:37] Yeah. Great. Thanks, Director Sullivan.
+[0:07:41] >> Um, yes, a couple of things. So, you
+[0:07:44] said 2thirds of CURS dollars are for
+[0:07:48] people no longer working that were
+[0:07:49] paying out and one-third for active
+[0:07:52] participants. That means people that are
+[0:07:54] still working are getting pers.
+[0:07:57] >> What? How does that
+[0:07:58] >> They are working and they are actively
+[0:08:00] contributing themselves and their
+[0:08:02] employer is actively contributing.
+[0:08:06] >> Okay. So, how can you get retirement
+[0:08:08] when you're still working?
+[0:08:13] >> Well, there there are some some staff
+[0:08:15] members that qualify that are able to
+[0:08:18] earn retirement and on a work back
+[0:08:20] basis. I know that that's employer
+[0:08:22] dependent. Um we can choose whether or
+[0:08:24] not to do that and during staffing
+[0:08:26] shortages or for high hard to fill
+[0:08:28] positions. That's a strategy to keep
+[0:08:31] retirees in the system longer. Um PERS
+[0:08:34] does allow for that. They didn't used
+[0:08:36] to. There used to be an an annual cap on
+[0:08:39] ours.
+[0:08:40] >> I guess that's what I'm remembering.
+[0:08:41] Yeah. Okay.
+[0:08:42] >> Yeah. Yeah. But right now, for the most
+[0:08:44] part, and it's not that those um former
+[0:08:48] um active employees are all receiving
+[0:08:51] benefits today, but they they have a
+[0:08:54] benefit that's being held for them. It's
+[0:08:56] an obligation by the PERS system for
+[0:08:59] them [clears throat] for at the time
+[0:08:59] that they're able to qualify for their
+[0:09:02] pension benefits.
+[0:09:05] >> Okay? Okay. And so the
+[0:09:07] the groups that
+[0:09:09] don't have to pay out of their fund that
+[0:09:11] is coming from PERS. So how does PERS do
+[0:09:15] that when
+[0:09:18] the interest rates go down?
+[0:09:21] Where do they get their money to keep
+[0:09:23] paying?
+[0:09:25] >> I I'll defer to director [Splitt], but my
+[0:09:28] take would be that the state has to fund
+[0:09:30] it another way.
+[0:09:32] >> Yeah, they use general fund. So they
+[0:09:34] could use take general fund money to pay
+[0:09:37] that pers and not give it to schools or
+[0:09:39] not give it to transportation or not
+[0:09:41] give it to anybody
+[0:09:42] >> because they have to fund
+[0:09:43] >> pers
+[0:09:45] contractual obligation.
+[0:09:46] >> So you still have the same situation
+[0:09:49] really. Yeah. Okay.
+[0:09:50] >> You do. Yes. Just to be clear, it's
+[0:09:53] still an issue that we have to pay for
+[0:09:55] these benefits. It just makes it so that
+[0:09:57] you can make comparisons across other
+[0:10:00] states. Legislators and others love to
+[0:10:03] talk about how we spend so much compared
+[0:10:06] to other districts or other states, but
+[0:10:07] then we have lower results. The reality
+[0:10:09] is more complicated than that. We still
+[0:10:11] have I'm not going to deny that
+[0:10:13] statewide our education outcomes are
+[0:10:16] lagging behind. But if it looks like we
+[0:10:18] have top half state funding because, you
+[0:10:22] know, something like 20 to 30% of what
+[0:10:25] we call school funding is going to pay
+[0:10:27] for retired um staff from school
+[0:10:29] districts. It makes it look like we're
+[0:10:32] putting a lot more money into our
+[0:10:34] classrooms than in fact we are. Yeah.
+[0:10:36] >> And also for Michelle
+[0:10:40] um I think it escaped my brain but it
+[0:10:44] will come back. Sorry. I know I had
+[0:10:47] another question.
+[0:10:48] >> Director [Engelsman].
+[0:10:52] >> Um thank you Chief Morrison. You just
+[0:10:54] said that it would take a it would be a
+[0:10:57] big shift and it would take Can
+[0:11:00] because I just don't understand this as
+[0:11:02] well as director [Splitt]. Why would it
+[0:11:04] take a shift? Why wouldn't it just be
+[0:11:07] going from one payment like can you just
+[0:11:11] explain what the shift would be?
+[0:11:13] >> Yeah, certainly. So, right now PERS is
+[0:11:15] funded based on their investment
+[0:11:17] earnings
+[0:11:18] um employee contributions and employer
+[0:11:21] contributions. There's no direct state
+[0:11:24] contribution to PERS except for what I
+[0:11:26] believe is needed to run the agency,
+[0:11:28] right? to to do perform the
+[0:11:30] administrative tasks of PERS. All of the
+[0:11:32] other costs of the benefits are are
+[0:11:34] framed out to individual employers. And
+[0:11:38] so if we were to take that employer
+[0:11:41] obligation and make it a part of the
+[0:11:44] PERS budget, then it would be have to be
+[0:11:46] funded by the state instead. So those
+[0:11:48] dollars instead of going directly to
+[0:11:51] schools potentially would need to be
+[0:11:53] redirected to PERS. And so there would
+[0:11:55] be a transition period. I don't know
+[0:11:57] that the state has enough resources
+[0:12:01] available to make that shift without
+[0:12:04] directing funds away from schools. I
+[0:12:06] think that's
+[0:12:09] does that make more sense?
+[0:12:12] >> It does, but but the funds are are not
+[0:12:15] going to schools already because we're
+[0:12:17] paying per, right? Which what am I what
+[0:12:20] am I missing? So, it looks like it's
+[0:12:21] coming in on a spreadsheet. the numbers
+[0:12:23] coming into us, but we're not actually
+[0:12:25] putting it into schools because we're
+[0:12:27] putting it into PERS. So, the shift
+[0:12:30] would be that we just get a a lower
+[0:12:32] number coming into us, but it wouldn't
+[0:12:34] be less that we can put into schools, or
+[0:12:36] is that wrong?
+[0:12:37] >> Might be helpful to think about it as a
+[0:12:39] decentralized funding model, right? So,
+[0:12:42] it's it's got all every single agency
+[0:12:45] has a liability for it and um an
+[0:12:49] obligation to put money into the system.
+[0:12:52] we don't we don't have we can't choose
+[0:12:54] not to pay that bill. Like it just comes
+[0:12:56] as part of it's kind of like a payroll
+[0:12:58] tax. And so if the state determined that
+[0:13:02] they were going to uh send resources
+[0:13:06] directly to PERS to fund those
+[0:13:09] obligations and pull that liability and
+[0:13:12] obligation away from school districts
+[0:13:13] and other public agencies, those dollars
+[0:13:17] in theory would need to follow unless
+[0:13:19] there were new dollars added. um to our
+[0:13:22] system, whatever mechanism the state a
+[0:13:25] new tax or something like that. And I
+[0:13:27] don't know that that's likely, but right
+[0:13:29] now I like to I I think the
+[0:13:30] decentralized model is really what's
+[0:13:32] happening right now where each employer
+[0:13:34] is trying to figure out how to fund a
+[0:13:38] state promised liability.
+[0:13:41] >> Yep. State promised being the [laughter]
+[0:13:45] what I would underline and highlight in
+[0:13:46] that. Great. Thank you. All right. Any
+[0:13:49] other questions for Chief Morrison?
+[0:13:55] Okay, I'm going to move us on to our
+[0:13:58] next agenda item, which is talking about
+[0:14:00] principles that could be used to
+[0:14:02] underlly the development of our
+[0:14:04] legislative agenda. Chief Kori, can you
+[0:14:06] introduce this item, please?
+[0:14:13] >> Sure. Um, I think Are you kicking this
+[0:14:16] off or is Ben? Ben, you Ben.
+[0:14:20] >> Oh, yeah. Yeah, [laughter]
+[0:14:21] I meant you. Yeah. I am very honored
+[0:14:24] today to introduce our government
+[0:14:27] relations manager, senior manager. No,
+[0:14:30] manager. I forget. Anyway, Ben Gerowitz
+[0:14:32] um who's worked very hard on preparing
+[0:14:35] some uh legislative priorities so that
+[0:14:38] we have a starting point for our
+[0:14:40] conversation about what our uh
+[0:14:43] legislative agenda is going to be. But
+[0:14:45] knowing that we are all hopefully
+[0:14:47] meeting with our legislators right now
+[0:14:48] and I know the community is interested
+[0:14:50] in meeting with their legislators and
+[0:14:52] getting the word out about what PPS
+[0:14:54] needs, we uh have prepared a legislative
+[0:14:58] some legislative priorities to help
+[0:14:59] guide that conversation. Ben, take it
+[0:15:01] away.
+[0:15:04] >> Thank you um Chief Kapor for that
+[0:15:08] introduction. Um I really appreciate it.
+[0:15:11] Um, we will get into the substance in
+[0:15:15] just a moment. I want to go over a
+[0:15:17] couple process things. Um, for for the
+[0:15:21] public and for um the committee um the
+[0:15:26] draft a drafted version um something to
+[0:15:30] work off of has been emailed to the
+[0:15:33] committee members and posted on board
+[0:15:35] books um for the committee to review.
+[0:15:39] um we don't have any public comment on
+[0:15:42] those drafted principles. Um I think in
+[0:15:46] my mind the way that I um wanted to go
+[0:15:49] through this is just to either pull it
+[0:15:52] up on the screen and share my screen and
+[0:15:56] we can kind of go through it and folks
+[0:15:58] can provide comments. I'm also happy to
+[0:16:01] read it into the record or uh read it to
+[0:16:05] you all. Um, chair,
+[0:16:07] >> can I can I request that you share it?
+[0:16:09] And if you can't, I can try.
+[0:16:11] >> Okay, let me
+[0:16:13] um hold on. And while you're doing that,
+[0:16:16] just for folks that are watching online,
+[0:16:18] if you go to the materials for this
+[0:16:20] meeting, which you can find via our
+[0:16:22] website in a few clicks, um then you can
+[0:16:26] take a look at the posted meeting
+[0:16:28] materials and the the documents posted
+[0:16:30] there because as I mentioned at the head
+[0:16:31] of the meeting, we're having some
+[0:16:34] mild wonkiness. It's like not major, but
+[0:16:37] mild, but enough that sharing is is
+[0:16:40] challenging. But it looks like we're
+[0:16:41] good.
+[0:16:42] >> Yeah, we're good. Um, so
+[0:16:45] >> we're looking at your notes for what
+[0:16:46] it's worth instead of your the doc.
+[0:16:49] >> Oh, stop. Share.
+[0:16:51] >> Your one note is on top. It doesn't say
+[0:16:53] anything troubling.
+[0:16:56] >> Troubling.
+[0:16:57] [laughter]
+[0:16:58] My name was there. I don't know.
+[0:17:01] >> Um, hold on. All right.
+[0:17:05] Um,
+[0:17:08] one quick moment.
+[0:17:12] Sorry.
+[0:17:13] >> No, you were It was underneath your one
+[0:17:14] note. So, if you just
+[0:17:15] >> Okay.
+[0:17:17] >> minused out your one note, you'd be
+[0:17:18] golden.
+[0:17:19] >> All right. Share.
+[0:17:26] Okay. You guys can
+[0:17:28] >> I'm still looking at your OneNote.
+[0:17:30] >> Uh here. How about now?
+[0:17:32] >> Now, we're golden. Yes, I would make it
+[0:17:34] bigger.
+[0:17:34] >> Great. Fantastic. Cool. So, I will go
+[0:17:38] ahead and share it. Um share split. Do
+[0:17:41] you want me to read or do you want me to
+[0:17:43] do you want folks just to kind of come
+[0:17:45] offline and provide input or comments as
+[0:17:48] I scroll?
+[0:17:49] >> Yeah, I think that's a great idea. I
+[0:17:50] think we had this posted in Boardbook.
+[0:17:52] Hopefully folks had a chance to take a
+[0:17:54] look at it and then um if you could make
+[0:17:57] it a little bigger, I think for our
+[0:17:58] viewers that might be helpful. Um yeah,
+[0:18:02] 150 or 125 should be good.
+[0:18:05] >> Perfect. Yeah. Now I think hopefully
+[0:18:06] people could read it. Um, maybe it'd be
+[0:18:09] helpful too as you're kind of scrolling
+[0:18:11] through it and people are looking at it.
+[0:18:13] Um, um, because I've already taken a
+[0:18:16] look at it in advance, really what we're
+[0:18:18] trying to do here is have some
+[0:18:21] priorities or principles underlying the
+[0:18:23] conversations we have coming up. And so
+[0:18:26] as we hear different ideas from
+[0:18:27] different community members, whether
+[0:18:29] that's via public comment or some of the
+[0:18:31] organizations coming, we can kind of be
+[0:18:33] picking things that fit within these
+[0:18:35] principles and sort of avoiding maybe
+[0:18:38] scope creep things that might seem
+[0:18:39] interesting but may not necessarily fit
+[0:18:42] our principles collectively and then
+[0:18:43] it's a discussion of whether or not we'd
+[0:18:45] want that on our agenda. Right?
+[0:18:47] >> So I think that's just like a little of
+[0:18:48] context setting. Um and that's what
+[0:18:51] starts off here is just sort of an
+[0:18:53] overview of the current dynamics that we
+[0:18:56] have which we all know really well.
+[0:18:58] Persistent funding shortfalls,
+[0:19:00] inflationary pressures, rising costs of
+[0:19:03] services and then for us the reason we
+[0:19:06] led and started with PERS is because
+[0:19:08] that's a huge imp has a huge impact on
+[0:19:10] us. And then just general context about
+[0:19:13] the state budget dynamics. We don't
+[0:19:15] expect there to be a lot of state
+[0:19:16] dollars that could be invested in our
+[0:19:18] schools even though we would all like to
+[0:19:21] see that happen and there is some um
+[0:19:24] emergency type funding that could be
+[0:19:26] available for schools and could be
+[0:19:28] tapped. But then we wanted to kind of
+[0:19:30] look into those principles. So maybe
+[0:19:33] scroll a little bit so the bullets are
+[0:19:35] more visible and then maybe we could
+[0:19:37] just talk through if it looks like for
+[0:19:38] director Sullivan and director [Engelsman]
+[0:19:42] taking a look. Does providing adequate
+[0:19:44] funding to meet student needs seem like
+[0:19:46] a principle that we should have here. Do
+[0:19:48] you have any suggestions for refinement?
+[0:19:54] >> Okay.
+[0:19:54] >> Not for me. That sounds sounds about
+[0:19:57] right. I'm just coming I'm just coming
+[0:20:00] off so that we don't move forward yet.
+[0:20:22] Yeah. I wonder whether somewhere in
+[0:20:23] there
+[0:20:26] uh unexpected cost increases including
+[0:20:28] PERS. I wonder if somewhere in there we
+[0:20:31] can artfully add language about how
+[0:20:36] about the unique PERS funding
+[0:20:39] to Oregon schools that leaves us in a
+[0:20:41] bigger lurch than if it wasn't like
+[0:20:43] that. I don't know, maybe that's not the
+[0:20:44] place for it, but that's all I got on
+[0:20:47] that one. Okay, let's think about where
+[0:20:49] we could maybe consider how that should
+[0:20:51] be captured because I I think it would
+[0:20:53] be good to capture it. I think unfunded
+[0:20:54] mandates might actually also work for
+[0:20:56] that.
+[0:20:57] >> Um and I I will say if it is the
+[0:21:01] direction of this committee to specify
+[0:21:05] so um Director [Engelsman], it sounds like
+[0:21:07] what you're proposing is more of a
+[0:21:09] policy change. Um, and if if it is the
+[0:21:12] recommendation of this committee, we can
+[0:21:15] add an additional co um bullet point
+[0:21:19] calling for like essentially an
+[0:21:21] investigation into what you're saying.
+[0:21:25] >> Yeah. Yep. Or we could tuck it into
+[0:21:27] unfunded mandates potentially. Yeah.
+[0:21:28] Either one could work.
+[0:21:30] >> Let's keep going and then we can just
+[0:21:32] we'll have time to discuss that at the
+[0:21:34] end.
+[0:21:34] >> Great.
+[0:21:39] And the next item here is support for
+[0:21:41] students with disabilities.
+[0:21:44] >> Can I ask on this one? I looked at this
+[0:21:45] stuff in advance and I had a question on
+[0:21:47] this one specifically. Um, this feels
+[0:21:50] very
+[0:21:52] like blah to me. Um, when we know that
+[0:21:56] the state has a cap and we know that
+[0:21:58] that cap is significantly lower than
+[0:22:02] what at least our district needs and
+[0:22:04] probably districts around the state
+[0:22:05] need. And so
+[0:22:08] it's, you know, it just it's great to
+[0:22:09] prioritize consistent equitable
+[0:22:11] resources. That's great. But really, we
+[0:22:14] need the legislators to go back to talk
+[0:22:16] about what they started to talk about
+[0:22:17] and then didn't finish talking about,
+[0:22:20] which is raising the cap or or
+[0:22:23] eliminating a cap. You have special ed
+[0:22:25] needs that you can prove, you get the
+[0:22:27] money. like this is, you know, this just
+[0:22:31] feels like we I I would like to see us
+[0:22:33] be more forward and strong about what we
+[0:22:36] hope to accomplish.
+[0:22:38] >> Yes, I agree that we should put the
+[0:22:40] percentages in there. Like we know
+[0:22:42] there's I think it's at least 17% need
+[0:22:46] and we funded 14%. Find out the actual
+[0:22:49] numbers
+[0:22:50] >> funded 11.
+[0:22:52] >> Yeah. So, we definitely need just to be
+[0:22:55] specific. I will for the purposes of
+[0:22:59] right now I will uh just add a kind of a
+[0:23:02] analysis comment and then we can go back
+[0:23:06] um
+[0:23:08] add
+[0:23:08] >> add some numbers
+[0:23:10] >> numbers.
+[0:23:12] >> Thanks Ben.
+[0:23:17] >> Great. Um, Director [Splitt], do you want
+[0:23:20] to speak the the next? Um,
+[0:23:24] >> well, if you've heard me talk in
+[0:23:26] meetings, you've probably heard me
+[0:23:27] mention that I feel like our teacher
+[0:23:29] training programs are falling behind
+[0:23:31] teacher training programs in other
+[0:23:33] states. Um, I actually in the way back
+[0:23:37] machine, Ben and I had a little dialogue
+[0:23:39] on this sort of concept, this sort of
+[0:23:42] document where I did grab, maybe it
+[0:23:44] might be good to grab some of those
+[0:23:45] state comparator numbers back in here.
+[0:23:48] But um I think it was like over half of
+[0:23:51] the states have um science of reading
+[0:23:54] requirements at this point and around
+[0:23:56] half of the states in the country have
+[0:23:58] training requirements to help teachers
+[0:24:01] more adequately um prepare teachers to
+[0:24:04] teach students that speak English as a
+[0:24:09] second or more language um or multi
+[0:24:12] multi multiple language learners. Um,
+[0:24:14] and in California, for example, the
+[0:24:17] requirements's been around so long that
+[0:24:19] when this 48-year-old was 23 and got her
+[0:24:22] teaching credential and master's degree,
+[0:24:23] it was required that I had training. Um,
+[0:24:27] and it was called cross language
+[0:24:28] acquisition development, I think. CLAD,
+[0:24:31] you had to have that to get a teaching
+[0:24:33] credential in California in 2023.
+[0:24:36] So, um, or 2003, sorry. So, it's been
+[0:24:40] like old news there. And when we've been
+[0:24:42] looking at our
+[0:24:45] um focal students, the group of focal
+[0:24:49] students that have been struggling the
+[0:24:51] most are our multiple language learners.
+[0:24:52] So I think it's good for PPS and good
+[0:24:54] for the state both to make sure that our
+[0:24:56] new teachers are prepared. It doesn't
+[0:24:58] necessarily mean that our existing
+[0:25:00] teachers
+[0:25:02] have that training and that's a
+[0:25:04] different topic but I but I do think
+[0:25:06] like you start with this and that way at
+[0:25:08] least the new teachers that are coming
+[0:25:09] in have the training that they need to
+[0:25:11] succeed. Um so with that thanks for
+[0:25:15] letting me introduce it. I have
+[0:25:17] feelings. Um, I'd love to hear I think
+[0:25:19] Director [Engelsman] had her hand up first
+[0:25:20] and then we'll go to Director Sullivan.
+[0:25:24] There we go. Uh, thank I think your last
+[0:25:26] sentence explained it to me. So, this is
+[0:25:29] a legislative um idea to support
+[0:25:33] teachers getting what they need in
+[0:25:35] school before they come out. Not that
+[0:25:38] something that we would be looking to
+[0:25:40] add to professional development or
+[0:25:43] training that our current teach I mean
+[0:25:45] whether or not we want to give them
+[0:25:47] training that they prefer and that they
+[0:25:49] feel suits their needs better than what
+[0:25:50] they get already it's a different
+[0:25:52] conversation but this one is
+[0:25:53] specifically for teachers before they
+[0:25:56] come out. Okay, that's great. Thank you.
+[0:25:59] And one thing I'll flag is we've we're
+[0:26:01] currently nearly all of our teachers by
+[0:26:04] the end of this year will have had
+[0:26:06] science of reading training who won't
+[0:26:08] have had science of reading training are
+[0:26:10] new teachers who've come in since which
+[0:26:12] is kind of a wild thing to think about.
+[0:26:14] But it also means that we could come in
+[0:26:16] and kind of be an example of like we've
+[0:26:18] done this here's what we're learning
+[0:26:20] from that and why we think other um like
+[0:26:23] it should be a statewide requirement for
+[0:26:25] teacher education programs. So, um,
+[0:26:27] yeah, thanks for the question, Director
+[0:26:30] Sullivan.
+[0:26:31] >> Yeah, I was just, uh, had written down
+[0:26:33] maybe an example of state state support.
+[0:26:36] Now, is there any for for us? I don't
+[0:26:40] even know if there's any. So, we can
+[0:26:41] give an example of what there is and
+[0:26:43] what we need, what the difference is.
+[0:26:46] >> Um, I can add just a contextual piece.
+[0:26:49] So, back in the beginning of Governor
+[0:26:53] Cotek's um term, she um she passed a
+[0:26:59] literacy act that required um science of
+[0:27:03] reading training at the college level
+[0:27:06] for people who are getting their
+[0:27:07] credentials. Um and actually last week
+[0:27:10] during legislative days there was a
+[0:27:12] hearing on that and the progress um
+[0:27:15] they're making progress on teaching stu
+[0:27:19] teaching teachers how to use science of
+[0:27:22] reading. Um however those because that
+[0:27:25] the that law is so new those teachers
+[0:27:28] haven't actually entered the classroom
+[0:27:30] yet. They're still in their training
+[0:27:31] phase. So I think that's um something
+[0:27:34] that's interesting. I think an
+[0:27:35] additional point that's interesting is
+[0:27:37] that um there is no requirement that
+[0:27:40] teachers in Oregon go to a training
+[0:27:44] program in Oregon. So there's only so
+[0:27:48] much um
+[0:27:50] uh capacity for the legislature to
+[0:27:53] direct what that training is because
+[0:27:55] they can only direct
+[0:27:57] um universities uh in the state of
+[0:28:01] Oregon.
+[0:28:02] >> I didn't know Oh, go ahead. Sorry, Dr.
+[0:28:04] So they don't support any particular
+[0:28:07] programs with money for districts. The
+[0:28:10] state does not.
+[0:28:12] >> Um the so to director Sullivan's point
+[0:28:15] um the state does support uh
+[0:28:17] universities who provide that training.
+[0:28:20] >> Okay. Through the university. Okay.
+[0:28:28] >> Dr. [Engelsman].
+[0:28:30] >> Yeah. Thank you. Um,
+[0:28:32] so I got two questions out of something
+[0:28:34] that both a couple people said. Okay. So
+[0:28:37] while the state can't direct
+[0:28:40] other states obviously of what they
+[0:28:42] require in teaching programs,
+[0:28:45] we as a district could require new
+[0:28:48] teachers to have science of reading
+[0:28:50] training, right?
+[0:28:54] Like that's one of the things that we
+[0:28:55] want people to have when we hire them.
+[0:29:00] Um,
+[0:29:01] >> I'm guessing so. Like we could make it a
+[0:29:05] >> I guess I can offer in a theoretical
+[0:29:08] sense. Yes. But that's outside of my
+[0:29:12] lane of so I'll I'll defer to my human
+[0:29:16] resources colleagues.
+[0:29:18] >> Oh yeah. No, it's just sort of more of a
+[0:29:19] thought of mine. I guess I didn't need
+[0:29:21] an answer. I was just thinking like sure
+[0:29:22] state of Oregon can't require
+[0:29:24] Washington, Rhode Island, Florida to
+[0:29:27] require science of reading, but as an
+[0:29:29] employer, it could be something that we
+[0:29:31] look for potentially. That's more like a
+[0:29:34] thought bubble. Second though,
+[0:29:36] >> and and director [Engelsman], we can find
+[0:29:38] out, we could get together, get you the
+[0:29:41] pros and cons of making a decision.
+[0:29:43] >> Oh, yeah. Not immediately. like, you
+[0:29:45] know, I'm not saying it would be
+[0:29:45] something immediate, but like once we've
+[0:29:47] trained all of our teachers and, you
+[0:29:49] know, we're just a thought if Oregon
+[0:29:51] doesn't get its the button gear and get
+[0:29:53] it in to schools. Um, the other thing is
+[0:29:56] though, if
+[0:29:58] if schools in Oregon aren't doing it yet
+[0:30:03] and other states, I think I heard
+[0:30:05] director [Splitt], chair [Splitt] say other
+[0:30:08] states are doing it and even requiring
+[0:30:10] it already, then we're almost putting
+[0:30:12] our Oregon
+[0:30:14] future teachers and residents at a
+[0:30:16] disadvantage because they're not getting
+[0:30:18] the training that other states are
+[0:30:20] offering and that other school district.
+[0:30:22] Again, just another thought bubble, but
+[0:30:25] thank you.
+[0:30:26] >> I have no question.
+[0:30:33] >> Director Sullivan, go ahead.
+[0:30:35] >> I I do think that Oregon like does
+[0:30:37] require you all teachers wherever they
+[0:30:40] come from have certain training in
+[0:30:43] Oregon history or certain types of
+[0:30:44] history. So I think you can require that
+[0:30:48] if you had the money for the training
+[0:30:51] and PPS has done science of reading and
+[0:30:56] I think we're on our last year. So but
+[0:30:58] that was through the through the
+[0:30:59] district with our money. So
+[0:31:02] for sure on that.
+[0:31:05] >> Yeah. All right. Well, I
+[0:31:09] look forward to discussing this one
+[0:31:11] more, but everybody seems to be on board
+[0:31:13] and just kind of talking about nuance
+[0:31:14] and generally training above and beyond
+[0:31:16] this. But, um, I think we all sound like
+[0:31:18] we're in agreement on this being
+[0:31:22] >> and I can send a followup a link to the
+[0:31:24] the video. Um, and uh um I don't know if
+[0:31:30] it's possible, but we might be able to
+[0:31:32] get that link public to the public as
+[0:31:34] well from legislative days so we all can
+[0:31:37] review it.
+[0:31:40] >> Great. Yeah, I um would love that. I
+[0:31:42] have not paid attention to legislative
+[0:31:44] days last week um other than energy
+[0:31:47] stuff which is my day job. Um okay, from
+[0:31:51] here I'm back. Ben, you can go ahead
+[0:31:53] from here. Thanks for letting me lead
+[0:31:55] that one.
+[0:31:56] >> Yeah. Um the and then the final um
+[0:32:00] bullet point would be just to defend
+[0:32:02] against unfunded mandates. Um ensure
+[0:32:05] every new administrative or legal
+[0:32:07] requirement placed on school district is
+[0:32:09] fully supported by state funding amid
+[0:32:12] existing budget shortfalls. Unbudgeted
+[0:32:15] requirements force districts to divert
+[0:32:17] researchers directly away from students
+[0:32:19] and classrooms. The legisl legislature
+[0:32:23] must also examine existing mandates to
+[0:32:25] identify
+[0:32:27] and eliminate costly burdens that
+[0:32:29] compromise compromise educational
+[0:32:32] instructional funding. So I think to do
+[0:32:36] a couple points here. Um uh director
+[0:32:39] [Engelsman] I know last meeting you asked
+[0:32:41] for a list of unfunded mandates. That's
+[0:32:44] still in development. Um, but I've been
+[0:32:47] in contact with the school boards
+[0:32:49] association. Um, and um, they have been
+[0:32:55] they're very close to publishing their
+[0:32:58] list. So, I'm hoping to have it in the
+[0:33:00] next meeting or so. Um, so that's just
+[0:33:03] one piece that I I wanted to flag for
+[0:33:06] you. Um, and then I think to um,
+[0:33:09] director [Splitt]'s comment earlier, I
+[0:33:12] think the state must in this last
+[0:33:14] sentence, this might be a good place to
+[0:33:16] put PERS. Um, because we can say, you
+[0:33:19] know, it kind of directs directing
+[0:33:22] funding away from classrooms and into
+[0:33:25] the PERS system and kind of obis
+[0:33:27] obvisiscates the the funding that we
+[0:33:29] receive. I don't know how how um how the
+[0:33:33] the committee feels about that
+[0:33:35] suggestion.
+[0:33:36] I love it. And if you could use the word
+[0:33:38] obfuscates, I think that would be best.
+[0:33:41] >> One of my favorite words.
+[0:33:43] >> It's a good one.
+[0:33:45] >> So, I guess a point of of process here.
+[0:33:50] Um, we do have 19 minutes left. I don't
+[0:33:54] know if we want to like take a like five
+[0:33:56] minute recess to like put in make some
+[0:33:59] of these edits and then make a
+[0:34:01] recommendation or if you want to like
+[0:34:04] wordsmith um chief kfor can you help
+[0:34:08] provide some direction on how to
+[0:34:10] proceed.
+[0:34:12] >> Well, I think that that would be up to
+[0:34:14] the uh chair's prerogative if if she
+[0:34:17] would like us to take a is the is the
+[0:34:20] goal to get something finalized today.
+[0:34:22] It's a little hard to do that in a in a
+[0:34:24] group setting, but we can we can take a
+[0:34:26] break and come back.
+[0:34:28] >> Yeah. I I guess the question here is um
+[0:34:30] so these are principles the committee is
+[0:34:33] adopting as a committee um not as a
+[0:34:36] decision or policy or whatever um to
+[0:34:39] help us guide our work. The other reason
+[0:34:42] that and this is kind of a little bit of
+[0:34:44] a a
+[0:34:47] um turn in the conversation a bit. One
+[0:34:49] of the things we wanted was to have this
+[0:34:51] so that
+[0:34:54] um Ben could lead board members or I
+[0:34:57] could lead board members, we haven't
+[0:34:58] really talked about it, in scheduling
+[0:34:59] meetings with their own legislators and
+[0:35:01] have something with them that they can
+[0:35:04] share. So that's the goal for this
+[0:35:06] document is to kind of provide that
+[0:35:08] roadmap for those conversations of like
+[0:35:10] here are kind of our priorities. What
+[0:35:12] are your priorities around education? Um
+[0:35:14] and really get a pulse for where our
+[0:35:16] legislators are right now on education.
+[0:35:19] um and simultaneously share where our
+[0:35:22] pulse is. So for a document like that,
+[0:35:26] do we want it to go to the board? It
+[0:35:29] could be on like a consent agenda. Could
+[0:35:31] be like a consent calendar item
+[0:35:33] potentially.
+[0:35:34] Um or what do you what do you think?
+[0:35:38] >> Yeah, I we had talked about having the
+[0:35:40] board vote on it, but we could
+[0:35:41] definitely be um just uh on a a consent
+[0:35:44] agenda. So that's yeah whether it's
+[0:35:47] consent agenda or not I think that's
+[0:35:49] great. I guess the question then is I
+[0:35:51] don't think that we need to finalize it
+[0:35:53] today for us to make a recommendation
+[0:35:55] that it move forward as
+[0:35:57] >> amended by Ben based on our
+[0:35:59] conversation. Um so I think that that is
+[0:36:01] my hunch that we could do that um and
+[0:36:04] then send it on to the full board
+[0:36:05] whether it's consent calendar wherever
+[0:36:08] chair [Wang] and friends decide to put it.
+[0:36:10] Um, I kind of want it to be consent
+[0:36:12] agenda because I don't want it to take
+[0:36:13] up a ton of time when it's not a binding
+[0:36:16] long-term sort of legislative agenda
+[0:36:18] document, but more just something we'd
+[0:36:19] like to get that seal of approval on.
+[0:36:21] Director Sullivan. Yeah, I kind of
+[0:36:24] wanted to add one more thing to that
+[0:36:26] list and that's but I wanted to talk to
+[0:36:29] Michelle Morrison about it first and I'm
+[0:36:31] thinking about tapping into the
+[0:36:33] education stability fund but my question
+[0:36:36] is I know we're trying to get so we're
+[0:36:39] operating for some reason Michelle you
+[0:36:42] think we're going to be better next year
+[0:36:44] will be better something's going to be
+[0:36:45] better not next year but year after and
+[0:36:49] if you take a um a one time
+[0:36:53] money. If you take onetime money, does
+[0:36:56] that jeopardize actually stability
+[0:36:59] getting to stability? I mean, I'm
+[0:37:02] thinking let's help as many kids as we
+[0:37:04] can, but I don't want to wreck your goal
+[0:37:07] to finally get us so we're operating.
+[0:37:10] >> Yes, our our goal definitely to be sta
+[0:37:13] stable and I we have learned our lesson
+[0:37:16] around one-time funding whether it's at
+[0:37:17] the district level or the state level.
+[0:37:20] Um there is a lot of interest in the ed
+[0:37:23] stability fund because it does uh
+[0:37:26] replenish itself and really Deborah
+[0:37:27] knows more of the mechanism around that
+[0:37:29] probably than I could. But one of the
+[0:37:32] things that I see and and a concept that
+[0:37:34] we've floated is that perhaps if the
+[0:37:37] state um access the ED stability fund as
+[0:37:41] a one-time
+[0:37:43] um contribution to PERS to create
+[0:37:46] another resource that could perhaps um
+[0:37:49] bring down the rate increase we're
+[0:37:51] facing across the state. that that would
+[0:37:54] be um that would be something that would
+[0:37:56] be really helpful and it would be have
+[0:37:59] long-term implications like that
+[0:38:01] additional funding into the system would
+[0:38:03] have longer term implications than if we
+[0:38:05] just added it as a resource onetime
+[0:38:08] funding in the bienium that we would use
+[0:38:10] operationally. So, kind of a different
+[0:38:13] spin on how to access those dollars and
+[0:38:15] I know that um Ben has been floating
+[0:38:17] that around a little bit and I'm not
+[0:38:20] quite sure who he's visited with about
+[0:38:22] but I would almost I would almost prefer
+[0:38:25] that to treating it as operational
+[0:38:29] dollars and expecting a that level of
+[0:38:32] increase that we would need to the state
+[0:38:34] school fund to address um what we see is
+[0:38:37] a pretty significant increase in our
+[0:38:39] employer rates. And since that
+[0:38:41] replenishes itself, well not totally
+[0:38:43] wouldn't, but there is some money coming
+[0:38:45] in. That's something perhaps schools
+[0:38:48] could count on then in the future with
+[0:38:51] budget.
+[0:38:52] >> Yeah. I mean, it would still be a
+[0:38:54] gathering additional resources for ed
+[0:38:57] stability, which is the purpose, right?
+[0:38:58] So, I think uh again, I'd love to invite
+[0:39:01] Deborah or Ben to speak more to the
+[0:39:04] purpose of the ED stability fund and how
+[0:39:06] it can be accessed, but I think um part
+[0:39:09] of the reason for the establishment of
+[0:39:12] it was to address any type of economic
+[0:39:16] um downturn that we would experience and
+[0:39:19] and less about um an increase in
+[0:39:23] operational cost. That's really what
+[0:39:25] drives it.
+[0:39:26] >> Okay. But you're looking into it, pen.
+[0:39:30] >> Yeah. And I I I want to just
+[0:39:32] >> I just want to double click because I'm
+[0:39:34] hip and that's what the young people
+[0:39:36] say. Just kidding. No one says that.
+[0:39:38] >> Um No, they don't. Uh, I want to
+[0:39:41] [laughter] reiterate what Michelle just
+[0:39:43] said that um the legis and I'll add the
+[0:39:47] legislators that we've spoken to so far
+[0:39:50] um are really wanting to hold off on
+[0:39:54] using the ed stability fund for anything
+[0:39:57] else
+[0:39:58] than if there is a downturn. And we
+[0:40:01] have, it's been interesting. So far, we
+[0:40:03] haven't seen um with the uh forecasts
+[0:40:08] that come out, there'll be another one
+[0:40:10] in November, I think. We haven't seen
+[0:40:12] that downturn that we've all that we're
+[0:40:14] all waiting for to happen and we keep
+[0:40:16] hearing about, but the uh co-chairs of
+[0:40:19] Ways and Beans have both said that they
+[0:40:22] will. I mean, I shouldn't say will
+[0:40:24] because they don't they don't have all
+[0:40:25] the votes, but they would be interested
+[0:40:27] in using that fund if there was a
+[0:40:30] downturn to to keep us at our current
+[0:40:32] service level.
+[0:40:34] >> But don't aren't we at a downturn?
+[0:40:35] [laughter] It feels to me like we're at
+[0:40:37] a downturn
+[0:40:38] >> because it not because of the general
+[0:40:42] the general budgetary outlook.
+[0:40:44] >> Yeah.
+[0:40:44] >> And it's it's us. It's not it's not
+[0:40:46] every single it's not all 197 school
+[0:40:50] districts across Oregon who are facing
+[0:40:52] the same PERS issues that we are
+[0:40:55] >> quite a few right Ben go ahead
+[0:40:58] >> yeah I was going to echo what director
+[0:41:00] [Splitt] said there are a number of school
+[0:41:02] districts who are experiencing that and
+[0:41:05] I think one of the things that this
+[0:41:08] committee can do is help to identify
+[0:41:10] those those um school districts and uh
+[0:41:15] build coalition. Um, so I will yes leave
+[0:41:19] it there
+[0:41:20] >> on that. Um, I don't personally like
+[0:41:23] what director Sullivan just brought up I
+[0:41:25] think is a really good point. I don't
+[0:41:27] know that it needs to be a principle
+[0:41:30] that we want them to use the ED
+[0:41:32] stability fund because that's like um to
+[0:41:35] me that's like a
+[0:41:37] that's like part of the next steps is
+[0:41:39] like how that might happen. So, I feel
+[0:41:42] like as far as principles go, we have
+[0:41:43] that principle that's like, we want to
+[0:41:45] make sure our schools are adequately
+[0:41:46] funded. Um, and we have a shortfall. And
+[0:41:50] so, the principle is that adequate
+[0:41:53] funding. Um, but the like how we get
+[0:41:57] there can be something that we either
+[0:41:59] get get granular on once we hear more
+[0:42:02] about what's going on or we never get
+[0:42:05] fully granular on. So that way we can
+[0:42:07] support a variety of different
+[0:42:09] possibilities that could come down the
+[0:42:11] road, whether that's ed stability or
+[0:42:13] not. Um, but we should make sure that
+[0:42:15] our legislative agenda leaves room for
+[0:42:17] Ben to push on using it if that feels
+[0:42:20] appropriate and like a possible avenue
+[0:42:23] without um it being the only thing that
+[0:42:26] he can push on, if that makes sense.
+[0:42:27] >> Me being stubborn about it all the time.
+[0:42:29] Yeah. [laughter]
+[0:42:30] >> But I think it's great that you are keep
+[0:42:32] at it. Like I don't want you to stop. I
+[0:42:34] just don't know that it needs to be
+[0:42:35] added because I worry that somebody will
+[0:42:36] get like caught up in that like oh well
+[0:42:39] you only see this one path to fixing
+[0:42:43] this and I I want to have this
+[0:42:45] principles document be very like open to
+[0:42:48] a range of solutions if that makes
+[0:42:51] sense.
+[0:42:51] >> Yeah. Yeah.
+[0:42:56] >> Your hand is that Ben. I don't know if
+[0:42:57] that's an old hand.
+[0:42:59] >> Old hand. Okay.
+[0:43:01] >> All right. Um, so I think what we can do
+[0:43:05] I we can't make decisions in a committee
+[0:43:09] but can we make a recommendation?
+[0:43:11] Okay. So I would would accept a motion
+[0:43:14] to recommend that with edits as
+[0:43:17] discussed we move forward this
+[0:43:19] principles document to the full board.
+[0:43:25] >> I move.
+[0:43:26] >> So moved. Couldn't come off on it.
+[0:43:28] >> Director Yeah. Director Sullivan moves.
+[0:43:31] Director [Engelsman] seconds. Um and then
+[0:43:34] um all in favor of moving recommending
+[0:43:37] that this document move forward to the
+[0:43:39] full board say I.
+[0:43:42] >> I. Any objections?
+[0:43:45] Seeing none, that motion carries and
+[0:43:48] that recommendation can move forward. Um
+[0:43:51] and whatever
+[0:43:53] Ben puts forward for that board meeting
+[0:43:55] is what we'll see at that point. Um, and
+[0:43:58] so if anybody wants to speak with him
+[0:44:00] between now and then about that, whether
+[0:44:02] you're on this committee or not, I
+[0:44:03] encourage you to do that.
+[0:44:05] >> And he can send out um an updated
+[0:44:08] version um in the next few days when he
+[0:44:11] >> Yeah.
+[0:44:12] >> gets finished.
+[0:44:13] >> Yeah. I'd love to see more numbers added
+[0:44:14] to the really any anywhere. Um, the one
+[0:44:17] thing that I um kind of like sidebarred
+[0:44:20] on and couldn't find is where in the
+[0:44:24] literacy bills that have passed there
+[0:44:26] was anything about teacher training. I
+[0:44:28] can't find it. So, also, would you mind
+[0:44:31] following up with me so that I can feel
+[0:44:33] better? Because I was looking at
+[0:44:37] um a 2026 report from the education
+[0:44:42] commission of the states that doesn't
+[0:44:43] seem to think that we are having our
+[0:44:45] teacher training, our teachers trained.
+[0:44:48] So, I just want to make sure that
+[0:44:50] that is
+[0:44:52] settled on the science of reading or in
+[0:44:54] science-based reading, whatever we're
+[0:44:56] calling it. And uh I think it's called
+[0:44:58] technically like researchbacked literacy
+[0:45:01] strategies or something like that.
+[0:45:04] Thanks for following up with me on that.
+[0:45:07] >> Yeah, get that information.
+[0:45:08] >> I guess the ledge days conversation will
+[0:45:10] do the trick.
+[0:45:10] >> Yeah, I'll get the information to you.
+[0:45:13] >> Thanks.
+[0:45:15] And then Yeah. Go ahead, Director
+[0:45:17] Sullivan. And then we'll have one more.
+[0:45:18] >> Yeah. Just with that teacher training,
+[0:45:21] we'll have to be careful not to just
+[0:45:23] make that another unfunded mandate.
+[0:45:26] Yeah, we're happy to do that.
+[0:45:28] >> Yeah, it's it it it goes to education
+[0:45:31] programs in the state like PSU or um
+[0:45:34] just any teacher education program at a
+[0:45:37] higher ed institution.
+[0:45:38] >> Okay.
+[0:45:39] >> Is what I'm talking about. Yeah. But
+[0:45:41] yeah, I guess it is maybe an unfunded
+[0:45:43] mandate for them.
+[0:45:45] >> Yeah.
+[0:45:46] >> Yeah, it probably is for the colleges.
+[0:45:49] >> Yeah. Yeah.
+[0:45:51] Um, okay. So, with that, our final
+[0:45:53] agenda item is if there's anything else
+[0:45:55] anyone would like to discuss for our
+[0:45:57] future agenda items. And I think it
+[0:45:59] might be helpful to start with a preview
+[0:46:01] of what we have coming up. I've not been
+[0:46:04] doing a great job of tracking who we've
+[0:46:06] reached out to and when they can come.
+[0:46:07] Thanks, Ben, for taking that on, but can
+[0:46:09] you kind of tell us where we are on
+[0:46:11] invited guests? I know we had
+[0:46:14] Portland Association of Teachers,
+[0:46:16] Community and Parents for Public
+[0:46:17] Schools, Salem Kaiser School District,
+[0:46:21] and Stan for Children at least on our
+[0:46:24] list.
+[0:46:27] >> Yes. Um I am happy to report on our
+[0:46:31] future agenda. Um so in 2 weeks time is
+[0:46:37] October the I believe
+[0:46:42] um the 29th. Um and we don't have anyone
+[0:46:46] scheduled for that. But then the
+[0:46:48] following Tuesday the 13th of October we
+[0:46:52] have three groups scheduled.
+[0:46:55] and transfer public schools, Portland of
+[0:46:58] Association of Teachers, um and then uh
+[0:47:04] Stanford Children. Um and then the
+[0:47:07] following uh Tuesday is October the
+[0:47:11] 27th, we we will hear from um my cadre
+[0:47:16] of regional lobbyists in the education
+[0:47:18] space. So, we'll hear from the Malt Noma
+[0:47:21] Education Service District. um the North
+[0:47:25] Northwest Regional Education Service
+[0:47:28] District and Salem Kaiser Public Schools
+[0:47:31] on what their priorities are and how
+[0:47:33] they're kind of approaching the
+[0:47:35] legislative session. Um and from that
+[0:47:39] the following
+[0:47:41] um then we'll start after that we'll
+[0:47:45] start to get into some more formal board
+[0:47:47] recommendations and priorities. Uh
+[0:47:50] that'll kind of be the more the kind of
+[0:47:52] the culmination of our our work
+[0:47:54] together. Um so yes.
+[0:47:58] >> Um great. Okay. Um go ahead director
+[0:48:01] [Engelsman] and then I have a proposal for
+[0:48:03] our next meeting I think. But go ahead.
+[0:48:04] >> Oh I was about to say if we don't have
+[0:48:06] anyone scheduled what are we doing next
+[0:48:07] time? But it sounds like you have an
+[0:48:09] idea.
+[0:48:09] >> I have an idea. So one idea is we just
+[0:48:11] skip the meeting. The other idea is
+[0:48:13] director Sullivan had asked for more of
+[0:48:15] like a session where we talk a little
+[0:48:17] bit about how to reach out to
+[0:48:19] legislators to schedule our own meetings
+[0:48:21] or is Ben going to do that just kind of
+[0:48:24] like an advocacy planning session. So I
+[0:48:26] wonder if that might be a good use of
+[0:48:28] our time or if um we don't need to have
+[0:48:33] a public meeting for that. That would
+[0:48:35] mean like one-on-one we could work with
+[0:48:36] Ben I think um or twoon-one or
+[0:48:39] something. So I we can maybe decide um
+[0:48:42] not us [laughter] Ben then can decide
+[0:48:44] because we can't talk about things
+[0:48:46] between public meetings but on an
+[0:48:48] approach um on um
+[0:48:53] we can talk about an approach for um how
+[0:48:57] we want to handle kind of getting
+[0:48:58] organized to meet with legislators,
+[0:49:00] who's meeting with who, things like
+[0:49:02] that. Um, but yeah, I we could do that
+[0:49:04] offline or we could have a com Ben could
+[0:49:07] lead that offline or we could have a
+[0:49:09] conversation here. Either one works for
+[0:49:11] me. Director [Engelsman], do you have
+[0:49:13] thoughts? Director Sullivan,
+[0:49:15] >> I was only going to say that I I I
+[0:49:17] thought I understood the idea of board
+[0:49:19] members reaching out to legislators is
+[0:49:22] that we will all be doing it, not just
+[0:49:24] the three of us in this committee. And
+[0:49:26] so, wait, is that a yes, you agree or
+[0:49:29] no? Yes, other people should do it as
+[0:49:31] well, but I think maybe we could come up
+[0:49:34] with a plan for like chair [Wang], we'd
+[0:49:36] like you to reach out to these two
+[0:49:37] people, vice chair [DePass], could you do
+[0:49:40] these two? Could like that that's that's
+[0:49:42] Yeah. And if they don't want to, then
+[0:49:43] maybe we could pick up their slack or
+[0:49:45] whatever.
+[0:49:46] >> Totally. I then I wonder though if we
+[0:49:48] are going to have a public meeting of a
+[0:49:50] of an advocacy training if it makes
+[0:49:53] sense to do it just to the three of us
+[0:49:54] when all seven are in a school and a
+[0:49:57] student representative that makes more
+[0:49:58] sense to either have someone like do it
+[0:50:00] individually if they want it with Ben or
+[0:50:04] bring it to the whole board. I just it
+[0:50:06] doesn't seem like a great use of this
+[0:50:10] time if there are going to be four plus
+[0:50:12] a student rep who also may want it. I
+[0:50:14] guess they could watch it but they might
+[0:50:15] have questions. I don't know. That's
+[0:50:16] all.
+[0:50:16] >> Yeah. I want to hear from Director
+[0:50:18] Sullivan. What we could do, too, is use
+[0:50:19] this time, but not necessarily
+[0:50:23] and we if we have everybody come, it has
+[0:50:26] to be public. So, it could be that we do
+[0:50:28] that that it anybody on the board can
+[0:50:31] come. Please come if you want to talk
+[0:50:33] about this. If you can't come, we'll
+[0:50:35] catch you up otherwise. But it could
+[0:50:36] actually be use of a time where some of
+[0:50:38] us already have time set aside um to do
+[0:50:41] that planning session direct. But again,
+[0:50:43] I'm open-minded on approach. Director
+[0:50:45] Sullivan, and then back to Ben.
+[0:50:47] >> Yeah, I I think it would be a good idea
+[0:50:49] to do planning with this group and let
+[0:50:52] everybody know what's happening and let
+[0:50:53] the public know what's happening. Um
+[0:50:58] because I mean, a lot of people probably
+[0:51:00] can't come, but on Zoom they might. And
+[0:51:03] I know I need the training and I can
+[0:51:05] hear it twice. [laughter] Wouldn't hurt
+[0:51:07] me. And um anyway, I'm I'm really for
+[0:51:11] having some advocacy and ideas about the
+[0:51:15] best way to approach your people and how
+[0:51:18] to get a hold of them and that whole
+[0:51:20] thing. And I know I probably got it
+[0:51:22] written down somewhere, too. But for me,
+[0:51:25] hearing it and discussing it is helpful.
+[0:51:30] >> That's where I am.
+[0:51:32] >> Great,
+[0:51:34] >> Ben.
+[0:51:35] >> Um what do you think? So, a couple
+[0:51:37] thoughts. Um, I think one thought is,
+[0:51:41] um, in January there'll be time to have
+[0:51:45] a formal lobbying training. Um, and,
+[0:51:50] uh,
+[0:51:52] not to speak for anyone else on my team,
+[0:51:54] but one thing that we could maybe do is
+[0:51:57] like we could schedule an hour before
+[0:52:01] board meeting. Um, and the hour before
+[0:52:04] board meeting is a publicly noticed
+[0:52:06] lobbying training on a Tuesday at like
+[0:52:09] 4:30 or 5. That's just one I'm just
+[0:52:12] throwing like spaghetti at the wall if
+[0:52:14] that's like an option, not anything or
+[0:52:18] we can ask if that's something of
+[0:52:19] interesting of interest. Um or we can do
+[0:52:23] a lunchtime or a series of lunchtime
+[0:52:26] lobbying trainings during that time as
+[0:52:28] we're starting to get to kind of build
+[0:52:30] that like critical momentum phase um
+[0:52:34] getting into session. So
+[0:52:38] >> I'm sorry. Did I miss why we we're not
+[0:52:40] going to do it that next week in this
+[0:52:42] committee or
+[0:52:43] >> two weeks from now? I think we let's
+[0:52:45] just see if board members can make it
+[0:52:46] and if we can make it work for this slot
+[0:52:48] that works for three of us rad. And if
+[0:52:50] it can't then we can figure out
+[0:52:52] alternatives. Does that sound like a
+[0:52:54] fair approach for now?
+[0:52:55] >> I would say I would just suggest a both
+[0:52:57] and because um chances of getting every
+[0:53:00] it's really it's been maybe shouldn't be
+[0:53:04] public. No, it's very hard to schedule
+[0:53:07] board to get together and I wouldn't
+[0:53:09] want the perfect
+[0:53:10] >> to get in the way of the possible. So if
+[0:53:12] >> let's see who can come to 12 to 1 on the
+[0:53:14] 29th. Ben and I, let's we can partner on
+[0:53:19] putting together a program if that works
+[0:53:21] for him. Um or you can just do it
+[0:53:23] yourself if you want, but I'm happy to
+[0:53:25] assist. And then um we can also get
+[0:53:29] sometimes I think like Chief Gapfor
+[0:53:31] might have some legislative experience
+[0:53:32] to help with this perhaps too. Um but um
+[0:53:36] but we can put together a program, have
+[0:53:38] it for at least the three of us, invite
+[0:53:40] everyone, and then um whoever can't make
+[0:53:43] it will figure out a plan for them. Does
+[0:53:45] that sound like a reasonable approach?
+[0:53:48] Okay. So, that's what we'll do at our
+[0:53:49] next meeting. Um, and then from there,
+[0:53:51] we'll be really excited to have great
+[0:53:52] conversations with some guests um after
+[0:53:55] that. And with that, I'm happy to
+[0:53:57] adjourn the meeting of our
+[0:53:59] intergovernmental affairs committee.
+[0:54:01] Thanks everybody for making the time and
+[0:54:03] see you in two weeks to get to work.

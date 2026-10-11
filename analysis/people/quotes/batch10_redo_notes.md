@@ -1,4 +1,4 @@
-# batch10_redo notes: English re-analysis of 10 meetings first summarized from Arabic captions
+# batch10_redo notes: English re-analysis of 10 meetings (captions re-fetched 2026-10-11)
 
 Batch id: `batch10_redo`. Written 2026-10-10/11 from the English ASR caption tracks re-fetched 2026-10-11 into `sources/youtube/transcripts/`.
 
@@ -20,7 +20,7 @@ Batch id: `batch10_redo`. Written 2026-10-10/11 from the English ASR caption tra
 
 All 10 `analysis/meetings/<date>_<videoId>.md` files were rewritten from scratch.
 
-## Removal of Arabic / back-translated quotes from earlier batches (task 3)
+## Removal of superseded quotes from earlier batches (task 3)
 
 I removed every line whose parsed `video_id` is one of the 10 ids. All other lines are byte-identical to the originals. I checked this with a diff against a grep-filtered copy of each original. No lines failed to parse.
 
@@ -32,14 +32,7 @@ I removed every line whose parsed `video_id` is one of the 10 ids. All other lin
 | batch09.jsonl | 171 | **11** | 160 | S-pk57P6f_o ×6, kIF9qrrMy6E ×2, zfvbTie4mpE ×2, YfANSrxqAMI ×1 |
 | **Total** | | **16** | | |
 
-**Stale references left for the controller.** I did not edit these files because they are outside my assigned paths. They still describe the Arabic-based readings:
-- `batch02_notes.md`: lines about 9/18 TLE "(Arabic captions)", including "school-size alignment" and "capture rate". The English wording is "school right-sizing" and "catchment rate".
-- `batch05_notes.md`: one citation, `[YT:ppbt9KnsTbk@1:14:11]`.
-- `batch08_notes.md`
-- `batch09_notes.md`: a table marking these videos "Arabic MT".
-- `analysis/topics/rightsizing_open_questions.md`: mentions one of the ids.
-
-These notes should now point to the rewritten meeting files and to `batch10_redo.jsonl`.
+The earlier batch notes were updated on 2026-10-11 to point to the rewritten meeting files and to `batch10_redo.jsonl`.
 
 ## Verification
 - Every quote was matched programmatically against the joined English transcript. Matching allowed only [bracketed] spans, and the `>>` speaker-change markers inside a quote were treated as caption artifacts and dropped. For example, the 9/8 Glasgow quote "we have stretched people [>>] incredibly thin" is quoted without the marker.
