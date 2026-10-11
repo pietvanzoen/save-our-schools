@@ -1,0 +1,1777 @@
+Portland Public Schools
+
+Annual Bond Performance Audit-
+Fiscal Year 2022/2023
+
+
+
+
+May 2024 — Final Report
+
+
+
+
+SJOBERGEVASHENK                 Page |i
+May 9, 2024
+Stormy Shanks, Senior Director
+Office of School Modernization
+Portland Public Schools
+510 N. Dixon Street
+Portland, OR 97227
+
+Dear Ms. Shanks,
+Sjoberg Evashenk Consulting is pleased to submit our report for the Portland Public Schools (PPS) Annual
+Bond Performance Audit for Fiscal Year 2022/2023. We assessed performance of the 2017 and 2020 Bond
+programs as implemented by PPS’ Office of School Modernization (OSM) with focus on the delivery status
+of the 2017 and 2020 Bond projects, Career Learning Equity protocols, and review of the practices in place
+to deliver the 2020 Bond Curriculum and Information Technology work. We also assessed progress made
+towards implementing recommendations from prior annual Bond performance audits.
+
+Our report concludes that, for the areas we reviewed, PPS has made progress toward meeting its bond
+pledges. The 2017 Bond program was on track for completion and the 2020 Bond program was generally
+progressing as planned, with PPS addressing some schedule, cost, and scope challenges along the way to
+meet the intent behind bond commitments. In particular, the 2020 Bond Curriculum and Technology project
+areas cost and scope challenges, and both project types were progressing as planned and had strong
+frameworks in place for delivery.
+
+Yet, PPS’ Career Learning Equity program lacked a structured program to meet its stated objectives and
+outcomes were not measured to determine if it met its objectives. To address this area, we provided two
+recommendations related to researching resources to implement the Career Learning Equity Program or
+revising the required scope of the program to align with the district’s capacity. Additionally, PPS reported
+that most of the prior audit recommendations from the last audit cycle in 2022 remain in progress.
+
+We appreciate the professionalism, cooperation, and dedication of all PPS and OSM staff who assisted us
+throughout the course of the audit, and look forward to continuing our collaboration during the next audit
+cycle.
+
+Respectfully Submitted,
+
+
+
+
+Catherine Brady, Partner
+Sjoberg Evashenk Consulting, Inc.
+
+
+SJOBERGEVASHENK                                                                                    P a g e | ii
+Table of Contents
+
+Table of Contents ..........................................................................................................................................iii
+
+Executive Summary ....................................................................................................................................... 0
+
+Introduction and Background ......................................................................................................................... 1
+
+Scope and Objectives .................................................................................................................................... 5
+
+Section 1: 2017 Bond Program Is on Target to Be Completed, and 2020 Bond Is Generally Progressing as
+Planned ......................................................................................................................................................... 6
+
+Section 2: Career Learning Equity Program is Inadequate to Meet Stated Objectives ................................ 13
+
+Section 3: Practices Were in Place to Ensure Bond Curriculum and Technology Improvements Will be
+Delivered as Intended, with Cost and Scope Challenges Being Mitigated ................................................... 19
+
+Appendix A: Status of Prior Performance Audit Recommendations ............................................................ 33
+
+Appendix B: Audit Methodology ................................................................................................................... 35
+
+Appendix C: Auditee Response ................................................................................................................... 38
+
+
+
+
+SJOBERGEVASHENK                                                                                                                                   P a g e | iii
+Executive Summary
+
+For this 2022-2023 performance audit, we focused on the overall bond delivery status for both the 2017
+Bond and 2020 Bond projects, program delivery of the curriculum and technology components of the 2020
+Bond, and PPS’ Career Learning Equity program.
+
+With the 2017 School Improvement Bond (2017 Bond) nearing completion and the 2020 School
+Improvement Bond (2020 Bond) three years into delivery, the Portland Public Schools District (PPS) and its
+Office of School Modernization (OSM) have made progress in addressing a variety of major capital
+improvement needs as planned at the district. The two remaining 2017 Bond major capital school
+modernization projects were on track for planned completion, and remaining Health and Safety
+improvement projects were also on target to be completed by the fall of 2024 as planned. For its 2020
+Bond, improvements were generally progressing as planned though there have been some delays, cost
+increases, and scope changes. PPS generally addressed those challenges and met the intent behind bond
+commitments without compromising delivery of the overall Bond program.
+
+Yet, in terms of PPS’ Career Learning Equity program to increase the numbers of students participating in
+career learning opportunities, we found no structured program existed to help PPS meet that objective nor
+were outcomes measured to determine if it met its goals. Further, though PPS retained its commitment
+toward addressing prior Bond audit recommendations, PPS reported that most of the recommendations
+from the last audit cycle in 2022 remain in progress. Key results and recommendations are summarized in
+the sections that follow.
+Audit fieldwork generally covered the period between April 1, 2022, through June 30, 2023, although we
+incorporated any significant events after the end of fieldwork into this report. Key results and
+recommendations are summarized in the sections that follow.
+
+
+
+
+SJOBERGEVASHENK                                                                                Page |0
+                  2017 Bond Program Is on Target to Be Completed,
+                  and 2020 Bond Is Generally Progressing as Planned
+                 With Lincoln High School and Benson High School on target to be completed, PPS is approaching the
+                 end of the 2017 Bond. Lincoln High School is forecasting cost savings that will go back to program
+contingency, although PPS will wait until the project’s end to decide how to use funds. The 2020 Bond is also mostly
+progressing as planned—though some cost, schedule, and scope challenges occurred. While funds remain available,
+there is some risk to the Bond program if high escalation and market volatility continue.
+
+KEY RESULTS:                                                    • PPS intentionally established a large contingency for the
+                                                                  2020 Bond. Some of that program contingency will pay for
+• Lincoln High School is on schedule to be completed by
+                                                                  $55 million in unplanned cost increases at Jefferson High
+  fall of 2023 with forecasted costs savings between $9
+                                                                  School and will partially fund improvements at Harrison Park
+  and $9.5 million as of May 2023.
+                                                                  Middle School, a bond capacity project.
+• Benson High School is on schedule to be completed by
+                                                                • Other delivery challenges were experienced on the 2020
+  the fall of 2024.
+                                                                  Bond mechanical, roofing, and technology projects, in
+                                                                  addition to the Center for Black Student Excellence. Yet,
+                                                                  PPS was able to take alternate actions that still meet the
+                                                                  intent behind planned bond commitments.
+RECOMMENDATIONS
+No recommendations
+
+
+                     PPS Career Learning Equity Program is Inadequate to Meet
+                     Stated Objectives
+                      Though the Career Learning Equity program has been in place since 2013, PPS had not established
+                      or fully implemented a dedicated, structured program to meet elements outlined in its
+Administrative Directive (AD). Many critical program management functions did not occur, and PPS is unable to
+determine if it met its AD objective. However, some career learning opportunities did occur.1
+
+ KEY RESULTS:                                              RECOMMENDATIONS:
+ • There was no structured program with assigned           As PPS leverages its position as an educational institution with
+   process owners, sufficient protocols, and clear         significant connections with the local contractor and consultant
+   procedures to implement the Career Learning             community involved with its School Improvement Bonds, it could
+   Equity AD.                                              consider:
+ • Some implementation efforts were employed by                 1. Researching and assigning resources needed to implement a
+   staff but many key expected program management               structured Career Learning Equity Program that has clearly
+   duties such as contractor management and                     designated roles and responsibilities, protocols for coordination,
+
+
+
+1 According to PPS, staff have begun accessing its efforts and developing collaborative process to support the Career Learning
+
+Equity Program including improvements to program management, intradepartmental coordination and compliance reporting, and
+regular planning meetings to talk through engagement strategies and actions. Reported progress involved updated Partner
+Connect architecture to tag and organize partner organizations, evolved event management process to better identify
+opportunities offered, and additional events such as monthly career learning sessions and vendor open houses on career
+opportunities. Other improvements PPS reported were development of a partner menu to help organizations understand
+involvement opportunities and the process to sign up, plans to create a visual data dashboard and custom report to provide “real-
+time” review of impact of the Career Learning Program, and training for career coordinators on the program foundation and how
+to access or contact potential partner organizations.
+
+
+SJOBERGEVASHENK                                                                                                     Page |1
+    compliance, program coordination, and data             contractor and consultant management, data management and
+    management did not occur.                              reporting, and set targets to track outcomes.
+ • The program had a stated objective, but no targets      2. Alternatively, PPS should revise the Administrative Directive to
+   were set to adequately track outcomes against           limit the scope of the Career Learning Program to align with the
+   goals.                                                  district’s capacity more appropriately.
+ • Though not broadly tracked, some examples
+   existed of career learning opportunities that
+   occurred.
+
+
+
+
+                     Practices Were in Place to Ensure Bond Curriculum and
+                     Technology Improvements Will be Delivered as Intended, with
+                     Cost and Scope Challenges Being Mitigated
+Although both 2020 Bond curriculum and technology project areas experienced scope and compensability challenges
+that required the leveraging of PPS general funds to supplement bond funding, both project types were generally on
+target to be delivered as planned. In fact, both the Office of Teaching and Learning (OTL) and Office of Technology &
+Information Services (OTIS) had strong frameworks in place over curriculum and technology, respectively, to ensure
+their efforts were achieving intended benefits.
+
+KEY RESULTS:                                                    • Technology projects had schedule and scope
+• Both OTL and OTIS had strong frameworks to manage               challenges related to classroom modernization
+  bond funds including established roles and                      whiteboard delivery, but still is delivering generally as
+  responsibilities, documented analysis for decision-             planned.
+  making, and tool and systems to monitor funds, oversee        • Performance metrics were identified to measure bond-
+  delivery, and track inventory.                                  funded improvement success such as Wi-Fi speed and
+                                                                  bandwidth, but results are still yet to be determined.
+RECOMMENDATIONS:
+No recommendations
+
+
+
+
+SJOBERGEVASHENK                                                                                                 Page |1
+Introduction and Background
+
+As the largest K-12 public school district in Oregon with more than 45,000 students and nearly 100 schools,
+Portland Public Schools’ (PPS) Office of School Modernization (OSM) has been tasked with modernizing
+aging facilities and upgrading the learning environment. To date, Multnomah County voters have passed
+three major bond programs to fund these school improvements in 2012, 2017, and 2020. Combined, these
+three bonds authorized over $2.4 billion in funding through a levy against assessed property values for
+modernizing school facilities and improving learning experiences.
+
+Bond Program Capital Projects and Bond Audits
+Modernizing aging school facilities is a complex endeavor with several defined phases and a variety of
+internal PPS and OSM stakeholders, external consultants and contractors, a citizen accountability
+committee, and an elected oversight board that work together on ensuring Bond programs are delivered as
+planned. For the first major capital bond in 2012, school improvement efforts were primarily focused at
+Grant, Franklin, and Roosevelt High Schools and Faubion Middle School; while the 2017 school
+improvement projects largely focused on Lincoln, McDaniel, and Benson High Schools in addition to
+Kellogg Middle School. Both bonds also set aside significant funds for a series of health and safety
+improvements at other schools within the PPS district as well as planning for specific future school
+modernizations. With the passage of a third bond in 2020, the district expanded planned areas to include
+not only traditional capital improvements and modernization of physical school buildings, but also funding
+for educational curriculum and information technology related infrastructure improvements as well as a
+Center for Black Student Excellence. This expanded the involvement of more offices in PPS beyond OSM
+to deliver bond pledges—including the Office of Technology & Information Services (OTIS), Office of
+Teaching & Learning (OTL), and various staff as needed in cross-functional offices such as Purchasing &
+Contracting (P&C) and Career and Technical Education (CTE) as shown in Exhibit 1.
+
+                               EXHIBIT 1. PPS OFFICES INVOLVED IN BOND DELIVERY
+
+
+
+
+                    Source: Auditor-generated based on 2022-23 PPS Leadership Staff Organizational Chart
+
+All bonds require annual performance audits of bond activities as part of PPS’ commitment to transparency
+and accountability to taxpayers. Beginning with the 2017 Bond, annual performance audit scopes of work
+
+
+SJOBERGEVASHENK                                                                                           Page |1
+generally focused on those bond-funded activities that could pose a risk to the overall delivery of the
+program and specific projects, or addressed concerns brought forward by OSM or the Bond Accountability
+Committee (BAC). 2 Audit scope decisions were also informed by the status or phase of the school capital
+improvement projects—such as timing audit scope with assessing cost estimate practices when projects
+are in master planning, reviewing construction management when projects are in or nearing the
+construction phase, or evaluating project closeout practices when modernization projects are completed.
+
+For this 2022-2023 performance audit, we focused on the overall bond delivery status for both the 2017
+Bond and 2020 Bond projects, program delivery of the curriculum and technology components of the 2020
+Bond, and the status of PPS’ implementation of prior audit recommendations. 3 In addition, we examined
+PPS’ Career Learning Equity program and its goal and target-setting, equity performance to date, and
+current protocols in place to meet PPS’ equity objectives.
+
+Curriculum and Technology Needs at PPS
+In addition to the condition of aging schools and health and safety needs that warranted focus of prior
+school improvement bonds, PPS has also had significant need for technology upgrades that have not been
+addressed for two decades and new curriculum that has been out of compliance with the Oregon
+Department of Education (ODE)’s curriculum standards for various subjects—with some curriculum
+subjects non-compliant since the early nineties.4, 5
+
+The 2020 Bond provided a first-time opportunity to provide overdue updates with the adoption of new
+curriculum led by the OTL and technology improvements led by the OTIS. Both offices managed
+implementation of bond-funded delivery in these areas, while OSM provided oversight of funds. To ensure
+PPS exercised due diligence in spending bond-funds appropriately, PPS also formed the Bond
+Compensability Committee (BCC) in January 2021 with representatives from Finance, Procurement &
+Contracting, OSM, and other relevant program representatives such as OTL and OTIS to vet expenditures
+for allowability and memorialize decisions. The BCC made decisions using general criteria based on
+provisions of the Oregon Constitution and Revised Statues, Generally Accepted Accounting Principles over
+capitalizable assets, and Governmental Accounting Standards Board pronouncements.
+
+While the language in the approved 2020 Bond did not promise specific quantities of improvements nor
+name specific sites where curriculum and technology improvements would occur, PPS planned a variety of
+activities to meet needs using the bond funds. For instance, bond-funded curriculum improvements were
+expected to achieve full compliance with ODE requirements for at least seven years for subjects such as
+math, science, health, humanities, and arts for different grades. Planned technology work included critical
+infrastructure upgrades for internet connectivity and security, individual laptops or devices for students and
+
+2 The establishment of the BAC was a requirement of the Bond measure—it is a taxpayer oversight body consisting of private citizens that
+
+advise the Board and OSM on all Bond matters as defined by its charter.
+3 Refer to Appendix A for status of prior audit recommendations.
+
+4 Oregon Department of Education (ODE) is the state agency tasked with both overseeing and regulating the Oregon public education system
+
+for grades K-12.
+5 PPS defines curriculum as “the standards-based knowledge and skills that ALL students are expected to learn as they progress through our
+
+school system” which includes all teaching materials such as textbooks, student digital access to online materials, and hardcopy teacher guides
+with digital access to online materials.
+
+
+SJOBERGEVASHENK                                                                                                                 Page |2
+staff, and classroom modernization such as voice amplification systems for teachers and projection tools.
+PPS has a detailed project map and description for school sites that will be targeted for technology
+improvements.
+
+Career Learning Equity Program at PPS
+To deliver these planned projects, public owners of bond capital improvement programs, like PPS, rely
+heavily on the local contracting community. As such, PPS is in an ideal position to leverage its public
+contract activity to further its equity goals and expand the number of students participating in and benefiting
+from career learning equity opportunities provided by contractors.
+
+In June 2011, the Board adopted the Portland Public Schools Racial Educational Equity Policy, 2.10.010
+that affirmed the intent of the district to address and overcome educational barriers that resulted in a
+persistent achievement gap for students of color. The Board noted that these barriers and inequities were
+due to complex society and historical factors. A year later, they formally recognized that the impact of these
+inequities extended further to PPS’ business partners and the broader community. To build upon the racial
+equity policy, the Board adopted its Equity in Public Purchasing and Contracting Policy (EPPC) in July
+2012, stating that “modeling equity in District business practices will further enhance achievement of goals
+established in its Racial Educational Equity Policy.” 6
+
+EPPC Has Three Main Areas
+The EPPC has three main areas: Business Equity, Contractor Workforce Equity, and Career Learning
+Equity. While PPS operationalized each area into its own Administrative Directive (AD) that details the
+steps PPS will take in its pursuit to meet goals, the scope of this audit solely focused on the Career
+Learning Equity AD.7 The PPS Superintendent signed the current Career Learning Equity AD in October
+2013 that focused on increasing the numbers of high school students, particularly young people of color
+and young women, in career learning programs as shown in Exhibit 2.8 Career learning opportunities
+include but are not limited to guest speaker sessions, worksite visits and company tours, job shadows,
+informational interviews, internships, project based learning, and focused career days and fairs.
+
+In August 2017 and May 2019, PPS made minor revisions to the AD including clarification on frequency of
+learning opportunities per contract, implementation of a new tracking database, removal of a requirement to
+utilize a specific vendor, and an update to its tracking and reporting requirements.
+
+
+
+
+6 Board Materials from July 16, 2012, note that PPS had been actively drafting the EPPC since 2009.
+
+7 An Administrative Directive (AD) is a procedural plan to implement a policy passed by a Board vote. At PPS, the AD provides direction for
+
+staff to operationalize the Board’s vision.
+8 While the AD states that PPS will seek to expand the program to middle school students, this has not occurred as of the time of this report.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                   Page |3
+       EXHIBIT 2. CAREER LEARNING EQUITY ADMINISTRATIVE DIRECTIVE EVOLUTION, OBJECTIVES, AND GOALS
+
+
+
+
+          Source: Auditor-generated from PPS library of policies and administrative directives at https://www.pps.net/policies.
+
+The AD required all applicable PPS contractors with contracts valued at $100,000 and above to register in
+PPS’ career learning database and offer between two and four career learning opportunities to students
+depending on the dollar value of the contract. Many bond projects meet this dollar threshold and are
+subject to the Career Learning Equity AD.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                  Page |4
+Scope and Objectives
+
+PPS hired Sjoberg Evashenk Consulting, Inc. in October 2018 to conduct annual performance audits of the
+School Improvement Bonds over a four-year period. Each year, auditors assess performance and focus on
+different Bond programs and project areas. For this current performance audit cycle, we reviewed 2017 and
+2020 Bond program activities for the period from April 1, 2022, through June 30, 2023, and considered any
+significant events after the end of fieldwork. Our objectives were as follows:
+
+    1. 2017 & 2020 Bond Status
+       Identify the delivery status of the remaining 2017 Bond projects and 2020 Bond projects in terms of
+       cost and schedule.
+
+    2. Career Learning Equity
+       Determine if PPS met its objective, per PPS’ EPPC Board Policy 8.50.095 and Career Learning
+       Equity AD 8.50.098, to increase the number of young people of color and young women
+       participating in career learning programs during the school improvement bond period. Conduct a
+       high-level assessment to determine whether existing protocols and practices at PPS are sufficient
+       and effective for PPS to meet its objectives.
+
+    3. 2020 Bond Curriculum and Information Technology “Deep Dive”
+       Assess whether current practices in place at the PPS Office of Teaching and Learning and Office
+       of Technology & Information Services adequately ensure curriculum and information technology
+       improvements will be delivered as intended by the 2020 Bond.
+
+    4. Prior Audit Recommendations
+       Determine whether PPS and OSM sufficiently addressed prior audit recommendations related to
+       Bond activities and implemented appropriate corrective action.
+
+To fulfill these objectives, Sjoberg Evashenk Consulting, Inc. performed a variety of detailed audit tasks
+involving interviews of PPS executive leadership, inquiries of departmental management and operational
+staff, data mining and analysis, documentary examinations, record review and testing, industry authoritative
+research, and source data verification. Refer to Appendix B for the detailed methodology employed during
+the audit.
+
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+
+
+
+
+SJOBERGEVASHENK                                                                                 Page |5
+Section 1: 2017 Bond Program Is on Target to Be Completed, and
+2020 Bond Is Generally Progressing as Planned
+
+OSM continued to deliver on projects Multnomah County voters approved under the 2017 and 2020 School
+Improvement Bonds. With Lincoln High School and Benson High School both on track to be completed as
+planned and remaining health and safety projects in close out phases, PPS is nearing the end of its
+pledged work for the 2017 Bond. Additionally, 2020 Bond work is generally progressing as planned—
+though there have been some delays, cost increases, and additional work being added to the Bond
+program that will be paid for through contingency funds. Exhibit 3 shows current cost estimates at
+completion for the 2017 and 2020 bond projects as of May 2023.
+
+                  EXHIBIT 3. 2017 BOND AND 2020 BOND ESTIMATES AT COMPLETION, AS OF MAY 2023
+
+
+
+
+                           Source: Auditor-generated based on eBuilder data provided by PPS for May 2023
+ Note: The 2020 Bond provided $164.9 million to fund additional costs to complete the Benson main campus. Because Benson main was a
+            2017 pledged project, we report the total estimate at completion for Benson main as part of the 2017 Bond figures.
+
+
+Remaining 2017 Bond Projects Were on Target to Complete as Planned with Savings
+Projected to be Available for Future Reallocation Once Decisions are Made
+As of May 2023, the remaining 2017 Bond modernizations at Lincoln High School and Benson High School
+were generally on schedule to be completed by fall 2023 and fall 2024, respectively. Likewise, the
+remaining health and safety projects were also on target for completion by 2024, spending up to the
+remaining unallocated balance for the projects. The Benson High School project’s costs increased slightly
+since the last audit report in 2022, but Lincoln High School is projected to have cost savings of
+
+
+
+
+SJOBERGEVASHENK                                                                                                        Page |6
+approximately $9 to $9.5 million that will go back into the overall Bond program as of May 2023.9 PPS is
+still determining how and where to allocate those funds and will wait until both phases of the project are
+completed before making those decisions.
+
+According to PPS staff, while no formal protocol exists for determining how non-health & safety unallocated
+funds should be spent, typically PPS would consider whether items previously removed from a specific
+project during value engineering could reasonably be added back in where warranted, funds could be used
+on the project for other improvements, or cost savings should be returned to the overall Bond program
+contingency to be allocated as needed. 10 Because sizeable cost savings have not occurred in the past,
+PPS noted that they did not have or need a formal procedure for allocating those funds. PPS explained
+these discussions on how to memorialize the unallocated funding prioritization process will occur at the end
+of the Lincoln High School project if funds continue to remain available at project end. Reasonably, staff
+need to retain some flexibility in making those decisions depending on the status of other bond projects.
+
+2020 Bond Program Is Generally Progressing as Planned
+The 2020 Bond pledged to modernize Jefferson High School, plan and design future high school sites, and
+invest in physical improvements such as roofs, seismic work, and mechanical upgrades as well as provide
+educational program improvements for district technology upgrades and curriculum adoption. Additionally, it
+allocated funds for upgrades to address the district’s changing capacity and enrollment needs and for
+improvements as part of a new concept for a Center for Black Student Excellence (CBSE).
+
+Though certain bond subcategories experienced some delays, cost increases, and scope changes, the
+overall 2020 Bond program is still delivering projects as planned. Current estimates and schedules to
+complete generally align with initial bond estimates except for Jefferson High School and capacity
+improvement projects. Notably, the scope for the capacity subcategory grew as one site, the Harrison Park
+K-8 school, converted to a middle school and is receiving a greater breadth of improvements with bond
+funds. Available bond contingency funds covered the additional cost, and reasons for the scope increases
+appear reasonable as detailed in a later section of this report. Similarly, costs for Jefferson High School
+grew due to inflation in the construction market and program contingency was allocated for those changes.
+
+Exhibit 4 shows the status of the 2020 Bond program subcomponents in terms of cost, schedule, and
+scope with notable status changes flagged—although most individual bond improvement areas were
+progressing as planned and PPS was delivering projects as planned with no major budget and schedule
+concerns.
+
+
+
+
+9 The Benson Polytechnic High School project (Benson High School) consists of several sub-projects. As of May 2023, sub-project status was
+
+as follows: Multiple Pathways to Graduation (MPG) building at 30 percent of construction completed and the Benson Main campus building at
+68 percent of construction completed. All swing sites were completed and in-use.
+10 In the 2020 Bond Budget Summary presented to the Board on July 13, 2020, by the Chief Operating Officer, PPS stated that program
+
+contingency could be used for a variety of unanticipated costs including estimation errors, discretionary scope additions, cost escalation, or
+other unanticipated costs.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                  Page |7
+Icons reflected in Exhibit 4 flag these notable changes related to cost, schedule, and scope. Areas not
+flagged by an icon did not have significant changes that warranted raising in this audit cycle.
+
+              EXHIBIT 4. 2020 BOND AREAS WHERE NOTABLE CHANGES HAVE OCCURRED, AS OF MAY 2023 A
+                  2020 Bond Components                         Original Budget            Cost          Schedule             Scope
+              Benson High School MPG Building                        $64M
+                     Jefferson High School                          $311M
+              Center for Black Student Excellence                    $60M
+                    Capacity Improvements                            $10M
+                    Planning and Design
+                    Cleveland High School                             $20M
+                  Ida B. Wells High School 1                          $20M
+                    Roosevelt High School                              $2M
+                 Educational Improvements
+                          Technology                                $128.2M
+                           Curriculum                                $53.4M
+                  Special Education (SPED)                           $13.4M
+               Physical Facility Improvements
+                             Roofs                                   $65.7M
+                           Mechanical                                 $75M
+                            Security                                 $25.9M
+                            Seismic                                  $17.2M
+                Americans with Disabilities Act                      $33.8M
+                              Source: PPS-provided underlying eBuilder reports used for the May 2023 BAC Report.
+      Note A: This exhibit only includes Bond dollars. Some subcomponents such as Technology and Curriculum had non-Bond funding
+       as part of its total project costs. All figures are original budget and are different than estimates at completion noted in Exhibit 3.
+                                                 Note 1: School formerly known as Wilson High School
+
+Costs for capital construction remain higher than expected across the industry and pandemic-related
+effects are still impacting projects including Benson High School’s MPG Building and Jefferson High
+School—but PPS has continued to persevere and deliver bond work as pledged. Yet, both the CBSE and
+technology areas were experiencing schedule issues as described later in this report in addition to the
+capacity and mechanical projects undergoing scope changes as discussed in detail in the sections that
+follow.
+
+Program Contingency will Pay for Increased Escalation Costs at Jefferson High School
+In December 2022, staff reported to the PPS Board of Directors (Board) that the estimated budget for the
+Jefferson High School Project increased $55 million from the bond approved amount of $311 million to
+$366 million. PPS obtained third-party cost estimates that were 16 to 20 percent higher than original
+estimates—which was attributed to escalation.11 Auditors reviewed national construction escalation reports
+from Rider Levitt Bucknall (RLB), a construction consulting firm specializing in cost estimation, and found
+that RLB’s escalation aligned with what PPS reported to the Board for the same period.
+
+PPS plans to use $55 million, or 59 percent, of its $93.3 million 2020 Bond program contingency to cover
+the additional cost for the Jefferson High School project, leaving approximately $38 million, or 41 percent,
+
+11 The 16 to 20 percent cost increase reflects changes in external cost estimates between February 2020 and November 2022.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                     Page |8
+of the program contingency left for other 2020 Bond needs.12 Although PPS intentionally set aside a large
+program contingency amount for the 2020 Bond projects as shown in Exhibit 5 so that more funds are
+available for unexpected circumstances, there is still a risk that there will be a shortage of funds as the
+bond program progresses—especially if high escalation in the market and other labor or supply conditions
+continue as other unexpected challenges arise. Nonetheless, as of the end of audit fieldwork on June 30,
+2023, contingency funds remained available nearly three years into the timeframe of the 2020 Bond
+program.
+
+          EXHIBIT 5. COMPARISON OF BOND CONTINGENCY AMOUNT ACROSS THE 2012, 2017, AND 2020 BONDS
+                                                               Percent                       Percent                      Percent
+                                                   2012        of Total         2017         of Total         2020        of Total
+                                                                Bond                          Bond                         Bond
+               Program Admin                                                    $20M          2.5%          $63.1M         5.2%
+                                                 $84.5M 1         18%
+                 Contingency                                                    $40M          5.1%          $93.3M         7.7%
+            Total Administration &
+                                                 $84.5M 1         18%           $60M           7.6%        $156.4M          13%
+                 Contingency
+             Total Bond Amount                    $482M                        $790M                        $1.208B
+               Source: 2012 Bond Fact Sheet, 2017 Bond FAQ, 2020 Bond Project Overview at https://www.pps.net/Page/17502
+ Note 1: In 2012, these amounts were combined into a category titled “program costs” and included items such as required reserves, materials
+and labor cost escalation, bond issuance costs, improvements, and transportation to buildings where students attend while school is renovated.
+
+Scope Expansion Related to Capacity Improvement Projects Appear Reasonable and Other Bond
+Funds and Program Contingency will Cover Additional Costs
+At the time PPS was selecting projects and estimating costs for the 2020 Bond, PPS included “capacity”
+improvement funds to pay for activities supporting its evolving student capacity and enrollment—though at
+the time no specific capital improvements or unique sites were designated.13 The November 2020 Bond
+passed by voters included $10 million set aside for this purpose. As PPS progressed with its student
+capacity and enrollment planning, it allocated approximately $6 million of the planned $10 million capacity
+funds as part of a project that PPS’ department of Facilities & Asset Management (FAM) had already
+started for a program at Terwilliger Elementary School know as Acceleration, Community, Creativity,
+Equity, Service, and Self-Sufficiency (ACCESS). 14
+
+PPS allocated the remaining approximate $4 million to the Harrison Park K-8 School project, a K-8 school
+that PPS is converting to a middle school in accordance with Board direction. In fact, six months after the
+2020 Bond passed, the PPS Board-commissioned Southeast Guiding Coalition (SEGC) started developing
+a plan in May 2021 for student enrollment and program balancing in Southwest Portland to address
+changing capacity and enrollment needs in the region and provided a number of recommendations to the
+Board, including converting the Harrison Park K-8 School into a middle school and providing necessary
+budget support for capital improvements and programming.15 The Board of Education adopted the SEGC
+
+12 The remaining contingency amount is as of the May 2023 Bond Accountability Committee (BAC) report and does not include contingency set
+
+aside for the Harrison Park Middle School project. PPS provided the budget for the Harrison Park Middle School project after the end of audit
+fieldwork in July 2023.
+13 Based on information in the 2020 Bond Budget Summary to the Board of Education from the Chief Operating Officer, July 13, 2020.
+
+14 ACCESS is an alternative academic program designed for highly accelerated students in grades 2-8.
+
+15 The SEGC is a group of 36 parent and community member volunteers and 21 PPS principals commissioned by the PPS Board of Education.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                Page |9
+charge as PPS progressed through its boundary redrawing process. Because of its unique position as a
+site already slated for planned 2020 bond improvements, including mechanical upgrades and security, and
+its identification as a high need school in the 2021 Long Range Facility Plan, PPS chose the Harrison Park
+K-8 School as one of the school sites to receive 2020 capacity funds. According to PPS executive
+leadership, no other school sites were in the same position as Harrison Park School to be selected for
+conversion to a middle school. Thus, PPS allocated more than $4 million of bond capacity funds to the
+Harrison Park Middle School project for modernization improvements upgrading the heating-ventilation-air
+conditioning system, adding science classrooms, installing security cameras, and modernizing spaces for
+middle school students.
+
+Yet, the Harrison Park Middle School project’s total estimated cost was over $42.6 million as of July 2023—
+more than $38 million greater than the capacity funding allocated to the site because of additional needed
+work to meet middle school education specifications. The total project activities and related costs do not
+equate to a full modernization of the site, though the work will significantly upgrade the school. PPS will use
+$12.7 million from four other individual 2020 Bond categories for work at Harrison Park —special education,
+mechanical, security, and technology—as shown in Exhibit 6. The remaining $25.6 million will be paid by
+the 2020 Bond program contingency funds.
+
+                   EXHIBIT 6. HARRISON PARK MIDDLE SCHOOL FUNDING SOURCES AS OF JULY 2023 A
+                                               Original Bond                                          Percent of Bond
+        2020 Bond Fund Category                                                Amount
+                                            Subcategory Amount                                         Subcategory
+        Capacity                                  $10 million                $4.4 million                 44.0%
+        Special Education                        $13.4 million              $308 thousand                  2.3%
+        Mechanical                                $75 million                $11.5 million                15.3%
+        Security                                 $25.9 million              $52 thousand                   0.2%
+        Technology                              $128,2 million              $856 thousand                  0.7%
+        Bond Program Contingency                 $93.3 million               $25.6 million                27.4%
+                                           Total Estimated Budget           $42.7 million
+                            Source: eBuilder Cost Report for Harrison Park, May 2023 Report to the BAC.
+                                        Note A: Amounts rounded to the nearest thousandth.
+
+The portion of funding allocated to the Harrison Park Middle School project from the other 2020 Bond
+subcategories was less than three percent each for the special education, security, and technology
+categories—and, thus, minor changes compared to the overall subcategory amounts. Though the funding
+from the mechanical subcategory was more significant at over 15 percent, this appears reasonable given
+that the Harrison Park Middle School was one of the top high-priority sites slated for mechanical
+improvements recommended by the 2022 Mechanical Systems Capital Planning Assessment that aided
+PPS in selecting sites for 2020 mechanical bond fund improvements. Moreover, the 2020 Bond Budget
+Summary presented to the Board on July 13, 2020, by the Chief Operating Officer noted that staff
+recommend that the 2020 Bond include a robust program contingency and flexible bond language that will
+allow contingency funds to be allocated to capacity and enrollment needs if necessary.
+
+
+
+
+SJOBERGEVASHENK                                                                                                        P a g e | 10
+Although Other Delivery Challenges Occurred, PPS Alternate Actions Taken Met Intent Behind
+Bond Commitments While Not Compromising Delivery of Overall Bond Program
+Four other 2020 Bond categories—mechanical, roofs, technology, and the Center for Black Student
+Excellence (CBSE)—experienced delivery challenges with individual project improvements initially
+envisioned, although improvements in each category were generally still able to fulfill delivery outcomes in
+line with initial bond plans with some adjustments to schedule and budget.
+
+One 2020 Bond subcategory experiencing delivery challenges was the mechanical category. PPS
+proposed a $75 million budget to make significant mechanical repairs that included full system
+replacements and targeted replacements at approximately 15 of PPS’ highest priority sites, yet the cost for
+mechanical system replacements was significantly higher than estimated. This imbalance in costs was
+partly attributed to external consultant estimates that were too low and not fully made known until 2022
+when PPS had estimated that half, or $40 million, of its $75 million planned budget would be spent
+replacing mechanical systems at just four school sites. Given the extraordinary costs, PPS made the
+decision in fall 2022 to adjust its approach to provide various robust mechanical system control upgrades
+and component replacements to allow systems to appropriately function across more school sites rather
+than full system replacements at just a small handful of sites. 16 Though this alternate plan will not deliver
+full system replacements to 15 high-priority sites as initially planned, PPS staff stated that providing control
+upgrades at more sites will still partially address the bond’s intent to improve temperature control and air
+quality in classrooms.
+
+Roof projects are another 2020 Bond subcategory that also experienced higher than expected costs. The
+original budget for roofs was $65.7 million. As of May 2023, the estimated cost to deliver the initial planned
+scope of the project grew by $4.9 million—attributed to bid overruns. The cost overrun will be covered by
+program contingency. With both the mechanical and roof categories, PPS endeavored to deliver as many
+improvements with allotted bond budgets as possible. The facility improvement needs at PPS exceed the
+available funding as was the case during prior bonds. For the 2017 Bond, the funding for health and safety
+projects were a pool of funds to spend—knowing that PPS must judiciously use limited resources to provide
+as many improvements as possible but will not address all existing needs. Similarly, while each type of
+facility improvement in the 2020 Bond like roofs has a designated budget to spend, market conditions may
+impact costs and require additional budget to address critical facility improvement needs. The impact is that
+PPS is not able to deliver as much as planned for its investment—though it is still addressing physical
+improvements in line with the 2020 Bond intent.
+
+In another instance, projects in the technology 2020 Bond subcategory were delayed by a year, with
+projected end dates extending to 2026 rather than the original completion date by 2025. Details on the
+cause of the delay are provided in Section 3 of this report. Further, the CBSE also experienced delays with
+design and engagement planning delayed two years from baseline plans. PPS made progress with its
+CBSE concept outside the bond program, but still had not identified what capital improvement projects will
+
+16 Full system upgrades would entail replacing entire underlying machinery behind a heating, ventilation, and air condition cooling
+
+system. Although control upgrades do not provide improvements that are as extensive as full mechanical replacements, they
+have a direct impact on heating and ventilation to improve the classroom climate, provide energy cost savings, and reduce
+maintenance requests.
+
+
+SJOBERGEVASHENK                                                                                                     P a g e | 11
+be delivered within the CBSE concept using bond funds. Additional details related to CBSE are discussed
+in Appendix A, Status of Prior Performance Audit recommendations. Although these two 2020 Bond
+subcategories experienced delays, they are still progressing to meet the intent behind bond plans.
+
+Recommendations
+No recommendations noted.
+
+
+
+
+SJOBERGEVASHENK                                                                             P a g e | 12
+Section 2: Career Learning Equity Program is Inadequate to Meet
+Stated Objectives
+
+The Program Overview section in PPS’ Career Learning Administrative Directive (AD) states that through
+PPS’ existing Career Pathways/Career and Technical Education Program (CTE), the District will help
+students connect classroom learning to real-world applications, expose them to a variety of career options,
+provide programming with modern skills, and support district milestones for college and career-readiness.
+The key components of PPS’ approach focus on career awareness, exploration, and preparation.
+
+Despite this charge being in place since 2013, PPS has not established or implemented a dedicated,
+structured program to meet elements outlined in the AD. While some protocols and practices existed, they
+were sparse and not sufficient to support PPS’ goals to increase the number of young women and students
+of color participating in career learning opportunities. PPS also did not set targets and metrics to measure
+its progress against objectives and report outcomes as outlined in the AD. As such, PPS is unable to
+determine if it met its AD objectives.
+
+At the time the AD was adopted, a staff report to the PPS Superintendent noted that staff were researching
+the costs, systems, and resources to support the program—specifically for data management and
+reporting. To date, PPS has not allocated specific resources to this program. 17
+
+PPS Did Not Have a Structured Program in Place to Meet Career Learning Objectives
+The Career Learning Program sought to be an extension of existing efforts led by PPS’ existing Career
+Pathways/CTE providing learning opportunities for students. Although PPS leveraged CTE staff knowledge
+and the use of CTE’s Partner Connect automated system to track career learning opportunities as part of
+implementing the AD, there was no structured program approach in place with assigned process owners,
+sufficient protocols, and clear procedures to implement the AD as described.
+
+To initiate program implementation efforts, CTE staff collaborated with Purchasing and Contracting (P&C)
+staff in employing steps as shown in the bullets that follow.
+     ✓ Included career learning program requirements into contractual obligations for applicable contracts;
+     ✓ Operated an online database through Partner Connect where contractors and PPS staff could
+       coordinate to provide learning opportunities to students;
+
+
+
+17 In response to the audit draft report, PPS reported that staff have begun accessing its efforts and developing collaborative
+
+process to support the Career Learning Equity Program including improvements to program management, intradepartmental
+coordination and compliance reporting, and regular planning meetings to talk through engagement strategies and actions.
+Reported progress involved updated Partner Connect architecture to tag and organize partner organizations, evolved event
+management process to better identify opportunities offered, and additional events such as monthly career learning sessions and
+vendor open houses on career opportunities. Other improvements PPS reported were development of a partner menu to help
+organizations understand involvement opportunities and the process to sign up, plans to create a visual data dashboard and
+custom report to provide “real-time” review of impact of the Career Learning Program, and training for career coordinators on the
+program foundation and how to access or contact potential partner organizations.
+
+
+SJOBERGEVASHENK                                                                                                      P a g e | 13
+     ✓ Entered contract data into Partner Connect; and
+     ✓ Tracked and reported certain career learning information annually to the Board.
+
+However, roles and responsibilities for implementing the program were not designated to specific PPS
+departments, offices, and staff—leading to uncertainty on who was responsible and inaction on key steps to
+execute the AD. The AD broadly states that PPS school-based staff will implement the program with full
+consultation and alignment with the existing CTE program.18 Although certain reporting duties to capture
+data and report career learning participation were assigned to CTE staff in partnership with P&C, more
+critical, discrete activities for implementation—such as managing contractor compliance—were not
+specifically assigned. In interviews with CTE, P&C, and OSM staff, there was no consensus on which
+departments and staff should be assigned responsibilities for those areas shown in Exhibit 7.
+
+                   EXHIBIT 7. SPECIFIC CAREER LEARNING ADMINISTRATIVE DIRECTIVE RESPONSIBILITIES
+
+                                                           Responsibility
+
+                                                  Ensure applicable contractors register on Partner
+                                                  Connect and offer required number of learning
+                                                  opportunities
+
+                                                  Ensure applicable contractors coordinate with PPS
+                                                  career coordinators to plan, schedule, and conduct care
+                                                  learning activities.
+
+                                                  Manage, track, and report on contractor and student
+                                                  participation. Tracking and reporting will include
+                                                  disaggregation of participating contractor and student
+                                                  demographics by race, ethnicity, gender, school, and
+                                                  program as well as school and program-based
+                                                  categories.
+
+                                                  Seek to develop processes and resources to expand the
+                                                  program to middle school students
+
+                                   Source: Auditor generated based on Administrative Directive 8.50.098.
+
+As a result, no active PPS management of the program occurred to ensure program benefits are delivered
+as expected, activities are coordinated, and results can be tied to goals. 19 Managers should monitor
+progress, control the work of producing the results, respond to the impact of environment changes by
+adjusting plans as needed, and measure success against the organization’s stated goals. To apply these
+principles to the Career Learning AD in pursuit of PPS’ goals, staff could demonstrate appropriate,
+sufficient, and active program management with activities such as managing and monitoring contractor
+compliance by verifying if contractors registered on Partner Connect as contractually required and offered
+
+18 PPS school-based staff are College and Career Coordinators or College Counselors housed at each of PPS’ high schools.
+
+19 Project Management Institute (PMI) 6th Edition of the Guide to the Project Management Body of Knowledge (PMBOK).
+
+
+
+
+SJOBERGEVASHENK                                                                                                           P a g e | 14
+required opportunities, coordinating with career counselor staff to provide targeted programming for
+intended student beneficiaries, and managing and reporting disaggregated data as described in the AD.
+Some examples of expected project management steps are shown in Exhibit 8.
+
+        EXHIBIT 8. PROGRAM MANAGEMENT NEEDED TO IMPLEMENT CAREER LEARNING ADMINISTRATIVE DIRECTIVE
+
+
+
+
+                        Source: Auditor generated based on analysis of Career Learning AD and best practices in the
+             Project Management Institute (PMI) 6th Edition of the Guide to the Project Management Body of Knowledge (PMBOK).
+
+The AD described the general scope of work of the program and objective, but neither the AD nor other
+PPS protocols and procedures clearly operationalized what steps were needed to fulfill the scope of work,
+delegated specific roles and responsibilities and process owners, nor detailed the structure of the program.
+Additionally, PPS could not demonstrate intentional effort toward PPS’ goal of increasing the numbers of
+students in career learning programs particularly as it targets young women and students of color. Without
+intentional intervention, the status quo will be perpetuated—although some efforts were recently started.20
+Specifically, during our audit fieldwork, PPS’ newly hired Certified Business Program Manager began
+discussions with CTE staff on what steps could be taken to re-energize the career learning program.
+
+PPS Is Unable to Determine if It Met Career Learning Equity Goals Because It Did Not
+Set Targets or Adequately Track Outcomes, Though Some Data Were Available
+Though PPS set forth an objective in its Board Policy as operationalized through the AD to expand the
+number of young people of color and young women participating in a variety of career learning programs, it
+did not define quantitative targets or measurements by which it would determine whether it met its
+
+20 According to the Government Alliance on Race and Equity’s “Racial Equity Toolkit: An Opportunity to Operationalize Equity”. The
+
+Government Alliance on Race and Equity is a national network of governments working to achieve racial equity and advance opportunities for
+all. It was launched by the Hass Institute for a Fair and Inclusive Society at the University of California Berkely in early 2014 and has over 400
+members at the state, local, and regional government level.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                    P a g e | 15
+objective. The AD also states that PPS staff will manage, track, and report on contractor and student career
+learning participation, which must include disaggregation of participating contractor and student
+demographics by race, ethnicity, gender, school, and program-based categories. This language describing
+how career learning participation should be tracked and reported reasonably relates back to PPS’ objective
+to expand the number of participating young people of color and women in its programs. Yet, PPS is unable
+to determine if it met its goals because those specific targets were not set, and staff lacked direction on
+how to track and report disaggregated metrics.
+
+In the absence of targets or sufficient direction, PPS only reported the number of contractors that were
+registered in Partner Connect as its record of program outputs and did not track meaningful data to
+measure toward its objectives. While PPS had access to some disaggregated contractor and student
+participation data starting at least as early as 2019, it did not measure and report on the career learning
+equity participation objective described in the AD. For instance, in the most recent fiscal year 2021-2022
+annual Equity in Purchasing and Contracting update to the Board, PPS reported that cumulatively since the
+start of the tracking system there were 115 unique contractors registered since 2018 to provide career
+learning activities to PPS students—with those contractors representing 215 separate contracts.21
+Reporting on the number of contractors registered to provide opportunities and the respective number of
+contracts does not indicate whether targeted students participated in programs nor whether the numbers of
+participating students were expanded.
+
+According to PPS staff, some disaggregated data of participating students, contractors, demographics, and
+other related information were available across a combination of databases including PPS’ Partner
+Connect, PPS’ Cobblestone Contract Management system, and PPS’ B2G Certified Business payment
+tracking system.22 However, staff stated that these data would have to be manually sorted, organized,
+analyzed, and tracked live at the time of analysis to produce meaningful data for assessment and reporting
+against the AD objectives because data continually updates in real time. Reviewing, managing, and
+reporting these types of data would require staff resources to produce meaningful analyses. Moreover, staff
+did not know if all needed data was captured and available through these existing systems or if other
+supplemental data would need to be captured. Data needs would depend on what targets PPS wants to
+establish to measure program efficacy.
+
+Staff informed us that the general charge of the AD has operated in practice as an unfunded mandate—
+where no resources have been formally allocated for its stated work though the AD set the foundation for
+the program and a 2013 staff report to the Superintendent acknowledged that research was needed on cost
+estimates, systems, and resources to support the program—specifically for data management and
+reporting. To date, PPS has not allocated specific resources to this program. If resources were dedicated,
+PPS staff could work with existing disaggregated data from the different systems to perform more in-depth
+analysis and gauge whether PPS is meeting intended objectives and considering questions such as, but
+not limited to, the following:
+
+
+
+21 Auditors were not able to validate figures reported for career learning in annual EPPC reports because CTE staff noted that those figures
+
+were point-in-time shared informally in preparation for the annual reports, but underlying data was not maintained.
+22 B2G would allow PPS to link firms with specific backgrounds to specific student interest for career learning opportunities.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                P a g e | 16
+     ✓ Are students interested in specific career fields being connected to contractors who hold that
+       expertise?
+     ✓ Which types of students (e.g., by gender, grade, race, etc.) are participating and benefiting most
+       from AD career learning opportunities?
+     ✓ Which type of career learning experiences are most prevalent, and which experiences do students
+       need to better access?
+
+Results from that type of data analyses could be used to modify program strategies, as needed, to help
+meet equity objectives. However, PPS would need to evaluate the costs, benefits, and workload it would
+require to sufficiently resource the program to gain intended outcomes.
+
+Further, staff would need to validate any data used from PPS’ three systems, or any other sources, for
+accuracy and reliability. For instance, PPS staff informed us that school site career counselor staff can
+engage contractors directly outside of the Partner Connect system—resulting in some career learning
+engagements not being captured in the system or counted as progress toward meeting the AD equity
+goals. 23 Before relying on data from Partner Connect, PPS should work with school contacts to refine
+business processes surrounding the capture of equity opportunities into the appropriate designated
+systems prior to dedicating resources to target setting, data collection, and improved reporting.
+
+Thus, while having data available is a good starting point, PPS would need to invest some additional time
+and resources to strengthen its use for outcome measurement and reporting. As is, PPS is unable to verify
+whether PPS met its objective to expand the number of young people of color and young women
+participating in a wide variety of career learning programs.
+
+Although Not Broadly Tracked, Some Career Learning Opportunities Did Occur
+While comprehensive data were not readily available to verify and summarize the breadth of career
+learning opportunities that occurred during the audit period, auditors found examples of contractors and
+consultants providing learning opportunities on Bond projects.
+
+For instance, for a 2020 Bond roof project, auditors reviewed evidence that a woman-owned architectural
+firm provided 5-week internships for six students in the summer of 2023. The internship was described as a
+hands-on learning experience about careers in architecture and interior design that follows the traditional
+phases of a project from conception to construction. Completing the internship provided students work-
+based learning, eligibility to apply for a college architecture scholarship, and minimum wage pay.
+
+Internships were also provided by the general contractor for Lincoln High School, one of the 2017 Bond
+modernizations. The internship advertised a firsthand experience learning how the new school was being
+built—particularly in how engineering and construction overlap on a major construction project. The same
+general contractor also provided construction management classes during the 2021-2022 school year.
+Auditors reviewed sample PowerPoint presentations used in the classes and found that materials were
+
+23 No enforcement mechanism exists in the AD to require school career counselors to comply with AD-specific Career Learning Program
+
+requirements.
+
+
+SJOBERGEVASHENK                                                                                                           P a g e | 17
+robust, detailed, and included practical and realistic content for students interested in construction careers
+including overviews of project cost controls, developing construction estimates, jobsite record keeping,
+union versus non-union benefits, and more.
+
+While no data was available to comment on contractor or consultant impact on students’ career learning
+during the audit period especially as it related to the target beneficiaries of the Career Learning Equity AD,
+these examples demonstrate efforts by PPS and its contractors to implement the AD charge and provide
+career benefit to students.
+
+Recommendations
+As PPS leverages its connections with the local contractor and consultant community involved with the
+school improvement bonds to connect with its career learning equity objectives, it could consider:
+    1. Researching and assigning the resources needed to implement a structured Career Learning
+       Equity Program that has clearly designated roles and responsibilities, protocols for coordination,
+       contractor and consultant management, and data management and reporting, and set targets to
+       track outcomes.
+    2. Alternatively, PPS could revise the Administrative Directive to limit the scope of the Career
+       Learning Program to more appropriately align with the district’s capacity.
+
+
+
+
+SJOBERGEVASHENK                                                                                   P a g e | 18
+Section 3: Practices Were in Place to Ensure Bond Curriculum and
+Technology Improvements Will be Delivered as Intended, with
+Cost and Scope Challenges Being Mitigated
+
+For the 2020 Bond, PPS expanded its scope of bond-funded work to include improvements to curriculum
+and technology assets—a first for work implemented through its School Improvement Bonds. As the newly
+involved Office of Teaching and Learning (OTL) and the Office of Technology & Information Services
+(OTIS) managed bond work alongside OSM, it is critical that both offices had a framework for establishing
+and monitoring bond funds and plans, were appropriate stewards of bond funds, and delivered pledged
+work as planned.
+
+Although both OTL and OTIS bond projects experienced scope and compensability challenges that
+required the leveraging of PPS general funds to supplement bond funding, both curriculum and technology
+projects were generally on target to be delivered as planned. We found that OTL and OTIS had strong
+frameworks in place to manage bond funds and work, used pragmatic tools and systems to monitor
+progress, and had documented methodologies for decision-making. Both offices also established metrics
+for measuring success of their respective work to ensure bond funds were achieving intended benefits—
+though actual results were not yet available for review.
+
+Framework to Manage Curriculum and Technology Bond Work Was in Place
+Appropriate management of bond-funded implementation is important to provide assurance that taxpayer
+funds are being expended in alignment with the promised commitments—and that students and other PPS
+stakeholders are receiving the intended benefits. We found that both OTL and OTIS had an appropriate
+framework in place for management and oversight including clear roles and responsibilities, the use of
+pragmatic tracking and monitoring tools, formalized processes and controls for physical equipment
+inventory management, and strategic communication of roll-out plans to end-users.
+
+Roles, Responsibilities, and Coordination Meetings Were Established to Administer Bond Projects
+The 2020 Bond expanded improvement projects to include not only traditional capital improvements and
+modernization of physical school buildings, but also funding for educational curriculum and technology
+improvements. With these new project scopes, PPS had to establish protocols for coordination,
+communication, and clear distinction of roles and responsibilities between multiple PPS departments to
+ensure improvements were delivered in line with bond commitments.
+
+As the office responsible for ultimate oversight of bond funds, OSM led OTL and OTIS in early discussions
+after the bond passed to guide high-level decisions related to accountability and provided construction-
+related expertise for some technology projects. OTL and OTIS were responsible for the more granular
+decisions that fell within their areas of expertise, each with an office lead focused on decision-making and
+reporting in addition to key staff tasked with handling the day-to-day activities such as contract and cost
+management and preparing status reports for the Bond Accountability Committee. Because the technology
+scope required extensive work related to specific material determinations and inventory control, OTIS also
+
+
+SJOBERGEVASHENK                                                                                 P a g e | 19
+employed Northwest Information Services, an external consultant to help with project management,
+inventory management, and material ordering.
+
+Several coordination meetings were held between all PPS stakeholders. For instance, OTIS informed us
+they regularly held separate meetings with OSM staff to discuss eBuilder approvals for bond commitments
+requiring construction, along with director level check-ins to discuss budget, schedule, and scope. OTIS
+also held meetings with their external consultant to ensure the consultant managed its scope of work in line
+with bond commitments. Similarly, OTL also reported meeting with OSM as needed to check in on
+curriculum related items that fall under the purview of the Bond and met monthly with OTIS to discuss
+learning technologies where the curriculum and technology bond work overlapped. Finally, representatives
+from OTIS, OTL, OSM, and other applicable PPS office and department areas described meeting with the
+Bond Compensability Committee as needed to discuss whether certain expenses met criteria to be paid by
+bond funds. These efforts, assigning duties and responsibilities as well as coordinating aspects of the
+curriculum and technology bond commitments, provided an appropriate foundation for PPS to manage
+delivery of its 2020 Bond work.
+
+Bond Curriculum and Technology Decisions Considered Multiple Factors and Were Guided by
+Documented Analysis
+To meet broad 2020 Bond commitments related to curriculum and technology projects, both OTL and OTIS
+applied documented, analysis-driven methodologies to make implementation decisions to deliver
+improvements that best prioritized school needs and aligned with applicable state or district standards.
+
+A basic school technology infrastructure is critical for supporting communication and collaboration,
+productivity, standardized instruction, and increased student engagement. To determine the most
+significant areas of need, OTIS utilized building schematics, its internal record of existing district-wide
+technology infrastructure, and school site designations (e.g., Title l schools) to prioritize the technology
+needs across the district to place in the 2020 Bond. 24 For instance, OTIS described using building
+schematics to determine which classrooms had limited wireless access points where internet connectivity
+would be impaired to prioritize those schools for improvements. Based on those planned improvements,
+OTIS stated they use industry standard practices, talked with peer entities, consulted with teaching subject
+matter experts, and relied on its internal expertise to determine the best approach for selecting which
+technology solutions to implement.
+
+This resulted in documented rationale and consideration of factors including quantity, lifecycle and quality
+of products, and cost. For instance, quantity of assets such as Chromebooks were supported by analysis
+on student enrollment and teacher counts, breakage rates, and market support for supporting hardware
+such as cables. Analysis and consideration were given to product warranties, average longevity, and
+product quality. OTIS prioritized its improvements at schools using documented criteria that reviewed
+
+
+
+24 Title l, Part A (Title I) of the Elementary and Secondary Education Act of 1964, as amended by the Every Student Succeeds Act, provides
+
+federal financial assistance to local educational agencies to help ensure disadvantaged students meet state academic standards. Designations
+like Title l help distinguish underserved school sites that PPS considers when determining priority of school sites that will receive capital
+improvements.
+
+
+SJOBERGEVASHENK                                                                                                              P a g e | 20
+historically underserved communities, sites that had not received prior modification, and other factors to
+group schools by need.
+
+Likewise, OTL put steps in place to ensure it efficiently delivered needed bond improvements for its
+curriculum to support the goal of full compliance with state curriculum mandates that covered all teaching
+materials associated with a specific subject’s curriculum adoption. For each curriculum subject category,
+OTL allocated budget and made purchase decisions using a multitude of factors including enrollment
+numbers, average estimates from vendors, and historical price information.
+
+Solid Tools Were Used to Monitor Funds and Oversee Delivery
+To track the use of 2020 Bond funds for curriculum and technology improvements, PPS used various
+electronic tools. For instance, like with the school modernization projects, both the curriculum and
+technology teams used eBuilder to track and authorize purchase order payments, contracts, and monitor
+project delivery metrics related to budget, schedule and scope. For technology, the scope of work included
+both purchasing items as well as more complex installation, related to Wi-Fi and fiber upgrades for its
+capital improvement work. As such, OTIS coordinated with OSM and its external contractor to create
+contracts, process change orders, and review and approve initial contractor invoices through eBuilder.
+
+In addition to eBuilder, both OTIS and OTL staff maintained separate files to manage and monitor bond
+work using Smartsheet and Google Sheets, respectively. For instance, OTIS and its consultant maintained
+multiple Smartsheet spreadsheets to monitor project schedule and completion status, inventory receipt, and
+infrastructure deployment and installation. In fact, one of these Smartsheet trackers was used for a public-
+facing dashboard that provided live status updates on bond technology improvements by site and type of
+improvement such as device replacement or classroom technology, in addition to percentage complete and
+general work in progress as shown in Exhibit 9 that follows.
+
+Similarly, OTL used a Google Sheets tool to keep a progress log of bond curriculum improvements. This
+included status updates on each subcategory of curricula by grade, subject, contract, purchase order,
+schedule, and budget—which separated bond and non-bond funding sources used to pay for project
+components. Overall, these tools seemed effective to monitor and manage the progress of curriculum and
+technology bond projects.
+
+
+
+
+SJOBERGEVASHENK                                                                                  P a g e | 21
+       EXHIBIT 9. EXAMPLE OF PUBLIC-FACING DASHBOARD SHOWING STATUS OF TECHNOLOGY PROJECTS
+
+
+
+
+                Source: OTIS’s public-facing Smartsheet Dashboard of 2020 Technology project progress:
+                 https://app.smartsheet.com/b/publish?EQBCT=d0c4b16d3e9b42d0ba1161df50a2dd97
+
+
+
+
+SJOBERGEVASHENK                                                                                         P a g e | 22
+Processes and Controls Existed to Manage Inventory of Improvements
+After bond purchases are made, PPS described that physical equipment and curriculum often must be
+stored until they are ready for deployment. We found that both OTL and OTIS had processes and controls
+in place to track and store curriculum and technology purchases. OTL uses an automated inventory
+management software product to capture material types, teacher guides, and student textbooks for
+inventory levels. This system assists staff in managing instructional material over a lifecycle for curriculum
+adoption and materials distribution. Although not part of a specialized software product, OTIS used
+Smartsheet to similarly capture the receipt, transfer, and deployment of technical gear at school sites using
+serial numbers and quantities.
+
+Communication of Planned Curriculum and Technology was Thorough and Transparent
+Like school modernizations, the 2020 Bond curriculum and technology improvements have direct impacts
+on school site stakeholders, making it important for PPS to communicate progress, challenges, and
+activities to its community. Our review found that that both OTL and OTIS followed strong protocols to
+ensure the end users are kept aware of improvements planned and delivered. With curriculum, OTL worked
+closely with teachers as part of the curriculum selection process allowing the educators to be familiar with
+specific materials before teaching the curriculum to students. OTL also provided teachers with written
+implementation expectations that were reinforced through districtwide professional learning in addition to
+support plans for schools that felt overwhelmed or challenged with curriculum implementation.
+
+For technology, OTIS provided roll-out plans prior to and during technology implementations at school sites
+that included meeting with and providing updates to school principals and staff members to discuss project
+scope, schedule, walk-through of improvements, and a weekly look-ahead to detail specific classrooms for
+upcoming improvements. OTIS solicited feedback and concerns from its school stakeholders and provided
+webpage updates highlighting milestone progress and videos of improvements. Moreover, OTIS provided
+school principals with training materials on using the new technology and answers to frequently asked
+questions.
+
+Both OTL and OTIS provided budget and schedule status updates quarterly to the BAC and presented a
+detailed status update by subcategory annually. These combined efforts demonstrate good faith efforts to
+be transparent to taxpayers and the greater PPS community.
+
+Technology and Curriculum Projects are on Target to be Delivered as Pledged and
+Supplemented by PPS General Funds
+The 2020 Bond intended for PPS to spend up to $128.2 million in bond funds for technology improvements
+to provide needed critical upgrades for outdated systems and up to $53.4 million in bond funds for
+curriculum improvements to get PPS in compliance with state educational requirements. Our review found
+that OTL and OTIS are on track to deliver pledged improvements—though some technology work will be
+slightly delayed, and both offices needed general funds to supplement budgets due to higher than
+estimated costs and bond compensability determinations.
+
+
+
+
+SJOBERGEVASHENK                                                                                  P a g e | 23
+Curriculum Bond Project Spending and Schedule are Progressing as Planned
+As of February 2023, OTL has spent approximately $38.1 million, or 71 percent, of its $53.4 million allotted
+bond funds as shown in Exhibit 10. OTL stated it expected to spend all curriculum bond money by Fall
+2024 with all materials in place for the fall 2024 school year. This delivery timeline is in alignment with the
+baseline schedule of final curriculum planned to be implemented by end of 2024. No notable changes in
+scope occurred, and the curriculum budget remained on track through the supplemental addition of general
+funds. Because the 2020 Bond curriculum funds were intended to be spent on purchased assets—in
+contrast to other bond capital delivery projects that require installation or construction—bond pledges will
+be fulfilled once OTL makes its planned purchases. Moreover, once all purchases are made, PPS will be
+compliant with the Oregon Department of Education curricula standards for seven years from the start of
+each subject implemented.
+
+             EXHIBIT 10. 2020 BOND CURRICULUM BUDGET AND SCHEDULE STATUS, AS OF FEBRUARY 2023
+
+             2020 Bond Curriculum             Bond           Actual         Estimated
+                                                                                                    Reported Status 2
+                 Components 1                Budget       Expenditures      Completion
+      Climate Change 3                        $1M              N/A              2023              On Target. In-Progress
+
+      Digital Toolkit 4                        N/A            $6.2M             2022                     Complete
+
+      Health                                  $1.3M           $0.2M             2024              On Target. In-Progress
+
+      Humanities                             $12.8M           $17M              2024              On Target. In-Progress
+                                                                                                  Grades K-5: Complete
+      Math                                    $6.5M           $8.3M             2023        Grades 6-12: On Target. In Progress
+      Physical Education                      $2.5M           $0.7M             2023              On Target. In-Progress
+
+      Science                                 $6.7M           $2.8M             2024              On Target. In-Progress
+
+      Social Emotional Learning               $1M             $0.3M             2024              On Target. In-Progress
+
+      Visual and Performing Arts              $5.7M           $1.2M             2024              On Target. In-Progress
+
+      Unallocated Curriculum Funds 5         $13.9M            N/A              N/A                         N/A
+      Curriculum Program
+                                              $2M             $1.4M             N/A                         N/A
+      Administration
+                      Totals                      $53.4M           $38.1M
+     Source: 2020 BAC Bond Curriculum Status Update from February 2023. Note that this was the most recent status report that displayed
+     detailed funding information.
+     Note 1: Subcategories of the 2020 Curriculum projects were recategorized to make them more easily understandable and to simplify
+     reporting. The categories in this exhibit reflect the most recategorizations.
+     Note 2: Complete means that curriculum is currently being taught to students.
+     Note 3: The Climate Change curriculum commitments were folded in Science and Social Sciences.
+     Note 4: The original bond subcategories – Integrated Learning, Learning Management Systems, Portfolio Management System and
+     Project-Based Learning – were folded into one category, Digital Toolkit.
+     Note 5: $10.5M of the initial planned Middle School Redesign project, found to be non-compensable, was folded in the Unallocated
+     Curriculum funds and eventually distributed to other adoptions, primarily Humanities, Digital Toolkit and Math.
+
+For instance, PPS has fully implemented its new Language Arts curriculum, which is part of the Humanities
+subcategory, for Grades K-12. As part of this implementation, students will have access to both upgraded
+textbooks and novel sets. Prior to this, some Language Arts materials had not been updated for more than
+
+
+SJOBERGEVASHENK                                                                                                           P a g e | 24
+a decade since 2010. Additionally, PPS is in the final stages of field-testing Social Sciences curriculum for
+Grades K-12, scheduled for implementation in the fall of 2023. This will provide significant updates to
+existing materials as Grades 9-12 Social Sciences have not been updated since the early 2000’s with
+existing materials not reflecting major recent historical events.
+
+Though no major schedule delays have occurred, some risks exist for the remaining curricula that is still
+being procured. Like others in the industry, OTL described facing supply-chain issues with curricula that
+strained schedules—particularly for mass produced items such as core textbooks. OTL staff stated they
+were able to mitigate past delays through the implementation of digital alternatives. If a curriculum adoption
+is delayed, OTL stated they will have the entire grade throughout the district continue using the existing
+curriculum until the ordered curriculum is available from suppliers.
+
+Technology Projects are Generally Progressing as Planned, Although Schedule and Scope were
+Impacted by Planning Issues
+The 2020 Bond Technology work was intended to provide broad critical updates to core technological
+infrastructure, classroom modernization, and purchased devices addressing outdated and vulnerable
+systems in place at the district for over two decades. While PPS did not plan or promise specific quantities
+of purchases or improvements at specific school sites, OTIS detailed the types of technology improvements
+it intended to deliver using bond funds as shown in Exhibit 11. 25
+
+As of May 2023, OTIS spent $70.3 million of its $128.2 million set aside in the 2020 bond for technology—
+or over half of its available funds. We found that the amount of technology funds spent was generally
+commensurate with delivery progress—with approximately half of available funds spent three years into
+OTIS’s estimated five-year delivery plan.26,27 OTIS has made notable progress on its technology delivery.
+For instance, OTIS purchased more than 80,000 individual devices for its planned device replacements
+with approximately 95 percent of devices made available for students. This means that every student in
+Grades 3-12 has their own Chromebook and that there is one Chromebook for every two students in
+Grades K-2. The remaining budget is reserved for “refresh” needs meaning that, should device breakage
+occur, these funds will be available to replace the broken devices.
+
+Activities related to infrastructure and security technology work are also progressing as planned with 99
+percent of the phone and data center improvements completed as well as Wi-Fi upgrades and fiber
+upgrades efforts in progress. Yet, OTIS experienced some challenges in the classroom technology
+subcategory that led to a one-year schedule delay as shown in Exhibit 11.
+
+
+
+
+25 As reported to the Board School Improvement Bond Committee on March 4, 2021.
+26 While overall status for Technology was available as of May 2023, budget values broken down by subcategory were only available as of
+
+February 2023 as shown in the following Exhibit.
+27 The 2020 Bond Conceptual Schedule dated December 7, 2020, estimated that by December 2025, all technology improvements would be
+
+completed.
+
+
+SJOBERGEVASHENK                                                                                                            P a g e | 25
+              EXHIBIT 11. 2020 BOND TECHNOLOGY BUDGET AND SCHEDULE STATUS, AS OF FEBRUARY 2023 A
+
+                                                                                                                Baseline
+                          Original                           Non-                                                              Estimated
+                                      Revised Bond $                      Actuals        Planned Scope         Completion
+                           Bond                             Bond $                                                             Completion
+                                                                                                                 Date
+       Program
+                           $23.2M          $27.5M            $2.3M         $1.6M                 -                   -               -
+     Administration
+                                                                                       Wireless access
+                                                                                       point, mounted
+                                                                                       projector, Chrome
+       Classroom                                                                       desktop computers,
+                            $25M           $23.7M           $50,000       $11.3M                                   2025            2026
+      Modernization                                                                    monitor, voice
+                                                                                       amplification,
+                                                                                       wireless display,
+                                                                                       projection surface
+                                                                                       Student
+                                                                                       Chromebooks,
+                                                                                       Admin Devices,
+        Device
+                            $31M           $38.7M           $35,000       $37.3M       Support staff               2025        Completed 1
+      Replacement
+                                                                                       desktops windows
+                                                                                       computers, Teacher
+                                                                                       pixel books
+                                                                                       Business process
+                                                                                       analysis,
+          ERP
+                                                                                       development of
+      Replacement           $11M          $250,000           $3.3M          $1M                                    2025            2023
+                                                                                       requirements,
+       Planning
+                                                                                       architecture, and
+                                                                                       RFP
+                                                                                       Wireless upgrades,
+                                                                                       data center server
+                                                                                       refresh, phone
+                                                                                       upgrades, security
+                                                                                       focused dashboard,
+     Infrastructure &
+                            $38M            $38M           $396,000       $12.8M       handsets, security          2025            2025
+         Security
+                                                                                       assessment, switch
+                                                                                       replacements, fiber
+                                                                                       interconnections,
+                                                                                       gym call box
+                                                                                       installations
+          Totals          $128.2M          $128.2M            $6M          $64M
+                                                 $134.2M
+                                           including Non-Bonds
+Source: Bond 2020 Technology Plan from March 4, 2021, presented to the School Improvement Bond Committee, February 2023 BAC Status
+Report, 2020 Bond Conceptual Schedule dated December 7, 2020
+Note A: The February 2023 BAC Status Report was used in lieu of the more recent, May 2023 BAC Status Report, because the February 2023
+report included budgetary breakdowns for each Technology category.
+Note 1: While all the pledged devices have been purchased, the remainder of the funds are part of the “refresh” budget, to replace items in case
+of breakage.
+
+Specifically, the classroom modernization scope of work committed that each classroom would have a
+whiteboard mounted to the wall for laser projections. OTIS, with its external consultant as the project
+manager implementing the scope, began work as early as May 2021 to install whiteboards over existing
+
+
+SJOBERGEVASHENK                                                                                                                P a g e | 26
+boards. In April 2022, PPS Leadership met with OTIS to propose an alternative plan which included the
+removal of older, existing boards to a more modern design look. Once it was discovered that the removal of
+existing boards required abatement of environmental hazards which would have increased the budget and
+schedule significantly, PPS revised its approach in January 2023 to eliminate the need for costly abatement
+and reduce potential hazardous situations by installing ceiling-mounted projectors with pull-down projector
+screens in front of existing whiteboards. While this scope differs from the original pledge, the revised plan
+still aligns with the intent of the original commitment that envisioned appropriate surfaces for projection.
+However, these changes led to the overall schedule being delayed until 2026 rather than the initial
+forecasted completion of 2025.
+
+To prevent future incidents, OSM, OTIS and its consultant put into place regular meetings to help all parties
+stay aligned ahead of time on major decisions.
+
+Both 2020 Bond Technology and Curriculum Scopes of Work Needed General Funds to Replace
+Non-Compensable Expenses
+Prior to the 2020 Bond, past school improvement bonds focused primarily on capital construction of
+buildings and capital projects to address health and safety needs such as asbestos and lead paint
+remediation in old structures. The 2020 Bond provided PPS the opportunity to include other asset areas
+into its bond scope to address overdue curriculum and technology needs that were tangible and
+capitalizable. 28 With it being PPS’ first time determining the allowability of items in new program areas to
+be charged to the bond, various planned improvement costs from both Curriculum and Technology were
+found by the Bond Compensability Committee to not meet PPS’ criteria for compensability. Other funds,
+primarily general funds, were used to pay for those non-compensable expenses. But even with these
+changes, PPS was still able to deliver its curriculum work to meet state compliance requirements and bring
+technology upgrades to the district as intended.
+
+In a presentation to the School Improvement Bond Committee on March 4, 2021, OTL reported that there
+was an estimated $18 million in non-compensable curriculum expenses needed to supplement the $53.4
+million in bond funds.29 These expenses deemed non-compensable included the cost of professional
+development for teachers, extended work hours related to the professional development, certain student
+field test materials, supplies, and workbooks. In addition to this, of the $53.4 million in bond funds, $14
+million or 26 percent was found to be non-compensable—the majority of which was originally imagined for
+Middle School Redesign that was found to be non-compensable and redistributed to Humanities, Digital
+Toolkit, and Mathematics. 30 Because this $14 million was repurposed within the overall bond curriculum
+
+28 According to the PPS Bond Compensability Guidance (developed to align with Generally Accepted Accounting Principles), tangible assets
+
+are those that have physical substance, including buildings, equipment, vehicles, land, and computers. Capital equipment and/or furnishings
+are movable or fixed assets that must be non-expendable and are tangible property with an expected lifespan of more than one year. A
+tangible asset needs to retain its original shape and appearance with use and represent a substantial investment of money. Intangible assets
+are those items without physical substance that also have an initial useful life of over one year. Common examples include computer software,
+easements, licenses, and websites.
+29 Data from February 2023 was the best available breakdown of non-bond funds for the Curriculum scope of work during our audit fieldwork.
+
+As of February 2023, the estimated need for non-Bond funds was slightly reduced to $17.7 million.
+30 The 2020 Bond Budget Summary provided on July 13, 2020, from the COO to the Board stated that the Middle School Redesign was an
+
+initiative to implement authentic, real-world learning experiences for students PK-12 including project-based learning, work-based learning, and
+problem-based learning opportunities. The bond funding for this redesign had been intended to provide necessary resources to engage in
+intentional teaching and learning experiences both virtually and in-person.
+
+
+SJOBERGEVASHENK                                                                                                                 P a g e | 27
+budget, students still received curriculum upgrades in other subject areas. Moreover, the non-compensable
+expenses did not have an impact on PPS’ ability to meet ODE compliance requirements.
+
+Similarly, within the technology bond category, PPS also identified planned expenses in its initial budget
+that were subsequently deemed non-compensable and OTIS reallocated funds within its budget. For the
+$11.1 million initially set aside for enterprise resource planning (ERP) replacement planning, $10.9 million
+was determined to be non-compensable and budgeted funds were reallocated to Technology Program
+Administration and Device Replacement categories within the overall Bond Technology scope of work. The
+reallocated amounts from ERP will fund other technology expenses in the Device Replacement
+subcategory that will provide a direct benefit to students and PPS staff—in line with the intent of the bond
+funds. Additionally, PPS allocated $6 million in general funds to pay for non- compensable items identified
+through 2021 across the five categories as shown in Exhibit 12.
+
+These non-compensability determinations were made throughout 2021—the first year that the 2020 Bond
+work was being implemented and bonds expended.
+
+                   EXHIBIT 12. BOND 2020 TECHNOLOGY NON-COMPENSABILITY ITEMS COVERED
+                                 WITH GENERAL FUNDS, AS OF FEBRUARY 2023 A
+                                                                                                                   Date of Non-
+                            General Funds
+        Category                                            Example Non-Compensable Item                         Compensability
+                               Added
+                                                                                                                  Determination
+                                                          Technology
+  Classroom
+                                $50,000          Teaching station desktop extended warranties                         7/21/2021
+  Modernization
+  Device Replacement            $35,000          Student laptop extended warranties                                   03/01/2022
+  ERP Replacement
+                                 $3.3M           All scope, except for initial planning research services             Spring 2021
+  Planning
+  Infrastructure &                               Storage area network hardware extended agreement                     7/13/2021
+                               $396,000
+  Security                                       Third party security assessment                                      4/21/2021
+                                                 PPS language access translations for Bond 2020 Tech
+  Tech Program Admin             $2.3M                                                                                 11/16/21
+                                                 website content
+   Total General Funds            $6M
+    2020 Technology
+                               $128.2M
+       Bond Funds
+   Grand Total Bond +
+                               $134.2M
+     General Funds
+
+                  Source: February 2023 BAC Report, Bond Compensability Committee (BCC) Meeting Minutes
+               Note A: Data is as of February 2023, when best available disaggregated data was provided to auditors
+
+
+PPS Identified Metrics to Measure Curriculum and Technology Improvement
+Success, With Outcomes and Results Still to be Determined
+To ensure that bond-funded improvements are providing value and the return on investment as intended,
+both OTL and OTIS identified several measures that were relevant and appropriate to gauge whether bond-
+funded curriculum and technology improvements were providing intended benefits to the District. However,
+actual results are not yet available.
+
+
+SJOBERGEVASHENK                                                                                                         P a g e | 28
+For nearly two decades, PPS has not been fully compliant with state curriculum requirements due to lack of
+resources to fund needed curriculum updates. The 2020 Bond provided an opportunity to make these
+overdue curriculum improvements and OTL identified ways to assess the efficacy of the improvements with
+a goal of measuring outcomes before and after OTL implemented the bond curriculum improvement.
+Specific outcome measurements have not yet occurred, but OTL plans to measure success through the
+following efforts:
+
+     ✓ Standardized Test Scores
+       As an educational institution, standardized test scores are one common method that PPS utilizes
+       to evaluate student impact. Although it is challenging to causally tie test scores to a specific bond-
+       funded curriculum improvements, the Oregon Statewide Assessment System administers annual
+       assessments by subject matter and grade that can be utilized to help assess the impact of
+       curriculum enhancements before and after the new adoptions take effect.
+
+     ✓ Stakeholder Feedback
+       OTL plans to collect feedback from principals and teachers through classroom observations,
+       surveys, and samples of work to assess effectiveness of curriculum at pilot sites over a defined
+       interval. OTL’s goal is to engage approximately 5 percent of teachers and classroom or more in
+       participation, across all grade levels for which the curriculum is being taught and use that feedback
+       to include in curriculum recommendations to be adopted. More specifically, OTL stated that PPS’
+       plan is to test one unit, within each set of curricula. For example, one unit from the Social Studies
+       curriculum, such as the Holocaust genocide, would be tested for the duration of the unit, if
+       feasible—which includes gathering feedback from both teachers and students, assessing whether
+       the curriculum was favorable from their perspectives, observing the classrooms using the
+       materials, and reviewing sample student work that occurred during the process.
+
+          OTL also provided surveys available on the PPS website for parents and other stakeholders to
+          provide feedback on pilot curriculum in place. A sample survey reviewed included solicitation of
+          feedback on criteria such as rigor of the content, cultural relevancy and representation, and
+          opportunities for student engagement. While it is not clear what methodology OTL will use to factor
+          in stakeholder feedback into long term curriculum decisions, these vehicles to incorporate
+          community buy-in represents positive efforts to involve stakeholders.
+
+     ✓ Electronic Material Utilization
+       For some curricula with digital components, OTL can track student and educator use of products
+       through an online platform. OTIS manages this platform and provides the data to OTL for decision-
+       making such as which digital subscription to renew based on user usage. For example, OTL can
+       review login statistics for teachers and students accessing digital learning applications. 31
+
+
+
+
+31 Online platforms include LearnPlatform, which is a Google Chrome extension that can be used for tracking educator product related metrics;
+
+and ClassLink which is an example dashboard within LearnPlatform that allows teachers and students to access digital learning applications
+such as iReady, which is used in math curricula.
+
+
+SJOBERGEVASHENK                                                                                                              P a g e | 29
+Like curriculum, OTIS’s bond technology performance outcome measurement efforts were still in-progress
+and development at the time of our audit. Acknowledging that measuring the success and outcomes of
+technology improvements is challenging to demonstrate a tangible outcome, OTIS identified some metrics
+it plans to consider for measuring success of 2020 Bond technology improvements, including:
+
+   ✓ Outputs
+     By investing funds into updated technology, PPS elevated the ability of students, teachers, and
+     staff to operate within current day technology and security standards. Exhibit 13 shows sample
+     outputs delivered through the 2020 Bond funds. For example, as described earlier in this chapter,
+     OTIS has completed delivery of its device replacement goals with more than 80,000 devices
+     purchased for students, teachers, and administrators. Because technology is ever evolving and
+     needs regular refreshment, the devices purchased with 2020 Technology Bond funds and used for
+     classroom modernization inherently serve as one way to demonstrate improved technological
+     advancement from what previously existed.
+
+                     EXHIBIT 13. EXAMPLES OF OUTPUTS FROM 2020 BOND TECHNOLOGY EFFORTS 1
+
+
+
+
+                                  Source: Auditor-generated based on documents provided by OTIS
+    Note 1: Because the bond did not promise specific quantities of outputs, no baseline values of outputs is available for comparison.
+
+
+   ✓ User Feedback
+     Although the implementation of technology improvements represents an important first step in
+     ensuring bond commitments are met, it is important that the intended users have buy-in and are
+     receiving the intended benefits. As such, OTIS described plans to survey teachers once
+     improvements are completed to gain feedback and apply lessons learned where possible for future
+     improvements. According to OTIS, all installations required for classroom modernization
+     improvements are scheduled to be finalized by the end of 2023, which will include Wi-Fi upgrades.
+     In January 2024, teachers will be asked to provide qualitative feedback regarding Wi-Fi speeds
+
+
+SJOBERGEVASHENK                                                                                                              P a g e | 30
+           after Wi-Fi improvements are implemented. Additionally, teachers will be asked questions related
+           to how disruptive the 2020 Bond technology installation process was to their classrooms, if they are
+           satisfied with improvements provided, and other user impact related questions so that OTIS can
+           apply lessons learned to future work.
+
+     ✓ Performance Metrics
+       Though not specific to just bond-funded improvements, OTIS tracks various information technology
+       related performance metrics at the district and reports them to the Council of Great City Schools.32
+       The Council issues an annual Report of the Performance Measurement and Benchmarking Project
+       that establishes a common set of key performance indicators related to school operations,
+       business services, and technology, among other areas so that urban public school districts can
+       benchmark and compare performance against one another to improve operational performance.
+       These metrics can provide a point-in-time comparison of PPS’ performance for available
+       technology related metrics before and after bond improvements were put into place. Related to
+       technology, many metrics are included in the report such as, but not limited to, bandwidth per
+       1,000 students, number of devices per student, and Wide Area Network Availability among other
+       metrics. 33 Although the latest report issued in 2022 for fiscal year 2020-2021 did not always cite
+       PPS’ submitted data in its report, OTIS-provided data for fiscal year 2020-2021 and 2021-2022
+       demonstrated improvements as shown in Exhibit 14—though the metrics are district-wide and not
+       limited to bond-funded improvements.
+
+           For example, OTIS reported that internet speed improved two-fold from 10,000 megabits per
+           second to 20,000 megabits per second with a greater number of megabits translating to faster
+           internet speed. In another example, OTIS reported that the total minutes of wide area network
+           outages reduced from 390 minutes to 270 minutes in one fiscal year—or a 31 percent positive
+           change showing less outages. While these are unaudited, self-reported figures, OTIS
+           demonstrates good foresight in using this data for performance measurement in determining if
+           bond-funded technology improvements provided intended values to the district.
+
+
+
+
+32 The Council of Great City Schools is a coalition of 78 of nation’s largest urban public school systems dedicated to the improvement of
+
+education for children in inner cities.
+33 WAN is the technology that connects offices, data centers, cloud applications, and cloud storage together and can be used to assess
+
+connectivity and performance.
+
+
+SJOBERGEVASHENK                                                                                                                 P a g e | 31
+        EXHIBIT 14. EXAMPLES OF TECHNOLOGY PERFORMANCE IMPROVEMENTS BETWEEN FY 21 AND FY 22
+
+
+
+
+     Source: Self-reported data submitted by OTIS to CGSC for 2020-21 and 2021-22 ActPoint KPI Information Technology Survey.
+
+
+Recommendations
+No Recommendations.
+
+
+
+
+SJOBERGEVASHENK                                                                                                      P a g e | 32
+Appendix A: Status of Prior Performance Audit Recommendations
+
+While the Office of School Modernization (OSM) retained its commitment toward addressing prior Bond
+audit recommendations, no evidence of progress has been provided on addressing recommendations since
+the last audit cycle in 2022. An updated report to the Bond Accountability Committee in May 2023 noted
+several additional recommendations have been closed since the fiscal year 2021-2022 report, but auditors
+were not able to verify reported progress because OSM was not able to provide timely supporting
+documentation.
+
+In total, there have been a total of 50 audit recommendations from the four past performance audits
+between 2019 and 2022.34 As of May 2023, there were 27 recommendations still in-progress, or 54
+percent, of the total outstanding recommendations as shown in Exhibit 15.
+
+         EXHIBIT 15. SUMMARY STATUS OF ALL 2017 AND 2020 BOND PERFORMANCE AUDIT RECOMMENDATIONS
+                                               AS OF MAY 2023
+
+
+
+
+             Source: Auditor-Generated based on review of underlying documentation supporting the implementation progress.
+                     Note: All prior audit reports are available on the PPS website at https://www.pps.net/Page/15137.
+
+The ten newest recommendations from the most recent fiscal year 2021-2022 audit report have not yet
+been addressed. Four out of these ten recommendations related to improvements needed for CBSE such
+as a formal framework for management and staffing with clear roles and responsibilities, an updated
+implementation schedule with targets, a plan for capital purchases or building, and a structure to monitor
+progress against plans. While PPS made progress outlining plans to engage the CBSE community in
+program design with an estimated calendar of engagement, these efforts have not progressed to reach the
+phase to address the more operational steps detailed in the audit recommendations. As of May 2023, no
+2020 Bond funds have been expended in this area and it is still unknown what capital improvement projects
+will be planned as part of CBSE. The CBSE Design and Engagement calendar estimated that it would
+continue its research period through May 2023—which is a two-year delay from when the baseline 2020
+Bond Program conceptual schedule estimated that planning would be complete. As such, the risk remains
+that CBSE will not be delivered on-schedule or as intended.
+
+
+34 All 96 recommendations from the 2012 Bond Performance Audits were addressed and closed in prior performance audit cycles. A separate
+
+independent auditor conducted the 2012 Bond Performance Audits between 2014 and 2017. Sjoberg Evashenk Consulting, Inc, conducted the
+2017 and 2020 Bond Performance Audits were conducted by in 2019, 2020, 2021, and 2022.
+
+
+SJOBERGEVASHENK                                                                                                          P a g e | 33
+Further, no support was available to determine progress on the following outstanding recommendations
+that remain open from prior years:
+
+  EXHIBIT 16. SUMMARY OF OUTSTANDING RECOMMENDATIONS FROM 2017 AND 2020 BOND AUDITS, AS OF MAY 2023
+
+                     # Open
+                      Recs
+                                                                              Summary
+
+                               This recommendation related to OSM providing written guidance on OSM’s decision-making hierarchy
+ Year 1 (Phase ll)             and training on standard practice for value engineering and design deviations on future projects. While
+                       1
+  FY 2018-2019                 these items were still under review by the OSM Audit Implementation Team, the recommended actions
+                               will not be critical until future capital construction projects begin the design phase.
+
+                               Two out of the seven outstanding recommendations cannot be addressed until all the 2017 projects are
+                               closed out and when the next projects commence using the Construction Manager-General Contractor
+     Year 2                    delivery and contracting approach. The remaining five outstanding recommendations related to
+                       7
+  FY 2019-2020                 improvements needed such as being more consistent on documenting costs for change orders,
+                               evaluating payment terms and conditions on contracts, and adjusting contract language to prohibit
+                               contractors from starting work before formally authorized.
+                               Eight recommendations related to bolstering PPS’ contractor business equity program. The remaining
+     Year 3
+                       9       recommendation called for strengthening protocols to capture institutional knowledge for Bond
+  FY 2020-2021
+                               communication efforts.
+                               In addition to the four recommendations related to CBSE, three recommendations related to reviewing
+     Year 4                    PPS’ Workforce Equity program, two recommendations were related to revisiting and reporting
+                      10
+  FY 2021-2022                 performance metrics, and one recommendation was for PPS to complete development of construction
+                               close-out policies and processes.
+
+      Total           27
+
+                              Source: Auditor-generated based on prior Bond Performance Audit reports.
+
+
+
+
+SJOBERGEVASHENK                                                                                                           P a g e | 34
+Appendix B: Audit Methodology
+
+The Portland Public School District (PPS) hired Sjoberg Evashenk Consulting, Inc. in October 2018 to
+conduct annual performance audits of the School Improvement Bonds over a four-year period for the 2017
+Bond. In November 2020, the 2020 Bond was passed and another four-year cycle of performance audits
+began with this year’s fiscal year 2022-2023 report. Each year, auditors assess performance and focus on
+different Bond programs and project areas. For this performance audit cycle, we reviewed 2017 and 2020
+Bond program activities for the period between April 1, 2022, through June 30, 2023, in the following areas:
+    1. 2017 & 2020 Bond Status
+    2. Career Learning Equity
+    3. 2020 Bond Curriculum and Information Technology “Deep Dive”
+    4. Prior Audit Recommendations
+Sjoberg Evashenk Consulting performed a variety of detailed audit tasks including, but not limited to, the
+following fieldwork steps.
+
+To guide our overall analyses across audit task areas, we conducted interviews with and sent inquiries to
+PPS staff and stakeholders from various offices and departments including:
+    •   Office of School Modernization (OSM): Senior Director, Senior Manager of Business Operations,
+        Certified Business Program Manager, Director of Construction, Senior Project Managers
+    •   Office of Technology and Information Services (OTIS): Chief Technology Officer, Senior Director of
+        Technology Operations, Communications and Change Manager
+    •   Office of Teaching and Learning (OTL): Chief Academic Officer, Manager of Instructional
+        Resources Adoption
+    •   Career and Technical Education (CTE): Assistant Director of Career and Technical Education,
+        Strategic Business Partnerships Managers
+    •   Finance: Director of Purchasing and Contracting, Solicitations Manager, Senior Contract Analyst
+    •   Executive Team: Chief Operating Officer, Superintendent, Chief of Staff
+    •   PPS Board of Education (Board) members and Bond Accountability Committee (BAC) members
+    •   Contractors and consultants involved in 2017 and 2020 Bond work
+
+To determine the overall bond status of the remaining 2017 Bond projects and for the 2020 Bond in terms
+of cost and schedule, we:
+    •   Analyzed the schedule delivery status and budget status overall for the 2017and 2020 Bond
+        projects as of May 2023 by reviewing underlying cost and schedule estimate at completion reports
+        from the e-Builder system provided by OSM and materials presented to the Bond Accountability
+        Committee in May 2023
+
+
+
+
+SJOBERGEVASHENK                                                                                 P a g e | 35
+           o For some Bond subcategories like curriculum and technology, auditors also reviewed
+             eBuilder data from February 2023 because it was the most updated available data with
+             detailed breakdown of expense categories
+   •   Investigated variances in budget and schedule and assessed reasonability of challenges if any
+       issues were identified and plans for remediation if available
+
+           o For instance, to determine if Harrison Park K-8 School’s scope increase was reasonable,
+             auditors reviewed the 2021 Long Range Facility plan, eBuilder budget changes and
+             funding sources for Harrison Park, Board resolutions, and planning documents on PPS’
+             website of capacity and enrollment needs that led to the scope increase using bond-funds
+
+   •   Reviewed baseline schedules and planning documents to compared delivery status to initial plans
+
+To evaluate PPS’ Career Learning Equity program and whether PPS met its objectives, we:
+   •   Reviewed Board Policy 8.50.095 and Administrative Directive 8.50.098 to identify the program’s
+       objectives, scope, and any stated requirements. Reviewed past iterations of the AD and associated
+       staff memos
+
+   •   Analyzed PPS’ Career Learning opportunities database, Partner Connect, and its functionalities
+       and obtained sample data for assessment
+
+   •   Identified what protocols, procedures, and additional structures existed for the program to
+       supplement the Administrative Directive, such as reviewing program contractual obligations
+       included in bond contracts
+
+   •   Reviewed annual Equity in Contracting reports to the Board to determine what outcomes and
+       reporting occurred
+
+   •   Validated sample career learning opportunities that were reported to have occurred on Bond
+       contracts by reviewing sample supporting documentation from contractors and consultants
+
+   •   Researched best practices in program and project management that are applicable to the Career
+       Learning program
+
+To assess whether practices in place at OTL and OTIS adequately ensured curriculum and technology
+improvements will be delivered as intended, we:
+   •   Reviewed criteria guiding curriculum and technology improvements such as the Oregon
+       Department of Education (ODE) administrative rules, strategic plans, OTIS purchasing rules, and
+       other available guides.
+
+   •   Assessed tools, systems, and software used by both OTL and OTIS to manage bond work
+
+
+
+
+SJOBERGEVASHENK                                                                              P a g e | 36
+    •   Compared reported curriculum and technology progress to the BAC and public against underlying
+        data in eBuilder, internal tracking spreadsheets, and sample contracts and purchase orders to
+        confirm delivery of pledged work
+
+    •   Evaluated OTL and OTIS’ methodologies used for decision-making related to quantities of bond-
+        funded purchases, improvement scopes of work, quality and type of products procured, and other
+        factors considered to ensure both offices were good stewards of funds
+
+    •   Reviewed whether curriculum and technology had identified ways to evaluate whether bond
+        improvements are providing intended benefits and assessed whether identified metrics appeared
+        reasonable
+
+To determine the status of prior audit recommendations, we:
+    •   Followed-up on the status of prior 2017 and 2020 Bond performance audit recommendations
+        focusing on those recommendations categorized as open.
+    •   Where applicable, verified auditee responses through fieldwork analyses, observations, and
+        documentary review. Implementation status of areas not within the scope of this year’s audit will be
+        reviewed during future performance audits.
+    •   Assessed corrective action on prior external construction audit recommendations were not included
+        in our performance audit since that external auditor is reviewing corrective actions and
+        implementation status as part of current construction audits.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+
+
+
+
+SJOBERGEVASHENK                                                                                P a g e | 37
+Appendix C: Auditee Response
+
+
+
+
+SJOBERGEVASHENK               P a g e | 38
+SJOBERGEVASHENK   P a g e | 39
+

@@ -1,0 +1,1696 @@
+Portland Public Schools
+
+2017 Bond Performance Audit
+
+
+
+
+Performance Audit – Fiscal Year 2018/2019
+Final Report: 2017 Bond Program
+
+
+
+
+August 2019
+
+
+
+
+455 Capitol Mall • Suite 700 • Sacramento, California • 95814 • Tel 916.443.1300 • www.secteam.com
+Table of Contents
+
+Table of Contents ........................................................................................................................................... i
+
+Executive Summary ....................................................................................................................................... 1
+
+Introduction and Background ......................................................................................................................... 4
+
+Scope and Methodology ................................................................................................................................ 8
+
+Section 1: 2012 Bond Projects were Delivered as Promised ....................................................................... 11
+
+Section 2: Most 2017 Bond Projects are On-Schedule, but Will Cost More to Complete ............................ 14
+
+Section 3: Cost Estimation Practices Improved and Financial Management was Sound, Although Small
+Enhancements Would Strengthen Processes ............................................................................................. 16
+
+Section 4: Bond Program Delivery Framework and Document Management Practices Should be
+Standardized and Formally Implemented .................................................................................................... 23
+
+Appendix A: Auditee Response ................................................................................................................... 37
+
+
+
+
+SJOBERGEVASHENK                                                                                                                                Page |i
+Executive Summary
+
+Since Portland voters passed the 2017 School Improvement Bond (Bond), Portland Public Schools (PPS)
+and its Office of School Modernization (OSM) faced many challenges including high turnover in executive
+leadership positions and a tight construction labor market. Concerns with 2017 Bond budget estimates
+increased public scrutiny on the Bond program and pressure to successfully deliver the Bond projects as
+promised to voters.1
+
+For the areas reviewed, OSM made notable efforts refining project cost estimates and finalizing designs to
+move forward with implementation and delivery of the 2017 bond projects. These efforts included improved
+cost estimation methodology, more formal protocols for involving internal and external stakeholder groups
+during project planning and design, revised program management and standard operating procedures, and
+the use of lessons learned from delivering the 2012 Bond program on the 2017 Bond projects.
+
+We also found some improvements are needed to strengthen financial practices, uniformity in project
+delivery approaches, and accountability behind project decisions made. Key results and recommendations
+are summarized in the sections that follow and full recommendations are listed in the body of the report at
+the end of each section.
+
+
+2012 Bond Projects Were Delivered as Promised
+             By the summer of 2019, all projects envisioned by the 2012 Bond will be completed on schedule and as
+             promised to voters. Although expenses as of June 2019 were more than the $482 million Bond budget, mainly
+             due to Board of Education (Board) directives increasing building size and capacity, PPS was able to secure
+             additional funds. However, prior audits noted some project management issues that remain unresolved.
+
+ KEY RESULTS:                                            RECOMMENDATIONS:
+ • Additional funding totaling nearly $116 million       1. Develop a written plan for establishing and prioritizing corrective actions
+   helped offset unexpected project costs.                  needed to address project delivery issues related to change orders,
+                                                            contractor invoices, and other recommendations noted in prior audits of
+ • OSM needs to address project management                  2012 Bond projects. This plan, at the minimum, should identify:
+   issues noted in prior bond audits.
+                                                             • OSM’s position with regard to the recommendation (agree/disagree);
+                                                             • How OSM will implement the recommendations (as stated,
+                                                               implement differently, or reasons for not implementing);
+                                                             • Target implementation dates;
+                                                             • Process owners (staff responsible for addressing recommendations);
+                                                             • Actions taken to address issues and recommendations noted; and
+                                                             • Protocols for communicating status updates to the Bond
+                                                               Accountability Committee and/or the Board.
+
+
+
+
+1 The first performance audit report for the 2017 Bond, addressing the Bond budget development was presented at the April 15, 2019 PPS
+
+Board meeting. It is available on the PPS website:
+https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/62/4-25-19%20Bond%20Audit%20Report.pdf.
+
+
+SJOBERGEVASHENK                                                                                                             P a g e |1
+Most 2017 Bond Projects are On-Schedule, but will Cost More to Complete
+               As of June 2019, OSM made good progress on the planning and design of all four school capital projects
+               with Kellogg Middle School and Madison High School in the construction phase, design for Lincoln High
+               School well-underway, and the master plan for an expanded Benson High School approved by the Board.
+               In addition, construction for health and safety projects has started, with the final projects estimated to be
+               completed by 2023. Yet, more funding is needed to build the schools as promised.
+
+KEY RESULTS:                                              RECOMMENDATIONS:
+• Approximately $280 million of additional funding        2. Develop a written plan or strategy for identifying and incorporating
+  is needed to build schools promised.                       additional funding options if future bond funds are not available and
+                                                             regularly communicate and discuss progress with the Board and
+• Increased construction costs and low initial bond
+                                                             Bond Accountability Committee.
+  budget estimates resulted in insufficient funding
+  available to complete the Benson High School.
+
+
+
+Cost Estimation Practices Improved and Financial Management was
+Sound, Although Small Enhancements Would Strengthen Processes
+            OSM has improved its cost estimation practices subsequent to the 2017 Bond passage, and exercised
+
+ $$         appropriate financial management over bond funds. However, cost estimation documentation can still be
+            improved and controls over contractor invoices can be enhanced and strengthened to ensure critical
+            financial reconciliations are timely completed.
+
+KEY RESULTS:                                                 RECOMMENDATIONS:
+• Capital project cost estimation generally followed an      3. Ensure cost estimates are fully documented with underlying
+  established methodology.                                      support and rationale used for soft costs and FF&E—in addition
+                                                                to other cost components—including variations or deviations from
+• PPS generally had effective controls in place over
+                                                                stated methodology.
+  bond spending, although it was behind on financial
+  reconciliations.                                           4. Implement the new cash flow planning process as intended at the
+                                                                start of Fiscal Year 2019/2020, and update cash flows regularly.
+• e-Builder construction management system controls
+                                                             5. Immediately allocate and concentrate efforts on completing
+  were appropriate, although related business
+                                                                overdue Fiscal Year 2018/2019 reconciliations between the e-
+  processes can be strengthened over project invoice
+                                                                Builder construction management system and the PeopleSoft
+  review.
+                                                                financial system, as well as ensure future reconciliations are
+• Bond fund investments appeared well-managed.                  regularly performed in a timely manner.
+• New cash flow processes will better align with project
+  needs, once implemented.
+
+
+
+
+SJOBERGEVASHENK                                                                                                      P a g e |2
+Bond Program Delivery Framework and Document Management Practices
+Should Be Standardized and Formally Implemented
+           OSM followed certain project planning and design activities that aligned with best practices, although it could
+
+          place greater emphasis on standardizing bond delivery policies and strengthening management of bond
+           practices to ensure data is valid, current, accessible to project teams, and maintained.
+
+KEY RESULTS:                                               RECOMMENDATIONS:
+• OSM project teams focused on transparency and            6. Update and re-issue the PMP, in addition to individual school
+  accountability, vetted design decisions, and sought         PTMPs, as well as consider developing quick tools, guides, and
+  stakeholder buy-in.                                         checklists to help project teams implement the protocols
+                                                              identified in the PMP and PTMPs.
+• Updates to the October 2017 program management
+  plan (PMP) were still in progress and not expected to    7. Formally communicate, clarify, and train OSM project teams
+  be completed until late 2019.                               and individuals involved with project delivery on existing
+                                                              document management protocols including requirements and
+• Project specific team management plans, meant to be         expectations for usage by considering the following:
+  completed prior to the start of design and intended to
+                                                              • Identifying the documents each project should maintain
+  guide the execution of the capital school construction
+                                                                during each phase of project development;
+  projects, were in draft format for three of the four
+  school projects.                                            • Determining a standard location and specific systems to be
+                                                                used for in-progress and final versions of capital project
+• Stronger document management practices are needed             documents where key project team members of the OSM
+  as we found project documents were maintained in
+                                                                team, as well as non-PPS employees, have access;
+  multiple systems, not all key team members had
+  access to systems used to manage projects, and              • Establishing a new or refining the existing standard
+  project documents were not always easy to locate.             hierarchy across projects detailing the specific folders to be
+                                                                used as well as expected contents of each folder; and
+• Certain design phase activities aligned with best
+  practices including updating the program management         • Developing a uniform naming and numbering convention for
+  plan and developing project team management plans             each document across all capital projects.
+  (PTMPs), although more structure is needed to better     8. Standardize design deviation logs by identifying consistent
+  track deviations from Educational Specifications or         information to be maintained for each project and ensure
+  Design Standards and clarify what value engineering         approvals are documented.
+  decisions should be elevated.                            9. Establish a tracking mechanism to store proposed changes to
+                                                              Ed Specs and Design Standards in an accessible location.
+                                                           10. Supplement the “Decision-Making Hierarchy” process with
+                                                               written guidance on what decisions to bring forward and elevate
+                                                               beyond the project team as well as train project teams on
+                                                               standard practice for value engineering deviations—as well as
+                                                               Ed Spec and Design Standards deviations.
+                                                           11. Better document lessons learned by:
+                                                              • Categorizing lessons learned log items into separate
+                                                                subcategory sections allowing project managers to more
+                                                                easily identify relevant items; and
+                                                              • Summarizing lessons learned and regularly distribute or
+                                                                discuss items with project teams.
+
+
+
+
+SJOBERGEVASHENK                                                                                                 P a g e |3
+Introduction and Background
+
+As the largest school district in Oregon with more than 49,000 students and approximately 80 schools with
+an average age of 77 years old, Portland Public School (PPS) implemented a series of school construction
+bonds to fund capital improvement projects and upgrade all PPS schools over a 30-year period based on
+recommendations from a Citizens’ Advisory Committee.2,3 To date, Multnomah County voters passed two
+major bond programs to fund these school improvements—one in 2012 and another in 2017.
+
+2012 Bond Modernization Program
+When voters passed the first major school improvement bond in 2012 (2012 Bond), they provided PPS with
+$482 million towards upgrading aging infrastructure at schools across the district including Grant, Franklin,
+and Roosevelt High Schools and Faubion Elementary School in addition to a series of building
+improvements at other district schools as shown in Exhibit 1. This was the first major construction bond to
+modernize or build new schools passed by voters in nearly half a century, although a smaller 1995 bond
+was passed for school seismic improvements.
+
+                                          EXHIBIT 1. 2012 BOND PROGRAM COMPONENTS
+
+
+
+
+                                       Source: 2012 Bond Fact Sheet, July 9, 2012 from PPS Website.
+
+
+
+2 According to the Proposed Health, Safety and Modernization Bond Frequently Asked Questions published on the PPS website, some schools
+
+were built more than 100 years ago and more than half were built before 1940. Before the prior 2012 Bond, only two schools had been built in
+the last 35 years.
+3 The Citizens’ Advisory Committee—consisting of parents, teachers, business leaders, community members, and construction experts—was
+
+established pre-Bond and is not the same body as the Bond Accountability Committee established after the 2012 Bond passage.
+
+
+SJOBERGEVASHENK                                                                                                                P a g e |4
+2017 Bond Modernization Program
+Five years later in May 2017, Multnomah County voters approved another school bond (2017 Bond), the
+largest bond in state history. As shown in Exhibit 2, the measure funded $580 million in renovations at
+Benson and Madison High Schools and full rebuilds of Lincoln High School and Kellogg Middle School, as
+well as $150 million for a series of health and safety projects improvements at other schools within the PPS
+district. Approximately one-third of the budgets for each high school and middle school project also
+included funds to address health and safety issues at those specific schools as well. Additional funding was
+set aside to provide master planning for future capital upgrades and improvements of Cleveland, Jefferson,
+and Wilson High Schools as part of $60 million in program contingency and program management.
+
+                                EXHIBIT 2. 2017 BOND PROGRAM COMPONENTS
+
+                                                           Specific Health & Safety Improvement Areas
+
+
+
+
+                                                          Source: Board Bond Work Session, January 24, 2017.
+
+
+
+
+With combined 2012 and 2017 bond funds totaling $1.27 billion, OSM was tasked with quickly establishing
+and deploying a comprehensive framework for planning, managing, and delivering capital projects on a
+scale it had not experienced in nearly half-a-century.
+
+
+
+
+SJOBERGEVASHENK                                                                                          P a g e |5
+School Capital Project Delivery Phases
+Planning and implementing a capital construction project is a complex endeavor with several different
+phases and many different players involved at each phase. Best practices suggest activities at the
+program-level such as developing a formal program framework establishing roles and responsibilities in
+program management plans, setting standard planning and tracking tools, estimating costs and managing
+cash flow, and identifying key systems to use for document retention.
+
+Additionally, there are many activities typically involved at the project-specific level. Exhibit 3 illustrates the
+primary phases and general activities of a capital improvement project including master planning, design,
+construction, and close-out.
+
+                                          EXHIBIT 3. KEY PROJECT DELIVERY PHASES
+
+
+
+
+                                                                                                      4) Close-Out
+                    Fiscal Year 2018/2019 Audit Areas                                                   Owner Move-In
+                                                                      3) Construction
+                                                                       "Building" the
+                                            2) Design                    Project
+                                             Schematic Design
+               1) Master Planning            Design Documents                           Future Audit Areas
+               "Visioning" the              Construction
+                Project                       Documents
+               Initial Cost                 Cost Estimates at
+                Estimates                     each Design Stage
+
+
+            Source: Auditor-generated based on interviews, process walk-throughs, observations, and documentary review.
+
+During the period of our audit between April 2017 and March 2019, the 2017 Bond capital school
+construction projects were still in the master planning or design phases. As such, auditors focused on OSM
+practices related to activities during those project delivery stages. This included reviews of project cost
+estimation practices, financial management, and program delivery framework as described in more detail in
+the “Scope and Methodology Section” of this report. As bond projects advance into construction and close-
+out phases, future annual audit work will place greater emphasis on those areas.
+
+Key Bond Delivery Partners
+In addition to its general education focus, PPS is also accountable for the implementation of the bond
+capital improvement projects and maintenance of school buildings. Within PPS, the Office of School
+Modernization (OSM) is primarily responsible for the direct administration, management, and
+implementation of the 2012 and 2017 Bonds as guided by the OSM Senior Director, Bond Program
+Manager and Director of Construction. The Bond Program Manager and Director of Construction provide
+program level oversight across project teams, ensuring each project is delivered consistent with OSM
+
+
+SJOBERGEVASHENK                                                                                                          P a g e |6
+policy and the promises made to voters. Project teams typically consist of a senior project manager or
+project manager, assistant project manager, and construction manager. Another PPS division—Facilities
+and Asset Management (FAM)—is responsible for school maintenance once project construction is
+complete and provides input and guidance to OSM during the design and construction process to ensure
+that those responsibilities can be met. To oversee all bond activity, the PPS Board of Education (Board)
+and a citizen’s Bond Accountability Committee (BAC) meet regularly on bond progress and OSM seeks
+external input from a number of school and community stakeholder groups involved during master planning
+and design such as Master Planning Committees, Design Advisory Groups, and Steering Committees for
+each school project as shown in Exhibit 4.4
+
+                                       EXHIBIT 4. KEY BOND DELIVERY PARTNERS, AS OF JUNE 2019
+
+                                                                                                                        Bond Accountability
+  PPS & Bond Oversight                                           Board of
+                                                                Education                                                   Committee
+
+
+
+                                                                        Deputy Superintendent
+ PPS Leadership & Bond Oversight               Superintendent
+                                                                        Business & Operations
+
+
+
+
+ PPS Leadership & Bond Oversight                                        Chief Operating Officer
+
+
+
+
+ PPS Departmental Leadership                                    FAM Director          OSM Senior Director
+
+
+
+                                                                                   Bond                                  Master Planning Committees,
+                                                                                                      Director of         Design Advisory Groups,
+ Bond Program Leadership                                                          Program
+                                                                                                     Construction
+                                                                                  Manager                                   Steering Committees
+
+
+ Project Delivery Teams include Senior
+ Project Manager, Assistant Project Manager,                                                                            Health &
+                                                   Benson              Kellogg             Lincoln            Madison
+ Construction Manager, Architect, and                                                                                    Safety
+ Construction Contractor
+
+                 Source: Auditor-generated based on interviews, process walk-throughs, observations, and documentary review.
+
+
+
+
+4 PPS Board is the decision-making body tasked with ensuring bond mandates are fulfilled. The BAC provides advice and technical expertise
+
+to the Board and OSM on all bond matters.
+
+
+SJOBERGEVASHENK                                                                                                                      P a g e |7
+Scope and Methodology
+
+The Portland Public School District (PPS) hired Sjoberg Evashenk Consulting in October 2018 to conduct
+annual performance audits of the 2012 and 2017 School Improvement Bonds over a four-year period. To
+establish the initial audit plan and objectives, Sjoberg Evashenk Consulting interviewed PPS executive
+leadership, operational staff, and external stakeholders; gathered and reviewed initial documents; and
+performed a high-level risk assessment.
+
+Over the course of the multi-year audit cycle, auditors will assess performance on a variety of bond areas.
+An audit work plan developed at the end of each audit cycle will guide the work of the following year’s audit,
+although specific focus areas may change as the audit progresses. For the current audit, we reviewed bond
+program activities for the extended period between April 1, 2017 and March 31, 2019 related to cost
+estimates, schedule, finances, project management, design, value engineering, and turnover. The 2017
+Bond health and safety program component was not a specific focus of this year’s audit scope.
+
+Results for the 2018/2019 audit cycle are reported under two separate audit reports. The first performance
+audit report focused on initial bond cost estimates developed prior to passage of the 2017 Bond and was
+issued in April 2019.5 For this second performance audit report, our objectives were as follows:
+
+     1. Determine whether PPS delivered the Bond programs on-budget, on-schedule, and as promised
+        given the status of 2012 and 2017 Bond projects.
+     2. Assess how well PPS is managing the Bond at the program level related to:
+                a. Budget and cost estimation
+                b. Financial management
+                c. Project management
+                d. Systems and records
+                e. Master planning and design
+                f.   Staffing and turnover
+     3. Where applicable and practical, compare PPS activities against construction industry leading
+        practices and other school districts.
+
+To meet our objectives, Sjoberg Evashenk Consulting performed a variety of audit tasks including, but not
+limited to, the following:
+    • Conducted in-depth interviews with key personnel including the Chief Operating Officer, OSM Senior
+      Director, Chief Financial Officer, Treasury Manager, Senior Bond Accountant/Analyst, senior project
+      managers and assistant project managers, project directors, construction managers, various
+      Facilities and Asset Management employees, and PPS human resource staff to understand and
+      assess policies, practices, and tools in place regarding all aspects of delivering the Bond program.
+
+5 The first performance audit report for the 2017 Bond was presented at the April 15, 2019 PPS Board meeting and is available on the PPS
+
+website: https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/62/4-25-19%20Bond%20Audit%20Report.pdf.
+
+
+SJOBERGEVASHENK                                                                                                               P a g e |8
+    • Analyzed and assessed documents such as budget data maintained in PPS’ e-Builder system,
+      financial data maintained in PPS’ PeopleSoft system, Primavera schedules, systems and document
+      retention used, master planning documents, value engineering records, Educational Specifications
+      (Ed Specs), Design Guidelines, deviation tracking logs, and documented lessons learned.
+    • Obtained and reviewed current cost and schedule information for both the 2012 and 2017 Bond
+      improvement projects from PeopleSoft system, Primavera schedules, e-Builder system, Bond
+      Accountability Committee status reports, and board packets.
+    • Evaluated post-bond cost estimation methodology, current cost estimates, and underlying support
+      for each cost element of the four 2017 Bond high school and middle school capital projects including
+      hard cost, soft costs, FF&E, swing and temporary facilities, contingency, and cost escalation.
+    • Reviewed PPS’ cash management policy and met with the Treasury Manager to evaluate PPS’
+      management of bond funds and current investment practices. Assessed required quarterly financial
+      reports submitted to the Board to determine if reporting was consistent with the cash management
+      policy.
+    • Reviewed the automated approval workflows for establishing project budgets and approving project
+      expenditures in the e-Builder system as well as tested a sample of 2017 Bond project expenditures
+      for approval and allowability with bond provisions.
+    • Evaluated OSM program and project management practices against industry standards, where
+      available, and identified any gaps in controls or existing policies and procedures.6
+    • Identified and evaluated systems and tools used to capture program and project data and
+      commented on official and unofficial systems used, types of data maintained, frequency of update,
+      consistency, completeness, and access.
+    • Assessed record retention practices, access, and availability of data for official, final, and in-progress
+      records as well as project filing structure, version control, and location of official records.
+    • Analyzed updated master planning documents, schematic designs, design development documents,
+      draft construction documents, and deviation logs for the four 2017 Bond high schools and middle
+      school capital projects.
+    • Performed a high-level comparison of capacity and categorical components of current PPS Ed
+      Specs to those at the Beaverton School District and the North Clackamas School District.
+    • Reviewed data on turnover among OSM staff and senior leadership as well as PPS executive
+      leadership, and calculated the number of departures among both all non-teaching employees and
+      exempt employees. Additionally, we determined the number of departures among senior leadership
+      positions within PPS and OSM since the development of the 2017 Bond in February 2017.
+
+
+
+
+6 Industry best practices were drawn from a variety of sources including the Construction Management Association of America (CMAA)
+
+Construction Management Standards of Practice, Project Management Body of Knowledge (PMBOK) Construction Extension, and Sjoberg
+Evashenk Capital Construction Program Audit Library.
+
+
+SJOBERGEVASHENK                                                                                                             P a g e |9
+   • Followed-up on the status of prior 2012 Bond performance audit recommendations focusing on
+     those recommendations categorized as open from audits conducted between 2014 and 2017. Where
+     applicable and within the scope of this audit cycle, verified auditee responses through fieldwork
+     analyses, observations, and documentary review. Implementation status of areas not within the
+     scope of this year’s audit will be reviewed during future performance audits.
+   • Reviewed and analyzed issues, recommendations, and corrective actions resulting from construction
+     audits conducted by an external party on the 2012 Bond projects at Roosevelt High School and
+     Franklin High School.
+
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+
+
+
+
+SJOBERGEVASHENK                                                                              P a g e | 10
+Section 1: 2012 Bond Projects were Delivered as Promised
+
+When Grant High School reopens for the 2019/2020 school year, OSM will have completed all 2012 Bond
+projects generally on schedule, within budgeted resources, and as promised to voters in November 2012.7
+Although final costs will be higher than the $482 million in bonds approved by voters, PPS was able to
+secure additional funding to complete the 2012 Bond program and build larger schools than initially
+envisioned. However, audits performed on the 2012 bond projects highlighted some project management
+issues that remain unresolved.
+
+OSM Secured Additional Funding that Offset Unexpected Costs
+Although the 2012 Bond was delivered as promised to voters, there were unanticipated cost increases
+mostly based on Board-approved direction to increase school size after the bond passed. Specifically, the
+Board adopted a resolution in November 2013 increasing core student capacity at Roosevelt, Grant, and
+Franklin High Schools from 1,500 to 1,700 students and expanding school size square footage.8 While
+adding square footage inherently increased project costs, OSM was able to successfully design and build
+schools with the additional capacity to keep pace with the growing enrollment needs of the district.
+Additional factors that contributed towards higher costs were construction cost escalation that outpaced
+projections and several large change orders due to unforeseen conditions encountered during construction
+at the historic Franklin High School and Roosevelt High School sites.9
+
+Fortunately, OSM secured approximately $115.8 million in additional funding that supplemented the $482
+million bond and constructed larger buildings as requested by the Board. Of that $115.8 million, bond
+premiums and interest revenue totaled $61 million, or 53 percent—representing the largest additional
+funding stream. Other private contributions and donations as well as local grant funds totaling
+approximately $54.8 million allowed the 2012 Bond to absorb the unexpected budget increases as shown
+in Exhibit 5 that follows.
+
+In addition to the capital school projects, the 2012 Bond also set aside $5 million to improve science
+classrooms at up to 39 schools and another $69.5 million to replace and seismically brace roofs and
+improve accessibility at as many as 33 schools. These improvement projects were completed while
+students were on summer break over a four-year period between 2013 and 2016.
+
+
+
+
+7 Memorandum by OSM to the Board on November 19, 2012 envisioned all capital school projects to be completed by the summer of 2019.
+8 Board Resolution No. 4840, November 18, 2013.
+9 2012 Bond Performance Audit Report, issued June 2017, p.30-37.
+
+
+
+
+SJOBERGEVASHENK                                                                                                        P a g e | 11
+                     EXHIBIT 5. 2012 BOND BUDGET STATUS, AS OF JUNE 19, 2019 (AMOUNTS IN MILLIONS)
+                                              Original      Estimated
+ Bond Component                                Bond          Cost at                                 Auditor Comments
+                                              Amount       Completion (C)
+ Faubion Elementary School (A)                 $28.0           $49.9          The difference of $112.4 million between the amount passed by
+                                                                              voters and the current estimate to complete the program is
+ Franklin High School                          $85.0           $112.8         covered by other funding sources totaling $115.8 million as
+                                                                              follows:
+ Grant High School                             $95.0           $158.7
+                                                                              •   Bond Premium                                $ 56.9 million
+ Roosevelt High School                         $70.0           $100.7         •   Interest Earned                             $ 4.1 million
+                                                                              •   Concordia University Donation for Faubion $ 15.5 million
+      Sub-Total Capital Schools Projects       $278.0          $422.1         •   Other (gifts, grants, general fund)         $ 39.3 million
+                                                                                                                       Total: $ 115.8 million
+       Educational Facility Improvements        $5.0
+                                                               $85.3
+ Seismic & Other Building Improvements         $69.5
+
+                         Program Cost (B)      $84.5           $42.0
+
+                         Debt Repayment        $45.0           $45.0
+
+                         Total 2012 Bond       $482.0          $594.4
+
+                               Difference                $112.4
+Source: Original Bond Estimate per 2012 Bond Fact Sheet. Estimated Cost at Completion from e-Builder Bond Program Budget Summary
+report, with report run date of June 19, 2019. Bond Premium from PPS Adopted Budget Fiscal Year 2015/2016 to Fiscal Year 2019/2020.
+Interest Earned from PPS Adopted Budgets Fiscal Year 2015/2016 to Fiscal Year 2018/2019. Additional funding sources from e-Builder
+Funding Source by Project report, with report run date of June 19, 2019.
+Note: (A) The $15.5 million contribution from Concordia University for the Faubion project was an expected funding source when PPS planned
+the project. The $28 million presented to voters represented the Bond-paid share of the project only. (B) The Bond Program Cost Category of
+$84.5 million included $45 million of contingency set-aside for any unanticipated project overages in addition to program-wide costs such as
+master planning, swing, Ed Spec revisions, or OSM staff costs. Contingency amounts are tracked as part of project costs once allocated to a
+specific project. Therefore, the $42 million shown in this table represents the cost for “program-wide expenses only”, the contingency portion is
+accounted for in the specific bond projects. (C) Estimated Cost at Completion amounts shown include escalation as actual incurred cost which
+was budgeted at the $84.5 million program cost level in the original bond amount.
+
+
+OSM Needs to Address Project Management Issues Noted in Prior Bond Audits
+While the 2012 Bond projects were delivered as promised, certain project management issues were noted
+in prior audits related to change order management and review of contractor costs. For instance, the 2012
+Bond performance auditor found costly change orders and recommended that OSM perform audits of the
+Franklin and Roosevelt High Schools construction contractors’ invoices to evaluate the effectiveness and
+efficiency of the monthly billings, among other items. As a result, PPS hired an external consultant to
+conduct construction cost audits on those school projects in 2017 who recommended OSM employ
+stronger change order management practices to improve approval processes and documentation of price
+negotiations. Other recommendations focused on resolving questioned and unsupported costs related to
+contractor and subcontractor labor charges, material costs, meal reimbursements, and other expenses.
+
+OSM indicated they are working on addressing these recommendations including improving change control
+documentation, strengthening its contractor pay application processes, and updating future contract
+language for clarity around expenditures. Because these issues and recommendations affect project
+
+
+
+
+SJOBERGEVASHENK                                                                                                                  P a g e | 12
+delivery practices and cost containment for the 2017 Bond projects as well, OSM should develop a written
+plan, prioritize efforts and make requisite changes before projects enter the construction phase.
+
+Recommendations
+To better control project delivery, contain costs, carry-forward 2012 Bond lessons learned to the current
+2017 Bond and future bond projects, and ensure bond audit recommendations are adequately addressed,
+OSM should work with PPS leadership and other PPS departments to:
+
+   1. Develop a written plan for establishing and prioritizing corrective actions needed to address project
+      delivery issues related to change orders, contractor invoices, and other recommendations noted in
+      prior audits of 2012 Bond projects. This plan, at the minimum, should identify:
+            •   PPS’ position with regard to the recommendation (agree/disagree);
+            •   How PPS will implement the recommendations (as stated, implement differently, or
+                reasons for not implementing);
+            •   Target implementation dates;
+            •   Process owners (staff responsible for addressing recommendations);
+            •   Actions taken to address issues and recommendations noted; and
+            •   Protocols for communicating status updates to the Bond Accountability Committee and/or
+                the Board.
+
+
+
+
+SJOBERGEVASHENK                                                                                 P a g e | 13
+Section 2: Most 2017 Bond Projects are On-Schedule, but Will
+Cost More to Complete
+
+While still early in the 2017 Bond cycle, OSM made progress on planning and design of the four school
+capital projects. Construction begins in the summer of 2019 for a new Kellogg Middle School and the
+modernization of Madison High School, while construction of Lincoln High School will begin in 2020 and
+Benson Polytechnic High School is scheduled to start in 2021. For health and safety projects identified in
+the bond, construction has started and projects are estimated to be completed by 2023.
+
+More Funding is Needed to Build Schools Promised
+However, as discussed in the first performance audit report issued in April 2019, the 2017 Bond funding of
+$790 million will not be sufficient to cover the cost of building all four schools. As of June 2019, the total
+cost to complete 2017 Bond projects was estimated at $1.07 billion, approximately $280 million more than
+funded by the voter-approved bond as shown in Exhibit 6. Unlike the 2012 Bond, there has been limited
+other funding sources available thus far, such as from bond premiums, to offset the additional costs.10
+
+                         EXHIBIT 6. 2017 BOND STATUS, AS OF JUNE 19, 2019 (AMOUNTS IN MILLIONS)
+                                                                                   Original Bond        Estimate at        Dollar      Percent
+ Bond Component                    Status
+                                                                                      Amount            Completion        Change       Change
+ Benson High School                Master Planning                                      $202               $330.0          $128         63.4%
+
+ Lincoln High School               Design                                               $187               $243.1          $56.1         30%
+
+ Madison High School               Construction                                         $146               $206.5          $60.5        41.4%
+
+ Kellogg Middle School             Construction                                          $45               $59.8           $14.8        32.9%
+
+                                            Sub-Total Capital Schools Projects          $580               $839.4         $259.4        44.7%
+
+ Health & Safety Projects (A)      Phased Completion Summer 2018 – 2023                 $150                $158             $8         5.3%
+
+ Program Management &                                                                                       $20.6
+                                   On-Going                                              $60 (B)                           $12.6         21%
+ Contingency                                                                                                $52 (C)
+
+                                                                Total Estimate          $790               $1,070          $280         35.4%
+Source: Original Bond Cost Estimate Amounts per Board Working Session, January 24, 2017. Estimated Cost at Completion for the four
+school projects per e-Builder Project Management Cost Report, with report run date of June 19, 2019.
+Note: (A) The 2017 Bond allocated $150 million to Health & Safety projects. An additional $8 million OSCIM (Oregon School Capital
+Improvement Matching Program) grant increased total H&S funding to $158 million. (B) The 2017 Bond estimated $20 million for contingency
+plus $40 million for program management costs for a total of $60 million. (C) The $40 million set aside for program management has increased
+to approximately $52 million (auditor-calculated based on e-Builder data of $1.07 billion total program estimate minus $839.4 million for capital
+schools, $158 million for H&S, and $20.6 million contingency).
+
+Part of this funding gap was due to rapidly increasing construction costs in the Portland area and low initial
+budget projections resulting in insufficient funding to deliver the Benson High School project as envisioned
+
+
+10 According to the Fiscal Year 2019/2020 PPS Budget, $348.7 million of the $790 million Bond has been issued thus far, with bond premiums
+
+totaling $1.1 million.
+
+
+SJOBERGEVASHENK                                                                                                                    P a g e | 14
+in the 2017 Bond’s initial master planning phase. In addition, the Board directed OSM to expand initial
+designs to include a Multiple Pathways to Graduation program building. To ensure the Benson High School
+project remains on schedule, PPS expects to commence a capital bond campaign in 2020 to support all
+phases of the Benson High School campus modernization in addition to continued modernization at other
+district schools. In the event that voters do not pass a future bond, the Board is considering other options
+including obtaining a full faith and credit loan secured by the PPS general operating fund to complete the
+construction of Benson High School.11
+
+Independent from the budgets for the capital school projects, the 2017 Bond also set aside a lump sum
+$150 million to address health and safety needs across various district school sites. To enhance these
+funds, PPS secured $8 million in supplemental grant funding for security upgrades allowing improvements
+to be made at a greater number of school sites than anticipated in the bond. As of June 2019,
+approximately $32.8 million of the $150 million was spent on seismic roof upgrades, fire sprinklers and
+alarms, asbestos mitigation, lead-based paint, and security. Based on current schedules, significant work is
+scheduled to start during the summer of 2019 with all envisioned improvements completed by 2023.
+
+Recommendations
+To help fund project cost increases and enhance accountability, OSM should work with PPS leadership and
+other PPS departments to:
+
+    2. Develop a written plan or strategy for identifying and incorporating additional funding options if
+       future bond funds are not available and regularly communicate and discuss progress with the Board
+       and the Bond Accountability Committee.
+
+
+
+
+11 Board Resolution No. 5780, December 18, 2018.
+
+
+
+
+SJOBERGEVASHENK                                                                                P a g e | 15
+Section 3: Cost Estimation Practices Improved and Financial
+Management was Sound, Although Small Enhancements Would
+Strengthen Processes
+
+Successfully delivering a high-dollar capital bond program requires strong financial management to provide
+reasonably accurate cost estimates and budgets, effectively manage investments to meet cash flow needs,
+determine allowability of costs, and provide accurate and timely reporting to oversight bodies. Our audit
+found that OSM improved its cost estimation practices and exercised appropriate financial management
+over bond funds, although slight enhancements are needed to ensure timely financial reconciliations are
+performed between two critical systems.
+
+For instance, to address challenges resulting from initial 2017 Bond estimates, OSM established a baseline
+cost estimation methodology that is refined using historic costs from similar projects and project elements
+from the 2012 bond program.12 Additionally, OSM established several process controls to ensure cash flow
+needs are met and bond funds are appropriately spent. Once implemented, the new cash flow planning
+process should also better align cash flow needs with construction cost schedules. We also found bond
+investments were well-managed in accordance with PPS’ cash management policy. Automated system
+controls help ensure that expenditures are appropriately approved and do not exceed established budgets.
+However, OSM fell behind on performing regular financial reconciliations between two key systems, putting
+the Bond program at risk of approving expenditures in excess of established project budgets and increasing
+the risk that bond finances reported to the Board and BAC are inaccurate.
+
+Capital Project Cost Estimation Generally Followed an Established Methodology
+Overall, we found that OSM’s revised cost estimates prepared after the 2017 Bond passage addressed
+some of the deficiencies noted with pre-bond estimation practices, although further refinement is necessary
+to provide greater transparency of decisions made. As part of developing current project cost estimates for
+the 2017 Bond projects and address recommendations from the first 2017 Bond performance audit issued
+in April 2019, OSM developed and followed an established methodology combining professional estimates
+of hard costs with internal cost estimates for furniture, fixtures, and equipment (FF&E), soft costs, and
+swing spaces produced by OSM based on historic data.13 The OSM-based cost factors and assumptions, if
+appropriately applied, align with industry practice. In general, total project costs were estimated using the
+methodology that follows.
+
+
+
+
+12 Bond Communications to the Board, Bond Accountability Committee, and Public will be assessed during the Fiscal Year 2019/2020 audit.
+13 2017 Bond Performance Audit – Fiscal Year 2018/2019 Final Report: 2017 Bond Cost Estimate, issued April 15, 2019.
+
+
+
+
+SJOBERGEVASHENK                                                                                                           P a g e | 16
+            Total Project Cost = Hard Cost (from professional cost estimator)
+                                               + Soft Cost (15% - 30% of hard cost, aggressive to conservative range)
+                                               + Furniture, Fixtures, Equipment ($16/sf based on OSM prior costs)
+                                               + Contingency (10% - 15%, industry range)
+                                               + Swing/Temp Space (PPS estimated, project specific)
+                                               + Escalation (4% - 6% based on market conditions)
+
+ Our review of revised cost estimates for the four high school and middle school capital projects developed
+ during the second half of 2018 found that PPS followed the established methodology. In fact, the vast
+ majority of cost components were supported by underlying documentation for all capital school projects—
+ with only some documentation for FF&E and soft cost components for the Benson and Lincoln High School
+ projects not available. Specifically, in documents provided to the Board in April 2018 and May 2019, OSM
+ explained that it “budgets $16 per square foot for FF&E based on recent cost data.” Yet, as shown in
+ Exhibit 7, FF&E estimates varied from the $16 per square foot methodology and ranged from $18 per
+ square foot for Kellogg Middle School to $41 per square foot for Benson High School. While variations from
+ established methodology may be needed and are reasonable, there was no standardized, formal project
+ documentation available to substantiate the departure from stated protocol.
+
+                   EXHIBIT 7. 2017 UPDATED COST ESTIMATES FOR CAPITAL SCHOOL PROJECTS, AS OF 2018
+                              Industry                  Benson                      Lincoln                    Madison                     Kellogg
+Cost Component            Standard or PPS           December 2018                August 2018                August 2018                 October 2018
+                            Historic Data         Master Plan Report (B)      Updated Master Plan         Budget Approval (C)         Project Update (C)
+
+                          Professional Cost
+Hard Cost                                            $224.0 Million              $186.8 Million             $151.5 Million              $46.7 Million
+                              Estimator
+
+Soft Cost                    15% to 30%           $34.4 Million = 15%        $25.6 Million = 13.7%      $16.3 Million = 10.8%       $13.3 Million = 28.5%
+
+Furniture, Fixtures,       Project Specific,
+                                                 $15 Million = $41/sf (D)     $6 Million = $21/sf        $7.3 Million = $24/sf      $1.8 Million = $18/sf
+Equipment (FF&E)            approx. $16/sf
+
+Contingency                  10% - 15%                    15%                         10%                        14%                         10%
+
+                           Project Specific,
+Swing or
+                            based on past             $ 5.6 Million                $2 Million                $525,000 (F)            No swing needed.
+Temporary Space
+                             experience
+
+Escalation (A)                 4% - 6%                     6%                         5%                          5%                        4.5%
+ Source: Auditor-generated based cost data and reports provided by PPS and external professional cost estimators.
+ Note: (A) Cost escalation was included in the hard cost estimates for each of the projects. (B) Costs for Benson High School do not include the
+ Multiple Pathways to Graduation (MPG) building and additional swing expenses added in March 2019 at the direction of the Board. (C) Cost
+ estimates for Madison High School and Kellogg Middle School are based on updates to the master plans presented to the Board. (D) For
+ Benson High School FF&E, the project architect provided an initial estimate for FF&E and the project team made adjustments based on
+ previous experience at the Grant High School project and for additional contingency needs. (E) Swing cost represents the relocation for
+ Lincoln’s athletic facilities/program which will be moved to another school site while the new building is constructed on the existing athletic field.
+ (F) Swing costs are minimal since Madison is going to utilize the move-in ready Marshall school-site while in construction.
+
+
+
+ When asked, project teams explained that FF&E amounts were generally set based on experience with
+ 2012 Bond projects. For the Lincoln High School project, we were informed that the Senior Project
+ Manager updated FF&E using actual costs from the most recently completed Faubion Elementary School
+
+
+ SJOBERGEVASHENK                                                                                                                      P a g e | 17
+construction project where he also functioned in a project manager role. However, the process or the
+rationale for the deviation from methodology was not documented. In contrast, for Benson High School,
+while there were no comparable 2012 projects to use as basis for FF&E estimates, the project team
+indicated that its higher FF&E estimate was needed for specialized career and technical education
+equipment. The Benson High School estimates for FF&E were supported by external cost estimator
+adjustments due to specialty heating, ventilation, air conditioning, and plumbing systems required for career
+and technical education shops. While the modifications to those cost estimates seemed reasonable and
+appropriate, there was no written documentation or other quantifiable data memorializing the variation from
+established methodology and calculations used. As such, auditors could not validate or confirm how the
+FF&E decisions for Lincoln High School were set or vetted.
+
+Similarly, for soft costs, some deviations from the cost estimate methodology were well-documented, but
+not in all instances. Specifically, we noted that master plan soft cost estimates represented 10.8 percent of
+hard costs for the Madison High School project and 13.7 percent for the Lincoln High School project—
+below the 15 to 30 percent OSM standard range. In both cases, the project teams indicated that the soft
+cost estimates were adjusted given experience with construction on the Grant High School and Faubion
+Elementary School projects. While the Madison High School project teams provided documentation
+demonstrating the need to make adjustments from the stated OSM estimation methodology, we were not
+provided any similar supporting documentation for the Lincoln High School variance.
+
+Deviations from stated practice are often warranted, but without documented explanation or rationale of
+how those decisions were reached, OSM cannot be assured that estimated costs were appropriate and
+represented a fair, good-faith evaluation of project costs. Thus, while latest iterations of bond project cost
+estimates were based on more robust cost factors, the critical challenge remains for OSM to ensure
+defined protocols are consistently followed and deviations are documented to support decisions.
+
+OSM had Generally Effective Controls in Place over Bond Spending, Although
+Financial Reconciliations were not Current and Other Improvements are Needed
+Overall, OSM had budget and spending process and controls in place. Once bond project budgets are
+approved and adopted by the Board based on project cost estimates provided by OSM project teams,
+amounts are entered into the e-Builder construction management system. Together with PPS’ PeopleSoft
+financial management system, these systems provided controls over expenditures of bond funds. However,
+recent construction cost audits of the Roosevelt and Franklin High School projects noted issues with the
+level of detail and support of expenditures as discussed later in this section. 14 Moreover, we found
+necessary reconciliations between e-Builder and Peoplesoft were backlogged by at least one year,
+increasing the risk that bond expenditures are understated and would not adequately reflect remaining
+funds available for bond projects. Thus, several improvements are needed.
+
+
+
+
+14 Construction Contract Audit Report, Roosevelt High School, September 2017, p.2. Construction Contract Audit Report, Franklin High School,
+
+October 2017, p.2
+
+
+SJOBERGEVASHENK                                                                                                             P a g e | 18
+•      Construction Management System Controls Over Budgets and Spending Reviewed Was
+       Appropriate, but OSM Practices Need Improvement
+       The e-Builder construction management system provides control over program and project
+       expenditures in two ways: first, the system prevents actual expenses and budget commitments from
+       exceeding established budgets as budget changes require several levels of approval. Second, the
+       system automates the approval process for project expenditures, routing them to the appropriate
+       parties for approval and providing a record of when and by whom each expenditure was approved.
+       These automated controls reduce the risk that bond funds will be spent inappropriately or in excess of
+       approved budgets, but they can only be effective if OSM employs strong business practices over
+       expenditure reviews outside the automated system.
+
+       As shown in Exhibit 8, a budget change request typically begins with a member of the project team
+       initiating the request in e-Builder. After review and approval by OSM leadership, the Senior Bond
+       Accountant/Analyst processes the change in the system triggering a notification to acknowledge the
+       approved budget change by the project manager.
+
+                                                         EXHIBIT 8. BUDGET WORKFLOW IN E-BUILDER
+
+                                                                                                          Budget Change request
+  Initiator submits budget     Budget change request                   Budget change request                                           Project Manager
+                                                                                                         processed in e-Builder by
+ update request through e-     reviewed by Director of      Approve   reviewed by OSM Senior   Approve                               acknowledges budget
+                                                                                                             Bond Accounting
+            Builder                 Construction                              Director                                                change in e-Builder
+                                                                                                                Specialist
+
+
+                                       Revise                                Revise                               Revise
+
+
+ Initiator revises budget or
+   budget update request
+
+
+                               Source: Auditor-generated from e-Builder process flowcharts and interviews with OSM staff.
+
+       Similarly, for bond expenditures, PPS accounting staff manually enter project invoices into the e-Builder
+       system that are then available for review by the Senior Bond Accountant/Analyst and the project
+       manager. Our review of both the automated workflow in the e-Builder system and a sample of invoices
+       from the 2017 Bond projects found that all reviewed invoices were appropriately approved and followed
+       PPS established e-Builder protocols. Although the expenditures we reviewed were appropriately
+       approved and followed PPS established e-Builder protocols, the risk of expense claims being approved
+       without appropriate underlying support still exists. Specifically, recent external construction cost audits
+       of the Roosevelt and Franklin High school projects found instances where certain line items totaling
+       $26 million on paid construction contractor invoices were not fully supported.15 As of January 2019,
+       OSM indicated it was working with the construction auditor and contractors on addressing the findings
+       and recommendations. 16
+
+
+
+
+15 Construction Contract Audit Report, Roosevelt High School, September 2017, p.2. Construction Contract Audit Report, Franklin High School,
+
+October 2017, p.2.
+16 OSM corrective actions and changes to its practices to address the issues identified in the construction audits will be reviewed in future bond
+
+performance audits.
+
+
+SJOBERGEVASHENK                                                                                                                        P a g e | 19
+•    New Bond Cash Flow Process will Better Align with Project Needs once Implemented
+     For the 2012 Bond projects, cash flows and analyses were prepared monthly by a third-party consulting
+     firm using project schedules; yet, for the 2017 Bond, PPS moved away from using third-party cash flow
+     projections and tasked internal staff with assuming this function. We reviewed the new PPS internal
+     processes and found them to be reasonable and effective, if implemented, to align cash flow with
+     project needs.
+
+     Specifically, PPS’ internal approach for determining bond cash flow needs will rely on preparing and
+     updating project schedules and cash flow planning worksheets on a monthly basis beginning in Fiscal
+     Year 2019/2020. Worksheets will detail expected cash flow for each capital project, health and safety
+     improvement projects, and program and project management costs by funding source and expected
+     year of expenditure for both the remaining 2012 Bond projects and the 2017 Bond projects. Moreover,
+     PPS plans to detail cash flow for all bond-funded projects by fund code showing the monthly amount
+     needed through the end of calendar year 2025—the timeframe by which all 2017 Bond projects are
+     expected to be completed.
+
+     By bringing the cash flow analyses in-house for the 2017 Bond, PPS anticipated that a team, led by the
+     Senior Bond Accountant/Analyst, would prepare quarterly cash flow reports. However, due to turnover
+     at the PPS financial leadership level as discussed in greater detail in Section 4 of this report, the Senior
+     Bond Accountant/Analyst assumed non-bond related tasks that took priority over bond cash flowing
+     planning. Beginning with Fiscal Year 2019/2020, PPS will implement a new cash flow update process
+     whereby project teams will meet monthly with the OSM Director of Construction, Senior Bond
+     Accountant/Analyst, and PPS accounting staff to discuss each project’s individual cash flow needs.
+     Similarly, at the program-level, the Senior Bond Accountant/Analyst will meet with the Treasury
+     Manager monthly to discuss program-level cash flow requirements. With continued recent stability at
+     PPS executive levels and new practices proposed, PPS should be better able to closely align bond
+     cash flows with the most current cost estimates and project delivery schedules if the new practices are
+     followed.
+
+•    Bond Fund Investments Appeared Well-Managed
+     Overall, we found that PPS’ investment activity was well-managed and appropriate for the 2017 Bond
+     program. Specifically, to guide the investment of its bond and operating funds, the Board adopted a
+     cash management policy that reflected requirements under Oregon Revised Statutes concerning
+     investments of school districts.17 The policy and related bond practices were reasonable and aligned
+     with other public sector practices where PPS’ investment of bond funds in short term, liquid
+     investments allowed PPS to earn interest to supplement bond funds.
+
+     The cash management policy also required quarterly reports to the Board, detailing investments by
+     maturity date as well as the percentage of the portfolio that each investment accounted for, among
+     other items—which aligned with other public entities’ cash investment policies. Our review of the three
+     quarterly reports available for Fiscal Year 2018/2019 found that reports submitted to the Board
+
+17 Oregon Revised Statutes (ORS) 294.035, 294.046.
+
+
+
+
+SJOBERGEVASHENK                                                                                     P a g e | 20
+     contained nearly all elements required by the investment policy except for detailed investment
+     transactions. These minor omissions are due to a recent change in the reporting cadence for
+     investment performance, and both the PPS Chief Financial Officer and Treasury Manager indicated
+     that they are in process of updating the format of the quarterly financial reports. Once updated, the
+     reports should contain all the necessary reporting elements. Although PPS also did not report its bond
+     investment performance relative to benchmarks as required in the investment policy, that section of the
+     policy does not apply to the investment of bond proceeds since bond funds need to align cash inflow
+     with project expenditures to keep projects moving, rather than maximize investment dollar returns.
+
+•    Backlogged Reconciliations Increase Risk that Expenditures are not Within Budget
+     Certain project expenditures are processed outside the e-Builder system, including payroll, travel
+     expenditures, and information technology purchases that are first processed in the PeopleSoft financial
+     system and then manually entered into the e-Builder system. Since the two systems do not
+     automatically interface with each other, the Senior Bond Accountant/Analyst performed manual
+     reconciliations between the two systems. Given that some expenditures are first entered into the
+     e-Builder system while others are first entered into the PeopleSoft system, reconciling the two systems
+     is crucial for capturing an accurate reflection of project expenditures and ensuring actual costs do not
+     exceed approved budgets.
+
+     However, while the stated intent was to conduct monthly reconciliations, these reconciliations had not
+     been performed since July 2018 and were not expected to be completed until the beginning of Fiscal
+     Year 2019/2020.18 In part, the backlog was due to the Senior Bond Accountant/Analyst assuming other
+     tasks, some unrelated to the bond such as assisting with year-end financial activity or annual PPS
+     budgeting processes, due to frequent turnover and vacancies at the PPS financial management
+     leadership level. Specifically, as a result of the Chief Financial Officer position having four different
+     individuals functioning in that role in less than two years, the Senior Bond Accountant/Analyst had to
+     assist with preparation of the district’s Comprehensive Annual Financial Report, annual budgets, and
+     year-end closing of financial records—all non-bond related activities. As a result, the 2012 and 2017
+     Bond program reconciliations between the financial transactions in the e-Builder and PeopleSoft
+     systems were not completed for several months.
+
+     Timely reconciliations are a key control for ensuring all project expenditures are captured, do not
+     exceed approved budgets, and are accurately reported to the Board. A year-long backlog puts the
+     bond program at greater risk of approving expenditures in excess of established project budgets and
+     increases the risk that reports submitted to the Board are inaccurate. These risks could increase
+     significantly unless OSM addresses the backlog and ensures that reconciliations continue to be done in
+     a timely manner going forward—particularly since the Kellogg Middle School and Madison High School
+     projects are scheduled to start construction this summer where significant expenditures are generated.
+     With a new Chief Financial Officer in place since December 2018 and the hiring of additional staff
+     resources to manage bond financial activities in April 2019, OSM should immediately allocate and
+
+18 There is a time lag for some expenses such as travel, which means the reconciliation cannot be completed at the immediate conclusion of
+
+each month. Although audit fieldwork continued into May 2019, April 2019 was the last month that could have been reconciled during the audit
+period.
+
+
+SJOBERGEVASHENK                                                                                                              P a g e | 21
+   concentrate efforts on completing overdue reconciliations for Fiscal Year 2018/2019 and ensure future
+   reconciliations are performed in a timely manner.
+
+Recommendations
+To enhance financial management over bond activities, OSM should work with PPS leadership and other
+PPS departments do the following:
+
+   3. Ensure cost estimates are fully documented with underlying support and rationale used for soft
+      costs and FF&E—in addition to other cost components—including variations or deviations from
+      stated methodology.
+
+   4. Implement the new cash flow planning process as intended at the start of Fiscal Year 2019/2020,
+      and update cash flows regularly.
+
+   5. Immediately allocate and concentrate efforts on completing overdue Fiscal Year 2018/2019
+      reconciliations between the e-Builder construction management system and the PeopleSoft
+      financial system, as well as ensure future reconciliations are regularly performed in a timely manner.
+
+
+
+
+SJOBERGEVASHENK                                                                                P a g e | 22
+Section 4: Bond Program Delivery Framework and Document
+Management Practices Should be Standardized and Formally
+Implemented
+
+Managing large multi-million dollar capital projects inherently comes with complex challenges and risks that
+are further amplified when public funds are at stake. While the successful delivery of a capital program is
+largely dependent on the availability of funding, an owner’s experience and expertise in managing a wide
+portfolio of projects is equally critical. When projects are publicly funded, there is also an intrinsic obligation
+for greater transparency and accountability in spending tax dollars within the parameters set-forth by voter-
+approved measures.
+
+When OSM’s prior 2012 Bond created an instant demand for large-scale capital construction expertise
+within the district, the passage of the 2017 Bond amplified that need as the scale of the bond projects
+posed a challenge the district had not contended with for several decades. We found that OSM followed
+certain project planning and design activities for its 2017 Bond that aligned with best practices including
+using project specific management plans, incorporating value-engineering practices, vetting design
+decisions and selecting stakeholder buy-in. Project teams used automated project management tools,
+focused on transparency and accountability and made good progress on the design and construction of the
+2017 Bond projects. We also found that OSM faced the following challenges:
+           ▪ Key program and project management manuals and procedures were not regularly updated or
+             were still in draft format;
+           ▪ Bond records and documentation were dispersed in multiple systems, not always accessible,
+             and hard to locate; and
+           ▪ Protocols for formally documenting and communicating bond project decisions related to design
+             changes were inconsistently applied.
+
+Without a defined robust delivery framework in place, practices and approaches to key program and project
+components could vary widely as individuals rely on their personal experience and expertise handling
+similar project tasks and activities. This can lead to reduced consistency in how projects are delivered and
+increased risk of data and historical knowledge being lost—especially if there is turnover with staff or hired-
+consultants. More importantly, without strong practices, risks are increased for scope and quality issues
+such as completed deliverables differing from plans, schedule delays, or cost overruns. Given recent PPS
+turnover and multiple key project team members serving in a contracted capacity, it is critical that OSM
+capital project institutional knowledge is preserved and can be transferred to new employees or contract
+staff.19
+
+
+
+
+19 As of May 2019, the interim Senior OSM Director, Bond Program Manager, project directors for Grant High School and Benson High School,
+
+and all construction manager positions were staffed with external consultants.
+
+
+SJOBERGEVASHENK                                                                                                          P a g e | 23
+Not all Delivery Guidelines and Important Project Specific Management Plans were
+Finalized
+With the complexity of construction projects subject to a wide range of factors influencing their outcome,
+managing capital projects must have critical policies and procedures to guide consistent project
+implementation. Ideally, management plans and procedures should be formalized at the outset of a
+program or during early capital program planning to define and guide the work ahead.20
+
+In-line with industry leading practice, OSM developed formal program and project delivery tools after the
+2012 Bond passed. Serving as guiding principles to achieve the program’s goals, the bond program
+delivery framework included a program management plan (PMP), standard operating procedures (SOPs),
+and a project specific project team management plan (PTMP) as shown in Exhibit 9. However, not all of
+these documents were updated or finalized as of May 2019.
+
+                                      EXHIBIT 9. BOND PROGRAM DELIVERY FRAMEWORK
+
+
+
+
+                                                      Project
+                                                                         Program
+                                                     Standard
+                                                                        Management
+                                                     Operating
+                                                                           Plan
+                                                    Procedures
+
+
+
+                                                             Project Team
+                                                           Management Plan
+
+
+
+
+                                      Source: Auditor-generated based on review of existing data.
+
+As discussed later in this section, the past lack of stability at the PPS executive leadership level due to
+turnover since the passage of the 2017 Bond has strained staff resources available to complete needed
+project administrative tasks such as establishing functioning bond management plans. Given the multitude
+of external and internal project team members to coordinate and manage, a fully developed and
+established program delivery framework is needed to help achieve greater uniformity and build schools as
+envisioned. As the project owner, OSM should place greater emphasis on completing and implementing
+project plans, and ensure protocols and directives are followed by all project teams.
+
+Project Management Plan Generally Aligned with Leading Practices, but Needs to be Updated
+Based on our high-level review, OSM’s 2017 PMP contained elements suggested by industry leading
+practices as well as included discussion on governance structure, definitions for project team roles and
+responsibilities, description of the program and related projects, methodologies for calculating escalation,
+
+20 The Construction Management Association of America (CMAA), Construction Management Standards of Practice, 2015, p.10-12.
+
+
+
+
+SJOBERGEVASHENK                                                                                                       P a g e | 24
+requirement for a risk management plan, establishment of key performance metrics to be captured, and
+monthly project report instructions. A PMP is extremely important as “one of the mainstays of program
+management and defines the vision, implementation strategy, schedule, and budget criteria, and the
+policies, procedures, and standards for the program”.21 As a “living document”, a PMP must be regularly
+updated throughout the life of the program to account for changing conditions to ensure most
+contemporaneous reference and continuous guidance for project teams.
+
+In October 2013, OSM’s first PMP was completed establishing standards and protocols for managing the
+2012 Bond projects and subsequent bonds. Updates to the PMP occurred annually in 2014 and 2015, with
+the latest PMP completed in October 2017. While the PMP evolved over time to include many key elements
+suggested by industry practice as discussed in prior bond performance audits, OSM was challenged
+keeping the PMP current through annual updates. According to interviews conducted with bond program
+leadership, this was in part due to a 2018-identified need for a complete restructure of the PMP to better
+address and communicate requirements and expected practices for project teams. As a result, the 2018
+PMP update was still underway in June 2019 and not estimated for completion until late 2019.
+
+Not all Project Specific Team Management Plans Were Completed
+At the project level, best practices suggest using a project team management plan (PTMP) outlining
+strategies for fulfilling the requirements for specific projects to establish “the scope, budget, schedule,
+environmental conditions, and the basic systems to be utilized.” At the “day-to-day” level, specific project
+standard operating procedures should “define the team responsibilities, levels of authority, communication
+protocol, and the systems, methods, and procedures for project execution.”22 We found that, in line with
+leading practice, OSM required its project managers to prepare a baseline PTMP prior to the start of project
+design and update the plan at key project milestone stages to address changing conditions.23
+
+However, as of June 2019, a baseline PTMP had only been established for the Kellogg Middle School
+project, while the PTMPs for the three high school projects were still in a draft outline format only
+addressing high-level PTMP elements such as overall description of the project, Design Standards to be
+followed, and planned project milestones. With construction imminently starting at Madison High School
+this summer, Lincoln High School completing design, and Benson High School entering the design phase,
+the lack of completed baseline PTMPs increases risks of work not performed in a consistent or predictable
+manner. Further, the delayed timeline defeats the primary purpose of a PTMP as defined by OSM “to
+ensure the individual Bond projects are constructed on schedule, within budget, and with the quality
+standards established by the District.”24
+
+Moreover, the prior 2012 Bond performance audit issued in 2017 found similar issues with PTMPs for the
+2012 capital school projects. The audit particularly noted that while OSM agreed that key elements of the
+
+
+
+
+21 The Construction Management Association of America (CMAA), Construction Management Standards of Practice, 2015, p.101.
+22 The Construction Management Association of America (CMAA), Construction Management Standards of Practice, 2015, p.10, 12.
+23 PPS Project Standard Operating Procedures, 2017, p.39.
+24 PPS Project Team Management Plan, 2017, p.5.
+
+
+
+
+SJOBERGEVASHENK                                                                                                        P a g e | 25
+PTMP be developed prior to the start of design, only a partial draft PTMP was in place at the time the Grant
+High School project completed design in early 2017. 25
+
+Stronger Document Management is Needed
+Effectively managing and controlling the flow of information related to project delivery and all project
+activities is critical. Inconsistent or conflicting information can lead to confusion, project delays, and
+uneconomical decisions. Tracking and preserving accurate project documentation allows project managers
+to better gauge status and progress, have the data to make informed decisions on cost and schedule, and
+be more accountable to stakeholders and the general public. Further, strong and reliable records protect
+OSM from heightened risk of claims filed by contractors, disputes over work, and cost overages.
+
+While auditors found certain 2017 Bond project documentation expected on large scale capital projects, we
+also found instances of inconsistent and unorganized project documents across multiple systems used for
+project management in addition to system access issues. Because these practices can potentially cause
+project issues such as those described above, OSM needs to formally determine, record, and communicate
+how bond project documents will be consistently managed, stored, and protected throughout the bond
+program’s life cycle in accordance with leading practices.
+
+•    Formal Document Management Policies were not Always Observed by Project Teams
+     Best practices suggest that entities involved with delivering large capital programs must make early
+     decisions on how to capture, archive, and distribute project documents.26 While OSM’s Standard
+     Operating Procedures (SOPs) outlined protocols for maintaining and storing draft and final project
+     documents and how documents should be labeled to ensure consistency across projects, those
+     protocols were not consistently followed.
+
+     Specifically, the SOP prescribes the use of the e-Builder system as the main document management
+     system that includes a standard filing structure for all projects such as Folder A holds all administrative
+     Folder B contains design documents, and Folder C holds permitting data. However, our review of these
+     e-Builder folders found that their use was inconsistent—some project teams maintained certain
+     documents as required, while other project team folders had no content.
+
+•    Project Documents Were Maintained In Multiple Systems
+     For the most part, OSM maintained critical project documentation suggested by industry leading
+     practices to allow managers to effectively deliver the bond projects as promised. These documents
+     included master plan design documents, cost estimates, change order support, and schedules.
+
+     Yet, OSM project teams used a variety of systems to manage and store project data and documents.
+     These included e-Builder project management system, web-based work tools, and file storage systems
+     that allowed synchronization of files. While it is not unusual to use more than one system to handle the
+
+
+25 2012 Bond Performance Audit, June 2017, p.57.
+26 The Construction Management Association of America (CMAA), Construction Management Standards of Practice, 2015, p.103.
+
+
+
+
+SJOBERGEVASHENK                                                                                                       P a g e | 26
+     tremendous amount of data generated on large, complex capital projects, it is a riskier practice that can
+     result in project managers using outdated documents and data to make critical project decisions.
+
+     While the OSM SOP designated the e-Builder system as the official system for managing project
+     documents, project teams worked on and stored the same type of documents in different systems
+     depending on individual preferences. For example, as shown in Exhibit 10, cost estimates were stored
+     in four different systems depending on the project. When asked where current in-process project
+     documents were located, project managers were generally in alignment that two main systems were
+     used—e-Builder and the X-Drive. However, there was no consensus on where the final version of the
+     documents should be stored.
+
+     This practice conflicts with industry leading practices suggesting that “reporting progress, schedule,
+     cost, scope changes, and quality compliance must be achieved in a standard electronic format
+     available to every entity engaged in the program.”27 Increased risks from not using standard locations
+     or defined systems for maintaining project documents include project managers making decisions
+     using outdated information, additional staff time and resources used to locate key documents, and
+     potential repeated work if a document cannot be located and has to be recreated. Therefore, OSM
+     should designate official systems of record, remind and train project teams to follow established
+     protocols, as well as develop standard tools for accessing and managing documents for the bond
+     program as a whole.
+
+                                        EXHIBIT 10. SYSTEMS USED TO STORE KEY PROJECT RECORDS
+                                      e-Builder     X-Drive     Google Drive      Personal Drive      Blue Beam        Smartsheet        Other
+             Document                     (A)          (B)            (C)                (D)               (E)              (F)            (G)
+
+
+  Cost Estimates                         ✓             ✓                                 ✓                 ✓
+  Budgets and Expenditures               ✓
+  Schedules (H)                          ✓             ✓                                 ✓                 ✓               ✓              ✓
+  Project Team Meeting Minutes           ✓             ✓                                                                   ✓              ✓
+  Change Orders                          ✓             ✓                                 ✓
+  Deviation Logs                         ✓             ✓              ✓                                                    ✓
+  Lessons Learned                        ✓                                               ✓
+Source: Auditor-generated based on survey of project team members and audit observations.
+Notes: (A) e-Builder is a construction program management solution that manages capital program cost, schedule, and documents. (B) Located
+on the PPS network, the X-Drive is OSM’s main shared drive. (C) Google drive is a cloud-based file storage system which allows users to store,
+synchronize, and share files. (D) Located on the PPS network, the personal drive, including email folders can only be accessed by the individual
+for which the drive is set-up. (E) Blue Beam is a software that allows editing of PDF documents. (F) Smartsheet is a web-based document, task,
+and workflow management software. (G) Other systems include informal physical files, handwritten meeting notes, or OneDrive (another cloud-
+based file storage and sharing platform). (H) Program and project schedules are generated by external consultants using the Primavera
+scheduling software that can be downloaded into PDF files which are stored in the various systems shown.
+
+
+
+
+27 The Construction Management Association of America (CMAA), Construction Management Standards of Practice, 2015, p.103.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                  P a g e | 27
+•    Not All Key Team Members Had Access to Systems Used To Manage Projects
+     Like many public sector owners, PPS hired several experts from an external firm to provide program
+     management and construction management services for the 2012 and 2017 Bond projects.28 As key
+     project team members, these external staff helped manage, plan, design, and execute projects and
+     were involved with nearly every project activity such as budgeting, cost estimating, value engineering,
+     invoice review, and quality control among other activities. Although the external consultants were
+     responsible for critical project functions, they did not always have access to systems used by PPS staff
+     to most efficiently manage projects.
+
+     As previously shown in Exhibit 10, many key documents were stored on the PPS’ internal X-Drive to
+     which consultants functioning in project manager or construction manager roles could not always gain
+     access since access required PPS-owned computers which was not provided. To address the issue,
+     some OSM staff maintained data in multiple systems to provide these external consultants access to
+     needed project documents. However, this practice increases the risk that documents are not regularly
+     or appropriately updated on the multiple systems and project team members could inadvertently make
+     decisions using erroneous or outdated information. Inconsistent information or multiple versions of
+     documents make project management unnecessarily cumbersome and difficult to identify official, most
+     recent, or final records. Thus, OSM could consider providing computers for use by external project
+     management consultants or identify and use a standard and accessible system for storing capital
+     project documents where the full OSM team, including hired project consultants, have access to critical
+     project data.
+
+•    Project Documents Were Not Always Easy to Locate
+     With the use of multiple systems, obtaining data was a challenge for auditors in addition to project
+     management staff as users had to locate records across various systems. Moreover, some information
+     was not clearly marked as draft or final leading to confusion with version control. When requesting
+     information from OSM or independently searching for data in systems where we had access, records
+     were not always easy to locate. Similar project documents were located within different system folders
+     and files making it challenging to locate most recent versions.
+
+     For instance, auditors and OSM staff could not easily locate basic bond financial information such as
+     original budgets, actual expenditures, or estimated costs to complete projects within the e-Builder
+     system, the Bond programs’ key information management system. Moreover, a seemingly straight-
+     forward inquiry of how voter-approved budgets for individual bond components track with current
+     budgets and expenses resulted in a very time-consuming exercise for both OSM staff to produce from
+     e-Builder as well as auditors to verify and ensure amounts were accurate and logical.
+
+     Additionally, key project documents were scattered among a variety of systems, and several versions
+     of documents existed making it difficult to determine which was accurate or approved. In one example,
+     when the auditors requested the Bond Program Management Plan (PMP), OSM initially provided us
+     with a draft version of the document and, several months later, a final version of the PMP was
+
+28 Heery International Inc. provides a variety of critical program and project functions for the 2012 and 2017 Bond projects.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                P a g e | 28
+     discovered. This confusion also adds challenges for project managers, construction managers, and
+     OSM leadership to manage costs and scope when they may not be using the most recent data
+     available or are operating with an outdated version of a document.
+
+Without using the defined formal system and common framework with accessible locations for project
+documents, there is greater project risk of inefficiencies from staff time searching for up-to-date documents,
+making erroneous decisions based on outdated information, potential repeated work needed if a document
+cannot be located, and possible inaccurate reporting to the Board and public if outdated information is
+used. Likewise, impediments to locating key project data and background information hinder effective and
+efficient management and review of projects, especially in the event of staff turnover.
+
+Thus, as part of its current efforts to update the PMP and SOPs, OSM should develop a plan to work with
+project teams, ensure established document filing structures are followed, and train staff on the systems to
+be used. This should involve identifying critical project documentation to be maintained—such as cost
+estimates, schedules, project development team meetings, change orders, and deviation logs—and
+creating a standard numbering system to ensure consistency and availability of important project data.
+
+Certain Design Phase Activities Aligned with Best Practices, although More Structure
+is Needed
+With most of the 2017 school bond capital projects generally in early project delivery stages, auditors
+focused on processes and practices related to project planning and design where details on an individual
+school’s renovation are conceptualized.29 Specifically, we performed a high-level review of Education
+Specifications (Ed Specs) establishing building design characteristics and Design Standards detailing
+materials and systems to be incorporated into school buildings as these were critical tools used in project
+development. Because activities during the design phase refine master planning concepts into specific
+building details, decisions made during this critical stage greatly impact a school’s desired educational
+programs and must be appropriately considered, vetted, and memorialized.30
+
+OSM employed several best practices and spent great effort vetting design decisions and seeking buy-in
+on variances from Ed Specs and Design Standards, although practices related to tracking and
+memorializing design deviations and informing project teams on proposed changes to Ed Specs and
+Design Standards could be improved to ensure Bond projects are managed and delivered in a consistent
+manner. Additional clarification and guidance for project teams on the types of deviations to escalate to the
+appropriate stakeholders would also be beneficial.
+
+
+
+
+29 Kellogg Middle School is the first project to enter construction in the summer of 2019. Subsequent audits will review construction-related
+
+practices.
+30 According to the Construction Management Association of America (CMAA) Construction Management Standards of Practice, 2015, p.156,
+
+the design phase includes schematic, preliminary, and final design stages that implement local Design Standards or facility specifications into
+construction documents.
+
+
+SJOBERGEVASHENK                                                                                                                  P a g e | 29
+Ed Specs Square Footage Generally Aligned with Other School Districts Reviewed
+As an important tool in building design, PPS’ Ed Specs provide building design characteristics such as
+number and types of classroom space and square footage to support programs and curriculum.31 When
+compared to other Oregon school districts, we found PPS Ed Specs were generally aligned with
+neighboring Beaverton and North Clackamas School Districts with programs separated into similar
+categories of core academics, arts, athletics, educational support, and building support. Additionally,
+PPS’ High School Ed Specs’ square footage and student capacity for these areas also generally aligned
+with the other districts as shown in Exhibit 11.
+
+        EXHIBIT 11. COMPARABLE DISTRICT HIGH SCHOOL ED SPECS FOR KEY AREA PROGRAM SQUARE FOOTAGE
+
+                               Area Program                 PPS            North Clackamas           Beaverton
+
+                            Core Academics                 63,660                 64,720               96,750
+
+                            Arts                           21,150                 32,255               32,640
+
+                            Athletics                      35,580                 44,265               50,050
+
+                            Education Support              67,400                 55,195               52,502
+
+                            Building Support                5,900                 2,245                13,860
+
+                            TOTAL                         193,690                198,680               245,802
+
+                            Student Capacity                1,700                 1,800                 2,200
+             Source: PPS High School Ed Specs, Beaverton High School Ed Specs, North Clackamas High School Ed Specs.
+ Note: Because each school district’s Ed Specs are organized differently with similar program areas captured in different categories, auditors
+             adjusted certain line items within program areas between the districts allowing for a more illustrative comparison.
+
+Although the five main program categories are the same between the various school Ed Specs, individual
+items within each category can vary based on the unique needs of the particular district. For example, PPS
+invested heavily in makerspace areas with Ed Specs recommending 1,200 square feet, whereas North
+Clackamas School District preferred makerspace areas of only 650 square feet.32 By contrast, Beaverton
+School District preferred extra square footage and space for electives such as business and marketing,
+computer applications, and journalism and web design.
+
+Project Teams Routinely Sought Design Input from a Diverse Set of Stakeholders
+Throughout the lifecycle of a school capital improvement project, OSM appropriately engaged a diverse set
+of stakeholders to garner feedback on specific design elements and assist in developing schools reflecting
+the needs of students, teachers, parents, and community members.33 Specifically, for each of the four
+schools included in the 2017 Bond, OSM developed and followed a Stakeholder Engagement Plan to help
+OSM get input and school facilities meet the needs of people who will occupy, use, and maintain the
+buildings. For example, during planning for the Madison High School modernization process, OSM held
+
+
+31 PPS had separate Ed Specs for high schools, middle schools, and elementary schools.
+32 Makerspace allows students to experiment, discover, model, construct, and design with the support of tools and technology not found in
+
+typical classrooms.
+33 Stakeholders include internal PPS leadership, Design Advisory Groups, Steering Committee, and Student Support Services to name a few.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                P a g e | 30
+42 stakeholder and design review meetings between December 2017 and June 2018, each focused on a
+single program area such as performing arts, special education, or custodial services.
+
+Additionally, during the design phase of each project, OSM project teams met with a Design Advisory
+Group (DAG) comprised of PPS and school staff, students, parents, and community members to ensure a
+diverse set of input was represented for building design.34 For instance, the DAG for the Lincoln High
+School project met eight times between February 1, 2018 and March 14, 2019 with meeting minutes posted
+on the PPS website. In addition to meeting with the DAG, OSM project teams held design workshops and
+open houses to obtain public input and facilitated discussion of specific issues or considerations.
+
+Design Standards and Ed Specs Deviations were Tracked, although Enhancements Could be Made
+While PPS followed best practices and utilized Ed Specs and Design Standards, each school project is
+unique and designs may vary or deviate from those requirements for site-specific reasons. To track these
+deviations, each OSM project team maintained a customized deviation log with varying fields of
+information. This practice could be enhanced by using a standardized approach for the type of data
+captured in the logs.
+
+For instance, while each capital school project deviation log generally contained information on Ed Specs
+or Design Standards section impacted, description of the proposed deviation, and comments on the
+deviation, certain fields were not uniformly captured across the logs included savings estimates and project
+stage when the deviation was submitted for review. Further, while the log entries were generally supported,
+it was not always apparent whether the deviations were actually approved or not as these fields were not
+consistently completed on the logs. This missing information could be particularly challenging if there is
+project team turnover where new project managers would not know status of a proposed deviation and
+desired changes could more easily be missed during construction. Thus, OSM could enhance its practice
+ensuring standard information is included on all logs and approvals are documented and tracked.
+
+Proposed Changes to Ed Specs and Design Standards May Not Always Be Accessible to Project
+Teams
+PPS modernizes its district schools following guidelines prescribed in district Ed Specs and Design
+Standards. Both are ‘living’ documents that were regularly updated based on 2012 Bond project
+experience, district priorities, and best practices—as aligned with other educational entities.35
+
+In between official updates to Design Standards and Ed Specs, proposed changes that need to be made
+were tracked by the Facilities and Asset Management department and maintained in individual staff email
+folders or physical paper copies that were not always accessible to project teams. No formalized tracking
+list or central shared location was available to OSM project teams to consider the proposed design
+standard changes. Given that Ed Specs were last updated in 2017 and updates on approved Design
+Standards may occur infrequently, project teams that are currently designing Bond projects may be
+unaware of potential changes to these guiding documents given the location where the data is stored which
+could lead to same change requests being submitted by multiple project teams. Establishing a tracking
+34 DAG charter suggests stakeholders include teachers, students, parents, middle school cluster parents, neighborhood associations, business
+
+associations, cultural associations, potential program and/or capital partners, alumni, the school principal, and school board representatives.
+35 Consistent with other educational facilities such as California Department of Education Facilities Planning Division AAV Educational
+
+Specifications Chapter 3 that states “district goals should be reexamined and updated before a new educational specifications document is
+developed.”
+
+
+SJOBERGEVASHENK                                                                                                                  P a g e | 31
+mechanism for proposed changes that is available to all project teams, or would ensure a greater
+awareness of proposed changes to Ed Specs and Design Standards and eliminate redundant efforts to
+make the same changes.
+
+Value Engineering was Well Employed, but Further Clarification is Needed for Vetting Decisions
+Another type of activity during design, known as value engineering, is specifically directed at analyzing
+building features, systems, equipment, and material selections to optimize quality, performance, value, and
+cost-containment.36 At OSM, these value engineering activities were completed during design and before
+the start of construction in alignment with best practices. For the 2017 Bond, OSM employed a beneficial
+value engineering process; yet, the process needs clarification and consistency for documenting deviations
+and ensuring project teams understand the type of project decisions to bring forward for input of leadership.
+
+For each of the 2017 Bond projects, OSM assembled a Steering Committee to provide input to project
+teams on various design decisions that typically included the OSM Senior Director, PPS Chief of Staff, PPS
+Chief Academic Officer, and the Deputy Superintendent, among others. According to project teams, the
+committee’s purpose is to provide guidance for issues that may not rise to the level of needing input from
+the Superintendent or Board. While the OSM Senior Director issued a memo in September 2018 explaining
+the decision-making hierarchy to the Bond Accountability Committee as shown in Exhibit 12, the type of
+information or decisions that should be elevated to the Steering Committee was not described. Informally,
+project teams told us they take decisions impacting programs, operations, or maintenance to the Steering
+Committee, while decisions with significant impacts on programs, project costs, or project delivery were
+directed to the Board.
+
+                                                                                 EXHIBIT 12. DECISION MAKING HIERARCHY
+                         Complexity of issue/Impact on Educational Program
+
+
+
+
+                                                                                                      BOE
+
+                                                                                                 Superintendent
+
+
+                                                                                              Deputy Superintendent
+
+
+                                                                                               Steering Committee
+
+
+                                                                                              Senior Director - OSM
+
+
+                                                                                          Project Manager - Core Team
+
+                                                                             |                                             |
+                                                                                     Number of Decisions Responsible For
+                   Source: Memorandum from OSM Senior Director to Bond Accountability Committee, September 25, 2018.
+
+
+
+
+36The Construction Management Association of America (CMAA), Construction Management Standards of Practice, 2015, p.30 states that
+
+value engineering is used for the purpose of optimizing value in project designs. It is best completed during the initial preliminary design stage.
+
+
+SJOBERGEVASHENK                                                                                                                    P a g e | 32
+Absent clear direction on what decisions should be elevated beyond the project team, there is a risk that
+decisions related to Ed Spec, Design Standards, or value engineering deviation decisions made by the
+project teams may not be fully vetted with buy-in to ensure end-user impacts are considered.
+
+Good Practices Captured in Lessons Learned Can be Further Enhanced
+With the passage of the first bond program in 2012, OSM project teams set out to capture lessons learned
+for each of its capital projects in its efforts on continuous improvement. The resulting lessons learned
+documents and lists within the e-Builder system are important tools to carry-forward efficient and effective
+practices, while eliminating or mitigating risks of repeating past issues on the future 2017 Bond projects.
+However, there are opportunities to enhance the tracking and sharing of these lessons between project
+teams.
+
+Some lessons learned logs were captured and maintained in the e-Builder system—although there were
+some limitations with data tracked. Specifically, lessons learned were tracked in the system by individual
+project with a quick description of the lesson learned and the date it was input into the system. With some
+of these logs comprised of hundreds of lines of lessons learned, this tracking could be enhanced by
+classifying each lesson learned into standard categories to allow other project team members to more
+easily find and understand lessons that might be needed on their projects.
+
+For instance, categorizing the lessons learned into fields related to project phase—such as design,
+construction, or closeout—or project area such as structural, electrical, or concrete, would make it easier
+for project teams to find and incorporate the lessons into future projects. Further, since not all OSM staff
+can view projects within the e-Builder system unless they were assigned access to a particular project
+containing the lessons learned logs, risks are increased that a project team could be unaware of past
+project issues and would repeat the past mistakes. Adding standard categories in the e-Builder system
+would allow OSM to summarize lessons learned and regularly distribute or discuss with team members
+across projects.
+
+Additionally, lessons learned were also tracked in documents maintained on project team members’
+individual computers or in physical binders. Similar to the issues identified with logs in the e-Builder system,
+maintaining individual logs not accessible to other project teams or not categorized for ease of use adds
+risk to project delivery processes
+
+Turnover May have Hindered OSM’s Ability to Develop Consistent Bond Management
+Framework
+Research suggests that high turnover among leadership in public agencies can have several
+consequences including reductions in workforce resources available to complete key agency tasks as well
+as the loss of human capital, agency expertise, and institutional memory necessary for successfully
+
+
+
+
+SJOBERGEVASHENK                                                                                    P a g e | 33
+implementing programs. Moreover, such turnover can negatively impact an agency’s ability to fulfill long-
+term commitments, including municipal bond programs and commitments made to voters.37
+
+While employee turnover cannot be completely avoided, we found frequent changes in PPS leadership and
+promotions or transfers to other departments created OSM workload problems with existing staff assuming
+additional roles and taking on more responsibilities. An even greater challenge with recurring turnover
+stems from institutional knowledge being lost and direction at the leadership level frequently changing
+causing potential shifts in priorities and focus—impacting not only educational matters, but also goals for
+large capital programs dependent on stable direction for building facilities to meet current and future
+student needs. Turnover, combined with still in-progress updates to formal program management policies
+and practices as discussed throughout this section, increases the risk of Bond projects not being efficiently
+and consistently managed or delivered.
+
+Significant Executive Leadership Turnover Impacted Ability to set a Consistent Tone and Overall
+Approach to Bond Program Management
+While turnover rates rose since 2011, there was substantial turnover at the executive leadership and senior
+management levels during the 2017 Bond development and subsequent implementation period.
+Specifically, between February 2017 and December 2018, there were several PPS executive positions that
+turned over 2.5 times, on average, over an approximate two-year period, as shown in Exhibit 13.
+
+                         EXHIBIT 13. PPS EXECUTIVE LEADERSHIP TURNOVER SINCE FEBRUARY 2017
+                                                                 Current Individual    Times Turned Over
+                            Leadership Position
+                                                                  in Place Since       since February 2017
+                            Superintendent                         October 2017                  3x
+                            Deputy Chief Executive Officer (A)       July 2018                   1x
+                            Chief Operating Officer                January 2019                  2x
+                            Chief Financial Officer (B)           December 2018                  4x
+                            Chief Technology Officer               January 2019                  4x
+                            Chief Human Resources Officer           August 2018                  2x
+                                     Source: Turnover data provided by PPS Human Resources.
+Note: The Deputy Chief Executive Officer position was eliminated and replaced with a Deputy of Finance and Operations. (B) Two of the four
+     (A)
+
+                         turnovers were PPS-hired contractors who served as interim Chief Financial Officer.
+
+With nearly the entire executive management level rotating multiple times within several months, senior
+OSM staff and contracted consultants managed the bond program without the benefit of continuous,
+consistent support by PPS executive leadership. In past large-scale capital program performance audits we
+have conducted, we found that stable, long-tenured executive leadership supporting bond activities and
+staff responsible for delivery of successful bond programs provided the best chance for positive outcomes.
+Although there were recent hires and promotions to these key leadership positions within PPS, it is too
+early to fully assess the impact of those changes. However, based on discussions with project teams, there
+seemed to be a shared positive outlook for future stability and direction.
+
+
+37 “Turnover at the Top: Causes and Consequences of Leadership Change in Public Agencies”, James C. Clinger, Department of Political
+
+Science and Sociology, Murray State University, Kentucky, USA. January 2016.
+
+
+SJOBERGEVASHENK                                                                                                           P a g e | 34
+Similarly, there were critical leadership turnover within OSM that included the elimination of the OSM Chief
+position, the creation of a new position for a Director of Construction, and turnover at the Senior Director
+and Program Manager level. With all these changes, none of the key OSM personnel present at the time
+the bond passed in May 2017 were in their same position as of May 2019, thus further straining efforts to
+provide more stability and consistency in how projects are managed and delivered. Further, the Roosevelt
+High School project experienced approximately 10 individuals in the role of project manager or construction
+manager since June 2013 increasing the risk of missing or unclear project communications and confusion
+about whether key design details were reviewed, approved, or implemented.
+
+Without stable staffing on projects and formalized project management protocols to oversee and manage
+project activity, critical project details can be missed and project inefficiencies can translate into cost
+overages.
+
+Recommendations
+To refine and better standardize the bond program delivery framework and document management
+practices, OSM should work with PPS leadership and other PPS departments to:
+
+   6. Update and re-issue the PMP, in addition to individual school PTMPs, as well as consider
+      developing quick tools, guides, and checklists to help project teams implement the protocols
+      identified in the PMP and PTMPs.
+
+   7. Formally communicate, clarify, and train OSM project teams and individuals involved with project
+      delivery on existing document management protocols including requirements and expectations for
+      usage by considering the following:
+        • Identifying the documents each project should maintain during each phase of project
+          development;
+        • Determining a standard location and specific systems to be used for in-progress and final
+          versions of capital project documents where key project team members of the OSM team, as
+          well as non-PPS employees, have access;
+        • Establishing a new or refining the existing standard hierarchy across projects detailing the
+          specific folders to be used as well as expected contents of each folder; and
+        • Developing a uniform naming and numbering convention for each document across all capital
+          projects.
+
+   8. Standardize design deviation logs by identifying consistent information to be maintained for each
+      project and ensure approvals are documented.
+
+   9. Establish a tracking mechanism to store proposed changes to Ed Specs and Design Standards in
+      an accessible location.
+
+
+
+
+SJOBERGEVASHENK                                                                                  P a g e | 35
+  10. Supplement the “Decision-Making Hierarchy” process with written guidance on what decisions to
+      bring forward and elevate beyond the project team as well as train project teams on standard
+      practice for value engineering deviations—as well as Ed Spec and Design Standards deviations.
+
+  11. Better document lessons learned by:
+      • Categorizing lessons learned log items into separate subcategory sections allowing project
+        managers to more easily identify relevant items; and
+      • Summarizing lessons learned and regularly distribute or discuss items with project teams.
+
+
+
+
+SJOBERGEVASHENK                                                                            P a g e | 36
+Appendix A: Auditee Response
+
+
+
+
+SJOBERGEVASHENK               P a g e | 37
+SJOBERGEVASHENK   P a g e | 38
+SJOBERGEVASHENK   P a g e | 39
+SJOBERGEVASHENK   P a g e | 40
+SJOBERGEVASHENK   P a g e | 41
+SJOBERGEVASHENK   P a g e | 42
+Page intentionally left blank.
+455 Capitol Mall • Suite 700 • Sacramento, California • 95814 • Tel 916.443.1300 • www.secteam.com
+

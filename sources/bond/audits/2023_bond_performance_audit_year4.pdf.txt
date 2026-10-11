@@ -1,0 +1,2493 @@
+Portland Public Schools
+
+Annual Bond Performance Audit-
+Fiscal Year 2021/2022
+
+
+
+              Benson
+
+
+
+
+                          Kellogg
+
+                                                                         2017
+                                                                         Bond
+                           Lincoln
+
+
+
+
+              McDaniel
+
+
+
+
+February 2023 – Final Report
+
+
+
+
+455 Capitol Mall • Suite 700 • Sacramento, California • 95814 • Tel 916.443.1300 • www.secteam.com
+February 15, 2023
+Portland Public Schools
+Marina Cresswell, Senior Director Office of School Modernization
+510 N. Dixon Street
+Portland, OR 97227
+
+Dear Ms. Cresswell,
+
+Sjoberg Evashenk Consulting is pleased to submit our report for the Portland Public Schools (PPS)
+Annual Bond Performance Audit – Fiscal Year 2021/2022. We assessed performance of the bond program
+as implemented by PPS’ Office of School Modernization (OSM) with focus on the delivery status of the
+2017 Bond projects including contractor workforce equity protocols and project performance in addition to a
+high-level review and risk assessment of the 2020 bond framework. We also evaluated progress made
+towards implementing recommendations from prior 2017 Bond performance audits.
+
+Our report concludes that, for the areas we reviewed, OSM has a strong framework in place to make
+consistent progress delivering capital improvement projects as planned and is performing well for project
+budget, schedule, and safety in addition to generally meeting its workforce equity requirements.
+Additionally, our review of the new 2020 Bond revealed many strong strategies, policies, and protocols in
+place to guide successful implementation—although the Center for Black Student Excellence (CBSE),
+carried greater delivery risk and will require more focus from PPS over the next few months.
+
+We provided several recommendations related to enhancing written closeout protocols, workforce equity
+considerations, and performance metrics reporting related to the 2017 Bond projects. Further, we offered
+recommendations related to establishing a formal framework, creating project management plan, and
+implementation schedule for the higher-risk Center for Black Student Excellence features funded by the
+2020 Bond.
+
+We appreciate the professionalism, cooperation, and dedication of PPS and OSM staff who assisted us
+throughout the audit, and look forward to continuing our collaboration during the next audit cycle.
+
+Respectfully Submitted,
+
+
+
+
+Catherine Brady, Partner
+Sjoberg Evashenk Consulting, Inc.
+
+
+
+SJOBERGEVASHENK                                                                                  Page |i
+Table of Contents
+
+Table of Contents .......................................................................................................................................... ii
+
+Executive Summary ....................................................................................................................................... 1
+
+Introduction and Background ......................................................................................................................... 5
+
+Scope and Objectives .................................................................................................................................... 8
+
+Section 1: 2017 Bond Program is Well Underway, and 2020 Bond Funds are Available to Complete the
+Benson High School Project .......................................................................................................................... 9
+
+Section 2: Contractor Workforce Equity at PPS Generally Followed Industry Practices, Although Additional
+Strategies Could be Considered to Focus on Intended Goals ..................................................................... 18
+
+Section 3: Bond Program Generally Performed Well, and Opportunities Exist to Track Other Indicators .... 28
+
+Section 4: 2020 Bond Management Framework was Sound, However, Certain Areas Carry Greater Risk
+and Need Closer Focus ............................................................................................................................... 37
+
+Appendix A: Status of Prior Performance Audit Recommendations ............................................................ 48
+
+Appendix B: Audit Methodology ................................................................................................................... 49
+
+Appendix C: Auditee Response ................................................................................................................... 53
+
+
+
+
+SJOBERGEVASHENK                                                                                                                                P a g e | ii
+Executive Summary
+
+With five years elapsed since Portland voters passed the 2017 School Improvement Bond (Bond), the
+Portland Public Schools District (PPS) and its Office of School Modernization (OSM) have put a strong
+framework in place to make consistent progress delivering capital improvement projects as planned.
+Performance data suggested that the Bond is performing well for budget, schedule, and safety, and PPS
+generally met its workforce equity requirements and goals with practices that aligned with industry.
+
+Specifically, two of the four major capital school improvements projects—Kellogg Middle School and
+McDaniel High School (formerly Madison High School)—were completed, and the modernization of Lincoln
+High School and the Benson High School Campus were progressing on-schedule. Health and Safety (H&S)
+capital improvements also progressed well with the majority of designated bond funds already spent
+towards addressing H&S needs. On these projects, PPS employed leading industry practices related to
+workforce equity and generally adhered to requirements and goals set. Further, PPS’ delivery and
+management practices helped keep projects progressing within budget and focused on safety practices.
+
+Performance data is regularly captured, analyzed, and communicated to advisory and oversight groups.
+Moreover, OSM continued to diligently address prior audit recommendations. 1 To enhance PPS’ bond
+program, we offer recommendations for additional strategies that PPS could consider to further bolster its
+equity program on PPS Bond construction projects and supplement its public performance reporting to
+further strengthen accountability.
+
+Additionally, our initial assessment of the new 2020 Bond revealed many strong strategies, policies, and
+protocols in place to guide successful implementation of the 2020 Bond. One area, the Center for Black
+Student Excellence (CBSE), carried greater delivery risk and will require more focus from PPS over the
+next few months to ensure the 2020 Bond’s intent behind CBSE is fully realized.
+
+Audit fieldwork generally covered the period between April 1, 2021 and March 31, 2022, although we
+incorporated any significant events after the end of fieldwork into this report. Key results and
+recommendations are summarized in the sections that follow.
+
+
+
+
+1 Refer to Appendix A for status of prior audit recommendations and PPS website at https://www.pps.net/Page/15137 for all Independent Bond
+
+Performance Audit reports.
+
+
+SJOBERGEVASHENK                                                                                                             Page |1
+                2017 Bond Program Is Well Underway, and 2020 Bond Funds are
+                Available to Complete the Benson High School Project
+                With only Lincoln High School and Benson High School remaining to be completed and most H&S
+                projects anticipated to finish by the end of December 2022, OSM was on track to deliver the 2017 Bond
+projects. In addition to other OSM cost containment efforts that have been applied, 2020 Bond Program contingency
+funds are available to cover increased costs for completing the Benson High School campus due to material and
+equipment pricing escalation and delivery delays,
+
+ KEY RESULTS:                                                                        RECOMMENDATIONS:
+ • Lincoln High School, including the athletic field, is on-schedule to complete     To enhance the closeout of OSM-led capital
+   construction by fall 2023.                                                        construction projects and ensure that
+                                                                                     lessons learned from closing out Bond
+ • Benson High School was in construction and on-schedule to open for the            projects are retained and consistently
+   2024-2025 school year. While costs have increased to $410.2 million, OSM          applied to future Bond-funded projects,
+   cost containment efforts and 2020 Bond program contingency funds                  OSM should:
+   indicate there are sufficient resources to pay for the project completion.
+                                                                                     1. Complete development of and
+ • The H&S program completed more improvements than were initially                      memorialize policies, procedures, and e-
+   envisioned by the 2017 Bond with some funding remaining to complete
+                                                                                        Builder processes related to construction
+   additional work.
+                                                                                        closeout as well as train project staff on
+ • OSM has employed closeout practices at Kellogg Middle School and                     new closeout protocols before the
+   McDaniel High School that align with industry, but not all have been                 remaining 2017 Bond projects are
+   formalized.                                                                          completed.
+
+
+
+              Contractor Workforce Equity at PPS Generally Followed Industry
+              Practices, Although Additional Strategies Could be Considered to
+              Focus on Intended Goals
+PPS workforce equity efforts aligned with local peers with requirements and goals met for apprentices and minorities—
+although not for female workers. While PPS cannot directly influence outcomes, there are additional strategies and
+tools available for PPS to consider implementing in its workforce equity program.
+
+ KEY RESULTS:                                               RECOMMENDATIONS:
+ • PPS has joined other local public owners to further      As PPS moves forward with its School Improvement Bond programs
+   workforce equity outcomes in the region and has          and investing in the local construction workforce through PPS’
+   adopted many of the recommended industry                 Workforce Equity Administrative Directive, PPS could consider:
+   practices.                                               2. Developing protocols for regularly identifying, reviewing, and
+ • Workforce equity requirements have generally been           assessing workforce equity strategies on a designated timeline to
+   met for apprentices and has been trending upward            discuss costs, benefits, and feasibility for a particular review period
+   for minority workers; however, female workforce             as warranted—including reconsidering known strategies that were
+   participation remained low.                                 not possible in prior periods but could be reconsidered based on
+                                                               changing environments. This could include:
+ • Although similar in goals, programs, and outcomes
+   with peer local public entities, PPS goal-setting data     a. Evaluating the feasibility of obtaining updated market data to
+   was stale and could be revisited.                             ensure that workforce equity requirements and goals are
+                                                                 supported or assessing the option of jointly contributing toward
+                                                                 the cost of an updated market study on an agreed-upon timeline
+                                                                 with Construction Careers Pathway Project (C2P2) partners.
+
+
+
+SJOBERGEVASHENK                                                                                                        Page |2
+ KEY RESULTS (CONTINUED):                                 RECOMMENDATIONS (CONTINUED):
+ • PPS does not have direct control over workforce        3. Clarifying its Workforce Equity Administrative Directive protocols
+   hiring, and, thus, is challenged to influence             for whether workforce equity outcomes and progress should be
+   outcomes.                                                 measured and reported in aggregate or disaggregated by each
+                                                             apprenticeable trade.
+ • Additional strategies could be considered and
+   employed to enhance desired outcomes and fulfill       4. Conducting a review of workforce equity program specifications
+   PPS directives.                                           and analyzing whether existing rules could be enhanced to benefit
+                                                             intended target audiences.
+ • For the apprenticeship requirement, PPS’
+   administrative directive lacks clarity to interpret
+   whether outcomes should be measured and
+   reported in aggregate or by “each apprenticeable”
+   trade.
+
+
+
+            Bond Program Generally Performed Well, and Opportunities Exist
+            to Track Other Indicators
+Key performance indicators tracked and analyzed by OSM aligned with certain leading practices and performance is
+regularly communicated to oversight bodies and the public. There are other indicators available for PPS to consider
+that—if provided to the public, PPS Board of Education (Board), and Bond Accountability Committee (BAC)—could
+further enhance visibility into the Bond program and help demonstrate how well PPS is managing key performance
+such as schedule, budget, safety, or owner response time to contractor questions.
+
+ KEY RESULTS:                                              RECOMMENDATIONS:
+ • Performance results suggest the Bond program is         To enhance its performance measurement practices, guide
+   performing well with budget and schedule:               individual project team activities, and enhance accountability to the
+      o Cost performance tracked closely with revised      Board, BAC, and the public, OSM should consider:
+        budgets except for Benson High School.             5. Continuing in-progress efforts to revisit the types of key
+      o Schedule performance showed projects were             performance indictors it should track and report on that best
+        generally on-schedule.                                align with PPS overall objectives and Bond project objectives.
+      o Performance related to processing time for            Considerations could include:
+        project requests for information during               a.    Using specific indicators that can be compared against a
+        construction had varied results amongst                     goal or target and evaluated over time for patterns or trends.
+        modernization projects.                               b.    Providing needed context when reporting to the Board,
+ • Project safety performance, where available, was                 BAC, or public.
+   better than the national average, except for Lincoln       c.    Highlighting bond project performance results on the PPS
+   High School.                                                     website with summary graphics or simplified data that are
+ • Completed modernization projects reviewed had                    easier for the public to find and understand.
+   reasonable volume of work orders requiring attention    6. Requiring general contractors to consistently report specific
+   after the schools were built.                              safety performance data to OSM so that project managers can
+ • Key performance data was reported and aligned with         summarize and share reportable incident rates, how the rates
+   some leading practices, although opportunities exist       compare with goals or averages, what period is being reported,
+   to enhance PPS’ performance measurement.                   and context on the results as needed.
+
+
+
+
+SJOBERGEVASHENK                                                                                                    Page |3
+            2020 Bond Management Framework was Sound, although Certain
+            Areas Carry Greater Risk and Need Closer Focus
+Many solid strategies, policies, and protocols were established by PPS and OSM to guide successful delivery of its
+newest and largest 2020 Bond. However, the Center for Black Student Excellence (CBSE) has higher risks that need
+prompt action.
+
+ KEY RESULTS:                                                     RECOMMENDATIONS:
+ • 2020 Bond budgets were developed using leading practices.      While PPS has many practices and controls in place to
+                                                                  manage risk areas related to the 2020 Bond Program, PPS
+ • Review of bond expenditures and process for determining
+                                                                  should immediately implement the following related to the
+   Bond compensability appeared robust.
+                                                                  higher risk CBSE:
+ • Solid tools existed to monitor schedule and progress.
+                                                                  7.   Establishing a formal framework for CBSE management
+ • High-level risk assessment revealed PPS employed many               and staffing with clear roles and responsibilities with
+   activities that minimize risk, although some areas should be        defined authority and accountability for and between the
+   closely watched.                                                    key PPS departments assigned to the successful
+ • While modernization projects remain at higher risk due to           delivery of the CBSE.
+   their size and significance to the overall Bond program, OSM   8.   Updating existing CBSE implementation schedule with
+   is monitoring progress to stay on-schedule and budget as            realistic dates, interim milestones or progress targets,
+   well as mitigate risks.                                             general tasks and activities, and plans to get CBSE
+ • Even though no 2020 Bond funds have been spent on CBSE              back on track.
+   to-date, it has greater risk surrounding delivery on Bond      9.   Working with key PPS departments to put a general
+   plans because concepts and goals are still in development,          CBSE implementation plan in place and ensure a quick
+   leaving planned bond-funded activities unclear.                     start for capital purchases or capital building as soon as
+ • Staffing roles and responsibilities for CBSE had not been           CBSE concepts and goals are solidified.
+   defined and limited project management existed at the time     10. Creating CBSE project management plans and structure
+   of our audit.                                                      to identify general tasks and monitoring mechanisms to
+                                                                      set, track, and report on baseline and revised
+                                                                      schedules, original and revised budgets, and progress
+                                                                      toward meeting delivery goals.
+
+
+
+
+SJOBERGEVASHENK                                                                                                   Page |4
+Introduction and Background
+
+As the largest K-12 public school district in Oregon with more than 45,000 students and nearly 100 schools,
+Portland Public Schools’ (PPS) Office of School Modernization (OSM) has been tasked with modernizing
+aging facilities and upgrading the learning environment. To date, Multnomah County voters have passed
+three major bond programs to fund these school improvements in 2012, 2017, and 2020. Combined, these
+three bonds authorized over $2.4 billion in funding through a levy against assessed property values for
+modernizing school facilities and improving learning experiences.
+
+Bond Program Capital Projects and Bond Audits
+Modernizing aging school facilities is a complex endeavor with several defined phases and a variety of
+internal PPS and OSM stakeholders, external consultants and contractors, a citizen accountability
+committee, and an elected oversight board that work together on project delivery. For the first major capital
+bond in 2012, school improvement efforts were primarily focused at Grant, Franklin, and Roosevelt High
+Schools and Faubion Middle School; while the 2017 school improvement projects largely focused on
+Lincoln, McDaniel, and Benson High Schools in addition to Kellogg Middle School. Both bonds also set
+aside significant funds for a series of health and safety improvements at other schools within the PPS
+district as well as planning for specific future school modernizations. With the passage of a third bond in
+2020, the district expanded improvement scopes to include not only traditional capital improvements and
+modernization of physical school buildings, but also funding for educational curriculum and information
+technology related infrastructure improvements as well as a Center for Black Student Excellence.
+
+All bonds require annual performance audits of bond activities as part of PPS’ commitment to transparency
+and accountability to taxpayers. Beginning with the 2017 Bond, annual performance audit scopes of work
+generally focused on those bond-funded activities that could pose a risk to the overall delivery of the
+program and specific projects, or addressed concerns brought forward by OSM or the Bond Accountability
+Committee (BAC). 2 Audit scope decisions were also informed by the status or phase of the school capital
+improvement projects—such as timing audit scope with assessing cost estimate practices when projects
+are in master planning, reviewing construction management when projects are in or nearing the
+construction phase, or evaluating project closeout practices when modernization projects are completed.
+
+Past performance audits for both the 2012 and 2017 bonds focused on specific capital construction phase
+activities and operational aspects of the bond programs. Because half of the pledged 2017 Bond schools
+were completed during the current 2022 audit scope period, we focused on the overall bond delivery status
+and closeout of these schools, key performance indicators, and status of prior audit recommendations. 3 In
+addition, since Bond funds pay significant amounts to the local contracting community through construction
+projects, we examined PPS’ workforce equity in purchasing and contracting goals. Specifically, we
+assessed goal-setting, equity performance to date, and current protocols in place to meet PPS’ equity
+goals. Our audit also included a high-level risk assessment and review of the framework of the 2020 Bond
+
+2 The establishment of the BAC was a requirement of the Bond measure—it is a taxpayer oversight body consisting of private citizens that
+
+advise the Board and OSM on all Bond matters as defined by its charter.
+3 Refer to Appendix A for status of prior audit recommendations.
+
+
+
+
+SJOBERGEVASHENK                                                                                                               Page |5
+to identify whether a solid foundation is in place for delivery of the 2020 Bond components and to inform
+future audit topics.
+
+Workforce Equity in Public Purchasing & Contracting (EPPC) at PPS
+Bond capital improvement programs rely heavily on the local contracting workforce to deliver the planned
+projects. This workforce primarily consists of general contractors and trade laborers such as mechanical
+engineers and electricians, plumbers and welders, and painters to name a few. With significant bond funds
+spent on these services, promoting and ensuring equity in contracting is a critical tenet of PPS and its
+Board of Education (Board).
+
+In June 2011, the Board adopted the Portland Public Schools Racial Educational Equity Policy, 2.10.010
+that affirmed the intent of the district to address and overcome educational barriers that resulted in a
+persistent achievement gap for students of color. The Board noted that these barriers and inequities were
+due to complex society and historical factors. A year later, they formally recognized that the impact of these
+inequities extended further to PPS’ business partners and the broader community. To build upon the racial
+equity policy, the Board adopted its Equity in Public Purchasing and Contracting Policy (EPPC) in July
+2012, stating that “modeling equity in District business practices will further enhance achievement of goals
+established in its Racial Educational Equity Policy.” 4
+
+EPPC Has Three Main Areas
+The EPPC has three main areas: Business Equity, Contractor Workforce Equity, and Career Learning
+Equity. While PPS operationalized each area into its own Administrative Directive (AD) that details the
+steps PPS will take in its pursuit to meet goals, the scope of this audit solely focused on the Contractor
+Workforce Equity AD.5 The PPS Superintendent signed the current Workforce Equity AD in September
+2013 that focused on promoting apprenticeship and construction employment opportunities for people of
+color and women. In September 2019, PPS revised the AD to explicitly add aspirational goals for minority
+and female workforce participation.6
+
+To measure progress toward equity, PPS established a mandatory requirement to have 20 percent of PPS’
+labor hours in each trade performed by state-registered apprentices. PPS also established two additional
+aspirational, non-mandatory goals to have minorities perform 25 percent of hours worked on each eligible
+project and females perform 14 percent of hours on projects as shown in Exhibit 1. 7 The requirement and
+goals apply to all public improvement prime contracts above $200,000 and subcontracts greater than
+$100,000. 8 PPS contracts that meet this threshold are primarily Bond projects.
+
+
+
+4 Board Materials from July 16, 2012 note that PPS had been actively drafting the EPPC since 2009.
+
+5 An Administrative Directive (AD) is a procedural plan to implement a policy passed by a Board vote. At PPS, the AD provides direction for
+
+staff to operationalize the Board’s vision.
+6 Descriptions of race, ethnicity, and gender categories are included in PPS’ Administrative Directive.
+
+7 While each of the three goals are separate and discrete, when measuring and reporting progress against the goals, PPS counts outcomes
+
+across the three goal categories. For instance, hours worked by a minority female apprentice are each counted toward the apprentice goal,
+minority goal, and the female-hours goal.
+8 Public improvement contracts do not include emergency work, minor alterations, or ordinary repair or maintenance contracts.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                 Page |6
+             EXHIBIT 1. WORKFORCE EQUITY ADMINISTRATIVE DIRECTIVE EVOLUTION, OBJECTIVES, AND GOALS
+
+
+
+
+              Source: Auditor-generated from PPS library of policies and administrative directives at https://www.pps.net/policies.
+                                              Note*: Aspirational goals were adopted in 2019.
+
+PPS engaged the City of Portland to administer its workforce equity program as it had its own equity
+program in place prior to PPS, and has experience and expertise administering equity programs on behalf
+of other school districts and public sector entities. As part of its administration, the City of Portland provides
+program specifications including roles and responsibilities of prime contractors and subcontractors,
+required compliance steps, required documentation, and consequences for noncompliance. 9
+
+
+
+
+9 The City of Portland’s pre-existing workforce equity program includes more specific program rules that align with, but are more detailed than,
+
+PPS’ Workforce Equity AD. These rules are provided to contractors and become a part of the contract between PPS and its contractors.
+
+
+SJOBERGEVASHENK                                                                                                                      Page |7
+Scope and Objectives
+
+The Portland Public School District (PPS) hired Sjoberg Evashenk Consulting, Inc. in October 2018 to
+conduct annual performance audits of the 2012 and 2017 School Improvement Bonds over a four-year
+period. Each year, auditors assess performance and focus on different Bond program and project areas.
+For this performance audit cycle, we reviewed Bond program activities for the period between April 1, 2021
+and March 31, 2022. Our objectives were as follows:
+
+    1. 2017 Bond Status
+       Identify the delivery status for the 2017 Bond projects as of March 31, 2022 in terms of cost and
+       schedule, and assess project closeout practices for the completed modernization projects.
+
+    2. Workforce Equity
+       Assess whether current protocols in place to promote construction employment opportunities
+       aligned with PPS’ Contractor Workforce Equity Administrative Directive 8.50.097-AD for the
+       Bond’s construction contracts.
+
+    3. Bond Program Performance Measurement
+       Evaluate how Office of School Modernization (OSM) is using key performance measures to
+       demonstrate accountability towards successfully delivering the Bond program.
+
+    4. 2020 Bond High-Level Audit Risk Assessment
+       Identify risks surrounding the 2020 Bond that could impact the delivery of the Bond program, and
+       assess whether mitigating factors and controls were in place to minimize risk factors.
+
+    5. 2020 Bond Framework & Management
+       Evaluate how well the framework to manage the 2020 was set-up and whether strategies, policies,
+       and protocols put in place were sufficient to guide the delivery of the 2020 Bond components.
+
+    6. Prior Audit Recommendations
+       Determine whether PPS and OSM sufficiently addressed prior audit recommendations related to
+       Bond activities and implemented appropriate corrective action.
+
+To fulfill these objectives, Sjoberg Evashenk Consulting performed a variety of detailed audit tasks
+involving interviews of PPS executive leadership and external stakeholders, inquiries of departmental
+management and operational staff, data mining and analysis, documentary examinations, project file review
+and testing, industry best practice research, peer comparisons, and source data verification. Appendix B
+provides the detailed methodology employed on our audit.
+
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+
+
+SJOBERGEVASHENK                                                                                 Page |8
+Section 1: 2017 Bond Program is Well Underway, and 2020 Bond
+Funds are Available to Complete the Benson High School Project
+
+The Office of School Modernization (OSM) continued to deliver on projects Multnomah County voters
+approved under the 2017 School Improvement Bond. With Kellogg Middle School and McDaniel High
+School (formerly Madison High School) completed and opened on-schedule for the 2021-2022 school year.
+In addition to the health and safety program improvements coming to a close, the Portland Public School
+District (PPS) marked the completion of more than half of the pledged work for the 2017 Bond during this
+audit cycle.
+
+Two of the Four School Modernization Projects Opened On-Schedule and On-Budget
+with Remaining 2017 Bond Projects on Target to Complete as Planned
+As of March 2022, two of the four school modernization projects planned were opened on-schedule and on-
+budget for the 2021 school year as illustrated in Exhibit 2. Specifically, Kellogg Middle School and McDaniel
+High School were completed with final touches of closing out each project in progress. Lincoln High School
+was in construction, on-budget, and on-schedule to open to students in the fall of 2022. 10 While the fourth
+improvement project at Benson High School was also in construction and on-schedule to open fall 2024 as
+planned, costs have increased as discussed later in this section. 11
+
+The 2017 Bond Health and Safety (H&S) projects were nearing completion during our audit, with OSM
+delivering more improvement work than initially envisioned with the $150 million budget set aside by the
+Bond—partially due to additional State of Oregon grant funding the district was able to secure for roofing
+and seismic improvements. 12 Although all 2017 Bond H&S projects should be completed as envisioned by
+summer 2024, there were some minor delays with the water quality program caused by pandemic-related
+supply chain and labor issues that delayed completion of some projects by a few months during the
+summer of 2022.
+
+Overall, the 2017 Bond program estimate at completion as of March 2022 was $1.063 billion—which is less
+than the $1.098 billion at the time of our last audit in March 2021. The $1.063 billion estimate excludes the
+cost of Benson’s Multiple Pathways to Graduation (MPG) building.13 Program contingency from the 2017
+Bond and earmarked funds from the 2020 Bond are currently sufficient to cover the cost to complete the
+remaining Benson MPG building that are in addition to the $1.063 billion estimate.
+
+
+10 The Lincoln High School project is being completed in two phases—Phase I, the high school itself, and Phase II, the track and field stadium,
+
+which will finish construction in summer 2023.
+11 The Benson Polytechnic High School project (Benson High School) consists of several sub-projects. As of March 31, 2022, their status was
+
+as follows: Multiple Pathways to Graduation (MPG) building the 80 percent construction documents. Benson Main campus building had 23
+percent of construction completed. All swing sites were completed and in-use.
+12 As described in the Bond Performance Audit issued in 2019, H&S needs districtwide greatly exceed the bond amount. Refer to PPS Bond
+
+Performance Audits website for full reports https://www.pps.net/Page/15137. PPS prioritized improvements needed based on available bond
+funds and added more projects as other funding became available. As of May 2022, some completed H&S categories were delivered under
+budget and PPS was determining how to reallocate funds to other in-progress H&S categories.
+13 When the PPS Board of Education approved the addition of the MPG building in 2019, it expected to pay for these changes with a future
+
+bond campaign in 2020, which passed in November 2020.
+
+
+SJOBERGEVASHENK                                                                                                                  Page |9
+              EXHIBIT 2. 2017 BOND STATUS & ESTIMATE AT COMPLETION, AS OF MARCH 2022 (IN MILLIONS)
+
+
+
+
+                          Source: Unaudited Bond Accountability Committee March 14, 2022 meeting materials and
+                                   Board Facilities & Operations Committee May 17, 2022 meeting materials.
+Note: The Benson High School project budget of $410.2 million includes improvements of Benson High School Main Campus (Benson Main),
+Multiple Pathways to Graduation (MPG) building, and swing sites. While the project total for Benson High School includes these elements, the
+bond grand total calculation of $1.063 billion excludes the $76 million cost of MPG because it will be paid by 2020 Bond funds, as noted in the
+March 2022 Bond Accountability Committee Meeting Materials. Lincoln High School’s main campus will open fall 2022 to students; the entire
+                                     project including the Phase ll athletic field will be completed fall 2023.
+
+
+Costs Have Increased, but 2020 Bond Funds Are Currently Sufficient to Complete the
+Benson High School Campus
+As of March 2022, the estimated forecast to complete the entire Benson High School project was $410.2
+million—$52.2 million higher than the $358 million identified in March 2021 at the time of the prior
+performance audit as shown in Exhibit 3. Specifically, the Benson High School modernization consisted of
+the Benson High School Main campus (Benson Main), the MPG building, and the Marshall and Kenton
+Swing sites.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                P a g e | 10
+EXHIBIT 3. BENSON HIGH SCHOOL BUDGET OVERVIEW AND ESTIMATE AT COMPLETION, AS OF MARCH 2022 (IN MILLIONS)
+
+
+
+
+                            Source: Auditor-generated from OSM Presentation to the BAC on November 17, 2021.
+
+Severe pandemic-related market disruptions causing extreme escalation and pricing volatility added
+$21.2 million to the total project cost estimate for both Benson Main and the MPG building combined. For
+instance, during a one-year period between April 2020 and April 2021 when the Benson Main project
+progressed from design documents to construction documents, there was a 5.71 percent increase in cost
+escalation in the Portland area. 14 With construction material pricing higher than the national average,
+estimating actual construction costs became increasingly more difficult for the Benson Main project team.
+For instance, steel products alone increased 127 percent between December 2020 when the project was in
+design and December 2021 when the project was getting ready for construction. 15
+
+The second largest cost increase factor—$17 million—was the result of scope changes after the PPS
+Board of Education (Board) approved the Benson High School Master Plan in December 2018. Specifically,
+scope additions were caused by unforeseen, yet reasonable, circumstances for building code changes and
+district required updates including unisex restrooms, permitting constraints, and differing building conditions
+discovered during demolition—among other items. These scope changes increased the budgets for both
+Benson Main and the MPG building.
+
+Finally, another $14 million increase was caused by a budgeting error that went unnoticed by the project
+team during the Benson Main project’s schematic design phase causing the project team to design to a
+$224 million project rather than a $212 million project. Using a higher target value had a cascading effect
+on subsequent efforts to contain costs during the design phase since the project team had developed
+designs targeting a $224 million budget.16 While the project team could not pinpoint the exact underlying
+cause of this error, they attributed it to the complexities surrounding the splitting of the original Benson High
+School project into many sizable subprojects with separate budgets and differently-paced schedules as key
+drivers for the budgeting error. The project team ultimately discovered and corrected the budget error
+during the late design development phase in spring 2020. 17 While budget changes on capital improvement
+
+14 Percent estimated in Rider Levett Bucknall (RLB) Q2 2021 Construction Report.
+15 Association of General Contractors 2021 Inflation Report.
+16 This cascading effect can also be described as opportunity loss over time. The design of a capital construction project progresses over time
+
+with larger changes able to be made in the beginning of design when plans are less finalized. As design progresses and more time passes, it
+becomes more challenging to make larger changes given that the foundational decisions have already been made.
+17 Our audit scope did not include a deep dive into the cause and circumstances of the budgeting error. Between the time of the Year 1 Phase ll
+
+audit report in 2019 and Year 2 audit report in 2020 when auditors reported on project status, the budgeting error had already been corrected.
+
+
+
+SJOBERGEVASHENK                                                                                                                 P a g e | 11
+projects can occur regardless of controls in place and the level of expertise by project owners, architects,
+and contractors, OSM was transparent about the discrepancy in public presentations to the Board and
+Bond Accountability Committee (BAC).
+
+Despite these challenges, PPS has a plan to pay for the cost increases. According to OSM, any future
+shortfall will be covered by 2020 Bond program contingency which had $122.9 million available as of March
+2022. 18 However, even with a sizeable program contingency budget, if costs continue to grow for Benson
+Main and the MPG building during a volatile construction market, the risk that funding may not be sufficient
+towards the end of the program to complete other projects remains. To mitigate those risks and contain
+further additional costs, OSM has been proactively working on cost containment as discussed in the next
+section.
+
+OSM Employed Cost Containment Practices to Mitigate Cost Escalation on Benson High School
+With the construction phase typically consuming the majority of a capital project’s budget, there are many
+factors that can adversely impact an on-budget delivery. Especially during times of unprecedented
+escalation of building materials and shortage of skilled labor as the industry has experienced in recent
+years, public owners of large capital improvements face challenges that often are beyond their control.
+Since most construction work is typically subcontracted, delays in securing subcontractor agreements for
+labor and material can significantly impact construction costs given existing market conditions.
+
+Nonetheless, at PPS, we found the Benson High School project delivery team employed pro-active project
+management practices to alleviate some of the constraints imposed by the current economy by securing
+subcontractor agreements for services, pricing, and product delivery early in the process. OSM employed
+this leading practice, known as “buyout,” that mitigated market risk by securing advanced contracts with
+subcontractors to minimize future price fluctuations and changes in subcontractor commitment on the
+Benson Main project. As of March 2022, OSM had secured $199 million in subcontractor agreements of the
+$226 million in project costs related to construction labor and materials. 19 We tested subcontractor
+agreements totaling more than $110 million and confirmed price and delivery terms were set and secured
+in advance of construction start.
+
+Moreover, as detailed in Exhibit 4, the Benson High School project team employed other strategies where
+possible to potentially minimize the negative effect of existing market conditions. For instance, in early
+2022, a subcontractor alerted the project team of a potential six percent price increase for air handling
+systems expected within the upcoming month and suggested expediting the procurement of the equipment
+prior to the price increase going into effect. By processing the purchase request quickly, the project team
+avoided the expected $144,000 price increase to minimize the impacts of current market disruptions.
+
+
+
+18 The 2020 Bond Program Contingency set-aside was $93.3 million. The initial bond sale generated $29.6 million in premium that was added
+
+to program contingency for a new total of $122.9 million available to off-set Benson High School cost increases and cover any future
+unforeseen costs.
+19 With a total estimate to complete of $321 million for the Benson High School Main campus project and $48 million spent to date, remaining
+
+costs total approximately $273 million. The construction guaranteed maximum price (GMP) contract amendment in the amount of $337.6
+million was approved by the Board on February 20, 2022. The estimated cost of construction work portion of the GMP was approximately $226
+million.
+
+
+
+SJOBERGEVASHENK                                                                                                             P a g e | 12
+   EXHIBIT 4. EXAMPLES OF TECHNIQUES AND TOOLS EMPLOYED TO CONTAIN COST FOR THE BENSON MAIN PROJECT
+
+
+
+
+              Source: Auditor-generated from Benson High School project team correspondence and e-Builder records.
+
+In another example, while the project team was finalizing the final construction cost in late 2021, the
+general contractor notified OSM that lead times for roofing materials had escalated upwards of six months
+due to various supply chain challenges including availability of building materials and limited shipping
+options. While the Benson Main project had not yet started construction at that time, a potential half-year or
+longer delay for roofing materials would have critically impacted the delivery schedule and likely
+jeopardized the Benson High School opening date of 2024. To alleviate the supply chain issues and
+minimize the project delay, OSM decided to order the $285,000 in roofing materials earlier than planned
+and ensure materials would be available when needed.
+
+While the current unpredictable market factors affecting construction can still adversely affect and further
+increase costs, the budget risk for the Benson Main project is minimized since most construction prices
+have already been set as part of contract agreements and the project team has advanced procurements to
+account for global supply chain delays in the local construction market.
+
+Closeout Practices for the Capital Modernization Projects Generally Aligned with
+Industry Leading Practices
+With two of the four school capital construction projects in the 2017 Bond program completed and open for
+school instruction during the audit period, OSM began its closeout stage for those projects. Project closeout
+marks the end of capital construction where the deliverable is substantially complete and project teams
+confirm all contractual requirements are met before the project is formally closed. Industry leading practices
+provide a myriad of closeout protocols that can be employed, but note that closeout efforts should be
+tailored to align with project variations in size, scope, and complexity. OSM’s practices generally aligned
+with leading practices for the closeout of McDaniel High School and Kellogg Middle School, although staff
+were still in process of formalizing and memorializing those protocols.
+
+
+
+
+SJOBERGEVASHENK                                                                                                     P a g e | 13
+OSM Employed Closeout Practices That Aligned with Industry Practices, But Was Still
+Memorializing Efforts into Formal Protocols
+OSM employed nearly every closeout practice that industry leaders identified as commonly used and
+recommended. As shown in Exhibit 5, these practices included requiring and collecting a combination of
+documents, ensuring specific procedures take place, and implementing tools to manage efforts.
+
+                      EXHIBIT 5. INDUSTRY CLOSEOUT PRACTICES EXAMPLES AND HOW EMPLOYED BY PPS
+
+
+
+
+ Source: Auditor-generated based on practices noted by the Construction Management Association of America (CMAA), Associated General
+     Contractors of America (AGC), and the Washington State Office of Superintendent of Public Instruction, PPS files in e-Builder, and
+                                                 files provided by PPS project team staff.
+
+Following leading practices, OSM project teams required and collected documentation of items such as
+inspection and test reports, permits, warranties, completion photographs, and other types of closeout
+documentation. They held team meetings discussing needed action items such as commissioning,
+scheduling walkthroughs, and trainings. Additionally, they employed robust efforts during closeout through
+management of punch lists that can often contain hundreds or thousands of individual items depending on
+the type of punch list used. According to OSM’s Senior Project Managers, the sophistication of punch list
+management is often commensurate with the size and complexity of a project. Led by OSM Senior Project
+Managers, project teams collaborated to address outstanding repairs, fixes, and finishes using punch lists
+toward completion of the final deliverables. 20 In fact, PPS contract documents required general contractors
+to complete these closeout tasks.
+
+
+20 Punch list is a term used in construction to identify items the contractor needs to correct after a project is substantially complete, but before
+
+the contractor fully turns over the project to the owner.
+
+
+SJOBERGEVASHENK                                                                                                                      P a g e | 14
+PPS project teams also utilized electronic programs with many advanced, user-friendly functions to track
+and address project repairs as needed. For instance, the McDaniel High School project team used an
+automated software known as “Fieldlens,” which had useful functionality such as plotting punch items on
+record drawings of the building, using icons to distinguish between resolved versus in-progress items, and
+assigning items to different players with notes, photo attachments, and due dates. Granular details were
+available of what types of repairs were needed such as fixes to damaged ceiling tiles and installation of
+missing flooring, as well as smaller outstanding items such as paint touch ups needed behind doors.
+Fieldlens users could group similar punch list issues together to help address the item by type or by area.
+
+While there were a few specific industry-suggested closeout practices that OSM did not utilize, but those
+did not pose a concern as they were related to enhancements such as celebrating or awarding the
+contractor at project end or were employed through different but similar approaches. For instance, one
+leading closeout practice suggested having a specific post-project lessons learned meeting. While OSM did
+not conduct this discrete meeting for McDaniel High School and Kellogg Middle School, it implemented
+other tools to capture lessons learned such as tracking in e-Builder, using a PPS Lessons Learned Google
+Library, and discussing lessons learned at regular project meetings.
+
+Though OSM employed many solid closeout practices, it still needs to memorialized its protocols as
+guidance for staff and to ensure continued consistency in practice as discussed in the following section.
+
+Formal Protocols and Guidelines Were Being Developed
+While commonly used and recommended industry practices for closeout exist, leading practices do not
+dictate specific methods for implementing practices. Rather, owners like PPS should establish and
+memorialize their preferred approach including specifications such as specific roles and responsibilities of
+involved players, designated systems of record, and implementation timeframes to name a few.
+
+As of June 2022, OSM was still in process of developing formal policies and procedures in addition to
+piloting new e-Builder processes to guide closeout—although OSM should have established these
+protocols before the 2017 Bond projects began the closeout phase to ensure that staff were consistently
+employing efforts across Bond projects. 21 No other guidance existed in OSM’s Program Management Plan
+or in individual Project Team Management Plans. Some closeout topics were in draft form and others were
+still being discussed among staff for inclusion in future formal policies and procedures. Topics included
+closeout documentation, final accounting, and transfer of operations to operations and maintenance staff.
+However, no drafts were available for us to review.
+
+Several e-Builder processes were also being developed to standardize and strengthen the closeout
+process for Bond projects as shown in Exhibit 6. OSM staff noted that these processes already existed for
+smaller Facilities & Asset Management improvement and maintenance projects, but OSM was working to
+tailor them toward larger capital construction projects.
+
+
+
+
+21 Though many closeout requirements have been included in contract documents between PPS and its contractor since the 2012 Bond, such
+
+requirements alone do not suffice to specifically guide how closeout should be planned and implemented.
+
+
+
+SJOBERGEVASHENK                                                                                                         P a g e | 15
+                            EXHIBIT 6. PILOT E-BUILDER PROCESSES FOR BOND PROJECT CLOSEOUT
+
+
+
+
+            Source: Auditor-generated based on piloted e-Builder processes for McDaniel High School and Kellogg Middle School
+                              projects in addition to interviews with OSM management and project team staff.
+
+These processes were piloted for the closeout of McDaniel High School and Kellogg Middle School and
+appear to be promising tools for future Bond projects that will enter the closeout phase. Yet, with half of the
+2017 Bond projects already closed out, PPS needs to immediately complete these policies, procedures,
+and e-Builder processes before the remaining 2017 Bond projects are finished.
+
+Closeout Process to Transfer Completed Projects to Operation and Maintenance Staff Has
+Improved Since the 2012 Bond
+Once a Bond capital improvement project is completed, OSM staff formally transfer the school building to
+PPS Facilities & Asset Management (FAM) staff as part of the closeout process for future operation and
+maintenance of the building.
+
+Various PPS staff provided anecdotal examples and perspectives on challenges with turnover at the
+closeout stage of the 2012 Bond projects. Examples of reported challenges included buildings not being in
+‘turnkey’ condition and requiring significant repairs such as major floor and bathroom replacements, poor
+communication, limited collaboration between the transfer parties, and inconsistent or incomplete training
+on use of building systems and features.
+
+Since the 2012 Bond, OSM made several improvements to the closeout process that addressed these
+anecdotal challenges and were implemented including the following:
+     •     Improved coordination, collaboration, and communication.
+           o FAM staff reported being invited to project meetings discussing closeout and turnover.
+           o Where possible, FAM was consulted on value engineering decisions that could impact
+             maintenance implementation. 22
+
+
+
+22 Value Engineering (VE) meetings and discussions occur earlier on in the project rather than at project-end when the bulk of closeout typically
+
+occurs. But as it relates to turnover coordination, auditors consider involvement of FAM in VE discussions a turnover practice.
+
+
+SJOBERGEVASHENK                                                                                                                  P a g e | 16
+     •    More consistent training.
+          o There was evidence that trainings occurred, were attended by FAM staff, were recorded, and
+            were saved into databases for maintenance staff to access as needed.
+          o Fifty training videos were available for McDaniel High School and 15 training videos were
+            available for Kellogg Middle School. Auditors watched a sample video and found the training to
+            be thorough and well-recorded.
+     •    Less project team turnover.
+          o While there was turnover of key project team members at Franklin High School and Roosevelt
+            High School which made the handover process more challenging for FAM at the time, these
+            struggles did not occur for the 2017 projects.
+
+We reviewed data from the FAM work order system as well as project development requests for the 2017
+Bond projects at McDaniel High School and Kellogg Middle School to evaluate the number or degree of
+repairs needed after closeout and turnover. We found no notable issues. 23 However, OSM should
+formalize its transfer processes into policies, procedures, or guides for future turnover efforts.
+
+Recommendations
+To strengthen the closeout of OSM-led capital construction projects and ensure that lessons learned from
+closing out Bond projects are retained and consistently applied to future Bond-funded projects, OSM
+should:
+     1. Complete development of and memorialize policies, procedures, and e-Builder processes related
+        to construction closeout as well as train project staff on new closeout protocols before the
+        remaining 2017 Bond projects are completed.
+
+
+
+
+23 Work orders and Project Development Requests (PDR) are two data sources where post-occupancy issues may be documented and flagged
+
+for repair and maintenance. Work orders are generated post-occupancy when an existing facility requests maintenance or repairs. PDRs are
+for larger requested changes when maintenance needs are above the ability of maintenance staff and get escalated to a PDR for review. If the
+request is substantiated, PDRs may become a small capital project.
+
+
+SJOBERGEVASHENK                                                                                                             P a g e | 17
+Section 2: Contractor Workforce Equity at PPS Generally Followed
+Industry Practices, Although Additional Strategies Could be
+Considered to Focus on Intended Goals
+
+With the booming demand of the construction industry contrasted with the short supply of workers in the
+Portland area, public owners are challenged to close the labor gap and deliver capital construction projects
+in the region. As part of assigning roles on the project team, there is an opportunity to fill those spots with
+historically underrepresented people who may also benefit from joining these construction-centered career
+pathways. However, there are underlying hardships and impediments preventing large numbers of
+minorities and women from entering the construction trades and related strong diversity outcomes for public
+workforce equity programs. 24 Some of those difficulties in Portland include reported historical and systemic
+hurdles, an overall labor shortage in the market, and a lack of general diversity in Portland’s demographics.
+
+Compared to entities we reviewed that also had workforce equity programs and goals, the Portland Public
+Schools (PPS)’ workforce equity program and outcomes aligned with those local peers experiencing the
+most success in meeting requirements and goals for state-registered apprentices and minority workers—
+but not female workers. When compared to other entities, PPS’ proactive efforts to adopt a workforce
+equity program stands out since some others do not have a program at all. While PPS has not exhausted
+all strategies and approaches available to increase the numbers of minorities and women in the
+construction trades, no one approach is guaranteed to achieve desired equity outcomes and the limited
+existing strategies used in industry each have associated benefits, challenges, and risks.
+
+As PPS continues its pursuit to achieve or exceed workforce equity requirements and goals, it could
+consider revisiting the current program and establish protocols for assessing new strategies, approaches,
+and methods as both the industry and PPS’ progress in the workforce equity arena matures and evolves.
+Moreover, more consideration could be given to re-evaluate program rules and maximize opportunities to
+reach intended outcomes as discussed throughout this section of the report. 25
+
+Workforce Equity Challenges and Practices in Capital Construction Contracting
+Both locally in the Portland area and nationally, the demand for construction work has been thriving in
+recent years. However, a 2018 market study done of the Portland area construction workforce noted that
+the supply of workers is not sufficient to meet demand. 26 The study further estimated that between 2016
+and 2026, 17 percent of the workforce in Portland would be at or near retirement age—a forecast that
+further constricts an already compressed workforce environment. Coinciding with this, the University of
+
+24 The construction trades include a variety of skilled or specialized construction work including, but not limited to, trades such as iron workers,
+
+painters, plumbers, electricians, bricklayers, tile setters, and welders.
+25 The program rules are the specifications as detailed in the City of Portland’s (City) pre-existing workforce equity program. The City’s program
+
+aligns with PPS’ Workforce Equity AD, but has more detail and specificity. By hiring the City as their program administrator, public owners like
+PPS have the option to customize how the City administers the program on their behalf. PPS did not elect to make any changes for operational
+steps and adopted in the City’s program rules as is—except for PPS’ aspirational goals where it increased the workforce participation for
+minority and female workers to higher percentages than the City.
+26 Worksystems, Inc. commissioned by Metro and City of Portland: Portland Metro Region Construction Workforce Market Study, published
+
+2018.
+
+
+SJOBERGEVASHENK                                                                                                                     P a g e | 18
+Oregon Labor Education and Research Center reported that the construction industry will be the third
+fastest growing industry in the state of Oregon between 2019 and 2029. 27
+
+With demand high, supply low, and the potential financial benefits for those pursuing construction careers,
+some public entities have viewed this labor gap as an opportunity to pursue equity in the construction
+industry by establishing workforce equity programs while filling needed construction roles. While such
+programs are not new, we found limited established, defined, or best practices available to guide the
+industry and provide causal results. The primary components of equity programs generally include
+developing goals or targets and monitoring compliance against goals. Yet, our research of industry-wide
+practices did not identify specific strategies to meet goals that had decisive data-backed results. Our
+research also revealed several challenges for why workforce equity programs and strategies generally
+struggled to achieve desired equity outcomes including, but not limited to, the following:
+     •    Factors outside public entity control such as limited influence over hiring decisions at the
+          tradesperson level.
+     •    Legal risks to public entities for employing certain strategies or policies that hinge on affirmative
+          action.
+     •    Overcoming reported barriers for targeted workers to enter the industry included implicit bias,
+          unwelcoming environments, discrimination, and negative workplace culture.
+     •    Changing market conditions such as industrywide labor shortages that may impact supply of
+          workers and influence workforce equity programs’ successes and outcomes.
+
+PPS Joined with Other Local Public Owners to Promote Workforce Equity Outcomes and Adopted
+Many Recommended Industry Practices
+Some public entities like PPS established a formal workforce equity program based off recommendations
+from the Construction Career Pathways Project (C2P2), a regional framework tied with a public owner
+workgroup led by Portland Metro. 28 C2P2 strives to build a comprehensive policy framework for creating
+career pathways for women and people of color and was recognized in February 2022 by the U.S.
+Department of Labor as a “real world example of successful policies” in this field. Its framework
+incorporated nearly every leading equity practice and more practices than three other organizations
+reviewed as shown in Exhibit 7. 29
+
+
+
+27 University of Oregon Labor Education and Research Center, Constructing a Diverse Workforce: Examining Union and Non-Union
+
+Construction Apprenticeship Programs and Their Outcomes for Women and Workers of Color, Published 2021.
+28 Metro is the regional government and metropolitical planning organization of the Portland metropolitan area with 16 public member entities
+
+including the City of Beaverton, Beaverton School District, State of Oregon Bureau of Labor and Industries, Home Forward, Metro, Multnomah
+County, North Clackamas School District, Oregon Department of Transportation, Oregon Health Sciences University, Port of Portland, City of
+Portland, Portland Community College, Portland Public Schools, Portland State University, Prosper Portland, and TriMet.
+29 Organizations reviewed included UCLA Labor Center, PolicyLink, the National Taskforce on Tradeswomen’s Issues. UCLA Labor Center is a
+
+multidisciplinary research center dedicated to labor issues. The National Taskforce on Tradeswomen’s Issues is a coalition of organizations
+that promotes public policy and advocacy initiatives for tradeswomen in the construction industry. There are 31 members and partners such as
+Institute for Women's Policy Research, Oregon Tradeswomen, and Apprenticeship and Nontraditional Employment for Women. PolicyLink is a
+national research and action non-profit institute focused on advancing racial and economic equity. These organizations were reviewed because
+they were among the limited entities that had publicly published best practices available on workforce equity.
+
+
+SJOBERGEVASHENK                                                                                                              P a g e | 19
+                     EXHIBIT 7. INDUSTRY WORKFORCE EQUITY PRACTICES CITED IN STUDIES REVIEWED
+
+
+
+
+Source: Construction Career Pathways Regional Framework (C2P2) and Toolkit; Exploring Targeted Hire: An Assessment of Best Practices in
+the Construction Industry from the UCLA Labor Center; Strategies for Addressing Equity in Infrastructure and Public Works by PolicyLink; and
+         Current Best Practices Supporting Equal Opportunity in Construction by the National Taskforce on Tradeswomen’s Issues.
+
+By adopting the C2P2 framework in 2020 and having established a workforce equity program with goals
+since 2013, PPS demonstrated strong initiative and commitment in pursuing workforce equity—an
+undertaking that few public entities in Oregon have pursued. In fact, while 16 public entities were involved
+in the C2P2 Public Owners Group, not all the entities have formally adopted the framework nor had publicly
+available documents demonstrating implementation of C2P2-recommended efforts. Yet, PPS specifically
+incorporated various C2P2 recommended practices into its program such as making program rules part of
+applicable contract provisions, establishing a system for monitoring and compliance, and levying
+consequences for non-compliance.
+
+
+
+
+SJOBERGEVASHENK                                                                                                             P a g e | 20
+There were several practices that PPS has not implemented such as establishing a workforce agreement,
+recognizing high performing contractors, or directly investing funds toward workforce development. Though
+PPS and its leadership have not done a formal assessment of such strategies, staff stated that informal
+discussions have occurred to not employ these efforts in the past due to limited resources, lack of in-house
+expertise, and potential compensability challenges using bond funds to implement specific strategies.
+However, pursuit of workforce equity goals can be difficult because public entities do not have control over
+the direct hire of trade workers and are limited in how they can influence outcomes. Many different key
+stakeholders, each with their own limitations, are involved in the implementation and pursuit of workforce
+equity that add to the intricacy of such efforts. Other considerations such as potential legal challenges,
+alleged higher project costs, and program rules adding complexity to contract terms add possible risks to
+successful project delivery for the public owner.
+
+PPS Generally Met its Workforce Equity Requirements, Except for Gender-Targeted
+Outcome Goals
+As discussed in the Introduction and Background section of this report, PPS has a mandatory requirement
+of 20 percent of project hours worked by state-registered apprentices, one non-mandatory aspirational goal
+of 25 percent of project hours worked by minorities, and a non-mandatory 14 percent aspirational goal of
+project hours worked by female workers. Available data for the last three fiscal years showed that PPS
+cumulatively met its mandatory apprentice requirement and aspirational minority goal, but did not meet its
+female hour goal as shown in Exhibit 8. 30
+
+                    EXHIBIT 8. THREE-YEAR TREND OF PPS WORKFORCE EQUITY GOALS AND OUTCOMES,
+                                           FISCAL YEAR 2018-19 TO 2020-21
+
+
+
+
+Source: Equity in Public Purchasing & Contracting (EPPC) Memos to the PPS Board of Education, Fiscal Year 2018-19 to Fiscal Year 2020-21.
+
+
+
+30 The aspirational goals for women and minorities were not adopted by PPS until October 2019, which is the middle of Fiscal Year 2019-20.
+
+However, data was available before this point as the contract with the City of Portland to capture PPS data was in place since 2013.
+
+
+SJOBERGEVASHENK                                                                                                                P a g e | 21
+While PPS’ Program Goals and Outcomes Aligned with Other Public Entities Reviewed, Data used
+to Set Goals is Stale
+Other entities in the Portland area with workforce equity programs and publicly available reported outcomes
+had both similar program elements and outcomes as PPS. This commonality between the entities in the
+region interested in workforce equity could stem from their shared participation in the C2P2 Public Owners
+Group, and subsequent adoption of similar program components per recommendations that arose from
+shared discussions. Reviewed public entities set both mandatory and aspirational goals in addition to
+thresholds for contracts that would be subject to workforce equity requirements—as did PPS. Additionally,
+because the available workforce is region-specific and the same individual workers may be employed on
+several capital construction projects across different public owners throughout the Portland region, it is
+reasonable that entities broadly achieved similar results as they likely competed in the same labor pool.
+
+However, some small variances across peer entities’ programs existed such as varied dollar amounts for
+contract thresholds that require workforce equity compliance, differing levels of granularity for goals,
+various time periods for measuring outcomes, and differences in how outcomes were reported. For
+instance, Prosper Portland differentiated outcomes by completed projects versus those under construction
+and the Port of Portland detailed utilization by trade while other entities did not. 31 In terms of outcomes,
+even if viewed across different time periods, most entities generally had success meeting apprentice and
+minority hour goals—but not female hour goals as shown in Exhibit 9.
+
+EXHIBIT 9. PPS WORKFORCE EQUITY GOALS, OUTCOMES, AND THRESHOLDS COMPARED TO OTHER ENTITIES REVIEWED
+
+
+
+
+Source: Publicly available documents from each entity’s website—including board materials, policies, presentations, and webpages dedicated
+                 to workforce equity—and interviews with equity staff at City of Portland, Metro, and Portland Community College.
+Note: (A) Auditors compared these five entities’ programs and outcomes to PPS’ because each was also part of the C2P2 Public Owner’s Group
+ and had publicly available data available for comparison. Auditors included outcomes publicly reported by each entity for the latest available
+ period at the time of our fieldwork. PPS was Fiscal Year 2018-19 to Fiscal Year 2020-21, Beaverton School District was cumulative through
+   December 2021, City of Portland was Fiscal Year 2019-21, Portland Community College was cumulative through April 15, 2022, Port of
+  Portland was Federal Fiscal Year 2021, and Prosper Portland was as of September 2021. (B) Portland Community College (PCC) adopted
+ updated workforce equity goals that went into effect February 2022. Because available reported data included cumulative data through April
+                                              2022, auditors included PCC’s prior rules for reference.
+
+
+
+
+31 Prosper Portland is the economic and urban development agency for the City of Portland.
+
+
+
+
+SJOBERGEVASHENK                                                                                                               P a g e | 22
+PPS regularly meeting two out of its three workforce equity requirements and goals is a notable feat.
+However, the underlying market study that PPS and other peer entities relied on to set and adopt goals was
+based on employment data from 2016. At the time of this report, that data was over six-years old and
+considered stale given that employment data at the workforce level can significantly fluctuate over time.
+Given the unprecedent market changes triggered by the COVID-19 pandemic, using 2016 data as the basis
+for current workforce expectations may not reflect present-day conditions.
+
+Program Procedures Lack Clarity on Outcome Measurement and Reporting
+As the roadmap guiding operationalization of the PPS Board of Education’s (Board) Equity in Public
+Purchasing & Contracting (EPPC), PPS’ workforce equity Administrative Directive (AD) states that
+contractors will “ensure that a minimum of 20 percent labor hours in each apprenticeable trade are
+performed by state-registered apprentices.” PPS staff interpreted the AD, measured outcomes, and
+reported on progress toward its workforce equity requirement based on projects and contractor data in
+aggregate across all apprenticeable trades. Further, PPS staff noted that that AD language was intended to
+differentiate between apprenticeable and non-apprenticeable trades—rather than considering compliance
+at a trade-by-trade level. Staff calculated outcomes by dividing the total number of hours worked by state-
+registered apprentices with the total number of applicable hours worked to report on whether PPS met its
+apprenticeship requirement in total.
+
+Yet, for those outside the PPS organization, the AD could have an alternate interpretation that the 20
+percent requirement applies to each apprenticeable trade with outcomes that should be individually
+measured and reported by apprenticeable trade. The ambiguity could lead to confusion or misinterpretation
+by the Board, Bond Accountability Committee (BAC), and public of what the results entail.
+
+Based on our interpretation of the AD requirement, we reviewed apprentice-level data on individual trades
+captured by PPS to assess percent of hours by each trade category as of February 2022. 32 We found that
+more than half, or 31, of the 54 identified trade categories did not meet the 20 percent requirement when
+disaggregating the results—with outcomes ranging from zero (0) percent to 19 percent. Many reasons may
+account for why some trades have been able to meet the requirement and others have not met the
+requirement such as certain trades’ safety requirements, resulting in less apprentices hired for specific
+projects because more experienced workers are needed. Purchasing & Contracting staff and PPS’ program
+administrator at the City of Portland anecdotally informed auditors that certain trades are more challenged
+to meet goals given the specialty nature of their work.
+
+While PPS staff disagreed with our auditor interpretation of the apprenticeship program requirement
+language, it could clarify how to measure and report on progress against its 20 percent requirement or
+disclose that data reported is in aggregate to better ensure there is no misinterpretation of the outcomes.
+
+
+
+
+32 This data represents a point-in-time count of workforce equity outcomes that include 2012 Bond, 2017 Bond, and some Facilities & Asset
+
+Management (FAM) projects. Available data was not distinguished by both trade and 2017 Bond project-level, some trade categorizations
+overlapped, and numbers can change monthly.
+
+
+SJOBERGEVASHENK                                                                                                             P a g e | 23
+Workforce Equity Outcomes are Primarily Driven by Factors Outside of PPS’ Control
+While having a workforce equity program in place demonstrates PPS’ commitment to pursue equity, PPS’
+ability to take direct action to influence outcomes is limited since only private sector stakeholders have
+ultimately authority to hire tradespeople to perform work on capital projects.
+
+PPS Does Not Have Direct Control Over Workforce Hiring and Outcomes
+Key stakeholders typically involved in various aspects of workforce hiring are public owners, contractors
+and subcontractors, labor unions and associated union halls, and non-union organizations such as trade
+schools that provide apprenticeship training and certification. Specific to PPS, there is also C2P2 led by
+Metro as the de facto regional leader on workforce equity and the City of Portland providing service as
+PPS’ contracted program administrator. Some stakeholders have a greater ability to influence outcomes
+than others, but all are subject to market conditions and bound by rules and regulations set by local and
+state entities as well as by their own institutions.
+
+As the public owner of capital projects, PPS sets the program rules and specifications—with
+recommendations and guidance from Metro’s C2P2 regional framework—and relies on the City of Portland
+to administer the program and manage compliance. Yet, none of these entities can make hiring decisions
+at the tradesperson level. Only private stakeholders such as contractors, labor unions, and to some extent
+trade schools have primary control over hiring decisions. As shown in Exhibit 10, PPS is considerably
+removed from the direct hiring of the actual workforce and has limited control over such decision-making.
+
+     EXHIBIT 10. KEY STAKEHOLDERS, RESPONSIBILITIES, AND LEVEL OF CONTROL OVER HIRING TRADE WORKERS
+
+
+
+
+             Source: Auditor-generated based on interviews with PPS staff, prime contractors, subcontractors, and Metro.
+
+
+
+SJOBERGEVASHENK                                                                                                           P a g e | 24
+To help affect progress and change, PPS’ workforce equity program primarily requires and directs its prime
+contractors to implement workforce equity through its PPS contractual obligations. Yet, unless prime
+contractors conduct the project work themselves and would be responsible for hiring tradespeople, they too
+do not have direct influence over who is hired. Prime contractors typically hire subcontractors who are
+responsible for finding and hiring direct trade workers. Depending on whether these subcontractors are
+signatory to a union, they may also have limited control in deciding who is hired because they are
+contractually tied to their respective union’s rules and rely on union hiring halls to provide workers. 33 While
+both unions and non-union organizations that provide trade workers have some control over the individual
+workers made available to contractors, each trade union or organization has their own procedural process
+for identifying, prioritizing, and making individual assignments to specific projects. Ultimately, these entities
+also are limited by and subject to market conditions of availability of workers who join these organizations.
+
+Additional Strategies Could be Considered to Enhance Desired Outcomes
+The basis for PPS’ workforce equity program is the EPPC policy. That policy asserts that the objectives of
+the workforce equity program are to “increase the numbers of women and minorities in the construction
+trades through apprenticeship opportunities” and “ensure apprenticeship opportunities in the construction
+trades”. 34 While no one strategy is guaranteed to produce specific results, there are additional strategies
+identified by C2P2 and other organizations that could potentially help advance workforce equity that PPS
+has not yet employed. According to PPS staff, there have been informal discussions on why some
+strategies may not be feasible for PPS.
+
+For example, one strategy not employed involves setting aside money into a separate fund designated to
+directly infuse cash into programs that develop the local workforce. Staff noted that this strategy may not be
+conceivable for PPS as bond monies are constrained to deliver tangible capital improvement projects and,
+while important, a direct investment into workforce equity may not be bond compensable. Limited other
+resources exist to fund addition strategies; for instance, general fund dollars may also not be feasible given
+budgetary pressures faced by PPS and emphasis to fund K-12 grade education needs.
+
+Another strategy PPS could contemplate is assuming full administration of the compliance management
+piece of its equity program using in-house PPS staff and focus the City of Portland solely on data tracking
+as part of its contract—a strategy other local public entities have exercised. Full administration includes
+day-to-day management and monitoring such as, but not limited to, collecting and reviewing proposed
+workforce plans and documentation of good faith efforts to determine if contractors are making sufficient
+effort toward recruiting and hiring target workers, following-up with contractors on compliance, and using
+judgement to determine when exemptions or penalties should be assessed. According to PPS, it does
+employ certain aspects of compliance management—such as requesting project managers to monitor
+contractors with prior violations—although it has not assumed the full spectrum of compliance management
+activities. If PPS wants to consider assuming full administration, it would require staff with equity expertise
+
+33 According to interviews with industry members, a contractor that is a signatory to a union is a member bound to the rules and policies set by
+
+each respective union. Policies vary by union of what rights members are entitled to and what rules they are subject to—including what workers
+and contractors may receive when requests are made to the union. Typically, unions are affiliated with a hiring hall, which are separate
+organizations that operate under the auspices of the union. Hiring halls recruit and provide workers to affiliated unions.
+34 Refer to the “Introduction and Background” section of this report for more description of the EPPC policy.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                 P a g e | 25
+and additional resources. Yet, even if PPS did assume full compliance administration, it would still not have
+direct control over hiring decisions as previously described. Other strategies for PPS to consider or revisit in
+the future are highlighted in Exhibit 11.
+
+                 EXHIBIT 11. EXAMPLES OF WORKFORCE EQUITY STRATEGIES THAT PPS COULD CONSIDER
+
+
+
+
+Source: Interviews with PPS Purchasing and Contracting staff; Construction Career Pathways (C2P2) Toolkit; Strategies for Addressing Equity
+  in Infrastructure and Public Works by PolicyLink; Pros and Cons of Using Project Labor Agreements by the Office of Legislative Research of
+the Connecticut General Assembly; and Exploring Targeted Hire: An Assessment of Best Practices in the Construction Industry from the UCLA
+                                                                Labor Center.
+
+No other public entities in the Portland area appear to have implemented these additional enhanced
+strategies either—including other school districts. In fact, PPS has demonstrated initiative by adopting
+C2P2’s framework when not all local public entities—let alone school districts—have taken such steps.
+PPS may face limitations on the equity strategies it can implement given its educational charge compared
+to more general and broadly-focused government agencies that may have wider-ranging authorities and
+responsibilities.
+
+Nonetheless, PPS may want to consider implementing protocols to regularly revisit its program and assess
+potential adjustments to strategies, goals, or the overall framework as needed that could help progress
+toward the stated objectives of the EPPC. As part of revisiting its program, PPS could consider
+
+
+SJOBERGEVASHENK                                                                                                             P a g e | 26
+implementing protocols for contemplating and reviewing various workforce equity strategies where costs,
+benefits, and feasibility are discussed. Because workforce equity programs are relatively new, there are
+limited examples of existing programs and full details of other program rules. Nonetheless, our research
+shows there are conversations starting about what other elements could be considered into such programs
+as the industry matures. As best practices related to workforce equity are still evolving for the industry and
+equity strategies and standards are fluid, new approaches may arise as the industry matures its
+understanding of equity or existing approaches may become refined as other entities pilot known
+strategies. PPS could benefit from staying informed of these evolving practices.
+
+Finally, another program feature that PPS may want to consider is more clearly defining the breadth of its
+program by tracking and including non-trade workers and professional service providers in addition to the
+“apprenticeable” trades. Endeavoring to have an all-around more diverse workforce of workers and
+professional services providers on construction projects—in addition to “apprenticeable” trade workers—
+may assist in encouraging and hiring diverse workers and developing equity. As such, PPS could consider
+separately identifying and tracking equity progress for other non-trade workers on construction projects
+such as estimators, foreman, supervisors, engineers, and architects into PPS’ program target groups and
+count against workforce equity outcomes. Doing so would require revisions to how the program collects
+data, measures progress against requirements, and reports outcomes—activities which would require
+additional resources. Further, this opportunity is also dependent on changes to PPS current workforce
+equity requirements and directives.
+
+Recommendations
+As PPS moves forward with its School Improvement Bond programs and investing in the local construction
+workforce through PPS’ Workforce Equity Administrative Directive, PPS could consider:
+    2. Developing protocols for regularly identifying, reviewing, and assessing workforce equity strategies
+       on a designated timeline to discuss costs, benefits, and feasibility for a particular review period as
+       warranted—including reconsidering known strategies that were not possible in prior periods, but
+       could be reconsidered based on changing environments. This could include:
+            a. Evaluating the feasibility of obtaining updated market data to ensure that workforce equity
+               requirements and goals are supported, or assessing the option of jointly contributing
+               toward the cost of an updated market study on an agreed-upon timeline with C2P2
+               partners.
+    3. Clarifying its Workforce Equity Administrative Directive protocols for whether workforce equity
+       outcomes and progress should be measured and reported in aggregate or disaggregated by each
+       apprenticeable trade.
+    4. Conducting a review of workforce equity program specifications and analyzing whether existing
+       rules could be enhanced to benefit intended target audiences.
+
+
+
+
+SJOBERGEVASHENK                                                                                  P a g e | 27
+Section 3: Bond Program Generally Performed Well, and
+Opportunities Exist to Track Other Indicators
+With the size, complexity, and high-dollar value of capital projects, tracking key performance indicators
+gives additional insight and transparency into how a project is progressing toward goals and allows for root
+cause analysis to help decision-makers in modifying plans as needed. Key performance indicators are
+quantifiable measures used to help entities understand if they are headed in the right direction. While a
+comprehensive performance measurement can be a time-consuming activity, public sector organizations
+have an implied responsibility to publicly communicate results as part of demonstrating accountability and
+promoting transparency to its public stakeholders.
+
+We found that the Office of School Modernization (OSM) was tracking and reporting on several
+performance indicators that generally aligned with industry practices, and the Bond Program is performing
+well based on-budget, schedule, safety, and quality indicators. Nonetheless, we offer recommendations for
+enhancement to performance measurement practices.
+
+Results Suggest the Bond Program is Performing Well with Budget and Schedule
+With typically limited funds and available time, cost and schedule control are critical for any capital
+improvement project.
+
+Cost Performance Tracked Closely with Revised Budgets except for Benson High School
+When measuring budget performance of the 2017 Bond modernization projects in terms of percent change
+between baseline budgets and final costs, we found that actual costs are closely aligned with revised
+budgets.
+
+As shown in Exhibit 12, we compared actual costs as of March 2022 for each of the 2017 Bond
+modernization projects to both their original baseline ballot budget as well as to the revised design budget.
+Overall, there were minimal variances between actual cost and revised budgets with two projects coming in
+slightly under budget. Another project, Benson High School, is currently experiencing larger variances at 14
+percent. 35 Factors behind those variances—including scope increases, market escalation, and budget
+design errors—are discussed in Section 1 of this report.
+
+
+
+
+35 All figures and dates used for the Benson High School represent the Benson Main project only. Refer to Section 1 of this report for a list of all
+
+Benson High School subprojects.
+
+
+SJOBERGEVASHENK                                                                                                                    P a g e | 28
+ EXHIBIT 12. COMPARISON OF BASELINE, REVISED BUDGETS, AND CURRENT EXPENDITURES ESTIMATED AT COMPLETION
+                         FOR SCHOOL MODERNIZATIONS PROJECTS, AS OF MARCH 2022
+                                                                                                      Percent         Percent
+                                              2017 Ballot       Revised         Estimate at
+                                                                                                      Variance        Variance
+                                               Original         Baseline       Completion as
+                                                                                                     Original to     Revised to
+                                                Budget          Budget         of March 2022
+                                                                                                      Revised         Current
+               Completed Projects
+               Kellogg Middle School             $45 M            $60M               $58M               33%               -3%
+               McDaniel High School             $146 M           $199M              $201M               36%               2%
+               In-Progress Projects
+               Benson High School               $202 M           $282M              $321M               40%              14%
+               Lincoln High School              $187 M           $243M              $240M               30%              -1%
+       Source: 2017 Bond Ballot language, Design Development Documents, and e-Builder data as of March 31, 2022. Amounts rounded.
+ Note: Revised budgets are those figures reported at the 100 percent design document stage where project details are sufficiently developed to
+identify initial specifications, floor plans with detailed dimensions, comprehensive building sections, and definitions of systems needed. Industry
+      best practices from the University of California suggest setting a baseline budget after the design development phase and before the
+                                                              construction document phase.
+
+When looking at differences between original ballot budgets and revised design budgets, variances were
+more significant. This was largely impacted by flawed cost estimates used for the ballot that were
+discussed in a prior bond audit report. 36 Since that time, PPS revised its cost estimation methods that now
+align with leading practices and are reasonable.
+
+Data Showed Projects were Generally On-Schedule
+When measuring schedule performance of the 2017 Bond modernization projects in terms of variance
+between planned completion dates and actual completion, we found that school projects were generally
+completed on-time or were on-schedule.
+
+As shown in Exhibit 13, we compared actual completion for each of the 2017 Bond modernization projects
+to planned completion from OSM’s master schedule to assess variances. We found the two completed
+schools as of March 2022 finished generally on-schedule with slight delays that did not appear to impact
+schools from opening as planned. Specifically, McDaniel High School finished only two months behind
+schedule and Kellogg High School finished one month after planned—both minimal delays even though
+there were revisions to designs, COVID-19 interruptions, and changes to the permitting process.
+
+  EXHIBIT 13. COMPARISON OF ACTUAL COMPLETION OR CURRENT SCHEDULE FOR SCHOOL MODERNIZATION PROJECTS
+                         AGAINST PLANNED COMPLETION TIMELINES, AS OF MARCH 2022
+                                      Planned                  Actual                Months
+            Project                  Substantial             Substantial          Variance with                      Comments
+                                     Completion              Completion             Schedule
+  Completed Projects
+  Kellogg Middle School            December 2020            January 2021             1 months          Completed late, but minimal delay.
+  McDaniel High School               May 2021                 July 2021              2 months          Completed late, but minimal delay.
+
+36 Refer to Portland Public Schools 2017 Bond Performance Audit – Fiscal Year 201819 Phase I Report: Bond Cost Estimates, April 2019.
+
+https://www.pps.net/Page/15137
+
+
+SJOBERGEVASHENK                                                                                                                   P a g e | 29
+                                     Planned                 Actual                  Months
+           Project                  Substantial            Substantial            Variance with                   Comments
+                                    Completion             Completion               Schedule
+ In-Progress Projects
+                                                           March 2024
+ Benson High School               December 2024                                     -9 months                Ahead of schedule.
+                                                            Estimated (A)
+                                                          October 2023
+ Lincoln High School                  July 2023                                     3 months                   Behind schedule.
+                                                            Estimated (A)
+Source: Planned substantial completion date is from the master schedule in place at the time the bond was passed. Substantial completion is
+defined as the point in construction when the project is considered sufficiently complete and only minor, corrective, or warranty work remains.
+                                  Dates were extracted from PPS’ e-Builder system data as of March 30, 2022.
+Note: (A) Substantial completion data as of March 2022. For the Lincoln High School Project, the estimated substantial completed date used is
+                for Phase II of the project (track and field stadium); estimated completion for the high school itself is June 2022.
+
+Another Schedule Performance Indicator Revealed Processing Time of Critical Documents Varied
+One measure used in industry to track schedule performance is the processing time for Requests for
+Information (RFIs)—key project documents that can impact schedule if not addressed timely. RFIs are used
+during projects by contractors to ask clarifying questions to owners and design professionals concerning
+perceived unclear design specifications and contract document requirements. The number of RFIs on
+projects vary, but large capital projects can have a substantial number of RFIs on a single project. In some
+cases, RFIs are time sensitive and require more immediate responses such as if a contractor believes they
+cannot continue work until an RFI has been addressed which can delay the overall schedule and add cost
+to a project. Other RFIs are less urgent and require longer calendar time to finalize with no impact to
+schedule. By measuring RFI processing time, an owner has another tool available to gauge project
+delivery, discuss process and project nuances, and make adjustments as needed.
+
+For the 2017 Bond modernization and rebuild projects, we reviewed processing times from the date the
+contractor submitted an RFI for review to the date PPS addressed the RFI. As shown in Exhibit 14, there
+was variation in processing time within the projects—although three of the four projects experienced
+average RFI processing times at or less than 30 calendar days.
+
+                          EXHIBIT 14. RFI PROCESSING TIMES FOR FOUR MODERNIZATION PROJECTS
+                                                                                       Calendar Days
+                                                                   Number          Average Maximum
+                                                                   of RFIs         # of Days # of Days
+                                  Completed Projects
+                                  Kellogg Middle School                     598           87           571
+                                  McDaniel High School                 1,310              26           267
+                                  In-Progress Projects
+                                  Benson High School                        519           27           153
+                                  Lincoln High School                  2,204              19           217
+                                             Source: e-Builder data accessed February 20, 2022.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                P a g e | 30
+Nonetheless, higher durations between receipt of RFIs and responses does not necessarily indicate a
+performance issue. Each project can have its unique set of circumstances and characteristics impacting
+processing times.
+
+One project—Kellogg Middle School—was an outlier with average RFI processing times at 87 calendar
+days. While Kellogg Middle School was a smaller project in terms of scale and cost, it is reasonable that it
+had higher RFI processing times because of the project delivery method used (design-bid-build) where
+contractors are not involved in the project until the scope has been fully designed as compared to other
+projects using a different delivery method (construction manager/general contractor) where the contractor
+has insight and can ask questions during the design phase. Additionally, two RFIs took over 500 calendar
+days to complete because of significant cost considerations that needed deeper analysis and distorted the
+project average processing times. Despite Kellogg having a higher number of RFIs, it did not affect the
+schedule.
+
+These times were higher than one benchmark reported by the Construction Management Association of
+America suggesting typical turnaround times at 10 calendar days, on average, although realizing that the
+unique circumstances of individual projects may cause variances from those average days.37 OSM
+confirmed that the RFI process can vary by contractor with some informally asking questions in the field or
+during site walks to allow for early discussions—eliminating some of the back-and-forth and reducing
+turnaround times—that are “confirmed” in a documented RFI later. Although OSM does not externally
+report on RFI processing time, OSM informed us they review and discuss RFI data at weekly and monthly
+project team meetings.
+
+Project Safety Performance, where Available, Was Better Than National Average
+Except for Lincoln High School
+Ensuring the safety of construction sites is important with the use of large machinery, potentially hazardous
+materials, and a variety of tools. Not only can increased safety incidents lead to lost labor hours increasing
+budget and schedule of a project, but it is also an owner’s responsibility to ensure a safe working
+environment for employees and contracted workers. The federal Occupational Safety and Health
+Administration (OSHA) has strict requirements for recordable injuries and illnesses that must be tracked by
+entities such as PPS. 38 For the three school modernizations where data was available, we found that two
+of the schools had recordable incident rates below the 2020 average national incident rate.
+
+We compared OSM’s 2017 Bond modernization projects’ safety performance to figures collected by the
+National Safety Council, a leading nonprofit safety advocate that compiles data from the North American
+Industry Classification System to serve as a benchmarking tool. Specifically, as shown in Exhibit 15, both
+completed McDaniel High School and Kellogg Middle School projects had recordable incident rates below
+
+
+37 RFI processing time benchmark is from the Construction Management Association of America (CMAA) and Navigant Construction Forum
+
+research paper “Impact & Control of RFIs on Construction Project.”
+38 OSHA defines a recordable injury or illness as (a) any work-related fatality; (b) any work-related injury or illness that results in loss of
+
+consciousness, days away from work, restricted work, or transfer to another job; (c) any work-related injury or illness requiring medical
+treatment beyond first aid; or (d) any work-related diagnosed case of cancer, chronic irreversible diseases, fractured or cracked bones or teeth,
+and punctured eardrums.
+
+
+SJOBERGEVASHENK                                                                                                                 P a g e | 31
+the 1.8 national average—with Kellogg Middle School reporting zero recordable incidents—based on
+information we gathered from data OSM provided to the BAC. One school project that is still in progress—
+Lincoln High School—was almost double the national average. No factors or reasons for the higher incident
+rates were provided to auditors.
+
+ EXHIBIT 15. COMPARISON OF RECORDABLE SAFETY INCIDENT RATES FOR 2017 BOND PROJECTS TO NATIONAL RATES
+                                                         PPS Recordable            2020 National Average
+                                                          Incident Rate           Recordable Incident Rate
+                          Completed Projects
+                          Kellogg Middle School                 0 (A)
+                          McDaniel High School                1.52 (B)                         1.8
+                          In-Progress Projects
+                          Lincoln High School                 3.37 (C)
+                        Source: National Safety Council and data from the North American Industry Classification System.
+ Notes: Recordable incident rate is defined as the number of employees per 100 full-time employee/s that have been involved in a recordable
+         injury or illness. Benson High School not included because of its early phases of construction at the time of audit fieldwork.
+                                  (A) As of March 14, 2022. (B) As of July 27, 2021. (C) As of January 30, 2022.
+
+
+
+
+Completed Modernization Projects Reviewed Had Reasonable Volume of Work
+Orders Post Construction
+One way that construction quality can be considered is through the amount of work orders that are filed
+after a project is turned over to the owner for operation and occupancy—although construction labor and
+materials are under warranty for a year or more depending on the specific type of material used. As part of
+our work in reviewing the closeout and turnover process between OSM and Facilities & Asset Management
+(FAM), we reviewed work order logs maintained for each school to capture potential rework needed post-
+construction through maintenance work orders on the newly built schools.
+
+Specifically, we reviewed 122 work orders submitted for the completed Kellogg Middle School and
+McDaniel High School buildings and found no significant issues related to quality. FAM staff agreed with
+these results and believed that work orders on these schools were not particularly noteworthy or out of the
+ordinary. Rather, work orders reviewed often related to student-damaged property, lock or key issues, and
+fire alarm problems.
+
+Key Performance Data was Reported and Aligned with Some Leading Practices,
+Although Opportunities Exist to Enhance Performance Measurement
+Establishing a comprehensive performance measurement system to track, measure, and report on
+progress and to guide project decisions can be time-consuming and challenging to communicate technical
+and detailed information to decision makers, advisory bodies, stakeholders, and the public. Nonetheless,
+performance measurement is important and a vital approach for public sector organizations to demonstrate
+accountability and promote transparency to the public and bond taxpayers. It should involve goal and target
+setting, key performance indicators to evaluate the overall Bond program or specific project, and consistent
+methodology to track and report on performance. Some measurement is geared internally to help teams
+
+
+SJOBERGEVASHENK                                                                                                             P a g e | 32
+function more productively, while other measures are reported externally for increased transparency and
+accountability. Common performance indicators we reviewed were from five primary categories—(1)
+budget, (2) schedule, (3) safety, (4) quality control, and (5) stakeholder satisfaction. 39
+
+We found OSM actively tracks and reports on a variety of performance indicators that align with some
+leading practices. Specifically, for the 2017 Bond Program, OSM generally tracked and reported on-budget,
+schedule, and safety performance for the larger school modernizations and replacement projects and
+health and safety project activities.40 These practices aligned or were more comprehensive than other peer
+school districts that reported or had limited performance information available—although, we do offer a few
+recommendations to consider enhancing its performance reporting practices.
+
+Project Performance was Regularly Reported
+OSM regularly reported on the 2012, 2017, and 2020 Bond Program budget, schedule, and equity
+performance. For instance, OSM reported on performance as part of regularly scheduled meetings with the
+Bond Accountability Committee (BAC) showing overall Bond program health and individual project level
+details and photos showing status on-budget, schedule, and equity. Individual project status updates
+provided additional information on finances, schedule progress, and discussions and comments from the
+project team. 41 OSM also reported on safety performance—for instance, in April 2019, OSM provided a
+“safety update” for Grant High School detailing recordable and reportable incidents, manhours, incident
+rate, and specifics regarding certain incidents.
+
+Although there was added performance details tracking used internally by OSM to guide the individual
+project decisions such as weekly reports on-schedule and internal budget analyses, a significant volume of
+budget and schedule performance information was made available to bond stakeholders including the
+Board, BAC, and public. Further, OSM’s reporting aligned with the performance reporting of other school
+districts with bond programs where presentations included the status of bond funds and reserves, narrative
+on-budget and schedule, and certain performance analysis. For instance, Beaverton School District used a
+scorecard for their bond performance, looking at overall budget performance and schedule performance.
+None of the other school districts we reviewed reported on specific key performance indicators (KPIs).
+
+Other Performance Indicators are Available for OSM to Consider
+While OSM actively tracks and diligently reports on Bond performance, there are other performance
+indicators used in industry to track performance that OSM does not capture as shown in Exhibit 16.
+These examples refer to data statistics that re specific, could be compared against a goal or target, and can
+be evaluated over time for patterns or trends. Further, summarizing these types of metrics can often be
+useful for public reporting and are easy to digest by the public.
+
+39 Construction key performance indicators were compiled from a variety of sources, including Vancouver Regional Construction Association,
+
+Project Management Institute - Construction Extension, 29th World Congress International Project Management Association, Project
+Management, Project Management Software, Journal of Construction Engineering and Management.
+40 Safety performance is not reported for the smaller, individual health and safety projects because of the shorter project length typically
+
+completed in two months or less.
+41 OSM previously used a balanced scorecard to report on Bond Program budget and schedule performance using performance indicators tied
+
+to strategic objectives and defined performance targets aligning activity with baselines and estimates to completed results rated as “good,”
+“concerns,” or “trouble.” Starting in 2021, OSM ‘s reporting focused on a higher-level graphic showing baseline budget, schedule, and equity
+and whether the different project phases were on-target “as planned,” “caution,” or “impact.”
+
+
+
+SJOBERGEVASHENK                                                                                                             P a g e | 33
+       EXHIBIT 16. EXAMPLES OF OTHER INDUSTRY PERFORMANCE INDICATORS NOT CURRENTLY TRACKED BY OSM
+
+              KPI Category                                                        Indicator
+                                       Percent that a project is over or under budget
+     Budget                            For a program, percent of all projects that are “on-budget” upon substantial completion
+                                       Number and/or value of change orders compared to initial and revised contract totals
+                                       Number of weeks from planned substantial completion to actual substantial completion
+     Schedule                          Number of adjustments made to the schedule
+                                       Numbers of RFIs and the average duration to review and respond to RFIs
+                                       Incident rate (A)
+     Safety
+                                       Lost hours
+                                       Rework cost
+     Quality Control                   Number and percent of non-compliance records compared to inspections conducted
+                                       Hours spent to fix defects
+                                       Number of non-emergencies and/or construction-related complaints
+     Stakeholder Satisfaction
+                                       Percent of occupants that are satisfied with the building post-occupancy
+  Source: Vancouver Regional Construction Association; Project Management Institute (PMI) - Construction Extension, 29th World Congress
+  International Project Management Association; Project Management Software; and Journal of Construction Engineering and Management.
+      Note: (A) OSM currently measures incident rates. However, as discussed later in this report section, there are some improvements to
+                         consistency and data availability that OSM could incorporate into its existing safety reporting.
+
+For instance, quality control performance indicators suggested for use in industry include the cost of
+rework, number of non-compliance records, hours spent to fix defects, or number of work orders post-
+construction. Some of these—such as cost of rework or the number and percentage of non-compliance
+inspections compared to total inspections—are performance metrics that are captured as projects are in-
+progress. These metrics can help gauge status and guide project decisions such as whether OSM needs to
+adjust its inspection frequency or monitoring of its contractor if results indicate higher numbers or
+percentages of noncompliance issues than expected. OSM currently tracks non-compliance inspection data
+in its e-Builder project management system, although it does not report on the data.
+Although using performance metrics for stakeholder satisfaction can be subjective, another performance
+tool used in industry is to measure results through a stakeholder survey. OSM administered surveys in the
+past, although it stopped the practice in 2019. Back in 2013, OSM sent surveys to project Design Advisory
+Groups (DAG), education staff, and maintenance staff throughout the master planning, design, and
+construction phases to garner stakeholder perspective and measure stakeholder satisfaction. 42 Questions
+were asked for Master Planning and Design Phases in addition to the Construction Phase. For instance,
+the survey asked respondents to rate their level of agreement with a variety of statements such as “the
+project design implements the scope of work and supports the community’s needs” and “the finished
+project delivered the approved scope and meets long-term educational needs.”
+
+
+
+42 OSM established the Design Advisory Group (DAG) for school modernization projects to provide stakeholder representatives from the school
+
+community the opportunity to participate in the planning and design of school improvements. They are not a decision-making body, but function
+in an advisory capacity.
+
+
+SJOBERGEVASHENK                                                                                                              P a g e | 34
+Per PPS and OSM leadership, these surveys were discontinued because results did not provide sufficient
+insight and benefit to PPS given the extensive time and effort required to administer the surveys. Beginning
+in January 2019, OSM stated the electronic surveys had become increasingly less valuable and PPS
+began moving towards a more qualitative approach of gathering in-person feedback. OSM reported that it
+planned to focus future inquiries on capturing stakeholder sentiments regarding the design and construction
+processes, rather than the finished building.
+
+While not every measure needs to be incorporated and tracked as part of a performance system, public
+sector entities should regularly consider and refine metrics to help with project delivery analysis and
+accountability. During the audit period, OSM was working with PPS Leadership to revisit the types of
+performance indicators it should track and how identified indicators could best align with PPS overall
+objectives that were in progress of being restructured.
+
+Safety Metrics were Tracked, Although Consistency and Reporting Could be Boosted
+As previously mentioned, OSM also tracked and reported on project safety performance in alignment with
+its core value in OSM’s Project Management Plan. For instance, at an October 2019 BAC meeting, OSM
+shared information on 12 recordable incidents and zero reportable incidents for Grant Hight School. While it
+is a good practice to track and make those results available, OSM could enhance the reporting by
+specifying what period was being reported (current period or cumulative), providing the distinction between
+recordable and reportable, and providing context or calculating a reportable incident rate that could be
+compared with a target or regional average to help the BAC and public better understand whether the
+number of incidents reported are minor or significant.
+
+Additionally, safety reporting could be enhanced by requiring general contractors to consistently report
+specific safety data that OSM could summarize and report. According to OSM, its hired general contractors
+were responsible for tracking and reporting safety accidents and incidents, although the methods and
+frequency of that reporting varied between contractors. One contractor provided monthly safety statistics,
+but did not offer data showing the cumulative statistics over the entire project duration. Another contractor
+provided both monthly and cumulative statistics during weekly project meetings with details on recordable
+events, near misses, first aid administered, lost time, notifications only, and medical personnel involved.
+
+
+
+
+SJOBERGEVASHENK                                                                                 P a g e | 35
+Recommendations
+To enhance its performance measurement practices, guide individual project team activities, and boost
+accountability to the Board, BAC, and public, OSM should consider:
+    5. Continuing in-progress efforts to revisit the types of key performance indictors it should track and
+       report on that best align with PPS overall objectives and Bond project objectives. Considerations
+       could include:
+            a. Using specific indicators that can be compared against a goal or target and evaluated over
+               time for patterns or trends.
+            b. Providing needed context when reporting to the Board, BAC, or public.
+            c. Highlighting bond project performance results on the PPS website with summary graphics
+               or simplified data that are easier for the public to find and understand.
+    6. Requiring prime general contractors to consistently report specific safety performance data to OSM
+       so that project managers can summarize and share reportable incident rates, how the rates
+       compare with goals or averages, what period is being reported, and context on the results as
+       needed.
+
+
+
+
+SJOBERGEVASHENK                                                                                 P a g e | 36
+Section 4: 2020 Bond Management Framework was Sound,
+However, Certain Areas Carry Greater Risk and Need Closer Focus
+With more than $1.2 billion in 2020 School Improvement Bond funds, Portland Public Schools (PPS) and
+the Office of School Modernization (OSM)’s practices are critical inputs to deliver against expected
+outcomes. We found that PPS and OSM have established many strong strategies, policies, and protocols
+to successfully guide the delivery for most of the 2020 Bond Program components. One area that remains
+higher risk needing prompt action and close monitoring is the Center for Black Student Excellence (CBSE).
+
+2020 Bond Program Components were Broader than Previous Bonds
+While the 2012 and 2017 School Improvement Bonds were heavily focused on construction, improvement,
+and maintenance of school facilities, the $1.2 billion 2020 School Improvement Bond expanded its breadth
+and scope of proposed improvements. In addition to school modernizations and other health and safety
+improvements, the 2020 Bond included funds for education infrastructure improvements related to
+curriculum, technology, and special education needs as well as a new concept Center for Black Student
+Excellence (CBSE) as shown in Exhibit 17.
+
+                                         EXHIBIT 17. 2020 BOND COMPONENTS
+
+
+
+
+           Source: Auditor-Generated from PPS 2020 School Improvement Bond Website https://www.pps.net/Page/17502
+
+
+
+SJOBERGEVASHENK                                                                                                    P a g e | 37
+Like previous voter-passed bonds in 2012 and 2017, the majority of the 2020 Bond funds were set aside for
+capital construction projects to modernize certain schools, master planning of design of other schools,
+program management and contingency, and a variety of health and safety capital improvement projects to
+upgrade, replace, or address school site roofs, mechanical systems, security, compliance issues with
+Americans with Disabilities Act, and seismic features.43 In fact, more than 71 percent—or $857 million—of
+the $1.2 billion 2020 Bond was allocated to these types of improvement activities.
+
+The 2020 Bond components also included $195 million related to several new improvement areas.
+One of the new areas focused $53.4 million on comprehensive, accessible, current, and culturally relevant
+curriculum to meet Oregon State educational standards. Another area planned expenditures of $128.2
+million for upgraded core technology infrastructure to provide equitable access, including assistive
+technology and replacement of tablets or laptops for students. Approximately $13.4 million was designated
+for special education programming for items such as flexible, portable furniture and equipment, adaptive
+classroom configurations with visual and acoustic mitigation, and portable room partitions and mobile
+storage units.
+
+Further, the 2020 Bond Program planned another $60 million related to the CBSE. Plans included funds for
+capital improvements related to the CBSE concept which, according to PPS, “does not necessarily refer to
+a singular physical campus or facility, but rather envisions a broader definition referring to a geographical
+community as well as an overall culturally-affirming approach and set of community-developed strategies”
+to promote Black student excellence from cradle to career.
+
+Robust Framework was Generally in Place to Manage 2020 Bond Program, Although
+Certain Areas Need Additional Focus
+We assessed the general framework employed over the 2020 Bond Program focusing on-budget
+development, spending, schedule and progress monitoring, and project management. Based on that
+review, we found that a solid framework was mostly in place to help ensure school improvements would be
+successfully completed on-time, on-schedule, and as planned as part of the voter-approved Bond. This
+framework included solid budget estimates, strong bond compensability guidelines, schedule tools, and
+general management. Yet, the CBSE improvement area needs additional focus and monitoring.
+
+Bond Budgets Developed Using Leading Practices
+PPS developed the bond budgets using estimates from a combination of historical data available from
+similar expenses on completed project costs, the Facilities Condition Assessment, and professional cost
+estimators. While the bond budget was being developed over the course of 2020, OSM consulted with
+three separate professional cost estimators to update forecasted construction escalation rates given the
+extreme inflation occurring in 2020—costs that have continued to rise into 2022. The 2020 Bond also set
+aside a healthy program contingency to help pay for any potential cost increases resulting from changing
+market conditions, new building code or permit requirements, or unforeseen conditions during construction.
+
+43 Plans included the repair or replacement of leaking or deteriorating roofs at up to 12 sites, repair or replacement of 15 highest priority
+
+mechanical systems to heat and cool buildings as well as smaller mechanical projects, upgrades or replacements of classroom door locks and
+intrusion alarm systems, install of additional security camera systems, and seismic retrofits at up to three schools for unreinforced masonry.
+
+
+SJOBERGEVASHENK                                                                                                                     P a g e | 38
+For other 2020 Bond Program areas such as educational improvements, PPS departments responsible
+over those areas—Office of Teaching and Learning (OTL) for curriculum and Office of Technology &
+Information Services (OTIS)—developed budgets using data from cost estimates from vendor solicitations,
+historical annual costs, average costs per student, and prior vendor quotes.
+
+However, while the Bond amount for the CBSE area consisted of line items typical for a capital construction
+project such as conceptual design, master planning, community engagement, construction, and project
+management, it is unclear how that budget will translate into projects—as discussed later in the risk
+assessment section. Since we were only tasked with conducting a high-level review, this area should have
+additional focus as part of future bond audits.
+
+Expenditures Tested and Process for Determining Bond Compensability Appears Robust
+As required by the PPS Bond Compensability Guidance, 2020 Bond expenditures must be spent on capital
+costs for capital assets—meaning tangible and intangible property that are reusable over a long period of
+time and have substantial value. 44
+
+With 2020 Bond investments in new areas such as in curriculum and technology, OSM implemented
+several controls to ensure bond expenditures are compliant and would be compensable under the
+2020 Bond. One control was the creation of a Bond Compensability Committee (BCC) in January 2021 that
+was comprised from a cross-section of PPS staff in Finance, Procurement & Contracting, OSM, and other
+relevant program representatives. Approvals are required by the BCC before a bond project purchase can
+be made and related expenditures are reimbursed using a standard form following set protocols within
+OSM’s e-Builder project management system. BCC approval decisions are memorialized in meeting
+minutes and inventoried for future reference as needed.
+
+Other parameters guiding the newer 2020 Bond areas includes a Bond Compensability Guidance
+Document with general criteria based on provisions of the Oregon constitution and revised statues,
+Generally Accepted Accounting Principles over capitalizable assets, and Governmental Accounting
+Standards Board pronouncements. The guide was last updated in May 2021 and shared with decision
+makers to educate and ensure consistency. An accompanying Compensability Checklist is used to help
+streamline BCC deliberations and decisions.
+
+To determine whether the newer types of 2020 Bond funded expenses related to curriculum and
+technology followed protocols and were compensable, we reviewed approximately $8 million of the
+$60.7 million spent to date and found all expenditures tested followed PPS procurement rules and Bond
+Compensability Guidelines.
+
+
+
+
+44 According to the PPS Bond Compensability Guidance (developed to align with Generally Accepted Accounting Principles), tangible assets
+
+are those that have physical substance, including buildings, equipment, vehicles, land and computers. Capital equipment and/or furnishings are
+movable or fixed assets that must be non-expendable and are tangible property with an expected lifespan of more than one year. A tangible
+asset needs to retain its original shape and appearance with use and represent a substantial investment of money. Intangible assets are those
+items without physical substance that also have an initial useful life of over one year. Common examples include computer software,
+easements, licenses, and websites.
+
+
+SJOBERGEVASHENK                                                                                                              P a g e | 39
+Management and Oversight is Generally Solid to Help Bond Activities Achieve Expected Outcomes,
+with Some Areas Needing Additional Review in Future Audits
+Various PPS departments provide project management and oversight of the individual 2020 Bond Program
+components. For the typical capital construction projects—such as modernizations, physical improvements,
+capacity, and master planning and design—OSM was responsible for management. As found in prior
+audits, OSM employs strong management practices for the Bond program overall and individual capital
+project components that aligned with leading practices to help ensure on-time and on-budget delivery. For
+the educational and technology improvements in the 2020 Bond, OTL and OTIS were charged with
+management of budget, adherence to schedule, and successful completion. Efforts are guided by PPS’
+Forward Together strategic plan for the 2021-2025 period that aimed to "disrupt racial inequities by
+applying the PPS racial equity and social justice lens to analyze and interrogate high-leverage system
+change opportunities, including policies, processes, and resource allocations."
+
+As part of curriculum improvements, OTL has a four-step plan for “defining, selecting, implementing, and
+evaluating” the improvements through 2025 to bring PPS into compliance with Oregon Department of
+Education standards. The state department is working closely with OTL to help develop the instruction
+materials that will be purchased as part of implementation. For technology improvements, OTIS is
+overseeing activities to provide each student with technology tools appropriate for their grade level as well
+as the required supporting infrastructure. 45 While reported progress of curriculum and technology projects
+generally aligned with the planned "baseline" timeline and budgets, we did not explore whether OTL and
+OTIS have sufficient management tools and staffing expertise in place to monitor and ensure planned
+projects stay on-schedule and budget as part of the current audit scope. Thus, these areas need additional
+review as part of future bond audits.
+
+For the CBSE bond component area, PPS has not yet established management protocols and monitoring
+practices to define planned scope, track activities and schedule, or ensure spending is progressing as
+described later in this report section.
+
+Sound Tools Exist to Monitor Schedule and Progress
+For the more traditional capital projects such as the modernizations and physical improvements, OSM uses
+several tools to closely monitor schedule. Not only do OSM project managers and contractors review
+schedule weekly, but milestones are also tracked and monitored by OSM management. OSM also used an
+external scheduling expert to focus on critical path activities and provide weekly schedule updates to
+project teams to guide decision making. Schedule progress is communicated to by the BAC at each of their
+meetings. Moreover, past bond projects under the 2012 and 2017 bonds have generally been delivered on-
+schedule. For the new curriculum and technology bond areas, day-to-day schedule and progress is
+managed by PPS departments responsible for delivery. According to PPS, OTIS uses an outside expert to
+track schedule (and budget) progress that is discussed on a weekly basis. Schedule information presented
+to the Board and BAC contained sufficient information to assess progress against high-level baseline dates
+and phases in addition to the identification of any risks that could delay implementation.
+
+
+45 Technology includes items such as laptops, screens, projectors, Chromebooks, wi-fi access, cybersecurity, firewalls, switches, phone
+
+systems, and servers.
+
+
+SJOBERGEVASHENK                                                                                                               P a g e | 40
+High-Level Assessment Revealed PPS Employed Many Practices that Minimize Risk,
+Although Certain Bond Areas Should be Closely Watched
+Risks are inherently present in all operations and capital improvement projects—thus, organizations like
+PPS must determine how they will manage risk and how much risk they are willing to accept. Given the
+significance of a $1.2 billion investment in the 2020 Bond Program and its importance to school community
+stakeholders, we conducted a high-level risk assessment. Risk assessments are integral to capital
+programs to raise awareness of challenges to project success, assist with decision-making, and provide
+information to develop strategies to address risk. They help determine the likelihood and impact of possible
+future risk incidents or events that could adversely affect the Bond’s intent. Overall, we identified several
+risk categories and found PPS implemented many strategies and controls to minimize risk—although
+certain areas should be closely watched.
+
+Bond Risks and Potential Consequences Identified
+To assess risk of the 2020 Bond Program, we conducted a high-level qualitative risk assessment based on
+those risks typically associated with capital improvement programs as shown in Exhibit 18. We categorized
+those risks found in industry into risk driver categories for discussion purposes and summarized possible
+risk impacts capturing the potential negative consequence if a risk were to materialize.
+
+                   EXHIBIT 18. TYPICAL RISK DRIVERS, RISK IDENTIFICATION, AND POTENTIAL RISK IMPACTS
+                                          FOR CAPITAL IMPROVEMENT PROJECTS
+
+                                            Typical Risks of School Capital
+          Risk Driver Category                                                                         Potential Risk Impacts
+                                                Improvement Projects
+                                          Project will not be completed on the           Project may not be completed as planned in time for
+ 1    Schedule & Work Execution
+                                          planned schedule.                              students to use facilities and resources.
+                                                                                         Completed bond work could cost taxpayers more than
+                                          Funds will not be sufficient to complete
+ 2    Funding & Expenditures                                                             initially planned, or scope may have to be reduced to
+                                          projects as planned and designed.
+                                                                                         meet available funding.
+                                          Design and construction may be
+ 3    Scope, Design, Construction                                                        Projects may not be built as designed and expected.
+                                          incomplete or not implemented.
+                                          Sufficient resources are not available or
+      Workforce Skill                     project team does not possess requisite        Availability of labor and lack of expertise could
+ 4
+      and Expertise                       skill and expertise to implement complex       negatively affect quality of project construction.
+                                          projects
+                                                                                         Lack of sufficient project management could result in
+      Program and
+ 5                                        Inadequate management is employed.             projects not built or implemented on-time, on-budget,
+      Project Management
+                                                                                         and as designed.
+                                          Economic events will place additional and      Program may not be delivered as designed or planned
+ 6    External Forces
+                                          unplanned strain on-budget and schedule.       due to resulting financial issues and project delays.
+                                          Bond practices, activities, and                Confidence and trust of taxpayers could be
+      Stakeholders and Public
+ 7                                        performance are viewed as mishandled,          diminished, and any future bond measures needed
+      Community
+                                          unaccountable, or not transparent.             might fail to pass by voters.
+                                          Program or project activities are not          Noncompliant activities could result in litigation that
+ 8    Legal Exposure                      compliant with bond requirements or            could reduce available funding or plans for future
+                                          contractual requirements.                      bond projects.
+Source: Auditor-generated based on industry risk management and guidance from Construction Management Association of America (CMAA),
+                      Project Management Institute, and National Association of Construction Auditors, among others.
+Note: Risks are the possibility of a future event that will impact the achievement of the bond’s intent or objective to improve the health, safety,
+  and learning of PPS students through repairing and modernizing schools in addition to replacing curriculum and technology infrastructure.
+
+
+
+
+SJOBERGEVASHENK                                                                                                                    P a g e | 41
+2020 Bond Program Risk is Relatively Low, Although Certain Areas Have Higher Risk
+As part of our high-level risk assessment, we considered and identified the likelihood of an adverse event
+or threat (risk) occurring based on existing PPS activities and controls and the impact of such an event on
+the bond program overall and for each of the bond components—modernizations, planning and design,
+physical improvements, educational improvements, and the CBSE. We used a low, medium, and high
+rating method using evidence gathered and auditor judgement. 46
+Specifically, for each potential risk, we analyzed PPS practices and controls in place to manage or mitigate
+risks. This included considering protocols for managing schedules and milestones, controlling costs and
+keeping projects on-budget, managing project delivery and overseeing external contractors, communicating
+with and training internal team members, addressing market forces and disruption, external reporting and
+transparency, and ensuring compliance with laws and Bond provisions. Consideration was also given to
+prior performance audit results and other external construction audits conducted on Bond projects. Based
+on those practices and controls in place, we assigned each risk a low, medium, or high likelihood rating.
+
+Similarly, we assigned each risk a low, medium, or high impact rating based on the level of significance or
+magnitude of severity of a particular potential consequence looking at risks globally across the entire 2020
+Bond program as well as individually for the Bond areas (e.g., modernizations, CBSE, etc.). While any one
+risk has potential to cause a major setback or impact for successful delivery of a capital program, typical
+higher impact capital improvement risks relate to schedule, funding, and external market events.
+Additionally, we considered the dollar value allocated for a particular planned Bond improvement, current
+stage in development of the improvement, and current external environment. Impact ratings were combined
+with likelihood ratings to result in an overall risk assessment rating.
+
+Based on those results, we created a risk heat map commonly used in industry to help communicate and
+visualize an organization’s specific risks. For graphic purposes, we used risk driver categories from Exhibit
+18 and presented results in low, medium, and high overall risk ratings by color to allow for a ranking or
+prioritization of risks as shown in Exhibit 19.
+     •     Low risk is represented in green. For these lower risk areas in terms of potential likelihood and
+           impact of the risk, there is no PPS action needed.
+     •     Medium risk is represented in yellow. With medium levels of potential risks occurring, PPS should
+           continue monitoring these areas to design and implement new risk strategies as warranted.
+     •     High risk is represented in red. Given the higher levels of potential risk, PPS should continue
+           closely monitoring these areas and determine whether additional activities need to be employed to
+           minimize or mitigate risk.
+
+
+
+
+46 As discussed in the Institute of Internal Auditors’ “Internal Audit Guide to Risk Assessments,” qualitative risk assessments involve
+
+considerable judgement, and can be nuanced for the individual circumstances of the organization or operations being assessed.
+
+
+SJOBERGEVASHENK                                                                                                                   P a g e | 42
+              EXHIBIT 19. RISK HEAT MAP FOR OVERALL 2020 BOND PROGRAM, BY RISK DRIVER CATEGORY
+
+
+
+
+ Source: Auditor-generated based on analysis of numerous public and internal documents such as prior Bond performance and construction
+  audits; interviews with members of the Board, BAC, PPS executive team, and PPS staff; news articles; Board and BAC meeting minutes;
+  Board resolution; Bond webpages; contract documents; Primavera 6 schedules; e-Builder reports; job postings; organizational charts; and
+                    more. Numbers on heat map relate to the risk driver categories presented and numbered in Exhibit 18.
+
+As shown in Exhibit 19, the potential likelihood and impact of most typical capital project risks reviewed for
+the 2020 Bond Program overall were considered low given PPS’ controls and activities in place. These
+controls included standard operating procedures, implementation plans, experienced project team
+members, budget to actual cost monitoring, using master schedules and external scheduling experts,
+automated project management systems, and solid reporting and communication protocols—all designed
+to help reduce the likelihood of a risk’s occurrence. The low-risk rating applies to risk drivers such as scope
+and construction, work force and expertise, program and project management, and stakeholders and public
+community where auditors have previously reviewed the controls and activities as part of prior audits and
+found them to be sufficient to help minimize risks.
+
+Though overall risks for the 2020 Bond are relatively low, certain risks inherently carry higher potential
+impacts and likelihood of occurrence including those related to funding and expenditures, schedule and
+work execution, external forces, and legal exposure. Funding risk holds the potential to have high negative
+impact on any public capital construction program given that cost overruns could jeopardize successful
+delivery of improvements, public trust from the taxpayer, and subsequent passage of future bonds.
+Schedule risks could also add the potential for delays that could impact students starting the school year,
+which is a mission-critical function of a school district. Hand in hand with these two risk driver categories,
+the impact of external forces and legal exposure having a profound effect on-schedule, budget, and scope
+remains more possible given current inflation, supply chain issues, and other events such as wildfires that
+occurred and touched the 2017 Bond projects.
+
+These bond risks and potential consequences are more prevalent in certain areas of the 2020 Bond
+Program than in others. For instance, four of the Bond areas—with funding set aside for planning and
+
+
+SJOBERGEVASHENK                                                                                                           P a g e | 43
+design, program administration, physical improvement, and education improvements—have a generally
+lower likelihood of potential risks occurring given strong existing PPS practices or could have a less
+significant impact to the overall success of the Bond program. Yet, the large investment in the school
+modernization projects and the still evolving practices of the CBSE make those areas higher risk as
+described in the sections that follow.
+
+While Modernization Projects Remain at Higher Risk, OSM is Closely Monitoring
+Progress to Stay On-Schedule and Budget
+Encompassing approximately 44 percent, or $527 million, of the $1.2 billion 2020 Bond Program, the
+investment in modernization capital projects at Benson and Jefferson High Schools are inherently higher
+risk given their cost and impact of any potential cost overruns on available funding for other projects.
+Additionally, these projects are higher risk because any delays with the larger complex project scopes
+could impact student school schedules in addition to the start and completion of subsequent school
+projects. However, OSM is closely monitoring schedule and budget to deliver projects as planned.
+
+For instance, OSM employs several controls and leading practices to manage risk including use of external
+professional cost estimators to set reasonable budgets, continual monitoring of budget to actual costs,
+contingency analysis, and identification and pursuit of additional funding sources outside the bond. Its
+automated e-Builder management system has built-in cost approval controls and OSM uses an external
+construction auditor to review contractor labor, equipment, materials, indirect costs, and compliance with
+PPS contract provisions.
+
+In recent years, external market forces placed additional layers of financial risk on the modernization
+projects’ successful completion with significant cost escalation and supply chain issues. As discussed in
+Section 1 of this report, OSM has been proactive in trying to alleviate constraints of the current economy by
+locking-in set prices and rates through contracts with contractors and suppliers for most of Benson High
+School’s remaining construction costs. These actions greatly minimize risk of budget overruns.
+
+While OSM is exercising similar robust management practices and controls over the other modernization
+project at Jefferson High School, the planning phase is already experiencing a 4-month delay. Since the
+project just hired an Architect in May 2022 to complete the comprehensive plan including community and
+stakeholder input by the end of 2022, there were no formal revised schedules for final project completion
+yet available. However, the Jefferson High School 2020 Bond website Q&A document noted that
+construction was still anticipated to start in 2024 which aligned with the 2020 Bond Conceptual Master
+Schedule.
+
+Further, while Jefferson High School had not yet expended any Bond funds and was considered still “on-
+budget,” the current 2022 inflation and supply chain issues could outpace the budgeted cost estimates
+since construction was not scheduled to start until mid-2024. OSM planned to closely monitor costs and
+had $123 million bond program contingency available as of March 2022 that could be used to cover any
+cost increases.
+
+
+
+
+SJOBERGEVASHENK                                                                                 P a g e | 44
+CBSE Has Greater Risk Surrounding Delivery on Bond Plans
+Referred to as both a physically-built environment as well as a set of conceptual goals, CBSE plans
+describe that it does not necessarily refer to a singular campus or facility, but rather “envisions a broader
+definition referring to a geographical community as well as an overall culturally-affirming approach and set
+of community-developed strategies” aimed at a lifelong and holistic approach to promoting the excellence
+of Black students. While the 2020 Bond Program’s conceptual planning documents intended a 54-month
+implementation schedule, the CBSE is significantly behind schedule with limited activity taking place as of
+June 2022. Combined with unclear staff roles and responsibilities and limited project management tools
+employed, CBSE is higher risk for not delivering as planned and should be more closely reviewed as part of
+future audits. However, according to PPS, there has been an PPS Executive Sponsor in place to support
+the CBSE staff and make progress that occurred after the end of our audit fieldwork.
+
+Concepts and Goals are Still in Development Leaving Planned Bond Activities Unclear
+When proposed as part of the 2020 Bond Program, the scope was separated into four stages as shown in
+Exhibit 20.
+                                         EXHIBIT 20. CBSE 2020 BOND SCOPE STAGES
+
+                                                                   Community Engagement and                Construction and
+     Conceptual Design                   Master Design
+                                                                      Project Management                    Implementation
+ Working in concert with          At a minimum, design would       Rely on a dedicated team and       Implement the early learning
+ Black elders, youth, families,   incorporate interconnected       resources to project manage and    to 8th grade campuses in
+ and community members to         early learning to 8th grade      realize the goals of the CBSE      congruence with Jefferson
+ define vision and goals          campuses in congruence with      through specific strategies,       High School master plan and
+ surrounding CBSE.                Jefferson High School rebuild.   outreach, and engagement plans.    potential enhancements.
+   Source: Auditor-generated based on 2020 Bond Budget Summary document dated July 13, 2020 to the Board of Education from PPS.
+
+As of June 2022, PPS and the CBSE target community were developing the vision and design of CBSE
+including a comprehensive plan for curriculum and instruction in addition to determining what CBSE
+facilities will be needed to align with the developed vision. According to PPS, the goal is to complete
+scoping by February 2023 and then begin the implementation phase. At this time, it is unclear what the
+scope of these bond activities will be or when they will be implemented.
+
+Staffing Roles and Responsibilities have Not been Defined and Limited Project Management Exists
+Efforts working with the community and stakeholders to establish the CBSE vision are overseen by the
+Manager of the PPS Innovation Studio who joined the project in early May 2022—although PPS was also
+actively recruiting for a Director to co-lead the CBSE alongside the Manager of the Innovation Studio at that
+time. PPS has been looking for this CBSE Director since April 2022 that will serve as the centralized liaison
+for PPS’ efforts to improve student success for every Black student. In addition, the recruited Director is
+expected to serve as the liaison with other PPS departments as well as with internal and external
+stakeholders to plan the actual implementation. Specifically, the Director is expected to facilitate the
+community engagement planning process, internal academic planning, and collaboration with the OSM’s
+bond planning process to ensure it aligns with the community and academic components of CBSE.
+However, as of June 2022, PPS has not yet defined the roles and responsibilities between the two
+positions and the Director position remains unfilled.
+
+
+SJOBERGEVASHENK                                                                                                     P a g e | 45
+Although the CBSE concept is built on and prioritizes consistent communication and feedback between
+design teams, communities, and PPS leadership, there is no current designated project manager position
+or tools used for tracking and managing schedule, budget, and progress toward completion of CBSE.
+Without these features, there is greater risk of not fulfilling bond plans.
+
+CBSE is Behind Schedule, but PPS is Making Progress
+According to the 2020 Bond Program conceptual schedule, CBSE had a 54-month timeline from planning
+start in December 2020 to completing implementation by summer 2025. Yet, as of June 2022, PPS is
+approximately 20-months into the schedule with 37 percent of the original timeframe elapsed and is
+significantly behind schedule showing limited progress— mostly attributed to the COVID-19 pandemic.
+
+Initially, PPS planned to launch a yearlong racial equity design and planning process with heavy community
+involvement that would inform educational needs and physical designs and implementation of CBSE goals
+based on what the community wanted in schools and facilities in the heart of the historic Albina
+neighborhood around Jefferson High School. A CBSE timeline established a “planning and community
+engagement phase” to start in fall 2021 and culminate with recommendations in spring 2022. However, that
+timeline conflicts with the 2020 Bond conceptual schedule that had planning and development ending by
+fall 2021 and implementation starting at that time. In addition to the CBSE concept and planning stage not
+yet completed, there are no schedule updates or progress tracking toward completion.
+
+While an updated timeline is not yet available, PPS is actively engaged in weekly meetings with
+stakeholders to define the vision and reach consensus with the community about desired components of
+CBSE. PPS also noted that CBSE is directly tied to separate, but related, projects moving forward, such as
+modernizations to Jefferson High School and discussions on relocation of Harriet Tubman Middle School.
+Ultimately, current leadership is planning for the design process to be completed by February 2023. That
+would compress the implementation schedule nearly in half and increase risk will not be delivered on-
+schedule or as intended.
+
+No 2020 Bonds Funds have Been Spent on CBSE to Date
+Of the $60 million set-aside for the CBSE, PPS had not yet spent any Bond funds as of June 2022 since
+the 2020 Bond only intended to pay for activities after the vision and implementation plans for the CBSE
+concept are finalized as now planned for February 2023. Once those CBSE goals and capital activities are
+identified, PPS and OSM have a robust bond compensability in process to ensure costs are eligible.
+However, with the delayed start in implementing the CBSE, there is elevated risk that current construction
+cost inflation and supply chain issues may consume more funds than planned and reduce resources
+otherwise available for CBSE goals. Further, given the schedule delays and no updated or revised
+schedule established at this time, PPS may be challenged in the future to spend funds in a compressed
+schedule and deliver capital improvements once they are determined.
+
+
+
+
+SJOBERGEVASHENK                                                                               P a g e | 46
+Recommendations
+To strengthen practices and controls in place to manage risk associated with CBSE, PPS should
+immediately implement the following:
+
+   7. Establishing a formal framework for CBSE management and staffing with clear roles and
+      responsibilities with defined authority and accountability for and between the key PPS departments
+      assigned to the successful delivery of the CBSE.
+   8. Updating existing CBSE implementation schedule with realistic dates, interim milestones or
+      progress targets, general tasks and activities, and plans to get CBSE back on track.
+   9. Working with key PPS departments to put a general CBSE implementation plan in place and
+      ensure a quick start for capital purchase or capital building as soon as CBSE concepts and goals
+      are solidified.
+   10. Creating CBSE project management plans and structure to identify general tasks and monitoring
+       mechanisms to set, track, and report on baseline and revised schedules, original and revised
+       budgets, and progress toward meeting delivery goals.
+
+
+
+
+SJOBERGEVASHENK                                                                             P a g e | 47
+Appendix A: Status of Prior Performance Audit Recommendations
+
+The Office of School Modernization (OSM) continued its commitment towards addressing and resolving
+prior Bond audit recommendations. As of March 2022, all 96 recommendations from the 2012 Bond had
+been addressed. 47 Also, over half the recommendations from prior 2017 Bond performance audits have
+been implemented, as shown in Exhibit 21.
+
+    EXHIBIT 21. SUMMARY STATUS OF ALL 2017 BOND PERFORMANCE AUDIT RECOMMENDATIONS, AS OF MARCH 2022
+
+
+
+
+             Source: Auditor-Generated based on review of underlying documentation supporting the implementation progress.
+                     Note: All prior audit reports are available on the PPS website at https://www.pps.net/Page/15137.
+
+The one outstanding recommendation from the Year 1 “Phase II” audit related to OSM providing written
+guidance on OSM’s decision-making hierarchy and training on standard practice for value engineering and
+design deviations on future projects. While these items were still under review by the OSM Audit
+Implementation Team, the recommended actions will not be critical until future capital construction projects
+begin the design phase.
+
+For the Year 2 audit, two out of the seven outstanding recommendations cannot be addressed until all the
+2017 projects are closed out and when the next projects commence using the Construction Manager-
+General Contractor (CMGC) delivery and contracting approach. The remaining five outstanding
+recommendations related to improvements needed such as being more consistent on documenting costs
+for change orders, evaluating payment terms and conditions on contracts, and adjusting contract language
+to prohibit contractors from starting work before formally authorized
+
+For the Year 3 audit, staff have addressed one recommendation related to providing contextual information
+about business equity tracking data in presentations to the Portland Public Schools Board of Education and
+Bond Accountability Committee. More time is needed to address the remaining recommendations since
+limited time has passed since the prior audit report was finalized. 48 Additionally, many recommendations
+need guidance by the PPS Board and budgeted positions as staff prepare to take subsequent steps.
+
+
+
+
+47 2017 Bond Performance Audits were conducted by our firm, Sjoberg Evashenk Consulting, Inc, in 2019, 2020, and 2021. As separate
+
+independent auditor conducted the 2012 Bond Performance Audits between 2014 and 2017.
+48 The Year 3 Bond Performance Audit was presented to the Board School Improvement Bond Committee on November 17, 2021.
+
+
+
+
+SJOBERGEVASHENK                                                                                                          P a g e | 48
+Appendix B: Audit Methodology
+
+The Portland Public School District (PPS) hired Sjoberg Evashenk Consulting, Inc. in October 2018 to
+conduct annual performance audits of the 2012 and 2017 School Improvement Bonds over a four-year
+period. Each year, auditors assess performance and focus on different Bond program and project areas.
+For this performance audit cycle, we reviewed Bond program activities for the period between April 1, 2021
+and March 31, 2022 in the following areas:
+    1.   2017 Bond Status
+    2.   Workforce Equity
+    3.   Bond Program Performance Management
+    4.   2020 Bond High-Level Assessment
+    5.   2020 Bond Framework & Management
+    6.   Prior Audit Recommendations
+
+Sjoberg Evashenk Consulting performed a variety of detailed audit tasks including, but not limited to, the
+following fieldwork steps.
+
+To assess policies, practices, progress, and tools in place for delivering the Bond program, we:
+    •    Conducted multiple interviews with PPS staff including the Director of Purchasing and Contracting,
+         Solicitations Manager, Senior Contract Analyst, Manager of Instructional Resources Adoption,
+         Chief Financial Officer, Senior Manager of Business Operations, Senior Accountant, Director of
+         Finance, Chief Technology Officer, Director of Construction, Director of Facilities Operations &
+         Warehouse, Facilities Operations Managers, Senior Project Managers, Assistant Director of Career
+         and Technical Education, Innovation Studio Manager, Construction Manager, and others.
+    •    Met with PPS Board of Education (Board) members and Bond Accountability Committee (BAC).
+    •    Interviewed industry members related to equity and contracting.
+    •    Reviewed a multitude of documents such as project budgets, schedules, policies, plans, e-Builder
+         data, contracted labor hours, status reports, work orders, and more.
+
+To determine the overall bond status and closeout of applicable 2017 schools, we:
+    •    Analyzed the schedule delivery status and budget status overall for the 2017 Bond projects as of
+         March 2022 by reviewing cost and schedule estimate at completion reports from the e-Builder
+         system, materials presented to the Bond Accountability Committee in March 2022, and reported
+         project schedule progress from OSM master schedules generated from the P6 Primavera system.
+    •    Investigated variances in budget and schedule and assessed reasonability of challenges if any
+         issues were identified and plans for remediation if available.
+
+
+
+
+SJOBERGEVASHENK                                                                                   P a g e | 49
+    •   Identified what formal closeout protocols were outlined in existing policies and procedures, the
+        Program Management Plan, individual Project Team Management Plans, or other sources of
+        procedural criteria.
+    •   Reviewed closeout practices employed by PPS project teams for Kellogg Middle School and
+        McDaniel High School and compared against industry practices noted by entities such as the
+        Construction Management Association of America, Associated General Contractors of America,
+        and the Washington State Office of Superintendent of Public Instruction.
+    •   Assessed whether lessons learned from closeout of the 2012 Bond were applied to the 2017 Bond,
+        and identify if any improvements were made in the process.
+    •   Reviewed sample closeout documents and evidence of closeout practices occurring for Kellogg
+        Middle School and McDaniel High School to determine if practices appeared in-line with industry.
+    •   Examined data from PPS’ work order database and project development request records to test for
+        notable maintenance or repair issues post-occupancy that might indicate issues that results from
+        the closeout of Kellogg Middle School and McDaniel High School.
+To evaluate the effectiveness of the workforce equity program and existing protocols:
+    •   Interviewed contractors, subcontractors, the City of Portland, Metro, and Portland Community
+        College to understand how workforce equity works and its impact on different key players, and
+        understand application of the Construction Career Pathway Project (C2P2) Framework.
+    •   Assessed the Equity in Public Purchasing & Contracting (EPPC) Board Policy, workforce equity
+        Administrative Directive, City of Portland program specifications, and intergovernmental agreement
+        with the City of Portland to understand the history of how the program was developed, what
+        changes have been made over time, and how the program is specifically implemented through
+        program specifications.
+    •   Researched industry practices related to workforce equity from entities such as the University of
+        California at Los Angeles Labor Center, PolicyLink, and the National Taskforce on Tradeswomen’s
+        Issues and compared against C2P2 recommended practices.
+    •   Researched publicly available sample union and union hiring hall policies and procedures from
+        entities in the Portland area.
+    •   Examined workforce equity data from PPS’ internal tracking spreadsheet to identify trends,
+        outcomes, analyze underlying make-up of reported numbers, and understand how data is
+        managed. Reviewed related reports provided to the public and the Board and BAC.
+    •   Analyzed program compliance documentation from the City of Portland including sample monthly
+        compliance reports submitted to PPS, exemption requests, email correspondence between the City
+        and contractors, and sample penalty letters to assess how compliance is determined and
+        consequences issued to non-compliant contractors.
+    •   Researched workforce equity programs and outcomes for peer public entities in the Portland area
+        and compared program rules and results to PPS.
+
+
+
+SJOBERGEVASHENK                                                                                 P a g e | 50
+To assess the bond program’s performance measurement system, we:
+    •   Identified all existing key Bond performance indicators used and reported on by PPS to the public
+        and decision-makers by looking in PPS’ e-Builder system, project files, interviewing PPS staff, and
+        reviewing data reported to the Board and Bond Accountability Committee (BAC).
+    •   Researched capital construction performance indicators recommended by industry leaders such as
+        the Vancouver Regional Construction Association, Project Management Institute, 29th World
+        Congress International Project Management Association, and Journal of Construction Engineering
+        and Management.
+    •   Compared indicators used in industry against those PPS currently tracks and reports on, and
+        considered other indicators available to PPS staff.
+    •   Where data was available, calculated the performance outcomes for budget, schedule, and safety
+        to assess bond performance.
+
+To evaluate the framework of the 2020 Bond and identify risk areas within the new bond, we:
+    •   Studied planning documents presented to the BAC and Board leading up to the passage of the
+        2020 Bond to understand how each bond area’s budget, schedule, and scope were determined.
+        Assessed whether methodologies and reasoning appeared appropriate and sound.
+    •   Reviewed policies and procedures related to determining compensability to assess whether the
+        process of determining compensability of technology and curriculum purchases appeared
+        appropriate and sound.
+    •   Examined a sample of 16 invoices to evaluate whether the 2020 Bond funded expenses for the
+        curriculum and information technology categories were Bond compensable and procured following
+        PPS procurement rules.
+    •   Identified likelihood and impact of risks for the 2020 Bond areas including schedule, funding and
+        expenditures, scope design, project team expertise, management, external forces, stakeholders
+        and public community, and legal exposure. Scored each bond area as high, medium, or low risk
+        based on review of practices, controls, prior audits, industry experience, and market conditions.
+    •   Reviewed prior construction audits and Bond performance audits from the 2012 Bond and 2017
+        Bond to determine what risks had been previously identified and addressed.
+    •   Conducted high-level literature research of public perception of the 2020 Bond and identify issues
+        and concerns noted in published public comment, Board meetings, and BAC meeting minutes.
+    •   Reviewed publicly available documents related to the development and planning for CBSE such as
+        the PPS Strategic Plan, 2020 Bond Conceptual Schedule, PPS 2020 Bond Facts, PPS Resolution
+        6150, the partnership between Albina Vision and PPS, and the 2020 Bond Budget Summary.
+    •   Evaluated other documentation to assess the magnitude of risk and likelihood of the risk
+        actualizing for the 2020 Bond such as eBuilder processes and reports, Bond webpages, contract
+        documents, Primavera 6 schedules, job postings, organizational charts, email correspondence,
+        and project files.
+
+
+SJOBERGEVASHENK                                                                                P a g e | 51
+To determine the status of prior audit recommendations, we:
+    •   Followed-up on the status of prior 2012 and 2017 Bond performance audit recommendations
+        focusing on those recommendations categorized as open.
+    •   Where applicable, verified auditee responses through fieldwork analyses, observations, and
+        documentary review. Implementation status of areas not within the scope of this year’s audit will be
+        reviewed during future performance audits.
+    •   Assessed corrective action on prior external construction audit recommendations were not included
+        in our performance audit since that external auditor is reviewing corrective actions and
+        implementation status as part of current construction audits.
+We conducted this performance audit in accordance with generally accepted government auditing
+standards. Those standards require that we plan and perform the audit to obtain sufficient, appropriate
+evidence to provide a reasonable basis for our findings and conclusions based on our audit objectives. We
+believe that the evidence obtained provides a reasonable basis for our findings and conclusions based on
+our audit objectives.
+
+
+
+
+SJOBERGEVASHENK                                                                                P a g e | 52
+Appendix C: Auditee Response
+
+                               PORTLAND PUBLIC SCHOOLS
+                               501 North Dixon Street / Portland, OR 97227
+                               Telephone: (503) 916-2222/ Fax: (503) 916-3253
+                               Mailing Address: P. O. Box 3107 / 97208-3107
+
+
+
+   Date:            February 13, 2022
+
+   To:              Cathy Brady, Principal
+                    Sjoberg, Evashenk Consulting Inc
+
+   From:            Marina Cresswell, Senior Director Office of School Modernization
+
+   Subject:         Performance Audit – Fiscal year 2021/2022
+                    Staff Response
+
+
+Portland Public Schools (PPS) and the Office of School Modernization (OSM) have received and reviewed
+Sjoberg, Evashenk Consulting (SEC) 2021/2022 November 2022 Draft Audit Report titled “Annual Bond
+Performance Audit: Performance Audit – Fiscal Year 2021/2022” (the Draft Report).
+
+PPS appreciates SEC’s work this year in reviewing workforce equity, key performance indicators
+and a high-level review of the program framework for 2020 Bond-related projects. Similar to prior
+audits, SEC has provided thoughtful recommendations that focus on documenting and training staff
+on processes to improve consistency; developing a systematic process for analyzing existing
+methodologies, determining whether they are beneficial, and reviewing benefits and constraints of
+proposed new methodologies; and ensuring that program frameworks are both thorough and
+intended to mitigate risk. PPS is committed to continuous quality improvement and providing
+Bond-funded improvements in an environment of quality, accountability and transparency.
+
+Based on our review of the Draft Report, PPS has prepared responses to each of your 10
+recommendations. Each response contains one of the following statements:
+
+         •   Concur – Goal is to implement the recommendation by December 30, 2023
+         •   Concur with Comment – Goal is to implement the recommendation by December 30,
+             2023 with qualifying comments
+         •   Nonconcur – Recommendation may not be implemented with comments to explain
+         •   Completed – Recommendation has been implemented
+
+
+The following table presents a tabulated summary of PPS’s responses.
+
+
+
+
+SJOBERGEVASHENK                                                                          P a g e | 53
+  #                Abbreviated Recommendation                        Dept          Response
+       Complete development of and memorialize policies,
+       procedures, and e-Builder processes related to
+  1    construction closeout as well as train project staff on    OSM          Concur with comment
+       new closeout protocols before the remaining 2017
+       Bond projects are ready for closeout.
+
+       Develop protocols for regularly identifying, reviewing
+                                                                  Business &
+  2    and assessing workforce equity strategies on a                          Concur
+                                                                  Operations
+       designated timeline.
+
+       Clarify the Workforce Equity Administrative Directive
+       protocols for whether workforce equity outcomes and
+                                                                  Business &
+  3    progress should be measured and reported in                             Concur
+                                                                  Operations
+       aggregate or disaggregated by each apprenticeable
+       trade.
+
+       Conduct a review of workforce equity program
+                                                                  Business &
+  4    specifications and analyze whether existing rules could                 Concur
+                                                                  Operations
+       be enhanced to benefit intended target audiences.
+
+       Continue in-progress efforts to revisit the types of key
+       performance indicators it should track and report on
+  5                                                               Operations   Concur
+       that best align with PPS overall objectives and Bond
+       project objectives.
+
+       Require general contractors to consistently report
+  6                                                               OSM          Concur
+       specific safety performance data to OSM.
+
+       Establish a formal framework for CBSE management
+  7    and staffing with clear roles and responsibilities with    PPS
+       defined authority and accountability.                                   Concur
+
+       Update existing CBSE implementation schedule with
+       realistic dates, interim milestones or progress targets,
+  8                                                               PPS          Concur with comment
+       general tasks and activities, and plans to get CBSE back
+       on track.
+
+       Work with key PPS departments to put a general CBSE
+       implementation plan in place and ensure a quick start
+  9                                                               PPS          Concur
+       for capital purchases or capital building as soon as
+       CBSE concepts and goals are solidified.
+
+       Create CBSE project management plans and structure
+       to identify general tasks and monitoring mechanisms
+ 10    to set, track, and report on baseline and revised                       Concur with comment
+       schedules, original and revised budgets, and progress      PPS
+       toward meeting delivery goals.
+
+
+
+SJOBERGEVASHENK                                                                        P a g e | 54
+Attached is our specific response to each of your recommendations. Please contact me if you have
+any questions or comments. Thank you again for your hard work and efforts to identify areas for
+improvement.
+
+Recommendation 1
+Complete development of and memorialize policies, procedures, and e-Builder processes related to
+construction closeout as well as train project staff on new closeout protocols before the remaining 2017
+Bond projects are ready for closeout.
+
+Staff Response:          Concur with comment
+Staff concur with this recommendation on continuing to develop and memorialize closeout policies and
+procedures, while noting that project staff training is already in place and plays a significant role in the
+refinement of the policies and procedures.
+
+Recommendation 2
+Develop protocols for regularly identifying, reviewing and assessing workforce equity strategies on a
+designated timeline.
+
+Staff Response:          Concur
+Staff agree that an annual review of workforce equity strategies, and plan of changed or new strategies
+for the upcoming year, would allow for a more structured framework in which to identify potential
+changes or new strategies, develop cost-benefit analyses, and collect and analyze outcome data.
+
+Recommendation 3
+Clarify the Workforce Equity Administrative Directive protocols for whether workforce equity outcomes
+and progress should be measured and reported in aggregate or disaggregated by each apprenticeable
+trade.
+
+Staff Response:          Concur
+
+Recommendation 4
+Conduct a review of workforce equity program specifications and analyze whether existing rules could
+be enhanced to benefit intended target audiences.
+
+Staff Response:          Concur
+
+Recommendation 5
+Continue in-progress efforts to revisit the types of key performance indicators it should track and report
+on that best align with PPS overall objectives and Bond project objectives.
+
+Staff Response:          Concur
+
+
+
+
+SJOBERGEVASHENK                                                                                  P a g e | 55
+Recommendation 6
+Require general contractors to consistently report specific safety performance data to OSM.
+
+Staff Response:         Concur
+
+Recommendation 7
+Establish a formal framework for CBSE management and staffing with clear roles and responsibilities
+with defined authority and accountability.
+
+Staff Response:         Concur
+
+Recommendation 8
+Update existing CBSE implementation schedule with realistic dates, interim milestones or progress
+targets, general tasks and activities, and plans to get CBSE back on track.
+
+Staff Response:         Concur with Comment
+Staff is working to include additional detail in the CBSE implementation schedule. It is important to note,
+however, that the determination of specific capital improvements to be implemented is dependent on
+community feedback. PPS is choosing to prioritize the appropriate amount of time for that community
+feedback, even if it means the timeline of capital improvement work does not follow the conceptual
+schedule proposed when the bond first passed.
+
+Recommendation 9
+Work with key PPS departments to put a general CBSE implementation plan in place and ensure a quick
+start for capital purchases or capital building as soon as CBSE concepts and goals are solidified.
+
+Staff Response:         Concur
+An implementation plan is one of the key deliverables that the CBSE is already working to put together,
+but, as noted in the recommendation, it is dependent on first finalizing a community co-created CBSE
+Vision and CBSE Comprehensive Plan.
+
+Recommendation 10
+Create CBSE project management plans and structure to identify general tasks and monitoring
+mechanisms to set, track, and report on baseline and revised schedules, original and revised budgets,
+and progress toward meeting delivery goals.
+
+Staff Response:         Concur with comment
+Project management plans, baseline schedules and budgets will be developed for the Bond-funded
+capital improvements of CBSE once the specific improvements have been defined.
+
+
+
+
+SJOBERGEVASHENK                                                                               P a g e | 56
+

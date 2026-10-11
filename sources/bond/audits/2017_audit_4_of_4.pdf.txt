@@ -1,0 +1,2814 @@
+ Portland Public Schools Bond Construction Program:
+                 PERFORMANCE AUDIT #4
+                               June 2017
+
+
+
+
+Hirsh and Associates,
+Bill Hirsh and Richard Tracy
+MEMORANDUM
+
+To:    Bob McKean, Interim Superintendent
+       Jerry Vincent, Chief, School Modernization
+From : Richard Tracy and Bill Hirsh
+Date: June 2017
+
+
+Re:    School Bond Construction Program - Performance Audit #4
+
+
+Attached is our 2017 performance audit report of the School Bond Construction Program
+for the Portland Public School district. This is the fourth and our final audit of the 2012
+bond program. The focus of this final audit is the overall performance of the program in
+accomplishing its goals and objectives on schedule and within budget.
+
+We would like to thank the management and staff of the school district and of the Office of
+School Modernization for their assistance and cooperation in conducting this audit.
+
+We look forward to meeting with the School Board to more fully discuss the report’s
+findings and recommendations.
+                                                  Contents
+
+
+SUMMARY ...................................................................................................................... 1
+
+INTRODUCTION .......................................................................................................... 5
+2012 Bond Program Goals
+Original budget and schedule
+Program management structure
+Audit objectives, scope, and methods
+
+AUDIT RESULTS ...................................................................................................... 13
+2012 Bond projects will complete planned improvements largely on schedule
+      1. Franklin High School ................................................................................... 14
+      2. Roosevelt High School ................................................................................ 15
+      3. Grant High School ........................................................................................ 18
+      4. Faubion PK-8 school .................................................................................... 19
+      5. Summer Improvement Projects (IP) ............................................................. 21
+      6. Interim facilities: Tubman and Marshall ..................................................... 24
+      7. Master planning ............................................................................................ 24
+
+Bond program at risk of completing over budget
+      8. Projected program resources may be insufficient to cover projected
+         program costs .............................................................................................. 25
+                •     Franklin High School
+                •     Roosevelt High School
+                •     Faubion PK-8
+                •     Improvement Projects
+                •     Master planning
+                •     Bond program
+                •     Grant High School
+
+
+
+School Bond Construction Program #4                                                                                     June 2017
+Factors contributing to project budget increases
+     9. Changes in high school program, size, and student to teacher ratio............. 30
+    10. High industry-wide construction cost escalation.......................................... 32
+    11. Timing of contract bidding and solicitations ................................................ 33
+    12. District bidding and contracting requirements may inhibit competitive
+        bids ............................................................................................................... 33
+    13. Numerous and costly change orders ............................................................. 34
+
+Management of CM/GC projects could be improved
+    14. Better monitor and control the inclusion of new contract provisions ......... 38
+    15. Allowable profit and overhead for changes to CM/GC contracts at the
+        high end of industry standards for GHS ....................................................... 39
+    16. Hold CM/GC firms accountable for true GMPs........................................... 40
+    17. Reduce the impact of design and other delays on subcontractor bids and
+        project costs .................................................................................................. 43
+    18. Clarify the types of changes that constitute a change to the GMP .............. 44
+    19. Managing subcontractor bid alternates......................................................... 46
+    20. More timely financial audit of CM/GC costs ............................................... 47
+
+Program and project management: strengths and opportunities for improvement
+    21. Organizational structure in place but staff turnover increased
+        overhead costs .............................................................................................. 49
+    22. Effective financial accounting and purchasing systems ............................... 54
+    23. OSM policies and procedures in place but not updated nor used fully ........ 56
+    24. Public reporting and accountability mechanisms ......................................... 58
+
+Goals for equity in purchasing and contracting partially met
+    25. MWESB participation improved .................................................................. 60
+    26. Student participation in the program was significant ................................... 61
+    27. Apprenticeship experiences provided........................................................... 61
+
+Status of performance audit recommendations ................................................... 62
+
+
+
+
+School Bond Construction Program #4                                                                                    June 2017
+RECOMMENDATIONS ................................................................................. 65
+
+MANAGEMENT RESPONSE TO THE AUDIT .................................... 69
+
+APPENDICES
+A. Extended general conditions provision in CM/GC contracts ............................ A-1
+B. Status of Corrective Actions: 2014, 2015, 2016 Audit Recommendations ....... B-1
+
+
+
+
+School Bond Construction Program #4                                                           June 2017
+School Bond Construction Program #4   June 2017
+                                      SUMMARY
+
+
+
+
+I
+       n November of 2012 voters passed a ballot measure to provide the Portland Public School
+       district with $482 million in general obligation bonds to finance the modernization,
+       replacement, and improvement of school buildings. The 2012 Bond Program initiated
+work in 2013 and is now in the fifth year of the program that will complete in 2019. This audit is
+our fourth and final performance audit of how well the district is managing and implementing the
+2012 school building improvement bond program. This audit focuses on the overall program
+over four years as well as the performance in the past year.
+
+
+Bond projects should complete most planned projects on schedule
+The 2012 Bond Program should complete the major projects promised in the ballot measure in
+time for school openings. Franklin High School, Roosevelt High School, and Faubion PK-8 are
+on pace for scheduled completion this summer, and Grant High School is scheduled for
+completion in the summer of 2019. In addition, 51 schools received various improvements over
+the past four summers including better accessibility for disabled students and teachers, seismic
+strengthening of buildings and roofs, roof replacements, and science classroom updates. Ten
+schools may not receive improvements as initially planned due to overall program budget
+constraints and are deferred. With the exception of the deferred summer improvements, the
+program has addressed all of the improvements that were proposed in the 2012 bond measure.
+
+Bond projects have an excellent safety record and are litigation-free. As of May 2017, OSM
+reports only seven recordable accidents on all projects. To date there have been no claims going
+to litigation.
+
+
+Program at risk of completing over budget
+As of March 2017, the bond program is at risk of completing over budget. Although it is
+premature to reach firm conclusions, significant increases in project costs for Franklin and
+Roosevelt, plus the estimated final cost of Grant High School may result in the program
+
+
+School Bond Construction Program #4              1                                 June 2017
+exceeding current resources. While Grant High School has not yet established a Guaranteed
+Maximum Price agreement with the CM/GC contractor, current estimates exceed available
+resources by at least $23 million. Without additional resources, Grant will not be able to
+modernize at the standards established by the Educational Specifications or envisioned by the
+Long Range Facilities Plan.
+
+    Based on our review over the past four years, we believe that there are a number of factors
+that have contributed to project cost growth. These factors include:
+
+         •   BOE approved changes in school size, teacher workload, and program
+             offerings increased the size of buildings at each high school. These actions
+             changed the budget assumptions used to establish the original bond project
+             estimates and required OSM and the BOE to allocate additional program
+             level contingency and escalation funds to the high school projects
+         •   Industry wide cost escalation in the Portland region was much higher than
+             initially estimated in developing the budgets for the program’s projects.
+         •   OSM belief that competition for projects is low and contractors may charge
+             more for PPS work due to various administrative requirements imposed by
+             the district.
+         •   Expensive change orders significantly increased the costs of the high school
+             modernization projects. OSM is projecting that the guaranteed maximum
+             prices for Franklin and Roosevelt high schools will increase by a total of $30
+             million due to change orders.
+
+Program management: strengths and opportunities for improvement
+In order to manage the 2012 Bond Program, OSM developed a blended organizational structure
+that integrates functions across several PPS departments. We found that financial systems for the
+bond projects are effective, purchasing systems have led to fair and impartial selections; many
+sound policies and procedures are in place, and the project management software and reporting
+protocols provides transparency and project documentation. OSM could also improve various
+aspects of program management as it completes existing projects and anticipates future bond
+activity and project construction. We believe that the most effort should be placed on the
+following:
+
+
+
+
+School Bond Construction Program #4              2                                  June 2017
+         •   Strengthen the management of CM/GC contracts by holding firms more
+             accountable for guaranteed maximum price targets and by controlling
+             contract terms and conditions, mark-ups and fees, and general conditions
+             costs.
+         •   Better control program overhead costs by reducing staff turnover, providing a
+             career ladder for project management staff, reducing reliance on contracted
+             project management personnel.
+         •   Continue to update and revise the Program Management Plan and Standard
+             Operating Procedures to make them more useful and relevant for program
+             and project personnel.
+         •   Begin all projects earlier, hold architects and CM/GC firms accountable for
+             meeting milestones, and complete construction documents so that work can
+             be bid early in the year prior to a summer start.
+
+Goals for equity in purchasing and contracting nearly met
+OSM continues to make progress in achieving the objectives of the district’s Equity in
+Purchasing and Contracting policy. Although the target aspirational goal of 18 percent has not
+yet been met, the percentage of bond invoices paid to MWESB owned consultants and
+contractors has increased to an average of 14 percent over the past two years. Payments to
+MWESB firms amounted to over $23 million of the $184 million in paid invoices. OSM has
+been successful in achieving goals for student participation in bond activities and in meeting
+goals for apprenticeship hiring. Over 19,247 students have participated in bond activities ranging
+from career fairs to internships with architectural and construction companies. In addition, over
+25 percent of the labor hours worked on bond projects were performed by minority and/or
+female registered apprentices.
+
+    We have made over 77 recommendations to OSM and the district to improve some aspect of
+the bond program in the past three audits (See Appendix B). OSM has taken action on over 57 of
+the recommendations, implementing 75 percent of the total recommendations and still working
+on fourteen. OSM did not concur with six (8%) of the recommendations. Three of the
+recommendations with which the district concurred and reported as complete, are not fully
+complete, and need further action as discussed on pages 62 and 63. We make an additional 15
+recommendations on page 65 of this report.
+
+
+School Bond Construction Program #4              3                                 June 2017
+School Bond Construction Program #4   4   June 2017
+                                 INTRODUCTION
+
+
+
+
+I
+       n November of 2012, the voters of the of the Portland Public School district approved
+       Ballot Measure 26-144 authorizing the Portland Public School district to issue up to $482
+       million in general obligation bonds to finance capital projects to replace, renovate, and
+upgrade schools and classrooms throughout the district. By contract, this is our fourth and final
+performance audit of the School Building Improvement Bond program. The 2014, 2015, 2016,
+and 2017 performance audits can be found on the PPS Bond Program website at
+www.pps.k12.or.us/bond. The overall purpose of the performance audits is to provide analysis
+and recommendations to help strengthen the operations of this and future bond programs and to
+assist in providing public accountability for the use of voter-approved tax resources.
+
+
+
+2012 Bond Program goals
+
+
+
+
+T
+             he major goals of the 2012 Bond Program were to upgrade, renovate, and construct
+             Portland Public School facilities to address a variety of needs throughout the school
+             district. At the start of the program, the district planned to fund capital projects that
+would:
+
+         •     Modernize three high schools – Franklin, Roosevelt, and Grant
+         •     Replace Faubion PK-8 elementary school
+         •     Replace leaking, worn or deteriorating schools roofs at up to 22 schools
+         •     Strengthen schools against earthquakes at up to 21 schools
+         •     Increase access to schools for students, teachers, and visitors with disabilities
+               at up to 32 schools
+         •     Upgrade science classrooms at up to 38 middle grade schools
+         •     Prepare master plans for six high schools – Benson, Jefferson, Lincoln,
+               Madison, Cleveland, and Wilson,
+
+
+School Bond Construction Program #4                  5                                    June 2017
+          •    Improve and upgrade temporary facilities to house students from Franklin
+               and Grant high schools, and Faubion PK-8
+          •    Repay previous loans for the capital costs of roof replacements, boiler
+               conversions, and building the new Rosa Parks elementary school
+
+         The Office of School Modernization established a set of performance objectives and
+ targets for the 2012 Bond Program that are tracked and reported on a monthly basis to provide
+ an ongoing assessment of the performance of the program. The performance perspectives and
+ objectives of the Balanced Scorecard reporting tool are presented in the table below.
+
+
+Figure 1 Bond Program performance perspectives and objectives
+
+Perspective                Objective
+
+BUDGET                     Design and construction costs within budget
+
+SCHEDULE                   Design and construction schedules are completed on schedule
+
+                           Project scope, design and construction meet educational, maintenance,
+STAKEHOLDER
+                           and DAG needs
+                           Projects addressing MWESB, apprenticeship, and student participation
+EQUITY
+                           goals
+
+OVERALL                    Overall assessment of performance meeting the four perspectives
+
+Source: Office of School Modernization Balanced Scorecard
+
+
+
+
+School Bond Construction Program #4                         6                             June 2017
+Original budget and schedule
+
+
+
+
+T
+           he total original budget for the 2012 Bond Program was $482 million and was
+           composed of 22 separate projects. As shown in the table below, almost half of the
+           bond was allocated to the three high school modernization projects. The second largest
+construction effort budgeted was the summer improvement projects at up to 63 schools followed
+by the replacement of Faubion PK-8. The remainder of the bond was allocated to repayment of
+previous construction loans in prior years, temporary space improvements, master planning,
+program management, contingencies, and reserves.
+
+    The Bond Program had an ambitious schedule that included planning, designing, and
+constructing three projects largely concurrently – Franklin, Roosevelt, and Faubion. Initial
+master planning for these schools started in 2013 and substantial completion was planned for the
+summer of 2017. Temporary site improvements at Tubman School and Marshall High School
+also were initiated in 2013 to ensure that these sites were ready to accept students when
+construction began at Faubion and Franklin in the summer of 2015. Planning and designing for
+the summer improvement projects typically was scheduled to occur in the year preceding school
+closure in the summer. Planning and designing the Grant High School project was set for 2015
+and 2016 with construction starting in 2017 and substantial completion by summer of 2019.
+
+    The table below provides detail on the original projects, budgets, and schedule.
+
+
+
+
+School Bond Construction Program #4             7                                  June 2017
+Figure 2 2012 Bond Program: Original projects, schedules and budgets
+
+                                                                                     Original
+                                                  Start           Substantial        budget
+PROJECT                                           date            completion        (millions)
+Franklin HS                                     Jul 2013          July 2017          $81.6
+
+Grant HS                                        Jul 2015          Mar 2019           $88.3
+
+Roosevelt HS                                   Jun 2013           Aug 2017           $68.4
+
+Faubion PK-8                                   Mar 2013           April 2017         $27.0
+
+Improvement Projects, 2013-18                     2013               2018            $67.7
+
+6 HS Master plans                                 2014               2020              $1.2**
+
+Marshall/Tubman swing sites                    Sep 2013            Jul 2015            $9.5
+
+Educational Specifications                     Feb 2013           Mar 2014             $0.275
+
+Debt repayment                                     n.a.              n.a.            $45.0
+
+2012 Bond Program*                                 n.a.              n.a.            $93.2
+
+TOTAL                                                                               $482.0
+
+* Includes program management and administration, reserves, contingencies, and escalation reserves.
+
+** Original planning budget was $1.5 million
+
+
+
+
+School Bond Construction Program #4                           8                                       June 2017
+  Bond Program management
+
+
+
+
+  T
+            he Office of School Modernization (OSM) is responsible for managing the 2012 Bond
+            Program under the overall direction of the superintendent and the specific direction of
+            the Chief, School Modernization (CSM). In cooperation with the district’s Facility and
+  Asset Management (FAM) department, OSM has established plans, policies, and procedures to
+  execute the capital construction program. The program must comply with established federal,
+  state, and local laws, and district policies, rules, and procedures regarding procurement,
+  construction, contracting, budgeting and financial reporting, land use and building codes, and
+  equity in public purchasing and contracting. As shown below, OSM is composed of staff from
+  OSM, and representatives from district Accounting and Finance, and Purchasing and Contracting.
+
+
+Figure 3 Organizational chart
+
+
+
+
+  School Bond Construction Program #4              9                                  June 2017
+    In addition to the district employees, the program also receives management assistance under
+contract with Heery International. The initial contract with Heery established roles for Heery
+staff including assisting at the program management level and providing construction
+management support at project sites.
+
+    The bond established an independent group of knowledgeable citizens to review the progress
+of the bond program spending and to provide accountability to the community until construction
+is complete. This group called the Bond Accountability Committee (BAC) is chartered by the
+school board to meet at least quarterly to actively review the implementation of the program and
+to provide advice to the board on a number of topics including the appropriate use of bond funds,
+alignment with goals and policies established by the board, compliance with safety, historic
+integrity and access rules, and standards and practices for efficient and effective maintenance and
+construction.
+
+    At the completion of this year’s performance audit the BAC has held 18 quarterly meetings
+and issued 16 public reports on the status and progress of the bond program. All BAC meetings
+were announced publicly and were open to public participation.
+
+    In addition to the Bond Accountability Committee review of the bond program, the bond
+called for annual audits of how bond funding is being spent. This audit and the previous three
+performance audits address this requirement.
+
+
+
+
+School Bond Construction Program #4             10                                 June 2017
+Audit objectives, scope, and methods
+
+
+
+  T
+            his audit has four primary objectives:
+            1. To determine if the bond program is completing projects on-budget, on-schedule,
+               and in accordance with the objectives of the voter-approved bond measure
+            2. To determine if the district has in place adequate and appropriate policies and
+               procedures to guide the management and implementation of the program
+            3. To evaluate if the district is following established policies, procedures, and
+               other rules in managing and implementing the bond projects
+            4. To identify opportunities to enhance and improve the performance of the program
+
+    To address these objectives, we interviewed:
+            •   Chief, School Modernization
+            •   Office of School Modernization, management and staff
+            •   Purchasing, management and staff
+            •   Program/Construction Management firm
+            •   Deputy Chief Executive Officer of the Portland Public School district
+            •   Facilities and Asset Management, Director
+            •   Bond Accountability Committee chair
+            •   Architect(s) and Contractor(s)
+
+    We reviewed numerous documents including e-Builder records on project cost management,
+procurement, project monitoring and reporting, and administration; internal OSM operations
+reports on program cost management, MWESB performance, student participation, financial
+reconciliation, and cash flows; OSM program management plan and standard operating
+procedures; PPS BOE agenda items and BOE meeting minutes, PPS rules and directives for
+purchasing and procurement, and state public contracting statutes and rules. We reviewed against
+standards and best practice, purchasing and contracting documents for architectural design,
+construction, and CM/GC selection. We also utilized e-Builder to obtain information on
+contracts, invoicing review and approval, budget and cost reporting, project change orders and
+budget amendments.
+
+
+
+School Bond Construction Program #4              11                                 June 2017
+    The primary focus of this year’s audit is an overall assessment of the accomplishments of the
+2012 bond program with a focus on project performance in completing planned scope on
+schedule and within budget. Projects included in this assessment included the three high school
+modernizations, replacement of the PK8 elementary school, and the summer improvement
+projects. In addition, we reviewed the effectiveness of the management of CM/GC contracts,
+compliance with policies and procedures for purchasing and contracting, the cost and efficiency
+of program management and administration, and the accomplishments in achieving objectives of
+the equity in public purchasing and contracting.
+
+    This audit was performed in accordance with a personal services contract awarded by the
+Portland Public Schools Board of Education (October 7, 2013). We planned and conducted
+fieldwork from July 2016 until March 2017. We conducted report writing and quality control in
+March, April and May 2017. We conducted this work following professional standards for
+performance auditing and obtained sufficient evidence to provide a reasonable basis for our
+findings and conclusions. We make a number of recommendations pertaining to public
+procurement and contracting that should not be construed as offering legal advice. The district
+may wish to obtain legal counsel before implementing those recommendations.
+
+
+
+
+School Bond Construction Program #4            12                                 June 2017
+                               AUDIT RESULTS
+
+
+
+
+T
+            he Portland Public Schools is in the final few years of completing the 2012 Bond
+            Program. Three major projects will complete this summer and early fall – Franklin
+            High School, Roosevelt High School, and Faubion PK-8. While some schools did not
+receive improvements as initially planned, 51 schools received improvements in the past four
+summers. The Grant High School modernization is the last major project to begin construction
+and is scheduled to complete in the summer of 2019.
+
+    As discussed in more detail in sections that follow, we found that the program has largely
+completed the Bond 2012 program as proposed in the ballot measure. The Board of Education
+increased the scope of the high school modernization projects in order to provide space for an
+additional 550 students. The Faubion PK-8 project through a successful partnership with
+Concordia University provides a unique and innovation teaching environment for elementary
+school students and student teachers. We believe that the bond projects will address the visual
+and functional objectives of the district’s Educational Specifications document.
+
+    For a variety of reasons discussed in the report, the major projects have cost considerably
+more than initially planned. Moreover, current cost estimates for the Grant High School project
+place the entire program at risk of completing over budget. Without additional resources, the
+project will not be able to construct the building as envisioned in the Master Plan and at a level
+comparable to that at Franklin and Roosevelt high schools.
+
+    We believe there are a number of opportunities to continue to improve the management and
+performance of the program now and into the future. Building on a strong foundation of financial
+and purchasing controls, we make recommendations to strengthen the management of the
+CM/GC approach, to make policies and procedures more useful and complete, and to control the
+cost of program management.
+
+
+
+
+School Bond Construction Program #4              13                                 June 2017
+2012 bond projects will complete planned improvements largely on
+schedule
+
+
+
+
+O
+              ur analysis indicates that the program should complete most of the projects
+              identified in the 2012 bond proposal largely on-time. While some elements of the
+              program will not complete as initially planned, major projects including Franklin
+and Roosevelt High Schools, and Faubion elementary school will be ready for classes beginning
+in the 2017-18 school year. Master plans for future modernization of Benson, Lincoln, and
+Madison high schools were completed in 2016. In addition, although the Grant High School
+project is significantly behind planned dates to complete construction documents, OSM forecasts
+that the project will be substantially complete by start of classes in the fall of 2019. As
+discussed in the sections that follow, summer improvements were completed at 51 schools over
+the past four years. Some schools will not receive seismic, access, roof, or science classroom
+improvements as initially planned at the start of the bond program. This section provides our
+analysis of the status of bond project completion as of March 2017.
+
+
+1. FRANKLIN HIGH SCHOOL
+
+The district initiated demolition and construction of the Franklin HS modernization project in
+June 2015. The 280,000 square foot facility is designed to accommodate 1,700 students and will
+be constructed over a period of 25 months. During the construction period, Franklin students and
+staff are housed at the interim facility at Marshall High School. The Franklin project is being
+conducted using the CM/GC construction methodology. The project team consists of the
+architectural firm DOWA-IBI Group (DOWA) and the construction firm Skanska USA Building
+Inc. (Skanska).
+
+    While some elements of construction are behind schedule as of March 2017, the building
+improvements are scheduled to be substantially complete by July 29th and the grounds and
+grandstand site improvements are currently scheduled to be substantially complete by July 21,
+2017. The district move-in is now scheduled for July 31, 2017. Based on our tour of the facility
+in January and February 2017, and discussions with project director and staff, we believe that the
+project should provide beneficial occupancy in time for regularly scheduled classes in the fall of
+
+
+
+School Bond Construction Program #4              14                                  June 2017
+2017. However, the time available to ensure move-in occurs smoothly is limited and significant
+coordination of move-in activities needs to be accomplished.
+
+    The new and renovated buildings are achieving many of the functional and visual goals of
+the Educational Specifications vision statement. Exceptional care, attention, and workmanship
+have gone into restoring or replacing the exterior trim, woodwork, and other features of the
+historic buildings. The modern physical education and career technical education building is
+separately situated overlooking the synthetic turf field, without compromising the character of
+the historic renovations and additions to the main school complex. The exterior façade provides
+a smooth and seamless transition from new construction to the modernized building. Interior
+finishing of renovated interior spaces restore some of the historical aspects of the existing
+buildings.
+
+
+2. ROOSEVELT HIGH SCHOOL
+
+The district initiated demolition and construction of the Roosevelt HS modernization project in
+April 2015. The 246,000 square foot facility is designed to accommodate 1,350 students with a
+core capacity of 1,700 students. Construction duration is planned for 31.1 months. In contrast to
+the other modernization projects at Franklin and Grant high schools, and Faubion PK-8, students
+and teachers have remained at Roosevelt during construction and have safely moved between
+existing buildings, temporary classrooms, and the new facility as the different phases of
+construction are started and completed. The project team consists of Bassetti Architects and the
+construction firm of Lease Crutcher and Lewis.
+
+    The following table shows the planned schedule for completing the three Roosevelt HS
+construction phases. As shown, various element of Phase 1 required more time than planned. In
+particular, the performing arts, theatre, kitchen, cafeteria, and commons were not complete until
+mid-year of the current school year, approximately 6 months behind schedule. Despite these
+delays, the classroom wing, gym, and media center/library were sufficiently complete to allow
+teachers and students to move-in and use the facilities beginning in the current school year. As
+with many construction projects, there were a number of “punch list items” and other
+improvements identified by OSM necessary to fully complete the project. For example, speakers
+
+
+
+School Bond Construction Program #4              15                                  June 2017
+in the commons and media center were not specified, the kitchen was not immediately useable
+because changes were needed to make the dishwasher and heating tables functional, and lighting
+fixtures in the theatre lobby need to be re-designed and installed. In addition, some of the desks
+purchased for classrooms did not perform as required and will be replaced under warranty with
+the vendor.
+
+Figure 4 Roosevelt High School construction phases
+                                                                Phase 1         Phase 2    Phase 3
+                                                         Plan         Actual     Plan        Plan
+
+ Media Center/Library                               Aug 2016         Oct 2016
+
+ Gym construction and classroom wing                Aug 2016         Oct 2016
+
+ Performing Arts and theatre and
+                                                   Sep 1 2016        Jan 2017
+ commons, kitchen, cafeteria
+
+ Move-in                                            Aug 2016         Aug 2016
+
+ 1921 building modernization                                                    Aug 2017
+
+ Move-in                                                                        Sep 2017
+ Remove temporary facilities/buildings,
+                                                                                           Nov 2017
+ final site-work
+
+Source: January 2017 BAC report – Milestone assessment
+
+
+
+    OSM also managed and coordinated the procurement and installation of furniture, fixtures,
+and equipment (f/f/e) in the Phase 1 portion of the Roosevelt building. With assistance from the
+Facilities and Maintenance staff, Information Technology, and a contracted moving firm, the
+Project Coordinator managed the overall process of installing the f/f/e. Procurement and
+installation of furniture, fittings, and equipment, as well as coordination of technology and move-
+in has been a success. OSM may want to consider centralizing this effort within OSM to
+coordinate this activity across all schools. We have observed at another school district that
+having central staff people perform this effort can be more efficient, helps avoid mistakes, and
+ensures the process is consistently performed at all buildings. A centralized function can also
+free the Project Coordinator to provide assistance with project management.
+
+
+
+
+School Bond Construction Program #4                       16                               June 2017
+    Phase 2 of the RHS project is currently in progress. The 1921 building is demolished, and
+installation is occurring of sheer walls, framing, steel stairs, and roofing. The schedule is
+impacted by both weather delays and by “unforeseen” building conditions related to floor
+elevations, framing modification needs, asbestos abatement, and re-routing of mechanical
+equipment. OSM reports show that the contractor is working on Saturdays to make up for days
+lost due to adverse weather. Based on our conversations with the project director and review of
+project documents, the project should be substantially complete by August 17, 2017, permitting
+teachers to have access to the building by August 21 to unpack, set up classrooms, and adjust to
+the newly modernized 1921 building. This is an extremely tight schedule, and much closer to
+when students will be in the space than at FHS or Faubion.
+
+    Phase 3 of the Roosevelt HS project will be complete after the start of school in November
+2017. The work involves completion of site work, removal of temporary classrooms and
+portables, and final work on sports facilities.
+
+    The 10,000 square foot maker space building has a current budget of $2.2 million and future
+plans to allocate an additional $2.8 million, from the last bond premium in the summer of 2017.
+The project has moved through schematic design and design development. Construction
+documents are 85 percent complete according the March project status report. Further design
+work is on hold until the district career education department provides information on the kind of
+equipment that will be required at the facility.
+
+    We have not assessed the quality of work at Roosevelt High School. We have observed that
+the many elements of the project have addressed the functional and visual goals of the
+Educational Specifications. In particular, the media center has retained the historical window and
+trim treatment, and building materials from the former gym have been incorporated as highlight
+treatments in the new gym. The design provides for efficient transition between historic and new
+spaces.
+
+
+
+
+School Bond Construction Program #4                17                                June 2017
+3. GRANT HIGH SCHOOL
+
+The Grant High School modernization will accommodate 1,700 student and core capacity in a
+287,500 square foot building. The Design Development phase was completed in December,
+2016 and Construction Documents are currently under development. The revised project
+schedule, shared with us in February 2017, called for Construction Documents to be 50 percent
+complete in May 2017 and a Guaranteed Maximum Price contract signed by June 2017. OSM
+informed us on May 9 that the GMP is now scheduled to be executed no later than August 17,
+2017.    The district will authorize the CM/GC to begin “early work” on initial stages of the
+project before the GMP agreement is signed. The GMP will be based largely on the actual bids
+received from subcontractors during the buyout phase. Because the decision to re-structure the
+GMP in this manner occurred after the audit review period, we are unable to provide analysis or
+comment on this approach.
+
+    Substantial completion is forecast for March 2019 and move into the building by June 2019.
+During the construction period starting in the 2017-18 school year, students, teachers and all
+campus functions will move to the temporary facility at Marshall High School. The project team
+consists of Mahlum Architects and the joint venture firm of Andersen Colas Construction LLC
+as the CM/GC.
+
+    Because of the de-scoping of all remaining IP work, the Grant High School modernization
+project may be the last project that will be completed in the 2012 Bond Program. Several
+planned milestones for the project are currently significantly behind schedule. According to the
+January 2017 OSM report to the BAC, completion of Design Development document phase was
+88 days behind baseline schedule, notice to proceed with pre-construction activities is 112 days
+behind schedule, and the development and signing of the Guaranteed Maximum price CM/GC
+contract is 264 days behind schedule (now extended another 90 days). While these delays may
+not lead to completing the project late for the 2019-20 school year, they do reduce the flexibility
+of the project to respond to weather delays, unforeseen conditions, permit delays, or other
+situations that slow the construction effort. The table below shows the significant milestones for
+the Grant project and those phases that are currently behind schedule.
+
+
+
+
+School Bond Construction Program #4             18                                  June 2017
+Figure 5 Grant High School selected completion milestones
+
+                                                                                                    Days
+                                              Baseline            Update            Actual         behind
+Master plan                                   Oct 2015           Dec 2015         Dec 2015               67
+Schematic design                             April 2016          May 2016        May 2016                46
+Design development                           Sept 2016           Dec 2016         Dec 2016               88
+Notice to proceed - pre construction          Feb 2016           May 2016        May 2016            112
+Sign GMP                                      Oct 2016           Aug 2017            n.a.            354
+Site mobilization                            June 2017          June 2017            n.a.
+Substantial completion                     March 2019            Mar 2019            n.a.
+
+Move-in                                      June 2019          June 2019            n.a.
+
+Source: January 2017 BAC report.
+
+
+
+     A number of factors have contributed to delays in completing planned milestones on time.
+Chief among these factors are delays in selecting the architectural and CM/GC firms that were
+discussed in the 2016 audit report and the additional time needed for reconciliation of estimates
+to the budget, following master planning, schematic design, and design development. Additional
+discussion of the Grant High School budget is presented on page 27 of this report.
+
+
+4. FAUBION PK-8 SCHOOL
+
+OSM started construction on the 133,000 square foot PK-8 elementary school in February 2016.
+The new Faubion PK-8 facility is public/private venture with Concordia University1 and is
+scheduled to be substantially complete by June 2017 with move-in planned for July 31, 2017.
+Faubion students and all campus functions have been relocated to the Tubman Campus for the
+2015-16 and 2016-17 school years. BORA architects serves as the design firm and Todd
+Construction is the general contractor.
+
+     The Faubion project has experienced a number of conditions that have challenged the
+schedule. These conditions include unforeseen site conditions related to soils materials not
+
+1
+    As of March 1, 2017, the maintenance and operating agreement with Concordia University for the new
+    building was not yet fully negotiated. As a result, we are unable to review it and comment on it.
+
+
+
+
+School Bond Construction Program #4                      19                                     June 2017
+indicated in the geotechnical report, delays in processing RFIs by the architect, weather delays
+due to wet and snowy conditions that impacted the construction and caused installation of the
+specified roofing to be delayed.
+
+    As discussed in the 2015 audit, the Faubion project provides a partnership on the same site
+for the Concordia University School of Education with the Faubion PK-8 program. In addition,
+the new building will provide key programs to support the Concordia and Faubion student bodies
+and Faubion parents/care-givers, including a food club for at cost sale of organic and healthy
+food, a medical and dental clinic, and pre-K facilities. Concordia is paying for the cost of an
+additional STEAM (science, technology, engineering, the arts, and mathematics) space, for the
+use of Faubion students under the guidance of Concordia student-teachers.
+
+    We identified an issue in the construction of the project that should be addressed in lessons
+learned for future bond projects. Specifically, the district paid for all utilities (e.g. electricity,
+water) during the course of construction at Faubion. While it is reasonable for the district to pay
+for utilities during the renovation or remodeling of occupied buildings, it is not cost effective or
+industry standard for the owner to pay for utilities for new construction on an unoccupied site.
+
+    While assessing quality is beyond the scope of this audit, the new Faubion building appears
+to be achieving many of the functional and visual goals of the Educational Specifications vision
+statement. The new building provides for an abundance of natural light, and with the new active
+solar panels, and LEED gold certification, will exceed the requirements of the Oregon energy
+code by over 30 percent.
+
+
+  Recommendation 1
+
+  In order to reduce costs for future bond projects we recommend that utilities for unoccupied
+  sites should be paid for by the contractor. Unoccupied sites would include high school
+  replacement, as well as high school full modernization if the site is fully unoccupied.
+
+
+
+
+School Bond Construction Program #4                 20                                    June 2017
+5. SUMMER IMPROVEMENT PROJECTS
+
+The 2012 Bond Improvement Projects (IP) were intended to address a variety of needs at up to
+632 individual schools over a period of seven years. To minimize disruption to students and
+classrooms, construction would occur during the summer months when schools were closed.
+Planned improvements included seismic upgrades, disability access, science class improvements,
+and roofs. Each year beginning in 2013, OSM would request bids from construction firms to
+perform the work in accordance with design specifications prepared by OSM contracted
+architects.
+
+     Over the past four years from 2013 through 2016, OSM successfully completed summer
+improvement projects at 51 individual schools within a 2-3 month summer construction schedule
+so that school could commence at the beginning of the school year. As shown in the table below,
+15 schools received seismic improvements, 32 schools had science classroom upgrades, 21
+schools provide better access to students and teachers with disabilities, and 20 schools had
+roof/seismic replacements and improvements. Elevator projects at 7 buildings extended into the
+school year before completion.
+
+     The design for the replacement of the roof at Cleveland High School in the summer of 2016
+specified re-use of the existing structural decks. However, during demolition it was discovered
+that the structural decks under two major sections of the building had deteriorated to the point
+that they could not be reused for structural purposes. The contractor was authorized by the
+district to perform the work necessary to provide adequate structural support on the basis of time
+and materials change requests for not to exceed approximately $1.2 million. We have reviewed
+the substantiating materials and find the change requests and actual costs to be
+appropriate. OSM has recognized as a lessons learned that for future IP roofing projects full roof
+cross-sections should be cored and sampled rather than destructive investigation of just the
+roofing material. This would be an appropriate lessons learned to carry into future
+modernization projects.
+
+
+
+2
+    Educational curriculum decisions eliminated planned changes at Holladay Annex/Rigler campus prior to the
+    beginning of the IP program.
+
+
+
+
+School Bond Construction Program #4                          21                                          June 2017
+  Figure 6 Campuses with completed project categories
+
+                                      Roof /                                 Science     Fall    Window lSRGP
+IP Year    School            Grades Seismic Seismic Accessibility Elevator Classrooms Protection Repair Upgrades
+   13     Alameda            K–5        X      X
+   13     Bridlemile         K–5        X
+   13     Laurelhurst        K–8        X                                       X
+   13     Lewis              K–5        X
+   13     Ockley Green       K–8                                                X
+   13     Wilson             9 - 12     X               X
+   14     Arleta             K–8        X      X                                X
+   14     Beach              PK - 8            X        X            X          X
+   14     Boise Eliot        PK - 8     X      X                                X
+   14     Chief Joseph       PK - 5            X
+   14     Creston            K–8        X      X                                X
+   14     Grout              K–5               X
+   14     Hosford            6–8        X      X        X            X          X
+   14     James John         K–5        X      X        X            X
+   14     King               PK - 8                                             X
+   14     Lane               6–8               X                                X
+   14     Vernon             PK - 8                                             X
+   14     Woodlawn           PK - 8            X                                X
+   15     Ainsworth          K–5        X               X            X
+   15     Buckman            K–5        X               X
+   15     Creative Sci/Clark K – 8      X                                       X
+   15     Hayhurst           K–5        X                                       X
+   15     Llewellyn          K–5               X
+   15     Sabin              PK - 8     X               X                       X
+   15     Stephenson         K–5        X
+   15     Woodlawn           PK - 8                     X            X
+   16     Abernethy          K–5        X      X
+   16     Cesar Chavez       K–8                        X            X          X
+   16     Cleveland          9 - 12     X               X
+   16     Jefferson          9 - 12            X        X
+   16     MLC                K - 12            X        X                       X
+   16     Scott              K–8                        X            X          X
+   16     Sellwood           6–8        X                                       X
+ 15-M     Maplewood          K–5        X
+15-SCI    Astor              K–8                                                X
+15-SCI    Bridger            K–8                                                X
+15-SCI    da Vinci           6–8                                                X
+15-SCI    George             6–8                                                X
+15-SCI    Gray               6–8                                                X
+15-SCI    Harrison Park      K–8                        X                       X
+15-SCI    Holladay Center    Pioneer                    X
+15-SCI    Irvington          K–8                                                X
+15-SCI    Lee                K–8                                                X
+15-SCI    Lent               K–8                        X                       X
+15-SCI    Markham            K–5                        X
+15-SCI    Meek               Alliance                   X
+15-SCI    Mt. Tabor          6–8                                                X
+15-SCI    Peninsula          K–8                        X                       X
+15-SCI    Richmond           PK - 5                     X
+15-SCI    Roseway Heights K – 8                                                 X
+15-SCI    Skyline            K–8                                                X
+15-SCI    West Sylvan        7–8                        X                       X
+Totals    52                            20     15        21        7         32         0        0         0
+
+
+
+
+  School Bond Construction Program #4                  22                                   June 2017
+     Improvements at several schools originally scheduled for IP construction in 2016, and some
+ schools scheduled for 2017 and later may not be completed. Specifically, as shown in the table
+ below, improvement projects at 25 schools may not be improved using 2012 Bond resources as
+ initially envisioned by OSM management. Seventeen of these schools received some
+ improvements in prior years but ten schools initially scheduled for upgrades may not receive any
+ improvements. Although OSM initially planned to perform improvements at 20 schools in the
+ summer of 2017, management has informed us that the work will not be bid this year and work
+ will likely not be constructed within the current bond program. Moreover, $2.3 million
+ originally budgeted for projects in 2018 and 2019 has been removed from the IP budget and
+ transferred to the Bond Program contingency reserve.
+
+ Figure 7 Campuses with deferred project categories
+                                     Roof /                                    Science     Fall       Window
+                           Grades   Seismic   Seismic Accessibility Elevator Classrooms Protection    Repair
+Abernethy                   K-5                                                             X
+Ainsworth                   K-5                                                             X
+Arleta                      K-8                           X            X
+Beaumont                    6-8                  X                                X
+Benson                     9 - 12                X        X
+Buckman                     K-5                                                             X
+Cleveland                  9 - 12                                                           X
+Creative Science / Clark    K-8                                                             X
+Duniway                     K-5                  X
+Fernwood-Beverly Cleary     2-8        X         X                                X         X
+Grout                       K-5                                                                         X
+Hayhurst                    K-5                                                                         X
+Jackson                     6-8        X        X                                X          X
+King                       PK - 8                          X          X
+Lane                        6-8                            X          X
+Lincoln                    9 - 12                          X
+Madison                    9 - 12                          X
+Maplewood                   K-5                                                             X
+Ockley Green                K-8                            X          X
+Rigler                      K-5                            X          X
+Sellwood                    6-8                                                             X
+Stephenson                  K-5                                                             X
+Sunnyside                   K-8                            X          X          X
+Vestal                      K-8                            X          X          X
+Winterhaven                 K-8                            X          X          X
+TOTAL 25                               2        5          11         8          6          10          2
+
+
+
+
+     Several factors have contributed to reducing the number of summer improvements planned to
+ be completed at schools. The cost of summer projects significantly exceeded original budget
+ estimates and fewer projects could be completed with available resources. As discussed in our
+
+ School Bond Construction Program #4                 23                                   June 2017
+performance audit last year, final expenditures in 2013, 2014, and 2015 exceeded budget
+amounts by an average of 28 percent. Factors affecting IP project costs including the lack of
+market competition, construction cost escalation, and the timing of bidding are discussed on page
+32 of this report.
+
+
+6. INTERIM FACILITIES: TUBMAN AND MARSHALL
+
+The 2012 Bond Program included funding to prepare interim space for instruction during the
+construction of Franklin and Grant high schools, and Faubion PK-8. Specifically, the program
+planned to upgrade and renovate portions of Tubman school to house the Faubion campus and
+improve elements of the Marshall High School campus to accept students from Franklin and
+Grant high schools.
+
+    Construction of Tubman improvements was substantially complete in August of 2015 and
+students and teachers from Faubion PK-8 have been located at the interim campus during the
+2015-16 and 2016-17 school years. The PPS transportation provides bussing for Faubion
+students to the Tubman site.
+
+    Construction of improvements at Marshall High School was substantially complete in 2015
+and students from Franklin High School moved to the interim facility in the 2015-16 and 2016-
+17 school years. When the Franklin High School modernization is complete in the summer of
+2017, Franklin students will transfer back to the modernized school and Grant High School
+students and teachers will move to Marshall High School for a two-year interim period.
+
+
+7. MASTER PLANNING FOR THREE ADDITIONAL HIGH SCHOOLS
+
+In order to develop master plans for the modernization of additional high schools, the 2012 Bond
+Program include funding for 6 master plans. While OSM initially planned to complete master
+planning for six high schools, the original funding for the master planning for each high school
+was inadequate. As a result, the plan was changed to increase the funding for only the three high
+schools which might be part of a next bond, Lincoln, Benson, and Madison. Master planning for
+these three schools was substantially complete in June of 2016. OSM plans to perform planning
+for Cleveland, Jefferson and Wilson with in-house resources.
+
+
+
+School Bond Construction Program #4             24                                 June 2017
+Bond program at risk of completing over budget
+
+
+
+O
+            ur comparison of projected bond program resources to projected bond program costs
+            indicates that the 2012 Bond program as a whole is at risk of completing over budget.
+            Budget increases in the major modernization projects have outgrown available bond
+resources and jeopardize the completion of the 2012 Bond program within budget. The sections
+that follow discuss the projected bond resources as of March 2017, and the projected costs for the
+projects at the completion of the program.
+
+
+8. PROJECTED PROGRAM RESOURCES MAY BE INSUFFICIENT TO COVER PROJECTED COSTS
+
+As shown in the table below, the 2012 Bond program resources have grown from $499.1 million in
+2014 to $557.3 million in 2017, a $58.2 million (12%) increase. Overall resources are expected to
+increase an additional $6 million from a bond premium for the last bond sale scheduled for the
+summer of 2017.
+
+
+Figure 8 2012 Capital Improvement Bond Program resources from all sources (in millions)
+
+                                               2014           2015       2016       2017
+
+General Obligation Bonds                      $482.0          $482.3     $482.3     $482.0
+Bond premium/debt savings                      $13.8           $13.9      $47.1      $47.1
+Concordia University                                 -          $0.9      $15.3      $15.5
+SRGP funds and PPS contribution
+(seismic upgrades)                               $1.5           $1.5       $2.9       $3.2
+SB1149 funds (energy efficiency and
+renewable energy)                                $0.8           $0.8       $1.6       $1.6
+Debt Repayment                                   $0.9           $0.6        $.8       $0.8
+Education specifications                         $0.3           $0.3       $0.3       $0.3
+Facilities and Maintenance capital funds             -         $0.04       $0.2       $0.3
+Other grants and contributions                       -               -     $0.1       $0.3
+Earned interest                                      -               -          -     $2.5
+Qualified Zone Academy Bonds                                                          $4.0
+
+TOTAL                                         $499.1 m        $500.6 m   $550.5 m   $557.3 m
+
+Source: OSM Program Update – April 2017 BAC report
+
+
+
+
+School Bond Construction Program #4                      25                                June 2017
+    Actual and projected bond project costs have also grown over the past four years. As shown
+in the table below, OSM currently estimates that projects will have final costs of $547 million;
+however, the estimates do not reflect significant additional funding required for GHS. Changes
+in specific project budgets are discussed below. As discussed later in the audit, and as originally
+anticipated, original budget estimates did not include escalation that was applied at the start of
+design and estimated to approximately the mid-point of construction.
+
+    The program has added over 12 percent in additional resources from outside the bond.
+Significant bond premiums, grants, and a major partnership with Concordia University have
+allowed the district to address increases in program scope and higher escalation than planned.
+
+Franklin High School. Including 14.2 percent in escalation, the Franklin budget increased by 38
+percent from an original budget estimate of $81.6 million to an OSM estimated final cost of $112.8
+million as of March 2017. It is estimated by OSM that the project’s Guaranteed Maximum Price of
+$81.75 million established in May 2015 will be increased by approximately $16 million. During
+construction, the CM/GC firm requested a number of changes to their GMP which the CM/GC
+attributed to unforeseen site conditions, unforeseen building conditions, unforeseen hazardous
+materials, abnormal weather (rain, snow, ice), and architectural errors and omissions. To address
+these problems, OSM, by BOE resolution, increased the FHS project contingency by $6 million.
+The $6 million project contingency increase was also used by OSM to add back nearly $2 million
+in value engineering items that had been deleted.
+
+Roosevelt High School. Including 14.2 percent escalation, the Roosevelt High School budget
+increased by 49 percent, from an original budget of $68.4 to a $102 million budget as of March
+2017. It is estimated by OSM that the project’s Guaranteed Maximum Price of $69.3 million
+established on April 2, 2015 will be increased by over $14 million by increases in the contractor
+contingency and other changes approved by OSM, Purchasing & Contracting, and the BOE. Four
+million of the $14 million increase will come from a federal loan, which will need to be repaid by
+the district general fund over a period of 20 years. Similar to Franklin High School, Roosevelt
+experienced unforeseen site conditions, unforeseen building conditions, unforeseen hazardous
+materials, extreme weather, and architectural errors and omissions.
+
+
+
+
+School Bond Construction Program #4              26                                  June 2017
+Faubion PK-8. Including the Concordia University contribution of $15.5 million and escalation at
+14.2 percent, the Faubion project budget increased by 21 percent, from an original budget estimate
+of $42.5 million to an OSM estimated final cost of $49.2 million. Faubion budget growth has been
+less than that of the high schools. The project did not involve the complexities of historic
+renovation of older buildings, was constructed using the less technically complex design-bid-build
+methodology, and was bid in the winter which generally results in more competitive pricing.
+
+Improvement Projects. The original IP budget was $67.7 million. OSM estimates that the final
+project cost will be $65.5 million. The project budget will be decreased by $2.2 million by the
+effect of applying no net escalation to the projects and by reducing the scope and budgets of
+several projects in IP 2016, IP 2017, and IP 2018.
+
+    When the 2012 bond program was created, an escalation reserve for all projects including IP
+was established. Although escalation and marketplace adjustments were made to the first few IP
+projects, in 2014 all remaining unobligated program level escalation funding was re-directed to
+the high school budgets to fund both escalation and scope.
+
+Master Planning. Total budgets for Master planning activities and debt repayment have remained
+largely stable.
+
+Bond Program. The bond program budget has fluctuated as reserves, contingencies, and
+additional revenues have flowed into and out of the project account. Bond program administrative
+and management costs have grown by 25 percent over the past four years from an original budget
+of $30.7 million to an estimated final cost of $38.4 million as of March 2017. Because OSM
+includes various items such as transportation right-of-way set-asides and owner-controlled
+insurance in their program administrative and management budget, the increase does not accurately
+reflect growth in typical program overhead costs.
+
+Grant High School. The estimated cost of the Grant project at completion currently exceeds
+available budget resources. As of March 2017, the budget of the project stands at $116.8 million
+dollars and the estimated final project cost is at least $140.0 million, $23 million over the
+currently established budget. According to OSM program management, at 100% DD, the
+CM/GC estimated the GMP covering all risk to be approximately $33 million over budget. The
+
+
+
+School Bond Construction Program #4              27                                  June 2017
+magnitude of this shortfall places the project at risk of not completing as designed in accordance
+with the Educational Specification standards unless significant new resources are made available
+to the project.
+
+    According to OSM program management, OSM currently estimates that if the GHS program
+is kept consistent with Ed Spec requirements, the total bond program will be over budget, and it
+is likely that more funds from outside the 2012 bond will be required to complete Grant High
+School modernization. According to OSM, this budget update was reported to the BAC during
+the April 2017 presentation and discussion.
+
+    Because Grant High School may be the last project that will be constructed with funds from
+the 2012 Bond program, there are fewer reserves and contingencies available to address budget
+increases, and limited opportunities to generate additional funds from bond premiums and other
+contributions. According to e-Builder records, there is only about $10 million available from
+program level reserves which can be applied to the projected deficit, which includes $3.2 million
+in obligated funds from the final bond sale premium. Additional resources may be available as
+other projects close-out and remaining funds become available but final costs may also increase
+before these projects are complete. These resources in aggregate may not approach the current
+estimated deficit in the Grant High School program.
+
+
+
+
+School Bond Construction Program #4             28                                 June 2017
+Figure 9 School Building Improvement Bond program: Projects, budgets, estimated
+         final cost (in millions)
+
+                                            BUDGET (in millions)
+                                                                                                  Est. cost
+                                             Original       Current    Estimated        %       over (under)
+PROJECT                                       budget        budget     final cost   increase   original budget
+
+Franklin HS                                   $81.6        $112.8        $112.8       38%           $31.2
+
+Grant HS                                      $88.3        $116.9       $140.0        56%           $51.7
+
+Roosevelt HS                                  $68.4        $102.8        $102.0       49%           $33.6
+
+Faubion PK-8                                  $27.0*         $49.2        $49.2       82%           $22.2
+
+9 Improvement Projects, 2013-19               $67.8          $73.4        $64.7           -         ($3.1)
+
+3 HS Master plans                               $1.2          $1.2         $1.2           -              -
+
+Swing sites                                     $5.8          $5.8         $5.2           -          ($.6)
+
+Educational Specifications                      $0.0         $.275        $.275           -              -
+
+Debt repayment                                $45.0          $45.0        $45.0           -              -
+
+2012 Bond Program                             $93.2          $49.9        $39.1                     ($10.8)**
+
+Source: OSM Project Management Cost Report, April 2017
+* Original budget did not include Concordia University contribution.
+** Estimated costs under current budget.
+
+
+
+
+School Bond Construction Program #4                          29                                  June 2017
+Factors contributing to program cost growth
+
+
+
+O
+              ur review of the 2012 Bond Program over the past four years identified a number of
+              factors that have contributed to the growth in the overall cost of the program. These
+              factors include changes in high school program, size, additional square footage to
+accommodate changing student to teacher ratio; significant industry wide construction cost
+escalation; high construction bids partly due to insufficient competition, and numerous and
+costly change orders. In aggregate these factors have contributed to the overall growth of the
+program cost putting the program at risk of completing over budget. The following discuss these
+cost growth factors in more detail. We make several recommendations to help mitigate the effect
+of these factors in the remainder of this bond program and in future bond programs.
+
+
+9. CHANGES IN HIGH SCHOOL PROGRAM, SIZE, AND STUDENT TO TEACHER RATIO
+
+The initial baseline budgets for the three high school modernizations were established relying on
+specific criteria developed in the Long Range Facility Plan. The criteria related to student
+enrollment and building size, the instructional programs to be delivered, and the teacher staffing
+standards. During the master planning phase for the high schools, the BOE approved an increase
+in student enrollment to address updated projected enrollment numbers at each high school and a
+corresponding increase in building square footage. As we discussed in detail in the 2015 audit
+report, Franklin and Grant High School planned student capacity grew from 1500 to 1700, and
+building size was adjusted to 245,000 sf. Similarly, Roosevelt student capacity was increased
+from 1200 to 1350, and building square footage increased from approximately 195,000 sf of full
+modernization to 223,000 sf of full modernization.
+
+    In addition to increased student capacity and building size, during the schematic design
+phase for RHS and FHS, PPS determined there was a need for more classrooms and career and
+technical education space at each school than was indicated in the original High School
+Educational Specifications (2.0) document. Again, high school building size was increased at
+Franklin, Roosevelt, and Grant. Finally, the district’s desire to increase student academic credit
+opportunities and to lower the student to teacher ratio, additional classrooms and building space
+further increased the number of planned classrooms and building sizes for all three high schools.
+These changes were incorporated in 2015 into a revised High School Educational Specifications
+
+
+School Bond Construction Program #4              30                                 June 2017
+3.0, which has been used to guide the development of GHS. For a comprehensive high school of
+1700 students the Ed Spec size was determined to be 280,000 sf. RHS (which has fewer
+students) was set at 240,000 sf. Actual sizes, according to the March OSM project status updates
+are 280,000 sf at FHS, 246,920 sf at RHS, and 287,500 sf is being planned for GHS.
+
+    These changes and revisions increased the estimated costs of these projects beyond the
+baseline budgets that were used in establishing the amount of the bond approved by voters. To
+address these increased budgets, OSM allocated additional funding to each project in three
+principal ways. First, the Board of Education (BOE) transferred $10 million to the high school
+budgets from the $20 million BOE bond reserve created at the beginning of program to address
+needs that might occur over the course of the 8-year program. Second, OSM transferred
+program contingency and all of the unallocated escalation reserve established to address
+construction cost increases in all of the projects. Third, OSM transferred a large portion of the
+new revenue derived from bond premiums earned after two bond sales.
+
+    As discussed in the 2015 Audit, increases in the three high school modernization budgets due
+to changes in the planned capacities and instructional program offerings increased financial risks
+to the program and reduced financial flexibility to address unknown needs and changed
+conditions during the remaining years of the program. In March 2016, the Board of Education
+again authorized a change in the level of program delivery provided at high schools by directing
+OSM to develop and construct a separate regional career education space at Roosevelt High
+School. The BOE resolution authorizes and directs the use of up to $5 million dollars in
+program contingency to add 10,000 square feet of stand-alone career technical education (CTE)
+and maker space on the Roosevelt High School campus. The use of program reserves to fund this
+additional project was not supported by OSM or by the Bond Accountability Committee largely
+due their concerns about the impact on the program’s budget.
+
+    The Board decision to authorize an additional $5 million for CTE space at Roosevelt may
+have been based in part on the budgetary information provided by OSM to the Board that
+indicated at the time that substantial project contingencies remained in the Roosevelt budget, the
+other major projects, and in the general program level reserves. As discussed in more detail in
+the Program management section of this report on page 49, these reports until recently did not
+
+
+
+School Bond Construction Program #4              31                                 June 2017
+completely project estimated costs. Specifically, while the reports showed significant
+contingency and reserves, they did not reflect changes awaiting approval and other unrecognized
+costs that were likely to occur. For example, as reported in the 2016 audit, the GHS project was
+significantly over budget, although the OSM reporting at the time showed the GHS master plan
+estimate on budget. OSM informs us that they made efforts to convey to the BOE the risks
+remaining to the program.
+
+
+  Recommendation 2
+
+  In order to reduce financial risk to future bond programs, if new conditions or needs require
+  changes in planned scopes, the district should ensure that significant resources are available
+  within the bond program budget to address changes without significantly affecting other
+  planned projects.
+
+
+
+
+10. HIGH INDUSTRY-WIDE CONSTRUCTION COST ESCALATION.
+
+To account for construction industry cost escalation in the original bond budget, OSM included
+an annual 3 percent escalation factor in a separate program level contingency category. These
+funds were to be used for all of the construction projects including the high schools, Faubion,
+and IP. However, actual industry-wide annual escalation in Portland well exceeded 3 percent
+since the passage of the bond. According to analysis by the program manager, based on data
+from the independent estimating firm of RLB, cumulative industry wide construction escalation
+applicable to FHS and RHS from passage of the bond to midpoint of construction was
+approximately 14.43 percent.
+
+    Using a projection of 4.5 percent escalation for 2017 and 4 percent per year for 2018,
+extrapolated to June of 2018, cumulative construction escalation for GHS should be about 24.4
+percent. Although the GHS project budget was increased to cover the 24.4 percent industry wide
+escalation, substantial additional funding is needed to build the required program at GHS.
+
+    While construction industry escalation has had an impact on high school cost growth, it does
+not alone account for the increases in program costs. Averaged across all three high school
+projects, industry construction escalation is about 18 percent. Escalation combined with the
+
+
+School Bond Construction Program #4             32                                  June 2017
+building size increases, account for about 34 percent program cost growth. Although industry
+escalation and program increases combined account for a significant portion (79%) of program
+cost growth, they do not account for the entire growth in program cost. The program budget for
+the high schools has grown from a bond size of $238.3 million to $332.5 million, an increase of
+$104.2 million, or 43 percent.
+
+
+11. TIMING OF CONTRACT BIDS AND SOLICITATIONS
+
+Another factor contributing to cost growth is when OSM and the CM/GCs under contract with
+OSM solicit bids. In general, bids are higher the closer it gets to the summer when contractors
+and subcontractors are already busy. For example, we mention in the 2016 audit that because the
+main mechanical package for the FHS project was put out to bid in the summer of 2015, few bids
+were received from the subcontractors that normally work on schools. The lowest bid for the
+mechanical package was 25 percent over budget. We have made several prior recommendations
+that IP work be designed and bid significantly earlier to avoid this late spring/summer bidding
+challenge.
+
+
+12. DISTRICT BIDDING AND CONTRACTING REQUIREMENTS MAY INHIBIT COMPETITIVE BIDS
+
+Our review of construction bids and proposals over the past four years indicates that on many
+occasions OSM received far higher bids than would be warranted by industry wide escalation
+levels. In addition, competition for OSM construction work has not been as broad as OSM
+expected.
+
+    OSM program management staff state that actual “escalation” for PPS projects is likely
+significantly higher than the industry level averages due to several factors. The perception of
+OSM program management staff is that district projects are less attractive to contractors and
+subcontractors because of district reporting and administrative requirements that may be seen by
+vendors as more time consuming and costly than commercial projects and those of other public
+contracting agencies. Due to the additional administrative demands such as the requirement to
+pay prevailing wage rates, public agency work in general might be less attractive than private
+commercial work in a very active market. The district has added some additional requirements
+for firms bidding and proposing to contract with the district. These requirements include an
+
+
+School Bond Construction Program #4             33                                 June 2017
+active effort to achieve more equity in purchasing and contracting by asking bidders to
+demonstrate their efforts to hire MWESB subcontractors, to report monthly on the amount of
+work awarded to MWESB firms, and to ensure apprentices and student participate at specified
+levels in the project.
+
+    The district also requires construction firms to participate in the district’s owner controlled
+insurance program, to use the district’s project management e-Builder software program, and to
+provide various contract reporting and scheduling efforts such as three-week look-ahead
+schedules. Anecdotally, several contractors that have worked on the bond program have stated
+that district administrative requirements make working with PPS less attractive than working
+with other public sector clients and commercial clients. For example, one medium sized general
+contractor working on IP 2014 specifically expressed concern about the schedule update
+requirement. He stated that his firm was simply too small to provide the additional project
+management staff to constantly update three week look-ahead schedules.
+
+    The district’s administrative and reporting requirements may be part of the reason
+competition has been limited and actual escalation has been greater for OSM projects, as
+compared with that of the industry as a whole in the Portland area.
+
+
+  Recommendation 3
+
+  To potentially increase competition for OSM public improvement contracts and reduce cost,
+  OSM should continue to do outreach to general contractors, and subcontractors on ways to
+  make OSM projects more attractive to contractors and subcontractors. In addition to outreach
+  to individual contractors, the Purchasing and Contracting department should consider
+  conducting focus groups with general contractors to determine why competition has been
+  limited and how competition for PPS projects can be increased.
+
+
+
+
+13. NUMEROUS AND COSTLY CHANGE ORDERS
+
+FHS and RHS have experienced significant change order increases which have contributed to the
+overall growth in program cost. As of March 2017, the project status update (PSU) for FHS is
+projecting that by the end of the project there will be approximately a $16 million increase in the
+
+
+
+School Bond Construction Program #4              34                                   June 2017
+GMP due to change orders. As of March 2017, the PSU for RHS is projecting that by the end of
+the project there will be approximately a $14 million increase in the GMP due to change orders.
+
+    The district budgeted approximately 10 percent of the total project budgets for the owner’s
+project contingency for each project at the time of the execution of the FHS and RHS GMPs.
+The intention, expressed by the project directors at the time, was that 10 percent of project
+budget, coupled with the guaranteed maximum prices, should have been sufficient to cover costs
+which would cause the GMPs to be increased. The PSU for FHS is now projecting that
+approximately 16 percent of the original project cost will be needed for changes (increases) to
+the GMP. The PSU for RHS is projecting that approximately 15 percent of the original project
+cost will be needed for changes (increases) to the GMP.
+
+    Some of the changes at FHS and RHS could be viewed as necessary or unavoidable due to
+unforeseen site conditions, weather delays and disruptions, and abatement of hazardous
+materials. At FHS and RHS there have been considerable additional change order costs due to
+“unforeseen” conditions for the historic buildings. These changes are discussed in another
+section of this audit. Still other changes resulted from re-funding and re-scoping building
+elements that had been removed during value engineering.      For example, Franklin High School
+reversed decisions to eliminate certain classrooms, HVAC features, bleachers, a stair, and solar
+panels, made during GMP negotiations, and added back these elements to the building by change
+order.
+
+    Other change orders or change order costs may have been avoidable or reduced through more
+efficient design and firmer contract management. The following are some examples of
+potentially avoidable change orders we identified.
+
+Incremental cost of A/E errors and omissions: OSM has identified a number of instances in both
+the Franklin and Roosevelt High Schools projects of errors and omissions in architect plans and
+specifications. Where architects and engineers are expected to perform at the highest level of
+quality and accuracy commensurate with industry standards, design professionals are not perfect
+and mistakes occur – both as errors of commission and errors of omission. To correct these
+mistakes, management must approve change orders to the construction contracts. In general,
+even for errors of omission where work that was omitted can be added to the project without
+
+
+School Bond Construction Program #4              35                                 June 2017
+affecting work that has already occurred, the cost to do the work is more expensive as a change
+order than had it been included in the original bid packages. This has to do with multiple factors
+including sequencing of work, time for separate estimating, site logistics and supervision,
+increased cost to cover potential risk, and markups.
+
+Efforts to develop the Building Information Modeling (BIM) system: The OSM Project
+Management Plan and Standard Operating Procedures proscribe the development of BIM for all
+new modernization and replacement projects. BIM provides for digital representation of the
+physical and functional characteristics of the designed and constructed components of a building
+and its systems. BIM is intended to be a useful tool during construction for design visualization
+and clash detection/prevention, and to a greater degree, to be a tool for future maintenance and
+modernization work on the buildings now in construction. According to the project director at
+Franklin High School, the BIM model is not as complete as originally intended, and would likely
+not be functional for future maintenance and modernization work. It has not been as successful
+as envisioned for assistance in clash detection, with in a number of cases, some of the
+documentation to BIM occurring after-the-fact. According to the project director for FHS, the
+district has paid in excess of $870,000 during construction to update the original BIM model
+produced by the architectural team.
+
+    The project director at Roosevelt high had similar experiences in implementing the BIM
+model and abandoned efforts to update BIM because of the time and cost that it would consume.
+As a result, RHS will not have a functional BIM model.
+
+    The project director at Grant High Schools told us that they will develop a “BIM light
+model” during design by not inputting all the information relevant to a full BIM model. At GHS
+too, there will not be a functional BIM model at the end of the project.
+
+    The FAM director tells us that although it appears to be a tool with a great deal of potential
+usefulness, FAM has no ability or capacity now to use BIM and does not have plans to use BIM
+now or in the future.
+
+
+
+
+School Bond Construction Program #4              36                                 June 2017
+  Recommendation 4
+
+  In order to reduce financial risk, OSM should re-evaluate its approach to BIM and develop a
+  model for design documentation that is consistent with bond resources and future FAM
+  planning and resources.
+
+
+
+
+Classroom redesign: In 2014 it was determined that high schools needed additional classrooms
+in order to reduce the student to teacher ratio at the high school level. At that time, OSM revised
+the functional program for the high schools and added additional classrooms to the designs.
+However, according to OSM program management staff, the required number of classrooms was
+not adequately calculated and planned for Franklin and it was determined during the early part of
+2016, while the project was well into construction, that four additional classrooms would be
+required. This required additional design cost in excess of $36,000 and additional cost of
+approximately $162,000 to replace walls and other features that had already been removed. The
+project director estimates that 65 to 70 percent of this change order, about $110,000, is undoing
+work that already been performed.
+
+Extended General Conditions added at least $1 million to all change orders for FHS and RHS:
+As discussed in the 2016 audit and in Appendix A of this audit, by adding a provision in the
+contract that allowed a 7 percent increase in general conditions on all change orders that increase
+the GMP, we believe the district unnecessarily added approximately $1 million to the cost of
+change orders which increased the GMP for FHS. There were additional costs due to the same
+extended general conditions provision at RHS.
+
+
+
+
+School Bond Construction Program #4             37                                  June 2017
+Management of CM/GC projects could be improved
+
+
+
+
+O
+              ur review of the three CM/GC projects administered by OSM over the past three
+              plus years identified a number of management practices for procuring and
+              administering contracts for CM/GC services which could result in greater
+efficiency, lower cost, and better compliance with district and state rules and laws. Some of the
+most important opportunities for improvement are as follows.
+
+
+14. BETTER MONITOR AND CONTROL THE INCLUSION OF NEW CONTRACT PROVISIONS
+
+As reported in the 2015 and 2016 Audits, some contractual provisions of the CM/GC contracts
+were negotiated and inserted in the contracts by OSM after draft contracts were reviewed and
+published by P&C, in one case after outside legal counsel and Purchasing and Contracting had
+completed their reviews. These changes were all contrary to best practice and/or inconsistent
+with district policy which is developed from state rules. As a result, some inappropriate, non-
+compliant and un-necessarily costly provisions were placed in the contract documents. These
+included:
+
+         •   a provision to proscribe a 62 percent markup of actual costs for all CM/GC
+             personnel not covered by the lump sum general conditions. While markup of
+             direct salary costs is permitted in order to cover indirect costs such as
+             vacation and retirement expenses, 62 percent markup exceeds industry
+             norms. According to OSM program and project management staff, no
+             backup was provided or requested which would form the basis for the 62
+             percent markup.
+         •    a contract clause that excluded from audit by the district of the mark-up of
+             personnel. Because CM/GC alternative procurement method is based on the
+             reimbursement of actual costs, state and district policies anticipate that all
+             costs (other than agreed to fees) of the contract will be audited, and
+         •   a contract provision that allowed the contractor to charge an additional 7
+             percent on all change requests to cover “extended general conditions.” This
+             provision is discussed in detail in the 2016 Audit and in Appendix A of this
+             audit. We estimate that as of March 2017, this clause resulted in additional
+             compensation to CM/GC firms for Franklin and Roosevelt high schools. The
+             additional cost for FHS alone will be approximately $1 million.
+
+
+School Bond Construction Program #4              38                                 June 2017
+  Recommendation 5
+
+  In order to reduce financial risk and improve compliance with state and local policies, all
+  proposed changes to originally executed contracts and GMP amendments should be clearly
+  noted and fully reviewed and approved by the district Purchasing and Contracting division and
+  by independent legal counsel prior to final execution of the contract or GMP amendment.
+
+
+
+
+15. ALLOWABLE PROFIT AND OVERHEAD FOR CHANGES TO CM/GC CONTRACTS IS THE HIGH
+    END OF INDUSTRY STANDARD FOR GHS
+
+In accordance with industry practice, OSM construction contracts allow contractors to earn a
+certain level of profit and overhead on project change orders. As shown in the table below, the
+CM/GC firm for Franklin High School can earn profit and overhead percentage that ranges from
+14 percent for self-performed work and up to 19+ percent for subcontractor performed work.
+The Faubion PK-8 design-bid-build contractor can earn up to 15 percent of any change order
+amount.
+
+    OSM, however, has provided for a significantly greater change order profit and overhead
+percent for Grant High School. Under the current contract, the CM/GC for Grant will be
+compensated at 25 percent for either self-performed or subcontracted work. This percentage is
+significantly higher than other OSM projects and is at the high end of industry standard.
+
+    Before the Grant High School pre-construction contract was released, OSM requested that
+we review the draft contract for consistency with model rules and industry standards. At that
+time, we suggested that the extended general conditions clause be deleted from the contract and
+that the allowable profit and overhead for change orders be reduced. OSM did not address either
+recommendation in the draft CM/GC contract that was attached to the RFP, or in the final
+contract that was executed with the CM/GC. In a July 2016 school board meeting, the Chief,
+School Modernization said that it was the intent of OSM to make appropriate changes when the
+GMP contract amendment was signed.
+
+
+
+
+School Bond Construction Program #4             39                                 June 2017
+     We believe that providing high profit and overhead for contract change orders may provide
+an incentive to the contractor to pursue additive changes to the contract rather than perform them
+within the GMP.
+
+
+Figure 10 Allowable profit and overhead percentages on contract changes orders:
+          Franklin, Faubion, and Grant (percentage)
+
+                                                     General
+                                             Add    Contractor   Extended
+                                Sub          Subs     Fee           GC      Total
+
+FHS–sub labor                    10          5+           2         7        19+
+FHS-sub mater/equip               5          5+           2         7        14+
+FHS-self perform                                       12           7        19
+FHS-self mater/equip                                      7         7        14
+
+Faubion-sub                      10           0           5                  15
+Faubion-self                     15                                          15
+
+
+GHS-sub                          15           0           3         7        25
+GHS-self                                               18           7        25
+
+Source: OSM eBuilder project cost reports.
+
+
+
+  Recommendation 6
+
+  In order to reduce unnecessary cost, OSM should consider reducing the maximum permissible
+  profit and overhead percentages for change orders in the Grant High School GMP amendment.
+  OSM should also control the level of profit and overhead for change orders in future bond
+  program contracts.
+
+
+
+
+16. HOLD CM/GC FIRMS ACCOUNTABLE FOR TRUE GMPS
+
+As discussed in the 2016 audit, OSM negotiated and Purchasing and Contracting approved the
+original FHS GMP with exclusions which essentially invalidated the guarantee of the GMP.
+This resulted in recommendation #2b of the 2016 audit, “Ensure that the GMPs for future GMP
+projects are negotiated and executed at the contractually proscribed point in design. No
+
+
+
+School Bond Construction Program #4                  40                             June 2017
+conditions should be placed on the GMP that would serve to negate or compromise its validity as
+a full guarantee of all costs, except those that are reasonably attributable to scope increase.”
+
+    In addition, on separate occasions, OSM has increased the Guaranteed Maximum Prices of
+the FHS and RHS CM/GC contracts by providing, without scope increase, additional
+contingency to the contractors. District rules do not permit an increase in the GMP unless there
+is a concomitant project scope increase related to specific events, which are defined by contract
+as limited to unforeseen site conditions, significant modification in the designed scope of work,
+or the application of contract allowances in excess of what was budgeted. For neither occasion
+on which the GMP was increased in this manner was the supporting documentation justifying the
+increase in the contractor contingency sufficient or appropriate. The following provides brief
+description of these two contingency increases.
+
+Franklin High School GMP Contingency Increase: As discussed in our 2016 audit report, the
+district increased the contract GMP following significantly higher bids from subcontractors than
+originally budgeted. In October of 2015 the GMP was increased by adding $1 million to the
+contractor’s GMP contingency. This increase of contractor contingency within the GMP was not
+tied to scope increase. We recommended in our report that in order to comply with district
+policy, OSM should not in the future increase the contractor contingency in the GMP without a
+concomitant scope increase. The district response to our 2016 report stated that they concurred
+with the recommendation and would ensure that future change orders would comply with
+applicable law and policy. Despite this assurance, as discussed below, OSM again increased the
+GMP for Roosevelt High School without a concomitant scope increase.
+
+Roosevelt High School GMP Contingency Increase: In June 2016, based on a recommendation
+from OSM, the director of Purchasing and Contracting signed an OSM initiated change order
+that increased the GMP for the RHS contract by $4,750,000 to provide additional contingency
+available for use by the contractor within the GMP. There was no scope increase associated with
+this change order. The funds for this authorized change request were transferred from OSM’s
+owner contingency for the Roosevelt project.
+
+    The explanation for the change order provided by OSM states that subcontractor bids or the
+“buyout” (which had been substantially completed nine months earlier) had exceeded the budget
+
+
+School Bond Construction Program #4               41                                  June 2017
+within the GMP available for subcontractor costs. The explanation stated that the contract
+permitted “rebalancing” with project contingency when subcontractor bids exceed the budgeted
+cost of work in the agreed upon GMP. The term project contingency as used in the contract
+refers to the contractor contingency within the GMP, not the owner’s project contingency. The
+rebalancing language in the contract anticipates that any actions within the GMP would result in
+no net change to the GMP. Because the support documentation does not describe a scope
+increase due to unforeseen site conditions, significant work modifications, or application of
+allowances past that which is budgeted, the written explanation provided with the change request
+does not justify approval of the change.
+
+    There was another factor that likely was the reason for the $4.75 million increase in the
+Roosevelt High School GMP. According to OSM, the prior RHS project director allegedly made
+a verbal commitment to the CM/GC that if the actual subcontractor bids after “buyout” exceeded
+the total budgeted GMP amount, the project director would transfer funds from the district’s
+contingency to the contractor contingency increasing the GMP sufficiently to cover the excess
+buyout. Although this verbal agreement is not in compliance with district policy and exceeded
+the project director’s authority, the CSM tells us he recommended this nearly $5 million GMP
+increase because he thought it was necessary to honor the verbal commitment to the CM/GC
+firm and avoid a potential claim or legal dispute that may have arisen had he not honored the
+commitment. While the CM/GC may have relied on this non-compliant verbal commitment, and
+the CSM believed it was necessary to honor it, case law in Oregon establishes that public
+agencies are not bound to honor noncompliant commitments from unauthorized agency
+personnel. The project director did not have the authority to make any single commitment in
+excess of $10,000. Further, while the CM/GC relied on this verbal commitment, Oregon case
+law establishes that the contractor is charged with knowing the authority of the public officials
+with whom it contracts to do business.
+
+    Although ostensibly the $4.75 million increase was to honor the verbal commitment of the
+project director, the actual amount necessary for excess buyout is less than $4.75 million. The
+OSM documentation states that the $4.75 million is also being used to cover current and
+estimated future change orders within the GMP (GMPCAs). OSM has gone further than
+
+
+
+
+School Bond Construction Program #4             42                                  June 2017
+honoring a verbal commitment; it has paid for costs other than subcontractor buyout which
+should have also been the risk and responsibility of the CM/GC once the GMP was executed.
+
+
+  Recommendation 7
+
+  This recommendation repeats a recommendation in the 2016 Audit. “To control costs and
+  follow best industry practice, the district should ensure that all future GMP amendments are
+  consistent with the letter and intent of applicable law and policy. Specifically, additional
+  contingency should not be added to GMP amendments unless directly related to a concomitant
+  scope increase.” In addition, we recommend for the same reasons, that the district provide
+  contractors with written notification of the current limits of authority of the district personnel
+  or consultants with whom they are in contact as part of the project, and to update these
+  notifications whenever personnel are changed.
+
+
+
+
+17. REDUCE THE IMPACT OF DESIGN AND OTHER DELAYS ON SUBCONTRACTOR BIDS AND
+    PROJECT COSTS
+
+Each of the three high school modernization projects experienced schedule delays in completing
+design phases, selecting the CM/GC, and establishing the GMP. Delays were caused by a
+number of factors including incomplete Educational Specifications, changes to the size and
+number of high school classrooms, interim estimates consistently exceeding budget targets, late
+hiring of design architects and/or CM/GC firms, and delays in reconciling estimates of the
+architects and CM/GC firms with the district budgets. These delays for each of the three CM/GC
+projects resulted in extending the date for the establishment of the GMP and the bidding of
+subcontractors into the spring or summer of summer construction start, when subcontractor bids
+are less competitive due to the active building environment. In addition, these delays reduced
+the flexibility of the district to terminate the CM/GC if a GMP could not be reasonably
+negotiated and to bid the project using a standard design-bid-build contract.
+
+
+
+
+School Bond Construction Program #4              43                                  June 2017
+  Recommendation 8
+
+  To control CM/GC project costs, OSM should develop project schedules with more time
+  contingency (“schedule float”) and start projects much earlier to ensure that the GMP can be
+  executed with sufficient time to use other contracting methodology options, if needed, and if
+  CM/GC is used, subcontracts can be bid at ideal times, such as the winter preceding the start of
+  construction.
+
+
+
+
+18. CLARIFY THE TYPES OF CHANGES THAT CONSTITUTE A CHANGE TO THE GMP
+
+The PPS CM/GC contracts for FHS and RHS contain language developed from a state of Oregon
+CM/GC contract template that states, “Notwithstanding the level of detail represented in the
+GMP Supporting Documents, the CM/GC shall represent and warrant, at the time that it submits
+the GMP that the GMP includes the entire cost of all components and systems required for a
+complete, fully functioning facility consistent with the design intent of the District and the
+Architect.”
+
+    According to the Oregon Public Contracting Coalition Guide to CM/GC Contracting, the
+concept underlying this language is that the GMP is to be a true and complete guarantee of all
+costs for the general scope at the time of the GMP The manner in which this is to be
+accomplished is by the CM/GC firm committing to be an active participant in the project during
+design, and to direct the A/E, through its relationship with the Owner, to produce drawings and
+specifications that are within the project budget. For historic renovations, active participation
+during design would involve reasonable and sufficient destructive investigation. The contractor
+contingency within the GMP is intended to:
+
+         “…cover additional development of Plans and Specifications and
+        unanticipated costs and unforeseen conditions which are properly reimbursable
+        as Cost of the Work but which are not the basis for a Change Order. For
+        purposes of use of Project’s (i.e., contractor’s) contingency, unanticipated costs
+        and unforeseen conditions include work within the scope of the Project or any
+        conditions that the parties reasonably should have anticipated might be
+        encountered during the renovation of a site or a building of a similar nature,
+        condition, and age.”
+
+
+
+School Bond Construction Program #4              44                                  June 2017
+    OSM’s program management plan reiterates the contract language and the purpose of the
+GMP:
+
+        “The owner is obligated to pay the contractor for the actual costs of
+        construction up to a certain sum (the GMP). If the construction costs exceed
+        that sum, the contractor is liable for the cost overruns.”
+
+    The proposal from the successful CM/GC firm for FHS also supports this concept of the
+GMP and how the firm will stay within the contracted GMP amount:
+
+        “While the design team has completed an exhaustive investigation of the
+        building, we do our due diligence and provide and ‘extra set of eyes.’ By
+        evaluating the design team’s findings from a fresh perspective, we will
+        determine if additional investigation is needed to find opportunities and avoid
+        surprises. Renovation projects typically encounter ‘unforeseen’ conditions that
+        can impact the project budget and schedule. The question becomes ‘was this
+        unforeseen condition unforeseeable?’…..key personnel understand the
+        meaning of a Guaranteed Maximum Price. You can rely on them to complete
+        the project within the contract amount. They guarantee it.”
+
+    Contrary to the language in the contract, and the assurances contained in their proposal, the
+CM/GC for Franklin High School did not see or foresee many hidden conditions in the historic
+buildings to be modernized and submitted millions of dollars change requests to increase the
+GMP. To help interpret the validity of these requests, OSM requested an opinion from the
+district’s independent legal counsel. The initial written opinion from legal counsel affirmed the
+contract language that the GMP is to cover, in principle, all costs necessary to provide a fully
+functioning facility regardless of design errors or omissions of the architect. The legal opinion
+also reaffirmed, in principle, the contract language that increases to the GMP are only
+appropriate for scope increases or unforeseen site conditions, not unforeseen building conditions.
+The legal opinion stated that unknown or uncertain conditions would be expected for historic
+renovation, and would, by contract, need to be covered by the contingency within the GMP.
+
+However, as reported to us by OSM, when specific problems were discussed with the contractor,
+the legal opinion provided to the district by its own counsel was less firm than that of the initial
+written opinion. As a result, OSM program management has approved many of change requests
+for “unforeseen building conditions” as increases to the GMP, both for Franklin and Roosevelt
+
+
+
+School Bond Construction Program #4              45                                   June 2017
+high schools. OSM cites a number of additional reasons for making these approvals including
+unforeseen hazardous materials in the historic buildings to be renovated, lack of clarity in the
+documents, and fairness to the CM/GC contractors. OSM reports that with the differing legal
+opinions it has been difficult for OSM to enforce the contract provisions as written. We
+recommended in the 2016 Audit that the district provide examples of what is intended to be
+included within the GMP at the time the GMP is established (or even in the original contract
+documents) to provide a clearer framework for dealing with changes on future CM/GC projects
+and to better support the district in enforcing contract language.
+
+    OSM believes that the CM/GC for GHS is more heavily invested in and involved with the
+destructive investigation of the existing school. Both the OSM senior director and the project
+director tell us that the GHS CM/GC will, as a result, develop a GMP that is more inclusive than
+that at FHS or RHS of actual building conditions. We believe the combination of clearer and
+more specific GMP language about what changes will be included within the GMP, combined
+with OSM’s description of the CM/GC being more involved with destructive investigation
+during preconstruction, could reduce contested change requests due to unforeseen building
+conditions.
+
+
+  Recommendation 9
+
+  In order to reduce substantial financial risk and cost, we recommend that the district hold the
+  CM/GC accountable for constructing a fully functioning facility for the guaranteed maximum
+  price. To minimize the potential for legal challenge in holding the CM/GC accountable to this
+  standard, we repeat the recommendation from the 2016 audit that the district should provide
+  sufficient and clear representative examples of the types of changes that it will expect the
+  CM/GC to cover in the GMP.
+
+
+
+
+19. MANAGING SUBCONTRACTOR BID ALTERNATES
+
+Typically the cost proposal for the GMP for a CM/GC project exceeds the owner’s budget and
+the A/E’s estimate, particularly in a hot market. To bring the project within budget, the owner
+must agree to value engineering recommendations and some scope reduction. The intent of the
+owner is that should the buyout be less than that included as budget within the GMP, and/or if
+
+
+School Bond Construction Program #4              46                                 June 2017
+there is contractor contingency remaining, and/or if the owner increases the project budget, the
+owner can potentially buy-back items that have been deleted at the time of the GMP. It is easiest
+to buy-back finishes and ancillary systems. It is difficult to impossible to change the major
+design of the building once construction has begun. Examples of items that are typically on a
+potential school buy back list are reduced landscaping, reduced site lighting, reduced or modified
+athletic facilities, and modified central mechanical/electrical equipment.
+
+    Certain items that were removed from the Franklin High School scope during value
+engineering have been bought back to the project as funds were added to the budget. Items
+included kitchen equipment, a chiller, solar panels, covered walkway, and bleachers. In many
+cases, these buy-backs cost 50 percent more than the original cost “savings.”
+
+
+  Recommendation 10
+
+  In order to reduce financial risk, identify at the time of the GMP subcontract alternates that
+  could be added back to the project at later date at the same price.
+
+
+
+
+20. MORE TIMELY FINANCIAL AUDIT OF CM/GC COSTS
+
+PPS contracts with CM/GC firms require monthly billing for costs incurred for fees, general
+conditions, and the cost of the construction work. PPS contracts require the CM/GC to bill on a
+monthly basis against a schedule of values, much like what occurs in a more traditional design-
+bid-build project. Actual subcontractor and vendor costs are not submitted nor are they
+reviewed. Before final payment, and ideally well before that point, monthly CM/GC billings
+should be reviewed and audited to ensure that all costs billed as reimbursable are in fact
+reimbursable under the contract, that all markups comply with contractual limitations, that no
+double billings have occurred and that the contractor has not over-billed. Problems can either be
+mistakes in single billings or systematic inconsistencies. District Purchasing Rules anticipate
+that the review of billings will be performed and all reimbursable costs shall be subject to audit.
+The audit can be performed by project staff, separate district auditing staff, or an independent
+auditor. As of February 2017, OSM management has not determined how the costs of their
+CM/GC contracts will be audited.
+
+
+School Bond Construction Program #4              47                                 June 2017
+    An alternative method for auditing CM/GC contract costs would be to review the actual
+invoices and expenses to be paid each month based on actual contractor expenditures rather than
+at the end of the project. While this method would require more up-front administrative effort, it
+also mitigates a costly end-of-project audit and catches problems before they can become
+systemic issues. In addition, because of the turnover in project directors, coordinators, and
+construction managers at Franklin and Roosevelt, institutional knowledge about much of the first
+years’ billings has been lost. In that the Franklin and Roosevelt projects are nearing completion,
+the opportunity to perform monthly reviews is past, but the Grant project has not yet started
+construction and an alternate approach to auditing is feasible.
+
+
+  Recommendation 11
+
+  In order to reduce financial risk, well prior to final payment, the district should perform audits
+  of the FHS and RHS CM/GC monthly billings. For GHS, the district should evaluate the
+  effectiveness and efficiency of monthly billings against a schedule of values with
+  comprehensive audit at the end of the project, as compared with monthly billings of actual
+  costs (not-to-exceed schedule of value amounts) with minimal audit at the end of the project.
+
+
+
+
+    Oregon statute requires the district to provide written post project evaluations of public
+improvement contracts exempted from competitive bid (e.g., CM/GC projects) at the time the
+exempted contracts are completed. The evaluation requirements are delineated in statute (ORS
+279C.335) and, for FHS and RHS, district procurement policy (PPS-49-0620(3)). Among other
+factors, the evaluation is intended to assess final cost compared with that anticipated by the
+original findings in support of the exemption, and make a determination of the success of the
+project. Post project evaluations will be required for FHS and RHS, and for GHS, if it proceeds
+with CM/GC.
+
+    While not a CM/GC project, a post project evaluation will be required for Faubion. The
+general contract was procured using an exemption from competitive bidding. Although the
+project was bid, it was only bid to contractors who responded to and were approved through the
+RFQ process. As a result, the bid was not considered an open and competitive publicly
+advertised bid.
+
+
+
+School Bond Construction Program #4              48                                  June 2017
+Program and project management: strengths and opportunities for
+improvement
+
+
+
+O
+              ur review of the 2012 Bond Program over the past four years identified a number
+              strengths and opportunities for improvement in the management of the program and
+              individual projects. Overall, OSM and the district have developed and put in place a
+sound organizational structure, a set of policies and procedures, a strong electronic document and
+process management system in e-Builder, and effective and thorough financial accounting and
+reporting system for tracking expenditures. As of the completion of our audit work, no legal
+actions have been taken against the district by contractors or consultants performing bond work.
+OSM could strengthen its program management by reducing turnover, controlling administrative
+and management overhead costs, and improving compliance with internal policies and procedures.
+The sections that follow discuss these management issues and provide recommendations to
+consider as the program moves forward, and to potentially prepare for a possible second bond
+program if approved by voters.
+
+
+21. ORGANIZATIONAL STRUCTURE IN PLACE BUT STAFF TURNOVER INCREASED OVERHEAD
+    COSTS
+
+The OSM organizational structure has provided a framework for managing the 2012 Bond
+Program. The blended organizational structure composed of permanent OSM employees, assigned
+staffing from PPS finance, purchasing, and accounting departments, and contracted personnel from
+Heery International consulting firm has provided a management and administrative platform to
+carry-out the program over the past four years. Management has been diligent to ensure OSM
+personnel and consultants paid for out of the bond only work on activities clearly associated with
+the bond, although some adjustments have been needed at times to ensure staff costs are
+appropriately charged to the bond.
+
+    While district payroll and benefits costs declined over the past four years of the program due
+to turnover in OSM employees, materials and services costs increased. Program management
+materials and services increases are attributable to several factors. First, OSM includes certain
+items in their program management budget that typically would be budgeted in the program and
+project construction budget. For example, an intergovernmental agreement with Portland Office
+
+
+
+School Bond Construction Program #4              49                                 June 2017
+of Transportation for street and other improvements related to bond project activities ($5 million)
+and establishment of the Owners Controlled Insurance Program ($2.5 million) for construction
+contracts. These costs contribute to the increase in program management expenses but are not
+related to program administrative overhead.
+
+    Costs have also increased due to bond issuance expenses for bond sales ($2.6 million), and
+the growth in contracted program and construction management assistance ($2.2 million).
+
+    As shown in the tables below, overall Bond program management costs have increased by 25
+percent from $30.7 million originally to an estimated final cost of $38.4 million as of April 2017.
+Material and services portion of the budget grew by 73 percent but the direct costs for staff
+salary and benefits decreased by 11 percent. Within the material and services component of bond
+program management costs, external program management services provided by Heery
+International is the largest cost item and has increased by over 34 percent from its original
+budget.
+
+    The district estimates its program and project management costs as 5.2 percent of the total
+bond program budget. In comparison, the Beaverton School District in its management of an
+approximate $750 million bond is estimating its program and project management costs as 3
+percent of the total bond program cost. There are similarities and differences to be considered in
+comparing the two programs. Similarities are both school districts use project directors/managers
+and project coordinators for their major projects. Differences include a higher salary scale at
+PPS, a greater requirement for community participation at PPS, and at PPS, the use of a PM/CM
+firm (Heery) which provides a CM for every major project as well as the program manager
+position. In comparison, the BSD has neither a CM assigned to every project nor a consultant
+program manager. Heery personnel are approximately twice the “loaded” cost of comparable
+internal PPS staff.
+
+
+
+
+School Bond Construction Program #4              50                                 June 2017
+Figure 11 OSM 2012 Bond Program management costs: Eight-year bond program
+
+                                                                                            %
+                                                                Original      Est. at   increase/
+                                                                budget      completion (decrease)
+DISTRICT ADMINISTRATION (salary, benefits.
+                                                               $17.4 m         $15.4     (11%)
+overhead, professional development)
+
+MATERIALS AND SERVICES
+                                                               $13.3m         $23.0 m     73%
+(consulting, materials, services, Insurance, supplies)
+
+TOTAL                                                           $30.7         $38.4 m     25%
+
+
+Source: 2012 Bond Program Cost Summary – April 2014 and April 2017
+
+
+
+
+Figure 12 Major categories of Bond Program materials and supplies
+
+                                          Original          Estimated          %
+LINE ITEM                                 budget            final cost     increase
+
+External Program Management
+                                        $6,500,000        $8,725,000         34%
+(PM/CM)
+PBOT IGA                                $5,000,000        $5,000,000           -
+Owner controlled Insurance
+                                        $2,500,000        $2,500,000           -
+Program (OCIP)
+Bond issuance costs                     $2,600,000        $2,600,000           -
+
+Audit services                          $1,200,000        $1,200,000           -
+
+Computer software                         $893,000           $962,000         8%
+
+Local meetings – Non-instructional
+                                          $350,000           $350,000          -
+staff development
+Traffic engineering services              $300,000           $300,000          -
+
+Source: 2012 Bond Program Cost Summary – April 2014 and April 2017
+
+
+
+    As discussed below, factors contributing to the increase in external program management
+costs have been the significant turnover in program and project management positions, the lack
+of career ladder and promotional opportunities at the project management level, and reliance on
+contracted positions to address vacancies.
+
+
+
+
+School Bond Construction Program #4                    51                                  June 2017
+OSM management and project staff turnover
+The Bond Program experienced complete turnover in high school and IP program and project
+management positions since the start of the bond: The original Chief, School Modernization, the
+original senior director, the director in FAM assigned to IP coordination, the original project
+directors for FHS, RHS, GHS, and the original project manager for IP work, (who became the
+GHS project director). The operations manager has been promoted to fill the position of senior
+director, who, along with the contracted program manager, provides some continuity. Other
+management personnel related to the program have also left the district, including the
+superintendent, the purchasing and contracting director, and the FAM director.
+
+    As we discussed in our 2016 audit report, we believe that turnover in top-level management
+and project management positions at critical moments in the construction of major projects adds
+risk to the overall program and increases the chance of reduced oversight, delayed decision
+making, and inconsistent policy direction.
+
+Reliance on contracted employees to fill positions
+With the departure of OSM project management employees, OSM filled some of the vacancies
+with contracted employees from Heery International because of the inability of OSM to recruit
+and hire new employees. Amendments to the Heery contract included positions to serve as the
+project directors at Franklin and Grant High Schools, the project manager for the summer
+Improvement Projects, and the project coordinator at Roosevelt High School. The Bond
+Accountability Committee acknowledged in a memo to the Board of Education that the district
+was fortunate to have the contract with Heery to backfill vacant positions. There is, however,
+significant financial impact to using Heery personnel rather than internal staff.
+
+    The contract amendment with Heery by which Heery has provided interim support for
+project director and project manager, does not identify Heery’s role in providing directives to
+contractors and consultants that involve cost. As a practical matter, Heery staff has been signing
+off on directives in e-Builder at the same level of authority as that given to district project
+director/manager staff. OSM informs us that they have amended the contract to address these
+responsibilities for the Grant High School project director.
+
+
+
+
+School Bond Construction Program #4               52                                   June 2017
+  Recommendation 12
+
+  To provide for greater accountability in financially committing the district, the contract with
+  Heery should be amended to reflect the level of financial authority that Heery is accepting and
+  for which it will be accountable when providing staff that will financially obligate the district.
+
+
+Career ladder for project coordinator positions
+A district project coordinator (PC) is assigned to every major project. The project coordinator
+job description states that the position provides generalized support to the project director or
+manager during the life of the project. In our view, this suggests that the PC could serve in the
+functional capacity of assistant PD/PM. However, in practice, the PC duties have involved
+maintaining e-Builder documents, purchasing and procuring of furniture/fixtures/equipment
+(FFE), coordinating move-in and relocation from and to permanent and temporary sites, and
+communicating with the school staff. The PC staff have not been trained or prepared to take
+over the position of PD/PM as project directors or managers leave the organization or transfer to
+other positions. According to the Chief, School Modernization, he envisions that the PC
+positions in the future could fulfill a role similar to that of a project engineer for a large general
+contractor and deal directly with complex elements of projects so that they would generally be
+groomed to be project managers. We support the CSM in his belief that changing the work
+performed by the PC could make staffing more productive and efficient. We also believe that
+preparing PCs for the position of PD/PM could lead to promotion from within when vacancies
+occur at the PD/PM level, and could reduce the need to hire costly external consulting staff for
+vacant PD/PM positions.
+
+
+  Recommendation 13
+
+  In order to control bond program management costs, improve management continuity, and
+  increase productivity, we recommend that the district and OSM reduce turnover in critical
+  program and project management positions. An assessment by human resources of those
+  conditions that led to the turnover and have made it difficult to recruit new employees in these
+  positions might provide insights on ways to avoid critical vacancies in the midst of
+  construction if the next bond is approved by voters. OSM should also provide a career ladder
+  and promotional opportunities when vacancies occur in order to avoid costly contracted
+  services when filling program and project position vacancies.
+
+
+
+School Bond Construction Program #4               53                                    June 2017
+22. EFFECTIVE FINANCIAL ACCOUNTING AND PURCHASING SYSTEMS
+
+The 2012 Bond program has benefited from effective district-wide financial, accounting, and
+purchasing systems. These systems provide reasonable assurance that bond program spending is
+reviewed and recorded properly, and that purchasing and contracting activities are fair and
+transparent. Due to their organizational placement, they provide independent assessment of
+budgeting, accounting, and purchasing procedures.
+
+    Our review of a sample of project invoices over the past four years shows that most payments
+were processed in accordance with established processes, received appropriate approvals, and
+were timely paid. Currently, pay applications for contractors are being paid within 30 days. We
+have made some recommendations to ensure that change orders receive authorizations before
+work proceeds and that changes are approved by individuals with the proper level of
+authorization. OSM has concurred with these recommendations, and the recommendation has
+mostly been implemented insofar as construction contracts are concerned. There remains non-
+compliance for some significant amendments to consultant agreements, as noted elsewhere in
+this audit.
+
+    We have also found that OSM staff that has been charged to the bond program has been
+working on bond authorized activities. OSM made some adjustments in 2015 to reassign a few
+positions to general fund support to ensure their time working on non-bond activities was not
+paid for by the bond. We understand from statements of the Senior Director that some positions
+and consultant costs this past year may have worked at times on the planning and preparation for
+the next bond scheduled for voter authorization this May. This time should not be charged to the
+2012 bond and OSM should identify the amount of time spent and reverse these charges in an
+end of year journal entry.
+
+    Formal procurements for Bond 2012 design and construction efforts are managed and
+administered by the district’s Purchasing & Contracting Department (P&C). These formal
+procurements include Invitation to Bid (ITB) for design-bid-build (d-b-b) public improvement
+contracts; Request for Proposal (RFP) for CM/GC public improvement contracts; and RFP for
+consultant contracts for architecture, engineering, and categories of contracts called related
+
+
+
+
+School Bond Construction Program #4              54                                 June 2017
+services. P&C also takes the lead on preparing proposed exemptions and findings for alternative
+contracting.
+
+    We reviewed a sample of formal procurements over the past four years and have found that
+in most cases they have been conducted in accordance with state law and district policies. We
+have made several recommendations in prior audits to ensure more consistency with state model
+rules and guidance, to improve selection protocols for scoring proposals and bids, and to
+strengthen the wording and provisions of contract language. P&C has concurred with these
+recommendations.
+
+    We recommended in the 2015 audit that OSM should ensure that change order work occur
+only upon appropriately authorized change order execution. Purchasing and Contracting states
+that it is the district’s intent, through BOE policy revision in March of 2016, to ensure that all
+contract amendments and change orders are appropriately authorized prior to execution.
+
+    We reviewed change orders and contract amendments for all major projects and for the most
+part, found far greater compliance with this recommendation and district policy. We did find
+several instances in the past year where work that exceeded contract scope was begun by
+consultants prior to authorization by the district. In December, 2016, an amendment was signed
+by Purchasing and Contracting for $193,302, for additional services for the FHS A/E that had
+mostly already occurred and been completed. The March 2017 PSU for GHS states that the
+district should expect a request from the architect for GHS for nearly $1 million for additional
+services for work that is already occurring upon direction from OSM, but without appropriate
+change order authorization from Purchasing and Contracting. There is a process in place for
+authorizing work to proceed immediately when the terms and costs may need to be further
+negotiated – the ODA (Owner Directive Authorization). It has been used by OSM project
+management for consultants (e.g., at Faubion) but consistent compliance remains a concern.
+
+    This past year we also identified another selection practices that could help the district better
+manage contractor fees in future CM/GC selections. Specifically, our review of the GHS request
+for proposal for CM/GC services found that the method for scoring proposals does not separate
+the scoring of construction fee from the estimated total cost of work so that for the purposes of
+scoring the proposal, fee is virtually a non-factor in selection. Because the cost of work is such a
+
+
+School Bond Construction Program #4              55                                   June 2017
+large number, significant differences in fee proposal have little or no impact on points awarded
+in the selection process. Consequently, it can allow successful firms to submit excessively large
+fees with negligible consequence in the scoring or selection of the firms’ proposals. While
+CM/GC fee should not be the sole determinant in CM/GC selection, and the highest priced firm
+may manage a project such that it results in the lowest cost to the owner, state and local policy
+guide agencies to avoid excessive fees and cost and pay the least price for the project.
+
+    In addition, the request for proposal for GHS CM/GC services states that contract negotiable
+items include fees for CM/GC services for pre-construction, construction, and post-construction
+fees. OSM and P&C accepted, without change, the fees submitted by the selected firm with no
+negotiation with the successful proposer. As a matter of compliance with the RFP provisions
+and effective project management, PPS should endeavor to review, and negotiate where
+appropriate, all proposed costing information, including hourly rates, estimated hours, corporate
+profit, to ensure consistency with usual and customary rates charged by the proposer for similar
+projects, as well as industry norms.
+
+
+  Recommendation 14
+
+  To better control the fees paid to CM/GC firms in the future, we recommend that P&C revise
+  the methodology in the competitive selection process to delete evaluation of the cost of the
+  work in price comparison, and only score the proposed fees. In addition, OSM and P&C
+  should endeavor to review and negotiate corporate profit and overhead rates with CM/GC
+  firms to ensure the costs are within industry norms and are usual and customary with rates
+  charged by the proposer in similar projects.
+
+
+
+
+23. OSM POLICIES AND PROCEDURES IN PLACE BUT NOT UPDATED OR USED FULLY
+
+In October 2013, the OSM developed and published a Program Management Plan that set a
+framework on how the 2012 Bond Program was to be managed. The PMP addresses a broad
+range of topics including program goals and objectives, program and project management
+responsibilities, procurement protocols, scheduling methods, and construction quality. The PMP
+was updated and revised in 2014 and 2015 to add additional guidance documents such as
+Standard Operating Procedures (SOPs), Educational Specifications, communication plans, and
+
+
+School Bond Construction Program #4             56                                  June 2017
+safety and quality policies. In addition, the PMP includes by reference other guidance to help
+project managers including district design and maintenance standards and guidelines for using e-
+Builder the automated project management software tool employed by OSM. OSM provided
+considerable training on the PMP throughout 2014.
+
+    Over the past four years we have made additional recommendations to OSM to further
+enhance the PMP and SOPs. OSM has taken action on many of these recommendations.
+However, updates to address many of the specific elements of the SOP for CM/GC contracting
+have not occurred. In addition, a significant element of the PMP has not been implemented as
+envisioned by the initial and subsequent PMP updates. The Project Team Management Plan was
+required to be developed by each project to guide the implementation of the project early in the
+design phase. PTMP requirements include schedule, budget, scope, and quality control. The
+PTMP also requires project risk evaluation, prevention, and mitigation. Each of our three prior
+audits recommended that the district immediately develop and implement the PTMP for each
+project. The district concurred with this recommendation in each audit. It was a repeat finding
+and recommendation because, despite the recommendations of the three audits, no PTMP had
+been developed or implemented.
+
+    The PMP was updated in 2014 to state that the construction manager would develop the
+PTMP for each major project. OSM concurred with our recommendation in the 2015 Audit that
+key elements of the PTMP be developed by project/program staff prior to design, well before the
+CM is hired, to ensure adequate development of the PTMP to guide design – budget, scope, and
+schedule.    In the 2016 Audit, to address significant budget and schedule concerns, we
+recommended that OSM program management provide the PTMP template for each type of
+major project. Although OSM concurred with the recommendation, the template has still not
+been produced. As a result, there has been no PTMP in place to guide the design process for
+any major project. As of March 1, 2017, the construction manager for the Grant High School
+modernization project has developed a partial draft PTMP, which however, will not fully address
+planning and design objectives and strategies for the project either in content or in timing.
+
+    Although the PMP is intended to be updated on an annual basis by Heery, as of March 1,
+2017, the last update was in July of 2015. Discussion with staff has indicated that the PMP has
+
+
+
+School Bond Construction Program #4              57                                  June 2017
+become too lengthy to be functionally usable. We have further discussed with OSM developing
+one page outlines and summaries that provide key information and directives and indicate where
+to look if additional detailed information is required.
+
+
+  Recommendation 15
+
+  In order to provide a strong foundation for the management of the next bond program, OSM
+  should update and revise the existing PMP/SOP. Consider providing one page summaries of
+  key items to make the PMP/SOP a more user-friendly document for OSM staff. Templates for
+  PTMPs for major projects should be developed and included with the PMP/SOP. The PTMP
+  templates should be developed by OSM program management on the basis of lessons learned,
+  key audit recommendations, best practices, compliance issues, and the like.
+
+
+
+
+24. PUBLIC REPORTING AND ACCOUNTABILITY MECHANISMS IN PLACE
+
+Overall, OSM has developed a set of public reporting and accountability systems that provide the
+public, the school board, and other users with understandable and consistent information on the
+status of the bond program. In particular, periodic status reports to the BOE and to the Bond
+Accountability Committee have provided useful information on accomplishments, schedule and
+budget status. The e-Builder project management software has also provided a wealth of
+information on the program and individual projects to permit ongoing audit and analysis of bond
+activities. In addition, as previously mentioned, the Balanced Scorecard reporting has also
+provided performance information on schedule, budget, equity, and stakeholder perspectives.
+
+    OSM has also taken steps to address a weakness in their monthly reporting of program costs.
+Specifically, prior to 2016, project cost summaries developed by OSM did not include potential
+costs or commitments that were likely to occur but were not in final approved form: for example,
+change requests submitted by contractors that were likely to be approved but had not been
+negotiated or approved by OSM management. In addition, the OSM reporting protocol assumes
+that project contingencies remaining in each budget would not be spent at project completion. As
+a result, monthly reports understated estimated spending and overstated the level of resources
+available to the project.
+
+
+
+
+School Bond Construction Program #4              58                                June 2017
+    To address this weakness, OSM included additional information in monthly project
+management reports on the estimated or forecasted commitments that were likely to be incurred.
+The reports forecasted whether the project would be over or under budget at completion. In
+addition, a new process was implemented in e-Builder (Project Statues Updates) that provided
+estimates at completion and estimated final project costs based on the best available information
+provided by the project director. These reports provide more complete and reliable information
+on whether or not projects will complete under or over budget.
+
+
+
+
+School Bond Construction Program #4            59                                 June 2017
+Goals for equity in purchasing and contracting partially met
+
+
+
+
+O
+              OSM’s performance in achieving the objectives of the school district’s Equity in
+              Purchasing and Contracting policy has been mixed. While showing improvement,
+              MWESB aspirational goals have not yet been fully met. In contrast, OSM has met
+goals for apprenticeship participation and student participation in bond activities.
+
+
+25. MWESB PARTICIPATION HAS IMPROVED
+
+OSM continues to report improvement on increasing MWESB participation toward meeting
+target aspirational goals for the business equity objective of the equity policy. As of March 1,
+2017, the percent of bond invoice payments made to MWESB owned consultants and contractors
+was 13.93 percent, less than the aspirational goal of 18 percent established by the district’s
+Administrative Directive. As shown in the table below, approximately $28.4 million in invoice
+payments have been made to firms that hold consultant and construction contracts under PPS
+Division 48 and Division 49 purchasing rules. Contractors (Division 49) submitted invoices
+totaling $183.7 million of which $23.0 million was paid to MWESB firms (12.53 percent).
+Consultants (Division 48) submitted invoices totaling $20.3 million of which $5.4 million was
+paid to MWESB firms (26.63%).
+
+
+Figure 13 Percent of bond program payments to MWESB firms (consultants and
+          contractors): April 2015 through February 2017
+
+                                                       Total       Payments to     % to
+TYPE OF CONTRACT/PURCHASE                          invoices paid   MWESB firms   MWESB firms
+
+Division 48 – A&E, survey & related services        $20,255,187     $5,393,900         26.63%
+
+Division 49 – Public Improvements                  $183,716,791    $23,026,789         12.53%
+
+TOTAL 48 and 49 contracts                          $203,971,978    $28,420,689         13.93%
+
+
+Source: OSM MWESB Invoice spreadsheet March 2016
+
+
+
+
+School Bond Construction Program #4                  60                                June 2017
+26. STUDENT PARTICIPATION WAS SIGNIFICANT
+
+    OSM achieved the student participation objective of the Equity in Purchasing and
+Contracting policy, meeting all their goals in three categories of activities. As shown in the
+figure below, for all eligible active contracts in 17,612 students participated in group activities
+such as job fairs, 1085 students participated in short-term activities such as mock interviews, and
+550 students participated in long-term activities such as internships. Overall, OSM reports that
+over 19,287 individual students were served in some way.
+
+
+Figure 14 Student participation in bond activities
+                                                 # of
+TYPE OF ACTIVITY                             participants             GOAL
+
+Group activities –
+                                               17,612              >500 students
+career fairs, guest speakers
+
+Short-term activities –
+                                                1085               >50 students
+job shadows, mock interviews
+Long-term activities –
+                                                 550               >10 students
+internships, project learning
+
+Source: OSM spreadsheet on student participation activities
+
+
+
+27. APPRENTICESHIP EXPERIENCES PROVIDED
+
+Over the past two years OSM met their objective of providing apprenticeship experiences on
+2012 bond projects. Out of a total of 1,027,138 work hours reported by contractors, 268,642
+hours were worked by apprentices (26%). Minority apprentices worked 261,291 of those hours
+or 25 percent of the total, and women workers comprised 4 percent of the total.
+
+
+
+
+School Bond Construction Program #4                           61                     June 2017
+Status of performance audit recommendations
+
+
+
+
+O
+              ver the past four years, we have made recommendations to OSM and the district to
+              improve some aspect of the 2012 Bond program management, processes, or
+              procedures. We make 15 additional recommendations in this report.
+
+    We have made over 77 recommendations to OSM and the district, in 2014, 2015, and 2016.
+See Appendix B. OSM has taken action on over 57 of the recommendations, implementing 75
+percent of the total recommendations and still working on fourteen. OSM did not concur with
+six (8%) of the recommendations (which are consequently reported as complete). Three of the
+recommendations with which the district concurred and reported as complete, are not fully
+complete, and need further action as discussed below.
+
+      The section below briefly discusses those recommendations from the 2014, 2015, and 2016
+audits that still require action by OSM.
+
+
+2014 Audit recommendations
+The OSM last updated the 2014 Audit recommendations in the April 2016 OSM report to the
+BAC. That update lists two items as still in progress, Recommendations #17 and #18. Both of
+these recommendations appear to be complete. OSM did not concur with Recommendation #3 to
+develop an annual work plan for the Heery consulting firm that would define work priorities,
+tasks, and deliverables, and that would establish an objective method for assessing the
+consultant’s performance. In all, approximately 25 of the total 27 recommendations in the 2014
+audit report were implemented.
+
+    Recommendation #20 - OSM concurred with this recommendation and reported that it was
+    complete. The recommendation called for completion of program SOPs and the preparation
+    of project plans, by the end of 2014, for each bond project. While SOPs were complete, OSM
+    has not developed project plans (now called Project Team Management Plans, PTMPs), for
+    any of the bond projects. These plans were intended by management to provide specific
+    direction on critical project goals and activities, control budget and schedule, to provide
+    guidance on quality management, and to identify and mitigate risk.
+
+
+
+
+School Bond Construction Program #4              62                                  June 2017
+2015 Audit recommendations
+The district concurred with 25 of 26 recommendations. As of the January OSM report to the
+BAC, action on six recommendations is still in progress and not yet complete. Of the remaining
+20 that are reported as complete, we provide the following comment on one recommendation. In
+all, 19 of 26 recommendations have been implemented in full.
+
+    Recommendation #15 – This recommendation contained two parts, one of which is not
+    complete. The incomplete part recommends that OSM provide guidance on the specific
+    green energy technologies that are preferred by the district. The project directors for the
+    major projects tell us that they have been given no guidance on what technologies could be
+    employed to meet the requirement of 1.5 percent of the contract amount for green
+    technology. As a result, all the projects have used the default option of active solar panels.
+    Active solar panels may or may not be the most effective and cost efficient options for the
+    district.
+
+
+2016 Audit recommendations
+OSM concurred with 19 of 24 recommendations contained in the audit report. Subsequently,
+OSM told us that they now concur with Recommendation #4 that they had previously not
+concurred with and will change that non-concur response to a concur. As a result, we expect
+future reporting to show concurrence with 20 of the 24 recommendations. As of January, 2017,
+13 of the 20 recommendations that OSM concurred with are fully complete. Work is in progress
+for seven of the recommendations.
+
+The following item is reported as complete, for which we provide comment, in that it is not
+complete.
+
+    Recommendation #3 - This recommendation was intended to address an increase in the
+    Franklin High School GMP that was not compliant with applicable law and policy.
+    Specifically, an increase in the contractor’s contingency without a concomitant project scope
+    increase. Although OSM concurred with this recommendation in the May 2016 report, the
+    district executed a similar non-compliant change in the Roosevelt GMP in June of 2016. We
+    make the recommendation again in this audit report.
+
+
+
+School Bond Construction Program #4              63                                  June 2017
+Future performance audits of the bond program
+Although the district has not concurred with or fully implemented all the recommendations we
+have made in our audits over the past three years, the district has made efforts to address the
+recommendations and has worked with us in a cooperative and professional manner. We
+appreciate the considerable time that staff and management have made available to the audit
+process. We have greatly benefited from access to documents, e-Builder, and project
+construction sites. We encourage the district to continue annual performance audits of future
+bond program(s) in order to improve program efficiency and effectiveness, and provide elected
+officials and the public with independent information on the status of the program in addressing
+goals and completing projects on-schedule and on-budget. We also believe that to ensure greater
+independence and to strengthen the appearance of objectivity, future performance audits report to
+organizational level outside of the direct management of OSM. For example, reporting directly
+to the Board of Education, the Superintendent, or the Deputy Chief Executive Officer would
+improve the independence of the performance audit process.
+
+
+
+
+School Bond Construction Program #4              64                                 June 2017
+                        RECOMMENDATIONS
+
+
+    RECOMMENDATION 1 (p. 20)
+    In order to reduce costs for future bond projects we recommend that utilities for unoccupied
+    sites should be paid for by the contractor. Unoccupied sites would include high school
+    replacement, as well as high school full modernization if the site is fully unoccupied.
+
+    RECOMMENDATION 2 (p. 32)
+    In order to reduce financial risk to future bond programs, if new conditions or needs require
+    changes in planned scopes, the district should ensure that significant resources are available
+    within the bond program budget to address changes without significantly affecting other
+    planned projects.
+
+    RECOMMENDATION 3 (p. 34)
+    To potentially increase competition for OSM public improvement contracts and reduce cost,
+    OSM should continue to do outreach to general contractors, and subcontractors, on ways to
+    make OSM projects more attractive to contractors and subcontractors. In addition to outreach
+    to individual contractors, the Purchasing and Contracting department should consider
+    conducting focus groups with general contractors, to determine why competition has been
+    limited, and how competition for, and participation in PPS projects can be increased.
+
+    RECOMMENDATION 4 (p. 37)
+    In order to reduce financial risk, OSM should re-evaluate its approach to BIM and develop a
+    model for design documentation that is consistent with bond resources and future FAM
+    planning and resources.
+
+    RECOMMENDATION 5 (p. 39)
+    In order to reduce financial risk and improve compliance with state and local policies, all
+    proposed changes to originally executed contracts and GMP amendments should be clearly
+    noted and fully reviewed and approved by the district Purchasing and Contracting division and
+    by independent legal counsel prior to final execution of the contract.
+
+    RECOMMENDATION 6 (p. 40)
+    In order to reduce unnecessary cost, OSM should consider reducing the maximum permissible
+    profit and overhead percentages for change orders in the Grant High School GMP amendment.
+
+
+School Bond Construction Program #4             65                                  June 2017
+    OSM should also control the level of profit and overhead for change orders in future bond
+    program contracts.
+
+    RECOMMENDATION 7 (p. 43)
+    This recommendation repeats a recommendation in the 2016 Audit. “To control costs and
+    follow best industry practice, the district should ensure that all future GMP amendments are
+    consistent with the letter and intent of applicable law and policy. Specifically, additional
+    contingency should not be added to GMP amendments unless directly related to a concomitant
+    scope increase.” In addition, we recommend for the same reasons, that the district provide
+    contractors with written notification of the current limits of authority of the district personnel
+    or consultants with whom they are in contact as part of the project, and to update these
+    notifications whenever personnel are changed.
+
+    RECOMMENDATION 8 (p. 44)
+    To control CM/GC project costs, OSM should develop project schedules with more time
+    contingency (“schedule float”) and start projects much earlier to ensure that the GMP can be
+    executed with sufficient time to use other contracting methodology options, if needed, and if
+    CM/GC is used, subcontracts can be bid at ideal times, such as the winter preceding the start
+    of construction.
+
+    RECOMMENDATION 9 (p. 46)
+    In order to reduce substantial financial risk and cost, we recommend that the district hold the
+    CM/GC accountable for constructing a fully functioning facility for the guaranteed maximum
+    price. To minimize the potential for legal challenge in holding the CM/GC accountable to this
+    standard, we repeat the recommendation from the 2016 audit that the district should provide
+    sufficient and clear representative examples of the types of changes that it will expect the
+    CM/GC to cover in the GMP
+
+    RECOMMENDATION 10 (p. 47)
+    In order to reduce financial risk, identify at the time of the GMP subcontract alternates that
+    could be added back to the project at later date at the same price.
+
+    RECOMMENDATION 11 (p. 48)
+    In order to reduce financial risk, well prior to final payment, the district should perform audits
+    of the FHS and RHS CM/GC monthly billings. For GHS, the district should evaluate the
+    effectiveness and efficiency of monthly billings against a schedule of values with
+    comprehensive audit at the end of the project, as compared with monthly billings of actual
+    costs (not-to-exceed schedule of value amounts) with minimal audit at the end of the project.
+
+
+
+School Bond Construction Program #4              66                                  June 2017
+    RECOMMENDATION 12 (p. 53)
+    To provide for greater accountability in financially committing the district, the contract with
+    Heery should be amended to reflect the level of financial authority that Heery is accepting and
+    for which it will be accountable when providing staff that will financially obligate the district.
+
+    RECOMMENDATION 13 (p. 53)
+    In order to control bond program management costs, improve management continuity, and
+    increase productivity, we recommend that the district and OSM reduce turnover in critical
+    program and project management positions. An assessment by human resources of those
+    conditions that led to the turnover and have made it difficult to recruit new employees in these
+    positions might provide insights on ways to avoid critical vacancies in the midst of
+    construction if the next bond is approved by voters. OSM should also provide a career ladder
+    and promotional opportunities when vacancies occur in order to avoid costly contracted
+    services when filling program and project position vacancies.
+
+    RECOMMENDATION 14 (p. 56)
+    To better control the fees paid to CM/GC firms in the future, we recommend that P&C revise
+    the methodology in the competitive selection process to delete evaluation of the cost of the
+    work in price comparison, and only score the proposed fees. In addition, OSM and P&C
+    should endeavor to review and negotiate corporate profit and overhead rates with CM/GC
+    firms to ensure the costs are within industry norms and are usual and customary with rates
+    charged by the proposer in similar projects.
+
+    RECOMMENDATION 15 (p. 58)
+    In order to provide a strong foundation for the management of the next bond program, OSM
+    should update and revise the existing PMP/SOP. Consider providing one page summaries of
+    key items to make the PMP/SOP a more user-friendly document for OSM staff. Templates for
+    PTMPs for major projects should be developed and included with the PMP/SOP. The PTMP
+    templates should be developed by OSM program management on the basis of lessons learned,
+    key audit recommendations, best practices, compliance issues, and the like.
+
+
+
+
+School Bond Construction Program #4              67                                  June 2017
+School Bond Construction Program #4   68   June 2017
+                 MANAGEMENT RESPONSE
+
+
+
+
+School Bond Construction Program #4   69   June 2017
+School Bond Construction Program #4   70   June 2017
+School Bond Construction Program #4   71   June 2017
+                                      APPENDIX A
+
+            Extended general conditions provision in CM/GC contracts
+
+The industry standard is that general conditions work (which includes the contractor’s cost of site
+supervision, job trailer, etc.) is negotiated at the time of the GMP as either a lump sum or NTE
+amount. (Occasionally the general conditions cost is provided with the proposal in response to
+the original RFP, if the projects scope and schedule are well defined at the outset). It is
+anticipated that change order work, especially for modernization projects, will occur and will
+normally be processed and administered by the CM/GC. Typically unless a specific change
+order or group of change orders requires substantially more site supervision for a specific period
+of time, the general conditions cost within the GMP is not modified. If the project time is
+extended, then general conditions costs would be increased commensurate with the work
+required due to the change order(s) that increases the contract time.
+
+    The substantial completion date for FHS was extended due to weather delays and disruptions
+in phasing attributable to hazardous materials and other unforeseen conditions. For these
+changes the CM/GC firm has been given specific increase in their lump sum general conditions
+amount related to the staffing and logistics commensurate with the additional time.
+
+    At the time the GMP was negotiated, the district inserted a clause within the contract that
+gives the CM/GC firm 7 percent of the value of each change request for extended general
+conditions work, for all change requests. The significance of this provision is that by the
+completion of the project, the contractor will be paid an additional approximate $1M, over and
+above the industry standard. Current OSM program management staff does not know the
+specifics of why this clause was inserted in the contract. The director of Purchasing and
+Contracting says that the clause was not in the original contract nor was it in the version of the
+draft GMP contract amendment that was sent to outside legal counsel for review.
+
+    We did an analysis with the FHS PD to determine to what extent, if any, the actual general
+conditions of the CM/GC for FHS have been increased with respect to the personnel and other
+
+
+
+School Bond Construction Program #4              A-1                                 June 2017
+costs which became the basis for the lump sum amount for the general conditions in the GMP.
+Some positions anticipated in the lump sum general conditions are no longer on site to the degree
+stated in the GMP (e.g., senior project manager, safety manager). On the other hand, other
+positions have additional personnel working on the site. The district program manager
+participated in the review and made the statement that it looks more or less like it balances out
+(i.e., current lump sum general conditions site personnel is more or less comparable to that which
+was included with the GMP amendment). To the degree that we have performed this review, we
+concur. What this indicates is that the district is getting more or less the value it anticipated from
+the lump sum general conditions when the GMP was negotiated. What it further suggests is that
+the district has not received much, or any, of the value of the additional $1 million it has given
+the contractor, ostensibly for extended general conditions during the course of the project. The
+RHS CM/GC contract has a similar provision, which has resulted in additional cost to that
+project.
+
+
+
+
+School Bond Construction Program #4              A-2                                  June 2017
+                                      APPENDIX B
+
+                             STATUS OF CORRECTIVE ACTIONS:
+                          2014, 2015, 2016 Audit Recommendations
+
+
+
+
+School Bond Construction Program #4        B-1                     June 2017
+School Bond Construction Program #4   B-2   June 2017
+                                                         2014 Performance Audit Recommendations
+       #   Recommendation                                                            Response              Status
+       1   Update the Program Management Plan                                        Concur with Comment   Complete
+       2   Evaluate the current project scheduling process                           Concur                Complete
+       3   Annual work plan for Heery                                                Nonconcur             Complete
+       4   Improve the Balanced Scorecard                                            Concur/Nonconcur      Complete
+       5   Better match the AG’s Model Public Contracts Rules                        Concur with Comment   Working
+       6   Consider adopting the Attorney General’s Model Contracting Rules          Concur                Complete
+       7   Consider increasing the change order authority                            Concur with Comment   Complete
+       8   ITB language and unit prices                                              Concur                Complete
+       9   Lowest responsible bid will be based upon Base Bid and Alternatives       Concur                Complete
+       10 Specify a maximum allowable profit & overhead for Change Order pricing     Concur with Comment   Complete
+       11 Revise RFP ranking methodology                                             Concur with Comment   Complete
+       12 RFP scoring guidelines for specific categories                             Concur                Complete
+       13 Consider increasing the share of deductible per Builders Risk occurrence   Concur with Comment   Complete
+       14 CM/GC services RFP revisions                                               Concur                Complete
+       15 More proscriptive guidelines for the CM/GC to procure subcontracts         Concur                Working
+       16 Clarify GMP cost refinements                                               Concur                Complete
+       17 Clarify District intent for P&OH to be allowed to the CM/GC for changes    Concur with Comment   Working
+       18 Improve the efficiency of the master planning and design efforts           Concur                Working
+       19 Complete PPS Design Standards and Guidance                                 Concur                Complete
+          Project plans and SOPs be developed and implemented by the end of
+       20                                                                            Concur                Complete
+          calendar year 2014
+       21 e-Builder filing and indexing                                              Concur                Complete
+       22 Streamlined RFI steps                                                      Concur with Comment   Complete
+       23 Validate PCO process before IP 2014 change order work proceeds             Concur with Comment   Complete
+       24 Responsibility by Participant Matrix                                       Concur                Complete
+       25 PeopleSoft & e-Builder compatibility                                       Concur                Complete
+       26 Update and revise the bond communication plan                              Concur                Complete
+       27 Improve public engagement                                                  Concur with Comment   Complete
+
+                  This Report 96% Complete – Last Report 96% Complete
+                                                          January 2016                                                 40
+
+
+
+
+School Bond Construction Program #4                           B-3                                          June 2017
+                                                                 2015 Performance Audit Recommendations
+
+#                                          Abbreviated Recommendation                                                      Response       Status
+1 OSM should ensure that change order work occur only upon appropriately authorized change order execution        Concur                Working
+ 2 Streamline the submittal process on e-Builder                                                                  Concur                Complete
+ 3 Incorporate appropriate design recommendations from IP lessons learned                                         Concur                Complete
+ 4 Develop plans for utilizing available contingencies and reserves                                               Concur with comment   Complete
+ 5 Establish written policies and procedures in the SOP pertaining to GMP spending                                Concur with comment   Complete
+ 6 Consider increasing the funding for master planning                                                            Concur with comment   Complete
+ 7 Fully involve user groups and stakeholders in updating the LRFP and Ed Specs                                   Concur                Complete
+ 8 Update the currently posted PMP                                                                                Concur                Complete
+ 9 Critical elements of the PTMP should be put in place at the beginning of each project                          Concur                Complete
+10 Only use escalation reserve to fund scope changes when escalation will not be needed for other projects        Complete              Complete
+11 OSM should continue to develop systems for uniform filing of documents in e-Builder                            Concur with comment   Complete
+12 Clarify where and when SOP requirements and procedures are proscribed for CM/GC and D-B-B projects             Concur                Complete
+   Revise the SOP to provide greater explanation of and requirements for value engineering, Project Safety and
+13                                                                                                                Concur                Working
+   Security Plans, Site Safety Plans, and project quality
+14 Update the SOP to provide more detailed and accurate information with respect to the alternative contracting   Concur                Working
+15 OSM should clarify which projects require the use of 1.5 percent for green technology                          Complete              Complete
+16 OSM should consider revising elements of the budget perspective reporting                                      Nonconcur             Complete
+17 OSM should identify opportunities for savings in payroll and management support line items                     Concur with comment   Complete
+18 OSM should consider adding specific statutory responsibility requirements to future ITBs                       Complete              Complete
+   OSM/P&C should ensure that RFPs clearly state the criteria and weighting for making a choice of one or more
+19                                                                                                                Complete              Complete
+   firms if an RFP permits one or more firms to be selected by an RFP
+20 OSM and FAM should consider internal training sessions on public contract procurement law                      Concur                Complete
+21 Begin work only with signed and executed contracts                                                             Concur                Complete
+22 OSM should remove article 19e from existing and future CM/GC contracts                                         Concur                Complete
+23 OSM should modify contract language to specify how early work may occur                                        Complete              Complete
+24 Project communication plans are to be prepared at the start of new projects                                    Concur                Working
+25 OSM and PPS academic leadership should jointly develop an involvement plan                                     Concur                Working
+   - Provide more flexibility in the selection of subcontractors PPS contracts
+26                                                                                                                Concur with comment   Complete
+   - Obtain a written legal opinion about best practices and risks addressing the MWESB aspirational goal
+
+
+
+                       This Report 81% Complete – Last Report 81% Complete
+                                                                   January 2017                                                                    40
+
+
+
+
+ School Bond Construction Program #4                                      B-4                                                    June 2017
+                                                                               2016 Performance Audit Recommendations
+
+ #                                                      Abbreviated Recommendation                                                             Response          Status
+      OSM should ensure that all monthly project budget projections are updated on a timely basis and include rough order of
+ 1                                                                                                                                    Concur                   Completed
+      magnitude (ROM) estimates of potential changes
+      OSM should ensure that future CM/GC contracts have provisions that require proactive participation of the CM/GC with the
+2a                                                                                                                                    Nonconcur                Completed
+      architect
+2b    Ensure that the GMPs for future CM/GC projects are negotiated and executed at the contractually proscribed point in design      Concur with comment      Working
+ 3    Ensure that all future GMP amendments are consistent with the letter and intent of applicable law and policy                    Completed                Completed
+ 4    Consider increases to general conditions work for additive changes to the GMP only when time is extended                        Nonconcur                Completed
+5a    Provide a workable format in e-B for processing CM/CG contract changes in a timely fashion                                      Completed                Completed
+5b    Ensure that change orders and draw-downs for CM/GC projects receive appropriate approvals                                       Completed                Completed
+ 6    P&C and OSM should investigate ways to provide more complete information to help the selection committees                       Completed                Completed
+      OSM should make by the completion of schematic design: value engineering reductions, scope reductions, increase the project
+ 7                                                                                                                                    Completed                Completed
+      budget
+8a    OSM should modify the SOPs to provide specific targets or ranges for project contingency at key stages of design                Nonconcur                Completed
+8b    The SOP should provide greater specificity on how the program will provide project budget oversight                             Nonconcur                Completed
+8c    OSM program management should ensure the development of comprehensive and detailed PTMP templates for projects                  Concur with comment      Working
+      OSM program management should hold project management staff accountable for producing comprehensive and functional
+8d                                                                                                                                    Concur with comment      Working
+      PTMPs
+      Written lessons learned should be developed and updated regularly from information obtained from the FHS, RHS and GHS
+8e                                                                                                                                    Completed                Completed
+      projects
+ 9    SOP should be updated to provide greater clarity and specific guidelines for line item budgeting for master planning            Nonconcur                Completed
+      OSM should assess the factors that have contributed to a pattern of IP projects bidding over budget and continue to explore ways
+10a                                                                                                                                      Completed             Completed
+      to develop designs that bid within budget
+10b   OSM should start design of IP projects earlier and issue invitations to bid earlier                                                Completed             Completed
+10c   OSM should consider adding in the bid specification, minimum qualifications requirements for designated systems                    Concur                Working
+11a   OSM should ensure that the program is subject to greater oversight by district program management                                  Completed             Completed
+      OSM management should ensure that the OSM Project Management Plan and Standard Operating Procedures are complete and
+11b                                                                                                                                      Concur with comment   Working
+      updated on a regular basis
+      OSM should re-evaluate the effectiveness of using the CM/GC alternative procurement methodology with current OSM staffing, and
+12                                                                                                                                       Completed             Completed
+      consider other procurement methodologies (ie design-bid-build) as well as CM/GC for future modernization projects
+13    OSM and P&C should procure the services of future CM/GC firm by the beginning or mid-point of schematic design                     Completed             Completed
+      Begin the process of procurement of firms to develop Ed Specs revisions and master plans with sufficient additional time or float
+14                                                                                                                                       Completed             Completed
+      to accommodate for delays and, protests
+      To provide more flexibility in the selection of subcontractors, PPS CM/GC contracts should proscribe dollar limits up to which the
+15                                                                                                                                       Completed             Completed
+      CM/GC firms may procure subcontractors by competitive quotes, with the prior approval of the district
+
+
+
+                                 This Report 79% Complete – Last Report 79% Complete
+                                                                                  January 2017                                                                             41
+
+
+
+
+       School Bond Construction Program #4                                            B-5                                                      June 2017
+School Bond Construction Program #4   B-6   June 2017
+
