@@ -1,0 +1,902 @@
+[
+ {
+  "path": "boardbook/meetings/2026-02-12_731165_teaching-learning-and-enrollment-committee-meeting/minutes_3998065.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998065?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 123785,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_02_12_TLE Minutes_Informal"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-12_731165_teaching-learning-and-enrollment-committee-meeting/public_notice_4000245.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000245?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 371070,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_02_12_TLE_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_730093_regular-meeting/minutes_3998061.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998061?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 2526385,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_02_10_ Regular Meeting Minutes - Adopted 3-10-26"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_730093_regular-meeting/public_notice_4000243.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000243?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 378623,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_02_10_Regular Meeting_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_731013_executive-session/minutes_3998054.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998054?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 117285,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "Executive Session_Notice RE confidential Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-10_731013_executive-session/public_notice_4000244.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000244?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 654987,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_02_10_Executive Session Notice Employee Evaluation"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-05_730080_audit-committee-meeting/minutes_3998063.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998063?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 116720,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_02_06_Audit Committee Meeting_Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-02-05_730080_audit-committee-meeting/public_notice_4000242.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000242?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 373059,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_02_05_Audit Committee_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-30_729188_board-retreat/minutes_3998060.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998060?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 115693,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_30_Retreat_Informal Meeting Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-30_729188_board-retreat/public_notice_4000241.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000241?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 371264,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_30_Retreat_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-27_728105_work-session-and-special-meeting/minutes_3998052.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998052?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 271228,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_27_Special and WS_Minutes_Adopted 2-24-26"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-27_728105_work-session-and-special-meeting/public_notice_4000240.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000240?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 374482,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_27_Work Session and Special Mtg_Public Meeting Notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-23_728252_policy-committee-meeting/minutes_3998058.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998058?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 133154,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_23_Policy Committee Meeting Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-23_728252_policy-committee-meeting/public_notice_4000239.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000239?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 373112,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_23_Policy Committee_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-20_727712_facilities-improvement-and-oversight-committee-mee/minutes_3998057.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998057?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 134125,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_20_Facilities Improvement and Oversight Committee Meeting_Informal Meeting Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-20_727712_facilities-improvement-and-oversight-committee-mee/public_notice_4000238.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000238?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 375479,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_20_FIO Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_724654_regular-meeting/minutes_3998053.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998053?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 510146,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_13_Regular Meeting Minutes - adopted 2-10-26"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_724654_regular-meeting/public_notice_4000236.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000236?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 378486,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_13_Regular Meeting_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_726156_executive-session/minutes_3998042.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998042?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 117285,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "Executive Session_Notice RE confidential Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-13_726156_executive-session/public_notice_4000237.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000237?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 639531,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_13_Executive Session Notice Labor Negotiation"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-08_724787_teaching-learning-and-enrollment-committee-meeting/minutes_3998056.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998056?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 141754,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_08_TLE Meeting Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2026-01-08_724787_teaching-learning-and-enrollment-committee-meeting/public_notice_4000235.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000235?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 377745,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2026_01_08_TLE_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-16_722619_work-session-with-vote-on-consent-agenda/minutes_3998043.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998043?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 245300,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_16_Work Session with Vote on Consent Agenda - Adopted 1-13-2026"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-16_722619_work-session-with-vote-on-consent-agenda/public_notice_4000234.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000234?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 376962,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_16_Work Session_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-16_723144_executive-session/public_notice_4000233.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000233?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 638911,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_16_Executive Session Public Notice Labor Negotiation"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-15_723180_policy-committee-meeting/minutes_3998040.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998040?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 118020,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_15_Policy Committee_Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-15_723180_policy-committee-meeting/public_notice_4000232.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000232?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 372343,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_15_Policy Committee_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-11_722705_teaching-learning-and-enrollment-committee-meeting/minutes_3998047.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998047?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 158361,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_11_Teaching, Learning, and Enrollment Committee Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-11_722705_teaching-learning-and-enrollment-committee-meeting/public_notice_4000231.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000231?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 370388,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_11_Teaching Learning and Enrollment_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-09_721941_facilities-improvement-and-oversight-committee-mee/minutes_3998048.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998048?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 134931,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_09_Facilities Improvement and Oversight Committee Meeting - Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-09_721941_facilities-improvement-and-oversight-committee-mee/public_notice_4000230.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000230?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 372860,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_09_FIO_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-08_721939_jefferson-high-school-enrollment-scenario-proposal/minutes_3998036.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998036?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 128890,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_08_Listening Session_Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-08_721939_jefferson-high-school-enrollment-scenario-proposal/public_notice_4000229.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000229?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 376659,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_08_Listening Session_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_720518_regular-meeting/minutes_3998035.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998035?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1190119,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_02_ Regular Meeting Minutes - Adopted 12-16-25"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_720518_regular-meeting/public_notice_4000226.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000226?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 378961,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_02_Regular Meeting_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_720709_executive-session/public_notice_4000227.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000227?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 643882,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_02_Executive Session_Public Notice_Labor Negotiation - CANCELED"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_721116_executive-session/minutes_3998033.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998033?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 117285,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "Executive Session_Notice RE confidential Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-12-02_721116_executive-session/public_notice_4000228.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000228?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 654195,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_12_02_Public Notice - Executive Session Litigation"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-18_718426_work-session-with-vote-on-consent-agenda/minutes_3998032.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998032?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 912333,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_18_Work Session w Consent Minutes - Adopted 12-02-2025"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-18_718426_work-session-with-vote-on-consent-agenda/public_notice_4000225.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000225?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 372018,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_18_Work Session with Consent_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-13_718228_teaching-learning-and-enrollment-committee-meeting/minutes_3998046.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998046?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 137763,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_13_Teaching, Learning, and Enrollment Committee Informal Meeting Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-13_718228_teaching-learning-and-enrollment-committee-meeting/public_notice_4000224.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000224?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 295114,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "25_11_13_Teaching Learning and Enrollment_Public Notice.docx"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-10_717786_facilities-improvement-and-oversight-committee-mee/minutes_3998068.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998068?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 127150,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_10_FIO Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-10_717786_facilities-improvement-and-oversight-committee-mee/public_notice_4000223.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000223?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 297561,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_10_Facitlities Improvement and Oversight Committee_Public Notice.docx"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-06_717122_audit-committee-meeting/minutes_3998067.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998067?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 115994,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_06_Audit Committe Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-06_717122_audit-committee-meeting/public_notice_4000222.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000222?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 292647,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_06_Audit Committee_Public Notice.docx"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716028_regular-meeting/minutes_3998031.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998031?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1057004,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_04_Regular Board Meeting Minutes - Adopted 12-02-2025"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716028_regular-meeting/public_notice_4000221.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000221?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 377657,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_04_Regular Meeting Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716684_executive-session/minutes_3998025.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998025?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 117285,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "Executive Session_Notice RE confidential Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-11-04_716684_executive-session/public_notice_4000220.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000220?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 653936,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_11_04_Executive Session Notice Real Estate"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_714646_work-session-with-vote-on-consent-agenda/minutes_3998030.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998030?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 274222,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_28_Work Session with Vote on Consent Agenda - Adopted 12-02-2025"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_714646_work-session-with-vote-on-consent-agenda/public_notice_4000219.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000219?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 374492,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_28_Work Session with Vote on Consent Agenda_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_715602_executive-session/minutes_3998026.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998026?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 117285,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "Executive Session_Notice RE confidential Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-28_715602_executive-session/public_notice_4000218.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000218?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 652210,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_28_Executive Session - Public Notice - Employee Evaluation"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-20_714285_policy-committee-meeting/minutes_3998039.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998039?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 125345,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_20_ Policy Committee Meeting - Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-20_714285_policy-committee-meeting/public_notice_4000217.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000217?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 372672,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_20_Policy Committee_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-16_714196_audit-committee-meeting/minutes_3998045.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998045?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 122668,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_16_Audit Committee Informal Meeting Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-16_714196_audit-committee-meeting/public_notice_4000216.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000216?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 381138,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_16_Audit Committee_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_712117_regular-meeting/minutes_3998034.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998034?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 8427545,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_14_Regular Board Meeting - Adopted 12-02-2025"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_712117_regular-meeting/public_notice_4000215.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000215?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 380452,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_14_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713376_executive-session/minutes_3998023.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998023?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 117285,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "Executive Session_Notice RE confidential Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713376_executive-session/public_notice_4000214.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000214?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 640166,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_14_Public Notice_Executive Session_Labor Negotiation"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713383_executive-session/minutes_3998024.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998024?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 117285,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "Executive Session_Notice RE confidential Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-14_713383_executive-session/public_notice_4000213.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000213?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 653982,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_14_Public Notice_Executive Session_Litigation"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-09_712839_teaching-learning-and-enrollment-committee-meeting/minutes_3998049.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998049?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 111348,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_09_ Teaching, Learning, and Enrollment Committee Informal Meeting Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-09_712839_teaching-learning-and-enrollment-committee-meeting/public_notice_4000212.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000212?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 371655,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_09_Teaching Learning and Enrollment_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-08_712407_facilities-improvement-and-oversight-committee-mee/minutes_3998050.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998050?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 131068,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_08_Facilities Improvement and Oversight Committee Meeting Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-10-08_712407_facilities-improvement-and-oversight-committee-mee/public_notice_4000211.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000211?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 374239,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_10_08_Facilities Improvement and Oversight Committee_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-30_711006_work-session-with-vote-on-consent-agenda/minutes_3998027.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998027?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 230394,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_30_Work Session with Vote on Consent Agenda_Adopted 10-14-25"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-30_711006_work-session-with-vote-on-consent-agenda/public_notice_4000210.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000210?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 373378,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_30_WS with Consent Agenda_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-30_711004_annual-head-start-training/public_notice_4000209.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000209?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 339074,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_30_Annual Head Start Training_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-18_710294_special-meeting/minutes_3998021.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998021?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 984608,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_18_Special Meeting Minutes_adopted 9-30-25"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-18_710294_special-meeting/public_notice_4000208.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000208?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 292569,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_18_Special Meeting_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-18_709744_teaching-learning-and-enrollment-committee-meeting/public_notice_4000207.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000207?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 291717,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_18_Teaching Learning and Enrollment Committee_Public Notice.docx"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-16_709343_facilities-improvement-and-oversight-committee-mee/minutes_3998044.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998044?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 124844,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_16_FIO_Minutes_Informal"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-16_709343_facilities-improvement-and-oversight-committee-mee/public_notice_4000206.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000206?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 373050,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_16_Public Notice_Facilities Improvement and Oversight Committee"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_706408_regular-meeting/minutes_3998019.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998019?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 832888,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_09 Regular Meeting_Adopted 9-30-25"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_706408_regular-meeting/public_notice_4000203.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000203?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 382726,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_09_Public Notice_Regular Meeting"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_708258_executive-session/minutes_3998020.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998020?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 117285,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "Executive Session_Notice RE confidential Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-09-09_708258_executive-session/public_notice_4000204.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000204?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 638404,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_09_04_Public Notice_Executive Session Labor Negotiation"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-28_706637_policy-committee-meeting/minutes_3998038.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998038?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 116385,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_28_Policy Committee_Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-28_706637_policy-committee-meeting/public_notice_4000202.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000202?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 374124,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_28_Policy Committee_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704192_special-meeting/minutes_3998018.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998018?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 268087,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_19_Board Speical Meeting_Adopted 8-19-25"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704192_special-meeting/public_notice_4000200.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000200?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 375940,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_19_Special Meeting_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704188_school-board-retreat/minutes_3998022.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998022?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 119501,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_19_Board Retreat_Informal Meeting Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-19_704188_school-board-retreat/public_notice_4000199.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000199?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 340585,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_19_Board Retreat_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-14_703691_teaching-learning-and-enrollment-committee-meeting/minutes_3998017.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998017?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 116459,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_14_Teaching Learning and Enrollment Committee_Informal Meeting Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-14_703691_teaching-learning-and-enrollment-committee-meeting/public_notice_4000197.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000197?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 372633,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_14_Teaching Learning and Enrollment Committee_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-12_703009_facilities-improvement-and-oversight-committee/minutes_3998016.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998016?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 142075,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_12_Facilities Improvement and Oversight Committee_Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-12_703009_facilities-improvement-and-oversight-committee/public_notice_4000196.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000196?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 376243,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_12_Facilities Imrovement Oversight_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701439_regular-meeting/minutes_3998014.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998014?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 972059,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_05_Regular Meeting_Minutes_Adopted 9-9-25"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701439_regular-meeting/public_notice_4000195.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000195?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 363951,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_05_Regular Meeting_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701938_annual-board-ethics-and-public-meetings-training/minutes_3998041.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998041?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 113602,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_05_Annual Board Ethics and Public Meetings Training_Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-08-05_701938_annual-board-ethics-and-public-meetings-training/public_notice_4000194.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000194?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 323442,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_08_05_Annual Ethic Training_Public Notice"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699537_work-session/minutes_3998015.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998015?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 112106,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_07_22_Work Session Informal Minutes"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699537_work-session/public_notice_4000193.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000193?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 341037,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_07_22_Public Notice - Work Session"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699248_regular-meeting/minutes_3998011.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998011?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1249601,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_07_22_Regular Meeting Minutes - Adopted 8-19-25"
+ },
+ {
+  "path": "boardbook/meetings/2025-07-22_699248_regular-meeting/public_notice_4000192.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000192?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 376700,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_07_22_Public Notice - Regular Meeting"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-24_695124_special-meeting-and-work-session/minutes_3998008.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/3998008?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 276347,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_06_24_Special Meeting and Work Session Actions for Minutes_Adopted 7-22-2025"
+ },
+ {
+  "path": "boardbook/meetings/2025-06-24_695124_special-meeting-and-work-session/public_notice_4000187.pdf",
+  "url": "https://meetings.boardbook.org/Documents/DownloadPDF/4000187?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 363266,
+  "fetched_at": "2026-10-11T00:26:37.354Z",
+  "title": "2025_06_24_Special Meeting and Work Session_Public Notice"
+ }
+]

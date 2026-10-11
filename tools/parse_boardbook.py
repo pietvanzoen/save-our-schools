@@ -85,6 +85,11 @@ def main():
             if p.exists():
                 files, md = generic_files(p)
                 rec[f"{name}_files"] = files
+                dm = re.search(r'id="NewDocumentViewerDocumentID" value="(\d+)"', p.read_text(errors="ignore"))
+                if dm:  # minutes / notices are PDFs shown in BoardBook's viewer
+                    rec[f"{name}_document_id"] = dm.group(1)
+                    rec[f"{name}_pdf"] = str((d / f"{name}_{dm.group(1)}.pdf").relative_to(ROOT))
+                    rec[f"{name}_download_url"] = f"{ORG}/Documents/DownloadPDF/{dm.group(1)}?org=915"
                 (d / f"{name}.md").write_text(f"# {name.replace('_',' ').title()}: {rec['heading']}\n\nSource: {rec.get(name+'_url') or ''}\n\n{md}\n")
         (d / "meeting.json").write_text(json.dumps(rec, indent=1))
         n_att = sum(len(i["attachments"]) for i in items)
