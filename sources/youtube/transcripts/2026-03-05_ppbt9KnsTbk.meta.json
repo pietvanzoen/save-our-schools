@@ -1,6 +1,6 @@
 {
  "id": "ppbt9KnsTbk",
- "fetched_at": "2026-10-11T00:25:25.193Z",
+ "fetched_at": "2026-10-11T01:02:04.543Z",
  "meta": {
   "videoId": "ppbt9KnsTbk",
   "title": "2026-03-05 Board of Education's Audit Committee",
@@ -104,8 +104,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 2519,
+ "caption_lang": "en",
+ "n_lines": 1732,
+ "sample": "50320\t5280\tabout future agenda items. | 54079\t3601\tFirst, we're going to begin with | 55600\t3759\tintroductions.",
  "meetings": "2026-03-05|735121",
  "url": "https://www.youtube.com/watch?v=ppbt9KnsTbk",
  "boardbook_meetings": [

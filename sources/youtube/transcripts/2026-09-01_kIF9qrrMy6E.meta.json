@@ -1,6 +1,6 @@
 {
  "id": "kIF9qrrMy6E",
- "fetched_at": "2026-10-11T00:26:27.823Z",
+ "fetched_at": "2026-10-11T01:01:59.124Z",
  "meta": {
   "videoId": "kIF9qrrMy6E",
   "title": "2026-09-01 Board of Education's Intergovernmental Affairs Committee Meeting",
@@ -122,8 +122,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 1933,
+ "caption_lang": "en",
+ "n_lines": 1308,
+ "sample": "48000\t7039\twell. I'm Christy Split. I am um on the | 52320\t5040\tPortland Public School Board. I am a | 55039\t4481\tresident of zone one, but as always, we",
  "meetings": "2026-09-01|763670",
  "url": "https://www.youtube.com/watch?v=kIF9qrrMy6E",
  "boardbook_meetings": [

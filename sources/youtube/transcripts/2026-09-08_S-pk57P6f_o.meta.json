@@ -1,6 +1,6 @@
 {
  "id": "S-pk57P6f_o",
- "fetched_at": "2026-10-11T00:26:29.937Z",
+ "fetched_at": "2026-10-11T01:02:00.246Z",
  "meta": {
   "videoId": "S-pk57P6f_o",
   "title": "2026-09-08 Board of Education\u2019s Teaching, Learning, and Enrollment Committee",
@@ -140,8 +140,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 2901,
+ "caption_lang": "en",
+ "n_lines": 1939,
+ "sample": "48160\t4399\tmyself. My name is Virginia Leaffort. I | 50320\t4239\tam the board member. Uh, I reside in | 52559\t5281\tzone five, which is northeast Portland.",
  "meetings": "2026-09-08|765500",
  "url": "https://www.youtube.com/watch?v=S-pk57P6f_o",
  "boardbook_meetings": [

@@ -1,6 +1,6 @@
 {
  "id": "YfANSrxqAMI",
- "fetched_at": "2026-10-11T00:26:34.354Z",
+ "fetched_at": "2026-10-11T01:02:10.901Z",
  "meta": {
   "videoId": "YfANSrxqAMI",
   "title": "2026-09-15 Board of Education's Intergovernmental Affairs Committee",
@@ -140,8 +140,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 1917,
+ "caption_lang": "en",
+ "n_lines": 1312,
+ "sample": "52160\t5120\tAnything else that I'm missing? Is that | 55039\t4241\tgreat? Okay, great. Okay. | 57280\t3599\t>> Yeah, one more thing is um in case",
  "meetings": "2026-09-15|766660",
  "url": "https://www.youtube.com/watch?v=YfANSrxqAMI",
  "boardbook_meetings": [

@@ -1,6 +1,6 @@
 {
  "id": "zfvbTie4mpE",
- "fetched_at": "2026-10-11T00:26:40.877Z",
+ "fetched_at": "2026-10-11T01:02:09.835Z",
  "meta": {
   "videoId": "zfvbTie4mpE",
   "title": "2026-09-23 Board of Education's Facilities Improvement and Oversight Committee Meeting",
@@ -134,8 +134,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 1130,
+ "caption_lang": "en",
+ "n_lines": 801,
+ "sample": "55360\t6839\tJoanna Evenson, senior director of RISE | 58399\t3800\tfor real estate and construction. | 62480\t4800\t>> I'm Andrea Shears, uh, one of the",
  "meetings": "2026-09-23|768451",
  "url": "https://www.youtube.com/watch?v=zfvbTie4mpE",
  "boardbook_meetings": [

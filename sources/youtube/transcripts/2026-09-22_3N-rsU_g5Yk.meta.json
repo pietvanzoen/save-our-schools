@@ -1,6 +1,6 @@
 {
  "id": "3N-rsU_g5Yk",
- "fetched_at": "2026-10-11T00:26:38.722Z",
+ "fetched_at": "2026-10-11T01:02:07.674Z",
  "meta": {
   "videoId": "3N-rsU_g5Yk",
   "title": "2026-09-22 Board of Education's Policy Committee",
@@ -140,8 +140,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 2165,
+ "caption_lang": "en",
+ "n_lines": 1551,
+ "sample": "43760\t3960\tAI policy. Um, and of course at the end | 46080\t3640\tI will be asking committee members if | 47720\t3800\tthey have any agenda items they want to",
  "meetings": "2026-09-22|767981",
  "url": "https://www.youtube.com/watch?v=3N-rsU_g5Yk",
  "boardbook_meetings": [

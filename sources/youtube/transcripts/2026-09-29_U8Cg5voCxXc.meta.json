@@ -1,6 +1,6 @@
 {
  "id": "U8Cg5voCxXc",
- "fetched_at": "2026-10-11T00:26:45.196Z",
+ "fetched_at": "2026-10-11T01:01:56.686Z",
  "meta": {
   "videoId": "U8Cg5voCxXc",
   "title": "2026-09-29 Board of Education's Intergovernmental Affairs Committee Meeting",
@@ -140,8 +140,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 2206,
+ "caption_lang": "en",
+ "n_lines": 1451,
+ "sample": "69200\t4959\t>> I still don't go. | 71520\t4240\t>> All right, so take two. Good afternoon. | 74159\t3600\tThis public meeting of the board of",
  "meetings": "2026-09-29|769461",
  "url": "https://www.youtube.com/watch?v=U8Cg5voCxXc",
  "boardbook_meetings": [

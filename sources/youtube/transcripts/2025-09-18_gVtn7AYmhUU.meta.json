@@ -1,6 +1,6 @@
 {
  "id": "gVtn7AYmhUU",
- "fetched_at": "2026-10-11T00:24:30.243Z",
+ "fetched_at": "2026-10-11T01:01:57.962Z",
  "meta": {
   "videoId": "gVtn7AYmhUU",
   "title": "2025-09-18 Board of Education's Teaching, Learning, and Enrollment Committee",
@@ -116,8 +116,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 3101,
+ "caption_lang": "en",
+ "n_lines": 2222,
+ "sample": "48880\t3960\tdirector in zone five, Northeast | 50280\t2560\tPortland. | 53560\t5200\t>> Hi, Christie Split and I am the director",
  "meetings": "2025-09-18|709744",
  "url": "https://www.youtube.com/watch?v=gVtn7AYmhUU",
  "boardbook_meetings": [

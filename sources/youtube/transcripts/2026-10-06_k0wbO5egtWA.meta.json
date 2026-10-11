@@ -1,6 +1,6 @@
 {
  "id": "k0wbO5egtWA",
- "fetched_at": "2026-10-11T00:26:49.702Z",
+ "fetched_at": "2026-10-11T01:02:01.399Z",
  "meta": {
   "videoId": "k0wbO5egtWA",
   "title": "2026-10-06 Board of Education's Annual Ethics Training",
@@ -140,8 +140,9 @@
   ]
  },
  "caption_kind": "asr",
- "caption_lang": "ar",
- "n_lines": 1801,
+ "caption_lang": "en",
+ "n_lines": 1257,
+ "sample": "47840\t3680\t>> Great. Thanks. I appreciate being here. | 50079\t3601\tI know you've got a lot on your plate | 51520\t4879\ttonight and want to get to your 6:00",
  "meetings": "2026-10-06|770670",
  "url": "https://www.youtube.com/watch?v=k0wbO5egtWA",
  "boardbook_meetings": [
