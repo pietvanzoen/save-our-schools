@@ -11,7 +11,8 @@ or any .pdf.txt under sources/ whose path contains the fragment. Uses the .pdf.o
 If the PDF itself is needed (e.g. to render a page image) and this is a lightweight clone, fetch it with:
     git sparse-checkout add '<path>.pdf'   then   pdftoppm -f N -l N -png <path>.pdf /tmp/page
 """
-import re, sys
+import re, signal, sys
+signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # quiet when piped to head
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]

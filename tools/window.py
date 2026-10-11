@@ -8,7 +8,8 @@ Each output line is "[H:MM:SS] caption text  <youtube link>" (the link is printe
 Lines containing "Director", "Chair", "thank you", or a self-introduction are marked with ">" because they often
 signal a change of speaker.
 """
-import re, sys
+import re, signal, sys
+signal.signal(signal.SIGPIPE, signal.SIG_DFL)  # quiet when piped to head
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
