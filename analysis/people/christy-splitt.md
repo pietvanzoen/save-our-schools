@@ -1,0 +1,152 @@
+# Christy Splitt — Zone 1 (SW Portland)
+
+Evidence base: 157 transcript quotes in `quotes_all.jsonl` (119 high, 34 medium, 4 low confidence; 2025-01-13 to 2026-10-06). Low-confidence quotes are excluded.
+
+## Roles, tenure, committees
+
+- **Zone 1 director.** Appointed Jan 13, 2025 to fill Andrew Scott's vacancy through June 30, 2025 (second-round vote, then runoff) [BB:3996229 p.3]; elected May 2025, term "7/2025 - 6/2027" (roster). Former high-school civics teacher, ~20 years around the Oregon Legislature, now at a state agency (roster).
+- **Committees and liaisons:** Audit member 2025-26 [BB:3998063 p.1]; TLE member 2025-26 [BB:3998065 p.1] and 2026-27 (roster); board liaison to the Bond Accountability Committee [YT:s2BtyvEqG-o@3:16:17](https://www.youtube.com/watch?v=s2BtyvEqG-o&t=11777s); chair of the new Intergovernmental Affairs Committee in 2026-27 [MTG:2026-09-01/763670]; nominated to the OSBA Legislative Policy Committee (Res. 7174, 9/9/25) [MTG:2025-09-09/706408].
+- **Leaving the board:** "I guess I'm saying you know I'm I'm not planning to run again." [YT:j9PzUvPpSVA@4:21:19](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=15679s) and on Oct 6, 2026: "My time will come to a close and I'll be passing the baton um as I slowly navigate my way off the school board." [YT:zOUH2Jq7Owo@1:13:00](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=4380s) Analysis: her term runs to 6/2027; the wording leaves open whether she leaves before then.
+
+## Position summary
+
+### Rightsizing / closures
+- **Supports "some" consolidation; has objected to the scale since Sept 2026.** "I think we probably do need to close some schools, but like one quarter of the schools seems just really shook me" [YT:5RMfvT-sAPU@2:08:05](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7685s) *(medium-confidence attribution)* "sometimes you need a hammer and sometimes you need a scalpel. And I would like much prefer a scalpel approach to this." [YT:5RMfvT-sAPU@2:08:26](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7706s) On the Oct 6 scenarios: "So, I'm not coming into this feeling like um it's the right scale for the moment. It affects 24 to 27% of our students." [YT:zOUH2Jq7Owo@3:33:34](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12814s)
+- **Why she supports it at all:** split itinerant staffing drives educators out [YT:S-pk57P6f_o@0:36:39](https://www.youtube.com/watch?v=S-pk57P6f_o&t=2199s); "how do we make sure that all of our schools have the basics?" [YT:jBUIkfQZu-k@1:27:38](https://www.youtube.com/watch?v=jBUIkfQZu-k&t=5258s); accepts trade-offs such as "fewer kids have a walkable route to school, but ... a full-time librarian" [YT:AAWpafO4vvQ@2:06:57](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=7617s) *(medium)*.
+- **Her criteria (most specific author on the board):** "consolidation over closure" [YT:SPc05NM0oYs@1:25:38](https://www.youtube.com/watch?v=SPc05NM0oYs&t=5138s); minimize fragmentation of closed-school communities [YT:OLAZDzvg3RM@4:18:58](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=15538s); compact boundaries [YT:OLAZDzvg3RM@4:20:23](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=15623s); retire the worst buildings ("let's have the best buildings left") [YT:uAf7l-ChjFo@4:14:47](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15287s); per-student cost [YT:SPc05NM0oYs@1:26:45](https://www.youtube.com/watch?v=SPc05NM0oYs&t=5205s); a resource "floor" for every school [YT:j9PzUvPpSVA@4:19:13](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=15553s).
+- **Equity concern about thresholds:** "the Dunaways and Alamas get protected just because they're big" [YT:5RMfvT-sAPU@2:04:44](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7484s) *(medium)*.
+- **Red line (Oct 2026):** "I will not vote for any package that includes any schools that are not on [slate]" [YT:zOUH2Jq7Owo@3:40:27](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13227s) *(medium-confidence attribution)*
+- **Conditional vote threat in May:** "I might vote no on the resolution at this point" without fragmentation and compact-boundary language [YT:OLAZDzvg3RM@4:51:42](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17502s); she then voted yes on Res. 7307 (7–0) [BB:3998080 p.3].
+- She co-sponsored Res. 7296, proposed the three-resolution sequence [YT:qiCQKmMdLr4@3:19:52](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11992s), moved the "will include ... closures, consolidations, or boundary changes" wording [BB:3998077 p.4], and voted no on the guardrail amendment.
+
+### Bond / seismic
+- Campaigned for the 2025 bond (as a candidate she promised bond literature "every door I go to") [YT:xNoisoONrkA@0:38:01](https://www.youtube.com/watch?v=xNoisoONrkA&t=2281s); supported ~300,000 sq ft parity even though Wells is in her zone [YT:zxaXALjzumk@2:18:11](https://www.youtube.com/watch?v=zxaXALjzumk&t=8291s).
+- Seismic: voted for 7109 while warning other needs (heat/HVAC) get pushed back [YT:Uxh6Jm_xFYY@2:45:00](https://www.youtube.com/watch?v=Uxh6Jm_xFYY&t=9900s); objected that picking ~10 seismic schools pre-decides rightsizing, then voted yes anyway [YT:-NpJZaLR81U@1:32:19](https://www.youtube.com/watch?v=-NpJZaLR81U&t=5539s) [YT:-NpJZaLR81U@1:33:05](https://www.youtube.com/watch?v=-NpJZaLR81U&t=5585s); prioritize neighborhood schools over lottery schools for seismic money [YT:qiCQKmMdLr4@2:03:19](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=7399s).
+- **Bond oversight:** led the 4–3 majority for an internal bond auditor: "we owe it to ourselves to have that work checked by somebody internally" [YT:SPwXuNlwP_U@0:35:19](https://www.youtube.com/watch?v=SPwXuNlwP_U&t=2119s); voted for OIPA protection (failed 3–4) [BB:3998082 p.5].
+
+### Budget
+- Reluctant yes on budgets, blaming the state: "really hard to vote yes on something that we all know is inadequate" [YT:WPbTg28GB_o@1:00:31](https://www.youtube.com/watch?v=WPbTg28GB_o&t=3631s); "the declining enrollment is on top of the chronic underfunding of our schools since the early 1990s" [YT:uAf7l-ChjFo@4:18:57](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15537s).
+- Enrollment-decline arithmetic: "that's two and a half kids per class" [YT:-NpJZaLR81U@1:17:00](https://www.youtube.com/watch?v=-NpJZaLR81U&t=4620s). Leads on PERS as a PPS-specific problem as IGA chair [YT:YfANSrxqAMI@0:40:46](https://www.youtube.com/watch?v=YfANSrxqAMI&t=2446s).
+- Voted no on the $13.12M restoration (failed 1–6) [BB:3998082 p.5], asking "how much can we possibly give to schools and still be able to like function as a really big, maybe too big school district." [YT:yinJ7KK-Bqc@4:23:45](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15825s) *(medium-confidence attribution)*; voted for both budgets [BB:3998010 p.4] [BB:3998082 p.4].
+
+### Enrollment / boundaries
+- 2025: wanted a gradual way for districts to adapt to declining enrollment (an "off-ramp" in the quote record's paraphrase) and floated voluntary moves [YT:-iIZmAv0aaE@1:45:00](https://www.youtube.com/watch?v=-iIZmAv0aaE&t=6300s) *(medium)* [YT:-iIZmAv0aaE@1:47:27](https://www.youtube.com/watch?v=-iIZmAv0aaE&t=6447s) *(medium)*; then backed disruptive boundary change at Jefferson: "get uncomfortable. Like this is equity." [YT:mb9SnIfcbZY@3:06:25](https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11185s)
+- Open early to merging adjacent under-enrolled schools [YT:mb9SnIfcbZY@3:10:11](https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11411s); moved Res. 7229 (Scenario C) as "a compromise" [YT:LZ101PSh6H0@3:16:04](https://www.youtube.com/watch?v=LZ101PSh6H0&t=11764s).
+- West-side lens: "it's kind of my job to think about the west side" [YT:gVtn7AYmhUU@0:50:57](https://www.youtube.com/watch?v=gVtn7AYmhUU&t=3057s); skeptical of forecasts ("all models are wrong some are useful") [YT:S-pk57P6f_o@0:42:22](https://www.youtube.com/watch?v=S-pk57P6f_o&t=2542s).
+
+### Focus options, dual language, K-8
+- Include focus options "for closure as well" [YT:qiCQKmMdLr4@3:23:20](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12200s), especially where one "less than a mile away" draws from a neighborhood school [YT:SPc05NM0oYs@1:04:42](https://www.youtube.com/watch?v=SPc05NM0oYs&t=3882s); make them "more equitable" [YT:j9PzUvPpSVA@4:59:36](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17976s); open to neighborhood-plus-focus hybrids [YT:2bSmBVuoajw@1:16:20](https://www.youtube.com/watch?v=2bSmBVuoajw&t=4580s) *(medium)*.
+- Reported K-8 communities "wishing that they were not K8s" (2025) [YT:WPbTg28GB_o@0:28:18](https://www.youtube.com/watch?v=WPbTg28GB_o&t=1698s).
+
+### Process / engagement
+- Notify affected schools before public announcement, with transition plans [YT:qiCQKmMdLr4@3:24:04](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12244s); engage educators "before the scenarios come out" [YT:uAf7l-ChjFo@4:11:55](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15115s); principles must reflect what engagement ranked first [YT:OLAZDzvg3RM@4:52:28](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17548s).
+- Against favoritism: "I'm not planning on in any way prioritizing one school over another" [YT:iY4k1Q8Y_yI@4:42:21](https://www.youtube.com/watch?v=iY4k1Q8Y_yI&t=16941s).
+
+## How her thinking changed over time
+
+**Jan–Jun 2025: funding advocate who becomes open to consolidation.** As a candidate: "we should not have to choose right we are in the position of having to choose because we don't have adequate resources" [YT:xNoisoONrkA@0:40:36](https://www.youtube.com/watch?v=xNoisoONrkA&t=2436s) By June 2025 she was openly questioning duplicated small schools: "should we have two underenrolled elementary schools right next door to each other um maybe not like that kind of stuff" [YT:mb9SnIfcbZY@3:10:11](https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11411s)
+
+**Jan–Mar 2026: sequencing objection, then architect of scope.** "I still have some feelings about essentially deciding on something like 10 schools that we are not going to consider when we talk about right sizing." [YT:-NpJZaLR81U@1:32:19](https://www.youtube.com/watch?v=-NpJZaLR81U&t=5539s) By March she proposed districtwide scope with "each part of the city" feeling impact: "As far as the scope, I absolutely support it being districtwide. I absolutely support us saying that each part of the city should expect to feel some impact." [YT:qiCQKmMdLr4@3:22:28](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12148s) At the retreat she worried the MLC reversal showed "if you advocate enough we'll bend" [YT:iY4k1Q8Y_yI@4:43:03](https://www.youtube.com/watch?v=iY4k1Q8Y_yI&t=16983s) *(medium)*.
+
+**Apr–May 2026: from scope to protective criteria.** She heard doubts ("are we sure we have to close schools?") [YT:AH3wdS1A3sM@2:01:45](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7305s), and the minutes record that in discussion she "supported changing the word “will” to “may”" [BB:3998077 p.3]; she then voted no on that change and moved the firmer "will include ... closures, consolidations, or boundary changes" wording [BB:3998077 p.4]. In May she made fragmentation and compact boundaries conditions of her vote [YT:OLAZDzvg3RM@4:51:42](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17502s).
+
+**Sept–Oct 2026: explicit pushback on magnitude.** "instead of talking about 5 to 10 schools, we're talking about closing a full quarter of the schools in the district" [YT:5RMfvT-sAPU@2:04:11](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7451s) *(medium-confidence attribution)* "I don't know that I will that I feel comfortable with the magnitude for a variety of reasons" [YT:uAf7l-ChjFo@4:21:06](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15666s) "Maybe our definition of community may have to change." [YT:zOUH2Jq7Owo@3:33:16](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12796s)
+
+Analysis: Splitt's general support for consolidation is constant from June 2025. The reversal is on scale: she had framed her support around the "5 to 10" closures first discussed and moved to opposition once staff described roughly a quarter of schools (Sept 1, 2026). News coverage the next day quotes her as "more skeptical now than I was a week ago" [NEWS:NEWS-20260902-opb-1].
+
+## Voting record on key related votes
+
+| Date | Item | Result | Splitt | Source |
+|---|---|---|---|---|
+| 2025-02-11 | Res. 7051: high-school cost-reduction framework (~295,000 sq ft; Ed-spec, all-electric, equity contracting kept) | Passed 7–0 | **Yes** | [BB:3997975 p.2] [YT:_dDmpgZcNfI@0:21:25] |
+| 2025-03-04 | Brim-Edwards amendment to Res. 7067/7068: bond reporting schedule plus "a path to enrollment balancing across PPS high schools" | Passed 4–2 (Sullivan absent) | **Yes** | [BB:3997983 p.5–6] [YT:GM0ozDVDOQ4@3:42:27] |
+| 2025-05-06 | Res. 7109: urgent need for seismic retrofitting of high-risk school buildings | Passed 7–0 | **Yes** | [BB:3997998 p.4] [YT:Uxh6Jm_xFYY@2:58:11] |
+| 2025-05-06 | Res. 7110: committee tracking and reporting of seismic upgrades (incl. "potential school enrollment or consolidations changes") | Passed 7–0 | **Yes** | [BB:3997998 p.4] [YT:Uxh6Jm_xFYY@3:21:07] |
+| 2025-05-19 | Res. 7116: Budget Committee approval of 2025-26 budget | Approved 5–0 on video (Greene, Hollands absent); minutes inconsistent | **Yes** | [YT:WPbTg28GB_o@1:56:04] [BB:3998006 p.3] |
+| 2025-06-10 | Res. 7121: impose taxes and adopt 2025-26 budget | Passed 5–2 | **Yes** | [BB:3998010 p.4] [YT:mb9SnIfcbZY@3:32:56] |
+| 2025-09-09 | Res. 7175: Procedeo contract amendment (interim bond program management) | Passed 6–1 (motion to postpone failed 2–5: Engelsman, La Forte yes) | **Yes** | [BB:3998019 p.7] [YT:HGAs0lyZ6kw@6:04:34] |
+| 2025-09-09 | Res. 7167: Outdoor School analysis and five-day options | Failed 2–5 | **No** | [MTG:2025-09-09/706408] (meeting summary `analysis/meetings/2025-09-09_HGAs0lyZ6kw.md`) |
+| 2025-12-02 | Motion to postpone Res. 7216 (Procedeo bond program management contract) | Failed 2–5 | **No** | [BB:3998035 p.4] [YT:F_TBjQYZTA8@2:18:13] |
+| 2025-12-02 | Res. 7216: Procedeo bond program management contract | Passed 5–2 | **Yes** | [BB:3998035 p.4] [YT:F_TBjQYZTA8@2:35:16] |
+| 2025-12-02 | Res. 7215: acquire One North for the Center for Black Student Excellence (2020 bond) | Passed 7–0 | **Yes** | [BB:3998035 p.4–5] [YT:F_TBjQYZTA8@3:43:04] |
+| 2026-01-13 | Res. 7228: end Jefferson dual assignment; designate Jefferson a comprehensive high school | Passed 7–0 | **Yes** | [BB:3998053 p.3] [YT:BJMsF-90V6U@1:08:11] |
+| 2026-01-13 | Res. 7229: Jefferson-area attendance boundaries (Scenario C) | Passed 6–1 | **Yes** | [BB:3998053 p.3] [YT:BJMsF-90V6U@2:12:05] |
+| 2026-01-27 | Res. 7241 consent agenda incl. Vernon/Winterhaven seismic design contract (objections that seismic picks pre-decide closures) | Passed 7–0 | **Yes** | [BB:3998052 p.3] [YT:-NpJZaLR81U@2:02:58] |
+| 2026-04-14 | La Forte amendment to Res. 7296: add guardrails A–F (criteria first, equity analysis, engagement plan, timeline, financial transparency, policy alignment) | Failed 3–4 (minutes text says "passed 4-3" but its roll call and the video show 3–4) | **No** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:13:13] |
+| 2026-04-14 | Res. 7296 Recital E: change "will include school and program closures" to "may" | Failed 2–5 | **No** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:15:53] |
+| 2026-04-14 | Res. 7296 as amended: launch districtwide rightsizing ("will include school and program closures, consolidations, or boundary changes") | Passed 5–2 | **Yes** | [BB:3998077 p.3] [YT:AH3wdS1A3sM@2:17:59] |
+| 2026-05-26 | Res. 7307: rightsizing guiding principles and work plan | Passed 7–0 | **Yes** | [BB:3998080 p.3] [YT:AAWpafO4vvQ@2:22:50] |
+| 2026-05-26 | Res. 7308: Budget Committee approval of 2026-27 budget (minutes mislabel as 7307) | Passed 7–0 | **Yes** | [BB:3998080 p.4] [YT:AAWpafO4vvQ@3:16:18] |
+| 2026-06-23 | Res. 7340: restore and protect internal audit (OIPA) funding in the 2026-27 budget | Failed 3–4 (student rep: no on video, yes in minutes) | **Yes** | [BB:3998082 p.5] [YT:yinJ7KK-Bqc@3:09:13] |
+| 2026-06-23 | Res. 7342 (Engelsman): restore $13.12M for school-based staffing | Failed 1–6 | **No** | [BB:3998082 p.5] [YT:yinJ7KK-Bqc@5:47:04] |
+| 2026-06-23 | Res. 7326: impose taxes and adopt 2026-27 budget | Passed 6–0–1 | **Yes** | [BB:3998082 p.4] [YT:yinJ7KK-Bqc@5:48:18] |
+| 2026-08-04 | Res. 7365: sports exception for Creston graduates attending Hosford (split-feeder fix by resolution) | Failed 1–4–1 (Sullivan absent) | **No** | [BB:14440686 p.2–4] (meeting summary `analysis/meetings/2026-08-04_-qhL23TOZTs.md`) |
+| 2026-09-01 | Res. 7371: superintendent contract extension | Passed 5–2 (no votes inferred by elimination from video) | **Yes** | [YT:5RMfvT-sAPU@3:32:04] [MTG:2026-09-01/761703] |
+| 2026-09-29 | Bond performance audit Rec. 34: board response committing to hire an additional bond-funded auditor in OIPA (budget-availability sentence struck) | Passed 4–3 (roll call from video; no minutes in archive) | **Yes** | [YT:SPwXuNlwP_U@2:43:39] [MTG:2026-09-29/769094] |
+
+Codes: Y = yes, N = no, A = abstain, X = absent, U = not recorded in the archive, N* = inferred by elimination from video (medium confidence). Student-representative votes are unofficial.
+
+## Key quotes
+
+- **2025-01-13** — "we should not have to choose right we are in the position of having to choose because we don't have adequate resources" [YT:xNoisoONrkA@0:40:36](https://www.youtube.com/watch?v=xNoisoONrkA&t=2436s)  
+  _Context (from the quote record):_ attributes hard trade-offs to inadequate funding (as candidate)
+- **2025-06-10** — "get uncomfortable. Like this is equity." [YT:mb9SnIfcbZY@3:06:25](https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11185s)  
+  _Context (from the quote record):_ equity requires boundary change
+- **2025-06-10** — "should we have two underenrolled elementary schools right next door to each other um maybe not like that kind of stuff" [YT:mb9SnIfcbZY@3:10:11](https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11411s)  
+  _Context (from the quote record):_ open to consolidating adjacent under-enrolled schools
+- **2025-12-16** — "C does seem like a compromise to me." [YT:LZ101PSh6H0@3:16:04](https://www.youtube.com/watch?v=LZ101PSh6H0&t=11764s)  
+  _Context (from the quote record):_ supports Scenario C as compromise
+- **2026-01-27** — "We have declining enrollment and like it doesn't it's not neat. It's not like you lose 30 kids from a school and you can lose a teacher. It's like that's two and a half kids per class." [YT:-NpJZaLR81U@1:17:00](https://www.youtube.com/watch?v=-NpJZaLR81U&t=4620s)  
+  _Context (from the quote record):_ recognizes enrollment decline creates structural cost problem
+- **2026-01-27** — "I still have some feelings about essentially deciding on something like 10 schools that we are not going to consider when we talk about right sizing." [YT:-NpJZaLR81U@1:32:19](https://www.youtube.com/watch?v=-NpJZaLR81U&t=5539s)  
+  _Context (from the quote record):_ objects to seismic selections pre-deciding which schools stay open
+- **2026-03-08** — "now it just got demonstrated that if you advocate enough we'll bend" [YT:iY4k1Q8Y_yI@4:43:03](https://www.youtube.com/watch?v=iY4k1Q8Y_yI&t=16983s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ wants unified board stance on consolidation ('not picking favorites')
+- **2026-03-10** — "As far as the scope, I absolutely support it being districtwide. I absolutely support us saying that each part of the city should expect to feel some impact." [YT:qiCQKmMdLr4@3:22:28](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12148s)  
+  _Context (from the quote record):_ districtwide scope with shared impact
+- **2026-03-10** — "I absolutely support the focus option conversation it in and including them and and considering some of them for closure as well." [YT:qiCQKmMdLr4@3:23:20](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12200s)  
+  _Context (from the quote record):_ include focus options as closure candidates
+- **2026-03-12** — "I love thinking about consolidation over closure just for what it's worth. It's like a guiding principle for me." [YT:SPc05NM0oYs@1:25:38](https://www.youtube.com/watch?v=SPc05NM0oYs&t=5138s)  
+  _Context (from the quote record):_ consolidation over closure; keep cohorts together
+- **2026-03-12** — "If there's buildings that we should just not be investing any more money in, then that would be to me a good building to consider letting go of." [YT:SPc05NM0oYs@1:25:59](https://www.youtube.com/watch?v=SPc05NM0oYs&t=5159s)  
+  _Context (from the quote record):_ building condition as closure criterion
+- **2026-04-14** — "I feel like I might have heard from let's say five people on Saturday being like, are we sure we have to close schools?" [YT:AH3wdS1A3sM@2:01:45](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7305s)  
+  _Context (from the quote record):_ open to softening 'will' to 'may'
+- **2026-04-28** — "when we're figuring out our north star for our conversation about right sizing, I think part of that is like what's like our dream and then also like is there like a floor" [YT:j9PzUvPpSVA@4:19:13](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=15553s)  
+  _Context (from the quote record):_ set a guaranteed baseline for all schools
+- **2026-05-12** — "if we were to close a school and then just break those kids up into the nearest five or six or whatever whatever elementary schools that to me seems more um like harmful to those kids" [YT:OLAZDzvg3RM@4:18:58](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=15538s)  
+  _Context (from the quote record):_ minimize fragmentation of school communities
+- **2026-05-12** — "I might vote no on the resolution at this point" [YT:OLAZDzvg3RM@4:51:42](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17502s)  
+  _Context (from the quote record):_ conditional support for guiding-principles resolution
+- **2026-05-26** — "It's going to have fewer kids have a walkable route to school, but we're doing this so that they can have a full-time librarian." [YT:AAWpafO4vvQ@2:06:57](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=7617s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ supports consolidation trade-offs for well-resourced schools
+- **2026-09-01** — "some of the bigger schools in the district are some of the more affluent schools. And that makes me feel away, I have to say. So like the Dunaways and Alamas get protected just because they're big." [YT:5RMfvT-sAPU@2:04:44](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7484s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ equity concern about size thresholds
+- **2026-09-01** — "I think we probably do need to close some schools, but like one quarter of the schools seems just really shook me" [YT:5RMfvT-sAPU@2:08:05](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7685s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ supports some closures; opposes the large magnitude
+- **2026-09-01** — "sometimes you need a hammer and sometimes you need a scalpel. And I would like much prefer a scalpel approach to this." [YT:5RMfvT-sAPU@2:08:26](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7706s)  
+  _Context (from the quote record):_ prefers a targeted 'scalpel' approach
+- **2026-09-08** — "that's probably the underlying like why I'm supportive of right sizing in general is like I realized that's inconvenient and it leads to educators leaving the system" [YT:S-pk57P6f_o@0:36:39](https://www.youtube.com/watch?v=S-pk57P6f_o&t=2199s)  
+  _Context (from the quote record):_ supports rightsizing in general because of split staffing
+- **2026-09-15** — "if we're really talking about closing 25% of our schools than let's have the best buildings left." [YT:uAf7l-ChjFo@4:14:47](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15287s)  
+  _Context (from the quote record):_ building condition should drive closure choices
+- **2026-09-15** — "I don't know that I will that I feel comfortable with the magnitude for a variety of reasons" [YT:uAf7l-ChjFo@4:21:06](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15666s)  
+  _Context (from the quote record):_ still skeptical of magnitude
+- **2026-09-29** — "instead of us having an internal office, we have an outside contractor. And while I trust that their best interests are in line with ours, I think we owe it to ourselves to have that work checked by somebody internally" [YT:SPwXuNlwP_U@0:35:19](https://www.youtube.com/watch?v=SPwXuNlwP_U&t=2119s)  
+  _Context (from the quote record):_ internal oversight of bond program manager
+- **2026-10-06** — "So, I'm not coming into this feeling like um it's the right scale for the moment. It affects 24 to 27% of our students." [YT:zOUH2Jq7Owo@3:33:34](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12814s)  
+  _Context (from the quote record):_ skeptical of magnitude
+- **2026-10-06** — "I will not vote for any package that includes any schools that are not on [slate]" [YT:zOUH2Jq7Owo@3:40:27](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13227s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ no new schools on closure list
+
+## News-reported quotes (secondary)
+
+- 2025-01-14 — "To me, public schools are the foundation of our communities, the foundation of our democracy." [NEWS:NEWS-20250114-wweek-1] (https://www.wweek.com/news/schools/2025/01/14/christy-splitt-appointed-to-portland-public-schools-board-vacancy/)
+- 2025-06-11 — "This budget reflects not the values that I think we as a district have" [NEWS:NEWS-20250611-koin-1] (https://digital-release.koin.com/news/education/portland-public-schools-board-vote-pass-budget-job-cuts-06112025/amp/)
+- 2025-06-11 — "That we're making cuts to schools that we know need more resources, that we're losing valuable team members." [NEWS:NEWS-20250611-koin-1] (https://digital-release.koin.com/news/education/portland-public-schools-board-vote-pass-budget-job-cuts-06112025/amp/)
+- 2025-09-20 — "It might be good to consider in the next round, not just the ZIP code approach," [NEWS:NEWS-20250920-wweek-1] (https://www.wweek.com/news/schools/2025/09/20/pps-begins-testing-waters-around-jefferson-dual-assignment-zone/)
+- 2026-03-18 — "If there are buildings that we should just not be investing any more money in" [NEWS:NEWS-20260318-wweek-1] (https://www.wweek.com/news/schools/2026/03/18/heres-what-pps-will-consider-as-it-selects-schools-to-close/)
+- 2026-09-01 — "So the Duniways and Alamadas get protected just because they're big? That doesn't seem very fair." [NEWS:NEWS-20260901-katu-1] (https://katu.com/news/local/story/portland-public-schools-board-superintendent-kimberlee-armstrong-has-sobering-conversation-about-school-closure-priorities-declining-enrollment)
+- 2026-09-02 — "So count me in as being more skeptical now than I was a week ago." [NEWS:NEWS-20260902-opb-1] (https://www.opb.org/article/2026/09/02/portland-public-schools-rightsizing-close-schools-standardize-education)
+- 2026-09-03 — "Sometimes you need a hammer and sometimes you need a scalpel." [NEWS:NEWS-20260903-wweek-1] (https://www.wweek.com/news/schools/2026/09/03/heres-where-every-pps-board-member-stands-on-school-closures/)
+- 2026-09-03 — "I think we probably do need to close some schools" [NEWS:NEWS-20260903-wweek-1] (https://www.wweek.com/news/schools/2026/09/03/heres-where-every-pps-board-member-stands-on-school-closures/)

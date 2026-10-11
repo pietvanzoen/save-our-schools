@@ -1,0 +1,152 @@
+# Virginia La Forte — Zone 5 (NE Portland)
+
+Evidence base: 137 transcript quotes in `quotes_all.jsonl` (87 high, 46 medium, 4 low confidence; 2025-07-22 to 2026-10-06). Low-confidence quotes are excluded. Her Oct 6, 2026 remarks are attributed by elimination in the speaker order (medium); batch09 notes say the La Forte/DePass assignment that night could in principle be swapped.
+
+## Roles, tenure, committees
+
+- **Zone 5 director**, elected May 2025 after incumbent Gary Hollands suspended his campaign and endorsed her (Willamette Week, via `_roster_from_web.md`); term "7/2025 - 6/2029". Background in marketing and performing arts; environmental-health advocate who has worked on district task forces and school bonds (roster).
+- **Committees:** FIO chair in 2025-26 (she opened the 8/12/25 FIO meeting with the committee's mission [YT:_1vhKE_wSC4@0:02:20](https://www.youtube.com/watch?v=_1vhKE_wSC4&t=140s) and chaired FIO on 5/27/26 and 6/24/26 per the meeting summaries [MTG:2026-05-27/747392] [MTG:2026-06-24/752646]); TLE member 2025-26 [BB:3998065 p.1]; **TLE chair 2026-27** [MTG:2026-09-08/765500]; Policy and Audit member 2026-27 (roster). Board representative to the Fund for PPS [YT:s2BtyvEqG-o@1:59:25](https://www.youtube.com/watch?v=s2BtyvEqG-o&t=7165s).
+- Refers to her "15 years of PPS" experience [YT:OLAZDzvg3RM@5:13:30](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=18810s) *(medium)*.
+
+## Position summary
+
+### Rightsizing / closures
+- **Open to large change in principle.** "consolidating at scale" for bigger upgrades to fewer schools [YT:qiCQKmMdLr4@3:09:01](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11341s) *(medium)*; "it does feel like we're at a tipping point. um that we may need to make some big swings." [YT:5RMfvT-sAPU@2:36:09](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9369s) Consolidation could make arts and supports "more accessible for all of our students" [YT:j9PzUvPpSVA@4:42:50](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16970s) *(medium)*.
+- **But insists on cost data and formal process.** She voted no on Res. 7296 after her A–F guardrail amendment failed 3–4: "I don't feel comfortable voting yes without the framework" [YT:AH3wdS1A3sM@1:54:23](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6863s) She objected to "will" as making closure "a foregone conclusion" [YT:AH3wdS1A3sM@1:24:19](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=5059s) and said "closing schools doesn't really save any money. I don't know that. I haven't seen any numbers." [YT:AH3wdS1A3sM@1:27:50](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=5270s)
+- **Fiscal impact statement is her standing condition:** asked for one on the scenarios (Sept 2026) [YT:S-pk57P6f_o@1:00:52](https://www.youtube.com/watch?v=S-pk57P6f_o&t=3652s), and on Oct 6 *(medium)*: "I can't see the underlying cost impacts. So I just I feel like I can't make a decision without it." [YT:zOUH2Jq7Owo@3:52:44](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13964s) *(medium-confidence attribution)*
+- **Neighborhood hubs:** "I know I'm looking at a map, too, where every neighborhood is left with a school." [YT:S-pk57P6f_o@1:10:55](https://www.youtube.com/watch?v=S-pk57P6f_o&t=4255s) On Oct 6 *(medium)* she objected that losing Peninsula "leaves that whole area without any public school" [YT:zOUH2Jq7Owo@3:55:35](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14135s) *(medium)*.
+- **Specific programming before the vote**, to beat private-school recruiting [YT:S-pk57P6f_o@0:56:02](https://www.youtube.com/watch?v=S-pk57P6f_o&t=3362s); expects consolidated schools to be well-resourced from day one [YT:uAf7l-ChjFo@4:05:37](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=14737s) *(medium)*.
+- MLC 9-12: "I do view this as a school closure" and wanted a fiscal impact statement under board policy [YT:3sggkeHNIVk@1:15:14](https://www.youtube.com/watch?v=3sggkeHNIVk&t=4514s) [YT:3sggkeHNIVk@1:15:37](https://www.youtube.com/watch?v=3sggkeHNIVk&t=4537s).
+
+### Bond / seismic
+- **Sequence seismic after rightsizing:** "I'd hate to spend money on a facility that ends up being put out of commission." [YT:HGAs0lyZ6kw@4:11:38](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15098s); relayed community calls to consolidate "into the safest buildings" [YT:p6iGaRklgp0@1:08:41](https://www.youtube.com/watch?v=p6iGaRklgp0&t=4121s); pushed staff for the written seismic prioritization plan [YT:qiCQKmMdLr4@1:51:36](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=6696s) *(medium)* [YT:mtoPXt49YsU@0:57:43](https://www.youtube.com/watch?v=mtoPXt49YsU&t=3463s).
+- **Bond-oversight hawk:** demanded an RFP and competition for Procedeo ("reputation ... rebuilt with competition, openness") [YT:ad4QXrU0m7w@1:44:25](https://www.youtube.com/watch?v=ad4QXrU0m7w&t=6265s); voted yes on the Sept 2025 interim amendment [YT:HGAs0lyZ6kw@6:06:00](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=21960s) *(medium)* but no on the Dec 2025 contract after failed motions to postpone and to strip bonuses [BB:3998035 p.4]; voted no on most bond contractor-pool awards (Res. 7298 A–G and J, each 6–1 or 5–1–1) [MTG:2026-04-28/742316] for lack of price competition [YT:j9PzUvPpSVA@0:20:25](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=1225s); led the internal-auditor majority: "I would like somebody in the building" [YT:SPwXuNlwP_U@2:33:42](https://www.youtube.com/watch?v=SPwXuNlwP_U&t=9222s) *(medium)*.
+- Use the "$120 million for Tubman sitting in the bank" in rightsizing planning [YT:qiCQKmMdLr4@3:09:59](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11399s) *(medium)*.
+
+### Budget
+- Maintenance underfunding: deferred maintenance "closing in on $2 billion" [YT:p6iGaRklgp0@1:11:59](https://www.youtube.com/watch?v=p6iGaRklgp0&t=4319s); 77 maintenance FTE versus a best-practice 113 [YT:BJMsF-90V6U@0:36:22](https://www.youtube.com/watch?v=BJMsF-90V6U&t=2182s).
+- Would have used reserves rather than furloughs in March 2026 ("this is what our reserves are for") [YT:QIfmGcbkkLE@0:18:06](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=1086s); sponsored the travel freeze and the OIPA-protection amendment in June 2026 [YT:yinJ7KK-Bqc@2:14:06](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=8046s) [BB:3998082 p.4–5]; voted no on the $13.12M restoration (1–6) and yes on the 2026-27 budget.
+- Voted no on the superintendent's contract extension (inferred by elimination), citing "the timing of the ask" [YT:5RMfvT-sAPU@3:25:23](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=12323s) *(medium)*.
+
+### Enrollment / boundaries
+- Enrollment retention and capture rate: "We need to increase our capture rate" [YT:QV-at-0Mjzc@0:11:12](https://www.youtube.com/watch?v=QV-at-0Mjzc&t=672s); marketing as an "easy spend" [YT:gVtn7AYmhUU@0:50:08](https://www.youtube.com/watch?v=gVtn7AYmhUU&t=3008s) *(medium)*.
+- Jefferson: backed Scenario C "looking forward towards right sizing our schools" [YT:BJMsF-90V6U@2:09:51](https://www.youtube.com/watch?v=BJMsF-90V6U&t=7791s) and for Grant's long-term stability [YT:LZ101PSh6H0@3:26:38](https://www.youtube.com/watch?v=LZ101PSh6H0&t=12398s); floated restructuring Benson to bolster neighborhood high schools [YT:LZ101PSh6H0@2:53:02](https://www.youtube.com/watch?v=LZ101PSh6H0&t=10382s).
+
+### Focus options, dual language, K-8, TAG/ACCESS
+- **K-8 vs middle school — a visible reversal.** March 10: "We need to pick a lane ... I think it's middle schools" [YT:qiCQKmMdLr4@3:09:28](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11368s) *(medium)*; March 31: "I've always believed that middle schools were, but the more recent research has actually shown the opposite" [YT:QIfmGcbkkLE@2:30:41](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=9041s); Sept 1: asked whether K-8s retain families better [YT:5RMfvT-sAPU@2:44:38](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9878s).
+- **ACCESS/TAG advocate:** "expanding not shrinking access" [YT:AAWpafO4vvQ@1:48:17](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6497s); add TAG to the equity lens [YT:OLAZDzvg3RM@4:40:18](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16818s) *(medium)*; delay the ACCESS busing cut into rightsizing [YT:4i9CyWKUzd4@1:50:49](https://www.youtube.com/watch?v=4i9CyWKUzd4&t=6649s) *(medium)*.
+- Oct 6 *(medium)*: asked "why wasn't there an option that eliminated focus options since they're pulling from our neighborhood schools?" [YT:zOUH2Jq7Owo@3:53:41](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14021s) *(medium)*
+
+### Process / engagement
+- Transparency about rightsizing as a priority (Sept 2025): "we don't have right sizing our schools on here which we know is going to come up" [YT:dVcyfTroSSI@2:18:25](https://www.youtube.com/watch?v=dVcyfTroSSI&t=8305s).
+- "We can't cherrypick schools" (MLC) [YT:3sggkeHNIVk@1:49:58](https://www.youtube.com/watch?v=3sggkeHNIVk&t=6598s) *(medium)*; avoid "pitting school communities against each other" [YT:QIfmGcbkkLE@1:51:54](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6714s) *(medium)*.
+
+## How her thinking changed over time
+
+**Sept 2025: rightsizing is coming; don't waste a dollar.** "it's hard for me to to look at this without thinking about the conversation that we're going to have this year about right sizing our schools and making sure that we don't waste a single dollar" [YT:HGAs0lyZ6kw@4:11:14](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15074s)
+
+**Jan 2026: supports boundary change with rightsizing in view.** "looking forward towards right sizing our schools, I feel like it's uh I don't see any other option working as effectively." [YT:BJMsF-90V6U@2:09:51](https://www.youtube.com/watch?v=BJMsF-90V6U&t=7791s)
+
+**Feb 2026: process objection to MLC.** "if this were in front of me as a standalone resolution, um, I would vote no because it isn't part of this holistic conversation." [YT:3sggkeHNIVk@1:33:55](https://www.youtube.com/watch?v=3sggkeHNIVk&t=5635s)
+
+**Mar 2026: pro-consolidation, pro-middle-school — then a reversal on grade configuration.** "I don't like that we have K through8s and middle schools. We need to pick a lane. I think we picked it. I think it's middle schools and we just haven't finished the job." [YT:qiCQKmMdLr4@3:09:28](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11368s) *(medium-confidence attribution)* Three weeks later: "I've always believed that middle schools were, but the more recent research has actually shown the opposite" [YT:QIfmGcbkkLE@2:30:41](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=9041s)
+
+**Apr 2026: guardrails or no.** "as written, the resolution initiates what will likely be an emotionally charged process. I think as we're already we're already seeing without capturing guardrails that we've already discussed." [YT:AH3wdS1A3sM@1:18:08](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=4688s) She voted no on Res. 7296 [BB:3998077 p.3], then yes on Res. 7307, which she seconded [BB:3998080 p.3].
+
+**Sept–Oct 2026: "big swings" but only with numbers and neighborhood schools left.** "it does feel like we're at a tipping point. um that we may need to make some big swings." [YT:5RMfvT-sAPU@2:36:09](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9369s) "I know I'm looking at a map, too, where every neighborhood is left with a school." [YT:S-pk57P6f_o@1:10:55](https://www.youtube.com/watch?v=S-pk57P6f_o&t=4255s) (Oct 6, medium) "I can't see the underlying cost impacts. So I just I feel like I can't make a decision without it." [YT:zOUH2Jq7Owo@3:52:44](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13964s) *(medium-confidence attribution)*
+
+After the Oct 6 meeting KPTV reported she had not decided her position [NEWS:NEWS-20261006-kptv-2].
+
+Analysis: La Forte combines openness to large consolidation with the board's strictest procedural and fiscal conditions. Her vote on the December package likely depends on the November fiscal impact statement and on N/NE neighborhood coverage (Peninsula/Kenton).
+
+## Voting record on key related votes
+
+| Date | Item | Result | Forte | Source |
+|---|---|---|---|---|
+| 2025-09-09 | Res. 7175: Procedeo contract amendment (interim bond program management) | Passed 6–1 (motion to postpone failed 2–5: Engelsman, La Forte yes) | **Yes** | [BB:3998019 p.7] [YT:HGAs0lyZ6kw@6:04:34] |
+| 2025-09-09 | Res. 7167: Outdoor School analysis and five-day options | Failed 2–5 | **Yes** | [MTG:2025-09-09/706408] (meeting summary `analysis/meetings/2025-09-09_HGAs0lyZ6kw.md`) |
+| 2025-12-02 | Motion to postpone Res. 7216 (Procedeo bond program management contract) | Failed 2–5 | **Yes** | [BB:3998035 p.4] [YT:F_TBjQYZTA8@2:18:13] |
+| 2025-12-02 | Res. 7216: Procedeo bond program management contract | Passed 5–2 | **No** | [BB:3998035 p.4] [YT:F_TBjQYZTA8@2:35:16] |
+| 2025-12-02 | Res. 7215: acquire One North for the Center for Black Student Excellence (2020 bond) | Passed 7–0 | **Yes** | [BB:3998035 p.4–5] [YT:F_TBjQYZTA8@3:43:04] |
+| 2026-01-13 | Res. 7228: end Jefferson dual assignment; designate Jefferson a comprehensive high school | Passed 7–0 | **Yes** | [BB:3998053 p.3] [YT:BJMsF-90V6U@1:08:11] |
+| 2026-01-13 | Res. 7229: Jefferson-area attendance boundaries (Scenario C) | Passed 6–1 | **Yes** | [BB:3998053 p.3] [YT:BJMsF-90V6U@2:12:05] |
+| 2026-01-27 | Res. 7241 consent agenda incl. Vernon/Winterhaven seismic design contract (objections that seismic picks pre-decide closures) | Passed 7–0 | **Yes** | [BB:3998052 p.3] [YT:-NpJZaLR81U@2:02:58] |
+| 2026-04-14 | La Forte amendment to Res. 7296: add guardrails A–F (criteria first, equity analysis, engagement plan, timeline, financial transparency, policy alignment) | Failed 3–4 (minutes text says "passed 4-3" but its roll call and the video show 3–4) | **Yes** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:13:13] |
+| 2026-04-14 | Res. 7296 Recital E: change "will include school and program closures" to "may" | Failed 2–5 | **No** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:15:53] |
+| 2026-04-14 | Res. 7296 as amended: launch districtwide rightsizing ("will include school and program closures, consolidations, or boundary changes") | Passed 5–2 | **No** | [BB:3998077 p.3] [YT:AH3wdS1A3sM@2:17:59] |
+| 2026-05-26 | Res. 7307: rightsizing guiding principles and work plan | Passed 7–0 | **Yes** | [BB:3998080 p.3] [YT:AAWpafO4vvQ@2:22:50] |
+| 2026-05-26 | Res. 7308: Budget Committee approval of 2026-27 budget (minutes mislabel as 7307) | Passed 7–0 | **Yes** | [BB:3998080 p.4] [YT:AAWpafO4vvQ@3:16:18] |
+| 2026-06-23 | Res. 7340: restore and protect internal audit (OIPA) funding in the 2026-27 budget | Failed 3–4 (student rep: no on video, yes in minutes) | **Yes** | [BB:3998082 p.5] [YT:yinJ7KK-Bqc@3:09:13] |
+| 2026-06-23 | Res. 7342 (Engelsman): restore $13.12M for school-based staffing | Failed 1–6 | **No** | [BB:3998082 p.5] [YT:yinJ7KK-Bqc@5:47:04] |
+| 2026-06-23 | Res. 7326: impose taxes and adopt 2026-27 budget | Passed 6–0–1 | **Yes** | [BB:3998082 p.4] [YT:yinJ7KK-Bqc@5:48:18] |
+| 2026-08-04 | Res. 7365: sports exception for Creston graduates attending Hosford (split-feeder fix by resolution) | Failed 1–4–1 (Sullivan absent) | **Abstain** | [BB:14440686 p.2–4] (meeting summary `analysis/meetings/2026-08-04_-qhL23TOZTs.md`) |
+| 2026-09-01 | Res. 7371: superintendent contract extension | Passed 5–2 (no votes inferred by elimination from video) | **No (inferred)** | [YT:5RMfvT-sAPU@3:32:04] [MTG:2026-09-01/761703] |
+| 2026-09-29 | Bond performance audit Rec. 34: board response committing to hire an additional bond-funded auditor in OIPA (budget-availability sentence struck) | Passed 4–3 (roll call from video; no minutes in archive) | **Yes** | [YT:SPwXuNlwP_U@2:43:39] [MTG:2026-09-29/769094] |
+
+Codes: Y = yes, N = no, A = abstain, X = absent, U = not recorded in the archive, N* = inferred by elimination from video (medium confidence). Student-representative votes are unofficial.
+
+## Key quotes
+
+- **2025-09-09** — "I'd hate to spend money on a facility that ends up being put out of commission." [YT:HGAs0lyZ6kw@4:11:38](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15098s)  
+  _Context (from the quote record):_ sequence seismic spending after rightsizing
+- **2025-09-16** — "I don't believe that our reputation will be rebuilt with speed alone. Um we'll be rebuilt with competition, openness, and uh responsible stewardship of our taxpayer dollars." [YT:ad4QXrU0m7w@1:44:25](https://www.youtube.com/watch?v=ad4QXrU0m7w&t=6265s)  
+  _Context (from the quote record):_ competition and transparency over speed
+- **2025-09-30** — "we don't have right sizing our schools on here which we know is going to come up" [YT:dVcyfTroSSI@2:18:25](https://www.youtube.com/watch?v=dVcyfTroSSI&t=8305s)  
+  _Context (from the quote record):_ be transparent with public that rightsizing is a 2025-26 board priority
+- **2025-10-14** — "community members are very concerned about the uh sample prioritization formula. um potentially underweing the actual risk and um urged consolidating into the safest buildings." [YT:p6iGaRklgp0@1:08:41](https://www.youtube.com/watch?v=p6iGaRklgp0&t=4121s)  
+  _Context (from the quote record):_ conveys community demand that seismic risk drive priorities and consolidation
+- **2025-12-02** — "strike all the provisions authorizing performance-based bonuses or incentive compensation because this is this is what we're paying for." [YT:F_TBjQYZTA8@2:21:14](https://www.youtube.com/watch?v=F_TBjQYZTA8&t=8474s)  
+  _Context (from the quote record):_ wants one-year term and no bonuses for Procedeo
+- **2026-01-13** — "looking forward towards right sizing our schools, I feel like it's uh I don't see any other option working as effectively." [YT:BJMsF-90V6U@2:09:51](https://www.youtube.com/watch?v=BJMsF-90V6U&t=7791s)  
+  _Context (from the quote record):_ supports C in light of rightsizing
+- **2026-02-24** — "I do view this as a school closure. Um I don't believe [applause] that we should conflate eliminating MLS's high school with consolidations." [YT:3sggkeHNIVk@1:15:14](https://www.youtube.com/watch?v=3sggkeHNIVk&t=4514s)  
+  _Context (from the quote record):_ opposes MLC cut as handled; wants policy followed
+- **2026-02-24** — "if this were in front of me as a standalone resolution, um, I would vote no because it isn't part of this holistic conversation." [YT:3sggkeHNIVk@1:33:55](https://www.youtube.com/watch?v=3sggkeHNIVk&t=5635s)  
+  _Context (from the quote record):_ opposes MLC cut
+- **2026-03-10** — "some important things for me um are consolidating at scale um because it would allow more significant upgrades to a smaller number of schools" [YT:qiCQKmMdLr4@3:09:01](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11341s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ supports consolidating at scale, erring larger
+- **2026-03-31** — "I've always believed that middle schools were, but the more recent research has actually shown the opposite" [YT:QIfmGcbkkLE@2:30:41](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=9041s)  
+  _Context (from the quote record):_ reconsidering preference for middle schools over K-8s
+- **2026-04-14** — "as written, the resolution initiates what will likely be an emotionally charged process. I think as we're already we're already seeing without capturing guardrails that we've already discussed." [YT:AH3wdS1A3sM@1:18:08](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=4688s)  
+  _Context (from the quote record):_ wants guardrails in the launch resolution
+- **2026-04-14** — "with will it sounds like it's a foregone conclusion that we're going to do this" [YT:AH3wdS1A3sM@1:24:19](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=5059s)  
+  _Context (from the quote record):_ closures should not be predetermined
+- **2026-04-14** — "closing schools doesn't really save any money. I don't know that. I haven't seen any numbers." [YT:AH3wdS1A3sM@1:27:50](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=5270s)  
+  _Context (from the quote record):_ financial transparency for closure proposals
+- **2026-04-14** — "I don't feel comfortable voting yes without the framework" [YT:AH3wdS1A3sM@1:54:23](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6863s)  
+  _Context (from the quote record):_ conditions yes vote on guardrails (voted no)
+- **2026-04-22** — "what I want and what we need to accomplish is for every student to have that experience in their neighborhood school. That is what is equitable." [YT:h_0YMlJnXPk@1:43:27](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=6207s)  
+  _Context (from the quote record):_ replicate what works in neighborhood schools
+- **2026-04-28** — "We're a public school district. We have to have quotes. We need to have RFQS." [YT:j9PzUvPpSVA@0:20:25](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=1225s)  
+  _Context (from the quote record):_ wants price competition in bond pool assignments
+- **2026-05-26** — "I would really love it if our plan considered expanding not shrinking access since we have so many students on the waiting list" [YT:AAWpafO4vvQ@1:48:17](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6497s)  
+  _Context (from the quote record):_ supports expanding ACCESS Academy
+- **2026-09-01** — "it does feel like we're at a tipping point. um that we may need to make some big swings." [YT:5RMfvT-sAPU@2:36:09](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9369s)  
+  _Context (from the quote record):_ open to large magnitude
+- **2026-09-08** — "when the board sees the options will we see and I I hope the answer is yes some sort of fiscal impact statement" [YT:S-pk57P6f_o@1:00:52](https://www.youtube.com/watch?v=S-pk57P6f_o&t=3652s)  
+  _Context (from the quote record):_ wants fiscal impact of scenarios
+- **2026-09-08** — "I know I'm looking at a map, too, where every neighborhood is left with a school." [YT:S-pk57P6f_o@1:10:55](https://www.youtube.com/watch?v=S-pk57P6f_o&t=4255s)  
+  _Context (from the quote record):_ wants schools dispersed so every neighborhood keeps one
+- **2026-09-29** — "I would like somebody in the building. We're talking about $2 billion." [YT:SPwXuNlwP_U@2:33:42](https://www.youtube.com/watch?v=SPwXuNlwP_U&t=9222s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ internal bond auditor
+- **2026-10-06** — "I can't see the underlying cost impacts. So I just I feel like I can't make a decision without it." [YT:zOUH2Jq7Owo@3:52:44](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13964s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ needs cost data
+- **2026-10-06** — "why wasn't there an option that eliminated focus options since they're pulling from our neighborhood schools?" [YT:zOUH2Jq7Owo@3:53:41](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14021s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ questions focus options
+- **2026-10-06** — "Now it's slated to lose Peninsula, which leaves that whole area without any public school and we're layering the demolition of the Columbia Community Center on top of it." [YT:zOUH2Jq7Owo@3:55:35](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14135s) *(medium-confidence attribution)*  
+  _Context (from the quote record):_ concern about Peninsula closure
+
+## News-reported quotes (secondary)
+
+- 2025-09-10 — "How do we know which schools are the highest risk to preventing injury and death?" [NEWS:NEWS-20250910-wweek-1] (https://www.wweek.com/news/schools/2025/09/10/portland-public-schools-mulls-seismic-retrofits-amid-plan-for-consolidations/)
+- 2026-02-25 — "I’m more concerned about the spirit of our board resolution, and I feel like we’re way outside of that." [NEWS:NEWS-20260225-wweek-1] (https://www.wweek.com/news/schools/2026/02/25/portland-school-board-grapples-with-abrupt-mlc-high-school-closure/)
+- 2026-02-27 — "This is not about bending to the demands of every parent or reacting emotionally to pressure." [NEWS:NEWS-20260227-wweek-1] (https://www.wweek.com/news/schools/2026/02/27/pps-backtracks-on-closure-of-metropolitan-learning-centers-high-school/)
+- 2026-02-27 — "It’s about thoughtfully considering the real and documented needs of students" [NEWS:NEWS-20260227-wweek-1] (https://www.wweek.com/news/schools/2026/02/27/pps-backtracks-on-closure-of-metropolitan-learning-centers-high-school/)
+- 2026-03-31 — "We're responsible for working with the money that we have" [NEWS:NEWS-20260331-wweek-1] (https://www.wweek.com/news/schools/2026/04/01/pps-deems-midyear-budget-hole-closed-as-school-board-approves-furloughs-for-four-unions/)
+- 2026-03-31 — "Our kids need this full year." [NEWS:NEWS-20260331-wweek-1] (https://www.wweek.com/news/schools/2026/04/01/pps-deems-midyear-budget-hole-closed-as-school-board-approves-furloughs-for-four-unions/)
+- 2026-09-03 — "It does feel like we're at a tipping point," [NEWS:NEWS-20260903-wweek-1] (https://www.wweek.com/news/schools/2026/09/03/heres-where-every-pps-board-member-stands-on-school-closures/)
+- 2026-09-03 — "We may need to make some big swings." [NEWS:NEWS-20260903-wweek-1] (https://www.wweek.com/news/schools/2026/09/03/heres-where-every-pps-board-member-stands-on-school-closures/)
+- 2026-10-05 — "It’s weighing heavy on all of us," [NEWS:NEWS-20261005-opb-1] (https://www.opb.org/article/2026/10/05/portland-public-schools-closures-rightsizing/)
+- 2026-10-06 — "There are so many moving parts with this proposal." [NEWS:NEWS-20261006-kptv-2] (https://www.kptv.com/2026/10/07/pps-board-member-parents-react-controversial-school-closure-plan/)
+- 2026-10-06 — "We have a lot of listening to do over the next couple of months." [NEWS:NEWS-20261006-kptv-2] (https://www.kptv.com/2026/10/07/pps-board-member-parents-react-controversial-school-closure-plan/)
+- 2026-10-06 — "We have to remain really engaged, realize this is a dialogue and listen," [NEWS:NEWS-20261006-kptv-2] (https://www.kptv.com/2026/10/07/pps-board-member-parents-react-controversial-school-closure-plan/)

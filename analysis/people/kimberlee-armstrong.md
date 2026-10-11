@@ -1,0 +1,147 @@
+# Dr. Kimberlee Armstrong — Superintendent
+
+Evidence base: 176 transcript quotes in `quotes_all.jsonl` (140 high, 33 medium, 3 low confidence; 2025-01-07 to 2026-10-06). Low-confidence quotes are excluded. News-reported quotes are listed separately at the end.
+
+## Roles, tenure
+
+- Superintendent; hired June 2024 (OPB headline URL in `_roster_from_web.md`). "I've been in the chair for 22 months" (Apr 28, 2026) [YT:j9PzUvPpSVA@3:39:21](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=13161s).
+- Contract extension approved Sept 1, 2026, 5–2 (Res. 7371; La Forte and Engelsman no by elimination) [YT:5RMfvT-sAPU@3:32:04] [MTG:2026-09-01/761703]. The board agreed in Sept 2026 that her evaluation template would include a rightsizing focus [MTG:2026-09-16/767447].
+- Signed the April 13, 2026 rightsizing letter with Dr. Jon Franco (roster).
+
+## Position summary
+
+### Rightsizing / closures
+- **From "optimization" to naming closures.** 2025: "we will continue to rightsize ... in schools" and central office [YT:-iIZmAv0aaE@2:18:42](https://www.youtube.com/watch?v=-iIZmAv0aaE&t=8322s); "We have to talk about school optimization" (Aug 2025) [YT:m70mK_olqlc@4:38:11](https://www.youtube.com/watch?v=m70mK_olqlc&t=16691s). March 10, 2026: "I planned um to bring you all a list in late fall that may contain five to 10 schools listed for closure." [YT:qiCQKmMdLr4@2:27:49](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=8869s) "at the end, I want to call it what it is, which will be um a recommendation to close a a a subset of schools." [YT:qiCQKmMdLr4@2:29:09](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=8949s)
+- **Rationale: too many buildings for the students and money.** "We also are operating more buildings than we can support. This limits our ability to invest fully in every school. We need to continue to plan for consolidation and closure." [YT:j9PzUvPpSVA@1:12:15](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=4335s) "if a school was built for 500 students, but only has 250, we still pay to operate the whole building" [YT:jBUIkfQZu-k@0:16:10](https://www.youtube.com/watch?v=jBUIkfQZu-k&t=970s); "for the last eight years, we have taken from some schools to subsidize others" [YT:zOUH2Jq7Owo@1:31:26](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=5486s).
+- **But not framed as cost saving:** "closing schools is not a cost-saving strategy" [YT:h_0YMlJnXPk@1:26:04](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=5164s); "closing schools alone will not solve our budget issue" [YT:h_0YMlJnXPk@0:10:30](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=630s).
+- **Scale moved up with board feedback:** April 22: "I can't imagine that we'll be higher than 12 ... we can be as low as one, two, or or three" [YT:h_0YMlJnXPk@0:59:10](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=3550s); Sept 1: "I've heard from several of you that when I initially led out with 5 to 12 that that number was too low from what you were thinking." [YT:5RMfvT-sAPU@2:11:46](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7906s) and the magnitude is needed "to make change that's sustainable for at least five years" [YT:5RMfvT-sAPU@2:10:32](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7832s).
+- **Board must own the decision:** "I've done what you asked me to do and now I need further direction." [YT:5RMfvT-sAPU@1:43:11](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6191s); "nothing moves forward without an affirmative vote from the majority of the board" [YT:5RMfvT-sAPU@2:15:36](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8136s); on Oct 6 the board may accept, amend, or "defer this work to a later time" [YT:zOUH2Jq7Owo@3:11:30](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11490s).
+- Resisted softening Res. 7296: "the may would suggest that we could go through all of this work ... and it result in nothing?" [YT:AH3wdS1A3sM@2:00:39](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7239s).
+
+### Bond / seismic
+- Drove high-school cost reductions ("I began pushing back on the cost of the high schools when they were set at 490") [YT:ad4QXrU0m7w@0:43:24](https://www.youtube.com/watch?v=ad4QXrU0m7w&t=2604s) and wanted savings to "do more across Portland" [YT:ad4QXrU0m7w@1:55:16](https://www.youtube.com/watch?v=ad4QXrU0m7w&t=6916s).
+- Decisive advocate for Procedeo: "Jefferson High School alone required an additional 55 million in contingency funds" [YT:F_TBjQYZTA8@1:29:03](https://www.youtube.com/watch?v=F_TBjQYZTA8&t=5343s); "I should be held to a high degree by the amount of incompetence I allow over time" [YT:F_TBjQYZTA8@1:30:10](https://www.youtube.com/watch?v=F_TBjQYZTA8&t=5410s).
+- Raised whether enrollment "would be a key factor" in seismic choices [YT:HGAs0lyZ6kw@4:13:13](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15193s).
+
+### Budget
+- Deficit framing grew from "at least 30 million" for 2026-27 (Apr 2025) [YT:-iIZmAv0aaE@0:52:06](https://www.youtube.com/watch?v=-iIZmAv0aaE&t=3126s) to $50M [YT:LZ101PSh6H0@1:08:27](https://www.youtube.com/watch?v=LZ101PSh6H0&t=4107s), "closing a $ 56 million gap" for 2026-27 [YT:j9PzUvPpSVA@1:08:26](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=4106s) and "another deficit of more than 65 million" for 2027-28 [YT:j9PzUvPpSVA@1:11:34](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=4294s), and a structural deficit "over $160 million" with ~60% addressed [YT:YPG-igPVma0@1:10:32](https://www.youtube.com/watch?v=YPG-igPVma0&t=4232s).
+- Goal to end recurring reductions "within the next 2 years" [YT:yinJ7KK-Bqc@5:34:41](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=20081s); central admin "is less than $5 million" so central cuts cannot close the gap [YT:yinJ7KK-Bqc@5:36:45](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=20205s); ties stabilization to "boundary adjustments or program moves and school closures" [YT:yinJ7KK-Bqc@5:33:55](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=20035s).
+
+### Enrollment / boundaries
+- "we've seen a 10.8% 8% enrollment drop since 2019 2020" [YT:-iIZmAv0aaE@0:50:51](https://www.youtube.com/watch?v=-iIZmAv0aaE&t=3051s); enrollment strategy through quality: "our places to be the first choice in every community" [YT:nIjDjAq71GE@0:42:38](https://www.youtube.com/watch?v=nIjDjAq71GE&t=2558s).
+- Jefferson: recommended ending dual assignment and Scenario C [YT:mb9SnIfcbZY@2:44:57](https://www.youtube.com/watch?v=mb9SnIfcbZY&t=9897s) [YT:cw5P6Jo4O7U@0:11:42](https://www.youtube.com/watch?v=cw5P6Jo4O7U&t=702s).
+
+### Focus options, dual language, K-8
+- Programs that cannot be robustly supported will be reviewed [YT:p6iGaRklgp0@0:57:50](https://www.youtube.com/watch?v=p6iGaRklgp0&t=3470s); cautions against "uniform" K-8 decisions [YT:SPc05NM0oYs@1:02:45](https://www.youtube.com/watch?v=SPc05NM0oYs&t=3765s) *(medium)*; "it was never a strategy or a plan to go in and dissolve, um, all focus option schools" [YT:zOUH2Jq7Owo@3:54:17](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14057s) *(medium)*; closure, consolidation and program moves remain possible for focus options [YT:4i9CyWKUzd4@2:01:09](https://www.youtube.com/watch?v=4i9CyWKUzd4&t=7269s).
+
+### Process / engagement
+- 2025: closures are "a community conversation" and "we can't begin with the end in mind" [YT:YUCokoJ7-n0@0:56:56](https://www.youtube.com/watch?v=YUCokoJ7-n0&t=3416s) *(medium)*; SEGC "will not be the model" [YT:YUCokoJ7-n0@0:53:58](https://www.youtube.com/watch?v=YUCokoJ7-n0&t=3238s) *(medium)*.
+- MLC: "we chose the path of informing about the decision" [YT:3sggkeHNIVk@0:08:14](https://www.youtube.com/watch?v=3sggkeHNIVk&t=494s).
+- June 2026: "we're not going to be able to have a conversation with every impacted human" [YT:YPG-igPVma0@4:03:36](https://www.youtube.com/watch?v=YPG-igPVma0&t=14616s) *(medium)*.
+- Denied any list existed through spring 2026 [YT:AH3wdS1A3sM@1:09:03](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=4143s) [YT:h_0YMlJnXPk@0:08:24](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=504s); staff "isn't to come here and persuade" [YT:zOUH2Jq7Owo@3:11:14](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11474s).
+- Management boundaries: oversight "through your supervision of me" [YT:_1vhKE_wSC4@0:43:27](https://www.youtube.com/watch?v=_1vhKE_wSC4&t=2607s); "allow management issues to stay with management" [YT:iY4k1Q8Y_yI@4:37:53](https://www.youtube.com/watch?v=iY4k1Q8Y_yI&t=16673s).
+
+## How her thinking changed over time
+
+**Spring 2025: commitments to legacy communities subordinated to current budget.** "than commitments that were made a couple of years ago with a whole different budget and different resources that frankly we don't have available" [YT:XENAU3DUf5g@3:17:50](https://www.youtube.com/watch?v=XENAU3DUf5g&t=11870s)
+
+**June 2025: open-ended language about closures.** "It could be that, you know, it's recommended that no schools are closed and it's more of a reconfiguration of the programs that we have" [YT:YUCokoJ7-n0@0:52:55](https://www.youtube.com/watch?v=YUCokoJ7-n0&t=3175s) *(medium-confidence attribution)*
+
+**Aug–Dec 2025: "optimization" → "right sizing" → a 12–18 month horizon.** "And then the spring, we know that we have budget reduction conversations. We have to talk about school optimization. There are some pretty big topics that we're going to talk about that will be seeds to what we want to be true for 2030" [YT:m70mK_olqlc@4:38:11](https://www.youtube.com/watch?v=m70mK_olqlc&t=16691s) "We're going to continue to talk about schools and boundaries probably for the next 12 to 18 months." [YT:LZ101PSh6H0@2:33:05](https://www.youtube.com/watch?v=LZ101PSh6H0&t=9185s)
+
+**Mar 2026: blunt naming.** "at the end, I want to call it what it is, which will be um a recommendation to close a a a subset of schools." [YT:qiCQKmMdLr4@2:29:09](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=8949s)
+
+**Apr 2026: tempering scale and rationale amid community anxiety.** "I can't imagine that we'll be higher than 12 within the next six or seven months, but the reality is that we can be as low as one, two, or or three, right?" [YT:h_0YMlJnXPk@0:59:10](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=3550s) "closing schools is not a cost-saving strategy." [YT:h_0YMlJnXPk@1:26:04](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=5164s)
+
+**Apr–Jun 2026: closures tied back to the budget.** "We also are operating more buildings than we can support. This limits our ability to invest fully in every school. We need to continue to plan for consolidation and closure." [YT:j9PzUvPpSVA@1:12:15](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=4335s) "we have several more uncomfortable conversations to go when we're talking boundary adjustments or program moves and school closures." [YT:yinJ7KK-Bqc@5:33:55](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=20035s)
+
+**Sept–Oct 2026: larger magnitude, attributed to board direction; board must decide.** "I've heard from several of you that when I initially led out with 5 to 12 that that number was too low from what you were thinking." [YT:5RMfvT-sAPU@2:11:46](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7906s) "we are bleeding resources. Um we've had to spread those resources far and wide and we also are addressing a structural deficit." [YT:uAf7l-ChjFo@4:26:09](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15969s) "And you can either accept that recommendation with no changes, accept it with some changes or choose to defer this work to a later time." [YT:zOUH2Jq7Owo@3:11:30](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11490s)
+
+Analysis: Armstrong's direction has not changed since spring 2025. Her stated scale went from "five to 10" (Mar) to "one ... to 12" (Apr) to roughly 10–20 (Aug news, [NEWS:NEWS-20260826-wweek-1]) and 11–14 in the Oct scenarios (`analysis/topics/rightsizing.md`). Her stated rationale oscillated between "not a cost-saving strategy" (Apr) and budget stabilization (Apr 28, Jun 23).
+
+## Voting record
+
+Not applicable: the superintendent does not vote. See the board members' profiles for the votes on her recommendations and on her contract (Res. 7371).
+
+## Key quotes
+
+- **2025-03-18** — "than commitments that were made a couple of years ago with a whole different budget and different resources that frankly we don't have available" [YT:XENAU3DUf5g@3:17:50](https://www.youtube.com/watch?v=XENAU3DUf5g&t=11870s)  
+  _Context (from the quote record):_ will not honor SEGC FTE commitment as such
+- **2025-04-22** — "we've seen a 10.8% 8% enrollment drop since 2019 2020 school year. This is one of our biggest financial challenges" [YT:-iIZmAv0aaE@0:50:51](https://www.youtube.com/watch?v=-iIZmAv0aaE&t=3051s)  
+  _Context (from the quote record):_ frames enrollment decline as a core financial driver
+- **2025-04-22** — "we will continue to rightsize right as we have to rightsize in schools we also have to rightsize in our our central office" [YT:-iIZmAv0aaE@2:18:42](https://www.youtube.com/watch?v=-iIZmAv0aaE&t=8322s)  
+  _Context (from the quote record):_ commits to ongoing rightsizing of schools and central office
+- **2025-06-10** — "this opportunity is a responsibility to re-establish Jefferson as a strong highdemand neighborhood school rooted in community culture and excellence." [YT:mb9SnIfcbZY@2:44:57](https://www.youtube.com/watch?v=mb9SnIfcbZY&t=9897s)  
+  _Context (from the quote record):_ re-establish Jefferson as neighborhood school
+- **2025-08-19** — "And then the spring, we know that we have budget reduction conversations. We have to talk about school optimization. There are some pretty big topics that we're going to talk about that will be seeds to what we want to be true for 2030" [YT:m70mK_olqlc@4:38:11](https://www.youtube.com/watch?v=m70mK_olqlc&t=16691s)  
+  _Context (from the quote record):_ signals school optimization (rightsizing) coming in spring 2026 alongside budget cuts
+- **2025-10-14** — "we're entering this phase where you know we're calling it growing great schools but um actually what it's requiring us to do is take a look at our programming um our boundaries right sizing so that we can make sure that we're putting the appropriate supports um where we need it most." [YT:p6iGaRklgp0@0:57:32](https://www.youtube.com/watch?v=p6iGaRklgp0&t=3452s)  
+  _Context (from the quote record):_ rightsizing includes program review, not just buildings
+- **2025-12-02** — "As superintendent, I am and I should be held to a high degree by the amount of incompetence I allow over time." [YT:F_TBjQYZTA8@1:30:10](https://www.youtube.com/watch?v=F_TBjQYZTA8&t=5410s)  
+  _Context (from the quote record):_ frames Procedeo contract as accountability for past failures
+- **2025-12-16** — "We're going to continue to talk about schools and boundaries probably for the next 12 to 18 months." [YT:LZ101PSh6H0@2:33:05](https://www.youtube.com/watch?v=LZ101PSh6H0&t=9185s)  
+  _Context (from the quote record):_ signals extended rightsizing timeline
+- **2026-02-24** — "I want to recognize that while we chose the path of informing about the decision that was made, members of our MLC community wanted to be engaged to inform um before a decision was made." [YT:3sggkeHNIVk@0:08:14](https://www.youtube.com/watch?v=3sggkeHNIVk&t=494s)  
+  _Context (from the quote record):_ acknowledges inform-not-engage approach; stands by decision
+- **2026-02-24** — "we are going to be back here multiple times and there is no school that or any any group of grades um that will be closed that doesn't impact a student that's already on the continuum through that school." [YT:3sggkeHNIVk@1:36:31](https://www.youtube.com/watch?v=3sggkeHNIVk&t=5791s)  
+  _Context (from the quote record):_ wants clear policy before more closures
+- **2026-03-10** — "I planned um to bring you all a list in late fall that may contain five to 10 schools listed for closure." [YT:qiCQKmMdLr4@2:27:49](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=8869s)  
+  _Context (from the quote record):_ plans a recommendation to close 5-10 schools in late fall 2026
+- **2026-03-10** — "at the end, I want to call it what it is, which will be um a recommendation to close a a a subset of schools." [YT:qiCQKmMdLr4@2:29:09](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=8949s)  
+  _Context (from the quote record):_ names rightsizing plainly as school closure
+- **2026-04-14** — "the may would suggest that we could go through all of this work and all of the resources and it result in nothing?" [YT:AH3wdS1A3sM@2:00:39](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7239s)  
+  _Context (from the quote record):_ wants firm commitment to change
+- **2026-04-20** — "if a school was built for 500 students, but only has 250, we still pay to operate the whole building." [YT:jBUIkfQZu-k@0:16:10](https://www.youtube.com/watch?v=jBUIkfQZu-k&t=970s)  
+  _Context (from the quote record):_ efficiency rationale for consolidation
+- **2026-04-22** — "I can't imagine that we'll be higher than 12 within the next six or seven months, but the reality is that we can be as low as one, two, or or three, right?" [YT:h_0YMlJnXPk@0:59:10](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=3550s)  
+  _Context (from the quote record):_ closure count range 1-12
+- **2026-04-22** — "closing schools is not a cost-saving strategy." [YT:h_0YMlJnXPk@1:26:04](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=5164s)  
+  _Context (from the quote record):_ closures not cost-saving
+- **2026-04-28** — "We also are operating more buildings than we can support. This limits our ability to invest fully in every school. We need to continue to plan for consolidation and closure." [YT:j9PzUvPpSVA@1:12:15](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=4335s)  
+  _Context (from the quote record):_ supports consolidation and closures for long-term stability
+- **2026-06-23** — "we have several more uncomfortable conversations to go when we're talking boundary adjustments or program moves and school closures." [YT:yinJ7KK-Bqc@5:33:55](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=20035s)  
+  _Context (from the quote record):_ stabilization requires closures/boundary decisions
+- **2026-09-01** — "We have fewer students today spread across a system designed to serve significantly more in too many places." [YT:5RMfvT-sAPU@1:17:36](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=4656s)  
+  _Context (from the quote record):_ rightsizing needed for stronger, sustainable schools
+- **2026-09-01** — "I've heard from several of you that when I initially led out with 5 to 12 that that number was too low from what you were thinking." [YT:5RMfvT-sAPU@2:11:46](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7906s)  
+  _Context (from the quote record):_ increased magnitude reflects board feedback
+- **2026-09-01** — "nothing moves forward without an affirmative vote from the majority of the board that's targeted for December." [YT:5RMfvT-sAPU@2:15:36](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8136s)  
+  _Context (from the quote record):_ board decides in December
+- **2026-09-15** — "the amount of resources we have to spread across all of our 81 sites is getting thinner and is less." [YT:uAf7l-ChjFo@3:10:40](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=11440s)  
+  _Context (from the quote record):_ status quo erodes all schools' resources
+- **2026-09-15** — "we are bleeding resources. Um we've had to spread those resources far and wide and we also are addressing a structural deficit." [YT:uAf7l-ChjFo@4:26:09](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15969s)  
+  _Context (from the quote record):_ three-step framing: stop bleeding, stabilize, resource
+- **2026-10-06** — "for the last eight years, we have taken from some schools to subsidize others." [YT:zOUH2Jq7Owo@1:31:26](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=5486s)  
+  _Context (from the quote record):_ pro-consolidation: small schools are subsidized
+- **2026-10-06** — "And you can either accept that recommendation with no changes, accept it with some changes or choose to defer this work to a later time." [YT:zOUH2Jq7Owo@3:11:30](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11490s)  
+  _Context (from the quote record):_ board options
+
+## News-reported quotes (secondary)
+
+- 2026-06-25 — "My hope and my goal is to end it in the next two years." [NEWS:NEWS-20260625-opb-1] (https://www.opb.org/article/2026/06/25/portland-public-schools-budget-painful-layoffs/)
+- 2026-07-08 — "A restoration of positions or any budget item this year adds to next year’s deficit," [NEWS:NEWS-20260708-wweek-1] (https://www.wweek.com/news/schools/2026/07/08/if-pps-found-extra-money-superintendent-says-she-wouldnt-recommend-restoring-teaching-positions/)
+- 2026-07-08 — "our recommendation wouldn’t be to restore positions," [NEWS:NEWS-20260708-wweek-1] (https://www.wweek.com/news/schools/2026/07/08/if-pps-found-extra-money-superintendent-says-she-wouldnt-recommend-restoring-teaching-positions/)
+- 2026-08-26 — "This year will be even harder" [NEWS:NEWS-20260826-katu-1] (https://katu.com/news/local/pps-opens-school-year-at-rosa-parks-elementary-warns-more-cuts-and-closures-ahead-portland-schools-right-sizing-community-teachers-parents-students-local-community)
+- 2026-08-26 — "We actually have to fundamentally change the way that we do business in Portland." [NEWS:NEWS-20260826-kptv-1] (https://www.kptv.com/2026/08/26/only-fox-12-one-on-one-with-pps-superintendent-dr-kimberlee-armstrong/)
+- 2026-08-26 — "We know that we’re looking at upwards of $65 million to stabilize our district." [NEWS:NEWS-20260826-kptv-1] (https://www.kptv.com/2026/08/26/only-fox-12-one-on-one-with-pps-superintendent-dr-kimberlee-armstrong/)
+- 2026-08-26 — "As we dig into the data…that number could be as great as 20 or as few as 10," [NEWS:NEWS-20260826-wweek-1] (https://www.wweek.com/news/schools/2026/08/26/pps-superintendent-says-district-could-close-up-to-20-schools/)
+- 2026-08-26 — "I know that families are still choosing Portland." [NEWS:NEWS-20260826-wweek-1] (https://www.wweek.com/news/schools/2026/08/26/pps-superintendent-says-district-could-close-up-to-20-schools/)
+- 2026-08-26 — "Students are at the center of all the things that we do" [NEWS:NEWS-20260826-katu-1] (https://katu.com/news/local/pps-opens-school-year-at-rosa-parks-elementary-warns-more-cuts-and-closures-ahead-portland-schools-right-sizing-community-teachers-parents-students-local-community)
+- 2026-08-26 — "Then at the middle level, we have some growth over what was projected," [NEWS:NEWS-20260826-wweek-1] (https://www.wweek.com/news/schools/2026/08/26/pps-superintendent-says-district-could-close-up-to-20-schools/)
+- 2026-09-01 — "Tonight is about establishing the runway for the work. Not determining its outcome," [NEWS:NEWS-20260901-katu-1] (https://katu.com/news/local/story/portland-public-schools-board-superintendent-kimberlee-armstrong-has-sobering-conversation-about-school-closure-priorities-declining-enrollment)
+- 2026-09-02 — "I’m just trying to match the energy of the board" [NEWS:NEWS-20260902-opb-1] (https://www.opb.org/article/2026/09/02/portland-public-schools-rightsizing-close-schools-standardize-education)
+- 2026-09-03 — "this is the magnitude of the impact that we would have to take," [NEWS:NEWS-20260903-wweek-1] (https://www.wweek.com/news/schools/2026/09/03/heres-where-every-pps-board-member-stands-on-school-closures/)
+- 2026-09-10 — "This isn't an easy conversation. As a matter of fact, it's a conversation that nobody wants to have." [NEWS:NEWS-20260910-facilitiesdive-1] (https://www.facilitiesdive.com/news/portland-public-schools-ponders-up-to-18-school-closures/830020/)
+- 2026-10-05 — "give every student access to strong programs, stable staffing and the opportunities and support they deserve." [NEWS:NEWS-20261005-axios-1] (https://www.axios.com/local/portland/2026/10/06/schools-could-close-enrollment-budget)
+- 2026-10-05 — "considering the closure of any school is extraordinarily difficult," [NEWS:NEWS-20261005-katu-1] (https://katu.com/news/local/portland-public-schools-proposes-closing-up-to-14-schools-amid-declining-enrollment)
+- 2026-10-05 — "It’s about getting to the right size in the portfolio of schools that we have," [NEWS:NEWS-20261005-kptv-1] (https://www.kptv.com/2026/10/06/pps-proposes-closing-up-14-schools-district-faces-65m-shortfall/)
+- 2026-10-05 — "We expect feedback, pushback comments, questions. We welcome it," [NEWS:NEWS-20261005-kptv-1] (https://www.kptv.com/2026/10/06/pps-proposes-closing-up-14-schools-district-faces-65m-shortfall/)
+- 2026-10-05 — "We’re closing schools because we’re spreading our resources too thin," [NEWS:NEWS-20261005-opb-1] (https://www.opb.org/article/2026/10/05/portland-public-schools-closures-rightsizing/)
+- 2026-10-05 — "The question that I hold onto, though, is what happens if we do nothing?" [NEWS:NEWS-20261005-opb-1] (https://www.opb.org/article/2026/10/05/portland-public-schools-closures-rightsizing/)
+- 2026-10-05 — "These scenarios mark the next phase of an important community conversation" [NEWS:NEWS-20261005-pps-1] (https://resources.finalsite.net/images/v1791239310/ppsnet/fvikbj7hndctqjr605h9/PressRelease_Rightsizing_2026-10-05.pdf)
+- 2026-10-05 — "We need to hear from students, families, educators and communities" [NEWS:NEWS-20261005-pps-1] (https://resources.finalsite.net/images/v1791239310/ppsnet/fvikbj7hndctqjr605h9/PressRelease_Rightsizing_2026-10-05.pdf)
+- 2026-10-05 — "What I did ask for, though, is that my COLA be capped," [NEWS:NEWS-20261005-kptv-1] (https://www.kptv.com/2026/10/06/pps-proposes-closing-up-14-schools-district-faces-65m-shortfall/)
+- 2026-10-06 — "Our job isn't to come here and persuade here or come here and give you a list of demands," [NEWS:NEWS-20261006-katu-1] (https://katu.com/news/local/parents-teachers-portland-association-teachers-portland-public-schools-meeting-school-closure-proposal-board-member-stephanie-engelsman-superintendent-kimberlee-armstrong)
+- 2026-10-06 — "It's to share information about what it will take to stabilize our system," [NEWS:NEWS-20261006-katu-1] (https://katu.com/news/local/parents-teachers-portland-association-teachers-portland-public-schools-meeting-school-closure-proposal-board-member-stephanie-engelsman-superintendent-kimberlee-armstrong)
+
+_Showing the 25 most recent of 71 news-reported quotes; see `_quotes_from_news.jsonl` for the rest._
