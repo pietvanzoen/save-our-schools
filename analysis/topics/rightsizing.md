@@ -1,3 +1,5 @@
+> **Update (controller, 2026-10-11):** written before some sources were archived. Since then: (1) PPS per-school 2027-28..2031-32 projections and scenario details were archived from the 82 per-school PDFs (see `analysis/schools/` and `analysis/data/school_impact.csv`); (2) the adopted text of Res. 7296 is in the Apr 14, 2026 minutes [BB:3998077 p.13]; (3) many 2026 minutes are readable only via `.pdf.ocr.txt`. See `analysis/BRIEFING.md` and `analysis/README.md` for the current synthesis.
+
 # PPS 2026 Rightsizing ("Growing Great Schools" Phase III / "Rightsize. Right Support. Right for Students.")
 
 Synthesis as of 2026-10-10. Scope: the districtwide rightsizing / school-closure process and the linked enrollment-balancing work (Southeast Enrollment & Program Balancing / SEGC, Jefferson dual-assignment sunset, K-8 / middle-grades configuration, focus options, dual language immersion placement).

@@ -1,3 +1,5 @@
+> **Update (controller, 2026-10-11):** written before some sources were archived. Since then: (1) PPS per-school 2027-28..2031-32 projections and scenario details were archived from the 82 per-school PDFs (see `analysis/schools/` and `analysis/data/school_impact.csv`); (2) the adopted text of Res. 7296 is in the Apr 14, 2026 minutes [BB:3998077 p.13]; (3) many 2026 minutes are readable only via `.pdf.ocr.txt`. See `analysis/BRIEFING.md` and `analysis/README.md` for the current synthesis.
+
 # Rightsizing: open questions, contradictions and data gaps
 
 As of 2026-10-10. This file covers contradictions between PPS documents, numbers that do not reconcile, questions PPS has not answered, data gaps in the archive, and claims to check against meeting video.
