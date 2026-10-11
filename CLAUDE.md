@@ -45,4 +45,5 @@ and how board members and senior staff think and change positions over time. Rou
 - People: `analysis/people/README.md`, `analysis/people/quotes_all.jsonl`, per-person profiles
 - Search: `python3 tools/search.py "query"` (full-text over sources + analysis)
 - Data tables: `analysis/data/*.csv` (`school_impact.csv` for per-school scenario facts); director stances: `analysis/board_closure_stance/`
+- Context and page lookup: `python3 tools/window.py <videoId> <H:MM:SS>`; `python3 tools/doc.py <docId> [page] [--grep re]`
 - Quote merging (new batches only): `python3 tools/merge_quotes.py analysis/people/quotes/<batch>.jsonl [--write]`

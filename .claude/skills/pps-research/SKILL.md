@@ -13,13 +13,19 @@ does not cover something, say so and name the gap. Do not fill it from memory.
 Snapshot date: **2026-10-11**. Scenarios A and B were released Oct 5–6, 2026. The superintendent's recommendation and
 fiscal impact statement are due Nov 17, and the board vote is Dec 15, 2026. Anything after Oct 11, 2026 is not in the archive.
 
-## 1. Orient (read these first, in order)
+## 1. Orient
 
-1. `CLAUDE.md`: repo rules (citations, verbatim quotes, attribution confidence). Claude Code loads it automatically.
-2. `analysis/BRIEFING.md`: the decision briefing (bottom line, Scenario A vs B, rationale, weak points, board stances).
-3. `analysis/README.md`: the index of every analysis file, with a "how to answer common questions" table.
-4. `references/data_dictionary.md` (next to this file): every index, CSV and JSONL schema and what it is good for.
-5. `references/people_and_captions.md`: board and staff roster, name variants in auto-captions, and known traps.
+Always read `CLAUDE.md` (repo rules: citations, verbatim quotes, attribution confidence; Claude Code loads it
+automatically) and sections 3–5 below.
+
+- **Narrow question** (one school, one person, one meeting): go straight to the matching recipe in section 3.
+  For a school, `analysis/schools/<slug>.md` is the right first stop.
+- **Broad question, or the first question of a long session:** also read
+  - `analysis/BRIEFING.md`: the decision briefing (bottom line, Scenario A vs B, rationale, weak points, stances)
+  - `analysis/README.md`: index of every analysis file, with a "how to answer common questions" table
+- **When you need them:**
+  - `references/data_dictionary.md`: file layouts, CSV/JSONL schemas
+  - `references/people_and_captions.md`: roster, roles, caption name variants
 
 ## 2. Find things
 
@@ -34,6 +40,18 @@ python3 tools/search.py '"school deserts"' --from 2026-09-01 --json  # date filt
 Kinds: `transcript`, `boardbook`, `pps_net`, `bond`, `quote`, `news`, `analysis`. FTS5 syntax: `"phrase"`, `AND/OR/NOT`, `prefix*`, `NEAR(a b, 10)`.
 The search returns stemmed matches, so also `grep -i` the raw files for exact strings and caption variants (section 5).
 
+**Read the context, then cite precisely:**
+```bash
+python3 tools/window.py zOUH2Jq7Owo 2:23:24          # transcript ±2 min, with links; ">" marks likely speaker changes
+python3 tools/window.py zOUH2Jq7Owo 2:23:24 0.5 4    # 0.5 min before, 4 after
+python3 tools/doc.py 14505788                        # locate a BoardBook doc id (attachment, minutes_<id>, public_notice_<id>)
+python3 tools/doc.py 14505788 2                      # print page 2, the N in [BB:14505788 p.2]
+python3 tools/doc.py 14505788 --grep "Rose City"     # matching lines with their page numbers
+python3 tools/doc.py school_impact/maplewood 3       # any sources/ PDF by path fragment
+```
+Transcript files are `sources/youtube/transcripts/<date>_<videoId>.txt`, with one `[H:MM:SS] text` line per caption.
+PDF text is `<file>.pdf.txt`, with pages separated by `\f`; `doc.py` prefers the `.ocr.txt` version for scanned PDFs.
+
 **Without a shell (e.g. reading the repo on github.com):** go through the indexes instead.
 - Per school: `analysis/schools/<slug>.md`
 - Per person: `analysis/people/<slug>.md` and `analysis/board_closure_stance/<slug>.md`
@@ -45,8 +63,8 @@ The search returns stemmed matches, so also `grep -i` the raw files for exact st
 
 | Question type | Where to go | Notes |
 |---|---|---|
-| What happens to school X? Why was it chosen? | `analysis/schools/<slug>.md` → `sources/pps_net/rightsizing/school_impact/<slug>.pdf.txt` (PPS's own "Why is PPS considering this?" text) → `analysis/data/school_impact.csv` | Then search transcripts for the school name **and its caption variants**. The Oct 6, 2026 meeting (`zOUH2Jq7Owo`) has the staff school-by-school rationale at about 2:23–2:48. |
-| What did director/staffer X say about Y? | `--kind quote --person "X"` → `analysis/people/<slug>.md` → open the transcript at the timestamp and read ±2 min | Use only `high` and `medium` quotes. Label medium ones. |
+| What happens to school X? Why was it chosen? | `analysis/schools/<slug>.md` → `sources/pps_net/rightsizing/school_impact/<slug>.pdf.txt` (PPS's own "Why is PPS considering this?" text) → `analysis/data/school_impact.csv` | Then search transcripts for the school name **and its caption variants**. The Oct 6, 2026 meeting (`zOUH2Jq7Owo`) has the regional overview (Calvert) from about 2:10 and the school-by-school rationale (Smith) at about 2:23–2:48. |
+| What did director/staffer X say about Y? | `--kind quote --person "X"` → `analysis/people/<slug>.md` → `tools/window.py <vid> <timestamp>` to read the context and confirm the speaker | Use only `high` and `medium` quotes. Label medium ones. |
 | Where does board member X stand on closures? | `analysis/board_closure_stance/<slug>.md` (timeline, contradictions, fixations, weak points) and `README.md` there; scores in `all_scores.csv` | Scores are analytical judgments. Say so. |
 | What was decided at meeting M, and the vote? | `analysis/meetings/<date>_<vid>.md` → `sources/boardbook/meetings/<date>_<id>_*/minutes_*.pdf.txt` (or `.ocr.txt`) | Minutes are authoritative for votes. Sept–Oct 2026 minutes were not yet posted. |
 | Numbers: enrollment, capacity, budget, seismic, bond | `analysis/data/*.csv` (every row has a source) → the cited PDF page | Cite the source document, not the CSV. Check `analysis/topics/*_open_questions.md` for known conflicting figures. |
@@ -70,7 +88,11 @@ The search returns stemmed matches, so also `grep -i` the raw files for exact st
 - **Speaker attribution** in transcripts is inferred: captions have no speaker labels. Check who the chair recognized
   just before ("Director Splitt…"), or self-identification. State confidence when it isn't obvious. Don't build
   conclusions on low-confidence attributions.
-- **Members of the public** are described ("a Maplewood parent in public comment"), not named. Board members and staff are named.
+- **Re-check a stored rating before relying on it.** The `confidence` and `attribution_evidence` in `quotes_all.jsonl`
+  are a previous agent's judgment. Before a quote carries weight in your answer, open the window and confirm who is
+  speaking. A "thank you, Director X" can end the previous speaker's turn rather than start X's.
+- **Members of the public** are described ("a Maplewood parent in public comment"), not named. Board members, staff and
+  other public officials speaking in their official capacity (e.g. a state legislator in public comment) are named.
 - **Separate three things:** what PPS documents state; what people said; and your own inference, labeled "Analysis:".
 - **Be explicit about gaps** (section 6) rather than guessing.
 - End with a short **Sources** list of the files you actually read.
@@ -90,8 +112,12 @@ The search returns stemmed matches, so also `grep -i` the raw files for exact st
 - **Scenario details:** Scenario A closes 14 schools and Scenario B closes 11 (Stephenson, Rose City Park and Lewis stay open in B).
   Use `analysis/data/school_impact.csv` (from the per-school family guides). It supersedes earlier memo-based figures;
   see `analysis/schools/_discrepancies.md`.
+- **Forecasts vs. counts.** PSU/PRC forecast tables include the current year as a projection (e.g. Odyssey 2025-26:
+  218 forecast vs. 217 actual Oct 1 count). For actual enrollment use the Oct 1 count ([BB:3997157] or the Data &
+  Reporting enrollment summaries), and label projections as projections.
 - **Space-aligned PDF text** (lottery and enrollment tables) can shift columns. If a number matters, render the page
-  (`pdftoppm -f N -l N -png file.pdf out`) and read it, or say the alignment is uncertain.
+  (`pdftoppm -f N -l N -png file.pdf out`) and read it, or say the alignment is uncertain. In a lightweight clone the
+  PDFs aren't checked out: run `git sparse-checkout add '<path>.pdf'` first. If you can't, say the value is unverified.
 - **Scanned PDFs**: use `<file>.pdf.ocr.txt` when it exists (OCR errors are possible). An empty grep is not proof of absence.
 
 ## 6. Known gaps (say so; don't guess)

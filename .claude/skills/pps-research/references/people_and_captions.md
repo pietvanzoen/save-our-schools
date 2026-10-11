@@ -80,5 +80,6 @@ In quotes, keep caption text and repair only in brackets: "Ricky" → "[Rieke]".
 - **Medium:** strong contextual inference, such as continuing a recognized turn or a topic only one person owns.
 - **Low:** guess. Don't use it in conclusions.
 
-Public commenters introduce themselves by name. The archive describes them by affiliation ("a Maplewood parent"),
-not by name.
+Public commenters introduce themselves by name. The archive describes private individuals by affiliation
+("a Maplewood parent"), not by name. Public officials speaking in their official capacity (e.g. State Rep. Thuy Tran,
+HD45, in the Oct 6, 2026 public comment) may be named.
