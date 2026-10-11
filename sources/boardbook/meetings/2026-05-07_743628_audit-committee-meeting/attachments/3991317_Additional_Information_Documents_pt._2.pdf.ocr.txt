@@ -1,0 +1,3729 @@
+[OCR supplement of 3991317_Additional_Information_Documents_pt._2.pdf: pages [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76] were OCRed with tesseract 5; other pages are the PDF text layer]
+y,
+U
+
+SEATTLE
+PUBLIC
+SCHOOLS
+
+The Seattle Public Schools Office of Internal Audit
+
+Internal Audit Work Plan
+
+March 1, 2022, through February 28, 2025
+
+Issue Date: March 1, 2022
+
+1 of 18
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+Introduction
+
+In accordance with Board Policy 6550 and Board Procedure 6550BP — Internal Audit, the role of the Office
+of Internal Audit (Internal Audit) is to provide, “independent and objective assurance and consulting
+services designed to add value and improve the District's operations.” Every three years, Internal Audit
+shall require an enterprise risk assessment be conducted. In accordance with Board Policy 6500, the
+enterprise risk assessment should identify, assess, prioritize, and respond to opportunities and threats
+that affect the achievement of Seattle Public Schools (“District”) objectives. Using the completed risk
+assessment and input from District management, stakeholders, and the Board, Internal Audit shall
+develop a risk-based audit work plan identifying areas or departments for review. The District contracted
+with Crowe, LLP to help facilitate the 2021 enterprise risk assessment and development of the 2022
+through 2025 Internal Audit Work Plan (the Plan).
+
+Proposed projects in the Plan may include, but are not limited to, internal control reviews, capital
+program reviews, operational assessments, performance audits, or other advisory functions for any
+District function. Within the Plan, Internal Audit resources will be reserved for special audit requests to
+address pressing District needs. The Plan, as well as any revisions to the Plan, shall be reviewed and
+approved by the Audit and Finance Committee.
+
+Internal Audit evaluates the timing implications of each area being considered for an audit. If an area is
+being audited or investigated, or if it is in the process of implementing significant changes to its
+operations, either in response to prior concerns or as part of an internal restructuring, we will adjust the
+timing of that area to ensure a more effective audit and to help provide greater value through meaningful
+recommendations. The Plan is also designed to be agile. For example, if the occurrence of a major event
+impacted District objectives, the Plan may need to be adjusted to provide a more immediate assessment
+in the affected area (e.g., cybersecurity breaches, allegations of fraud or theft, and natural disaster or
+pandemic-related outages).
+
+On occasion, unforeseen circumstances may also prevent the completion of an audit. An area under audit
+may experience significant turnover or operational changes that make an internal audit unrealistic at
+that time. The State Auditor’s Office or other external entity may choose to audit an area before we
+complete our audit. It is also possible that an audit area may be under investigation by another
+regulatory entity. To avoid a duplication of effort, the selected area will be replaced by another audit
+priority.
+
+As the year progresses, new risks or priorities may be identified. Internal Audit will work collaboratively
+with the Board, superintendent, and senior management team to continually identify ways to add value
+and improve District operations by providing insight and objective assurance related to the District's
+internal controls, processes, organizational goals, and strategic objectives. As aresult, changes to the Plan
+may be recommended, which can be approved by the Audit & Finance Committee at any time, if
+necessary.
+
+A risk register (i.e., an inventory of risks to the District) has been developed to inform the enterprise risk
+assessment and the audit universe. While we used a risk-based approach for the Plan, the audit universe
+is also maintained to represent the potential range of all audit activities and has been continually
+developed over the years. As certain areas become obsolete, they are removed from the audit universe.
+Any newareas identified during the year (such as those identified through the enterprise risk assessment)
+are added to the audit universe and evaluated with the same risk factors as all other audit areas.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page |2
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+There were 12 significant risks identified in the enterprise risk assessment which presented the greatest
+perceived risks to the District’s strategic, compliance, reporting, and operating objectives. We
+considered these risks in preparation of the Plan. Many of these risks are common among school districts
+across the country and are not unique to the District. Management’s top risks have been included in
+order of risk rating, according to impact and likelihood of occurrence, in the table below.
+
+Top Enterprise Risks
+
+Summary of Risk Area
+
+If the District does not establish a sustainable funding mechanism
+to address its structural deficit, then financial instability may
+adversely impact its ability to maintain current services or fund
+strategic initiatives.
+
+1 | Structural Deficit
+
+If the roles and responsibilities between management and
+
+Ve EAI cere " ; BF Sc Soc tn
+Governance] governing bodies is unclear, it may impede the District's ability to
+
+2 achieve its goals due to conflicting priorities and directives, gaps
+Management : vette tt . F a
+in accountability, independence issues, and inefficient use of
+resources.
+
+. . If the District is unable to fill all open teaching positions, then the
+Union Relations / Labor : . .
+3 SAanAne additional workload and strain on faculty may adversely impact
+6 the quality of course offerings and programs.
+
+If the Central Office is unable to hire and retain qualified
+4 | Recruiting and Retention personnel, then it may face vacancies which result in operational
+gaps or failure to deliver on strategic initiatives.
+
+lf the Central Office and schools do not effectively communicate
+policies and procedures which impact schools and families, then
+miscommunication or conflicting practices may negatively affect
+enrollment, health and safety protocols, and school operations.
+
+5 | Siloed Communications
+
+If one or more students experience harm, injury, or mistreatment
+at the hands of an employee or contractor, then it may have
+wide-ranging implications for the District, including loss of family
+6 | Student Safety or community support, damage to employee morale, damage to
+its reputation, loss of funding, reduction in student enrollment,
+and financial losses. It may also result in personnel being subject
+to criminal investigation and prosecution.
+
+If departments and schools are not compliant with District
+policies and procedures, then it may present threats to the
+achievement of strategic/ program initiatives, operating needs,
+the ethical culture, and the control environment.
+
+7 | Non-Compliance (Internal)
+
+Natural Disasters and lf a natural disaster, catastrophe, or pandemic impacts the
+Catastrophes District or the communities it serves, then there may be wide-
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page |3
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+Title Summary of Risk Area
+
+ranging or extended implications including: 1) loss of life, injuries,
+or illness; 2) limited or no access to classrooms or
+programs/activities; 3) faculty and personnel shortages, 4)
+system outages; and 5) reduced student enrollment.
+
+lf the District experiences an interruption to the availability of
+critical systems or applications, or if it incurs a loss of student or
+employee personally identifiable information (PII), then there
+may be wide-ranging implications including: 1) harm to students
+or employees; 2) a halt or limited operations and use of
+enterprise applications; 3) financial losses; or 4) reputational
+damage.
+
+Cyberattacks and Data
+Protection
+
+10
+
+lf inappropriate or illegal actions taken by District personnel,
+board members, or affiliated entities are reported to the public,
+Reputation / Public Image | then it may damage the District's public image and relationships
+with students, families, and communities. It may also lead to a
+decline in enrollment and funding.
+
+11
+
+If the District has not clearly identified the goals and expected
+Strategic Initiatives outcomes for certain programs and initiatives, then this may
+increase inefficient use of resources and excessive spending.
+
+12
+
+If the District does not comply with federal compliance
+requirements (e.g., Title |, LAP, other grantor agencies) then it
+may be required to return funds, incur penalties or fines, or it
+may lose future funding.
+
+Non-Compliance (External)
+
+Proposed Internal Audit Work Plan
+
+We completed the following procedures to develop the three-year Plan:
+
+1.
+
+Considered the results of the enterprise risk assessment and our independent evaluation to identify
+the top inherent risks to the District.
+
+Obtained an understanding of mitigation strategies and key controls to understand residual risk for
+each of the top risk areas.
+
+Develop a schedule of audit areas for the succeeding three years broken out by capital and
+noncapital audits.
+
+Developed preliminary audit objectives for each audit area to address key risks.
+
+Met with senior leadership to confirm that the timing and scope of the proposed audits would
+provide value to their operations and avoid a significant disruption to their current initiatives.
+
+The Plan is divided between Non-Capital and Capital audits to properly reflect funding sources and
+available resources. Please note that the budgeted resources are an estimate and are subject to change.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+
+Page |4
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+While the Plan is driven by the enterprise risk assessment, there are certain risks that are better audit
+“candidates” than others. This may occur when the related area is primarily driven by external influences
+or when it is still in development. For these risks, we determined that Internal Audit may be positioned to
+add the most value by serving in an advisory capacity while District leaders and risk owners develop their
+risk response plans as part of the ERM program implementation initiative. Internal Audit may also serve
+the District as a valuable resource by tracking, monitoring, and validating the completion of
+management'’s corrective action plans resulting from prior audit findings. To address this need, we have
+devoted hours within each school year to Risk Response Plan Assessment and Corrective Action Plan
+Validation.
+
+In addition, we have acknowledged that the Structural Deficit is a known risk which is highly driven by
+external influences (e.g., state legislature and funding formula). Audits which are aligned with the
+Structural Deficit risk are intended to provide value from determining where there may be opportunities
+to improve operational efficiency and use of District resources, and which focus on preventing and
+detecting fraud, waste, or misuse of limited District resources.
+
+The primary audits planned for the succeeding three years are included below and are divided into non-
+capital and capital audits. It is based on budgeted staff hours available for audit projects and $100,000
+budgeted per year for outsourced projects. The Staffing column indicates the preferred arrangement for
+performing the audits. Projects indicating “Internal” would be performed solely by Internal Audit
+personnel. “Outsourced” projects would be performed by a third-party service provider with support from
+Internal Audit.
+
+As indicated in the Budgeted Hours/Fees column below, hours for outsourced projects include an
+estimated range for internal staff support and a preliminary cost estimate. Please note that costs are
+dependent upon scope and other unknown factors and are subject to change; however, Internal Audit
+will prioritize projects based on risk, and total costs will not exceed the $100,000 annual budget.
+Remaining funds, it any, may be used to bring in specialists to augment services on other projects within
+that year’s plan. The estimated resources for internal audits are also preliminary, and the actual hours
+necessary to complete each item will be determined after the audit begins and we gain a better
+understanding of the audit.
+
+The Plan is a commitment to focus on audit priorities that align with the District’s top risks rather than a
+commitment to complete all audits within the Plan. The Audit & Finance Committee approves the Plan
+which allows for reprioritization and includes sufficient audits for Internal Audit to remain productive for
+the duration of the Plan. Internal Audit will update the Audit & Finance Committee if significant or
+emergent concerns are discovered, or if unforeseen obstacles are encountered that would delay the
+completion of an audit or alter the timing of an audit. The Plan will be revisited on an annual basis to
+ensure that the risks are assessed, and audits remain meaningful, relevant, and aligned with District
+objectives.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page|9
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+2022/2023 Non-Capital Audit Plan:
+
+: Budgeted
+Audi taffin ipti
+udit Name S £ Description Hoursiracs
+Culinary Services Internal | Objective: To evaluate Culinary Services operational
+Advisory practices and determine if processes can be
+Engagement streamlined.
+
+(Carry-Over) 4 é neat
+Scope: Centralized supply chain processes within
+
+Culinary Services, Procurement, and the Warehouse.
+Focusing on internal controls and segregation of
+duties, while streamlining processes.
+
+Enterprise Risk Alignment: Non-Compliance
+(Internal); Non-Compliance (External); Siloed
+Communications; Student Safety; Structural Deficit.
+
+This is a carry-over engagement from the prior school
+year, but it does assess compliance, communications,
+and student health which is aligned with the safety
+and well-being of students.
+
+External Outsourced | Objective: To confirm that the District has 100 - 300
+Communications established clear and comprehensive roles, S40K - $50K
+Assessment responsibilities, and restrictions for external-facing :
+
+communications.
+
+Scope: This audit will evaluate the management of
+communications by employees, contractors, Board
+members and other key stakeholders to confirm that
+1) The applicable individuals have been trained or
+informed of the expectations and limitations
+pertaining to communications with the public, media,
+social media, or other external communications, 2)
+that monitoring mechanisms are in place to identify
+the need to respond to issues or incidents, and 3)
+Protocols are in place for developing and issuing the
+necessary communications by the appropriate
+individuals.
+
+Enterprise Risk Alignment: Reputation/Public Image;
+Strategic Initiatives; Siloed Communications.
+
+This assessment should be conducted by a public
+relations specialist. Identifying areas to improve the
+clarity and consistency of communications with the
+media and general public may boost the
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page |6
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+Audit Name Staffing
+
+Description
+
+Budgeted
+
+Hours/Fees
+
+effectiveness of District communications and help
+avoid the spread of misinformation.
+
+School Audits Internal
+
+Objective: To verify if controls at the school-level are
+functioning properly (e.g., cash handling,
+disbursements, payroll, compliance with
+administrative policies, etc.).
+
+Scope: School-level financial and administrative
+practices and procedures.
+
+Enterprise Risk Alignment: Structural Deficit; Non-
+Compliance (Internal); Non-Compliance (External):
+Cyberattacks and Data Protection; Reputation/Public
+Image.
+
+These audits involve relatively low dollar amounts
+but add value by assessing the District’s management
+of reputational/public perception, data privacy,
+adherence to District policy, and regulatory
+compliance risks.
+
+500 - 650
+
+Key Controls Internal
+Quantitative
+Analysis
+
+Objective: To develop analytical procedures to
+determine if key controls are properly functioning.
+These procedures will be used to monitor controls’
+operating effectiveness and assist in the detection
+and resolution of errors or fraudulent activity.
+
+Scope: This will be a cross-functional initiative to
+collect and analyze data to identify trends and
+anomalies within core administrative support
+functions including procurement, vendor profile
+setup and maintenance, disbursements, capital
+assets, and payroll, and other core functions.
+
+Enterprise Risk Alignment: Structural Deficit;
+Governance/Management; Siloed Communications;
+Non-Compliance (Internal).
+
+This engagement will focus on identifying potential
+non-compliance, inefficiencies, or fraud. Informing
+management and the Board of any issues in these
+areas may enable cost-savings or other corrective
+measures to enhance the use of limited resources,
+strengthen controls, and improve operating
+efficiency.
+
+300 - 500
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+
+Page |/7/
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+Budgeted
+Hours/Fees
+
+Audit Name Staffing Description
+
+Recruiting, Outsourced | Objective: To evaluate the District’s ability to fill and 150 - 300
+Hiring, and retain personnel in key positions which require
+Retention specific qualifications and experience.
+
+Performance
+
+Audit
+
+$30K - $50K
+
+Scope: This audit will address 1) The effectiveness of
+recruiting practices to attract qualified candidates to
+open positions, 2) The efficiency of hiring practices to
+fill open positions in a timely manner, and 3) The
+District’s ability to retain skilled employees through
+its compensation packages.
+
+Enterprise Risk Alignment: Recruiting and Retention;
+Union Relations / Labor Shortage.
+
+This audit may help management focus limited
+resources on the most impactful areas for improving
+talent acquisition and retention capabilities. An issue
+noted frequently during the enterprise risk
+assessment was that the District may be increasingly
+challenged with attracting and retaining qualified
+candidates for skilled positions. Contributing factors
+include the high cost of living in the Seattle area, and
+competition with the private sector for skilled
+positions (e.g., in the fields of Finance, IT).
+
+Risk Response/ Internal Includes follow-up procedures to verify if 200 - 300
+Corrective management has adequately completed corrective
+Action Plans action plans from prior audits and reviews. This also
+Validation includes advisory services to support management’s
+development of risk response plans as part of the
+District’s ERM initiative.
+
+Special Projects Internal Includes responding to management requests, 200
+Contingency supporting Audit & Finance Committee meetings and
+requests, and other unplanned work.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page |8
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+2023/2024 Non-Capital Audit Plan:
+
+Audit Name
+
+Regulatory
+Requirements
+Analysis
+
+Staffing
+
+Internal
+
+Description
+
+Objective: To determine that the District has
+identified and implemented adequate practices to
+monitor compliance with government regulatory
+requirements.
+
+Scope: This initiative will include evaluation of roles
+& responsibilities and tracking & monitoring
+mechanisms in place to identify and respond to
+regulatory reporting requirements at the federal,
+state, and local levels. This review will address
+funding regulations (e.g., Title |, ESSA, OSPI, and
+local levies), student civil rights protections (e.g.,
+Title Il of ADA, Title {X), and other federal, state,
+and local requirements.
+
+Enterprise Risk Alignment: Non-Compliance
+(External); Student Safety; Public
+Image/Reputation, Structural Deficit.
+
+This audit will address compliance with regulatory
+reporting requirements. Several of these
+regulations pertain to student safety and civil rights
+(Title IX, Title Il of ADA). An issue of non-compliance
+could lead to an adverse impact on public
+perception of the District.
+
+Budgeted
+Hours/Fees
+
+400 - 500
+
+Disaster
+Recovery
+Response Audit
+
+Outsourced
+
+Objective: To evaluate disaster recovery plans and
+mitigation activities to ensure they are functioning
+as intended.
+
+Scope: This audit will address mechanisms to
+monitor structural issues based on Loss of Life
+Prevention/Seismic studies, and the adequacy of
+drills and tabletop exercises for relevance and the
+ability to execute in the case of an emergency.
+
+Enterprise Risk Alignment: Natural Disasters and
+Catastrophes; Structural Deficit.
+
+This audit may identify issues and provide
+recommendation which may help the District
+address gaps or weaknesses in response
+capabilities.
+
+150 - 300
+S40K - S60K
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+
+Page |9
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+Budgeted
+Hours/Fees
+
+Audit Name Staffing Description
+
+School Audits Internal Objective: To verify if controls at the school-level 300 - 450
+are functioning properly (e.g., cash handling,
+disbursements, payroll, compliance with
+administrative policies, etc.).
+
+Scope: School-level financial and administrative
+practices and procedures.
+
+Enterprise Risk Alignment: Structural Deficit, Non-
+Compliance (Internal); Non-Compliance (External);
+Cyberattacks and Data Protection;
+Reputation/Public Image.
+
+These audits involve relatively low dollar amounts
+but add value by assessing the District’s
+management of reputational/public perception,
+data privacy, adherence to District policy, and
+regulatory compliance risks.
+
+Key Controls Internal Objective: To perform analytical procedures to 250 - 350
+Quantitative determine if key controls are properly functioning.
+Analysis These procedures will be used continuously to
+
+monitor controls’ operating effectiveness and assist
+in the detection and resolution of errors or
+fraudulent activity.
+
+Scope: This will be a cross-functional initiative to
+collect and analyze data to identify trends and
+anomalies within core administrative support
+functions including procurement, vendor profile
+setup and maintenance, disbursements, capital
+assets, and payroll, and other core functions.
+
+Enterprise Risk Alignment: Structural Deficit;
+Governance/Management; Siloed Communications;
+Non-Compliance (Internal).
+
+This engagement will focus on identifying issues of
+non-compliance, inefficiencies, or potential fraud.
+Informing management and the Board of any issues
+in these areas may enable cost-saving or other
+corrective measures to enhance the use of limited
+resources, strengthen controls, and improve
+operating efficiency.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page |10
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+; : aaa Budgeted
+Audit Name Staffing Description Hours/Fees
+Student Safety Outsourced | Objective: To confirm that the District has 100 - 300
+Performance implemented reasonable mechanisms to prevent S40K - S60K
+Audit harm to students, and its capability to detect and "
+
+address incidents jeopardizing student safety in an
+efficient, effective manner.
+
+Scope: This audit will examine the District’s current
+practices for maintaining student safety, including:
+
+1) Confirmation that District policies and
+procedures are aligned with applicable
+regulatory requirements for maintaining
+student safety and reporting any incidents
+involving student safety.
+
+2) Verify that employee and contractor hiring
+practices include thorough criminal background
+screening for individuals who may have contact
+with students or student information.
+
+3) Confirm that employee and contractor
+onboarding practices include training on
+allowable interactions with students, including
+disciplinary actions.
+
+4) Determine that the District has implemented
+sufficient reporting mechanisms to enable
+incidents involving student safety to be
+reported to the appropriate contacts and
+authorities, as needed.
+
+5) Determine that the District has sufficient
+mechanisms to track the timing and results of
+student safety investigations.
+
+Verify that HR practices include efficient
+disciplinary measures for employees or contractors
+who violate applicable District policies, up to and
+including termination or criminal prosecution.
+
+Enterprise Risk Alignment: Student Safety;
+Reputation/Public Image; Structural Deficit.
+
+A cross-functional approach to this audit (e.g.,
+policies, hiring practices, training, data protection,
+reporting/monitoring) may help identify underlying
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page |11
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+Audit Name
+
+Staffing
+
+Description
+
+issues which may have led to past student safety
+issues, and which may prevent future occurrences.
+
+Budgeted
+
+Hours/Fees
+
+Contract Audits
+
+Internal
+
+Objective: To verify that the District contracts
+followed the appropriate procurement method,
+received the appropriate levels of approval,
+included a detailed scope of work description, and
+contain evidence that adequate services were
+received in exchange for the funds expended.
+
+Scope: The audit will include competitive selection
+and procurement practices, contract review, and
+performance monitoring activities for the District’s
+vendors.
+
+Enterprise Risk Alignment: Structural Deficit;
+Governance/Management; Siloed Communications;
+Non-Compliance (Internal).
+
+100 - 200
+
+Risk Response/
+Corrective
+Action Plans
+Validation
+
+Internal
+
+Includes follow-up procedures to verify if
+management has adequately completed corrective
+action plans from prior audits and reviews. This also
+includes advisory services to support
+management’s development of risk response plans
+as part of the District’s ERM initiative.
+
+200 — 300
+
+Special Projects
+Contingency
+
+Internal
+
+Includes responding to management requests,
+supporting Audit & Finance Committee meetings
+and requests, and other unplanned work.
+
+200
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+
+Page |12
+
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+2024/2025 Non-Capital Audit Plan:
+
+Audit Name Staffing Budgeted
+
+Hours/Fees
+
+Description
+
+IT General Outsourced Objective: To assess the District’s alignment with 100 - 300
+Controls Audit industry standards and best practices in Information
+Technology General Controls (ITGC) and identify
+
+areas for strengthening controls.
+
+S40K - SSOK
+
+Scope: This audit will evaluate the completeness and
+adequacy of the District’s social engineering
+awareness efforts, information security policies, and
+network configuration in relation to accepted
+security frameworks and best practices.
+
+Enterprise Risk Alignment: Cyberattacks and Data
+Protection; Structural Deficit.
+
+Identification of any gaps or weaknesses in ITGC may
+assist management’s ability to prevent or detect a
+major breach, system outage, or loss of data.
+
+School Internal Objective: To assess District schools’ compliance with 300 - 400
+Emergency applicable rules and regulations for school
+Response Audit emergency preparedness and response practices.
+
+Scope: The audit will include schools’ emergency
+response plans including but not limited to
+emergency drills, availability of CPR and first aid
+certified staff, adequacy of resources for food, water,
+and supplies in the event of an emergency.
+
+Enterprise Risk Alignment: Student Safety, Non-
+Compliance (Internal) Non-Compliance (External).
+
+School Audits Internal Objective: To verify if controls at the school-level are 300 - 450
+functioning properly (e.g., cash handling,
+disbursements, payroll, compliance with
+administrative policies, etc.).
+
+Scope: School-level financial and administrative
+practices and procedures.
+
+Enterprise Risk Alignment: Structural Deficit; Non-
+Compliance (Internal); Non-Compliance (External);
+Cyberattacks and Data Protection; Reputation/Public
+Image.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page [13
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+Audit Name Staffing Description Budgeted
+
+Hours/Fees
+
+These audits involve relatively low dollar amounts
+but add value by assessing the District’s management
+of reputational/public perception, data privacy,
+adherence to District policy, and regulatory
+compliance risks.
+
+Key Controls Internal Objective: Perform analytical procedures to 200 - 300
+Quantitative determine if key controls are properly functioning.
+Analysis These procedures will be used to monitor controls’
+
+operating effectiveness and assist in the detection
+and resolution of errors or fraudulent activity.
+
+Scope: This will be a cross-functional initiative to
+collect and analyze data to identify trends and
+anomalies within core administrative support
+functions including procurement, vendor profile
+setup and maintenance, disbursements, capital
+assets, and payroll, and other core functions.
+
+Enterprise Risk Alignment: Structural Deficit;
+Governance/Management; Siloed Communications;
+Non-Compliance (Internal).
+
+This engagement will focus on identifying potential
+non-compliance, inefficiencies, or fraud. Informing
+management and the Board of any issues in these
+areas may enable cost-savings or other corrective
+measures to enhance the use of limited resources,
+strengthen controls, and improve operating
+efficiency.
+
+Contract Audits Internal Objective: To verify that the District contracts 100 - 200
+followed the appropriate procurement method,
+received the appropriate levels of approval, included
+a detailed scope of work description, and contain
+evidence that adequate services were received in
+exchange for the funds expended.
+
+Scope: The audit will include competitive selection
+and procurement practices, contract review, and
+performance monitoring activities for the District’s
+vendors.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page |14
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+Audit Name Staffing Description Budgeted
+
+Hours/Fees
+
+Enterprise Risk Alignment: Structural Deficit;
+Governance/Management; Siloed Communications;
+Non-Compliance (Internal).
+
+Internal TBD Objective: This assessment will include the following 100 ~ 400
+Communications , objectives: $25K -$4
+Assessment nternal or 25K - S40K
+
+Outsourced | 1) To evaluate the effectiveness of the structures and
+communication mechanisms to deliver information
+to schools, school leaders, and central
+administrators.
+
+2) To assist management in an advisory capacity
+during development of a risk response/action plan to
+address compliance with District policies and
+procedures.
+
+Scope: This engagement will consider if
+communication roles and responsibilities have been
+defined, expectations for communications by type,
+frequency or urgency have been established, and the
+extent of performance monitoring activities such as
+key performance indicators (KPI) or key risk
+indicators (KRI) to assist leadership in assessing the
+effectiveness of communications between the
+Central Office, schools, families, and communities.
+
+This consulting engagement will focus on the
+completeness and adequacy of management’s risk-
+based approach to prioritize compliance with internal
+policies and procedures and develop mechanisms to
+monitor department and school personnel’s
+adherence to these requirements.
+
+Enterprise Risk Alignment: Non-Compliance
+(Internal); Structural Deficit; Siloed Communications.
+
+This assessment may help the District identify and
+remediate issues which impact the clarity and
+consistency of communications within the District,
+including the implementation of new policies and
+procedures, programs, or strategic initiatives.
+
+Risk Response/ Internal Includes follow-up procedures to verify if 200 - 300
+Corrective management has adequately completed corrective
+
+* Outsourced funds available in the 2024/2025 Plan year may be used to assist with the Capital Audit Plan.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+
+Page |15
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+Audit Name Staffing Description Budgeted
+Hours/Fees
+Action Plans action plans from prior audits and reviews. This also
+Validation includes advisory services to support management’s
+
+development of risk response plans as part of the
+District’s ERM initiative.
+
+Special Projects Internal Includes responding to management requests, 200
+Contingency supporting Audit & Finance Committee meetings and
+requests, and other unplanned work.
+
+Capital Audit Plan
+
+The Capital Audit Plan is driven by the enterprise risk assessment. The primary recommended audit
+areas include construction/capital projects, air quality improvements in district buildings, and salaries
+allocated to the Capital Projects Fund.
+
+2022 Capital Audit Plan. The audits planned for the 2022 calendar year are included below. We have
+allocated 100% to construction/capital project audits.
+
+Budgeted
+Hours
+
+Audit Name Description
+
+Construction Audits Objective: To determine if construction projects are being 100% of
+managed efficiently, and in accordance with applicable terms available
+and conditions and District policies. resources
+
+Scope:
+
+e Webster School Addition & Modernization Project
+e Ingraham High School Addition & Modernization
+Project
+
+Enterprise Risk Alignment: Structural Deficit; Non-Compliance
+(Internal); Non-Compliance (External); Reputation/Public
+Image.
+
+These audits may add value by detecting improper
+expenditures of District resources, non-compliance with
+contractual terms and conditions, or non-compliance with
+District policies which may impede the effective, efficient use
+of funding or adversely impact public image.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page |16
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+2023 Capital Audit Plan. The audits planned for the 2023 calendar year are included below. We have
+allocated approximately 60% to construction audits and 40% to an audit of air quality improvements.
+
+: ee Budgeted
+Audit Name Description ?
+Hours
+Construction Audits Objective: To determine if construction projects are being 60% of
+managed efficiently, and in accordance with applicable terms available
+and conditions and District policies. resources
+
+Scope: These audits will include Additions, Modernizations,
+and New Construction included in the adopted capital budget.
+Individual projects to be determined.
+
+Enterprise Risk Alignment: Structural Deficit; Non-Compliance
+(Internal); Non-Compliance (External); Reputation/Public
+Image.
+
+These audits may add value by detecting improper
+expenditures of District resources, non-compliance with
+contractual terms and conditions, or non-compliance with
+District policies which may impede the effective, efficient use
+of funding or adversely impact public image.
+
+Air Quality Objective: To verify that District resources are managed cost 40% of
+Improvements in effectively to achieve expected project outcomes. available
+District Buildings resources
+
+Scope: This audit will review the District’s efforts to improve
+the health and safety of students and personnel through
+improving air quality within District buildings.
+
+Enterprise Risk Alignment: Student Safety; Reputation/Public
+Image.
+
+Theis audit may add value by assessing management’s ability
+to address air quality issues which may impact student health
+and safety and could result in damage to the District’s public
+
+image if an incident were to occur.
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+Page |1/
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 — February 28, 2025)
+
+2024 Capital Audit Plan. The audits planned for the 2024 calendar year are included below. We have
+allocated approximately 60% to construction/capital project audits and 40% to salary allocation audits.
+We have also allocated up to $50,000 of budgeted resources to engage specialists to support capital
+
+audits during this year.
+
+Audit Name
+
+Description
+
+Budgeted
+
+Hours/Fees
+
+Scope: This audit will include employee salaries and benefits
+allocated to the Capital Projects Fund.
+
+Enterprise Risk Alignment: Structural Deficit; Non-Compliance
+(Internal); Reputation/Public Image.
+
+This audit may add value by detecting inappropriate or
+incorrect allocation of salaries to the Capital Projects Fund,
+which may impede the proper utilization of District resources,
+result in non-compliance with District policies, or adversely
+impact public image.
+
+Construction Audits Objective: To determine if construction projects are being 60% of
+managed efficiently and in accordance with applicable terms available
+and conditions and District policies. resources
+Scope: These audits will include Additions, Modernizations, S$30K-S50K
+and New Construction included in the adopted capital budget.
+
+Individual projects to be determined.
+
+Enterprise Risk Alignment: Structural Deficit; Non-Compliance
+(Internal); Non-Compliance (External); Reputation/Public
+Image.
+
+These audits may add value by detecting any improper
+expenditures of District resources and prevent or detect non-
+compliance with contractual terms and conditions or District
+policies which may adversely impact public image.
+
+Audit of Salaries Objective: To determine if salaries have been properly 40% of
+
+Charged to the allocated to the Capital Projects Fund. available
+
+Capital Projects Fund resources
+
+Note: This Internal Audit Work Plan is for use by Seattle Public Schools and should not be used by or relied upon by
+any party other than Seattle Public Schools.
+
+Page |18
+
+Seattle Public Schools — Office of Internal Audit
+Internal Audit Work Plan (March 1, 2022 - February 28, 2025)
+
+At the September 5, 2023 Audit Committee Meeting, the Committee unanimously approved a
+change to the Work Plan to include the following audit.
+Proposed Change to Internal Audit Work Plan — September 5, 2023
+
+Proposed Change: Addition of a new audit to the Work Plan
+
+Initiated By: Director Hampson
+
+Audit Name: Enrollment of McKinney Vento and Foster Students
+Preliminary Scope: The audit will focus on current practices
+Objectives: To determine if:
+
+e The District is in compliance with Federal and State requirements related to the
+enrollment and disenrollment of McKinney Vento and Foster Students.
+
+e The District is in compliance with its own policies and procedures related to the
+enrollment and disenrollment of McKinney Vento and Foster Students.
+
+e District schools have adequate information, data, and resources to effectively
+support McKinney Vento and foster students in their buildings.
+
+e The District has adequate data and systems to effectively support McKinney
+Vento and foster students.
+
+Background Information:
+
+There is a disconnect between enrollment regulations and McKinney Vento and foster student regulations.
+The state requires that truant students be disenrolled from the District after a certain number of absences;
+however, there is also a requirement that McKinney Vento and foster students attend school at any time.
+Specific compliance requirements will be researched during the audit.
+
+There may also be a disconnect of information within the District. School staff understand truancy rules, but
+they may not have knowledge of which students in their buildings qualify as McKinney Vento and foster
+students. Schools cannot effectively support these students if they do not know who they are. Schools should
+follow up on disenrolled McKinney Vento and foster students to ensure they enroll in another district, private
+school, or homeschool option.
+
+National data indicates that thousands of students are missing from schools, and truancy is a suspected cause
+of the decrease in enrollment. District schools may be inappropriately disenrolling students that should be
+receiving additional support as McKinney Vento or foster students. This can negatively impact the District’s
+funding as well as its strategic initiative to support its most vulnerable students.
+
+Risk Alignment:
+The audit aligns with the following top enterprise risk assessment risks facing the District:
+
+e Structural Deficit — Incorrectly disenrolling McKinney Vento and foster students that should be receiving
+additional support could negatively impact the District’s funding.
+
+e Siloed Communications — Lack of communication between central office and school staff could hinder a
+school’s ability to effectively support McKinney Vento and foster students.
+
+e¢ Non-compliance External - If the District does not comply with federal and state compliance requirements,
+then it may be required to return funds, incur penalties or fines, or it may lose future funding.
+
+¢ Non-compliance Internal - If departments and schools are not compliant with District policies and
+procedures, then it may present threats to the achievement of strategic initiatives, operating needs, the
+ethical culture, and the control environment.
+
+e Strategic Initiatives — One the District’s primary initiatives is ensuring that students furthest away from
+educational justice thrive. McKinney Vento and foster students are some of the District’s most vulnerable
+students and are central to the Strategic Plan.
+
+e Reputational / Public Image — If the District fails to comply with federal or state requirements, or if it fails
+to serve its most vulnerable students, then it may damage its public image and relationships with students,
+families, and communities.
+
+Timing and Assignment:
+
+If approved, the audit will begin in Fall, 2023. The audit may be outsourced to an experienced audit firm, or
+it may be conducted internally by Office of Internal Audit staff. This will be determined once potential
+outsource vendors can be analyzed to determine their expertise.
+A
+
+SEAT TLE
+
+PUBLIC
+SCHOOLS
+
+Internal Audit Review
+
+Moss Adams Final Report
+
+Seattle Public Schools is committed to making its online information accessible and usable to all
+people, regardless of ability or technology. Meeting web accessibility guidelines and standards is
+an ongoing process that we are consistently working to improve.
+
+While Seattle Public Schools endeavors to only post documents optimized for accessibility, due
+to the nature and complexity of some documents, an accessible version of the document may
+not be available. In these limited circumstances, the District will provide equally effective
+alternate access.
+
+For questions and more information about this document, please contact the following:
+
+Seattle Public Schools
+Andrew Medina — The Office of Internal Audit
+aimedina@seattleschools.org
+
+The goal of this review was to improve operations to achieve a high-value internal audit function
+focused on performance, risk, and controls that improves accountability across District functions. The
+review was conducted between July and August 2020. Analysis was informed by interviews, document
+review, peer review, and comparison to industry best practices. The project consisted of four major
+phases: project initiation and management, tieldwork, analysis, and reporting.
+
+FINAL REPORT
+
+Seattle Public Schools
+
+INTERNAL AUDIT Vi
+September 8, 2020
+
+Moss Adams LLP
+999 Third Avenue, Suite 2800
+Seattle, WA 98104
+(206) 302-6500
+
+(M) MOSSADAMS
+Table of Contents
+
+I. Executive Summary 1
+A. Background, Scope, and Methodology 1
+B. Summary of Observations and Recommendations 1
+ll. Background, Scope, and Methodology 5
+A. Background 5
+B. Scope and Methodology 5
+lil. implementation Plan 1
+IV. Commendations 1
+V. Observations and Recommendations 2
+A. Governance, Model, and Structure 2
+B. Internal Audit Operations and Processes 10 .
+C. Audit Response 16
+D. Ethics Program 19
+Appendix A: Sample Internal Audit Policies 22
+Sample 1: Tacoma School District 22
+Sample 2: San Antonio Independent School District 25
+Appendix B: External Audit and Review Sample Policies 30
+Sample 1: University of Washington 30
+Sample 2: University of Texas at Austin 32
+Appendix C: Pillars of ERM Programs 34
+Appendix D: Corrective Action Plan Sample Policies 36
+
+Seattle Public Schools: Internal Audit Review Report
+Table of Contents — Continued
+
+Sample 1: Sound Transit 36
+
+Sample 2: University of Arizona 37
+
+Appendix E: Whistleblower Complaint Triage and Escalation
+
+Sample Policies 38
+Sample 1: William and Mary 38
+Sample 2: Cariboo-Chilcotin School District 40
+
+Seattle Public Schools Internal Audit Review Report
+I. EXECUTIVE SUMMARY
+
+A. BACKGROUND, SCOPE, AND METHODOLOGY
+
+Seattle Public Schools (the District) is the largest school district in Washington, with nearly 53,000
+students in 102 schools served by 11,110 employees during the 2018-19 school year. The District is
+led by a seven-member elected School Board (the Board) and a Superintendent. Under the direction
+of the Audit and Finance Committee, the Office of Internal Audit (the Office, Internal Audit) conducts
+audits that support and promote integrity, accountability, and transparency with respect to financial
+controls of all funds and the District's compliance. The Director of Internal Audit also serves as the
+District's Ethics Officer.
+
+The Board has recently renewed its focus on the District's risk management and audit practices, with
+the desire to create a high-impact internal audit function. Therefore, the goal of this review was to
+improve operations to achieve a high-value internal audit function focused on performance, risk, and
+controls that improves accountability across District functions. The review was conducted between
+July and August 2020. Analysis was informed by interviews, document review, peer review, and
+comparison to industry best practices. The project consisted of four major phases: project initiation
+and management, fieldwork, analysis, and reporting.
+
+B. SUMMARY OF OBSERVATIONS AND RECOMMENDATIONS
+
+OBSERVATIONS AND RECOMMENDATIONS
+
+Governance, Model, and Structure
+
+The current Internal Audit Policy restricts the Office from performing broad,
+Observation high-impact performance audits that vary in scope and would require
+significantly more resources to complete.
+
+A. Update the Internal Audit Policy to expand the scope of the audit
+1 universe to include all District functions, including programs, to reduce
+risks, strengthen controls and compliance, and improve performance.
+
+Recommendations = adopt a hybrid intemal Audit model in which the existing Internal Audit
+
+team continues to perform transactional audits on capital programs,
+intemal controls, and compliance while one or two performance audits
+are selected and contracted to third parties annually.
+
+: The Audit and Finance Committee does not include appointed members of
+Observation ;
+the public.
+Incorporate up to two non-voting citizens with appropriate expertise on the
+Recommendation Audit and Finance Committee to strengthen independent perspectives on the
+Committee and support enhanced management engagement.
+
+Internal Audit Review Report — | 1
+OBSERVATIONS AND RECOMMENDATIONS
+
+Observation
+
+Recommendations
+
+Outside audits and reviews are not consistently approved by or reported to
+the Audit and Finance Committee; therefore, District leadership and the
+Board have limited visibility into study results and implementation.
+
+A. Update the District's policies to require outside audits and reviews to be
+routed through the Audit and Finance Committee in order to ensure
+appropriate recommendation implementation tracking.
+
+B. Establish and institutionalize the role of Internal Audit as a liaison for
+outside audits and reviews.
+
+Observation
+
+Recommendation
+
+District management is reluctant to engage with Internal Audit due to the
+limited scope of audits, lack of understanding, lack of perceived value, and/or
+fear of retribution.
+
+Increase engagement with District management by performing high-impact
+audits, building relationships, and providing education on risk management to
+help frame meaningful discussions.
+
+Observation
+
+Due to fluctuating leadership and priorities, enterprise risk management has
+not been a priority for the District, which contributes to a reactive operating
+culture.
+
+A. Reinvigorate and institutionalize previous enterprise risk management
+efforts to prioritize and proactively address risks.
+
+Regormengalions B. Incollaboration with Risk Management, develop, document, and update
+the risk register for the District to further focus audit resources on key
+risks.
+
+Internal Audit Operations and Processes
+$ Internal Audit is currently required to perform audits in conformance with
+Observation
+
+Recommendation
+
+GAGAS, which presents challenges for a small audit department.
+
+Consider transitioning to conducting audits under IIA standards, which
+provide greater flexibility and efficiencies for a small audit department, and
+update the Board policy accordingly.
+
+Observation
+
+Recommendations
+
+The Office of Internal Audit conducts an annual risk assessment with limited
+management participation in the process.
+
+A. Transition to a three-year cycle for risk assessments with increased
+management participation and adjusted timelines.
+
+B. Reframe the risk assessment to be rooted in strategic and operational
+goals.
+
+Internal Audit Review Report |
+
+@
+OBSERVATIONS AND RECOMMENDATIONS
+
+Observation
+
+Recommendation
+
+The Internal Audit Plan lacks alignment with risk assessment results and
+sufficient flexibility to address issues that arise throughout the year.
+
+Develop annual audit plans based on the District's unique risks and consider
+leaving a placeholder for the selection of an audit mid-year to provide greater
+flexibility in addressing urgent needs.
+
+Observation
+
+Recommendation
+
+Current internal audit reports are concise, but are narrow in scope and do not
+provide detailed insights, supporting evidence, and actionable
+recommendations.
+
+Incorporate detailed methodology descriptions and provide evidence-based
+findings that identify opportunities for improvement and practical, detailed
+recommendations that better reflect the impact of audit results.
+
+10.
+
+Observation
+
+Recommendation
+
+There are opportunities to increase the clarity and practicality of audit
+recommendations to increase the impact of Internal Audit.
+
+Ensure recommendations address the root cause of issues and are
+sufficiently specific, actionable, and practical to support improvements at the
+District.
+
+Audit Response
+
+11.
+
+Observation
+
+Recommendations
+
+The Audit Response Manager role provides Internal Audit with limited
+purview over non-financial or compliance functions.
+
+Determine the desired role of the Audit Response Manager as either
+management support or audit validation and revise the position’s reporting
+structure accordingly.
+
+12.
+
+Observation
+
+Recommendation
+
+The Corrective Action Plan process does not hold management accountable
+or provide visibility into and assurance that audit findings are resolved.
+
+To increase the efficacy of the Corrective Action Plan process, the District
+should increase management accountability by requiring reporting of
+corrective action status and validation of actions and the adequacy of actions
+to address findings.
+
+Ethics Program
+
+13.
+
+Observation
+
+Recommendations
+
+While the District operates an independent whistleblower hotline, it has not
+established a triage policy.
+
+A. Develop and implement a policy that defines how complaints received by
+the Ethics Office are managed and triaged.
+
+B. Incorporate high-level reporting of complaints into quarterly Audit and
+Finance Committee meetings.
+
+Internal Audit Review Report |
+
+@
+OBSERVATIONS AND RECOMMENDATIONS
+
+The District lacks Ethics and Fraud, Waste, and Abuse training that supports
+
+ti , ; ;
+PEServauen employee understanding and identification of policy breaches.
+
+14.
+
+Develop and implement mandatory Ethics and Fraud, Waste, and Abuse
+
+Recommendation ae Baie
+dk training for all District employees.
+
+aaa
+
+Internal Audit Review Report | 4
+ll. BACKGROUND, SCOPE, AND METHODOLOGY
+
+A. BACKGROUND
+
+Seattle Public Schools (the District) is the largest school district in Washington, with nearly 53,000
+students in 104 schools served by 11,110 employees during the 2018-19 school year and an annual
+budget of more than $1 billion. The District is led by a seven-member elected School Board (the
+Board) and a Superintendent. District systems are large and complex, serving a wide variety of
+schools and students. District operations are largely decentralized, with many decisions deferred to
+building staff according to Board policies and collective bargaining agreements.
+
+Under the direction of the Audit and Finance Committee, the Office of Internal Audit (the Office,
+Internal Audit) was created in 2011 to conduct audits that support and promote integrity,
+accountability, and transparency with respect to financial controls of all funds and District compliance.
+The office also oversees the District’s Ethics/Whistleblower Program. In fiscal year (FY) 2018-19, the
+Office had four FTE with a budget of $616,229; in FY 2019-20, resources were reduced to three FTE
+and an annual budget of $504,622.
+
+The Board has recently renewed focus on the District’s risk management and internal audit practices,
+with the desire to create a high-impact internal audit function. An internal audit function has the
+potential to provide significant value to the District by serving as an unbiased source of information
+that assists leaders in identifying and addressing critical operational and compliance concerns that
+could prevent the District from achieving its goals. Overall, the work performed by Internal Audit
+should help the Board, Superintendent, and other District personnel accomplish goals while
+strengthening the processes and procedures of the District.
+
+B. SCOPE AND METHODOLOGY
+
+The purpose of this operational review was to identify opportunities for improvement in service
+delivery, organization, operations, and process efficiency of the Office. The study addressed the
+following:
+
+Purpose, role, and function of Internal Audit
+
+Internal Audit’s organizational structure, reporting, staffing levels, and capacity
+Audit and Finance Committee governance and oversight of Internal Audit
+Internal Audit deliverables
+
+District management's understanding of and engagement with Internal Audit
+
+Internal Audit workflow and processes, including risk assessments, audit processes, and
+recommendation implementation
+
+Internal audit policies and procedures
+
+Overall, the goal of this review was to improve operations to achieve a high-value internal audit
+function focused on performance, risk, and controls that improves accountability across District
+functions.
+
+4
+
+Internal Audit Review Report |
+The review was conducted between July and August 2020. Analysis was informed by interviews,
+document review, peer review, and comparison to industry best practices. The project consisted of
+four major phases:
+
+1.
+
+Project initiation and management: This phase concentrated on comprehensive planning and
+project management, including selecting employees to interview, identifying documents to review,
+communicating results, and establishing regular reports on project status.
+
+Fieldwork: This phase included interviews, document review, and best practice research. We
+worked with District staff to obtain the most currently available information and insights.
+
+a. Interviews: We conducted interviews with Internal Audit staff, Board members, select union
+representatives, and Central Office staff.
+
+b. Document review: We reviewed documents including policies, procedures, corrective action
+plans, risk assessments, audit plans, audit reports, Audit and Finance Committee meeting
+minutes, and others.
+
+c. Best practice research: Based on opportunities for improvement identified, we conducted
+research on best practices in other districts and industry standards (Institute of Internal
+Auditors, Generally Accepted Government Auditing Standards, and American Institute of
+Certified Public Accoutants) to support a high-value internal audit function.
+
+Analysis: This phase served as the assessment portion of the project where, based on
+information gathered, we evaluated the importance, impact, and scope of our observations in
+order to develop actionable recommendations.
+
+Reporting: This phase concluded the project by reviewing draft observations and
+recommendations with the Internal Audit Director and Audit and Finance Committee Chair to
+validate facts and confirm the practicality of recommendations. A finalized report was provided
+and presented to the Audit and Finance Committee.
+
+Internal Audit Review Report — | 6
+
+@
+| wodoy Moray pny [eusaywy
+
+juapusdepu! ueyHuens 0} eayIWWoD
+
+SoyIWWOD SOUBUI4 PUe YIpNy eu} UO ssitiadxa o}eudosdde
+soueul4 pue yipny WINIpeyy uwInipay\| UUM SUaZI}TIO BUNOA-UOU OM] 0} dn a}yesodsoout Zz
+‘Awenuue sawed piu |
+0] payoesjUOD PUe palosjas aie sjipne soueWOLEd
+OM} JO BUO BIIYM BdUe!|dWOd pue ‘sjosjUOD
+ypny jeusajul ‘suueiBoid jeyideo uo sjipne jeuoyoesuet |
+JEWaU] “Ba}!WLUOD WAOSd 0} SENnuUIUOD Wea] JipNy jeusayu] HBuysixa
+aoueul pue pny wunIpel| yBIH aU} YOIYM Ul japow Jipny jewWeayu] puqhy edopy | gL
+“g0ueWOLed
+BAoJdtU! pue ‘aoueldWoo pue sjosjuCd Usy}BuUSHs
+pieog ‘S¥SU sonpal Oj ‘suueIBoJd Bulpnjou! ‘suojouny
+JOOYDS “seTwWwwWoDd puIsig [fe epnjoul oO} asseAiuN pipNe su} Jo sdoos
+soueul4 pue pny uINIps|\| UBIH ay} puedxe 0} Adio Hpny jewisju] ayy ayepdg | WL
+B OdS3u NOINd OILVA 0934
+YO
+
+“SUONPPUBLULWOOSI
+
+Bulssaippe oO} ‘att; aeAojdwe Hulpnjoul ‘seoinosas ojenbepe Buneosoye pus Bulzqwold yoW}sIq ay] UO JUspUad~ap sI UB;d UONe|UsWA|dwI SIU]
+
+Bulwi paysaiins = «
+
+s]juswjiedap ajqisuodsay ss
+
+(Mo| JO ‘wunipauw ‘YyBiy) jusa|dwi 0} pesinbes Yoys jo jeAS] >
+
+(MO] JO ‘winipew ‘Yybiy) Ayoud pajseb6nsg
+
+:sepnyjoul
+
+ueid uoHe}USWAldiu! ey] “MAAS IPN |eUJa}U| BY} Ul PapIAoJd SUOHepUsUWODSJ ay} Jo UONe]UsWa|dUU! apin6 0} uRjd e peledaid sey yoUIsIQ eu]
+
+NW Id NOILVLNAIWS Idi
+Voday motaay yIpny [eusouy
+
+ALNISISNOdS3y
+
+13A31
+
+ALIMOId
+
+ypny Jeuleyu} “SySU
+‘uaweBbeuey Ady UO S8OINOSSJ JIpPNe Ssnoo} JOYLINY O} JOWISIG
+ySIy ‘Juawebeuew Su} JO} Jo]SIHe1 ySIJ oy] e}epdn pue ‘UsuINDOp
+youlsiq wnipsy\ uInIpsy\ ‘dojenap ‘juawabeueyy ySIy YIM UONeIOge||OO Uy] as
+HPN Jeuss}y]
+uawaBbeuely\
+Sly ‘JUswebeuew “SSI SSouppe Ajeanoeosd pue
+JOUISIG ‘aaTIWLWOD SZNUOd 0} SUOYS JuUaWaBeUeW YSU asuCciajuS
+goueUly pue yIpny UWINIpel| ybiy SnolAsid az}euolnyysul pue ayesoBiAulay VS
+“SUOISSNOSIP
+InjGuruesiu swiesy diay 0} jueuwebeuew
+pny jeuseluy yslt UO UOeONps Buipiaoid pue ‘sdiysuonejei
+‘yuswabeuew Buipjing ‘syipne joeduui-ybiy Buiwoped Aq
+JOUsIG yBip uBIH juswebeuew Jouysig yyIM juswsbebus asesJoU] YY
+}PNY
+JeulalU] ‘aayIWWOD “SMAIASI PUB S}IPNe apis}no Joj uOsiel] & se yipny
+aoueul4 pue lIpny MO7 winipey| JEWEL] JO BjOl aU} OZIEUOHINIISU! pue Ysiiqeisy ge
+“Bulyoesy
+uolje] Used! UOI}epusWIWODe a}eUdoidde
+pieog SiINSUAS 0} JAPJO Ul BayIUWOD soueUIy pue
+jooyas ‘aayIWiW05 ypny sul yBnosy} pajnos aq 0] smaiAal puke syipne
+g0ueUI4 pue ypny wnipeyy y6iy SPIs}no asinbas Oo} saloijod sjoujsig su) alepdn vs
+‘juawebebue juawebeueW pesueyuS
+yoddns pue aaqiwluo0D 9y} uo sennoedsiad
+
+NOILVONSWWO934
+
+v £ b
+eae) D 140443
+L2-0
+
+(4
+ie)
+02 AS
+
+SNITSWIL
+
+Hoday Motaoyy Wpny [eusojuy
+
+Jeuselu] ‘eayIWIWOD
+
+ypne 410 yoddns juswebeuew Jayjie se weabeueyy
+
+aoueul4 pue pny winipey\| UuBIH asuodsay Upny au] jo afol pasisap au} sulUa}Eq LL
+‘POUISIG
+au} 1e SJUSWaAOIdLUI WOddns 0} jeonoeid pue
+‘ajqeuoljoe ‘oyioads Apusioyjns sie pue Senssi jo
+Wpny jeusazuy MO7 uwInIpay\| aSNed JOO) Bl} SSaIPpe SUONEPUSWILUIODS! aiNsUuy OL
+“S]]NS@l ipne yo joedut
+SY] OS|Jol JOWOq JeY] SUONEPUSWILUODS! paylelep
+‘yeonoeid pue juswWaAOJduut JO} Somunyoddo
+Ayquap! yeu} sHulpuy peseq-aouapiAe apiAoid pue
+ypny [Busey] MOF uwinipeyy suondiuossp ABojopoujew payieep ayeioduoou| 6
+“spaau juabin Hulssaippe ur Aiqixay sayeou6
+aplAoid 0} JeaA-piww yipne ue JO UONDSIEes BU) 10}
+juswebeuew joUIsiq Japjoysseid e Bulaes] Japisuoo pue sysiu anbiun
+‘yony jeusejul MOT uBIH SJOUISIG ay} UO paseq sued yipne jenuue dojeaaq ze)
+juawebeuew jouUIsSIq ‘sjeob jeuonesado pue o1beye.s
+‘pny jeusayu| MO" wNnIpey\| Ul PE]0OJ aq 0} JUSLUSSASSE YSU Sy} BWeYOY ql
+“souletut) peysnipe pue uonjediomed
+juawebeuew JoUIsiq juswabeueW paseeoul U}IM S]JuaLUSSesse
+‘\pny [euseyu| MO] wuinipay\| YSU JO} a[OAD JeaA-991U] E O} UOIISUBLL VL
+“‘ABuipsoooe Aoiod pieog aul ajyepdn
+pny pue ‘Juauwyedap jipne |jews e JO} SalNUdIOIS
+Jeusa}uU] ‘SaTIWWOD pue Ajfiqixey Joje016 apiAoid Yyolum ‘spiepuels VII
+aoueUl4 pue pny WINIpSsy\ MO7 Japun siipne Bunonpuos oj Huluonsues sapisuoD fe)
+: OdS3uy NOIMd OILVG 4 M H
+40
+
+Moday Motaay pny [esoyuyt
+
+z L
+
+| ake -
+Be 0. Vas OO. |S
+
+22-b202 AS bo"
+ANIAWIL
+
+0
+
+Z0
+
+(4
+0
+
+Z
+
+AS
+
+b
+La)
+
+‘saoXojdwa
+yOUjsig [fe Jo} Buiuien asngy pue ‘ayseny ‘pnes-}
+
+adIO solUujiy uInIpsyy winipsy\ pue soiujg Asojepuew juswejduil pue dojaasq “PL
+‘sHunsstu sayWwoD soueUl4 pue lpny Aeyenb
+
+BdIHO Sdluj}y MOF uInipsy\| oyu! S}ule|diwo09 jo Burmiodas jangy-yBiy ayesoduoouy | gel
+‘pebeu] pue pebeuew
+Ble BOO Solu ay} Aq peaisoai s}ule|duuoo
+
+BOO soiuiy MOF LUNIpS|\\ moy souyap yeu} Aoyod e juawajdwi pue dojeasq | Wel
+‘sBulpuy
+ssoippe 0} suoijoe yo Aoenbape ay) pue suonoe
+jafeuey) esuodsey JO UONEPHEA pue snyejs UDO BANDANOS Jo
+ypny ‘juswebeuew Hunsodss Buuinbas Ag Aijiqejunoooe juewebeuetw
+psi ‘aeTwWWoED ASESJOUI PINOUS JOUISIG ay} ‘ssaooid UPI
+
+goueul4 pue jipny ybiy, uBiy UOHOY BANIIOD 94} Jo Aeolya ay] aSeSsOU! O| All
+jaBeueyy asuodsey “AiBulpioaoe aunjonss
+pny ‘pny Hulyodal $s uolisod au} asiAau pue uONepien
+
+ALINIGISNOdS3Y
+
+TSA31
+140443
+
+ALINOId
+
+NOILVONSWWO03SY
+
+@
+
+IV. COMMENDATIONS
+
+Based on the insights gathered through interviews and document review, it is evident that the Internal
+Audit Office has many commendable organizational attributes. Examples include:
+
+Developing a racial equity toolkit specific to internal audits
+Proactively identifying COVID-19 related risks to the District
+e Developing policies, procedures, and templates to standardize and streamline work
+
+Demonstrating a desire to adjust operations and help the District in meaningful ways
+
+We would like to thank the District's staff and leadership for their participation in this study.
+
+Internal Audit Review Report — | 1
+V. OBSERVATIONS AND RECOMMENDATIONS
+A. GOVERNANCE, MODEL, AND STRUCTURE
+
+Internal Audit Model
+
+) Observation The current Internal Audit Policy restricts the Office from performing
+broad, high-impact performance audits that vary in scope and would
+require significantly more resources to complete.
+
+mraeiiuceueeimeien A. Update the Internal Audit Policy to expand the scope of the audit
+universe to include all District functions, including programs, to
+reduce risks, strengthen controls and compliance, and improve
+
+performance.
+
+B. Adopt a hybrid Internal Audit model in which the existing Internal
+Audit team continues to perform transactional audits on capital
+programs, internal controls, and compliance while performance
+audits are selected and contracted to third parties annually.
+
+While Board Policy 6550 states that the Office conducts performance audits, the policy also restricts
+the scope of the audit universe to financial controls and compliance, presenting somewhat conflicting
+guidance of its intended function. According to the first risk assessment following establishment of the
+Office in 2011-12, areas within the District's audit universe were eliminated if they were a) deemed
+low risk with respect to financial controls and compliance, or b) primarily associated with a financial
+statement audit. These choices were informed by Board Policy and the Washington State Auditor's
+Office (SAO) annual financial audit. Examples of functions that were eliminated from Internal Audit's
+audit universe included:
+
+Executive Director of Schools
+Research and Evaluation
+
+English Language Learners
+
+Student Discipline
+
+Individualized Education Plan (IEP)
+School Psychologists
+
+Speech Language Pathology Audiology
+Career and Technical Education
+College and Career Readiness
+Curriculum and Instruction
+
+Early Learning
+
+Advanced Learning
+
+Indian Education
+
+Most School and Community Partnerships
+
+Internal Audit Review Report | 2
+Although this list has been updated to add new items to the potential audit universe, it no longer
+appears in the Risk Assessment and Internal Audit Plan document. It is best practice for Internal
+Audit to have broad authority across an organization, and not be limited by topic, which limits the
+internal audit function’s ability to address the highest risks, improve controls and compliance, and
+improve performance. Operating primarily within this limited audit universe, with some exceptions,
+Internal Audit has focused on auditing operations, such as finance, capital programs, human
+resources, safety, and technology services. However, as a result of this restriction to operational
+functions, several key areas of risk at the District have not been audited. Management reports that
+concerns related to program-specific risks are high-priority items that the Office does not address;
+instead, management may contract an independent study to provide impactful guidance and
+recommendations (see Recommendation #3). Typically, these reviews would be considered
+performance audits if they are conducted under audit standards, which creates confusion related to
+the intended role of Internal Audit due to the conflicting policy guidance.
+
+The Internal Audit team is currently comprised of three FTEs:
+
+One Director of Internal Audit/Ethics Officer
+One Capital Program Internal Auditor
+
+One General Fund Internal Auditor
+
+Given the limited capacity of the Internal Audit team, the existing team is not well-suited to perform
+broad, high-impact performance audits. However, the team excels in efficiently completing several
+capital program, controls, and compliance audits each year. Performance audits and programmatic
+reviews require a significant amount of time and, sometimes, subject matter expertise in a particular
+field. Because the team has auditing experience and lacks sufficient capacity to perform both
+performance audits and the existing scope of compliance-oriented audits, the District should consider
+adopting a hybrid internal audit model.
+
+In order to achieve a high-impact internal audit function, the existing resources of the Internal Audit
+team should be augmented in order to meet the diverse needs of the District. The purpose and policy
+of the Internal Audit function should be revised to more accurately reflect the goal of helping the
+District achieve its objectives and account for its results. Sample policies are included in Appendix A.
+
+As noted in the previous section, the current Internal Audit team capacity is likely too limited to
+perform an annual risk assessment and complete a robust audit program that delivers a variety of
+audits addressing each area of the District in meaningful ways. In FY 2019-20, the District eliminated
+a general fund auditor position, further reducing the Internal Audit Office’s capacity. Augmenting the
+existing team’s capacity with dedicated funding to contract a robust program-based performance
+audit would provide a cost-effective way to elevate the role of Internal Audit and support adequate
+coverage of District functions in an audit program.
+
+According to self-reported data from 29 urban school districts collected by the Internal Audit Director
+in 2019, the average internal audit department is 6.14 FTE, in comparison to Seattle’s 2.67 FTE. The
+average Internal Audit budget is also approximately double that of the District. While each school
+district varies significantly in size and scope, Seattle Public Schools overall appears to currently
+provide fewer Internal Audit resources than other districts do for a similar general fund budget.
+
+(Internal Audit Review Report j
+Internal
+
+# of # of # of General Fund Audit Internal
+Students Schools Employees Budget Budget Audit FTE
+Average 98,043 134 13,639 $1,105,596, 907 $732,080 6.1
+Seattle 53,628 105 11,982 $1,044,809,979 $312,694 2.67
+
+Under a hybrid internal audit model, the District's existing internal audit team would continue to
+perform audits related to capital programs, financial controls, and compliance. In addition, the Director
+of Internal Audit would work with management and the Audit and Finance Committee to prioritize
+potential performance audits that are contracted out, with an annual budget set aside to complete
+these projects. Depending on the scope of the audit engagements, the District should be able to
+contract for one or two performance audits or program reviews within that budget. Because the
+District is large and complex, with an operating budget of over $1 billion, the Board may wish to
+expand the performance audit budget over time to ensure greater coverage of functions. The selected
+performance audits should be conducted by a third party and coordinated by Internal Audit to ensure
+the vendor meets applicable standards and scope requirements. By contracting broader performance
+audits out, the District’s Internal Audit function is strengthened by a) ensuring an appropriate subject
+matter expert is able to conduct the work, b) expanding the scope and reach of Internal Audit to touch
+on various aspects of operations, and c) maintaining independence during the project and reporting.
+
+Audit and Finance Committee Structure
+
+2. Observation The Audit and Finance Committee does not include appointed members
+i of the public.
+
+leoiuciuceriiieam Incorporate up to two non-voting citizens with appropriate expertise on
+the Audit and Finance Committee to strengthen independent
+perspectives on the Committee and support enhanced management
+engagement.
+
+Currently, the Internal Audit team reports administratively to the Superintendent and functionally to
+Audit and Finance Committee. Administrative reporting facilitates day-to-day operations while
+functional reporting determines the Department's direction and work, including activities such as
+approving the Internal Audit Plan, monitoring progress on the plan, approving decisions regarding the
+appointment of the audit executive, and coordinating with management and the Internal Audit team to
+determine if there are scope or resource limitations. This model aligns with best practices by
+providing functional reporting to an independent body, the Audit and Finance Committee, which
+promotes independence, supports broad audit coverage, and provides oversight to verify that
+appropriate action is taken on recommendations.
+
+Board Policy 1240 establishes the Audit and Finance Committee as one of the four subcommittees of
+the District's School Board. The Audit and Finance Committee is comprised of three Board members
+and has the option to add one or more “public advisors” as non-voting members to the Committee.
+However, the District has not historically used this option. The purpose of the Audit and Finance
+Committee includes:
+
+Internal Audit Review Report — | 4
+Oversight of the District's financial systems and human resources
+Monitoring financial statements of the District
+
+Oversight of the budget development process, including guiding principles, timelines, and
+program reviews
+
+Oversight of the internal audit function, including approval of the annual work plan
+Monitoring corrective action plans implemented in response to audits and reviews
+
+Monitoring risk management
+
+The relationship between the Board and District management has been characterized by tensions for
+some time. Due to this sometimes strained relationship, management can perceive the Internal Audit
+team as lacking independence, which impedes participation in the risk assessment and audit process.
+Management reported concerns that Internal Audit could be leveraged as a punitive rather than
+improvement tool because of the Office’s reporting structure. In order to be effective, Internal Audit
+relies on management to actively participate in the internal audit process, collaboratively assess risks,
+and provide access to resources including staff and documents.
+
+The structure of the Finance and Audit Committee plays a key role in supporting the Office’s
+independence and objectivity. The inclusion of experts—either voting or non-voting—who do not have
+authority over the District's operations or decision-making process can help protect Internal Audit staff
+from actual or perceived political pressure that compromises objectivity and independence.
+Therefore, the District should consider adding up to two community members as non-voting members
+of the Committee in accordance with the existing policy. Inclusion of other community members on
+the Committee contributes to enhanced independence and may support better management
+engagement in the audit process. According to self-reported data collected from 29 school districts by
+the Council of the Great City Schools, 46% of audit committees include community volunteers as
+voting members.
+
+If the District chooses to include public advisors, it should leverage a structured process to evaluate if
+a prospective member has the required expertise, capacity, or background to fully grasp the issues
+relative to the District. Regardless of member composition, Finance and Audit Committee members
+should collectively possess knowledge in accounting, auditing, business, financial reporting, law, and
+school district finances. These skills are needed to understand and evaluate the District's financial
+statements, the external audit, and the District’s internal audit activities. Finance and Audit Committee
+members (collectively) should:
+
+Possess the requisite knowledge necessary to understand technical and complex financial
+reporting issues
+Have the ability to communicate with auditors, public finance officers, and the Board
+
+Be knowledgeable about internal controls, financial statement audits, and management and
+operational audits
+
+Internal Audit Review Report | 5
+Outside Audit and Review Governance
+
+Observation Outside audits and reviews are not consistently approved by or reported
+to the Audit and Finance Committee; therefore, District leadership and
+the Board have limited visibility into study results and implementation.
+
+Geeiiiiaceciiieam A. Update the District’s policies to require outside audits and reviews to
+be routed through the Audit and Finance Committee in order to
+ensure appropriate recommendation implementation tracking.
+
+B. Establish and institutionalize the role of Internal Audit as a liaison for
+outside audits and reviews.
+
+The District is subject to audits and outside reviews from other state and federal agencies including
+the Office of Superintendents and Public Instruction (OSPI), Washington State Auditor's Office (SAO),
+the Department of Education (DOE), and other parties. The nature of audits and reviews varies
+significantly, with reports routed to the Audit and Finance Committee, Operations Committee, the full
+School Board, and/or department leadership. Examples of strategic or performance-based reports
+that have been completed recently by the District, but not routed through the Audit and Finance
+Committee include:
+
+Nutrition Service Department Study (2016): Issued three observations and 27 management
+issues; provided 20 recommendations
+
+Communications Assessment (2018): Provided seven key recommendations
+
+Teaching and Learning Efficiency Study (2018): Provided 28 observations and
+recommendations
+
+Student Transportation Program (2019): Provided 18 recommendations
+
+Labor and Employee Relations Assessment (2019): Provided 22 observations and
+recommendations
+
+When reports are not presented to the Audit and Finance Committee, there is a lack of consistent
+oversight and follow-up on recommendation implementation, since other School Board committees do
+not leverage Corrective Action Plans (CAPs) in regular reporting. In order to ensure that all
+recommendations are incorporated into District practices, outside audits and reviews should be
+approved and routed through the Audit and Finance Committee. The Audit Response Manager
+should work with District management to provide regular, transparent updates on recommendation
+implementation not only to the Audit and Finance Committee, but also to other interested School
+Board members and community members by posting CAP logs on the public-facing website.
+Depending on the scope of work, the report may also be reported to other School Board Committees
+or the entire School Board as appropriate. As a meaningful first step toward implementing this
+recommendation, the District should immediately include all audits and program reviews completed in
+the last 24 months into the CAP process to monitor progress toward recommendation
+implementation.
+
+Oftentimes, departments use their own budget to fund an outside program review or audit. This
+practice should be encouraged to continue, with Internal Audit serving in a liaison role to help
+
+Internal Audit Review Report — | 6
+facilitate the process, following approval by the Audit and Finance Committee. Since Internal Audit
+has limited resources, staff should be involved, at a minimum, in the following:
+
+Entrance conference
+Document request list
+Interview scheduling
+
+» — Preliminary results
+Draft report review
+
+Exit conference
+
+This model is commonly used in other government agencies and school districts to provide additional
+support to management during an outside audit or review. Sample policies for this change are
+included in Appendix B.
+
+District Management Engagement
+
+Observation District management is reluctant to engage with Internal Audit due to the
+limited scope of audits, lack of understanding, lack of perceived value,
+and/or fear of retribution.
+
+’ d 3 4 i 7
+ae telecom Increase engagement with District management by performing high-
+
+impact audits, building relationships, and providing education on risk
+management to help frame meaningful discussions.
+
+The Internal Audit team noted challenges in productively engaging District management in the risk
+assessment and audit planning processes. For example, last summer the Internal Audit Director
+invited 35 District employees to provide audit ideas but only received two responses. In interviews,
+some District management reported reluctance to engage with Internal Audit for a variety of reasons.
+Some leaders lack a complete understanding of the internal audit function and perceive the function
+as providing low-value work, which further reduces meaningful engagement. As noted earlier in the
+report, Internal Audit has focused on financial controls and compliance rather than strategic audits
+that support program performance and operations. Additionally, because of Internal Audit’s reporting
+structure and tensions between the School Board and Management, some members of District
+leadership also reported being fearful of Internal Audit. Overall, employees across the District noted a
+lack of respect for auditors and accountability in responding to audit requests and following up on
+audit recommendations.
+
+District management engagement in the risk assessment and audit process is critical to promoting a
+high-value audit function. A strong control environment and “tone at the top” is a key factor in
+ensuring that internal audit operates in an environment where results (sometimes negative) and
+assessments (sometimes contrary to management's view) can be provided openly and received as
+welcomed insights by management and the Board. In order to support greater management
+engagement, District management, Internal Audit, and the Audit and Finance Committee should
+consider the following strategies:
+
+Internal Audit Review Report — | 7
+Delivery of impactful audits: As the hybrid internal audit model is implemented, Internal Audit
+will be better positioned serve as the conduit through which key issues that management faces
+are addressed. This will reinforce the idea that the Office can be a resource to help assess
+concerns before they arise and develop meaningful recommendations to support goal
+achievement. Potential revision of the Audit Response Manager role also supports greater impact
+from the results of audit reports by enforcing greater accountability for implementing
+recommendations.
+
+Relationship building: Internal audit is ultimately a people-oriented function that requires strong
+communication and trust with stakeholders. To be effective, Internal Audit must build trust and
+demonstrate mutual respect in all its interactions. Relationships may improve with the addition of
+community members on the Audit Committee to reinforce independence; however, Internal Audit
+should also reframe its purpose to extend beyond assurance and provide consulting that supports
+managers. This type of approach is valued by management since it demonstrates a willingness to
+be supportive and proactive, rather than only pointing out weaknesses. Similarly, demonstrating
+flexibility, within reasonable levels, during the audit and reporting process can help bolster these
+relationships.
+Risk training: District leadership may require training on how to think about and identify risk. The
+concept of risk has changed over time from compliance to strategy-oriented, which should be
+reflected in the District's approach to internal audit and enterprise risk management. Generally
+speaking, there are three types of risk:
+Preventable risks: \nternal risks from within the organization that can be controlled and
+should be eliminated or avoided. The District receives no possible strategic benefit from
+these risks. Examples include financial internal controls and compliance requirements.
+Strategy risks: Risks that the District accepts in order to pursue a strategy that generates high
+value or return. These types of risks are managed in a way that reduces the probability that
+potential risks actually materialize and improve the ability to manage the risk if it should
+occur.
+External risks: External risks are beyond the District’s influence and control, such as budget
+cuts from the state, COVID-19, and natural disasters. These risks cannot be avoided, but
+could be mitigated.
+Risk discussions should ultimately be anchored in strategy formulation and implementation
+processes. Many organizations struggle to engage leadership in thinking about and discussing risk
+until it’s too late. One indication of this concern is tolerance of what may appear to be minor failures
+and defects, essentially treating early warning signs as false alarms rather than alerts to a bigger
+issue. As leaders brainstorm to identify and categorize risks, areas with high levels of error should
+also be taken into consideration. For additional information on risk management, please see
+Recommendation #6.
+
+Ultimately, adjusting the relationship between Internal Audit and District management will require time
+and trust, but is required for the Office to have a meaningful impact.
+
+Internal Audit Review Report — | 8
+Enterprise Risk Management
+
+Observation Due to fluctuating leadership and priorities, enterprise risk management
+has not been a priority for the District, which contributes to a reactive
+operating culture.
+
+A. Reinvigorate and institutionalize previous enterprise risk
+management efforts to prioritize and proactively address risks.
+
+B. In collaboration with Risk Management, develop, document, and
+update the risk register for the District to further focus audit
+resources on key risks.
+
+The District struggles to effectively conduct enterprise risk management due to fluctuating leadership,
+a challenging operating environment, and limited resources. According to Board Policy 6500, the
+District's enterprise risk management should be “...a consistent, structured process across the district
+for identifying, assessing, prioritizing, and responding to opportunities and threats that affect the
+achievement of district objectives.” However, there are differences between the requirements outlined
+in policy and actual operation of risk management. For example, the District's risk register was last
+updated in 2015. The development and assessment of risk areas across the District at that time
+required significant attention from the small cabinet and was sponsored by a former Board member
+and Superintendent. However, after those individuals left District service, the enterprise risk
+management effort was largely abandoned. Given the complex and decentralized operating
+environment of the District, it can understandably be challenging to assess risks when they appear to
+constantly fluctuate based on adverse events, community priorities, and media coverage. However,
+when used effectively, enterprise risk management can be a tool to prioritize risks and address them
+proactively and systematically.
+
+The IIA defines risk management as processes to identify, assess, manage, and control potential
+events or situations to provide reasonable assurance. Collaboration between Risk Management and
+Internal Audit could be improved to support an enterprise approach to risk management. To be
+effective, leadership should champion enterprise risk management by leveraging the risk register to
+prioritize needs across the District and institutionalize risk management practices.
+
+Ideally, Internal Audit should collaborate with the District's Risk Manager to develop, document, and
+update the risk universe mapping for the District to create their audit work plans and ensure that audit
+resources are being focused appropriately. In order to create stronger risk practices and build a
+strategic relationship between Risk Management and Internal Audit, it's crucial to increase
+collaboration between the two functions. Ongoing monitoring of risks and related controls is especially
+important to ensure there is a constant feedback loop between Risk Management and Internal Audit.
+The respective roles and responsibilities of the Risk Management Division and Internal Audit are
+reflected in the table below.
+
+RISK MANAGEMENT INTERNAL AUDIT
+
+Develop and implement a risk management Develop an independent evaluation of the design and
+framework. effectiveness of the risk management framework.
+
+Internal Audit Review Report | 9
+RISK MANAGEMENT INTERNAL AUDIT
+
+Advise leadership on risk mitigation and draw Provide assurance on management's ability to
+attention to unmitigated risks. identify and remediate open (and unmitigated) risks.
+Present risk priorities and assess coverage of risk Provide assurance on the scope and prioritization of
+priorities, risks.
+
+Advise the Audit Committee and Board on risk Prepare independent assessments of risk information
+reporting and internal audit reporting. reported to the Audit Committee and the Board.
+
+An example of a ERM program framework is included in Appendix C. This example is based on the
+Chartered Global Management Accountant (CGMA) assessment criteria, combined with guidance
+from the Committee of Sponsoring Organizations of the Treadway Commission (COSO), the AICPA,
+and IAA.
+
+Overall, the internal audit function is responsible for evaluating risk management processes, alerting
+management of any newly identified risks or inadequately mitigated risks, and providing
+recommendations and action plans for risk responses. Audit planning should use the enterprise risk
+management process to help develop the audit plan and determine priorities for allocating audit
+resources. As part of this, Internal Audit may contribute to the improvement of risk management
+processes.
+
+INTERNAL AUDIT OPERATIONS AND PROCESSES
+
+Professional Audit Standards
+
+Observation Internal Audit is currently required to perform audits in conformance with
+GAGAS, which presents challenges for a small audit department.
+
+rCionincueeiieim Consider transitioning to conducting audits under IIA standards, which
+provide greater flexibility and efficiencies for a small audit department,
+and update the Board policy accordingly.
+
+Standards for auditing establish the general specifications that define essential elements required for
+a high-quality audit, including planning, conducting, and reporting. Board Policy 6550 requires Internal
+Audit to use Generally Accepted Government Auditing Standards (GAGAS or Yellow Book) in
+conducting its performance audits. While GAGAS is commonly used in governmental organizations,
+most internal audit functions require compliance with the International Standards for the Professional
+Practice of Internal Auditing (“the Standards” or Red Book), partially due to the internal nature of the
+work and smaller audit teams. The Standards, together with the Institute of Internal Auditors (IIA)
+Code of Ethics, encompass all mandatory elements of the International Professional Practices
+Framework (IPPF). The IPPF is the conceptual framework that organizes guidance from the IIA,
+consisting of two main categories of standards: Attribute and Performance standards. Attribute
+standards address the attributes of organizations and individuals performing internal auditing.
+Performance standards describe the nature of internal auditing and provide quality criteria against
+which the performance of these services can be measured. A comparison of these standards is
+provided below.
+
+Internal Audit Review Report | 10
+GAGAS IPPF
+
+Purpose
+
+Engagement
+
+Types
+
+Independence
+
+Planning
+
+Evidence
+Requirements
+
+Quality
+Assurance
+
+Peer Review
+
+CPE
+Requirements
+
+A framework to conduct audits with
+competence, integrity, objectivity, and
+independence.
+
+Financial Audits
+Attestation Engagements
+Performance Audits
+
+Independence in mind and appearance.
+
+Auditors must adequately plan and
+document the work necessary to address
+the audit objectives.
+
+Evidence must be sufficient, appropriate,
+relevant, valid, and reliable to provide a
+reasonable basis for findings and
+conclusions.
+
+Establish and maintain a system of
+quality control that is designed to provide
+the audit organization with reasonable
+assurance that the function and its
+personnel comply with professional
+standards and applicable legal and
+regulatory requirements
+
+External peer review required every
+three years.
+
+80 hours of CPE, 24 of which relate to
+government or government auditing.
+
+Enhance and protect organizational value by
+providing risk-based and objective
+assurance, advice, and insight.
+
+Business Process Assessment and
+Consultation
+
+Internal Control Assessment and
+Consultation
+
+Value-add Internal Auditing/Consulting
+
+Audit activity must be independent and
+auditors must be objective.
+
+Establish risk-based plans to determine the
+priorities of the internal audit activity. Plan
+engagements based on documented risk
+assessments.
+
+Document and maintain all information to
+support the reasonableness of the
+engagement's conclusions and results.
+
+Requires an established Quality Assurance
+and Improvement Program (QAIP)
+comprised of both ongoing and periodic
+internal assessments. Assessments must
+demonstrate conformance with the definition
+of Internal Auditing, the Code of Ethics, and
+the Standards.
+
+External peer review required every five
+years.
+
+None specified. Auditors with professional
+certifications are responsible to obtaining
+sufficient CPE to satisfy related
+requirements.
+
+Overall, the IIA has less detailed requirements, including less frequent peer reviews and fewer CPE
+hours. The District's small Internal Audit team can be challenged to meet GAGAS requirements, and
+has not been subject to an external peer review. In a resource-constrained public environment, the
+District should consider adopting standards that support the ability to deliver work more efficiently.
+Application of IIA standards would help the Internal Audit team consistently and accurately provide
+essential, flexible services in a timely, cost-effective manner.
+
+Internal Audit Review Report | 11
+Risk Assessment
+
+Observation The Office of Internal Audit conducts an annual risk assessment with
+limited management participation in the process.
+
+Cilmucueeiieaicm A. Transition to a three-year cycle for risk assessments with increased
+management participation and adjusted timelines.
+
+B. Reframe the risk assessment to be rooted in strategic and
+operational goals.
+
+In accordance with Board Policy 6550, the Office completes risk assessments on an annual basis,
+which requires a large amount of work, District management reports that it is unclear who is engaged
+in the annual risk assessment process and that engagement overall tends to be low. Rather than
+completing interviews and asking questions of management, the Internal Audit Director sends an
+email to select members of District management to request potential audit suggestions. As noted
+previously, in summer 2019 the Internal Audit Director invited 35 employees to submit audit ideas and
+only received two responses. When Internal Audit has arranged interviews with key members of
+District management to gain a better understanding of risk, the discussions have not always been
+fruitful. Overall, formal discussions of risk across the District have been infrequent.
+
+Given the limited resources at the District, Internal Audit should adjust its operations to adopt a three-
+year cycle for risk assessments, with shorter annual updates that include conversations with key
+leaders across the organization. Examples of key leaders include the small cabinet, Superintendent,
+and Audit and Finance Committee members. In order to more effectively engage District
+management in the risk assessment process, Internal Audit may need to provide training materials
+that frame the concept of risk and spark ideas related to what risk factors inhibit operational success,
+as noted in Recommendation #5. It may also be effective for the enterprise risk assessment to be
+conducted by a third party, which may be better suited to engage staff in honest conversations about
+risk given the current Board-management relationship. To be impactful, Internal Audit should work
+with management to draw the links between strategy and potential risks. Logistically, the timing of the
+risk assessment should not occur in the summer, and could be best performed in the first quarter of
+the calendar year to provide reflection on the first several months of school and anticipate needs for
+the remainder of the year.
+
+During the three-year risk assessment process, the Office should schedule interviews with members
+of the small cabinet, the Risk Manager, Board members, and other identified stakeholders (i.e.,
+principals, union representatives, and community groups) to gain a comprehensive understanding of
+risk areas across the District. This process can also be augmented by an all-staff survey designed to
+solicit potential risks from schools and all other employees. For example, during interviews for this
+engagement, District management identified some high-risk areas, including:
+
+Construction audits
+
+Teacher discipline
+
+Fleet management
+
+Procurement and District supply chain
+
+Site-based management
+
+Internal Audit Review Report | 12
+Crisis management
+Employee equity
+
+District-wide policies and procedures
+
+In order to develop a risk-based audit plan, risks to the strategic and operational goals of the
+organization must be identified and assessed. A risk assessment should identify and assess risk
+conditions that threaten the organization’s objectives. As part of this process, mitigating controls,
+contingency plans, and monitoring activities should also be identified and linked back to the risks they
+mitigate. Controls are simply any process that addresses risks. Effective key controls can be relied
+upon to reduce the levels of significant risks. Risk responses are the means by which an organization
+chooses to respond to a risk, in alignment with its risk appetite (the level of risk the organization is
+willing to accept). Risk responses are intended to manage (but generally cannot eliminate) risks, and
+include acceptance, avoidance, reduction, and sharing (transfer). The risk that remains after risk
+responses have been executed is called residual risk.
+
+As part of the risk assessment, risks should be prioritized to enable the allocation of limited resources
+(time, money, and people). In addition to severity of risks (likelihood and impact), other factors for
+prioritizing risks include agreed-upon criteria to evaluate risks, organizational risk appetite, the
+importance of the affected objective(s), and the level at which the organization would be affected.
+Examples of potential criteria include:
+
+Complexity: The nature and scope of a risk and its interdependence
+
+Velocity: The speed at which a risk affects the organization
+
+Persistence: How long a risk might affect the organization (including recovery time)
+Adaptability: The existing capacity to adjust and respond to the risk
+
+Recovery: The organizational capacity (not time) to return to normal
+
+A risk register can be used to support the identification and analysis of risks by describing each risk,
+its impact and likelihood, and the overall risk level. These risks may be organizational-wide or relate
+to essential functions in departments. The register can also include any planned responses if a
+negative event occurs, existing mitigation efforts, and a risk ranking. Internal Audit can leverage a risk
+register to update areas of high risk and significant impact, as well as identify the key controls that
+help lower the inherent risk to tolerable levels. Internal Audit should also apply risk management to its
+own activities (e.g., audit failure, false assurance, etc.) and monitor corrective actions as needed.
+
+Internal Audit Plan
+
+| Observation The Internal Audit Plan lacks both alignment with risk assessment
+results and sufficient flexibility to address issues that arise throughout
+the year.
+
+iteroliiuciucerideim Develop annual audit plans based on the District’s unique risks and
+consider leaving a placeholder for the selection of an audit mid-year to
+provide greater flexibility in addressing urgent needs.
+
+Internal Audit Review Report | 13
+The District’s Internal Audit Plans have historically not closely aligned with the risk assessment
+results. Part of the reason for this disconnect may be the policy requiring Internal Audit to focus on
+financial controls and compliance; therefore, if a high risk area falls outside of the identified audit
+universe, it has not been considered eligible for audit. Internal Audit staff report that audits are often
+selected based on industry trends, rather than the unique needs of the District, which are difficult to
+ascertain without engagement from management during the annual risk assessment (see
+Recommendation #7). This creates a cycle where the audit selection process is not perceived as
+meaningful or clear by District management. Development of the Internal Audit Plan can serve as a
+tool to demonstrate the value of the internal audit function moving forward by reacting to
+management's needs and identified risks.
+
+The IIA’s IPPF states that an organization should “establish a risk-based plan to determine the
+priorities of the internal audit activity...” Regardless of how often an internal audit office conducts a
+detailed risk assessment, the audit plan should be modified or updated annually to reflect any new or
+changing risks affecting the District. Risks that internal audit departments typically focus on include
+assessing the governance, operations, and information systems related to the reliability and integrity
+of financial and operational information; the effectiveness and efficiency of operations; the
+safeguarding of District assets; and the District's compliance with laws, regulations, policies,
+procedures, and contracts.
+
+A risk-based audit plan should describe what audit and consulting activities are planned, and logically
+relate the risks identified during the risk assessment to the District's strategic and operational goals.
+The plan should include a brief scope of work as well as the time/staffing resources required to
+complete the project. Additionally, the plan should identify the audits intended to review the key
+controls linked to the highest areas of risk, as well as the consulting activities to give advice on
+controls to mitigate risks. While lower risk audits may still be included in the audit plan (to give
+appropriate coverage), the audit plan typically should focus on areas of unacceptable current risks,
+the controls systems on which the District is most reliant, areas where the difference between
+inherent risk and residual risk is significant, and areas where inherent risk is very high.
+
+In conformance with best practices, the District's Internal Audit Plan is approved by the Audit and
+Finance Committee. Revisions to the work plan must also be reviewed and approved by the Audit
+and Finance Committee. Management that provided internal audit suggestions mid-year were often
+unclear about why certain projects were selected while others were not. Internal Audit reports that it
+assesses the risk and ability of management to respond to known issues when determining whether
+or not to propose a revision to the audit plan. However, as noted previously, the District is frequently
+presented with urgent requests mid-year due to fluctuating community priorities and local events.
+Therefore, the District should consider building additional flexibility into the audit work plan by
+providing an audit contingency or leaving an audit open for approval mid-year. For example, if this
+flexibility had been built into the audit plan over the last year, Internal Audit may have opted to audit a
+topic related to COVID-19 resources and student support. Therefore, the audit plan should have
+enough flexibility to adapt as needed to adjust during the audit plan period if minor shifts are needed,
+potentially by leaving a placeholder for an audit that is selected mid-year. Any substantial adjustment
+made to the audit plan should continue to be approved by the Finance and Audit Committee,
+including the final selection of a contingency audit.
+
+Internal Audit Review Report | 14
+Report Content
+
+Observation Current internal audit reports are concise, but are narrow in scope and
+do not provide detailed insights, supporting evidence, and actionable
+recommendations.
+
+teehee Incorporate detailed methodology descriptions and provide evidence-
+based findings that identify opportunities for improvement and practical,
+detailed recommendations that better reflect the impact of audit results.
+
+Internal audit reports are very concise, but lack some details that describe the audit methodology or
+support observations and recommendations. For example, audit reports should thoroughly explain the
+audit methodology, including sample selection, testing procedures, and whether or not the results can
+be applied to the whole population. Results should clearly state the number and type of exceptions
+and explain why each finding is relevant to the audited function and District as a whole. Each finding
+reported should be evidence-based and adequately communicate the IAA’s elements of a finding in
+order to present a clear picture of the issue, why it is important, and the impact it has on the District.
+The elements of a finding, as defined by the IIA, include:
+
+Criteria: The standards, measures, or expectations used in making an evaluation or verification
+(the correct state).
+
+Condition: The factual evidence that the internal auditor found in the course of the examination
+(the current state). This includes the number of exceptions in the sample and, potentially,
+implications for the entire population.
+
+Cause: The reason for the difference between expected and actual conditions.
+
+Effect: The risk or exposure the organization or others encounter because the condition is not
+consistent with the criteria (the impact of the difference).
+
+By fully presenting all the elements of a finding in the narrative of the report, the report can provide
+additional context and more meaning to its results. This approach also supports the availability of the
+report to stand on its own in the public sphere without potentially being misinterpreted.
+
+Recommendation Development
+
+i Observation There are opportunities to increase the clarity and practicality of audit
+| recommendations to increase the impact of Internal Audit.
+
+ereroeciaeriioe Ensure recommendations address the root cause of issues and are
+sufficiently specific, actionable, and practical to support improvements
+at the District.
+
+Management reports that recommendations are often not practical to complete using existing
+resources or sufficiently specific to easily understand what needs to be accomplished to address the
+root cause of the finding. In interviews, staff also reported differences between Internal Audit,
+Department leadership, and front-line staff actually responsible for the work in understanding the
+recommendation and implementation activities. Recommendations that are perceived as high level,
+
+Internal Audit Review Report | = 15
+impractical, or too vague are unlikely to make a meaningful impact on District operations and can
+perpetuate a lack of management engagement. To be effective, recommendations must be
+constructive, reasonable, actionable, and clearly outline the steps to resolve the observation.
+
+Internal Audit should serve as a catalyst for improving organizational effectiveness and efficiency by
+providing insight and recommendations based on analysis and assessment of data and business
+processes. In the course of executing an audit, an internal auditor should not only identify an issue,
+but determine why the issue has occurred. As part of the development of recommendations, Internal
+Audit should work with management to develop an action plan that addresses that root cause.
+Internal auditors must demonstrate that they understand the ultimate goal of internal audit is to help
+improve the District. Communicating sensitive or negative audit results requires a delicate approach,
+with a constructive focus on how to make the organization stronger. Historically, Internal Audit has
+refrained from providing specific recommendation in order to empower management to implement the
+most appropriate and feasible corrective action to resolve the findings. However, providing examples
+of potential solutions would help support this work and collaborative efforts with management.
+
+Recommendations should be crafted to enhance and protect organizational value. Specifically,
+recommendations should include a call to action to correct existing conditions or improve operations.
+They may include suggestions for correcting or enhancing performance as a guide for management
+in order to achieve desired results. Recommendations should be built on clear and constructive
+communication of issues identified, and should be on point, realistic, and cost-effective. Internal Audit
+can support management by presenting recommendations in a cost/benefit format if issues and
+recommendations can be quantified. For example, rather than only indicating in a report that a 20%
+error rate was identified in a certain process, the report could also approximate the impact of a 20%
+error rate in a dollar amount. Taking the extra time to write a meaningful report ensures that not only
+is the information presented as accurately as possible, but also that management can make
+reasonable decisions based on information provided.
+
+AUDIT RESPONSE
+
+Audit Response
+
+Observation The Audit Response Manager role provides Internal Audit with limited
+purview over non-financial or compliance functions.
+
+ale rile Determine the desired role of the Audit Response Manager as either
+management support or audit validation and revise the position’s
+reporting structure accordingly.
+
+The Audit Response Manager currently resides in the Finance Department and functions as a tool for
+management rather than a member of the Internal Audit team. If the District pursues the
+recommended internal audit model, capacity for performance-based and process efficiency projects
+will be expanded, while the existing team’s capacity is sufficient to address capital program, controls,
+and compliance audit needs. However, the role of the Audit Response Manager should be
+reconsidered, in particular with the adoption of the proposed expanded audit model, to ensure all
+performance and programmatic audit recommendations are tracked and validated. The District has
+two options for this position:
+
+Internal Audit Review Report | 16
+Option 1: Retain the role of the Audit Response Manager as a support function to management
+in designing policies and processes to implement recommendations. While this provides
+additional support to implement changes, it can create weak reliability for Corrective Action Plan
+reporting. Currently, the impetus for reporting falls on the Audit Response Manager rather than
+the auditee, which would be allowed to persist under this model.
+
+Reporting structure: If the District chooses to maintain the role of the Audit Response
+Manager as a support function for management, the position should report to the
+Superintendent's Office. The expanded scope of the internal audit function to incorporate
+other types of programs across the District requires access and knowledge of other areas
+outside of Business and Finance.
+
+Option 2: Revise the role of the Audit Response Manager to provide validation that
+recommendations were implemented. This would place the onus on District management to
+design and implement changes as set forth in recommendations. The Audit Response Manager
+would review the changes to ensure they resolve the original finding and objectively report on
+demonstrable implementation. This would eliminate the need for follow-up audits, further
+increasing the capacity and impact of the Internal Audit function and outside reviews.
+
+Reporting structure: lf the District chooses to adjust the role of the Audit Response Manager
+to serve in a validation function, the position should report to the Internal Audit Director.
+Independence could and should be maintained under this structure and provide additional
+verification that the recommendations were implemented.
+
+Corrective Action Plan Process
+
+| Observation The Corrective Action Plan process does not hold management
+accountable or provide visibility into and assurance that audit findings
+are resolved.
+
+MyClolincirevCim To increase the efficacy of the Corrective Action Plan process, the
+District should increase management accountability by requiring
+reporting of corrective action status and validation of actions and the
+adequacy of actions to address findings.
+
+Board Procedure 6550 requires the District to develop Corrective Action Plans (CAP) in response to
+audit findings within one month of the Audit and Finance Committee presentation. The CAP should be
+distributed to the Audit and Finance Committee, approved by the Superintendent, and completed
+within six months of the audit presentation. The policy allows for one three-month extension
+depending on the nature of the findings. Additionally, the Audit and Finance Committee is required to
+be briefed quarterly on the status of each CAP until it is fully resolved. However, in practice there are
+several deviations from this policy, including:
+
+The Superintendent no longer approves CAPs
+The CAP log is not included in Audit and Finance Committee meeting minutes
+
+The CAP process is managed by an Audit Response Manager within the Business and Finance
+Department. However, this employee is often tasked with additional work deemed as higher value,
+and therefore requests but does not require validation that recommendation implementation has been
+completed. Additionally, management over the audited areas lacks proper accountability to implement
+recommendations and maintain the CAP in an up-to-date format. Often, the Audit Response Manager
+
+Internal Audit Review Report | = 17
+is responsible for updating the CAP log and making presentations that report on recommendation
+implementation progress to the Audit and Finance Committee. By putting the bulk of the responsibility
+for CAPs on the Audit Response Manager, rather than District management, the logs may not be
+reliable or provide sufficient assurance that recommendations were implemented. For example, the
+last CAP log reported that 94% of recommendations were implemented, although the details are not
+included on the public website.
+
+District management reports that the CAP logs are not user friendly, the process is not well-
+understood, and sometimes staff lack capacity to implement recommendations within the six-month
+timeframe. Due to the nature of recommendations provided by Internal Audit, staff report that there is
+often a lack of clarity between Internal Audit, management, and front-line workers on what changes
+need to be made to fully implement the audit recommendations. With the shift in Internal Audit's
+scope and model, the CAP policy and process should be adjusted accordingly:
+
+Staffing and responsibility: As noted previously, the role and reporting structure of the Audit
+Response Manager should be reconsidered. The Audit Response Manager should report to the
+Superintendent's Office or Internal Audit Director. This position should serve as the liaison
+between the Audit and Finance Committee and management over audited areas, with the onus of
+recommendation implementation and reporting on management. Management should be required
+to complete the CAP log and present the results to the Audit and Finance Committee, with the
+Audit Response Manager providing technical support and validation that corrective actions have
+been completed.
+
+Validation of recommendation implementation: The Audit Response Manager should require
+validation to demonstrate the implementation of recommendations and management should be
+held responsible accordingly. When completed correctly, CAPs can reduce or eliminate the need
+to conduct follow-up audits, which will increase the efficiency and impact of the internal audit
+function.
+
+CAP timelines: Performance audits typically require a longer time to complete and identify a
+wide range of recommendations that can take several years to fully implement. Rather than
+requiring completion of the CAP within a specified timeframe (i.e., six months) regardless of the
+complexity of recommendations, the District should consider requiring the development of
+implementation plans that include the planned timelines for completion of each recommendation.
+This provides departments with greater flexibility and capacity to implement recommendations
+thoughtfully.
+
+Reporting: In addition to presentation at the Audit and Finance Committee meetings, CAPs,
+including progress updates, should be posted on the District’s website to provide transparency to
+the community about recommendation implementation.
+
+The District should update its policy to reflect these requirements and instill greater management
+accountability to implementing recommendations. Sample policies are included in Appendix D.
+
+Internal Audit Review Report | = 18
+D. ETHICS PROGRAM
+
+Ethics and Whistleblower Hotline
+
+13. Observation While the District operates an independent whistleblower hotline, it has
+not established a triage policy.
+
+inrrolicrercieum A. Develop and implementa policy that defines how complaints
+received by the Ethics Office are managed and triaged.
+
+B. Incorporate high-level reporting of complaints into quarterly Audit
+and Finance Committee meetings.
+
+In accordance with best practices, the District operates an independent hotline that is accessible 24/7
+both online and over the phone for employees to report complaints of misconduct. Hotlines are useful
+tools in reducing the possibility of inappropriate or illegal actions by providing a confidential venue for
+employees to present issues to management.
+
+The Internal Audit Director is also the District’s Ethics Officer. This employee is responsible for
+investigation of complaints related to the District’s Ethics Policy and any complaints involving
+whistleblower retaliation that come through the hotline or any other means of reporting. Board
+Procedure 5250BP states “the District shall investigate, or cause to be investigated, reports of
+conduct that, if true, would constitute an Improper Governmental Action. District supervisors or other
+management employees shall, upon receiving such a report, take prompt action to assist the District
+in properly investigating the report. The investigation may be conducted by a District investigator or
+by the Ethics Officer.” The Ethics Officer/Internal Audit Director reports that they contract with
+independent investigators to conduct investigations specific to the District's Ethics Policy and
+whistleblower retaliation.
+
+According to FAQs posted on the District’s website, complaints will never be assigned to someone
+directly associated with the allegation and all whistleblower complaints received by the Ethics Officer
+are reviewed with the Chair of the Audit and Finance Committee to ensure appropriate assignment. It
+is a best practice for Internal Audit to take the lead in assessing and routing complaints to the
+appropriate department based on the nature of each complaint. This ensures that a thorough,
+independent, and objective process is followed for investigating complaints. However, the District
+lacks a formal policy on how complaints are triaged and assigned. A triage policy should identify what
+department (i.e., Internal Audit, Business and Finance, Human Resources) or party (i.e., external
+investigator, SAO) would be the most appropriate to conduct the investigation based on the nature of
+the complaint and how quickly that complaint must be addressed based on risk. Factors that should
+be considered in this policy include:
+
+Technical expertise required to complete investigation
+Need for independence
+Relationship to implicated employee
+
+Urgency of the matter and staff capacity
+
+Internal Audit Review Report [| 19
+The District policy should also establish escalation for complaints based on the nature of the report
+content, including up to the Audit and Finance Committee. Some complaints may warrant immediate
+action and communication to senior management and the Audit and Finance Committee. For
+example, if a report indicates misappropriation of District assets, false reporting, or misuse of assets,
+Internal Audit should initiate an investigation immediately and notify the appropriate senior officials.
+Other reports may require additional follow-up or simply suggest an area for the Office to consider
+evaluating in the future, which require less expedient responses. Response protocol often determines
+the overall success of an ethics hotline and overall business ethics program. Sample policies are
+included in Appendix E.
+
+Finally, Internal Audit should also provide quarterly reporting on the ethics hotline utilization and
+associated activities to the Audit and Finance Committee. This reporting should remain at a high level
+by providing the number of complaints received that period, complaint sources, status (i.e., under
+investigation, open, or closed), and category (e.g., employee misconduct, harassment/discrimination,
+suspicious activity, and policy violation).
+
+Ethics and Fraud, Waste, Abuse Training
+
+Observation The District lacks Ethics and Fraud, Waste, and Abuse training that
+supports employee understanding and identification of policy breaches.
+
+iCraeuciuteriess Develop and implement mandatory Ethics and Fraud, Waste, and Abuse
+training for all District employees.
+
+Board Procedure 5250 defines “gross waste of public funds or resources” as 1) to spend or use
+District funds or resources, in a manner grossly deviating from the standard of care or competence
+that a reasonable person would observe in the same situation; or 2) the non-collection of a debt or
+other obligation owed the District when the non-collection is done in a manner grossly deviating from
+the standard of care or competence that a reasonable person would observe in the same situation.
+Additionally, Board Policy 5251 defines ethical standards for District officers and employees, including
+conflicts of interest, use of position, gifts and gratuities, confidential information, and interest in
+contracts. Although the District has policies related to both ethics and fraud, waste, and abuse, there
+are no training materials on ethics available to District employees, which compromises the efficacy
+and ultimate adoption of these policies.
+
+Employees need to know the appropriate avenues to report suspicious activity without fear of
+retaliation or a breach in confidentiality. To ensure ethics and fraud, waste, abuse concepts are
+properly understood and adopted, the District should develop and implement formal training on this
+subject. Training methods may include live instruction, online or computer-based training, workshops,
+and/or prerecorded presentations to support greater employee accessibility to the content. Ethics
+training should cover the following topics:
+
+Discussion of the District's policies that support compliance and the ethics program
+
+Sections on specific risks including conflicts of interest, use of position, and confidential
+information
+
+Information on how and why to adopt ethical behavior to accomplish the following:
+
+Internal Audit Review Report | 20
+Enabling employees to understand the District's ethics policies
+Guiding ethical decision-making, including how to explore the ethics implications of decisions
+Providing information on how to report suspected ethical violations
+
+Reinforce that employee actions impact District's culture, which impact internal and external
+stakeholders
+
+Employee ethics-related roles and responsibilities
+
+Additionally, regular fraud, waste, and abuse training is vital for governmental organizations and
+should be tailored to the specific industry and environment in which the organization operates. This
+training should be geared toward internal fraud, waste, and abuse risk by providing employees
+examples of potential red flags that may contribute to a potential indication of fraudulent activity.
+Fraud, waste, and abuse training should cover the following components:
+
+Definition of fraud, waste, and abuse including industry-specific examples of each
+
+The fraud triangle, fraud environment, and reasons why fraud happens
+
+Opportunity points for fraud to occur
+
+Internal controls intended to prevent and detect fraud
+
+The importance of corrective controls and the messages they send to employees
+
+Fraud schemes: what does fraud look like and how to identify and understand various schemes
+Characteristics of perpetrators and red flags
+
+Actions employees should take if aware of unacceptable activities, including information on all
+available avenues for reporting unacceptable behavior (i.e., how to access the hotline and
+information to include)
+
+Cadence for this training will depends on context, but frequency is essential. Training should always
+occur at the time of hire so new employees are aware of expectations. Typically, best practices
+suggest offering a refresher training at least annually so that course material is most up to date with
+current policies and organizational culture.
+
+This training supports the District's integrity by reinforcing its commitment to ethics, compliance, and
+anti-fraudulent behavior. It can increase employee morale and satisfaction because it empowers
+employees to make better ethical decisions and fosters an honest work environment. Per its intention,
+training can also reduce the number of ethical and fraudulent violations.
+
+Internal Audit Review Report jf 21
+APPENDIX A: SAMPLE INTERNAL AUDIT POLICIES
+
+SAMPLE 1: TACOMA SCHOOL DISTRICT
+6050R - Internal Auditing
+
+Regulation 6050R Internal Auditing
+
+Description
+
+Internal auditing is an independent appraisal activity employed within the district as a service to
+administration. It is a management control which functions by examining and evaluating the adequacy
+and effectiveness of other internal controls. Internal auditing is dedicated to assisting district
+administration in the effective discharge of its responsibilities. To this end, it furnishes them with
+analyses, appraisals, counsel, recommendations and information concerning the activities reviewed.
+The audit objective includes promoting effective control at a reasonable cost.
+
+Internal auditing functions under policies and regulations adopted and approved by the board of
+directors. The internal auditor reports to the superintendent and takes direction from the Citizens’
+Finance and Audit Committee, and coordinates activities with the state and other outside auditors.
+Internal auditing is a staff function with no authority over persons and activities. The independence
+from operating responsibility promotes objectivity. To conduct audits, the internal auditor is authorized
+free access to district records, personnel and physical properties relevant to the subject being
+reviewed, without relieving other administrations of their management control responsibilities.
+
+Mission
+
+The mission of internal auditing is as follows:
+
+1, Review departments and programs within the district at appropriate intervals to determine
+whether they are efficiently and effectively carrying out their functions of planning, organizing,
+directing, and controlling in accordance with management instructions, policies and procedures,
+and in a manner that is consistent with both district objectives and high standards of
+administrative practice.
+
+2. Determine the adequacy and effectiveness of the district's systems of internal accounting and
+operating controls.
+
+3. Review the reliability and integrity of financial information and the means used to identify,
+measure and classify all reports of such information.
+
+4. Review the established systems to ensure compliance with those policies, plans, procedures,
+laws and regulations which could have a significant impact on operations and reports, and
+determine whether the organization is in compliance. Suggest policy where required.
+
+5. Review the means of safeguarding assets and, as appropriate, verify the existence of such
+assets.
+
+6. Appraise the economy and efficiency with which resources are employed, identify opportunities to
+improve operating performances, and recommend solutions to problems where appropriate.
+
+Internal Audit Review Report | 22
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+Review operations and programs to ascertain whether results are consistent with established
+objectives and goals and whether the operations or programs are being carried out as planned.
+
+Coordinate audit efforts with those of the state auditor and other independent public accountants.
+
+Participate in the planning, design, development, implementation, and operation of major
+computer-based systems to determine whether
+
+a. adequate controls are incorporated in the systems;
+
+b. thorough system testing is performed at appropriate stages;
+c. system documentation is complete and accurate; and
+d
+
+the needs of user organizations are met, conduct periodic audits of computer service centers
+and make post-installation evaluations of major data processing systems to determine
+whether these systems meet their intended purposes and objectives.
+
+Review compliance with the district’s guidelines for ethical business conduct and see that the
+highest standards of performance are met.
+
+Submit annual audit plans to the superintendent, cabinet, and Citizens’ Finance and Audit
+Committee for their review and approval.
+
+Provide a report, quarterly, to the Citizens’ Finance and Audit Committee on whether:
+a. Appropriate action has been taken on significant audit findings:
+b. Audit activities have been directed toward the highest exposures to risk and toward
+increasing efficiency, economy, and effectiveness of operations;
+Internal and external audits are coordinated so as to avoid duplications;
+Internal audit plans are adequate;
+
+e. There is any unwarranted restriction on the staffing and authority of internal auditing or on
+access by internal auditors to all company activities, records, property, and personnel.
+
+Report to the board and to those members of management who should be informed, or who
+should take corrective action, the results of audit examinations, the audit opinions formed, and
+the recommendations made.
+
+Evaluate any plans or actions taken to correct reported conditions for satisfactory disposition of
+audit findings. If the corrective action is considered unsatisfactory, hold further discussions to
+achieve acceptable disposition.
+
+Provide adequate follow up to make sure that adequate corrective action is taken and that it is
+effective.
+
+Administrators are responsible for seeing that corrective action on reported weaknesses is either
+planned or taken within 30 days from receipt of a report disclosing those weaknesses. The
+administrator is also responsible for seeing that a written report of action planned or completed is sent
+to the division head. If a plan of action is reported, a second report shall be made promptly upon
+completion of the plan.
+
+Standards
+
+Internal auditing follows the standards for the professional practices of internal auditing as established
+by the Institute of Internal Auditors.
+
+The standards include:
+
+1.
+
+Independence;
+
+Internal Audit Review Report | = 23
+
+ay)
+2. Professional proficiency;
+
+3. Scope of work;
+
+4. Performance of audit work; and
+
+5. Management of the internal auditing department.
+Quality Assurance
+
+On a periodic basis, the function of internal auditing should be reviewed by an independent team
+determined by the Citizens’ Finance and Audit Committee. The intent of the review is to ensure that
+the internal audit function is performing as planned and is conducting audits objectively and
+independently.
+
+The quality assurance review will consider:
+
+1. Objectives of internal audit: Review objectives of internal audit as noted in the internal auditor job
+description. Evaluate objectives in relation to overall district goals.
+
+2. Quality assurance: Review quality of work as it relates to the Standards for the Professional
+Practice of Internal Auditing and the Internal Audit Procedures Manual. Critique audit planning,
+conduct of audit, support of findings (work papers), communication of results reports, and follow
+up on recommendations.
+
+3. Long term internal audit plans: Review the long range plan of internal audit as it relates to district
+goals, determine the adequacy of the level of exposure, extent of coverage, achievement of
+independence, effective use of internal audit time, working with state examiners towards common
+goals, requirements for staffing, etc.
+
+Request for Internal Audit Services
+
+In keeping with the requirements of the policy and generally accepted professional standards, the
+internal auditor has established the capability for conducting audits of departments and programs in
+the following areas:
+
+1. Financial—to determine:
+a. whether financial operations are conducted properly; and
+b. whether the financial reports are presented fairly.
+
+2. Compliance—to determine whether operations have been carried out in compliance with
+applicable laws, regulations and established policies.
+
+3. Economy and efficiency—to determine whether allocated resources are managed and used in an
+economical and efficient manner.
+
+Audits can be performed by district staff covering any one of the above areas, or a comprehensive
+audit encompassing all of them can be undertaken.
+
+In general, a financial audit will be limited to the financial and compliance areas. It will however, often
+address problems of economy, efficiency and effectiveness insofar as these apply to the system of
+internal controls used in financial operations.
+
+In addition to regularly scheduled internal audits, time is reserved for special requests for audits from
+the board or administration.
+
+Internal Audit Review Report | 24
+The internal auditor also identifies potential audit subjects. Some criteria used in making selections
+might be helpful to requestors in developing ideas or requests for audits. They are:
+
+1. Relative risk and exposure: Departments and programs under this jurisdiction that expend
+relatively large sums of money and are responsible for the management of significant amounts of
+human and capital resources, or are responsible for the receipt of large amounts of revenue, are
+considered high-priority candidates for audit. There normally is great potential for identifying
+improvements in management, organizational structure and operating procedures to enhance the
+economy, efficiency and effectiveness of such organizations. Conversely, there is greater risk of
+harmful effects if any existing weaknesses remain unidentified.
+
+2. Assessments of recent audits or management studies: Programs with a history of management
+problems as identified through prior audits and studies should be prime candidates for follow-up
+audits to determine whether identified weaknesses have been corrected.
+
+3. Availability of program information: A department that provides little program information and has
+been recently audited should be considered a prime candidate. This is particularly true of new or
+experimental programs. Audits will provide management and board with an attestation to the
+propriety, validity and reliability of data upon which future program decisions can be based.
+
+4. Suspected problems or adverse publicity: Programs with a history of controversy concerning their
+compliance, economy and efficiency should be audited to provide objective attestation to
+management's response to such controversy. In addition, large budget increases, a large
+reduction or increase in the size or demands of the client populations or a rapid employee
+turnover rate are valid indicators that an audit may be needed.
+
+Additionally, staff will be reviewing areas legally requiring audits to be performed on a periodic basis.
+
+Approved: 10/26/89; 7/27/00; 1/22/02
+
+SAMPLE 2: SAN ANTONIO INDEPENDENT SCHOOL DISTRICT
+
+Purpose and Mission
+
+The purpose of the San Antonio Independent School District's Internal Audit Department is to provide
+independent and objective assurance and consulting services designed to add value and improve the
+district's operations. The mission of internal auditing is to enhance and protect the organizational
+value by providing risk-based and objective assurance, advice and insight. The Internal Audit
+Department helps the San Antonio Independent School District (SAISD) accomplish its objectives by
+bringing a systematic, disciplined approach to evaluate and improve the effectiveness of risk
+management, control, and governance processes.
+
+Standards for the Professional Practice of Internal Auditing
+
+The internal audit department will govern itself by adherence to the mandatory elements of The
+Institute of Internal Auditors’ International Professional Practices Framework, including the Core
+Principles for the Professional Practice of Internal Auditing, the Code of Ethics, the International
+Standards for the Professional Practice of Internal Auditing, and the Definition of Internal Auditing.
+The chief internal auditor will report periodically to senior management and the Board of Trustees
+(Board) regarding the internal audit department's conformance to the Code of Ethics and Standards.
+
+In addition, the internal audit department will adhere to SAISD's board policies, administrative
+procedures and guidelines, as well as the internal audit department's operating procedures manual.
+
+Internal Audit Review Report | 25
+Authority
+
+The chief internal auditor will report functionally to the Board and administratively to the
+Superintendent. To establish, maintain, and assure that SAISD's internal audit department has
+sufficient authority to fulfill its duties, the Board will:
+
+Approve the internal audit department's charter.
+Approve the risk-based internal audit plan.
+
+Approve the internal audit department's budget, including without limitation, necessary staffing,
+resource plan, and compensation of the chief internal auditor.
+
+Receive communications from the chief internal auditor on the internal audit department's
+performance relative to its plan and other matters.
+
+Approve decisions regarding the appointment and removal of the chief internal auditor.
+
+Make appropriate inquiries of management and the chief internal auditor to determine whether
+there is inappropriate scope or resource limitations.
+
+The chief internal auditor will have unrestricted access to, and communicate and interact directly with,
+the Board, including in executive sessions, when necessary, without management being present.
+
+The Board authorizes the internal audit department to:
+
+Have full, free, and unrestricted access to all functions, records, property, and personne! pertinent
+to carrying out any engagement, subject to accountability for confidentiality and safeguarding of
+records and information.
+
+Allocate resources, set frequencies, select audit subject, determine scopes of work, apply
+techniques required to accomplish audit objectives, and issue reports.
+
+Obtain assistance from the necessary personnel of SAISD, as well as other specialized services
+from within or outside SAISD, in order to complete the engagement.
+
+Independence and Objectivity
+
+The chief internal auditor will ensure that the internal audit department remains free from all
+conditions that threaten the ability of internal auditors to carry out their responsibilities in an unbiased
+manner, including matters of audit selection, scope, procedures, frequency, timing, and report
+content. If the chief internal auditor determines that independence or objectivity may be impaired in
+fact or appearance, the details of impairment will be disclosed to appropriate parties.
+
+Internal auditors will maintain an unbiased mental attitude that allows them to perform engagements
+objectively and in such a manner that they believe in their work product, that no quality compromises
+are made, and that they do not subordinate their judgement on audit matters to others.
+
+Internal auditors will have no direct operational responsibility or authority over any of the activities
+audited. Accordingly, internal auditors will not implement internal controls, develop procedures, install
+systems, prepare records, or engage in any other activity that may impair their judgement, including:
+
+Assessing specific operations for which they had responsibility within the previous year.
+Performing any operational duties for SAISD.
+
+Initiating or approving transactions external to the internal audit department.
+
+Internal Audit Review Report | 26
+» Directing the activities of any SAISD employee not employed by the internal audit department,
+except to the extent that such employees have been appropriately assigned to auditing teams or
+to otherwise assist internal auditors.
+
+Where the chief internal auditor has or is expected to have roles and/or responsibilities that fall
+outside of internal auditing, safeguards will be established to limit impairments to independence or
+objectivity.
+
+Internal auditors will:
+
+Disclose any impairment of independence or objectivity, in fact or appearance, to appropriate
+parties.
+
+» Exhibit professional objectivity in gathering, evaluating, and communicating
+information about the activity or process being examined.
+Make balanced assessments of all available and relevant facts and circumstances.
+
+Take necessary precautions to avoid being unduly influenced by their own interests or by others
+in forming judgments.
+
+The chief internal auditor will confirm to the Board, at least annually, the organizational independence
+of the internal audit department.
+
+The chief internal auditor will disclose to the Board any interference and related implications in
+determining the scope of internal auditing, performing work, an/or communicating results.
+
+Scope of Internal Audit Activities
+
+The scope of internal audit activities encompasses, but is not limited to, objective examinations of
+evidence for the purpose of providing independent assessments to the Board, management, and
+appropriate third parties on the adequacy and effectiveness of governance, risk management, and
+contro] processes for SAISD. Internal audit assessments include evaluating whether:
+
+Risks relating to the achievement of SAISD's strategic objectives are appropriately identified and
+managed.
+
+The actions of SAISD's, employees, and contractors are in compliance with SAISD's policies,
+procedures, and applicable laws, regulations and governance standards.
+
+The results of operations or programs are consistent with established goals and objectives and
+are being carried out effectively and efficiently.
+
+Established processes and systems enable compliance with the policies, procedures, laws, and
+regulations that could significantly impact SAISD.
+
+Information and the means used to identify, measure, analyze, classify, and report such
+information are reliable and have integrity.
+
+Resources and assets are acquired economically, used efficiently, and protected adequately.
+The chief internal auditor will report periodically to senior management and the Board regarding:
+
+The internal audit department's purpose, authority, and responsibility.
+
+» The internal audit department's plan and performance relative to its plan.
+
+Internal Audit Review Report {27
+The internal audit department's conformance or intent to conform with The IIA’s Code of Ethics
+and Standards, and action plans to address any significant conformance issues.
+
+Significant risk exposures and control issues, including fraud risks, governance issues, and other
+matters requiring the attention of, or requested by, the Board.
+
+Results of audit engagements or other activities.
+Resource requirements.
+Any response to risk by management that may be unacceptable to SAISD.
+
+The chief internal auditor also coordinates activities, where possible, and considers relying upon the
+work of other internal and external assurance and consulting service providers as needed. The
+internal audit department may perform advisory and related consulting activities for SAISD, the nature
+and scope of which will be agreed on by the Board, provided the internal audit department does not
+assume management responsibility.
+
+Opportunities for improving the efficiency of governance, risk management, and control processes
+may be identified during engagements. These opportunities will be communicated to the appropriate
+level of management and the Board.
+
+Responsibility
+
+The chief internal auditor has the responsibility to:
+
+Submit, at least annually, to senior management and the Board a risk-based internal audit plan
+for review and approval.
+
+Communicate to senior management and the Board the impact of resource limitations on the
+internal audit plan.
+
+Review and adjust the internal audit plan, as necessary, in response to changes in SAISD's
+business, risks, operations, programs, systems, and controls.
+
+Communicate to senior management and the Board any significant interim changes to the
+internal audit plan.
+
+Ensure each engagement of the internal audit plan is executed, including the establishment of
+objectives and scope, the assignment of appropriate and adequately supervised resources, the
+documentation of work programs and testing results, and the communication of engagement
+results with applicable conclusions and recommendations to appropriate parties.
+
+Follow up on engagement findings and corrective actions, and report periodically to senior
+management and the Board any corrective actions not effectively implemented.
+
+Ensure the principles of integrity, objectivity, confidentiality, and competency are applied and
+upheld.
+
+Ensure the internal audit department collectively possesses or obtains the knowledge, skills, and
+other competencies needed to meet the requirements of the internal audit charter.
+
+Ensure trends and emerging issues that could impact SAISD are considered and communicated
+to senior management and the Board as appropriate.
+
+Ensure emerging trends and successful practices in internal auditing are considered.
+
+Establish and ensure adherence to policies and procedures designed to guide the internal audit
+department.
+
+Internal Audit Review Report | 28
+Ensure adherence to SAISD's relevant policies and procedures, unless such policies and
+procedures conflict with the internal audit charter. Any such conflicts will be resolved or otherwise
+communicated to senior management and the Board.
+
+Ensure conformance of the internal audit department with the Standards, with the following
+qualifications:
+If the internal audit department is prohibited by law or regulation from conformance with
+certain parts of the Standards, the chief internal auditor will ensure appropriate disclosures
+and will ensure conformance with all other parts of the Standards.
+If the Standards are used in conjunction with requirements issued by other authoritative
+bodies, the chief internal auditor will ensure that the internal audit department conforms with
+the Standards, even if the internal audit department also conforms with the more restrictive
+requirements of other authoritative bodies.
+
+Quality Assurance and Improvement Program
+
+The internal audit department will maintain a quality assurance and improvement program that covers
+all aspects of the internal audit department. The program will include an evaluation of the internal
+audit department's conformance or its intent to conform with the Standards and an evaluation of
+whether internal auditors apply the IIA's Code of Ethics. The program will also assess the efficiency
+and effectiveness of the internal audit department and identify opportunities for improvement.
+
+The chief internal auditor will communicate to senior management and the Board on the internal audit
+department's quality assurance and improvement program, including results of internal assessments
+(both ongoing and periodic) and external assessments conducted at least once every five years by a
+qualified, independent assessor or assessment team from outside San Antonio Independent Schoo!
+District.
+
+Internal Audit Review Report | 29
+
+@
+APPENDIX B: EXTERNAL AUDIT AND REVIEW
+SAMPLE POLICIES
+
+SAMPLE 1: UNIVERSITY OF WASHINGTON
+
+Non-University of Washington Auditors
+
+The following policy and procedures relate to interactions between university personnel and external
+auditors. An external auditor is defined as any non-University of Washington auditor or reviewer, such
+as the State Auditor’s Office, federal auditors and reviewers, and independent certified public
+accounting firms. Please notify the Internal Audit Department if you are contacted by a non-University
+of Washington auditor or reviewer.
+
+Policy
+
+It is the policy of the University of Washington to fully cooperate with external auditors. In the
+furtherance of this objective, it is expected that auditors and university personnel will observe certain
+procedures intended to facilitate orderly audits and to minimize disruption of normal departmental
+operations. These procedures are outlined in the following sections.
+
+Procedures
+
+1. General
+
+As part of the audit coordination process, the Internal Audit Department serves as liaison between
+central administrative offices, university departments and external auditors. All initial contacts with
+external auditors should be arranged through the University of Washington Executive Director,
+Internal Audit Department. If any university personnel are contacted directly by an external auditor,
+they should notify the Executive Director of the Internal Audit Department. Appropriate advance
+arrangements must be made to ensure that (1) the proper persons are on hand to assist the external
+auditors, (2) relevant records are gathered together in a timely manner, and (3) the contact is
+scheduled to minimize disruption of departmental activities.
+
+The Internal Audit Department will keep a record of all correspondence, meeting minutes, and other
+written communications between the external auditor and the Internal Audit Department.
+
+2. Notification of Audit
+A. By the Auditor
+
+The external auditor should send a written notification of the upcoming audit to the Executive Director
+of the Internal Audit Department. The written notification should include the following:
+
+subject area,
+scope and purpose of the audit,
+approximate start date and duration of the audit.
+
+This will assist the University in arranging for people and records to be available when the external
+auditor requires them.
+
+Internal Audit Review Report | 30
+B. By the Executive Director of the Internal Audit Department
+
+The Executive Director of the Internal Audit Department will notify the appropriate university officials
+regarding the scope, purpose, schedule, and other information relevant to the upcoming audit.
+
+C. Entrance Conference
+
+The Executive Director of the Internal Audit Department will coordinate an entrance conference with
+the appropriate university officials and the external auditors. The objectives of this conference are to
+establish the purpose, scope, and timing of the audit or review; determine the information required by
+the external auditor; and arrange the physical facilities and equipment needed to facilitate the audit.
+Minutes of the meeting will be taken and made available to the external auditors and appropriate
+university personnel.
+
+3. Contact During Audit
+
+After the entrance conference, all requests for specific information or interviews with faculty and staff
+should be coordinated through the department administrator or designated university personnel. The
+Executive Director of the Internal Audit Department or appropriate university personnel may
+accompany faculty or staff members during interviews when deemed appropriate. The external
+auditor should keep the Executive Director of Internal Audit Department or designated university
+official informed of any mistakes, discrepancies, or audit questions or concerns that arise during the
+audit process. The purpose of such contact is to expedite the audit and to provide additional
+information or clarify any ambiguities.
+
+For specific external groups, certain procedures during the audit may vary from the general
+procedures, as discussed below.
+
+A. Federal Auditors
+
+After the entrance conference, all questions and requests for specific information or interviews with
+employees will be coordinated through the department administrator or appropriate department
+personnel. The department administrator will obtain the necessary documentation and will arrange for
+interviews. The department administrator may directly contact the Office of Sponsored Programs, and
+Grant and Contract Accounting Offices for assistance.
+
+B. Program Reviews
+
+Program reviews are often conducted to review program operations and to determine whether the
+project is meeting programmatic goals. In these cases, the program reviews should be coordinated
+through the department administrator who will obtain the necessary documentation and arrange for
+interviews. However, some program reviews, such as those conducted by the U.S. Department of
+Education, include a review of fiscal operations. In these cases, the department administrator should
+coordinate the review of fiscal operations with the Executive Director of the Internal Audit Department.
+
+For program reviews of student financial aid, the Department of Education may work directly through
+the Director of Financial Aid.
+
+C. State Auditor's Office and CPA Firms
+
+After the entrance conference, all requests for specific information or interviews with staff can be
+arranged through the appropriate department administrator or designated university personnel.
+
+Internal Audit Review Report | 31
+4. Exit Conference
+
+When the audit has been completed the Executive Director of the Internal Audit Department will
+schedule an exit conference. The purpose of the exit conference is to inform university
+representatives of the audit findings. At this time, any misunderstandings are clarified and unresolved
+financial issues discussed. Minutes of the meeting will be taken and made available to the external
+auditors and appropriate university personnel.
+
+5. University Records
+
+On a timely basis, the university will provide external auditors with access to all records that are
+relevant to the audit, except those deemed by the university to be legally privileged or protected.
+Auditors should be allowed to make copies of documents as necessary, but should not be permitted
+to take original documents out of the office. Availability of records is subject to the University Records
+Retention policy, which allows destruction of records within prescribed limits.
+
+Records may be located in either the central offices (Financial Services, Grant and Contract
+Accounting, Office of Sponsored Programs, Payroll) or at the departments. The external auditor must
+make arrangements through the appropriate department head or administrator for the retrieval and
+refiling of records.
+
+6. Use of University Computer and Administrative Systems
+
+If external auditors need to use university computer resources or access the university administrative
+systems, the auditor-in-charge should send a written request to the Executive Director of the Internal
+Audit Department describing the need in the most specific terms possible. Such a request should be
+made in advance so that proper arrangements can be made.
+
+SAMPLE 2: UNIVERSITY OF TEXAS AT AUSTIN
+
+19.3. Audit Liaison
+
+The audit liaison function was created to assist and support management in responding effectively to
+internal and external auditors and other state and federal regulatory agencies.
+
+The audit liaison's role and responsibilities include the following:
+
+Provide support and assistance during a financial audit or review.
+
+Along with management, attend various audit meetings including entrance conferences,
+status meetings, and exit conferences.
+
+Facilitate and communicate requests for information between the financial auditors and the
+University of Texas at Austin; serve as points-of-contact regarding the overall audit process.
+
+Review externally prepared drafts of audit reports for accuracy and completeness; work with
+auditors to recommend corrections as needed.
+
+Assist management with the review of and response to audit findings and recommendations,
+ensuring that responses are accurate, comprehensive, and accurately reflect the position of
+the university.
+
+Assist management in developing strategies for effective and efficient implementation of audit
+recommendations; they communicate with management regarding the progress of the
+implementation.
+
+Provide audit status updates to executive management as needed.
+
+Internal Audit Review Report | 32
+@
+
+Assist management with the implementation of internal control and process improvements as
+requested.
+
+Facilitate annual financial report compliance requirements as defined by the University of Texas
+System's policies and procedures.
+
+Internal Audit Review Report [ 33
+APPENDIX C: PILLARS OF ERM PROGRAMS
+
+PILLARS OF ENTERPRISE RISK MANAGEMENT PROGRAMS
+
+1. Risk Culture
+
+Cultivation of an appropriate, “risk-aware” culture is paramount to effective
+ERM practices. The strong endorsement by the board of directors and senior
+management of the value of investing time and infrastructure into better
+understanding the organization's most significant risk exposures is an important
+and necessary condition that must be in place.
+
+Integration with
+Planning
+
+An effective ERM program is an active participant and key source of input for
+organizational and operational planning. ERM provides critical insights into the
+portfolio of existing and emerging risk exposures that can contribute to the
+strategic success of the organization when enterprise-wide risk considerations
+are incorporated into the firm's strategic and operational planning processes,
+
+Articulation of
+Risk Appetite
+
+The full benefits of identifying and assessing risks can only be realized if the
+organization has articulated its risk appetite and operationalized the criteria
+used to determine what risks should be taken or when risks should be
+managed.
+
+4. Risk Identification
+
+Implementation of definable, robust, and repeatable processes which
+encourages senior management to regularly think about risks and opportunities
+that may emerge and affect the organization's achievement of objectives.
+Processes related to identifying risks, particularly those risks that may be
+currently unknown, but emerging.
+
+5. Risk Assessment
+
+While all risks identified may have relevance to the organization, some risks are
+notably more important to the achievement of objectives than others. Therefore,
+organizations need some method to priorities risks that encourages a
+consistent consideration of both the likelihood of the risk occurring and the
+impact of the event to the organization, if the risk occurs. A robust risk
+assessment process has effective, enterprise-wide metrics that can be used to
+consistently assess the risks the organization faces across different areas.
+
+6. Risk Response
+
+An articulated and operationalized risk appetite allows for the selection and
+prioritized implementation of responses for managing the risks that have been
+identified and assessed. Organizations may choose to accept certain risks,
+avoid others, adopt processes to reduce the exposures to risks, or share risks
+with external parties. Of utmost importance, however, is to ensure that an
+appropriate risk response (like those mentioned above) is implemented, and
+then to ensure that the response is working as intended.
+
+7. Risk Reporting
+
+An objective of any ERM process is to provide information to senior
+management and the board about the organizational-wide portfolio of risks and
+related response to those risks. As risks are identified and assessed across the
+organization, processes are needed to facilitate the communication of risk-
+related information so that an aggregate view of important risks and their
+related risk responses are provided to senior management, the board, and to
+critical stakeholders.
+
+Internal Audit Review Report | 34
+PILLARS OF ENTERPRISE RISK MANAGEMENT PROGRAMS
+
+As the complexity of the global business environment continues to increase,
+Assessment of new ERM methodologies and procedures are needed to effectively manage the
+. portfolio of risks, including emerging areas of risks. An effective ERM program
+ERM Effectiveness is ina state of ongoing evolution, with regular reviews of the effectiveness of its
+ERM processes and monitoring of emerging ERM best practices.
+
+Internal Audit Review Report | 35
+APPENDIX D: CORRECTIVE ACTION PLAN SAMPLE
+POLICIES
+
+SAMPLE 1: SOUND TRANSIT
+
+1.0 Purpose
+
+To establish policies and procedures related to the monitoring and follow-up of management
+responses and action plans published from internal audit and consulting engagements.
+
+2.0 Policy
+
+The internal audit division communicates factual findings of the design and operational effectiveness
+of internal controls and provides management with recommendations for process enhancements.
+Working with management, action plans are developed, action owners assigned, and implementation
+dates are set. While ownership of implementation belongs to management, internal audit must
+perform follow-up on a timely basis to confirm that planned actions will address the audit issues and
+are implemented.
+
+A tracking system must be in place to monitor the implementation status of action plans resulting from
+internal audit division findings and recommendations. The tracking system should provide all the
+necessary information and reports to meet the needs of the engagement team to monitor the status of
+all matters reported and to prepare reports for management and the Audit Committee to meet their
+expectations.
+
+The internal audit division must follow-up on the status of all overdue actions that management has
+promised to take in response to audit findings and recommendations. Once management reports that
+appropriate actions have been taken, division leadership must work with management to consider
+what action, if any, should be taken to examine whether the corrective actions and remediation plans
+have been effectively designed and are operating effectively.
+
+3.0 References
+
+3.1 IIA Standard 2500 — Monitoring Progress: “The chief audit executive must establish and
+maintain a system to monitor the disposition of results communicated to management.”
+
+3.2 IA Practice Advisory 2500-1 — Monitoring Progress.
+
+3.3 IIA Practice Advisory 2500-A1 — Follow-up Process: “The chief audit executive must establish
+a follow-up process to monitor and ensure that management actions have been effectively
+implemented or that senior management has accepted the risk of not taking action.”
+
+3.4 IA Procedure # 7 — Supervision
+
+4.0 Scope
+
+This policy applies to all engagement results reported from the internal audit division that require
+management response and action.
+
+Internal Audit Review Report | 36
+5-0
+
+Objectives
+
+To ensure the internal audit division requirements for monitoring the progress related to the
+management responses align with industry standards, and to ensure that audit staff and contractors
+adhere to management action plans that were reported in engagement reports.
+
+6.0
+N/A
+
+7.0
+
+Definitions
+
+Procedures
+
+The Internal Audit Director (or staff designate) must perform the following procedures for each
+internal audit or consulting engagement to validate that management is responding to engagement
+results timely and is adhering to agreed-upon action steps:
+
+7.1
+
+7.2
+
+7.3
+
+7.4
+
+7.5
+
+For each engagement, communicate the required action plan dates to management.
+
+Enter engagement results and action plan commitment dates that require follow-up into the
+Management Response Tracking sheet.
+
+At appropriate intervals, send reminders to management and track response received in the
+Management Response Tracking sheet.
+
+When management indicates that action plans have been implemented, work with key
+stakeholders to determine the appropriate actions to take to validate that actions taken are
+working as intended and mitigate the risk they were intended.
+
+Provide executive leadership and the audit committee with updates on progress, including
+incomplete action plans and those that have been completed (see IA Reporting policy for
+more detail).
+
+SAMPLE 2: UNIVERSITY OF ARIZONA
+
+6.11 Audit Management
+
+Audit Recommendations and Corrective Action: Recommendations for improvement provided by
+the auditors or actions identified in the final report to resolve audit findings.
+
+a. Actions are to be completed by the audited department or administrative unit. Upon
+completion, notify the Audit Coordinator or designee.
+
+b. Depending on the nature and severity of the recommendation or corrective action, the
+department or administrative unit may be asked to provide status reports of all unresolved
+audit findings to the Audit Coordinator or designee. The Audit Coordinator or designee may
+advise the Audit Liaison Official of any required corrective actions for which resolution or
+adequate progress towards resolution has not been achieved or are beyond reasonable
+institutional resources to resolve.
+
+c. The Audit Liaison Official or designee may notify the responsible vice president or
+department head of unresolved audit findings and, if appropriate, recommendations for
+making progress toward resolution.
+
+d. Every effort should be made to take corrective action and implement recommendations within
+six months of the issue date of the report.
+
+Internal Audit Review Report | 37
+APPENDIX E: WHISTLEBLOWER COMPLAINT
+TRIAGE AND ESCALATION SAMPLE POLICIES
+
+SAMPLE 1: WILLIAM AND MARY
+
+I. Scope
+
+This policy applies to William & Mary, including the Virginia Institute of Marine Science (the
+“university"). It applies to all reports about compliance matters (as defined below) made by students
+and employees of all types (including faculty), and volunteers.
+
+This policy does not replace or supersede existing mechanisms such as (for example):
+
+» Faculty Handbook procedures for addressing allegations of faculty misconduct,
+
+Procedures outlined in the Student Code of Conduct and Honor Code for addressing
+complaints against students,
+
+Commonwealth grievance procedure or university policies and procedures addressing allegations
+of discrimination or discriminatory harassment, or
+
+The Virginia Fraud, Abuse and Waste Hotline.
+
+II, Purpose
+
+The university is committed to complying with all applicable laws and regulations as well as university
+and applicable state policies and procedures. As part of its compliance and ethics program, the
+university has established the following policy to encourage reporting of unethical behavior or other
+misconduct. This policy also complies with the Fraud and Whistle Blower Protection Act, Title 2.2,
+Chapter 30.1 of the Code of Virginia.
+
+I, Definitions
+
+Compliance matters:
+
+failure to comply with applicable federal or state laws, regulations;
+failure to comply with university policies or procedures; and
+
+conflicts of interest, fraud and other ethical breaches by university employees.
+
+Good faith report:
+
+Any report of a compliance matter that is made without malice and that the person making the report
+has reasonable cause to believe is true. [1]
+
+Report:
+
+Any complaint, allegation, report, or concern of a compliance matter made under this procedure.
+IV. Procedure
+
+A. Making Complaints; Filing Reports.
+
+Employees are encouraged to raise concerns with their immediate supervisor. If the concern is
+regarding their immediate supervisor, they are encouraged to report to the Compliance Office,
+
+Internal Audit Review Report | 38
+Internal Audit or Human Resources as appropriate. Supervisors or other university offices receiving
+compliance reports should contact the Compliance Office, Internal Audit or Human Resources to
+determine next steps and should not investigate the matter themselves.
+
+Employees and others are always free to report to the Compliance Office or to one of the following
+offices, if appropriate:
+
+Internal Audit — for complaints regarding fraud, waste, and abuse, or other concerns regarding
+financial reporting, auditing compliance, internal financial controls.
+
+» Mice Provost for Research — for complaints regarding research misconduct, grants compliance.
+
+Human Resources — for complaints regarding compliance with personnel policies such as
+processing of leave, performance evaluations and pay.
+
+Reports may be made by phone, email, regular mail or in person to the Compliance Office:
+
+Office of Compliance & Equity
+
+William & Mary
+
+James Blair Hall, First Floor, Suite 110 (secure dropbox available for anonymous reporting)
+Williamsburg, VA 23185
+
+reportconcern@wm.edu
+
+Certain reports may also be made to external agencies or regulators.
+See www.wm.edu/compliance/employeecomplaints/ for a list of reporting mechanisms.
+
+B. Initial Assessment of Reports.
+
+The report will be assessed by the Compliance Office in consultation with appropriate university
+officials to determine whether it is actionable and whether it should be referred. Examples of non-
+actionable reports include:
+
+Reports regarding conduct over which William & Mary does not have jurisdiction, such as off-
+campus conduct by an employee outside the scope of his university position.
+
+Reports that do not provide enough information.
+
+Reports of conduct that occurred more than a year prior. Note that the university may make
+exceptions to this general rule, depending primarily on the severity of the reported misconduct
+and the ability of the university to investigate it.
+
+Reports that do not, as alleged, present significant compliance concerns.
+
+Reports made in bad faith.
+
+Reports that will be referred are those for which there is a dedicated policy or procedure, such as
+complaints against faculty, which are subject to the Faculty Handbook, or complaints that are more
+appropriately handled through the university's processes for discipline or performance management.
+The Compliance Office will either refer the matter or provide the complainant with information on the
+appropriate process. (Some processes, such as the state’s grievance procedure, require the
+complainant to file the complaint him- or herself.) For matters referred internally, the Compliance
+Office typically will monitor the disposition.
+
+Any report of fraud, waste or abuse will be reviewed by Internal Audit and reported to the state if
+required under state law. [2]
+
+Internal Audit Review Report | 39
+The initial assessment is not subject to appeal under this procedure.
+C. Investigation.
+
+Actionable reports typically will be investigated by the Compliance Office or Internal Audit. Interim
+measures may be taken to prevention retaliation or to facilitate effective investigation. Investigation
+findings typically shall be made available to the Provost and Chief Human Resources Officer.
+
+The Compliance Office will work with senior management to ensure that prompt and appropriate
+corrective action is taken when and as needed, in compliance with any applicable personnel policies.
+[3] Employees will be given an opportunity to review and respond to relevant evidence prior to any
+disciplinary action being taken.
+
+Compliance and Internal Audit, with accountability for confidentiality and safeguarding records and
+information, are authorized full, free and unrestricted access to any and all of the university's records,
+physical properties and personnel pertinent to carrying out any investigation. Employees are required
+to cooperate with any investigation under this procedure.
+
+D. Confidentiality and Protections for Whistleblowers.
+
+Confidentiality will be maintained to the fullest extent possible, consistent with the need to conduct an
+adequate review. Complaints may be submitted anonymously, but full investigation and remediation
+of anonymous complaints may not be possible.
+
+The university absolutely prohibits retaliation against any student or employee submitting a complaint
+in good faith, or from participating in a compliance investigation in good faith. This means, for
+example, that the university will not discipline, discharge, demote, suspend, threaten, discriminate
+against or harass any such individual based on their good faith reporting under this procedure.
+
+[4] Any retaliation that occurs should be reported promptly to the investigator or Compliance Office.
+
+E. Reporting and Retention of Records of Reports and Investigations.
+
+The Compliance Office will maintain a log of all reports, tracking their receipt, investigation and
+resolution.
+
+V. Authority and Amendment
+
+This policy was originally published by the Chief Compliance Officer July 1, 2011. Minor amendments
+were made in 2012 and 2013. It was amended to provide examples of non-actionable reports, expand
+the retaliation protection provisions, change the policy name and provide additional detail regarding
+investigations effective January 25, 2017.
+
+SAMPLE 2: CARIBOO-CHILCOTIN SCHOOL DISTRICT
+
+Policy 4112
+
+F. Investigation
+
+1. Upon receiving a complaint, the Superintendent or Secretary Treasurer will record the receipt of
+the complaint and determine whether the matter is, in fact, a Reportable Activity under this Policy.
+
+Internal Audit Review Report | 40
+If the Superintendent or Secretary Treasurer determines that the complaint is a legitimate
+Reportable Activity, he or she will open a file and commence an investigation.
+
+The investigation generally will include, but will not be limited to, discussions with the reporting
+employee, the party against whom the allegations have been made and witnesses, as
+appropriate. Employees shall not obstruct or impede any investigation. Reasonable actions will
+be taken to prevent retaliation against anyone making a good faith report or participating in an
+investigation.
+
+a) The Superintendent or Secretary Treasurer may enlist Senior Management and / or outside
+legal, accounting or other advisors, as appropriate, to assist in conducting any investigation. All
+investigators shall be independent and unbiased both in fact and appearance. Investigators have
+a duty of fairness, objectivity, thoroughness and observance of legal and professional standards.
+
+b) The Superintendent or Secretary Treasurer will enlist the appropriate outside legal, accounting
+or other advisor to conduct any investigation, when investigating senior management (including
+principals and vice-principals). All investigators shall be independent and unbiased both in fact
+and appearance. Investigators have a duty of fairness, objectivity, thoroughness and observance
+of legal and professional standards.
+
+It is the obligation of all employees to cooperate in any investigation. Those responsible for the
+investigation will maintain confidentiality of the allegations and the identity of the person involved,
+subject to the need to conduct a full and impartial investigation and remedy any violations of law
+or the Board’s policies.
+
+If an investigation establishes that an employee has engaged in improper activity or reportable
+activity, the Board will take immediate and appropriate corrective action
+
+Internal Audit Review Report | 41
+(A) MOSSADAMS
+

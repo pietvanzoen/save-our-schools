@@ -1,0 +1,47 @@
+[OCR supplement of 3992562_J__Transit_Analysis.pdf: pages [1, 2] were OCRed with tesseract 5; other pages are the PDF text layer]
+High School Student | PORTLAND | Public Schools
+
+Transfers required
+
+Travel time Range of travel times | (most frequent outcome Central Point
+Feeder School from central point from multiple points across from multiple points (an intersection in the boundary that
+the attendance area across the attendance represents the center of student density)
+area)
+Irvington Jefferson 33 min 22-37 min 1 NE 15th Ave & NE Brazee St
+Irvington Grant 28 min 14-37 min* 1 NE 15th Ave & NE Brazee St
+Boise-Eliot/Humboldt Jefferson 18 min 5-20 min* 0 NE Vancouver Ave & NE Shaver St
+Boise-Eliot/Humboldt Grant 39 min 27-41 min 1 NE Vancouver Ave & NE Shaver St
+Sabin E.S. Jefferson 20 min 14-35 min 0 NE 15th Ave & NE Mason St
+Sabin E.S. Grant 32 min 16-45 min 1 NE 15th Ave & NE Mason St
+Dr. Martin Luther King Jr. E.S. Jefferson 9 min 9-16 min 0 NE ML King Jr Blvd & NE Sumner St.
+Dr. Martin Luther King Jr. E.S. Grant 38 min 36-43 min 1 NE ML King Jr Blvd & NE Sumner St.
+Beach Jefferson 7 min 7-23 min 0 N Montana Ave & N Church St.
+Beach Roosevelt 41 min 41-45 min 1 N Montana Ave & N Church St.
+Vernon K-8 Jefferson 19 min 13-32 min 0 NE 27th Ave & NE Emerson St
+
+Vernon K-8 McDaniel 26 min 19-37 min 0 NE 27th Ave & NE Emerson St
+High School Student | PORTLAND | Public Schools
+
+Transfers required
+
+Travel time Range of travel times | (most frequent outcome Central Point
+Feeder School from central point from multiple points across from multiple points (an intersection in the boundary that
+the attendance area across the attendance represents the center of student density)
+area)
+Faubion (Jefferson-McDaniel) Jefferson 33 min 21-37 min 0 NE 28th Ave & NE Holman St
+Faubion (Jefferson-McDaniel) McDaniel 39 min 24-42 min 0 NE 28th Ave & NE Holman St
+Faubion (Jefferson-Roosevelt) Jefferson 28 min 28-65 min** 1 N Anchor Way and N Harbour Dr
+Faubion (Jefferson-Roosevelt) Roosevelt 32 min 32-76 min** 1 N Anchor Way and N Harbour Dr
+Chief Joseph Jefferson 21 min 15-33 min* 0 6718 N Campbell Ave and N Dekum St
+Chief Joseph Roosevelt 26 min 17-39 min 0 6718 N Campbell Ave and N Dekum St
+Peninsula Jefferson 21 min 18-26 min 0 N Burrage Ave & N Watts St
+Peninsula Roosevelt 24 min 18-31 min 0 N Burrage Ave & N Watts St
+Woodlawn Jefferson 17 min 13-37 min 0 NE MLK Blvd & NE Bryant St.
+Woodlawn Roosevelt 25 min 25-33 min 0 NE MLK Blvd & NE Bryant St.
+
+Source: Tri-met Trip Planner trimet.org/home/planner/. Trips were planned for arrival at school by 8:25 am. The Central point was determined using GIS software and current
+student enrollment. At least four other points in each school zone located nearer the boundary edges were also analyzed.
+
+*Some areas of the attendance zone have walk times shorter than transit times, as reported by Tri-met
+**Some transit times require walking more than 2 miles, in addition to riding Tri-met
+

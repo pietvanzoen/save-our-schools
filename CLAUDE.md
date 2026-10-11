@@ -32,4 +32,8 @@ and how board members and senior staff think and change positions over time. Rou
 - `sources/boardbook/attachments_index.csv`: every agenda/supplemental attachment with tags and local paths
 - `sources/boardbook/meetings/<date>_<id>_<slug>/meeting.json`: agenda items + attachments per meeting
 - `sources/youtube/transcripts/`: per-video transcripts (when present)
-- PDF text: `<file>.pdf.txt` next to each PDF (pages separated by form feed \f)
+- PDF text: `<file>.pdf.txt` next to each PDF (pages separated by form feed \f). Scanned PDFs also have
+  `<file>.pdf.ocr.txt` (tesseract OCR of image-only pages; may contain recognition errors; verify against the PDF)
+- pps.net / bond.pps.net archives: `sources/pps_net/`, `sources/bond/` with `_manifests/` (URL, final URL, fetch time)
+- People: `analysis/people/README.md`, `analysis/people/quotes_all.jsonl`, per-person profiles
+- Search: `python3 tools/search.py "query"` (full-text over sources + analysis)
