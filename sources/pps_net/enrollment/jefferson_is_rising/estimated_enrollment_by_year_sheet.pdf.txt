@@ -1,0 +1,13 @@
+Q: What are the impacts annually on Jefferson and Grant if Sabin and Irvington feed to Grant?
+Sabin and Irivington going to Grant, Peninsula and Beach DLI going to Roosevelt
+     Year           Grant         Jefferson
+    24-25            2149            459
+    25-26            2059            391
+    26-27            1970            376
+    27-28            1897            508
+    28-29            1780            686
+    29-30            1700            871
+    30-31            1661            1053
+    31-32            1590            1065
+    32-33            1522            1081
+

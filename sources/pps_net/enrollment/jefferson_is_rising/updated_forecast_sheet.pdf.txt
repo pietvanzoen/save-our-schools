@@ -1,0 +1,13 @@
+Q: Why is the forecast data on engagement slides different from the Scenario charts?
+Status Quo Enrollment Forecast- Updated September 2025
+     Year           Grant         Jefferson       McDaniel        Roosevelt
+    24-25            2149            459            1686            1452
+    25-26            2059            391            1651            1493
+    26-27            1970            376            1639            1461
+    27-28            1948            351            1644            1494
+    28-29            1889            347            1661            1458
+    29-30            1851            396            1639            1426
+    30-31            1838            435            1635            1419
+    31-32            1734            462            1617            1395
+    32-33            1633            497            1586            1370
+

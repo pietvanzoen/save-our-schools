@@ -1,0 +1,119 @@
+ERP Modernization
+Program Review
+BAC Meeting
+April 29 2026
+Executive Summary
+
+All program spending is bond funded (2020 and 2025)
+
+Program continues to be on track
+
+Current focus is on:
+
+ ●   Contract approvals
+ ●   Detailed planning for summer and early fall work
+ ●   Mitigating internal resource constraints
+Program Objectives:
+Digital Transformation
+A tightly coordinated multi-year program to redesign how
+people, processes, and technology work together to         This transformation will be enabled by
+    streamline work and unlock better outcomes.            the implementation of a new ERP that
+                                                             best serves PPS for the long-term
+
+ The opportunity is to devote more time, resources,
+  and energy toward student learning and success.
+                                                            We do not currently have the tools -
+                                                           technology, processes, data - that are
+     The challenge is to build efficient workflows,        required to run a modern K-12 district
+   driven by meaningful data using modern tools,
+   that result in better decision-making across PPS.
+
+
+                                                                                                    3
+Scope of Impact:
+Business Functions   - 8,000+ system users
+                     - 1,000’s of vendors & contractors
+                     - 100’s of reporting requirements
+                     - $2B budget to manage
+Vendor Summary
+Function / Responsibility     Vendor                  Details                                                                  Contract Holder
+
+Program Management            Plante Moran            Responsible for scope, timeline, budget                                  Plante Moran
+
+
+Change Management             Percipio                Responsible for the strategy, plan and execution that drives PPS staff   Percipio
+                                                      adoption of the new ways of working
+
+Business Process Design       Workday + Accenture +   Partnering with PPS business leads, build the processes that modernize   Meridian
+                              Meridian                PPS functional operations
+
+System Configuration & Test   Workday + Accenture +   Based on the new business process design, configure the Workday          Meridian
+Cycles                        Meridian                platform to optimize for PPS use both short term and long term
+
+Post Deployment Support for   Workday + Meridian      Managed service to ensure PPS has a stable platform after go-live as     Meridian
+12 months                                             well as best prepare us to support ourselves moving forward
+
+Workday User Licenses for     Workday + Meridian      PPS’s use of the new ERP platform through the end of FY35-36             Meridian
+10 years
+Contract Details
+  Contract                                             Contract Holder    Original        Final
+                                                                          Proposal Cost   Cost
+
+  ERP - Implementation SOW                             Meridian           $19.8M          $14.9M
+
+
+  Workday Order Form - 10 years of licenses            Meridian           $13.8M          $12.9M
+
+  Change Management SOW                                Percipio           $2.2M           $3.5M
+
+  Program Management SOW                               Plante Moran       $1.7M           $1.5M
+
+  EUNA Licenses (10 yrs)                               EUNA               Est. $1.4M      $1.4M
+
+  EUNA Implementation SOW                              EUNA               $0              $29K
+
+  DebtBook Licenses (10 yrs)                           DebtBook           Est. $1M        $967K
+
+  DebtBook Implementation SOW                          DebtBook           $0              $9K
+
+  Application Mgmt Support (post deployment support)   Meridian           $525K           $525K
+
+                                                                  TOTAL   $40.4M          $35.7M
+Next Steps - Contracts
+1. Meridian contracts - Implementation SOW and Workday licensing (10 years)
+    ○    Those contracts represent $28M or 78% of the planned contract spend
+
+    ○    On track to be submitted end of this week per timeline for inclusion on May 12 consent agenda
+
+2. Program Mgmt (Plante Moran) and Change Mgmt (Percipio)
+     ○   Both SOW’s already with PPS ready for signature
+
+     ○   Represents $3M or 14% of spend
+
+3. Remaining contracts (EUNA, DebtBook, post deployment support)
+     ○   In total, less than $3M or 8% of the planned contract spend
+
+     ○   Presented as Not To Exceed for review via board memo
+                                                                                                                 *Timeline may change based
+                                                                                                                  on Detailed Planning phase
+
+
+
+                                    Program Phases
+                                    & Tentative Dates
+
+ June - October                  October               November ‘26 - September ‘27                    Oct ‘27 - Jan ‘28*      Feb - April ‘28
+
+
+Business Process            Detailed                Architect &                Test & Train             Deployment             Hypercare
+Alignment                   Planning *              Configure
+                                                                               Validate the solution    Prepare for and        Provide intensive
+Aligns PPS’s current        Establish governance,   Design and build the       through multiple         executes go-live(s),   post-go-live
+processes with Workday      timelines, and          Workday solution based     testing cycles to        including ﬁnal data    support to stabilize
+standards, identify gaps,   resource alignment to   on PPS requirements,       ensure accuracy,         validations,           the system, resolve
+and build consensus         ensure a structured     using best practices and   usability, and           training, and          issues quickly, and
+before designing the        and disciplined         pre-built accelerators.    readiness for            communications to      ensure user
+Workday platform.           deployment.                                        deployment.              support a smooth       adoption.
+                                                                                                        transition.
+Appendix
+
