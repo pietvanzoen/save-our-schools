@@ -1,0 +1,325 @@
+<title>Maplewood Closure Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,650&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a single-column civic brief (~70ch) with one full-width data band (table + projection chart). */
+:root{
+  --paper:#f4f6f3; --sheet:#ffffff; --ink:#1b2420; --muted:#5b6862; --rule:#d9dfda; --soft:#e9eeea;
+  --accent:#2d6a4f;   /* Southwest Portland forest green */
+  --accent-soft:#e1efe7;
+  --against:#9a3b2a; --against-soft:#f6e7e3;
+  --for:#2e5a87; --for-soft:#e3ecf5;
+  --line-mw:#9a3b2a; --line-hh:#2d6a4f; --line-rk:#b07d1a;
+  --display:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#121715; --sheet:#1a201d; --ink:#e6ece8; --muted:#a2afa8; --rule:#2f3833; --soft:#222a26;
+    --accent:#7cc4a0; --accent-soft:#1f3329;
+    --against:#e79a86; --against-soft:#3a2420;
+    --for:#8db8e3; --for-soft:#1e2b39;
+    --line-mw:#e79a86; --line-hh:#7cc4a0; --line-rk:#e2b85a;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#121715; --sheet:#1a201d; --ink:#e6ece8; --muted:#a2afa8; --rule:#2f3833; --soft:#222a26;
+  --accent:#7cc4a0; --accent-soft:#1f3329;
+  --against:#e79a86; --against-soft:#3a2420;
+  --for:#8db8e3; --for-soft:#1e2b39;
+  --line-mw:#e79a86; --line-hh:#7cc4a0; --line-rk:#e2b85a;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:16px/1.6 var(--body);margin:0}
+.wrap{max-width:880px;margin:0 auto;padding-inline:20px;padding-block:40px 64px;display:flex;flex-direction:column;gap:44px}
+.prose{max-width:68ch}
+h1,h2,h3{font-family:var(--display);font-weight:650;text-wrap:balance;margin:0;line-height:1.2}
+h1{font-size:clamp(1.9rem,4.4vw,2.6rem);letter-spacing:-.01em}
+h2{font-size:1.45rem}
+h3{font-size:1.05rem;font-family:var(--body);font-weight:600}
+p{margin:0}
+.eyebrow{font:500 .74rem/1 var(--mono);letter-spacing:.09em;text-transform:uppercase;color:var(--accent)}
+.stack{display:flex;flex-direction:column;gap:14px}
+.lede{font-size:1.1rem;color:var(--ink);max-width:62ch}
+.meta{display:flex;flex-wrap:wrap;gap:8px 18px;font:400 .82rem/1.4 var(--mono);color:var(--muted)}
+.meta b{color:var(--ink);font-weight:500}
+.proposal{background:var(--sheet);border:1px solid var(--rule);border-left:4px solid var(--accent);border-radius:4px;padding:18px 20px}
+.proposal p+p{margin-top:8px}
+.src{font:400 .76rem/1.4 var(--mono);color:var(--muted)}
+a{color:var(--accent);text-underline-offset:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.ts{font:500 .76rem/1 var(--mono);white-space:nowrap}
+
+/* data band */
+.band{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:22px 20px;display:flex;flex-direction:column;gap:22px}
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:560px;font-size:.92rem}
+th,td{padding:9px 10px;border-bottom:1px solid var(--rule);text-align:right;font-variant-numeric:tabular-nums;vertical-align:top}
+th:first-child,td:first-child{text-align:left;color:var(--muted);font-weight:400}
+thead th{font:600 .8rem/1.3 var(--body);color:var(--ink);border-bottom:2px solid var(--ink)}
+thead th .sw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+td.closed{color:var(--against);font-weight:600}
+td small{display:block;color:var(--muted);font-size:.78rem}
+.charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px}
+.chart{min-width:0}
+.chart h3{margin-bottom:6px}
+.chart svg{display:block;width:100%;height:auto}
+.chart .ax{fill:var(--muted);font:11px var(--mono)}
+.chart .grid{stroke:var(--soft)}
+.chart .thr{stroke:var(--muted);stroke-dasharray:4 4}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:.84rem;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:16px;height:3px;border-radius:2px;display:inline-block}
+
+/* rationale */
+ol.reasons{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:18px}
+ol.reasons li{display:grid;grid-template-columns:2.2rem 1fr;gap:4px 12px}
+ol.reasons .n{font:600 1.3rem/1.2 var(--display);color:var(--accent)}
+ol.reasons .body{min-width:0;display:flex;flex-direction:column;gap:6px}
+blockquote{margin:0;padding-left:14px;border-left:2px solid var(--rule);font-family:var(--display);font-size:1.02rem;line-height:1.5}
+.who{font-size:.84rem;color:var(--muted)}
+
+/* voices */
+.sides{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;align-items:start}
+.side{border-radius:6px;padding:18px;display:flex;flex-direction:column;gap:16px;min-width:0}
+.side.against{background:var(--against-soft)}
+.side.for{background:var(--for-soft)}
+.side .tag{font:600 .74rem/1 var(--mono);letter-spacing:.08em;text-transform:uppercase}
+.side.against .tag{color:var(--against)}
+.side.for .tag{color:var(--for)}
+.voice{display:flex;flex-direction:column;gap:6px}
+.voice blockquote{border-left-color:currentColor}
+.side.against blockquote{border-left-color:var(--against)}
+.side.for blockquote{border-left-color:var(--for)}
+.voice ul{margin:0;padding-left:18px;font-size:.92rem}
+.note{font-size:.88rem;color:var(--muted)}
+
+/* analysis */
+.analysis{display:flex;flex-direction:column;gap:14px}
+.badge{display:inline-block;font:600 .7rem/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:4px 7px;border:1px solid var(--muted);border-radius:3px;color:var(--muted)}
+.finding{display:grid;grid-template-columns:1fr;gap:4px;padding-bottom:14px;border-bottom:1px solid var(--rule)}
+.finding:last-child{border-bottom:0;padding-bottom:0}
+.finding h3{font-family:var(--display);font-size:1.08rem;font-weight:650}
+
+.dates{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.date{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:14px 16px;display:flex;flex-direction:column;gap:4px}
+.date b{font:600 .95rem var(--mono);color:var(--accent)}
+ul.qs{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px}
+footer{border-top:1px solid var(--rule);padding-top:18px;font-size:.84rem;color:var(--muted);display:flex;flex-direction:column;gap:8px}
+@media (max-width:600px){ .wrap{padding-block:28px 48px;padding-inline:16px;gap:36px} .band{padding:16px 14px} }
+</style>
+
+<div class="wrap">
+  <header class="stack">
+    <span class="eyebrow">PPS rightsizing · Southwest Portland</span>
+    <h1>Maplewood Elementary: why it's on the closure list, and what's been said</h1>
+    <p class="lede">Maplewood K-5 closes under both of the district's rightsizing scenarios. This brief collects PPS's stated reasons, the comments made at the board meeting where the scenarios were presented, and the weak points in the district's case.</p>
+    <div class="meta"><span>Updated <b>Oct 11, 2026</b></span><span>Superintendent recommendation <b>Nov 17</b></span><span>Board vote <b>Dec 15</b></span></div>
+  </header>
+
+  <section class="proposal">
+    <p><strong>What PPS proposes (Scenarios A and B, identical for Maplewood):</strong> "Maplewood School would close as a school building. 70% of the neighborhood boundary would move to Hayhurst K-5, and 30% would move to Rieke K-5. Middle grade students would move to Robert Gray Middle School instead of Jackson. The K-2 Intensive Skills Classroom would move to Markham K-5 to rejoin the 3-5 classroom."</p>
+    <p class="src">PPS family guide for Maplewood, p.3 (Oct 2026)</p>
+  </section>
+
+  <section class="stack">
+    <h2>The three schools side by side</h2>
+    <p class="prose note">The figures for every school come from PPS's own "How could your school be impacted?" sheets, the Oct 2025 enrollment reports and the district's seismic assessment.</p>
+    <div class="band">
+      <div class="tablewrap">
+        <table>
+          <thead><tr><th></th><th><span class="sw" style="background:var(--line-mw)"></span>Maplewood</th><th><span class="sw" style="background:var(--line-hh)"></span>Hayhurst</th><th><span class="sw" style="background:var(--line-rk)"></span>Rieke</th></tr></thead>
+          <tbody>
+            <tr><td>Enrollment, Oct 2025</td><td>287</td><td>290</td><td>264</td></tr>
+            <tr><td>Building capacity</td><td>465</td><td>525</td><td>465</td></tr>
+            <tr><td>Projected 2031-32, no changes</td><td>247</td><td>266</td><td>311</td></tr>
+            <tr><td>Projected 2031-32, Scenario A or B</td><td class="closed">Closed</td><td>410</td><td>432</td></tr>
+            <tr><td>Neighborhood kids who attend their own school (Oct 2025)</td><td>82%<small>256 of 312</small></td><td>74%<small>262 of 354</small></td><td>81%<small>243 of 300</small></td></tr>
+            <tr><td>Students living within 1 mile</td><td>44.9%</td><td>30.5% → 22.6%</td><td>73.7% → 63.8%</td></tr>
+            <tr><td>Students in poverty</td><td>19.5%</td><td>26.2% → 15.5%</td><td>15.2% → 24.0%</td></tr>
+            <tr><td>Highest seismic risk score (part)</td><td>7.5<small>no unreinforced masonry</small></td><td>none listed</td><td>9.6<small>has unreinforced masonry</small></td></tr>
+            <tr><td>School dollars per student, 2026-27 budget</td><td>$11,280</td><td>$10,194</td><td>$11,617</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="src">Arrows show the change under Scenario A or B. Sources: PPS school impact sheets for maplewood, hayhurst and rieke, pp.3–4; Enrollment Summary Oct 2025 (capture-rate report); BoardBook doc 3997157 p.1 (capacity); doc 3991109 pp.200, 221, 233 (seismic); doc 3997161 p.10 (per-student dollars).</p>
+
+      <div class="charts" aria-label="Projected enrollment charts">
+        <div class="chart"><h3>Projected enrollment if nothing changes</h3><div id="c1"></div></div>
+        <div class="chart"><h3>Under Scenario A or B</h3><div id="c2"></div></div>
+      </div>
+      <div class="legend">
+        <span><i style="background:var(--line-mw)"></i>Maplewood</span>
+        <span><i style="background:var(--line-hh)"></i>Hayhurst</span>
+        <span><i style="background:var(--line-rk)"></i>Rieke</span>
+        <span><i style="background:repeating-linear-gradient(90deg,var(--muted) 0 4px,transparent 4px 8px)"></i>360-student target</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="stack">
+    <h2>Why PPS chose Maplewood</h2>
+    <p class="prose note">These reasons were given in the staff presentation at the Oct 6, 2026 board meeting (presented by Richard Smith, Senior Director of Data & Accountability) and in the written school sheet. Quotes are from YouTube auto-captions; "Ricky" in the captions is corrected to [Rieke].</p>
+    <ol class="reasons">
+      <li><span class="n">1</span><div class="body">
+        <h3>All three schools are projected to shrink below the target</h3>
+        <blockquote>"Maplewood drops to 247 students, [Rieke] to 311 … and Hayhurst to 266 students, leaving all three well under the 360 student sustainability threshold."</blockquote>
+        <span class="who">Staff presentation · <a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=8604s" target="_blank" rel="noopener">2:23:24</a></span>
+      </div></li>
+      <li><span class="n">2</span><div class="body">
+        <h3>Geography: more students live closer to Hayhurst and Rieke</h3>
+        <blockquote>"[Rieke] and Hayhurst were selected to remain open over Maplewood based off geographical accessibility and student density across all three attendant zones."</blockquote>
+        <span class="who">Staff presentation · <a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=8626s" target="_blank" rel="noopener">2:23:46</a></span>
+      </div></li>
+      <li><span class="n">3</span><div class="body">
+        <h3>Who bears the burden of moving</h3>
+        <p>The written sheet says 70% goes to Hayhurst "because most of the Maplewood area is closer to Hayhurst." It adds: "As we look at who bears the burden of moving, we wanted to reduce the impact on students experiencing poverty and underserved communities and that is a contributing factor for moving Maplewood to Hayhurst."</p>
+        <span class="who">PPS school sheet, Maplewood p.3. Maplewood has 19.5% of students in poverty; Hayhurst has 26.2%.</span>
+      </div></li>
+      <li><span class="n">4</span><div class="body">
+        <h3>Buildings were not the reason</h3>
+        <blockquote>"There are no real facility issues with any of these three schools."</blockquote>
+        <span class="who">Staff presentation · <a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=8655s" target="_blank" rel="noopener">2:24:15</a>. On middle school, staff said moving Maplewood students to Gray instead of Jackson "is solely to align feeder patterns," and acknowledged this "brings enrollment down at Jackson significantly" (<a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=8741s" target="_blank" rel="noopener">2:25:41</a>).</span>
+      </div></li>
+    </ol>
+  </section>
+
+  <section class="stack">
+    <h2>What's been said at the board</h2>
+    <p class="prose note">Almost all on-the-record commentary about Maplewood comes from the Oct 6, 2026 meeting. The October community listening sessions are not yet in the archive.</p>
+    <div class="sides">
+      <div class="side against">
+        <span class="tag">Against closing</span>
+        <div class="voice">
+          <h3>Maplewood parent, public comment</h3>
+          <blockquote>"By your own measures, Maplewood works."</blockquote>
+          <ul>
+            <li>10/10 GreatSchools rating; test scores above state averages</li>
+            <li>Multnomah County's 2026 regional teacher of the year</li>
+            <li>"The second smallest seismic funding gap in the district"</li>
+            <li>Took in about half of Markham's students midyear after the 2024 ice storm</li>
+            <li>100-year-old school; a Friday bike bus with up to 100 riders</li>
+            <li>"about 7% of affected families will leave the district"</li>
+          </ul>
+          <span class="who">Asked the board to defer the vote · <a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=2642s" target="_blank" rel="noopener">0:44:02</a></span>
+        </div>
+        <div class="voice">
+          <h3>Director Stephanie Engelsman</h3>
+          <blockquote>"I'm wondering why Maplewood going to [Rieke] when I think Capitol Hill or Markham are closer and more walkable and more bikable"</blockquote>
+          <blockquote>"I'm thinking about that kid who's in the 30% and all of their friends in the 70%"</blockquote>
+          <span class="who">Walkability is one of the board's guiding principles. Staff gave no answer during the meeting. · <a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10958s" target="_blank" rel="noopener">3:02:38</a></span>
+        </div>
+        <div class="voice">
+          <h3>Director Christy Splitt</h3>
+          <blockquote>"I was really surprised by the Southwest schools that were selected."</blockquote>
+          <p class="note">She raised a large housing development near Hayhurst: "it's not counted in the numbers for Hayhurst. And then we're going to put 70% of Maplewood in there." Staff said it adds "about 12 students." Splitt said her own research suggested "50 to 70 kids." They agreed to follow up offline. She asked staff to "figure this out" rather than to spare Maplewood.</p>
+          <span class="who"><a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13657s" target="_blank" rel="noopener">3:47:37</a> · <a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13746s" target="_blank" rel="noopener">3:49:06</a></span>
+        </div>
+        <div class="voice">
+          <h3>Maplewood parents in the news</h3>
+          <p class="note">Parents told KPTV the school is already the right size. One called the plan "a betrayal of trust."</p>
+          <span class="who">KPTV/FOX 12, Oct 6, 2026</span>
+        </div>
+      </div>
+
+      <div class="side for">
+        <span class="tag">For closing</span>
+        <div class="voice">
+          <h3>Director Patte Sullivan</h3>
+          <blockquote>"I was at Maplewood the other day, fourth grade class of 32."</blockquote>
+          <blockquote>"I'm concerned about what will happen if we don't do this."</blockquote>
+          <span class="who">She said a substitute there asked her to "tell the school board about this." She used it to argue that the status quo means bigger and more blended classes. · <a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11618s" target="_blank" rel="noopener">3:13:38</a></span>
+        </div>
+        <div class="voice">
+          <h3>District staff</h3>
+          <p class="note">The case for closing is the staff rationale above: "Choosing this action leaves this area with two sustainable elementary schools for years to come."</p>
+          <span class="who">Staff presentation · <a class="ts" href="https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=8644s" target="_blank" rel="noopener">2:24:04</a></span>
+        </div>
+        <p class="note">No other director made a Maplewood-specific case for closing it.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="stack">
+    <h2>Where the district's case is thin</h2>
+    <div class="analysis">
+      <span><span class="badge">Analysis</span></span>
+      <div class="finding">
+        <h3>The walkability claim cuts both ways</h3>
+        <p>45% of Maplewood students live within a mile of their school, compared with 31% at Hayhurst. After the merge, Hayhurst drops to 23%. The "students live closer to Hayhurst and Rieke" argument rests on a density calculation across all three zones that PPS hasn't published.</p>
+      </div>
+      <div class="finding">
+        <h3>Thirty percent of students move into a higher-risk building</h3>
+        <p>Staff said there were "no real facility issues," but Rieke has an unreinforced-masonry section with a seismic risk score of 9.6. Maplewood's highest score is 7.5, with no unreinforced masonry. PPS has also already spent about $1.5M on roof-level seismic work at Maplewood (KGW, Oct 9).</p>
+      </div>
+      <div class="finding">
+        <h3>Maplewood keeps its neighborhood better than the school it would merge into</h3>
+        <p>82% of neighborhood children attend Maplewood, compared with 74% at Hayhurst. A parent at the meeting cited a PPS estimate that about 7% of affected families leave the district. Any such losses would cut into the projected gains at Hayhurst and Rieke.</p>
+      </div>
+      <div class="finding">
+        <h3>Hayhurst keeps shrinking after the merge</h3>
+        <p>The merged school is projected at 472 students in 2027-28, falling to 410 by 2031-32. Whether the new housing near Hayhurst adds 12 children or 50 to 70 changes how much margin it has above 360.</p>
+      </div>
+      <div class="finding">
+        <h3>Scenario A explains the Rieke choice; Scenario B doesn't</h3>
+        <p>Under Scenario A, Capitol Hill and Markham are already taking Stephenson's students, which likely answers Engelsman's question. Under Scenario B, Stephenson stays open, yet Maplewood students still go to Rieke.</p>
+      </div>
+      <div class="finding">
+        <h3>The only reason that singles out Maplewood was never said aloud</h3>
+        <p>Enrollment decline applies to all three schools. What tips the choice toward Maplewood is the stated aim of not moving Hayhurst's higher-poverty population. That reason is in the written sheet but was not raised at the meeting, and it is the one most open to public debate.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="stack">
+    <h2>Questions to put to PPS</h2>
+    <ul class="qs prose">
+      <li>Publish the density and travel-distance analysis that ranked Hayhurst and Rieke over Maplewood.</li>
+      <li>Why does Maplewood's 30% go to Rieke rather than Capitol Hill or Markham, especially in Scenario B?</li>
+      <li>What is the net savings from closing Maplewood specifically: operations, staffing and transportation?</li>
+      <li>How was the housing development near Hayhurst counted, and what yield of new students was assumed?</li>
+      <li>How will Rieke's unreinforced-masonry section be addressed before it takes on more students?</li>
+      <li>What is the plan for the Maplewood building after closure?</li>
+    </ul>
+    <div class="dates">
+      <div class="date"><b>Oct 9–29</b><span>Community listening sessions; public comment open through November</span></div>
+      <div class="date"><b>Nov 17</b><span>Superintendent recommendation and fiscal impact statement</span></div>
+      <div class="date"><b>Dec 15</b><span>Board vote; expect school-specific amendments before the main motion</span></div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Sources: PPS board meeting video of Oct 6, 2026 (YouTube auto-captions, timestamps linked above); PPS school impact sheets for Maplewood, Hayhurst and Rieke; PPS Data &amp; Reporting enrollment summaries (Oct 2025); BoardBook board packets; news coverage (KPTV, KGW). Compiled from the timaelliott/pps research archive (<code>analysis/schools/maplewood.md</code>).</p>
+    <p>Members of the public are not named. Staff and director attributions follow the chair's recognitions in the meeting. Sections marked Analysis are interpretation, not PPS statements.</p>
+  </footer>
+</div>
+
+<script>
+(function(){
+  const yrs=['27-28','28-29','29-30','30-31','31-32'];
+  const sets={
+    c1:[['--line-mw',[278,265,258,261,247],15],['--line-hh',[274,270,266,263,266],-7],['--line-rk',[252,296,314,317,311],-7]],
+    c2:[['--line-hh',[472,451,435,424,410],15],['--line-rk',[348,396,422,434,432],-7]]
+  };
+  const W=360,H=210,L=36,R=14,T=12,B=26,lo=200,hi=500;
+  const x=i=>L+i*(W-L-R)/(yrs.length-1), y=v=>T+(hi-v)/(hi-lo)*(H-T-B);
+  for(const [id,series] of Object.entries(sets)){
+    let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${id==='c1'?'Projected enrollment without changes':'Projected enrollment under Scenario A or B'}">`;
+    for(let v=200;v<=500;v+=100) s+=`<line class="grid" x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}"/><text class="ax" x="${L-6}" y="${y(v)+4}" text-anchor="end">${v}</text>`;
+    s+=`<line class="thr" x1="${L}" x2="${W-R}" y1="${y(360)}" y2="${y(360)}"/><text class="ax" x="${W-R}" y="${y(360)-5}" text-anchor="end">360 target</text>`;
+    yrs.forEach((t,i)=>{s+=`<text class="ax" x="${x(i)}" y="${H-6}" text-anchor="middle">${t}</text>`;});
+    series.forEach(([c,vals,off])=>{
+      const col=`var(${c})`;
+      s+=`<polyline fill="none" stroke="${col}" stroke-width="2.5" stroke-linejoin="round" points="${vals.map((v,i)=>x(i)+','+y(v)).join(' ')}"/>`;
+      const last=vals.length-1;
+      s+=`<circle cx="${x(last)}" cy="${y(vals[last])}" r="3.5" fill="${col}"/>`;
+      s+=`<text class="ax" x="${x(last)-7}" y="${y(vals[last])+off}" text-anchor="end" style="fill:${col};font-weight:500">${vals[last]}</text>`;
+    });
+    document.getElementById(id).innerHTML=s+'</svg>';
+  }
+})();
+</script>
