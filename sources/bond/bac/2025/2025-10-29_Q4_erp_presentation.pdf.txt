@@ -1,0 +1,231 @@
+   PPS DIGITAL
+TRANSFORMATION
+
+    PROGRAM OVERVIEW
+BOND ACCOUNTABILITY MEETING
+        OCT 29 2025
+  INTENT FOR TODAY
+Today’s goal is to highlight
+our new approach to the
+“ERP Modernization”
+
+• What is “Digital Transformation”
+• Key Focus Areas
+• Timeline
+WHAT IS A DIGITAL TRANSFORMATION?
+              A disciplined multi-year program to reimagine how
+             people, processes, and technology work together to
+    streamline our overall operations and unlock better outcomes.
+
+
+    The opportunity is to devote more time, resources, and energy
+                    toward student learning and success.
+
+
+                   The work is to build e icient work lows,
+               driven by meaningful data using modern tools,
+                       that result in better decisions.
+        ff
+                        f
+ BRIEF HISTORY
+• 2020 - Bond passage for Tech Modernization
+• 2021 - Gartner assessed readiness and built recommendations for a cloud-based ERP
+• 2022 - 2023 - RFP planning, response reviews, and vendor selection process (no decision)
+• 1st half of 2024
+  • TekSystems began process documentation for HR and Finance operations
+  • Data Strategy & Governance recommendations developed but ultimately paused
+• 2nd half of 2024 - 1st half of 2025
+  • Multiple key leadership and program changes
+  • Statement of work from AST to implement Oracle ERP (ultimately declined)
+  • 2025 Bond measure for continued Tech Modernization
+    REASONS TO BELIEVE
+    • Leveraging prior assessments and recommendations - the prior
+      work is highly valuable and is being used for planning
+
+    • Simpli ied program governance with multiple levels of support and
+      leadership across Finance, HR, RAA, and Ops
+
+    • Emphasis on process standardization and elevated change control
+
+    • Implementing data management best practices in parallel
+
+    • Dedicated Senior Director with experience in multi-year
+      transformational change and large scale implementations
+
+    • Priority focus on change management and consistent data quality
+
+    • Funding from 2020 and 2025 bond measures
+f
+FOCUS AREAS MOVING FORWARD
+1. Leaning into standardization
+  • Disciplined change control will provide the best solution and optimize spending
+  • Move directly to modern tools and processes that directly empower us to achieve the
+    district goals
+2. Data Quality Governance is a non-negotiable
+  • Manage data as an asset, leverage as a multiplier
+  • Transition to modern platform and consistent controls
+3. Change is hard - it requires an “early and often” approach
+  • Dedicated expertise to identify opportunities, lead the change, and build resiliency
+  • Leverage the improved data and tools to make better decisions more e iciently
+
+
+
+
+                                                                ff
+      BENEFITS OF STREAMLINING AND MODERNIZING
+                                                1. Operational e iciency
+
+                                                    • Rather than replicating legacy processes, we’re
+                                                      aligning to standard work lows to drive consistency
+                                                      and e iciency
+
+                                                    • This opens up opportunities for Org Design + Job
+                                                      Redesign is critical as people’s daily work will change
+
+                                                2. Leveraging consistent data within common work lows
+                                                   produces better decisions
+
+                                                    • Readily available, trustworthy data gets PPS to better
+“The curse of a bad set of habits is that             outcomes and supports district goals
+all the unnecessary things you’re doing
+                                                    • Ability to course correct more quickly by shortening
+   actually come to seem necessary.”
+                                                      the timeframe required to measure and monitor
+ ff
+         ff
+                     f
+                                            f
+PROGRAMS GOVERNANCE
+                      Senior Leaders (Chiefs)      • Exec Sponsor: Deborah Kafoury
+
+                    informed of key decisions,     • Voting Members: Michelle Morrison, Dr. Angela
+   Steering                                         Freeman, Dr. Renard Adams, Tom Odgers, Liz Large
+                     removing roadblocks and
+  Committee          providing critical support    • Non-Voting Members: BTC below
+
+
+                                                   • HR: Stacey Jung
+
+    Business       Department leaders making
+                                                   • Finance: Rachel Hopper and Emily Courtnage
+
+ Transformation    key decisions that guide the    • RAA: Richard Smith
+
+    Council        Digital Transformation e ort    • Ops: Russell Adamson
+                                                   • OTIS: Peter Jazowick, Alicia Fecker
+
+
+                                                   • HR: Lori Preston, Stacey Lukas, Stephanie
+                  SME’s currently performing the    Blankenship
+       Working     jobs to help de ine the work    • Finance: Nuthathai Nicolaescu, Tami Booth, Kathleen
+        Team       and evangelize the changes       Hiigel, Ondra Matthews, Stephen Hirai, Erica Kreger
+                                                   • RAA: Stephen Wickman, Andrew Crollard
+                                                   • Ops: PM’s - Data, Change, Program
+   f
+             ff
+WHAT’S TAKING SO LONG ???
+50-75%
+of ERP implementations FAIL
+   to meet their objectives
+
+
+
+                              Gartner 2025
+30–40%                           25-30%
+ of ERP implementations fail    of ERP implementations fail
+due to poor business process   due to poor data quality or lack
+          alignment                  of data governance
+
+
+
+                                                       Gartner 2025
+     67%
+ of ERP implementations
+                                64%
+                            of ERP implementations
+take longer than expected       go over budget
+
+
+
+
+                                             Rand Group,
+                                             August 2024
+10 YEARS
+average life span of an ERP system
+           *Reminder: PeopleSoft implementation is 25 years old and counting…
+
+
+
+
+The ERP implementation directly impacts both
+the current and the next generation of PPS sta
+
+
+                           f
+     COMPARABLE DISTRICTS
+                          Students / FTE’s
+       School District                           ERP         System Implementer         Estimated Costs            Start Date
+                            (estimated)
+
+
+                                                                                  $12.3M = 5 year subscription
+       Seattle Public                                                                                              December
+                           50,700 / 6,412    SAP Cloud ERP      Plante Moran      + $14M for implementation &
+         Schools                                                                                                     2024
+                                                                                       sta augmentation
+
+
+     Beaverton School                                                              $3M for subscription + $3M      December
+                          38,706 / 5,000     PowerSchool        Plante Moran
+         District                                                                     for implementation             2023
+
+
+
+     Albuquerque Public                                                           $20M total (subscription and     December
+                          73,685 / 10,887     Oracle ERP            ???
+          Schools                                                                      implementation)               2024
+
+
+                                                                                  $6.3M = 11 year subscription +
+      Spokane Public                                                                                                  July
+                           28,586 / 3,642    PowerSchool        PowerSchool           Implementation = ???
+         Schools                                                                                                     2025
+ff
+PROPOSED TIMELINE
+THANK YOU
+CURRENT L1 / L2 DATA DOMAINS
+ CORE TRANSFORMATION PRINCIPLES
+1.   Strong Data Strategy & Governance is the di erence between success and failure
+
+2.   Change Management is a non-negotiable - involved early and often
+
+3. “Jobs To Be Done”- people, process, and data required to be successful
+
+4. Well documented Business Capabilities drive focus, order of operation, and degree of change
+
+5.   What gets measured gets done: KPI’s that are committed, monitored, and celebrated
+
+6. Everything is baselined - document and align on what is “better” and “best”
+
+7.   Work organized into two week Program Sprints - goals, decisions, deliverables
+
+8. Parkinson’s Law - constraints and standardization to build a durable infrastructure moving forward
+
+9. This is someone else’s money - let’s use this fact to anchor responsible decisions
+                                       ff
+BUSINESS CAPABILITIES
+The previous work is great but some of it is 5+ years old… it needs to be
+reviewed, refreshed, and con irmed to con idently move forward
+
+
+                       f
+                                     f
+DATA STRATEGY & GOVERNANCE
+
+           Critical Success Factors
+           • Prioritization - based on critical gaps & jobs to be done
+
+           • Discovery - practices, policies, quality, security, ownership
+
+           • Non-negotiables - privacy, gov’t reporting, change control
+
