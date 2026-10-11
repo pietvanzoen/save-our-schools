@@ -1,0 +1,798 @@
+ SEISMIC STUDY OF EXISTING SCHOOL FACILITIES
+
+
+
+
+           Portland Public Schools            December 7, 2009
+
+SEISMIC STUDY OF EXISTING SCHOOL FACILITIES
+                                     TABLE OF CONTENTS
+
+
+                                                                             Page
+
+Executive Summary                                                             2
+
+Introduction and Scope                                                        4
+
+Current Study Conclusions and Costs                                           5
+
+Current Seismic Studies and Philosophy                                        7
+
+Comparison of Previous Work with Current Approach                             10
+
+Previous Seismic Studies and Philosophy                                       10
+            Code and Project History Summary                                  10
+            Seismic Upgrade Philosophy                                        11
+            Seismic Hazard Ranking Summary                                    11
+            Approximate Costs                                                 11
+
+Previous Seismic Rehabilitation Work                                          12
+
+Conclusions and Recommendations                                               13
+
+Appendix                                                                      15
+            School Profiles
+            Statements of Probable Costs
+            Approximate Cost Data for 12 Studied Facilities
+            Approximate Cost Data Extrapolated for All Facilities
+            Geotechnical Seismic Hazard Evaluation
+            City of Portland Design Requirements for Existing Buildings
+            (Chapter 24.85)
+
+
+
+
+     Portland Public Schools | Seismic Study of Existing School Facilities       Page 1 of 15
+     KPFF Project No. 209193                                                 December 7, 2009
+        SEISMIC STUDY OF EXISTING SCHOOL FACILITIES
+                                     Portland Public Schools
+
+Executive Summary
+
+School facilities for Portland Public Schools, with a few exceptions, were constructed prior
+to recognition of the need for seismic-resistant design. The infrequency of large
+earthquakes in Oregon during recorded history led to much less attention to seismic
+design prior to the 1970’s than in more seismically active areas such as California.
+Recent studies have shown that, although infrequent, very large earthquakes with long
+durations occurred in Oregon many times previously during our geologic history. The
+impact of one of these large earthquakes on school facilities could be catastrophic.
+
+The current project is a continuation of an ongoing effort that began in 1995 to seismically
+upgrade District facilities. This project uses current seismic methodology to assist planning
+for future facility improvements. The current methodologies, which have come into
+widespread use within the past several years, include ASCE (American Society of Civil
+Engineers) 31-03, Seismic Evaluation of Buildings, which is used to evaluate existing
+buildings and ASCE 41-06, Seismic Rehabilitation of Existing Buildings, which is used in
+the design of retrofit work.
+
+To determine the extent of work and related cost for the remaining seismic work, buildings
+from 12 school campuses were chosen as a representative sample to study. These
+buildings represent a mix of construction types which occur throughout the District. Each
+of the buildings was evaluated using ASCE 31-03 to determine seismic deficiencies and
+ASCE 41-06 to develop a preliminary rehabilitation scheme for each building. A probable
+cost of construction for these schemes were then determined. The seismic rehabilitation
+work includes both structural and non-structural elements (such as clay tile walls, brick
+veneer, and ceilings). Lifelines such as electrical, water, and natural gas supply are not
+considered.
+
+For the 12 campuses, an approximate cost was determined for two options: (a) for the
+seismic retrofit plus removal and replacement of finishes, and (b) for the cost of the
+seismic work only as part of a larger renovation. The cost of the seismic work only applies
+to seismic upgrades done in conjunction with a comprehensive remodel of the building
+where existing finishes would be removed and replaced. The approximate costs per
+square foot determined for the 12 campuses were projected to similar campuses, based
+on construction type, to arrive at approximate costs per square foot for the entire inventory
+of buildings. The result for all buildings is an approximate cost of $50 per square foot for
+seismic rehabilitation plus removal and replacement of finishes and approximately $25 per
+square foot for seismic work only. These approximate costs are total project costs and
+include permits, testing, special inspections, contingency and soft costs. Seismic
+rehabilitation work since 1997 has been based on the criteria of FEMA 178, National
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities           Page 2 of 15
+      KPFF Project No. 209193                                                     December 7, 2009
+Earthquake Hazards Reduction Program (NEHRP) “Handbook for the Seismic Evaluation
+of Existing Buildings.” The 1995 Facilities Capital Improvements (Bond) Program allocated
+$39 million (one-fifth of the total program) for seismic improvements, and this increased to
+approximately $47 million expended, because of interest gains. This resulted in partial
+seismic upgrades at 53 schools and two other facilities, and as part of re-roofing at 15
+schools, with emphasis on safe exiting for students and staff. Although this work improved
+the seismic performance of these facilities, much remains to be done.
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities          Page 3 of 15
+      KPFF Project No. 209193                                                    December 7, 2009
+Introduction and Scope
+Facilities within the Portland Public School District include 84 school campuses plus 21
+other facilities, many of which have multiple buildings, with a total of approximately 9
+million square feet. Almost all of the schools were constructed prior to 1960, and modern
+building codes, and included little consideration for resistance to seismic forces.
+Construction types vary widely between schools and include concrete, masonry, clay tile,
+steel and wood materials. Seismic forces were not considered in the original design of the
+majority of the schools.
+
+Portland Public Schools retained KPFF Consulting Engineers to update the seismic
+evaluations of the schools and other facilities and to determine probable costs for seismic
+rehabilitation based on current seismic criteria. A representative sampling of 12 school
+campuses were evaluated to determine preliminary seismic rehabilitation schemes. From
+the evaluations for these 12 school campuses and the resulting strengthening schemes an
+overall district-wide approximate cost for seismic improvements was developed.
+
+The work included a review of previous seismic evaluations and cost estimates for
+remaining seismic rehabilitation work as well as improvements that have been completed
+since 1995. For past work, a rating system was developed to target the most hazardous
+schools for seismic improvements. These seismic improvements focused on preventing
+building collapse and allowing safe exiting after an earthquake. New lateral force resisting
+elements such as shear walls and roof diaphragms were only added in a small percentage
+of the schools. Some roof diaphragm work has been completed. Note that a complete
+lateral system consists of horizontal elements (roof and floor diaphragms) and vertical
+elements (shear walls or braced frames).
+
+Observations, analyses, and conclusions contained in this report reflect KPFF’s best
+engineering judgment. The evaluations included limited field reconnaissance to observe
+the general physical status of several of the facilities in an attempt to confirm the structural
+information shown on the existing drawings. In most cases, building finishes conceal
+structural elements. No testing or demolition of finishes to expose the existing structural
+elements was conducted to determine their material properties. Concealed problems with
+the construction of the buildings may exist that cannot be revealed through these
+observations.
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities             Page 4 of 15
+      KPFF Project No. 209193                                                       December 7, 2009
+Current Study Conclusions and Costs
+
+The construction types for the schools vary widely but include unreinforced masonry
+(URM), lightly reinforced concrete walls (LRCW), reinforced concrete, steel, reinforced
+masonry and wood. Since an exhaustive study of all schools was beyond the scope of this
+study, buildings from a representative group of 12 school campuses were seismically
+evaluated utilizing ASCE 31-06 and had preliminary rehabilitation schemes developed
+utilizing ASCE 41-06 for cost estimating. The buildings on the 12 campuses include some
+of each type of construction present throughout the District and were chosen as a
+representative sample that would capture the spectrum of seismic rehabilitation work
+necessary. See Current Seismic Studies and Philosophy for a discussion on ASCE-31 and
+41.
+
+The work identified for costing includes seismic rehabilitation of both structural and non-
+structural elements. Non-structural elements include items that are not part of the
+structural frame but could pose a falling hazard in an earthquake, such as clay tile walls,
+brick veneer, chimneys, ceilings, and mechanical, electrical and plumbing elements.
+Seismic work related to brick veneer was limited to that over the building exits.
+
+Buildings at the following 12 school campuses were included in the study:
+
+            1. Ainsworth K-5
+            2. Binnsmead/ 6-8
+            3. Chapman K-5
+            4. Cleveland High School
+            5. Creston K-7
+            6. Grant High School
+            7. Humboldt PK-7
+            8. Jackson 6-8
+            9. Lane 6-8
+            10. Llewellyn K-5
+            11. Richmond PK-5
+            12. Wilcox PPS Programs
+
+Approximate costs were determined for two scenarios; (a) costs for the seismic
+rehabilitation plus removal and replacement of finishes, and (b) costs of the seismic
+rehabilitation only. The costs for seismic rehabilitation only would be valid for work in
+buildings that are undergoing a complete renovation where finishes throughout would be
+demolished and replaced. Approximate costs from the 12 campuses were assigned to
+other campuses of similar construction to determine an approximate cost for all facilities
+within the District. A summary of these approximate costs for each facility is contained
+within the Appendix. The District-wide approximate cost estimate for seismic rehabilitation
+and removal and replacement of finishes is $50 per square foot. The District-wide
+approximate cost for seismic rehabilitation only is $24 per square foot. Costs are total
+project costs which include total construction cost, 20% construction contingency, an
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities         Page 5 of 15
+      KPFF Project No. 209193                                                   December 7, 2009
+allowance of 6% for permits, testing and special inspections, plus 30% for soft costs. Soft
+costs include the following:
+            •    A&E Fees
+                 Sub-consultants
+                 Historic Review
+                 Value Engineering
+            •    Third Party Consultants
+                 Geotechnical Survey
+                 Constructability Review
+            •    Construction Manager
+            •    Project Manager
+            •    Finance and Accounting
+            •    Program Management and Assessment
+            •    Public Involvement
+            •    Program Reserve
+
+Future seismic rehabilitation work will generally be voluntary, but there are certain triggers
+that could require mandatory work. Chapter 24.85 of the City of Portland Building Code
+entitled “Seismic Design Requirements for Existing Buildings” includes limitations that
+could trigger seismic work for additions and alterations as well as for unreinforced
+masonry (URM) buildings. Additions and alterations which increase the seismic forces in
+any structural element by more than 5% require that element to be shown to comply with
+current code or be strengthened to current code. For URM buildings, re-roofing requires
+the addition of wall ties and bracing of parapets. Renovations of URM buildings exceeding
+approximately $45 per square foot for single story buildings or approximately $35 per
+square foot for multi-story buildings will trigger seismic strengthening of the entire building.
+
+We recommend that future seismic rehabilitation work comply with ASCE 41-06 or with
+current seismic code requirements. The work completed for this project is preliminary in
+nature with the intent to determine a likely extent of work that was used to develop
+probable costs of seismic rehabilitation to current seismic criteria. Although the preliminary
+schemes developed for the 12 campuses can be used as a starting point, further analysis
+and development to arrive at a final seismic rehabilitation scheme for buildings on these
+campuses is required. Consideration for architectural, mechanical, electrical and plumbing
+items was not part of this project and will need to be considered in developing final seismic
+rehabilitation schemes. In addition, selective demolition and testing will be needed in many
+cases to supplement existing drawing information.
+
+As part of this project, GeoDesign, Inc. prepared geologic hazards evaluation consistent
+with ASCE 41-06 for each of the school campuses. The geologic site hazards identified in
+ASCE 41-06 and included in the evaluation are surface fault rupture, liquefaction,
+differential compaction, slope failure, and flooding or inundation. The evaluation was
+based on available hazard maps. The evaluation results are included in the Appendix.
+Based on the study results, the risk from geological hazards is low in most cases and will
+not likely impact future seismic rehabilitation work. However, in the 14 cases where the
+risk is low-to-moderate, or the 5 cases where the risk is moderate-to-high, consideration
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities             Page 6 of 15
+      KPFF Project No. 209193                                                       December 7, 2009
+should be given to the potential hazard and the impact on seismic rehabilitation of those
+school campuses.
+
+Current Seismic Studies and Philosophy
+The current seismic studies that were performed as part of this effort were based on the
+following documents:
+
+       ASCE 31-03, Seismic Evaluation of Existing Buildings
+       ASCE 41-06, Seismic Rehabilitation of Existing Buildings
+
+These documents are meant to be used together in the rehabilitation process, with the first
+step being an evaluation using ASCE 31-03 to determine deficiencies, followed by a
+rehabilitation scheme being developed (if necessary) using ASCE 41-06. These
+documents were developed specifically to address the evaluation and retrofit of existing
+buildings because current building code does not address many existing materials and
+types of construction. Because ASCE 31-03 is only meant to be used as an evaluation
+tool, it is slightly more lenient than ASCE 41-06 so that buildings that are only slightly
+overstressed would not trigger an upgrade. If a building is determined to have deficiencies
+per ASCE 31-03, then the upgrade scheme is developed using the more rigorous
+requirements of ASCE 41-06.
+
+In order to better understand the design criteria that were used, KPFF believes a brief
+discussion of current seismic design philosophy is beneficial. Current seismic design is
+based on the idea that it is not practical to prevent a building from being damaged during a
+seismic event. Therefore, the goal is to limit the damage to the elements of the building so
+that the building does not lose its load resisting capacity and risk a collapse. It should be
+noted that after a design level earthquake, the building may be significantly damaged,
+even to the point where it cannot be repaired. However, the risk to the life safety of the
+building occupants is relatively low. An analogy to this concept is the crumple zones and
+bumpers on modern cars. Because it is impractical to design a car to withstand the impact
+of a significant collision without damage, the crumple zones are added to dissipate energy
+and lessen the impact for the car’s occupants. This is similar to how one designs the
+elements of the lateral force resisting system of a building to yield and dissipate energy
+such that the impact of an earthquake on the building is lessened.
+
+Applying ASCE 31-03 and ASCE 41-06 to develop the upgrade schemes has several
+advantages. Primarily, ASCE 41-06 addresses existing materials and types of construction
+that the current building code does not address. This allows one to take advantage of
+existing structural elements that the current building code would not, which can
+significantly reduce the scope of the seismic upgrade work. Additionally, ASCE 41-06 is a
+performance based approach so the seismic hazard (i.e. how large an earthquake is
+considered) and building performance (i.e. how much damage is acceptable) can be
+targeted to the owner’s needs This provides additional flexibility to the owner in case they
+want a building that either exceeds the requirements of the building code or is not fully
+code compliant.
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities           Page 7 of 15
+      KPFF Project No. 209193                                                     December 7, 2009
+For these evaluations, based on discussion with the District, the performance goal
+designated by ASCE-41-06, as the Basic Safety Objective (BSO) was used. The BSO is
+meant to provide an equivalent level of life safety for the building occupants as a new
+building is built to current code. The BSO is a dual performance goal that meets the
+Collapse Prevention Performance Level for the Basic Safety Earthquake 2, and the Life
+Safety Performance Level for the Basic Safety Earthquake 1. These terms are defined as
+follows and a graphical representation of these performance levels is shown on the
+following page:
+
+Collapse Prevention Performance Level: the post-earthquake damage is so significant
+that the building is on the verge of partial or total collapse. Substantial damage to the
+structure has occurred, potentially including significant degradation in the stiffness and
+strength of the lateral-force-resisting system, large permanent lateral deformation of the
+structure, and (to a limited extent) degradation in vertical load carrying capacity. However,
+all significant components of the gravity load resisting system must continue to carry their
+gravity loads. Significant risk of injury due to falling hazards from structural debris may
+exist. The structure may not be technically practical to repair and is not safe to reoccupy.
+
+Life Safety Performance Level: the post-earthquake damage to the structure is significant,
+but some margin against either partial or total structural collapse remains. Some structural
+elements and components are severely damaged but this has not resulted in large falling
+debris hazards, either inside or outside the building. Injuries may occur during the
+earthquake; however the overall risk of life threatening injury as a result of structural
+damage is expected to be low. It should be possible to repair the structure; however for
+economic reasons this may not be practical. Although the damaged structure is not an
+imminent collapse risk, it would be prudent to implement structural repairs or install
+temporary bracing prior to reoccupying the building.
+
+Immediate Occupancy Performance Level: the post earthquake damage to the structure is
+light. There is no permanent building drift. The structure maintains most of its original
+strength and stiffness. The risk to life threatening injury from structural damage is very low.
+Some minor repairs may be appropriate, but are not required for reoccupancy.
+
+Operational Occupancy Performance Level: the post earthquake damage to the structure
+is very light. There is no permanent building drift. The structure maintains its original
+strength and stiffness. There is very little damage. The backup building services maintain
+function.
+
+It should be noted, that Immediate Occupancy and Operational Performance Levels are
+very costly and typically not practical for schools and even less practical for renovations of
+existing schools.
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities            Page 8 of 15
+      KPFF Project No. 209193                                                      December 7, 2009
+Basic Safety Earthquake 2: the seismic ground motions associated with an earthquake
+that has a probability of exceedance of 2% in 50 years (i.e. an event with a return period of
+approximately 2,500 years). This is also known as the Maximum Considered Earthquake
+(MCE) or the largest earthquake that is believed to be possible at the site. This event is
+what could be referred to as “the big one”, or the Cascadia Subduction Zone event off the
+coast of Oregon.
+
+Basic Safety Earthquake 1: the seismic ground motions associated with an earthquake
+that has a probability of exceedance of 10% in 50 years (i.e. an event with a return period
+of approximately 500 years). This is similar to the design level earthquake used in current
+building codes. This event is the local crustal earthquakes most familiar to those who have
+lived in the northwest for awhile.
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities           Page 9 of 15
+      KPFF Project No. 209193                                                     December 7, 2009
+Comparison of Previous Work with Current Approach
+Seismic evaluations completed since 1995 were based on FEMA 178, NEHRP “Handbook
+for the Seismic Evaluation of Existing Buildings.” Subsequently FEMA 178 was replaced
+by FEMA 310 and ASCE 31-03. The most significant deficiency for most buildings in the
+District is the lack of a viable lateral force resisting system. Seismic improvements
+completed to date have resulted in an improvement in expected seismic performance, but
+generally do not fully meet current earthquake design standards.
+
+
+Previous Seismic Studies and Philosophy
+
+Code and Project History Summary
+
+Consideration of seismic forces for building design has a relatively short history in Oregon.
+The City of Portland code included relatively small seismic forces in 1956 which were
+typically less than wind forces. In 1964 the City adopted the Uniform Building code. Prior
+to the 1970’s there was no state building code to prescribe seismic design considerations.
+
+With the adoption of the 1994 Uniform Building Code by the State of Oregon, seismic
+forces increased 50% from previous codes because of a change in seismic zones for the
+Willamette Valley from Zone 2B to Zone 3. That change prompted the City of Portland to
+re-evaluate the seismic provisions of its Building Code which included a statement that, if
+a building’s strength to resist forces, including seismic, was less than 66% of current code,
+it was considered a dangerous building. As a result of the seismic zone change a majority
+of the city’s building were considered “dangerous.”
+
+A taskforce consisting of engineers, architects, attorneys, building owners, city officials, a
+PPS representative, and other interested parties convened to determine a course of
+action. The result of that effort was a change in the dangerous building definition to
+exclude seismic forces and a set of requirements titled Chapter 24.85 “Interim Seismic
+Design Requirements for Existing Buildings”. Chapter 24.85 included requirements that
+unreinforced masonry buildings (URM) with roof replacements have the wall ties added
+and parapets braced, and those undergoing renovations exceeding $15 per square foot be
+seismically upgraded.
+
+At the same time Portland Public Schools, realizing a portion of their building inventory
+included URM buildings contracted with KPFF Consulting Engineers and other firms to
+conduct FEMA 178 evaluations of these buildings to determine probable costs for a bond
+measure to include seismic rehabilitation.
+
+After the 1995 bond measure was passed a project management firm was hired along with
+three teams of architects, engineers (including KPFF), and contractors. Each team was
+given five schools to evaluate and upgrade. The intent was to mitigate the most serious
+deficiencies. This work was expanded to include additional architects and engineers to
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities           Page 10 of 15
+      KPFF Project No. 209193                                                      December 7, 2009
+address more schools and continues most recently with the re-roofing and related seismic
+rehabilitation work in the summer of 2009.
+
+Seismic Upgrade Philosophy
+
+The original FEMA 178 evaluations were conducted to determine seismic deficiencies in
+schools that were believed to be the highest hazard. A rating system termed the Hazard
+Index was developed to identify facilities posing the highest seismic risk. Due to the limited
+funds available, it was decided to concentrate on improvements that would help prevent
+collapse and allow safe exiting. Where unreinforced masonry walls could not be
+strengthened, they were supplemented with steel framing to prevent collapse and allow
+safe exiting. Two examples of this are the A Wing of Benson High School and Creston
+Elementary School. In addition, parapets were braced over doorways to prevent falling
+hazards for students and staff exiting.
+
+The current approach of “collapse prevention and safe exiting” in KPFF’s opinion, is not
+sufficient to protect the life safety of building occupants during a design earthquake. Our
+recommendation is to use the methodology of ASCE 41-06 or current code seismic
+provisions to develop rehabilitation schemes. This is a significant change in seismic
+upgrade philosophy. Most buildings will require the addition of lateral force resisting
+systems. In concrete and unreinforced masonry buildings, this will typically consist of new
+reinforced concrete shear walls, footings, and ties to roof and floor levels uniformly
+distributed throughout the building in both directions. The work for each school may be
+done all at once or be phased as repairs and remodels allow. The goal will be to
+eventually have a code equivalent lateral force resisting system in every building.
+
+Seismic Hazard Ranking Summary
+
+The James G. Pierson, Inc. summary of the hazard ranking system in their 2002-03 report
+(updated in December 2005) is a detailed description of the processes used to rank
+schools. The ranking system evolved from the original efforts following the 1995 bond
+measure to assign a hazard ranking to the schools, called the Hazard Index, to the
+Structural Hazard Score developed by Pierson Engineers. The Hazard Index was based
+on the demand to capacity ratio (DCR), number of occupants, hours of occupancy,
+material, and building area. The DCR is a ratio of required strength versus the actual
+strength for a building. The equation was as follows:
+
+Hazard Index (HI) = DCR x Occupants x Hours x Material Factor x 100 / Building Area
+
+Approximate Costs
+The previous estimate for seismic work alone, based on the James G. Pierson, Inc.
+summary from October 2008, is approximately $6 per square foot including soft costs and
+applying the present policy of collapse prevention and safe exiting. This is the total seismic
+cost for all school facilities divided by the total square footage.
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities           Page 11 of 15
+      KPFF Project No. 209193                                                      December 7, 2009
+The District-wide cost of the seismic work applying ASCE 41-06 standards is
+approximately $50 per square foot for seismic rehabilitation plus removal and replacement
+of finishes including soft costs. The District-wide cost for seismic work only without
+demolition and replacement of finishes is approximately $24 per square foot. These
+numbers are overall averages only, with actual costs dependent upon the type of
+construction.
+
+
+Previous Seismic Rehabilitation Work
+
+According to a compilation from PPS dated June 18, 2008, limited seismic rehabilitation
+work was accomplished in 63 schools. In addition, nine schools were reroofed this past
+summer. This work includes the addition of plywood, roof/wall ties and parapet bracing.
+
+The previous seismic rehabilitation work has included bracing of unreinforced walls and
+partitions, adding new brick veneer anchors, chimney removal or bracing, unreinforced
+masonry parapet bracing, rehabilitation of floor and roof diaphragms, and some
+rehabilitation of the building lateral force resisting systems. Most of the work has been
+focused on retrofitting the greatest hazards for “collapse prevention and safe exiting” and
+has not resulted in complete seismic rehabilitation of any facilities based on the current
+criteria.
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities        Page 12 of 15
+      KPFF Project No. 209193                                                   December 7, 2009
+Conclusions and Recommendations
+Seismic rehabilitation schemes for 12 school campuses were developed using current
+seismic criteria to determine approximate costs for the work. These costs were
+extrapolated to facilities throughout the District to determine an overall cost of the work. A
+District-wide cost for seismic rehabilitation including removal and replacement of finishes
+is approximately $50 per square foot. Cost for seismic rehabilitation as part of a larger
+renovation is approximately $24 per square foot. District wide totals for these two
+approaches are $422.6 million and $206.5 million respectively. Most seismic rehabilitation
+work will be on a voluntary basis, with the exception of unreinforced masonry buildings for
+which some circumstances trigger mandatory strengthening per the City of Portland.
+Renovations of URM buildings exceeding approximately $45 per square foot for single
+story buildings or approximately $35 per square foot for multi-story buildings will trigger
+seismic strengthening of the entire building.
+
+For future work, although voluntary, we recommend that rehabilitation work utilize ASCE
+41-06 or current code seismic provisions to determine the extent of work required. Both
+structural and non-structural elements should be included in the work. This approach,
+although much more expensive than the current approach, will achieve a more consistent
+and life safe condition for the building occupants.
+
+The previous approach of “collapse prevention and safe exiting”, in our opinion, is not
+sufficient to protect the life safety of building occupants during a design earthquake. Our
+recommendation is to use the methodology of ASCE 41-06 or current code seismic
+provisions to develop rehabilitation schemes. This is a significant change in seismic
+upgrade philosophy. Most buildings will require the addition of lateral force resisting
+systems. In concrete and unreinforced masonry buildings, this will typically consist of new
+reinforced concrete shear walls, footings, and ties to roof and floor levels uniformly
+distributed throughout the building in both directions. In many schools, where floor and
+roof diaphragms are not sufficient to transfer lateral forces to the walls, the diaphragms will
+also need strengthening. The work for each school may be done all at once or be phased
+as repairs and remodels allow. The goal will be to eventually have a code equivalent
+lateral force resisting system in every building.
+
+All school renovation work is to comply with current City of Portland Building Code
+requirements as they relate to seismic strengthening to the extent allowed by resources.
+
+ASCE/SEI 31-03 ‘Seismic Evaluation of Existing Buildings” and ASCE/SEI 41-06 “Seismic
+Rehabilitation of Existing Buildings” are to be considered in identifying seismic upgrades at
+schools and other PPS facilities and estimating projected costs.
+
+New replacement schools are to comply with current code requirement including seismic
+provisions. Existing schools to receive full modernization are to fully comply with the
+current seismic code or with the Basic Safety Objective per ASCE/SEI 41-06 “Seismic
+Rehabilitation of Existing Buildings” as they apply to those components, including non-
+structural elements.
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities           Page 13 of 15
+      KPFF Project No. 209193                                                      December 7, 2009
+Existing buildings receiving re-roofing or other retrofitting such as new elevators are to
+comply with the current seismic code with the Basic Safety Objective per ASCE/SEI 41-06
+“Seismic Rehabilitation of Existing Buildings” as they apply to these components.
+
+Consideration for architectural, mechanical, electrical and plumbing items was not part of
+this project and will need to be considered in developing final seismic rehabilitation
+schemes. In addition, selective demolition and testing will be needed in many cases to
+supplement existing drawing information.
+
+
+
+
+      Portland Public Schools | Seismic Study of Existing School Facilities       Page 14 of 15
+     KPFF Project No. 209193                                                   December 7, 2009
+                                                                        Appendix
+
+
+
+
+Portland Public Schools | Seismic Study of Existing School Facilities           Page 15 of 15
+KPFF Project No. 209193                                                      December 7, 2009
+KPFF Consulting Engineers                                                                                       P.P.S. Seismic Evaluations                                                                                         KPFF Job No. 209193
+
+
+
+
+                                                                                                                                                                                                                          Seismic
+                                                                                                                                                                   Estimated              Updated
+                                                                                                                                 Seismic                                      Cost per              2009 Cost Seismic Only 2009
+                  School Name                  Addition           Type             Floors        Year Built     Square Ft.                   Construction Type   Seismic Cost            Total Cost
+                                                                                                                                Work Done                                       SF                  per sq. ft. Only 2009 Cost per
+                                                                                                                                                                     * $                   2009
+                                                                                                                                                                                                                           sq. ft.
+
+       Ainsworth Elementary                                    Elementary             3             1912           55273           No              URM                768,000     13.89 4313602        78      2162659      39
+       Binnsmead Middle School                                   Middle               1             1949          109059           No             Wood                279,000      2.56 2413956        22       600344       6
+       Chapman Elementary                                      Elementary             3             1923           59969           Yes           URCW                 694,000     11.57 3217187        54      1261438      21
+       Cleveland High School                                      High                3             1928          251892           Yes            URCW              1,075,000      4.27 19647133       78     11580456      46
+       Creston Elementary                                      Elementary             1             1948           70765           Yes            Wood                350,000      4.95 5330051        75      1645672      23
+       Grant High School                                          High                2             1923          269350           Yes             URM              2,645,000      9.82 15303845       57      8137035      30
+       Humboldt Elementary                                     Elementary             1             1959           42920           No             Wood                135,000      3.15 415805         10       199323       5
+       Jackson Middle School                                     Middle               2             1966          247779           No            Concrete                   0         0 11667281     47.09    5274197      21.29
+       Lane Middle School                                        Middle               2             1927           87438           Yes            URCW                939,000     10.74 3963413        45      1648465      19
+       Llewelyn Elementary                                     Elementary             2             1928           49755           No             URCW                648,000     13.02 5082512       102     2729175       55
+       Richmond Elementary                                     Elementary             3             1908           77070           Yes         URCW / Wood            353,000      4.58                 0     3137757       41
+       Wilcox Elementary                                       Elementary             1             1959           19102           No              steel                           0.00 440153         23       129730       7
+
+
+
+       Average Construction Costs per Sq. Ft
+               Construction Type               Total Cost     Seismic Only
+
+                 URCW Schools                     66               30
+                 Wood Schools                     49               38
+                  URM Schools                     35               13
+                    Concrete                      78               39
+                     Steel                        10                5
+
+
+Notes: Cost for each construction type were based on averages of probable costs.
+
+       Creston is an anomoly because it's a wood school with high cost to replace or brace clay tile walls.
+       Cost for wood schools were reduced on the master spreadsheet to $20 and $8 per square foot for total and seismic only.
+KPFF Consulting Engineers                                                                   P.P.S. Seismic Evaluations                                                                                   KPFF Job No. 209193
+
+
+
+
+                                                                                                                                                       Average cost/sf                    Cost/sf with Total Cost with
+                                                                                                                                                                        Total Cost for
+                                                                                                                                                         for Seismic                    Seismic Retrofit Seismic Retrofit
+ASCE                                                                                                      Seismic Work                                                 Seismic Retrofit
+                            School Name                  Type       Floors   Year Built   Square Ft.                   Construction Type   Additions      Retrofit by                      as Part of       as Part of
+ Eval                                                                                                         Done                                                     by Construction
+                                                                                                                                                        Construction                        Larger           Larger
+                                                                                                                                                                            Type
+                                                                                                                                                             Type                         Renovation       Renovation
+
+  N     Abernathy Elementary                               K-5        2        1925         48438              No            LRCW            No        $           70   $ 3,380,004     $           36    $ 1,752,487
+  Y     Ainsworth Elementary                               K-5        3        1912         55273              No            LRCW            Yes       $           70   $ 3,856,950     $           36    $ 1,999,777
+  Y     Alameda Elementary                                 K-5        2        1921         60840              No            Wood            Yes       $           20   $ 1,216,800     $            8    $    486,720
+  N     Applegate Elementary                         PPS Programs     1        1954         25202              No            Wood            Yes       $           20   $    504,040    $            8    $    201,616
+  N     Arleta Elementary                                  K-6        2        1929         76489              Yes           LRCW            Yes       $           70   $ 5,337,402     $           36    $ 2,767,372
+  N     Astor Elementary                                   K-6        1        1949         47360              Yes           Wood            Yes       $           20   $    947,200    $            8    $    378,880
+  N     Atkinson Elementary                                K-5        1        1952         58057              No            Wood            Yes       $           20   $ 1,161,140     $            8    $    464,456
+  N     Beach Elementary                                  PK-7        3        1928         66633              No            LRCW            Yes       $           70   $ 4,649,651     $           36    $ 2,410,782
+  N     Beaumont Middle School                             6-8        3        1926         94431              No            LRCW            Yes       $           70   $ 6,589,395     $           36    $ 3,416,514
+  N     Benson High School                                9-12        2        1916        402846              Yes            URM            Yes       $           67   $ 27,163,906    $           35    $ 13,966,671
+  N     Boise Elliot Elementary                           PK-6        2        1926         61369              No            LRCW            Yes       $           70   $ 4,282,329     $           36    $ 2,209,284
+  N     Bridger Elementary                                 K-6        1        1951         43158              Yes           Wood            Yes       $           20   $    863,160    $            8    $    345,264
+  N     Bridlemile Elementary                              K-5        1        1958         58057              Yes           Wood            Yes       $           20   $ 1,161,140     $            8    $    464,456
+  N     Buckman Elementary                                 K-5        3        1921         82023              Yes           LRCW            No        $           70   $ 5,723,565     $           36    $ 2,967,592
+  N     Capitol Hill Elementary                            K-5        2        1917         46379              Yes           Wood            Yes       $           20   $    927,580    $            8    $    371,032
+  Y     Chapman Elementary                                 K-5        3        1923         59969              Yes           LRCW            Yes       $           70   $ 4,184,637     $           36    $ 2,169,678
+  N     Chief Joseph Elementary                           PK-5        1        1949         44412              No            Wood            Yes       $           20   $    888,240    $            8    $    355,296
+  N     Clarendon Elementary                          closed 2007     1        1970         42958              No            Wood            No        $           20   $    859,160    $            8    $    343,664
+  Y     Cleveland High School                             9-12        3        1928        251892              Yes           LRCW            Yes       $           70   $ 17,577,024    $           36    $ 9,113,453
+  N     Columbia Transportation & Student Facility        Other       2        1937         47346              No            Wood            Yes       $           20   $    946,920    $            8    $    378,768
+  N     Creative Science Elementary                        K-5        1        1955         50595              Yes          Masonry          No        $           36   $ 1,806,747     $           11    $    563,122
+  Y     Creston Elementary                                 K-6        1        1948         70765              Yes           Wood            No        $           20   $ 1,415,300     $            8    $    566,120
+  N     Creston Elementary Annex                     PPS Programs     1        1953         10175              Yes           Wood            No        $           20   $    203,500    $            8    $     81,400
+  N     DaVinci                                            6-8        3        1928         91876              Yes           LRCW            Yes       $           70   $ 6,411,107     $           36    $ 3,324,074
+  N     Duniway Elementary                                 K-5        2        1926         67492              No            LRCW            Yes       $           70   $ 4,709,592     $           36    $ 2,441,861
+  N     East Sylvan                                         6         2        1933         24986              No            Wood            No        $           20   $    499,720    $            8    $    199,888
+  N     Edwards Elementary                               leased       1        1961         20502              No           Masonry          Yes       $           36   $    738,072    $           11    $    225,522
+  N     Faubion Elementary                                PK-6        1        1950         57846              No            Wood            Yes       $           20   $ 1,156,920     $            8    $    462,768
+  N     Fernwood Middle School                             2-8        3        1911         73091              Yes            URM            Yes       $           67   $ 4,928,526     $           35    $ 2,534,065
+  N     Forest Park                                        K-5        2        1998         41898              No           Concrete         No              **
+  N     Foster Holding                                   vacant       1        1963         11470              No            Wood            No        $           20   $    229,400    $            8    $       91,760
+  N     Franklin High School                              9-12        3        1915        237027              Yes            URM            No        $           67   $ 15,982,731    $           35    $    8,217,726
+  Y     George Middle School                               6-8        1        1950         78713              No             URM            Yes       $           67   $ 5,307,618     $           35    $    2,728,980
+  N     Glencoe Elementary                                 K-5        2        1923         63482              Yes           LRCW            Yes       $           70   $ 4,429,774     $           36    $    2,296,779
+  Y     Grant High School                                 9-12        2        1923        269350              Yes            URM            Yes       $           67   $ 18,162,271    $           35    $    9,338,365
+  N     Gray Middle School                                 6-8        2        1952         60624              No            Wood            Yes       $           20   $ 1,212,480     $            8    $      484,992
+  N     Gregory Heights Middle School                      K-8        2        1923         95438              Yes           LRCW            Yes       $           70   $ 6,659,664     $           36    $    3,452,947
+  N     Grout Middle School                                K-5        3        1927         65838              No            LRCW            No        $           70   $ 4,594,176     $           36    $    2,382,019
+  Y     Harrison Park Middle School                        6-8        1        1949        109059              No            Wood            Yes       $           20   $ 2,181,180     $            8    $      872,472
+  N     Hayhurst Elementary                                K-5        1        1954         56266              Yes           Wood            No        $           20   $ 1,125,320     $            8    $      450,128
+
+
+
+Copy of PPSSchoolData Costs 12-2-09.xlsx                                                   Printed: 11/5/2010 at 10:55 AM                                                                                         Page 1 of 4
+KPFF Consulting Engineers                                                         P.P.S. Seismic Evaluations                                                                                   KPFF Job No. 209193
+
+
+
+
+                                                                                                                                             Average cost/sf                    Cost/sf with Total Cost with
+                                                                                                                                                              Total Cost for
+                                                                                                                                               for Seismic                    Seismic Retrofit Seismic Retrofit
+ASCE                                                                                            Seismic Work                                                 Seismic Retrofit
+                            School Name        Type       Floors   Year Built   Square Ft.                   Construction Type   Additions      Retrofit by                      as Part of       as Part of
+ Eval                                                                                               Done                                                     by Construction
+                                                                                                                                              Construction                        Larger           Larger
+                                                                                                                                                                  Type
+                                                                                                                                                   Type                         Renovation       Renovation
+
+  N     Holladay Center                    PPS Programs     1        1972         61457              No           Concrete         No        $           47   $ 2,894,010     $           21    $ 1,308,420
+  N     Hollyrood Elementary                     K-2        1        1958         15701              No             Steel          No        $           23   $    361,751    $            7    $    106,610
+  Y     Hosford Middle School                    6-8        3        1925         77050              No            LRCW            Yes       $           70   $ 5,376,549     $           36    $ 2,787,669
+  Y     Humboldt Elementary                     PK-6        1        1959         42920              No            Wood            Yes       $           20   $    858,400    $            8    $    343,360
+  N     Irvington Elementary                     K-6        2        1932         65285              Yes           LRCW            Yes       $           70   $ 4,555,587     $           36    $ 2,350,260
+  Y     Jackson Middle School                    6-8        2        1966        247779              No           Concrete         No        $           47   $ 11,667,913    $           21    $ 5,275,215
+  N     James John Elementary                    K-5        2        1929         63697              No            LRCW            Yes       $           70   $ 4,444,777     $           36    $ 2,304,557
+  N     Jefferson High School                   9-12        4        1909        360911              Yes            URM            Yes       $           67   $ 24,336,229    $           35    $ 12,512,784
+  N     Kellogg Middle School               closed 2007     3        1913         94592              Yes          Concrete         Yes       $           47   $ 4,454,337     $           21    $ 2,013,864
+  N     Kelly Elementary                         K-5        1        1952         82895              Yes           Wood            No        $           20   $ 1,657,900     $            8    $    663,160
+  N     Kelly Learning Center              PPS Programs     1        1969         14651              No            Wood            No        $           20   $    293,020    $            8    $    117,208
+  Y     Kenton Elementary                      leased       3        1913         48713              Yes          Concrete         Yes       $           47   $ 2,293,895     $           21    $ 1,037,100
+  N     King Elementary                         PK-7        2        1925         88957              Yes           LRCW            Yes       $           70   $ 6,207,419     $           36    $ 3,218,464
+  Y     Lane Middle School                       6-8        2        1927         87438              Yes           LRCW            Yes       $           70   $ 6,101,424     $           36    $ 3,163,507
+  N     Laurelhurst Elementary                   K-5        2        1923         44251              No            LRCW            Yes       $           70   $ 3,087,835     $           36    $ 1,601,001
+  N     Lee Elementary                           K-6        1        1953         73276              No            Wood            No        $           20   $ 1,465,520     $            8    $    586,208
+  N     Lent Elementary                          K-6        1        1949         74131              No            Wood            Yes       $           20   $ 1,482,620     $            8    $    593,048
+  N     Lewis Elementary                         K-5        1        1952         48380              No            Wood            Yes       $           20   $    967,600    $            8    $    387,040
+  N     Lincoln High School                     9-12        3        1951        233293              Yes          Concrete         No        $           47   $ 10,985,767    $           21    $ 4,966,808
+  Y     Llewelyn Elementary                      K-5        2        1928         49755              No            LRCW            No        $           70   $ 3,471,904     $           36    $ 1,800,136
+  N     Madison High School                     9-12        3        1955        370112              Yes          Concrete         No        $           47   $ 17,428,574    $           21    $ 7,879,684
+  N     Maplewood Elementary                     K-5        1        1948         34353              No            Wood            Yes       $           20   $    687,060    $            8    $    274,824
+  N     Markham Elementary                       K-5        1        1951         82794              Yes           Wood            Yes       $           20   $ 1,655,880     $            8    $    662,352
+  N     Marshall                                9-12        3        1960        271427              No           Concrete         No        $           47   $ 12,781,497    $           21    $ 5,778,681
+  N     Marysville Elementary                    K-6        1        1921         53490              Yes           Wood            No        $           20   $ 1,069,800     $            8    $    427,920
+  N     Meek / Alliance                         9-12        1        1953         32477              Yes           Wood            Yes       $           20   $    649,540    $            8    $    259,816
+  N     Metro Learning Center                   K-12        3        1914         68135              No            LRCW            Yes       $           70   $ 4,754,460     $           36    $ 2,452,860
+  N     Mt. Tabor Middle School                  6-8        1        1952         83076              Yes           Wood            Yes       $           20   $ 1,661,520     $            8    $    664,608
+  N     Ockley Green                             K-8        2        1925         69153              Yes           LRCW            Yes       $           70   $ 4,825,496     $           36    $ 2,489,508
+  N     Peninsula Elementary                     K-6        1        1952         70151              No            Wood            Yes       $           20   $ 1,403,020     $            8    $    561,208
+  N     Portsmouth / Clarendon                   K-8        2        1928         75814              Yes           LRCW            Yes       $           70   $ 5,290,301     $           36    $ 2,729,304
+  N     Rice Elementary                    PPS Programs     1        1955         16990              No            Wood            No        $           20   $    339,800    $            8    $    135,920
+  Y     Richmond Elementary                     PK-5        3        1908         77070              Yes           Wood            Yes       $           20   $ 1,541,400     $            8    $    616,560
+  N     Rieke Elementary                         K-5        1        1961         30647              Yes            Steel          Yes       $           23   $    706,107    $            7    $    208,093
+  N     Rigler Elementary                        K-6        2        1931         55312              Yes           LRCW            Yes       $           70   $ 3,859,671     $           36    $ 2,001,188
+  N     Roosevelt High School                   9-12        2        1921        271306              Yes            URM            Yes       $           67   $ 18,294,164    $           35    $ 9,406,179
+  N     Rosa Parks                               K-6        2        2006         46657              No            Wood            No              **
+  N     Rose City Park Elementary           closed 2007     3        1912         72053              Yes            URM            No        $           67   $   4,858,534   $           35    $    2,498,078
+  Y     Sabin Elementary                        PK-6        3        1928         66929              No            LRCW            Yes       $           70   $   4,670,306   $           36    $    2,421,491
+  N     Sacajewea Head Start               PPS Programs     1        1952         18751              No            Wood            No        $           20   $     375,020   $            8    $      150,008
+  N     Scott Elementary                         K-6        1        1949         62681              No            Wood            Yes       $           20   $   1,253,620   $            8    $      501,448
+
+
+
+Copy of PPSSchoolData Costs 12-2-09.xlsx                                         Printed: 11/5/2010 at 10:55 AM                                                                                         Page 2 of 4
+KPFF Consulting Engineers                                                                P.P.S. Seismic Evaluations                                                                                   KPFF Job No. 209193
+
+
+
+
+                                                                                                                                                    Average cost/sf                    Cost/sf with Total Cost with
+                                                                                                                                                                     Total Cost for
+                                                                                                                                                      for Seismic                    Seismic Retrofit Seismic Retrofit
+ASCE                                                                                                   Seismic Work                                                 Seismic Retrofit
+                            School Name              Type       Floors    Year Built   Square Ft.                   Construction Type   Additions      Retrofit by                      as Part of       as Part of
+ Eval                                                                                                      Done                                                     by Construction
+                                                                                                                                                     Construction                        Larger           Larger
+                                                                                                                                                                         Type
+                                                                                                                                                          Type                         Renovation       Renovation
+
+  N     Sellwood Middle School                        6-8         3         1914         86823              Yes           LRCW            Yes       $           70   $ 6,058,509     $           36    $    3,141,256
+  N     Sitton Elementary                             K-5         1         1949         58762              Yes           Wood            Yes       $           20   $ 1,175,240     $            8    $      470,096
+  Y     Skyline Elementary                            K-6         2         1939         37245              No            Wood            Yes       $           20   $    744,900    $            8    $      297,960
+  N     Smith Elementary                            vacant        1         1958         38472              Yes          Masonry          Yes       $           36   $ 1,384,992     $           11    $      423,192
+  N     Stephenson Elementary                         K-5         1         1965         40539              No            Wood            Yes       $           20   $    810,780    $            8    $      324,312
+  N     Sunnyside Elementary                          K-8         2         1925         54361              No            LRCW            Yes       $           70   $ 3,793,311     $           36    $    1,966,781
+  N     Terwiliger School Facility                  leased        1         1916         22150              No            Wood            Yes       $           20   $    443,000    $            8    $      177,200
+  N     Tubman Middle School                          7-8         2         1954         94775              No           Concrete         Yes       $           47   $ 4,462,955     $           21    $    2,017,760
+  N     Vernon Elementary                            PK-7         3         1931         68091              Yes           LRCW            Yes       $           70   $ 4,751,390     $           35    $    2,395,441
+  N     Vestal Elementary                             K-6         2         1929         63382              Yes           LRCW            No        $           70   $ 4,422,796     $           36    $    2,293,161
+  N     Washington HS                               vacant        4         1923         91638              No            LRCW            No        $           70   $ 6,394,500     $           36    $    3,315,463
+  Y     West Sylvan Middle School                     7-8         2         1954        102209              No            Wood            Yes       $           20   $ 2,044,180     $            8    $      817,672
+  N     Whitman Elementary                            K-5         1         1954         68763              No            Wood            No        $           20   $ 1,375,260     $            8    $      550,104
+  Y     Wilcox Elementary                        PPS Programs     1         1959         19102              No             Steel          No        $           23   $    440,110    $            7    $      129,703
+  Y     Wilson High School                           9-12         3         1954        326062              No           Concrete         No        $           47   $ 15,354,260    $           21    $    6,941,860
+  N     Winterhaven @ Brooklyn                        K-5         2         1930         38092              Yes           LRCW            Yes       $           70   $ 2,658,060     $           36    $    1,340,077
+  N     Woodlawn Elementary                          PK-6         1         1926         58608              Yes           LRCW            Yes       $           70   $ 4,089,666     $           36    $    2,120,437
+  N     Woodmere Elementary                           K-5         1         1954         55324              No            Wood            No        $           20   $ 1,106,480     $            8    $      442,592
+  N     Woodstock Elementary                          K-5         1         1910         69135              No            Wood            No        $           20   $ 1,382,700     $            8    $      553,080
+  N     Youngson Elementary                      PPS Programs     1         1955         32824              No            Wood            No        $           20   $    656,480    $            8    $      262,592
+
+
+
+        Totals                                                                         8460492                                                                       $ 422,594,134                     $ 206,515,635
+
+        Cost per square foot                                                                                                                                         $          50                     $            24
+
+  **      Indicates design was done to current
+           code. No seismic upgrade required
+
+Note: Average cost per square foot values were determined for each construction type from estimates for the 12 representative schools.
+      The average values are used in this spreadsheet.
+
+
+
+
+Copy of PPSSchoolData Costs 12-2-09.xlsx                                                Printed: 11/5/2010 at 10:55 AM                                                                                         Page 3 of 4
+KPFF Consulting Engineers                                                 P.P.S. Seismic Evaluations                                                                                 KPFF Job No. 209193
+
+
+
+
+                                                                                                                                     Average cost/sf                    Cost/sf with Total Cost with
+                                                                                                                                                      Total Cost for
+                                                                                                                                       for Seismic                    Seismic Retrofit Seismic Retrofit
+ASCE                                                                                    Seismic Work                                                 Seismic Retrofit
+                            School Name    Type   Floors   Year Built   Square Ft.                   Construction Type   Additions      Retrofit by                      as Part of       as Part of
+ Eval                                                                                       Done                                                     by Construction
+                                                                                                                                      Construction                        Larger           Larger
+                                                                                                                                                          Type
+                                                                                                                                           Type                         Renovation       Renovation
+
+
+
+
+Copy of PPSSchoolData Costs 12-2-09.xlsx                                 Printed: 11/5/2010 at 10:55 AM                                                                                       Page 4 of 4
+

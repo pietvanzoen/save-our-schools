@@ -1,0 +1,362 @@
+              Expected Performance Rating System
+
+          In researching seismic rating systems to determine how to best classify the facilities within the
+          Portland Public School system, we searched out what was used by other school districts,
+          federal agencies, and larger cities. Modeled after a system used by the University of
+          California at Berkeley that created performance classifications to group their inventory into a
+          few categories, the same system is being used here. Performance ratings were assigned to
+          classifications of GOOD, FAIR, or POOR
+
+          •     A GOOD seismic performance rating would apply to buildings and other structures whose
+          performance during a major seismic disturbance is anticipated to result in structural and non
+          structural damage and/or falling hazards that would not significantly jeopardize life. Buildings
+          and other structures with a GOOD rating would represent an acceptable level of earthquake
+          safety, such that funds need not be spent to improve their seismic resistance to gain greater
+          life safety.
+
+
+          •    A FAIR seismic performance rating would apply to buildings and other structures whose
+          performance during a major seismic disturbance is anticipated to result in structural and
+          nonstructural damage and/or falling hazards that would represent low life hazards. Buildings
+          and other structures with a FAIR seismic rating would be given a low priority for expenditures to
+          improve their seismic resistance and/or to reduce falling hazards so that the building could be
+          reclassified GOOD.
+
+          •    A POOR seismic performance rating would apply to buildings and other structures
+          expected to sustain significant structural and non structural damage and/or result in falling
+          hazards in a major seismic disturbance, representing appreciable life hazards. Such buildings
+          or structures either would be given a high priority for expenditures to improve their seismic
+          resistance and/or to reduce falling hazards so that the building could be reclassified GOOD, or
+          would be considered for other abatement programs, such as reduction of occupancy.
+
+          To determine which schools belong in the various performance rating categories, structural
+          data from each school was reviewed. The seismic risk score developed for PPS over the
+          years to help determine which schools have the higher seismic risk was used as the main
+          factor in determining the performance rating. The performance rating system also takes into
+          account previous seismic upgrade work, the building class, age of construction, vertical and
+          horizontal irregularities, building site, number of stories, and condition of the structural
+          materials. Using these factors, the schools were placed in one of the three Expected
+          Performance classes.
+
+
+          Building Classes
+
+          Seismic "risk" (i.e., the potential for earthquake casualties and damages) results from the
+          combination of seismic "hazard" (i.e., the probabilities of damaging ground motions) and the
+          vulnerability of the existing building inventory to earthquake damage. Thus, building seismic
+          vulnerability is a major determinant of the degree of seismic risk which Portland Public School
+          facilities face.
+
+          A building's seismic vulnerability depends on the ability of its structural systems (i.e., walls,
+
+James G. James G. Pierson, Inc. Consulting Structural Engineers                   5/29/2012 Page 1
+          columns, beams, floors and roofs) to withstand seismic forces. Therefore, an individual
+          building's seismic vulnerability depends on the materials used in its construction, on its age and
+          condition and on the construction details connecting parts of the building together.
+
+          To compare seismic vulnerabilities, buildings are commonly grouped into "classes" of buildings
+          with common construction materials, details and seismic performance. Seismic vulnerability
+          varies markedly from building class to building class. We have evaluated and classified the
+          seismic vulnerability of existing school buildings in Portland using the 16 building class list used
+          by the National Institute of Building Sciences (NIBS). Definitions for these building classes are
+          given in Table 1 on the following page.
+
+          The school facilities are often a combination of many additions and building types that have
+          been built over the years. For the purpose of the charts and rating system, the original or main
+          school was used to identify the building class. Most schools have more than one building class
+          associated with the facility. The building class also is based on the main structural system of
+          the school and not other elements. Many of the schools that have concrete exterior walls for
+          the main structural system were found to contain URM partition walls (clay tile) which pose a
+          high seismic risk for collapse. The URM partition walls are factored into the seismic risk score
+          but would not be identified by the building class.
+
+          There are several published compilations of building seismic vulnerability vs. building class. For
+          the reasons discussed in Technical Appendix, we have adjusted these existing compilations in
+          order to account for the Portland6specific building stock. We have made Portland6specific
+          estimates of the vulnerability of these building classes to seismic damage
+
+          Vertical and Horizontal Irregularities
+
+
+          Buildings' seismic vulnerability also depends on the design of individual buildings within a class.
+          Buildings with configurational irregularities, soft stories and other less than optimum design
+          characteristics may be more vulnerable than the typical building in a given class. "Configurational
+          irregularities" means buildings with irregular shapes in plan (e.g., U6shaped instead of square) or
+          changes in size between stories. "Soft stories", which are common in buildings with large open spaces
+          on the ground floor, are weaker than the other stories in a building because they may have structurally
+          weak elements instead of solid walls that typically occur in the floors above the ground floor.
+
+          All building classes located on rock or firm soil sites are generally much less vulnerable to seismic
+          damage than are similar buildings located on soft soil sites. Soft soil sites are prone to amplification of
+          ground motions, longer duration shaking and other effects that substantially increase building damages
+          and thus the potential for injuries and deaths.
+
+          All of these factors were used in determining expected performance rating in conjunction with the PPS
+          Risk Score that incorporates work done to date. Some buildings that have been recently substantially
+          seismic upgraded may still be classified as "poor" or "fair" but have a lower risk score than other
+          schools which is based on the structural system and location.
+
+
+
+
+James G. James G. Pierson, Inc. Consulting Structural Engineers                      5/29/2012 Page 2
+                                         Table 1 Building Classification
+
+              LABEL                    STRUCTURAL SYSTEM DESCRIPTION
+                W1                                Wood, Light Frame
+                W2                        Wood, Commercial and Industrial
+                S1                               Steel Moment Frame
+                S2                                Steel Braced Frame
+                S3                                 Steel Light Frame
+                S4             Steel Frame with Cast6In6Place Concrete Shear Walls
+                S5               Steel Frame with Unreinforced Masonry Infill Walls
+                C1                       Concrete Moment Resisting Frame
+                C2                              Concrete Shear Walls
+                C3             Concrete Frame with Unreinforced Masonry Infill Walls
+                PC1                         Precast Concrete Tilt6Up Walls
+                PC2             Precast Concrete Frame with Concrete Shear Walls
+               RM1         Reinforced Masonry Bearing Walls with Wood or Metal Deck
+                                                  Diaphragms
+               RM2          Reinforced Masonry Bearing Walls with Precast Concrete
+                                                  Diaphragms
+               URM                    Unreinforced Masonry Bearing Walls
+                MH                                   Mobile Homes
+
+Buildings' seismic vulnerability 6 that is, their potential for damage and casualties in earthquakes 6
+varies significantly with building class. See next page for chart.
+
+
+
+
+James G. James G. Pierson, Inc. Consulting Structural Engineers                        5/29/2012 Page 3
+                         Relative Life Safety Risk by Building
+                         Class
+
+
+            LIFE SAFETY RISK                                  BUILDING CLASS
+
+                 HIGHEST RISK        Unreinforced Masonry Bearing Walls (URM)
+                                     Precast Concrete Frame with Concrete Shear Walls (PC2)
+
+                                     Concrete Frame with Unreinforced Masonry Infill Walls (C3)
+
+                                     Steel Frame with Unreinforced Masonry Infill Walls (S5)
+                                     Reinforced Masonry Bearing Wall with Precast Concrete
+                                     Diaphragms (RM2)
+                                     Concrete Moment Resisting Frame (C1)
+
+                                     Precast Concrete Tilt6Up Walls (PC1)
+                                     Reinforced Masonry Bearing Walls with Wood or Metal Deck
+                                     Diaphragms (RM1)
+                                     Steel Frame with Cast6In6Place Concrete Shear Walls (S4)
+              LOWEST RISK            Concrete Shear Walls (C2)
+                                     Wood Shear Walls (W2)
+
+
+       These relative life safety risk rankings are based on the estimated probabilities of death due to
+       earthquake damages.
+
+
+
+
+James G. James G. Pierson, Inc. Consulting Structural Engineers                5/29/2012 Page 4
+                                           TECHNICAL APPENDIX
+
+                    BUILDING CLASS AND DAMAGE STATE DESCRIPTIONS
+
+         This appendix contains a more detailed description of the 16 main building classes and
+         descriptions of the damage states by building class. These descriptions are closely based on
+         those in the NIBS report1• The alphanumeric symbols for each building class (e.g .• W1) are the
+         same as given previously The suffices, L. M and H, refer to low6, mid6 and high6rise buildings,
+         respectively and not every classification applies to the Portland Public School inventory.
+
+
+         Building Class Descriptions
+
+                 Wood Light Frame (W1)
+
+         These are typically single6 or multiple6family dwellings. The essential structural feature of these
+         buildings is repetitive framing by wood rafters or joists on wood stud walls. Loads are light and
+         spans are small. These buildings may have relatively heavy masonry chimneys and may be
+         partially or fully covered with masonry veneer. Most of these buildings, especially the single6
+         family residences, are not engineered but constructed in accordance with conventional
+         construction provisions of building codes (e.g., Sections 2516 and 2517 of the UBC). Hence. they
+         usually have the components of a lateral6force6resisting system even though it may be
+         incomplete. Lateral loads are transferred by diaphragms to shear walls. The diaphragms are roof
+         panels and floors which may be sheathed with wood, plywood or fiberboard sheathing. Shear
+         walls are exterior walls sheathed with wood siding, stucco. plaster. plywood. gypsum board,
+         particle board or fiberboard. Interior partition walls are commonly sheathed with plaster or
+         gypsum board.
+
+
+                 Wood Commercial and Industrial (W2)
+
+         These buildings usually are commercial or industrial buildings with a floor area of 5.000 square
+         feet or more and with few if any interior walls. The essential structural character of these
+         buildings is framing by beams over columns. The beams may be glued6laminated (glu6Iam)
+         wood or steel beams or trusses. Lateral loads usually are resisted by wood diaphragms and
+         exterior walls sheathed with plywood, stucco, plaster, or other paneling. The walls may have
+         diagonal rod bracing. Large openings for stores and garages often require post6and6beam
+         framing. Lateral load resistance on those lines may be achieved with steel rigid frames or
+         diagonal bracing.
+
+
+                 Steel Moment Frame (S1 L, S1 M, S1 H)
+
+         These buildings have a frame of steel columns and beams. In some cases, the beam column
+         connections have very small moment resisting capacity but, in other cases, some of the beams
+         and columns are fully developed as moment frames to resist lateral forces.
+         structure is concealed on the outside by exterior walls, which can be of almost any material (curtain
+         walls, brick masonry, or precast concrete panels) and on the inside by ceilings and column furring.
+         Lateral loads are transferred by diaphragms to moment resisting frames. The diaphragms can be
+
+James G. James G. Pierson, Inc. Consulting Structural Engineers               5/29/2012 Page 5
+          almost any material. The frames develop their stiffness by full or partial moment connections. The
+          frames can be located almost anywhere in the building. Usually the columns have their strong
+          directions oriented so that some columns act primarily in one direction while the others act in the
+          other direction and the frames consist of lines of strong columns and their intervening beams. Steel
+          moment frame buildings are typically more flexible than shear wall buildings. This low stiffness can
+          result in large interstory drifts that may lead to relatively greater nonstructural damage.
+
+
+                  Steel Braced Frame (S2L, S2M, S2H)
+
+          These buildings are similar to steel moment frame buildings except that the vertical
+          components of the lateral6force6resisting system are braced frames rather than moment
+          frames.
+
+
+                  Steel Light Frame (S3)
+
+          These buildings are pre6engineered and prefabricated with transverse rigid frames. The roof and
+          walls consist of lightweight panels. The frames are designed for maximum efficiency often with
+          tapered beam and column sections built up of light steel plates. The frames are built in segments
+          and assembled in the field with bolted joints. Lateral loads in the transverse direction are resisted by
+          the rigid frames with loads distributed to them by shear elements. Loads in the longitudinal direction
+          are resisted entirely by shear elements which can be either the roof and wall sheathing panels, an
+          independent system of tension6only rod bracing, or a combination of panels and bracing.
+
+
+                  Steel Frame with Cast6In6Place Concrete Shear Walls (S4L, S4M, S4H)
+
+          The shear walls in these buildings are cast6in6place concrete and may be bearing walls. The steel
+          frame is designed for vertical loads only. Lateral loads are transferred by diaphragms of almost any
+          material to the shear walls. The steel frame may provide a secondary lateral6force resisting system
+          depending on the stiffness of the frame and the moment capacity of the beam6column connections.
+          In modem dual systems, the steel moment frames are designed to work together with the concrete
+          shear walls in proportion to their relative rigidities.
+
+
+                  Steel Frame with Unreinforced Masonry Infill Walls (S5L, SSM, S5H)
+
+          This is one of the older types of buildings. The infill walls usually are offset from the exterior frame
+          members, wrap around them and present a smooth masonry exterior with no indication of the
+          frame. Solidly6infilled masonry panels, when they fully engage the surrounding frame
+          members (Le., lie in the same plane), provide stiffness and lateral load resistance to the
+          structure.
+
+
+
+               Reinforced Concrete Moment Resisting Frames (C1 L, C1 M, C1 H)
+
+        These buildings are similar to steel moment frame buildings except that the frames are reinforced
+        concrete. There is a large variety of frame systems. Some older concrete frames may be
+          proportioned and detailed such that brittle failure of the frame members can occur in earthquakes
+James G. James G. Pierson, Inc. Consulting Structural Engineers                   5/29/2012 Page 6
+        leading partial or full collapse of the buildings. Modem frames in zones of high seismicity are
+        proportioned and detailed for ductile behavior and are likely to undergo large deformations during an
+        earthquake without brittle failure of frame members or collapse.
+
+
+               Concrete Shear Walls (C2L, C2M, C2H)
+
+        The vertical components of the lateral6force6resisting system in these buildings are concrete shear
+        walls that are usually bearing walls. In older buildings, the walls often are quite extensive and the wall
+        stresses are low, but reinforcing is light. In newer buildings, the shear walls often are limited in extent,
+        generating concerns about boundary members and overturning forces.
+
+
+               Concrete Frame Buildings with Unrelnforced Masonry Inflll Walls (C3L, C3M, C3H)
+
+         These buildings are similar to steel frame buildings with unreinforced masonry infill walls except
+         that the frame is of reinforced concrete. In these buildings, the shear strength of the
+         columns after cracking of the infill may limit the semi6ductile behavior of the system.
+
+               Precast Concrete Tilt6Up Walls (PC1)
+
+         These buildings have a wood or metal deck roof diaphragm, which often is very large, that
+         distributes lateral forces to precast concrete shear walls. The walls are thin but relatively heavy,
+         while the roofs are relatively light. Older buildings often have inadequate connections for anchorage
+         of the walls to the roof for out6of6plane forces and the panel connections often are brittle. Tilt6up
+         buildings often have more than one story. Walls can have numerous openings for doors and
+         windows of such size that the wall looks more like a frame than a shear wall.
+
+
+               Precast Concrete Frames with Concrete Shear Walls (PC1 L, PC2M, PC2H)
+
+         These buildings contain floor and roof diaphragms typically composed of precast concrete elements
+         with or without cast6in6place concrete topping slabs. The diaphragms are supported by precast
+         concrete girders and columns. The girders often bear on column corbels. Closure strips between
+         precast floor elements and beam6column joints usually are cast6in6place concrete. Welded steel
+         inserts often are used to interconnect precast elements. Lateral loads are resisted by precast or
+         cast6in6place concrete shear walls. Buildings with precast frames and concrete shear walls should
+         perform well if the details used to connect the structural elements have sufficient strength and
+         displacement capacity. However, in some cases, the connection details between the precast
+         elements have negligible ductility
+
+
+
+
+James G. James G. Pierson, Inc. Consulting Structural Engineers                   5/29/2012 Page 7
+                  Reinforced Masonry Bearing Walls with Wood or Metal Deck
+                  Diaphragms (RM1 L, RM1M)
+
+          These buildings have perimeter bearing walls of reinforced brick or concrete..block
+          masonry. These walls are the vertical elements in the lateral6force6resisting system.
+          The floors and roofs are framed either with wood joists and beams with plywood or
+          straight or diagonal sheathing or with steel beams with metal deck with or without a
+          concrete fill. Wood floor framing is supported by interior wood posts or steel columns.
+          Steel beams are supported by steel columns.
+
+
+                  Reinforced Masonry Bearing Walls with Precast Concrete
+                  Diaphragms (RM2L, RM2M, RM2H)
+
+          These buildings have bearing walls similar to those of reinforced masonry bearing
+          wall structures with wood or metal deck diaphragms, but the roof and floors are
+          composed of precast concrete elements such as planks or tee6beams and the
+          precast roof and floor elements are supported on interior beams and columns of
+          steel or concrete (cast6in6place or precast). The precast horizontal elements often
+          have a cast6in6place topping.
+
+
+                  Unrelnforced Masonry Bearing Walls (URML, URMM)
+
+          These buildings include structural elements that vary depending on the building's age
+          and to a lesser extent its geographic location. In buildings built before 1900, the
+          majority of floor and roof construction consists of wood sheathing supported by wood
+          subframing. In large multistory buildings, the floors are cast6in6place concrete
+          supported by the unreinforced masonry walls and/or steel or concrete interior framing.
+          In unreinforced masonry constructed after 1950, wood floors usually have plywood
+          rather than board sheathing. In regions of lower seismicity, buildings of this type
+          constructed more recently can include floor and roof framing that consists of metal
+          deck and concrete fill supported by steel framing elements. The perimeter walls and
+          possibly some interior walls, are unreinforced masonry. The walls mayor may not be
+          anchored to the diaphragms. Ties between the walls and diaphragms are more
+          common for the bearing walls than for walls that are parallel to the floor framing. Roof
+          ties usually are less common and more erratically spaced than those at the floor
+          levels. Interior partitions that interconnect the floors and roof can have the effect of
+          reducing diaphragm displacements.
+
+
+                  Mobile Homes (MH)
+
+          These are prefabricated housing units that are transported to location on wheels or
+          moving platforms. At the site, the units are placed on isolated piers or masonry block
+          foundations usually without any positive anchorage. Floors and roofs of mobile homes
+          usually constructed with plywood and outside surfaces are covered with sheet metal.
+
+
+
+James G. James G. Pierson, Inc. Consulting Structural Engineers                5/29/2012 Page 8
+
