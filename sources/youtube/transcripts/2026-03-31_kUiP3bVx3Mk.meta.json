@@ -1,0 +1,31 @@
+{
+ "id": "kUiP3bVx3Mk",
+ "fetched_at": "2026-10-11T08:01:45.851Z",
+ "meta": {
+  "videoId": "kUiP3bVx3Mk",
+  "title": "BUDGET 101: Focused on Students",
+  "lengthSeconds": "47",
+  "author": "Portland Public School District",
+  "channelId": "UCVwAhLNCpZQOfmIfByGl3Gw",
+  "publishDate": "2026-03-31T13:41:24-07:00",
+  "uploadDate": "2026-03-31T13:41:24-07:00",
+  "description": "In our final video of our Budget 101 series, we're talking about how all our decisions are focused on students.",
+  "captionTracks": [
+   {
+    "lang": "en",
+    "kind": "asr",
+    "name": "English (auto-generated)",
+    "vssId": "a.en"
+   }
+  ]
+ },
+ "caption_kind": "asr",
+ "caption_lang": "en",
+ "n_lines": 18,
+ "sample": "",
+ "meetings": "",
+ "listed_as": "Budget Video Series",
+ "listed_on": "pps.net / bond.pps.net (see sources/pps_net/_download_manifest.jsonl)",
+ "url": "https://www.youtube.com/watch?v=kUiP3bVx3Mk",
+ "boardbook_meetings": []
+}

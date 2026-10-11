@@ -1,0 +1,145 @@
+{
+ "id": "K3u0UDq7DbA",
+ "fetched_at": "2026-10-11T08:00:57.535Z",
+ "meta": {
+  "videoId": "K3u0UDq7DbA",
+  "title": "1 Introduction: Making our schools more stable, sustainable and successful",
+  "lengthSeconds": "184",
+  "author": "PPS Communications",
+  "channelId": "UCBUuVy-Nfy1r9NAVM_BbitQ",
+  "publishDate": "2026-09-29T09:41:21-07:00",
+  "uploadDate": "2026-09-29T09:41:21-07:00",
+  "description": "",
+  "captionTracks": [
+   {
+    "lang": "ar",
+    "kind": "asr",
+    "name": "Arabic (auto-generated)",
+    "vssId": "a.ar"
+   },
+   {
+    "lang": "bn",
+    "kind": "asr",
+    "name": "Bangla (auto-generated)",
+    "vssId": "a.bn"
+   },
+   {
+    "lang": "nl",
+    "kind": "asr",
+    "name": "Dutch (auto-generated)",
+    "vssId": "a.nl"
+   },
+   {
+    "lang": "en",
+    "kind": "asr",
+    "name": "English (auto-generated)",
+    "vssId": "a.en"
+   },
+   {
+    "lang": "fr-FR",
+    "kind": "asr",
+    "name": "French (France) (auto-generated)",
+    "vssId": "a.fr-FR"
+   },
+   {
+    "lang": "de-DE",
+    "kind": "asr",
+    "name": "German (Germany) (auto-generated)",
+    "vssId": "a.de-DE"
+   },
+   {
+    "lang": "iw",
+    "kind": "asr",
+    "name": "Hebrew (auto-generated)",
+    "vssId": "a.iw"
+   },
+   {
+    "lang": "hi",
+    "kind": "asr",
+    "name": "Hindi (auto-generated)",
+    "vssId": "a.hi"
+   },
+   {
+    "lang": "it",
+    "kind": "asr",
+    "name": "Italian (auto-generated)",
+    "vssId": "a.it"
+   },
+   {
+    "lang": "ja",
+    "kind": "asr",
+    "name": "Japanese (auto-generated)",
+    "vssId": "a.ja"
+   },
+   {
+    "lang": "ko",
+    "kind": "asr",
+    "name": "Korean (auto-generated)",
+    "vssId": "a.ko"
+   },
+   {
+    "lang": "ml",
+    "kind": "asr",
+    "name": "Malayalam (auto-generated)",
+    "vssId": "a.ml"
+   },
+   {
+    "lang": "pl",
+    "kind": "asr",
+    "name": "Polish (auto-generated)",
+    "vssId": "a.pl"
+   },
+   {
+    "lang": "pt-BR",
+    "kind": "asr",
+    "name": "Portuguese (Brazil) (auto-generated)",
+    "vssId": "a.pt-BR"
+   },
+   {
+    "lang": "pa",
+    "kind": "asr",
+    "name": "Punjabi (auto-generated)",
+    "vssId": "a.pa"
+   },
+   {
+    "lang": "ru",
+    "kind": "asr",
+    "name": "Russian (auto-generated)",
+    "vssId": "a.ru"
+   },
+   {
+    "lang": "es-US",
+    "kind": "asr",
+    "name": "Spanish (United States) (auto-generated)",
+    "vssId": "a.es-US"
+   },
+   {
+    "lang": "ta",
+    "kind": "asr",
+    "name": "Tamil (auto-generated)",
+    "vssId": "a.ta"
+   },
+   {
+    "lang": "te",
+    "kind": "asr",
+    "name": "Telugu (auto-generated)",
+    "vssId": "a.te"
+   },
+   {
+    "lang": "uk",
+    "kind": "asr",
+    "name": "Ukrainian (auto-generated)",
+    "vssId": "a.uk"
+   }
+  ]
+ },
+ "caption_kind": "asr",
+ "caption_lang": "en",
+ "n_lines": 72,
+ "sample": "54160\t3600\tconnecting with other parents on the | 55840\t3880\tplayground. | 57760\t4200\tAnd we have reached a point where we",
+ "meetings": "",
+ "listed_as": "Introduction to Rightsizing (video)",
+ "listed_on": "pps.net / bond.pps.net (see sources/pps_net/_download_manifest.jsonl)",
+ "url": "https://www.youtube.com/watch?v=K3u0UDq7DbA",
+ "boardbook_meetings": []
+}

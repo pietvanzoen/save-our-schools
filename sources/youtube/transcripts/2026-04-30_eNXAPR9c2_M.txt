@@ -1,0 +1,2568 @@
+# 2026_04_29 BAC Q2 Meeting
+# Video: https://www.youtube.com/watch?v=eNXAPR9c2_M
+# Source: YouTube captions (asr, en), fetched 2026-10-11T08:01:14.569Z
+# BoardBook meeting(s): 
+# Link to a moment: https://www.youtube.com/watch?v=eNXAPR9c2_M&t=<seconds>s
+
+[0:13:52] Hey, Greg. Can I tell you, can you both
+[0:13:54] hear me?
+[0:13:55] >> I can't. Let's see if I turn this up.
+[0:13:57] Can you hear me?
+[0:13:59] Yep.
+[0:14:00] >> Okay, great. I'm doing this on an iPad,
+[0:14:03] so
+[0:14:05] I'm not at home.
+[0:14:08] See how it goes. Are you and I the only
+[0:14:10] two on or
+[0:14:16] >> I see Kelly Wind Lingard is on as well.
+[0:14:18] >> Oh, okay. Yeah, I see it. Now,
+[0:14:23] Norm's on
+[0:14:25] Norm.
+[0:14:31] on.
+[0:14:37] Okay.
+[0:14:57] Patrick's son on said he's taking notes.
+[0:15:00] This thing said it's recording. So that
+[0:15:02] is that correct?
+[0:15:08] >> Yeah. Is the webinar start to begin
+[0:15:10] recording?
+[0:15:11] >> Oh. Oh, okay. All right. Well, watch
+[0:15:14] what we say then because on the record
+[0:15:19] I got 2:30. See, we've got myself. One,
+[0:15:24] two, three,
+[0:15:27] four, five.
+[0:15:36] We've got five out of I know Travis
+[0:15:38] won't be here.
+[0:15:43] Nine people. So, we actually have a
+[0:15:45] quorum. There's five of us here.
+[0:15:49] And
+[0:15:58] Jonathan's here. So, we have six
+[0:16:09] and director split is here.
+[0:16:15] Okay.
+[0:16:22] We know that Chris Paulson might be
+[0:16:24] late. He's gonna do it in the car.
+[0:16:28] We haven't heard from Ryan staff. No
+[0:16:30] one's heard from him.
+[0:16:42] Okay. Well, look at we're going to get
+[0:16:44] started. We have a quorum. and respect
+[0:16:45] of all the people that did show up on
+[0:16:47] time, we're going to get this thing
+[0:16:48] going. Um, so I'm going to welcome the
+[0:16:51] new members to our committee. Thanks for
+[0:16:54] agreeing to participate in this
+[0:16:57] endeavor. Um, our next meeting should be
+[0:17:00] in person. So I'd like to do at the next
+[0:17:02] meeting is a little more formal intro of
+[0:17:04] both the new and the old members so
+[0:17:07] everybody has an understanding kind of a
+[0:17:08] little basic of our background is so we
+[0:17:10] know what our expertise are as we work
+[0:17:12] together as a team and so for now we'll
+[0:17:16] just go around and say our name and
+[0:17:17] whether you're a BAC member or not and
+[0:17:19] the staff can say their position. So I
+[0:17:21] can see the I can see everybody here.
+[0:17:24] I'll just call out your name. Uh, Brian
+[0:17:26] Harper.
+[0:17:30] >> Thanks. I guess I'm one of the new ones.
+[0:17:32] Brian Harper. Uh, new back member. Nice
+[0:17:34] to meet everyone.
+[0:17:36] >> Okay. Chris.
+[0:17:38] >> Yeah. Hello everybody. Chris Stunning.
+[0:17:39] I'm a back member. I've been on the back
+[0:17:41] for uh maybe year and a few months at
+[0:17:44] this point, I think.
+[0:17:46] >> Okay. Cara.
+[0:17:48] >> Hi. Cara Toronto. um BAC committee
+[0:17:51] member
+[0:17:53] in my
+[0:17:56] sixth year.
+[0:17:59] >> Okay. And
+[0:18:01] >> my seventh year.
+[0:18:04] >> Hi Jonathan.
+[0:18:07] >> Hi Jonathan Tread. BAC member.
+[0:18:10] >> Okay. And Norm.
+[0:18:13] >> Hi. Um Norm. I've been around six years
+[0:18:16] or so, I guess. And I want to big
+[0:18:18] welcome to all the new members.
+[0:18:21] >> And where' Kelly go?
+[0:18:25] >> Do [clears throat] I pop up when I talk?
+[0:18:26] I'm Kelly Wingard, one of the new BAC
+[0:18:29] members.
+[0:18:30] >> Okay. I think that's all the BAC
+[0:18:32] members. Uh, so you want to do the staff
+[0:18:34] then? Oh, and director split introduce
+[0:18:37] you important person,
+[0:18:41] our liaison.
+[0:18:44] And then Sarah, you want to introduce
+[0:18:45] the staff as you guys get to your
+[0:18:48] discussion?
+[0:18:50] >> Uh, sure. Hi, Sarah Norman. Um,
+[0:18:52] executive director of the RISE
+[0:18:54] department with Prescidio uh for program
+[0:18:56] management of the 2025 bond program. Um,
+[0:18:59] on the line tonight we have TJ.
+[0:19:04] >> Hello. Hello everyone. Yeah, I'm TJ
+[0:19:06] Hopkins, senior program director of the
+[0:19:08] Rise Bond program, uh, also with
+[0:19:10] Presidio
+[0:19:12] and Maya.
+[0:19:14] >> Hi, my name is Mila Tower Chan. I'm the
+[0:19:16] financial services manager with the RISE
+[0:19:18] department.
+[0:19:20] >> And Joanna,
+[0:19:23] >> hi Joanna Evansson. I'm senior director
+[0:19:25] with the RISE department.
+[0:19:27] >> And Patrick,
+[0:19:30] hi
+[0:19:30] >> everyone. Patrick Hoskins, uh, program
+[0:19:32] coordinator with PPS and Precidio
+[0:19:36] >> and Russell.
+[0:19:38] >> Hi everybody. I'm Russell Adamson. I'm
+[0:19:41] the senior director for technology and
+[0:19:42] digital transformation.
+[0:19:44] >> And Liz Large.
+[0:19:46] >> Good evening everyone. Liz Large. I'm a
+[0:19:49] contracted lawyer for the district and
+[0:19:51] the assigned attorney to the BAC.
+[0:19:55] >> I think I got everybody, Greg. I think
+[0:19:58] >> I think you did. Thank you, Sarah. And I
+[0:20:00] see that uh Chris uh Pson has joined us.
+[0:20:02] Chris, we're just saying our name and if
+[0:20:04] we're BAC member, what our role is
+[0:20:06] tonight.
+[0:20:07] >> Yeah. Hi, Chris Pson, new BAC member.
+[0:20:10] Glad to be here. Sorry for the invite
+[0:20:12] everyone as you speak.
+[0:20:13] >> And I actually actually Greg, I
+[0:20:15] apologize. I forgot to introduce our
+[0:20:17] most important consultant that is with
+[0:20:19] us right now, Jennifer Edgars with Homes
+[0:20:22] Engineering. So
+[0:20:24] >> everybody, thanks to be uh thanks to for
+[0:20:26] having me here. Um, also wanted to
+[0:20:28] mention that Eddie Richtor is joining us
+[0:20:30] as well from homes.
+[0:20:32] >> Okay,
+[0:20:34] >> we got a full house tonight. So, thank
+[0:20:35] you everyone. Um, I'm just gonna couple
+[0:20:39] notes here before we get started since
+[0:20:41] we have some new members. And just a
+[0:20:43] reminder to everyone, our role is really
+[0:20:45] at the 30,000 foot level. We don't get
+[0:20:47] into the real details. We don't get into
+[0:20:49] the design details or the consultant
+[0:20:51] selection or the contractor selection.
+[0:20:53] We're really bringing our expertise to
+[0:20:56] bear and looking at the risks that might
+[0:20:58] be there, particularly those in the
+[0:21:00] field. You know, what you're seeing in
+[0:21:01] your industry and how we're playing out
+[0:21:03] in ours.
+[0:21:05] A and one last thing, um, as you read
+[0:21:07] the material, you may have questions,
+[0:21:11] uh, as you look at it. Um, what would be
+[0:21:13] appreciative, particular if they're
+[0:21:14] tough questions, is that you send a note
+[0:21:16] to the staff beforehand so that they can
+[0:21:18] do the research so that we can get
+[0:21:20] thoughtful answers here at our meeting.
+[0:21:22] that will help us do a better job. We're
+[0:21:24] not really here to play gotcha. We're
+[0:21:26] really here to get answers so that we
+[0:21:27] can provide some help to the uh the
+[0:21:30] school board there.
+[0:21:33] And with that, let's get see. We did
+[0:21:36] introduction. Let's get started. Uh
+[0:21:38] public comment
+[0:21:40] I guess is is Patrick just going to
+[0:21:42] mention we did receive a letter.
+[0:21:46] >> Um I'm just gonna interrupt really
+[0:21:48] quick. I know I'm not a BAC member or
+[0:21:50] staff. I'm sort of I guess in between.
+[0:21:52] Um I'm Christy Split. I'm on the school
+[0:21:54] board. I'm your liaison. I have to take
+[0:21:56] somebody to dance class and then I'll be
+[0:21:57] like in a car and then home. Um but I'll
+[0:22:01] be listening the whole time. And if
+[0:22:02] anybody needs me or has questions for
+[0:22:04] the board, just know that I'm here.
+[0:22:05] Sorry for not speaking up during intros.
+[0:22:08] I just didn't know where I fit.
+[0:22:10] >> No, thank you uh and thanks for giving
+[0:22:13] us your time to participate with us.
+[0:22:16] >> Yeah. No, I'm grateful to be here. We
+[0:22:18] just couldn't um muster up a grandparent
+[0:22:20] for dance class. Thanks.
+[0:22:22] >> I understood. Understood.
+[0:22:25] >> Uh okay. So, we did get one public
+[0:22:28] comment. Um
+[0:22:31] >> Liz, what should we
+[0:22:33] >> It's I think we circulated it, Greg. Um
+[0:22:36] it was a written public comment and Liz,
+[0:22:38] actually, if you want to um
+[0:22:41] >> I think generally written comment can
+[0:22:42] come in at any time. So it just gets
+[0:22:44] circulated to board uh to committee
+[0:22:46] members and if there is anyone signed up
+[0:22:49] for live public comment. I think that's
+[0:22:52] what you would turn to next.
+[0:22:54] >> Patrick, do we have anybody signed up
+[0:22:56] for live live comment?
+[0:22:58] >> Uh no, I was not notified of any live
+[0:23:00] comments and I don't see anyone uh
+[0:23:02] attending either.
+[0:23:04] >> Okay. Thank you.
+[0:23:07] >> All right. With that then I'll turn it
+[0:23:09] over to we're going to do our we're
+[0:23:10] going to do a seismic update.
+[0:23:15] Yes, thank you. Thank you everyone. Uh
+[0:23:18] we are thrilled to be here tonight. Um
+[0:23:20] this is going to be if you were actually
+[0:23:23] in attendance at the March or tuned in
+[0:23:26] to the March 10th B uh board of
+[0:23:29] education meeting, this um this
+[0:23:32] presentation is the same um seismic
+[0:23:34] presentation that we presented to the
+[0:23:36] board of education. Um next, I don't
+[0:23:40] know who's running the slideshow. I
+[0:23:41] apologize.
+[0:23:42] >> Yeah, I if there's any way that um I
+[0:23:45] could share just so I can kind of zoom
+[0:23:48] in on slides, that might be helpful. But
+[0:23:50] no worries if not.
+[0:23:51] >> Yeah, give me one second to stop sharing
+[0:23:54] my screen.
+[0:23:58] >> Here we go.
+[0:23:59] >> Okay.
+[0:23:59] >> Thanks, Jennifer.
+[0:24:01] >> Sure.
+[0:24:01] >> And thank you, Patrick.
+[0:24:04] >> Okay, I think it's clicking over.
+[0:24:09] Can you see that? Okay. just my own.
+[0:24:12] >> All right, perfect.
+[0:24:17] On one second. Sorry.
+[0:24:20] Okay, so what we're going to cover
+[0:24:22] tonight is um kind of a look back on
+[0:24:25] what we've accomplished within the
+[0:24:26] district since the 2012 bond. um the
+[0:24:29] framework that the district has um uh
+[0:24:33] put together for the prioritization um
+[0:24:36] of the schools um that are currently um
+[0:24:39] listed for uh either complete seismic
+[0:24:42] retrofit or um smaller projects. Um
+[0:24:46] outline future scope of work planned by
+[0:24:48] campus and then outline some additional
+[0:24:50] next steps.
+[0:24:56] So everything that we are approaching
+[0:24:58] and andor defining um with our
+[0:25:02] calculation and metric that we put
+[0:25:04] together as a district is it starts with
+[0:25:07] this resolution 7109. I am not going to
+[0:25:10] read it. I because it is in the reading
+[0:25:13] reading material, but I just want to
+[0:25:16] thank the voters in the community for
+[0:25:18] actually um you know putting this in our
+[0:25:20] bond program so where we can um do these
+[0:25:23] seismic upgrades within our campuses.
+[0:25:26] And also to kind of, you know,
+[0:25:28] reiterate, the board has indicated, you
+[0:25:30] know, it's it's a hund00 million dollars
+[0:25:32] of budget um savings from the
+[0:25:35] modernization projects that will be used
+[0:25:37] on um seismic projects up to 8 to 10
+[0:25:40] schools. So that's kind of the the
+[0:25:43] general resolution that was provided.
+[0:25:50] Um this is just a look back over the
+[0:25:52] work that we've already done within the
+[0:25:54] district. Currently, we have 34 title
+[0:25:56] one schools in the district. Of the 34
+[0:25:59] schools with the 2012, 2017, and 2020
+[0:26:02] bond, we have touched 21 of them for
+[0:26:06] partial or complete roof level seismic
+[0:26:09] reef retrofits. Of the remaining 13
+[0:26:12] Title One schools not yet touched for
+[0:26:15] seismic work, four of them have a risk
+[0:26:18] level of nine or higher, which is one of
+[0:26:21] the one of the criterias in our matrix.
+[0:26:24] Um, title designations also change based
+[0:26:26] on student population and with the
+[0:26:28] current right sizing conversation, we
+[0:26:30] envision that title designations will
+[0:26:32] change um, over the coming years. Um,
+[0:26:35] this slide shows schools that we have
+[0:26:38] completed seismic work on and that have
+[0:26:41] been titled for at least the past five
+[0:26:43] years. And so that is the T designation
+[0:26:46] that you see on the slide.
+[0:26:48] >> Sarah, what's title one?
+[0:26:50] that are title twos and threes or
+[0:26:53] >> uh Liz or does somebody want to I don't
+[0:26:56] have that qu I actually can't say the
+[0:26:58] definition of a title one
+[0:27:00] >> generally it goes to socioeconomic
+[0:27:02] >> that's what I was
+[0:27:03] >> so you think about
+[0:27:06] >> district identifi the school district
+[0:27:08] identified those titles or not a a state
+[0:27:10] thing
+[0:27:10] >> it's a my understanding is that it's and
+[0:27:13] this is a this is a directional answer
+[0:27:15] not a technical answer chair but it's um
+[0:27:19] it's a federal ederal standard. We work
+[0:27:21] with the state. So we we get when we're
+[0:27:24] thinking about direct certification for
+[0:27:25] free and reduced lunch like those um
+[0:27:29] tend to be uh those demographics are
+[0:27:32] identified for us by the state often.
+[0:27:34] And um again I'm going to give you a
+[0:27:36] directional answer not a technical
+[0:27:38] answer but that's uh title one is uh
+[0:27:41] socioeconomic status mostly
+[0:27:44] >> and it looks like it is designated by
+[0:27:46] the the department of education whether
+[0:27:50] that be state and or federal.
+[0:27:53] >> Well it's a title one is a federal
+[0:27:55] >> federal federal federal statute but some
+[0:27:58] of the qualifications and administration
+[0:27:59] of that happens through the state. So,
+[0:28:01] that's where we get our information, but
+[0:28:02] it's it it begins at the federal
+[0:28:04] government.
+[0:28:04] >> Yep. Sorry, you don't have that you
+[0:28:06] don't have the uh I don't have the
+[0:28:08] curriculum people on, Greg. Sorry about
+[0:28:10] that, but we can we're happy to follow
+[0:28:11] up with additional information regarding
+[0:28:13] Title One.
+[0:28:15] >> Thank you.
+[0:28:18] Um uh this slide is a map um is a map of
+[0:28:22] all of our seismic work that we have
+[0:28:24] completed or um in the process of
+[0:28:27] completing or undergoing plan to address
+[0:28:30] in the future across the district since
+[0:28:32] 2012. Um as you can see we've done
+[0:28:35] seismic work across the district since
+[0:28:37] 2012. Um
+[0:28:42] >> and touched uh 75 of our campuses.
+[0:28:46] um that um have been or will have some
+[0:28:49] seismic work completed.
+[0:28:51] I didn't know Jennifer, did you want to
+[0:28:53] add anything to this slide at all? I
+[0:28:55] just want to make sure.
+[0:28:56] >> That was the the those are the main
+[0:28:58] points. Sarah, I just add that the green
+[0:29:01] check marks are those that are kind of
+[0:29:03] considered done. They're replaced or
+[0:29:05] retrofitted or extremely lowrisisk
+[0:29:07] schools. And it it's kind of interesting
+[0:29:09] to see how they're spread around
+[0:29:11] Portland. Um and to see the current um
+[0:29:16] projects, the bond seismic work um and
+[0:29:20] the current roof projects with expanded
+[0:29:23] seismic scope are the um purple star
+[0:29:26] circles.
+[0:29:27] >> Yep.
+[0:29:32] >> So then our next slide is the title one
+[0:29:35] over the past five years um with the
+[0:29:38] same kind of key designations. Jennifer,
+[0:29:40] if I'm correct on this one, right?
+[0:29:43] >> Yeah.
+[0:29:43] >> Kind of showing across the districts how
+[0:29:45] we focused on retrofit replacement. Um
+[0:29:48] work is high and um we can also see
+[0:29:51] where we um it's distributed all the all
+[0:29:54] across the district. Um and it also incl
+[0:29:58] uh includes current roofs and expanded
+[0:30:00] seismic scopes as well. So,
+[0:30:07] so coming up with the seismic
+[0:30:09] prioritization formula was not a one
+[0:30:13] one-step process. This was actually a
+[0:30:15] process of months of of work uh with um
+[0:30:19] homes engineering. We went through
+[0:30:21] several iterations before settling on
+[0:30:24] the recommended formula. This this is a
+[0:30:27] very difficult process and we were very
+[0:30:29] grateful um to have the expertise that
+[0:30:32] we had with us um for to to come to this
+[0:30:37] conclusion. Um the $und00 million for
+[0:30:40] seismic is set to come um about through
+[0:30:43] savings from the modernizations. The
+[0:30:45] list of schools um targeted for seismic
+[0:30:48] improvements will be funded through the
+[0:30:50] 2025 bond.
+[0:30:52] It is important to note let's see that
+[0:30:55] this um that this will be will also
+[0:31:00] oh let me read this for yeah it's
+[0:31:03] important to note that this work will
+[0:31:05] with the board to develop this capital
+[0:31:08] plan to improve with unspent funds um
+[0:31:11] from previous bonds. So if we have some
+[0:31:13] unspent funds that we are able to
+[0:31:15] recognize within previous bond programs
+[0:31:18] um because we had we have had seismic on
+[0:31:20] every single bond program that has
+[0:31:21] passed within the district we are able
+[0:31:23] to possibly um identify additional
+[0:31:26] seismic um projects that we can focus
+[0:31:28] on. The formula is based on um 90% risk
+[0:31:32] assessment based on the home seismic
+[0:31:34] safety assessment that was performed by
+[0:31:37] homes engineering. 5% was based was
+[0:31:41] based on deferred maintenance which
+[0:31:43] includes scoring based on the CSI TSI
+[0:31:46] designation which is part of the
+[0:31:48] facility condition index of all of our
+[0:31:50] buildings and then 5% is based on
+[0:31:53] enrollment giving that we will be
+[0:31:55] engaging in right in the right sizing
+[0:31:57] conversation we did not want to include
+[0:31:59] schools with an enrollment of less than
+[0:32:01] 300 students
+[0:32:10] Do you want to take this one? Um,
+[0:32:12] >> I'll take this one, Sarah. Okay.
+[0:32:14] >> Um, so we've been talking about the
+[0:32:18] general seismic approach. Um and the
+[0:32:20] approach we landed on um with good
+[0:32:23] direction from the board was a hybrid
+[0:32:26] approach so that we would be targeting
+[0:32:29] um a few schools where we can do a full
+[0:32:32] campus retrofit. Um and and and I'm
+[0:32:35] going to go school by school so you'll
+[0:32:36] get to see why we did full retrofits in
+[0:32:39] some places and why not in other places.
+[0:32:41] Um so there are two schools two campuses
+[0:32:44] that we have full retrofits and then the
+[0:32:47] rest of the campuses are targeted
+[0:32:48] upgrades. And this the intention behind
+[0:32:51] that is to address the highest risk
+[0:32:55] building parts
+[0:32:56] at each campus um and not necessarily
+[0:33:00] spend money on lowrisk parts at that
+[0:33:04] same campus. Um so I'll just dive into
+[0:33:08] it. Feel feel free to interrupt me if
+[0:33:10] you have questions um as we go. I'm
+[0:33:14] happy to to I could talk about these for
+[0:33:16] hours. So, but I won't.
+[0:33:19] Um, I'll save you. Um, Jonathan has a
+[0:33:23] question.
+[0:33:23] >> I was going to say Jonathan has a
+[0:33:25] question.
+[0:33:25] >> I was just about to ask whether I saved
+[0:33:27] them for the end when you said go ahead
+[0:33:28] and ask. So, um, go ahead.
+[0:33:30] >> Certainly not intended as a gotcha
+[0:33:32] question. Um, I I just am curious as we
+[0:33:34] talk about previous work and um maybe
+[0:33:39] some targeted retrofits. Is there a
+[0:33:41] single metric
+[0:33:44] that is the goal in terms of seismic
+[0:33:47] performance after a major event that's
+[0:33:51] consistent across this entire
+[0:33:53] conversation?
+[0:33:56] >> Yeah. And and maybe you're asking in
+[0:33:58] terms of like what's our targeted risk
+[0:34:00] score that we would be happy with as a
+[0:34:03] district. Um
+[0:34:05] >> basically yes. I mean, I I what I'm
+[0:34:07] carrying around in my head is this lay
+[0:34:09] person's notion that like when we're
+[0:34:11] doing the, you know, new high schools,
+[0:34:12] we're building to a level of seismic
+[0:34:14] performance that like even after a major
+[0:34:17] subduction earthquake, like that
+[0:34:20] building could be used for its intended
+[0:34:22] purpose like right afterwards. It's
+[0:34:24] really resilient. And you know, in the
+[0:34:27] world that I'm in in multif family
+[0:34:28] housing, it's more about like, you know,
+[0:34:30] this is unreinforced masonry. Let's just
+[0:34:32] make it to the point where there's safe
+[0:34:33] egress and people are less likely to get
+[0:34:35] injured. So that that's what I'm getting
+[0:34:37] at.
+[0:34:39] Score that that boils all that down.
+[0:34:41] >> Um, no, it's better to talk about it in
+[0:34:44] terms of what what these buildings have
+[0:34:46] been designed for in their retrofit and
+[0:34:48] what they are planning on being designed
+[0:34:50] for in the retrofit. So typically the
+[0:34:53] retrofit is to risk category 3, which is
+[0:34:57] halfway between like your residential
+[0:35:00] project and an operational hospital. So,
+[0:35:04] the intention is to safely eress um not
+[0:35:09] necessarily to be able to reoccupy it
+[0:35:12] right away, but it's certainly a higher
+[0:35:14] standard than an office building, which
+[0:35:17] most of our buildings and our building
+[0:35:19] stock is risk category 2. So, it's
+[0:35:21] certainly higher, not necessarily
+[0:35:23] operational. We are applying for grants
+[0:35:28] through the state of Oregon seismic
+[0:35:31] rehabilitation grant program. And one of
+[0:35:33] the requirements of that grant program
+[0:35:35] is to design the seismic upgrade to be
+[0:35:38] risk category 4 which is higher than
+[0:35:42] three. Um it is closer to a hospital.
+[0:35:46] I'm not saying operational because there
+[0:35:48] are nuances with equipment testing being
+[0:35:51] able to up and run. But you the
+[0:35:54] intention is that you can house people
+[0:35:56] for an emer as emergency shelter after a
+[0:35:59] seismic event because the structure will
+[0:36:02] be occupiable. You might not have all
+[0:36:04] the plumbing working and all the
+[0:36:06] mechanical systems equipment still
+[0:36:08] working. Um so those are our targets.
+[0:36:12] Um, and when I when I go through slide
+[0:36:14] by slide, I'll let you know which
+[0:36:17] building we're targeting for immediate
+[0:36:19] occupancy, which is that risk category
+[0:36:22] 4, um, versus our, um, what's what is
+[0:36:27] expected for schools, which is risk
+[0:36:30] category three. Um, and [clears throat]
+[0:36:32] there and there is a cost delta between
+[0:36:34] three and four, and that changes from
+[0:36:36] case to case, school by school. So,
+[0:36:38] there's been some thought put into which
+[0:36:41] ones make sense to do immediate
+[0:36:43] occupancy to apply for the grant.
+[0:36:46] >> Thank you.
+[0:36:46] >> That answers your question.
+[0:36:47] >> Yes, that's really helpful. Appreciate
+[0:36:49] that.
+[0:36:49] >> Okay, sure. Uh Chris,
+[0:36:52] >> yeah, thank you. Um just a quick
+[0:36:54] question. I know Marshall will have 300
+[0:36:58] students for the next few years because
+[0:36:59] it's the swing site for Cleveland during
+[0:37:01] the the remodel or the the project. Um,
+[0:37:05] but I'm just curious what the future
+[0:37:08] expectation is for use of Marshall and
+[0:37:10] how that plays into your thinking on
+[0:37:12] seismic prioritization for work there.
+[0:37:15] >> So Marshall is a so Marshall is a it's
+[0:37:19] already targeted to have a re-roof this
+[0:37:21] summer and so while we're there able to
+[0:37:23] re- roof, we are doing some um um
+[0:37:26] targeted seismic upgrades because it
+[0:37:28] just makes sense to do that. And overall
+[0:37:31] within the PPS portfolio, Marshall will
+[0:37:33] continue to be a swing site as we bring
+[0:37:36] other as we have other campuses that
+[0:37:38] we're having to do total seismic
+[0:37:40] retrofits on. So that is why and it and
+[0:37:43] by the way, Marshall is also being
+[0:37:44] funded by the 2017 bond program. So,
+[0:37:47] it's it's not dipping into the 2025 bond
+[0:37:50] program, but it it makes sense that
+[0:37:53] while we're there re-roofing that
+[0:37:55] project, while Cleveland is there for
+[0:37:56] the next two and a half years, that we
+[0:37:58] take care of the uh point um targeted
+[0:38:01] seismic upgrades at the same time.
+[0:38:06] >> Quick question. Um Sarah, you mentioned
+[0:38:08] 100 million allocated for the seismic
+[0:38:11] upgrades. In conjunction with that, you
+[0:38:12] mentioned savings from modernizations.
+[0:38:14] So could you clarify does the savings
+[0:38:16] for modernizations in addition to the
+[0:38:18] hundred million? No, it actually that is
+[0:38:21] how the hundred million is actually
+[0:38:22] okay.
+[0:38:23] >> That's how we get the hundred million,
+[0:38:24] right? So the board kind of approved
+[0:38:26] comprehensive plans of the
+[0:38:28] modernizations and what happens is as we
+[0:38:30] work through that process and through
+[0:38:32] budgeting that money that is kind of was
+[0:38:34] allocated for uh modernizations that we
+[0:38:36] were able to save, that money goes into
+[0:38:38] the hundred million that we're able to
+[0:38:40] then um put into seismic.
+[0:38:42] >> Okay. How are the savings for
+[0:38:44] modernizations? How's that?
+[0:38:45] >> We're we're tracking. We're doing okay.
+[0:38:47] We're doing okay. We're right in line.
+[0:38:49] We're right in line with the um
+[0:38:51] comprehensive plans as far as budgeting.
+[0:38:53] So, we we're we're looking really good.
+[0:38:55] >> Great. Thank you.
+[0:38:56] >> Yep.
+[0:38:59] >> Okay. I can't see everybody. I assume if
+[0:39:02] there's a hand, it'll pop up on who I
+[0:39:04] get to see. So, just let me know if I'm
+[0:39:05] missing something.
+[0:39:06] >> I'll help I'll help you, Jennifer. I'll
+[0:39:08] help you.
+[0:39:08] >> Okay. Thanks, Sarah. Um okay, so here
+[0:39:11] here are the list of schools. Um the
+[0:39:14] comprehensive campus retrofits. So that
+[0:39:17] means we're addressing the entire campus
+[0:39:19] while we're on site are Beverly Clary
+[0:39:22] Fernwood and Rose City Park. Um the
+[0:39:26] targeted retrofits are Ainssworth,
+[0:39:28] Beach, Capitol Hill, Kelly, Richmond. Um
+[0:39:34] and then you'll see the title 1A within
+[0:39:36] the last 5 years schools are designated
+[0:39:38] with the T. um in Vernon and Winter
+[0:39:41] Haven are also targeted retrofits, but I
+[0:39:44] note that those are both being funded
+[0:39:45] out of um 2020 bond remaining funds. Um
+[0:39:51] the 2026 roof projects, the scope has
+[0:39:54] been expanded um since the focus has
+[0:39:58] been on seismic to include non some non
+[0:40:01] roof level seismic work at Chavez
+[0:40:04] Marshall Vestal and Woodmir and I'll go
+[0:40:06] over what that scope is as well. Um, and
+[0:40:10] as Sarah noted, those are being funded
+[0:40:12] out of the 2017 bond. Um, and again, the
+[0:40:16] targeted retrofits targets the high risk
+[0:40:18] scores for building parts andor reducing
+[0:40:21] localized collapse hazards from
+[0:40:23] unreinforced masonry walls. Um, so I'm
+[0:40:26] just going to dive in school by school.
+[0:40:28] So our first
+[0:40:29] >> Oh, Jennifer, I was just going to add
+[0:40:31] that our complete and to and you may say
+[0:40:32] this on this slide and I apologize. our
+[0:40:34] total retrofits that that Jennifer is
+[0:40:36] about to run through. These are the
+[0:40:38] campuses that we will have to swing. So
+[0:40:40] Beverly Clearary and Fernwood is our
+[0:40:42] first one on deck. So they they will
+[0:40:45] actually swing the school year 2728.
+[0:40:48] So we are in the process of doing
+[0:40:50] feasibility studies with our campuses to
+[0:40:53] identify swing space um to swing Fern um
+[0:40:56] Beverly Clearary Fernwood. And then the
+[0:40:58] 20 and as soon as they it's a 14-month
+[0:41:00] schedule. So then as soon as they kind
+[0:41:02] of move back in, we then go into the 28
+[0:41:05] 29 school year with um Rose City Park,
+[0:41:08] which will also have to swing for 14
+[0:41:10] months. So I just wanted to let the
+[0:41:12] committee know about that as well.
+[0:41:16] >> Thank you, Sarah.
+[0:41:19] >> Neither of those would um overlap with
+[0:41:21] availability of Marshall. So,
+[0:41:24] >> it would not they're they're actually
+[0:41:26] they're the Marshall is occupied until
+[0:41:29] um the summer of 29. So, we're actually
+[0:41:33] getting all of this work done kind of uh
+[0:41:35] concurrently. So, uh no, they would not
+[0:41:38] be able to swing to Marshall.
+[0:41:40] >> But are there other schools in the
+[0:41:41] future that will need to swing to
+[0:41:43] Marshall after the summer of 29
+[0:41:45] >> as we identify uh more programs that are
+[0:41:48] going to come on board for seismic? Yes.
+[0:41:50] >> Okay.
+[0:41:51] >> We don't have that list yet, Chris.
+[0:41:53] Okay.
+[0:41:57] >> Um, okay. So, um, I'm going to dive in
+[0:42:00] and geek out a little bit on structural
+[0:42:02] systems. So, again, feel free to ask
+[0:42:05] questions as we go. Um, so this is
+[0:42:08] Beverly Clearary. Um, again, we're doing
+[0:42:10] a full campus retrofit. Um, the history
+[0:42:13] of this building, it was originally
+[0:42:15] started in 1911 under phase
+[0:42:18] construction. Um, built through the 20s.
+[0:42:22] Um for the the older part of the
+[0:42:24] building there was a small addition in
+[0:42:26] the 50s and then a larger addition in
+[0:42:28] the 70s. The structural system for the
+[0:42:31] oldest portion of the building is
+[0:42:33] unreinforced masonry walls which is our
+[0:42:36] highest um seismic vulnerability um
+[0:42:39] along the west coast. Um and these walls
+[0:42:43] support heavy concrete floors that use
+[0:42:47] unreinforced masonry as formwork which
+[0:42:50] are falling hazards. um during a seismic
+[0:42:52] event. So you have really heavy floors
+[0:42:55] supported by unreinforced masonry walls.
+[0:42:57] Um so it bubbled up to be a pretty high
+[0:43:00] seismic score. Um in the 70s edition, we
+[0:43:04] have concrete holocore planks that rest
+[0:43:08] on reinforced CMU walls. So it's
+[0:43:11] important that we retrofit connections
+[0:43:13] there as well. Um so you'll see that the
+[0:43:17] risk scores in this table are pretty
+[0:43:20] high. These diamonds are for
+[0:43:21] unreinforced masonry. Um, this shape is
+[0:43:24] for the concrete addition. Um, and then
+[0:43:26] so all these scores will be dro dropping
+[0:43:29] down once the retrofit is done. We are
+[0:43:31] applying for an SRGP grant for this
+[0:43:34] project. Um, we should be hearing in the
+[0:43:37] next month or so if that was awarded. So
+[0:43:39] that provides an additional $2.5 million
+[0:43:41] of funding for this campus um to be
+[0:43:44] used. Um, so this, as Sarah mentioned,
+[0:43:47] construction will be continuous summer
+[0:43:50] 2027 through summer 2028. Um, and this
+[0:43:53] one's funded by 2025 bond money.
+[0:43:57] Uh, Rose City Park is the next full
+[0:44:00] campus. So similarly um um early 1900's
+[0:44:07] building through 1935
+[0:44:09] a very similar system unreinforced
+[0:44:12] masonry um supporting heavy concrete
+[0:44:15] floors. Um
+[0:44:17] you can see here the risk scores are are
+[0:44:20] pretty high for the majority of the
+[0:44:22] building. Um so we're doing a full
+[0:44:25] campus retrofit to address all the urm
+[0:44:27] on campus. um summer 2028 through summer
+[0:44:31] 2029 will be when construction is
+[0:44:34] happening. So this campus is staggered a
+[0:44:36] year from Fernwood Beverly Clearary.
+[0:44:41] Um Ainsworth is when we start zooming in
+[0:44:44] on targeted approaches. Um so we are
+[0:44:48] targeting building G and building B. Um,
+[0:44:51] building G is a classroom building that
+[0:44:54] is supported by an unreinforced masonry
+[0:44:57] wall built on top of an original
+[0:44:58] retaining wall. Um, so again, there's a
+[0:45:02] load loadbearing um, collapse hazard
+[0:45:04] there. Building B is a gymnasium that is
+[0:45:07] also unreinforced masonry walls um,
+[0:45:11] supporting a high occupancy area. This
+[0:45:14] was a really great candidate for the
+[0:45:17] same SRGP
+[0:45:19] um, grant. So, we applied for a grant
+[0:45:21] for building B and building G combined.
+[0:45:24] Um, so um um it's it's not very common
+[0:45:29] for a district to get two grants in the
+[0:45:31] same year, but we are trying for it. Um
+[0:45:34] so, um that that's another opportunity
+[0:45:36] there as well.
+[0:45:40] Um, Beach is another um, campus that
+[0:45:44] we're looking at and this is where we're
+[0:45:46] zooming in a little bit deeper to where
+[0:45:48] we're addressing certain areas of the
+[0:45:51] building, certain walls of the building.
+[0:45:53] So, um, Beach has a couple of stairs
+[0:45:55] that are highlighted in red here that
+[0:45:58] are supported by, um, not typical
+[0:46:00] unreinforced masonry where you see the
+[0:46:03] red brick, but these are supported by
+[0:46:05] hollow clay tile, um, walls with a brick
+[0:46:08] veneer with gaps between the brick
+[0:46:11] layers. So, it's an even higher risk
+[0:46:13] than a typical um, unreinforced masonry.
+[0:46:17] Um so this is supporting the egress
+[0:46:21] stairs um supporting the roof above
+[0:46:23] egress stairs. So we will be addressing
+[0:46:26] um these walls during this retrofit. The
+[0:46:29] construction for this project will
+[0:46:30] happen summer 2027 and summer 2028 and
+[0:46:33] funded by 2025 bond
+[0:46:37] Capitol Hill. Um I should have noted but
+[0:46:42] the red highlights are areas of
+[0:46:44] unreinforced masonry. Um, so we are
+[0:46:47] targeting unreinforced masonry portions
+[0:46:50] of Capitol Hill along with building F,
+[0:46:53] which isn't unreinforced masonry, but
+[0:46:55] it's a very high-risk building part. Um,
+[0:46:58] so we wanted to address all the
+[0:47:00] high-risisk building areas on campus.
+[0:47:02] Um, so we'll be addressing all of these
+[0:47:04] higher risk areas. So to dropping the
+[0:47:07] risk score down and then we'll bring the
+[0:47:09] total average score down for the
+[0:47:12] building. Um, building A is a woodframe
+[0:47:15] singlestory building, so you would think
+[0:47:17] it would be pretty low risk, but it's
+[0:47:19] supported by hollow clay tile
+[0:47:21] foundations. Um, so we'll be replacing
+[0:47:24] those with concrete foundation system.
+[0:47:26] Um, this is one of the unreinforced
+[0:47:28] masonry wall portions here where it's
+[0:47:30] unreinforced masonry wall supporting the
+[0:47:32] roof.
+[0:47:36] Um, Kelly. So Kelly is majority
+[0:47:40] woodframe lowrisk score. So most of the
+[0:47:43] building parts are hovering here. We
+[0:47:45] have two unreinforced masonry portions.
+[0:47:48] Um one of which is the gymnasium. So
+[0:47:51] high occupancy area um with unreinforced
+[0:47:54] masonry used for some gravity and the
+[0:47:57] lateral system. So we'll be addressing
+[0:48:00] the um the URM at Kelly as well.
+[0:48:05] Um, and I should note this one is
+[0:48:07] planned for summer 2027 construction
+[0:48:09] 2025 bond. Um, Richmond. So, we will be
+[0:48:14] addressing building A um and a portion
+[0:48:17] of building C.
+[0:48:19] Um, again, building A is unreinforced
+[0:48:23] masonry. Um, the lower floor is
+[0:48:27] unreinforced masonry and then the upper
+[0:48:29] two floors are woodframed. Um so you can
+[0:48:32] see here an image in that lower floor of
+[0:48:36] just masonry. Um it's a it's a high
+[0:48:39] collapse hazard. Um the score here is
+[0:48:42] 7.8 and that's mainly because it's
+[0:48:45] ratioed by two two floors of wood frame
+[0:48:48] and one floor of unreinforced masonry.
+[0:48:50] But once we address the unreinforced
+[0:48:52] masonry um we'll be able to drop that
+[0:48:54] score significantly.
+[0:48:57] Um the area in building C that we're
+[0:48:59] addressing is underneath the stage. Um
+[0:49:02] so it's pretty low hanging fruit. Let's
+[0:49:03] just take care of all URM while we're on
+[0:49:05] campus. So that'll happen summer 2027
+[0:49:08] and 2028 um 2025 bond.
+[0:49:12] Vernon um is a project that is already
+[0:49:16] out for bid. Um the construction
+[0:49:19] documents have been submitted for
+[0:49:21] permit. Um it's a concrete um building
+[0:49:26] with a couple of loadbearing
+[0:49:28] unreinforced masonry walls in the
+[0:49:30] high-risk high occupancy gymnasium. So
+[0:49:34] we are going in and we're adding
+[0:49:36] concrete shear walls and secondary
+[0:49:39] gravity supports for um this high-risk
+[0:49:42] area. So then this portion, these
+[0:49:45] unreinforced masonry walls will be
+[0:49:47] addressed and then we won't have
+[0:49:48] unreinforced masonry on campus anymore.
+[0:49:53] Similarly for Winterhaven, Winter Haven
+[0:49:56] um in the gymnasium in this red portion
+[0:49:58] of the building we have um two main
+[0:50:02] walls that are unreinforced masonry and
+[0:50:04] it wraps the corner here a little bit.
+[0:50:06] Um so you can see here the typical
+[0:50:08] building is concrete um and then those
+[0:50:11] those few walls are unreinforced
+[0:50:13] masonry. So again, we're overlaying the
+[0:50:16] URM here with a concrete shear wall that
+[0:50:19] provides new lateral and secondary
+[0:50:21] gravity support for this high occupancy
+[0:50:23] area. Um both Vernon and Winterhaven
+[0:50:26] construction will happen this summer. Um
+[0:50:29] and those are both funded by the 2020
+[0:50:31] bond.
+[0:50:33] Okay, so now popping into the current
+[0:50:35] roof projects where we added seismic. So
+[0:50:38] I won't go into all of the seismic that
+[0:50:40] we're doing at the roof. Um but we're
+[0:50:43] doing the typical seismic at all these
+[0:50:44] roof bracing parapits. Um strengthening
+[0:50:47] the roof level for seismic to prep for
+[0:50:49] future retrofits to be continued below
+[0:50:52] roof. Um the added seismic at Chavez is
+[0:50:56] to address the u falling hazards above
+[0:50:59] egress areas. So we have um masonry
+[0:51:01] veneer and some decorative stone work
+[0:51:04] that are falling hazards above egress.
+[0:51:06] So those are being braced and pinned
+[0:51:08] back.
+[0:51:11] Marshall. Um, again, we're addressing a
+[0:51:14] lot of seismic at the roof level. Um,
+[0:51:16] but a couple of um what we called
+[0:51:18] lowhanging fruit um items were brought
+[0:51:21] up during our assessment
+[0:51:24] um that were high-risk items that were
+[0:51:27] low cost to retrofit. the the element at
+[0:51:30] Marshall was um in a few of the
+[0:51:33] corridors we have a concrete slab
+[0:51:35] supporting supported on a corbal with
+[0:51:38] not much room for it to move during an
+[0:51:41] earthquake. So we're providing
+[0:51:42] additional gravity support so we won't
+[0:51:45] have a collapse hazard um during a
+[0:51:47] seismic event
+[0:51:49] dur in the corridors.
+[0:51:53] So um this is summer 2026 2017 bond
+[0:51:58] um vestal um so in addition to roof
+[0:52:01] seismic similar to winter haven in
+[0:52:03] Vernon we have some loadbearing urm
+[0:52:07] walls um in this portion of the building
+[0:52:10] that we will be providing a secondary
+[0:52:13] gravity support here to resupport the
+[0:52:15] floor um and then brace that wall for
+[0:52:17] out of plane seismic loads.
+[0:52:23] woodmere. We have unreinforced masonry
+[0:52:26] um around a number of the egress exits.
+[0:52:30] Um so we will be um bracing those back
+[0:52:33] to the roof structure as well.
+[0:52:38] And I'll pass it back to Sarah, but
+[0:52:40] happy to answer any questions about any
+[0:52:42] of the schools, too.
+[0:52:44] Yes. Nor go ahead.
+[0:52:47] Um,
+[0:52:48] I'm just curious, uh, for the 2026 ones
+[0:52:51] that I assume are probably under
+[0:52:53] contract, what's the response been from
+[0:52:55] the general contractor community
+[0:52:57] locally? I know this work is
+[0:52:58] specialized. It's messy. It's risky. I'm
+[0:53:01] just curious how that's going with
+[0:53:02] contracting.
+[0:53:03] >> Yeah, we've we've actually had really
+[0:53:05] good responses on all of these projects.
+[0:53:07] Um, we've had a pool of three to four
+[0:53:09] different uh actually, we're not too
+[0:53:11] contracting yet, I should say. I
+[0:53:13] apologize. We actually are in design for
+[0:53:15] these projects right now. So, but we do
+[0:53:17] have a couple of our contracts that have
+[0:53:19] been awarded uh for we have a couple
+[0:53:23] that are coming up May May 7th, but
+[0:53:26] we've had really really good responses.
+[0:53:27] We have three to four contractors on
+[0:53:29] each one of them. Um and so we still
+[0:53:32] have some contracts that are uh left to
+[0:53:34] be decided on. So, we've had good
+[0:53:35] feedback. Is
+[0:53:36] >> this
+[0:53:38] or bid?
+[0:53:39] >> Say that. I'm sorry, Norm. Say that.
+[0:53:41] >> CMGC or bid?
+[0:53:43] These are um
+[0:53:46] hard. Yeah, these are hard bids. So,
+[0:53:48] >> these are hard bid. Yeah,
+[0:53:50] >> the roofing projects with seismic we
+[0:53:52] have the contracting bids are complete
+[0:53:54] and um the contracts are executed for
+[0:53:57] that summer work. The seismic park parts
+[0:54:00] contracts are the ones that are coming
+[0:54:02] in on
+[0:54:02] >> construction bids are due on May 7th.
+[0:54:05] Yeah. So, our public contracting rules,
+[0:54:07] everything is hard bid on these
+[0:54:08] projects.
+[0:54:10] >> Thank you.
+[0:54:14] and Jonathan or Greg.
+[0:54:18] >> Um, so we have all these projects. Does
+[0:54:21] each one have its own individual budget
+[0:54:24] or is it just hund00 million?
+[0:54:28] Are we breaking these out where we see
+[0:54:29] how they com how they comply with our
+[0:54:31] budget?
+[0:54:33] >> Yeah, they
+[0:54:35] >> Oh, go ahead. Go ahead.
+[0:54:36] >> Um, they all have their individual
+[0:54:38] budget. Part of our seismic assessment
+[0:54:41] was that we put a I like to call it a
+[0:54:44] rough ROM, a rough rough order of
+[0:54:47] magnitude um pricing for these projects
+[0:54:51] um so we can have an idea of how they're
+[0:54:54] stacking up with the final um 100
+[0:54:57] million. So part of the programming of
+[0:54:59] selecting these schools was to select a
+[0:55:01] combination that addressed the highest
+[0:55:03] risk building parts elements or campuses
+[0:55:07] at PPS that totaled with considering
+[0:55:10] soft cost design fees um contingency
+[0:55:13] um would total around 100 million
+[0:55:16] >> and yeah
+[0:55:19] >> so the three that you're really redoing
+[0:55:21] the Beverly Clearly Thronwood and
+[0:55:23] whatever the other one was city
+[0:55:26] >> yeah Rose City So what is what the
+[0:55:28] what's the estimate on those
+[0:55:29] individually? Are they 30 million?
+[0:55:32] >> So I I can answer um Beverly clear. I
+[0:55:35] don't want to speak too soon because we
+[0:55:37] just got the schematic design cost
+[0:55:39] estimate in today
+[0:55:41] >> and we need to review it. Um but I'll
+[0:55:44] say it's around 20 million but it's it's
+[0:55:47] needs to be vetted and reviewed and it's
+[0:55:49] still very much in design. But it gives
+[0:55:51] you a sense of scale
+[0:55:52] >> which which by the way Greg just so you
+[0:55:54] know is a li it's again it's schematic
+[0:55:56] design so I wanna want to preface that
+[0:55:59] but it it it is it did come in under
+[0:56:01] what we put out for or what we were
+[0:56:03] thinking from a rough order of magnitude
+[0:56:05] budget. So uh that's that's positive but
+[0:56:08] of course we're only at schematics so uh
+[0:56:11] that will continue to uh we'll continue
+[0:56:13] to work that.
+[0:56:14] >> Okay thank you.
+[0:56:15] >> Yep Jonathan.
+[0:56:18] >> Yeah it's kind of in the same vein. So
+[0:56:19] that schematic design
+[0:56:22] costing that you have for Beverly
+[0:56:24] Clearary, we don't have a is it do I
+[0:56:27] have this right? There's not a general
+[0:56:28] contractor signed up for it yet. So
+[0:56:31] >> or Beverly Clearary, we actually have do
+[0:56:33] have a do we?
+[0:56:35] >> I don't think so.
+[0:56:36] >> Yes.
+[0:56:37] >> Okay. That was okay. So So not
+[0:56:40] everything's being hard bid then. So is
+[0:56:42] that is that the case that like the full
+[0:56:44] campus ones might be done in some
+[0:56:46] >> Yeah, the the full retro the full
+[0:56:48] retrofits are actually uh CMGC. So yeah,
+[0:56:52] they're not they are not lump sum. The
+[0:56:53] roof the roof work with the targeted
+[0:56:56] seismic upgrades are lump sum um lumpsum
+[0:56:59] bids.
+[0:57:00] >> Okay. So those those are kind So when
+[0:57:02] when you're getting pricing on um SD
+[0:57:06] drives, it's coming from a contractor.
+[0:57:08] Okay.
+[0:57:08] >> Correct. Yeah. Sorry.
+[0:57:10] >> I'm Beverly Clair. Okay, that's great to
+[0:57:11] know. And then the the other question in
+[0:57:14] a different vein is um
+[0:57:17] after this cluster of projects are done,
+[0:57:22] are there going to still be buildings in
+[0:57:25] the in the real estate portfolio that
+[0:57:27] have unreinforced masonry, loadbearing
+[0:57:30] walls, or some similar, you know,
+[0:57:33] collapse risk? or do these 10ish
+[0:57:37] projects get you, you know, get get us
+[0:57:40] over the hump with addressing that, you
+[0:57:41] know, that kind of unsaid condition
+[0:57:43] throughout the entire portfolio?
+[0:57:45] >> Yeah. Um, it it gets us a lot closer. It
+[0:57:49] doesn't it doesn't address every single
+[0:57:51] remaining unreinforced masonry wall in
+[0:57:54] PPS, but but we know what those are, and
+[0:57:57] then those are great to have
+[0:57:59] conversations about when more funding is
+[0:58:01] available um to bubble those up. Um but
+[0:58:04] we are certainly taking a big bite out
+[0:58:05] of it um dur during these projects. Um
+[0:58:09] and the and to clarify that the cost
+[0:58:11] estimate right now for Beverly Clearary
+[0:58:13] is by a cost estimator. So it'll be nice
+[0:58:15] when there's a contractor on board to do
+[0:58:18] a cost comparison too.
+[0:58:20] >> I think so. Yeah. Okay.
+[0:58:22] >> Okay.
+[0:58:23] >> Okay. So, but you do know who you're
+[0:58:24] working with or you don't know who
+[0:58:26] you're working with?
+[0:58:26] >> We're working with a cost estimator
+[0:58:28] right now. None of these have gone out
+[0:58:29] to con I didn't think the retrofits had
+[0:58:31] gone out to construction. I apologize.
+[0:58:32] I'm getting my I'm getting we have a lot
+[0:58:35] of contracts that we just got approved
+[0:58:37] in the last two months, Jonathan. So,
+[0:58:38] I'm going to openly apologize and I and
+[0:58:41] I had a board meeting last night that I
+[0:58:42] did this to and so I'm just open open
+[0:58:45] and honest. Just a lot of contracts to
+[0:58:47] keep uh keep up, but I'm happy to follow
+[0:58:49] up in writing on a couple of these
+[0:58:51] questions.
+[0:58:51] >> It's okay. I No, that's that's that's
+[0:58:54] fine. So, so the the alternative
+[0:58:57] findings and the whole process of
+[0:58:58] selecting CNGC contractors is is
+[0:59:01] upcoming
+[0:59:01] >> is upcoming. Exactly. For the for the
+[0:59:03] total retrofits. Yes. Because we're
+[0:59:05] still in design. Yeah.
+[0:59:06] >> Okay.
+[0:59:07] >> Yeah. So, we have some time for those.
+[0:59:09] >> Yeah. Chris, see your hand up.
+[0:59:13] >> Yeah. Thanks. And I think part of my
+[0:59:15] question might have been answered. Um so
+[0:59:18] the hundred million that's coming from
+[0:59:20] um previous bond issue bond measures
+[0:59:24] that has not been spent um is that going
+[0:59:27] to take care of the group that's on the
+[0:59:29] table now and any future retrofits is
+[0:59:31] the anticipation that you know obviously
+[0:59:33] 2025 bond just just you know was passed
+[0:59:37] so that hopefully additional savings on
+[0:59:41] those bond measures would then produce
+[0:59:43] additional funds for additional
+[0:59:44] retrofits is that's how this is hoping
+[0:59:45] to go and I guess 2020
+[0:59:48] as well.
+[0:59:49] >> So let me clarify a little bit. So no,
+[0:59:51] the 100 the 100 million that is
+[0:59:53] designated for the seismic retrofit is a
+[0:59:55] direct reflection of savings that we are
+[0:59:57] recognizing in the 2025 bond from the
+[1:00:00] modern modernized high schools. So that
+[1:00:02] is what is funding the current hund00
+[1:00:04] million in the 2025 bond. But we are
+[1:00:08] able this summer and some of the
+[1:00:10] projects that we we have identified that
+[1:00:12] are being paid for by the 2017 and 2020
+[1:00:14] bond are because we have remaining Thank
+[1:00:17] you, Jennifer. because we have remaining
+[1:00:19] dollars within those bond programs. And
+[1:00:21] so we're able to tackle a couple of
+[1:00:23] other targeted uh schools um with um
+[1:00:27] targeted seismic retrof or seismic um
+[1:00:30] upgrades. Uh also by kind of this
+[1:00:33] combination by the board's with the
+[1:00:35] board support of this hybrid approach we
+[1:00:38] are able to really bring down the
+[1:00:41] overall district seismic risk score as
+[1:00:44] well because of what we're able to
+[1:00:46] because of what we're able to accomplish
+[1:00:48] over the next couple of years with um
+[1:00:50] within these buildings.
+[1:00:53] >> I hope that answered I hope that
+[1:00:55] answered your question Chris.
+[1:00:57] Yeah, just adding on to that, we've also
+[1:00:59] in a few meetings talked about some
+[1:01:01] savings being likely on the ERP project.
+[1:01:04] Um, will that kind of be added into the
+[1:01:07] pot for seismic?
+[1:01:10] >> Yeah. So, so every everything on savings
+[1:01:13] what we will ultimately do is we will go
+[1:01:16] back to the bond language in which the
+[1:01:18] bond where the savings is identified and
+[1:01:20] then we will go to leadership with
+[1:01:21] options of how that savings will be
+[1:01:23] spent. And so we will bring with in
+[1:01:25] alignment with PPS um priorities, we
+[1:01:28] will provide those options and then
+[1:01:30] ultimately make decisions on how that
+[1:01:32] money will that savings will be spent in
+[1:01:34] the future.
+[1:01:38] >> Okay,
+[1:01:40] I think that Greg I think that's it
+[1:01:42] unless there's any other questions.
+[1:01:44] >> Great presentation. Thank you for for
+[1:01:47] providing that. I want everybody's no
+[1:01:50] hands are up. So, we're going to move to
+[1:01:52] the financial update. And I don't know
+[1:01:54] who's covering that for us.
+[1:01:58] >> Hi, this is Maya. I'm going to be
+[1:02:00] covering that for us today.
+[1:02:04] Um, and we can go to the next slide.
+[1:02:07] Great. So, this is our ALBO bond program
+[1:02:11] dashboard. Very high level.
+[1:02:15] Total funds 4.7 billion. And that
+[1:02:19] includes
+[1:02:21] um uh revenue from bond sales and
+[1:02:24] interest throughout the years as well as
+[1:02:26] what has been authorized on the bonds
+[1:02:28] spent to date 2.1 billion outstanding
+[1:02:31] encumbrance 1.82 million
+[1:02:35] available funds and this is calculated
+[1:02:38] as what is both unspent and
+[1:02:41] unencumbered.
+[1:02:42] So available to spend or to encumber um
+[1:02:46] as of April 1st so 2.3 billion and then
+[1:02:50] as a percentage 50%.
+[1:02:53] Got some detail below. Um and just to
+[1:02:56] reiterate it does state at the top but
+[1:02:59] this uh data is from Ebuilder which is
+[1:03:02] our program management platform. It was
+[1:03:05] pulled on April 1st and um we do
+[1:03:08] reconcile all of our data and expenses
+[1:03:11] to Peopleoft which is the district
+[1:03:12] district system of record every month.
+[1:03:18] All right. So drilling into the 2012
+[1:03:21] bond program
+[1:03:23] um you can see the uh snapshots below.
+[1:03:27] Um, we are very close to being spent
+[1:03:31] down on the 2012 bond and on the next
+[1:03:34] slide we can go into a bit more detail.
+[1:03:38] Um, so
+[1:03:41] I'll go ahead and define each of these
+[1:03:43] columns because we do have some changes
+[1:03:45] from last month um and the previous uh
+[1:03:49] templates that were used at the BAC
+[1:03:52] meetings. So I just want to explain uh
+[1:03:54] the differences that you'll see. So we
+[1:03:57] are including a bit more detail um as
+[1:04:00] had been requested last meeting uh just
+[1:04:03] to hopefully clarify um how all of these
+[1:04:06] values fit together. So specifically
+[1:04:09] you'll notice the bond funds actuals the
+[1:04:12] available which matches with the
+[1:04:14] available funds shown on the dashboard
+[1:04:17] and then the last two columns are the
+[1:04:19] forecast and then the variance to
+[1:04:21] forecast. So the other changes is we've
+[1:04:25] removed data regarding non-bond funds um
+[1:04:29] just because it's not really relevant
+[1:04:31] here.
+[1:04:33] Um and then just to go through each
+[1:04:36] column more specifically. So bond funds
+[1:04:39] is pretty self-explanatory. the amount
+[1:04:41] of funding, bond funding that each
+[1:04:44] either project if it's a modernization
+[1:04:46] or group of projects um has
+[1:04:50] actuals to date also self-explanatory
+[1:04:53] again that's a running total from
+[1:04:55] Ebuilder a snapshot as of April 1st
+[1:04:59] uh bond funds less actuals to date in
+[1:05:01] other words remaining funds unspent
+[1:05:04] funds additional encumbered meaning
+[1:05:07] outstanding incumbrances so commitments
+[1:05:10] that we have uh still to pay.
+[1:05:13] Um and then available unspent and
+[1:05:16] unencumbered. Again, this matches up
+[1:05:17] with that available um value on the
+[1:05:20] dashboard.
+[1:05:22] And then forecast, this is from our cash
+[1:05:24] flow report. And so our project managers
+[1:05:27] provide um forecasts and cash flows for
+[1:05:30] their individual projects. We compile
+[1:05:32] that into a report monthly. And so this
+[1:05:36] data is taken from there. As you can see
+[1:05:39] um only the remaining active projects
+[1:05:43] have forecasted spend and then variance
+[1:05:46] from the cash flow. Um this is uh in
+[1:05:50] other words the overunder. Um so as of
+[1:05:53] right now um we're expecting 77
+[1:05:58] almost 78,000
+[1:06:00] to be um unspent and swept back to the
+[1:06:04] program for reallocation to other
+[1:06:06] projects.
+[1:06:08] Uh yes, Norm,
+[1:06:10] >> just curious how all the major projects
+[1:06:12] came in exactly on budget to the dollar.
+[1:06:17] >> Uh so the the forecast data is right now
+[1:06:21] only being taken on active projects. So
+[1:06:23] we're not going back and comparing to
+[1:06:25] what the previous forecasts were because
+[1:06:27] those projects are closed at this point.
+[1:06:32] Uh, Cara.
+[1:06:35] >> Oh, you're on mute, Cara.
+[1:06:37] >> Sorry, my dog's barking, so I didn't
+[1:06:39] want y'all to have to hear that. Um,
+[1:06:41] does this [clears throat] mean that
+[1:06:42] we'll get to the point where this will
+[1:06:44] close out, 2012 bond will close out?
+[1:06:46] Because that's been a question that I've
+[1:06:47] been asked multiple times at the board
+[1:06:49] table.
+[1:06:49] >> Yes. How will that unfold, Sarah? Or
+[1:06:52] >> we are we are we are running to that
+[1:06:55] finish line, Cara, to answer your
+[1:06:57] question. Um we are des we are still
+[1:06:59] doing reconciliation and auditing of
+[1:07:02] projects that are still listed as active
+[1:07:06] in our ebuilder program. And so we're
+[1:07:08] going through and going through a very
+[1:07:10] strategic closeout process to make sure
+[1:07:13] that those projects are closed out
+[1:07:15] appropriately for the district. And as
+[1:07:17] we do that, we're just we're we're able
+[1:07:19] to kind of see what is truly really open
+[1:07:22] still with the 20 um with the 2012 bond
+[1:07:26] program. is right now it is just Grant
+[1:07:28] and Franklin that actually have
+[1:07:30] construction scheduled for this summer.
+[1:07:32] Um and so and active projects and so and
+[1:07:36] we have a memo for kind of what we are
+[1:07:38] thinking is about 300,000 that we have
+[1:07:42] remaining within the 2012 bond. We
+[1:07:44] actually have a memo that we're drafting
+[1:07:45] in the next couple of weeks that will go
+[1:07:47] to leadership on how we can assign th
+[1:07:50] that 300,000 to projects to hopefully be
+[1:07:52] able to close this come the end of this
+[1:07:54] year. So that's the that's the goal
+[1:07:57] right now,
+[1:07:59] >> which means we wouldn't see 2012
+[1:08:01] financials anymore on the
+[1:08:03] >> you know I would love to not to have to
+[1:08:05] talk about 2012 bond program. I I can
+[1:08:07] tell you I would love to not have to.
+[1:08:14] >> Great. Let's move
+[1:08:16] >> slide. Yeah.
+[1:08:19] >> Okay. So, 2017 bond program um we are
+[1:08:22] also getting very close to spending this
+[1:08:25] down. You can see we have only 5% um
+[1:08:28] left to spend or encumber
+[1:08:32] and we can move to the next slide.
+[1:08:37] So the total amount of bond funds uh
+[1:08:40] almost 900. Um and then we've uh got
+[1:08:45] actuals to date.
+[1:08:48] Again the bond fund less actuals.
+[1:08:50] Apologies there's no total here. Um but
+[1:08:53] you can do the math. Um additional
+[1:08:56] encumbered 31 million. Um and um
+[1:09:02] available 48 million.
+[1:09:06] We've got 47.6 million forecasted and
+[1:09:09] this is showing 24 million under. I do
+[1:09:12] want to caveat that we've had some
+[1:09:14] transition with staffing um new project
+[1:09:17] managers. So we are still um going
+[1:09:20] through the process of updating all of
+[1:09:23] our forecast and cash flow information
+[1:09:25] um in Ebuilder. So once that um happens
+[1:09:30] then we'll have more accurate forecast
+[1:09:32] data and that um uh variance will uh go
+[1:09:36] down.
+[1:09:42] Okay. And this is just a bit more detail
+[1:09:44] on the 2017 health and safety projects
+[1:09:47] broken out by project group as you can
+[1:09:49] see here.
+[1:09:51] So, um, I'll just pause and in case
+[1:09:54] anyone has questions, otherwise we can
+[1:09:55] move on.
+[1:09:57] >> No hands up, Maya. You're good.
+[1:10:00] >> Great. Thank you. 2020 bond,
+[1:10:03] we've got 41% available. So, we're still
+[1:10:07] actively working on 2020 bond
+[1:10:14] and
+[1:10:17] we've got about 1.3 billion in bond
+[1:10:20] funds. that does include both um issued
+[1:10:24] and unissued. So we just um had a bond
+[1:10:27] sale in February from the 2020 uh bond
+[1:10:32] and so we did receive some um a premium
+[1:10:35] from that. But we do in this bond funds
+[1:10:39] value are accounting for unissued
+[1:10:43] um funds.
+[1:10:48] >> Yes, Norm. the um Could you go back to
+[1:10:51] the last slide?
+[1:10:56] Yeah, that one. No,
+[1:11:01] >> I think the one
+[1:11:02] >> I think it's one more back, Patrick.
+[1:11:05] >> Thank you.
+[1:11:08] >> So, under the administration line item,
+[1:11:10] it ends up with a projected underrun of
+[1:11:13] 85 million. I can't follow the math on
+[1:11:15] that line item. When I was looking
+[1:11:17] through the information earlier today,
+[1:11:18] this kind of just I was just, you know,
+[1:11:21] kind of glancing through and that kind
+[1:11:22] of caught my eye.
+[1:11:25] >> Yeah, that is a great question and I
+[1:11:27] think I would have to dig into that and
+[1:11:29] get back to you with the response.
+[1:11:30] >> Okay. Yeah, this came through and that
+[1:11:33] one is a big number and I went back
+[1:11:35] through and couldn't do the math to
+[1:11:38] arrive at that. So, yeah, look into
+[1:11:39] that. Thank you.
+[1:11:41] >> Thank you.
+[1:11:46] Okay, we can move on.
+[1:11:50] So this is the same detail uh but for
+[1:11:52] the 2020 infrastructure projects again
+[1:11:55] by project group.
+[1:12:04] Lastly, the 2025 bond program. We are
+[1:12:08] 94%
+[1:12:10] um available. So, still really getting
+[1:12:12] started.
+[1:12:18] We've got 1.87 million. Um, and there's
+[1:12:22] a note here that we did have about 43
+[1:12:24] million in bond proceeds from our latest
+[1:12:27] sale, which is great.
+[1:12:30] Um, actuals to date, uh, 32.6 million.
+[1:12:35] So as you can see most of that uh so far
+[1:12:38] has been in technology
+[1:12:42] um additional encumbered about 80
+[1:12:44] million
+[1:12:49] and then available we've got still 1.7
+[1:12:52] billion
+[1:12:55] and because a lot of these projects are
+[1:12:59] still planned um I do want to just
+[1:13:02] caveat that the the forecast especially
+[1:13:05] for these unallocated portions um is is
+[1:13:09] pretty much a best guess. Uh and that
+[1:13:12] will become more you know accurate as we
+[1:13:15] um actually develop uh and fund uh
+[1:13:18] certain individual projects. Uh Chris
+[1:13:23] >> Yeah, first just a quick comment and
+[1:13:24] then maybe a couple questions. The
+[1:13:26] comment is I just wanted to say how much
+[1:13:28] I appreciate the addition of the
+[1:13:30] forecast from cash flow column and the
+[1:13:32] variance column. That was something we
+[1:13:35] talked about. I don't know if it was
+[1:13:35] last meeting or the one before that, but
+[1:13:37] it's this is from my perspective a huge
+[1:13:39] improvement and I just really appreciate
+[1:13:41] it and wanted to say thank you to the
+[1:13:43] team that put this together. I'm sure it
+[1:13:44] was a lot of work. Um and then just a
+[1:13:47] couple questions. Uh it felt to me like
+[1:13:50] technology got off to a pretty strong
+[1:13:52] start with 26 million in actuals
+[1:13:54] already. And if you have any kind of a
+[1:13:57] you know um talking point on driver for
+[1:14:00] that available I would appreciate it. If
+[1:14:02] not maybe we can talk about it in the
+[1:14:04] upcoming meeting. And then Sarah I just
+[1:14:06] wanted to maybe confirm
+[1:14:09] uh my understanding of how the savings
+[1:14:12] for the modernizations would show up.
+[1:14:14] Would we be looking to essentially see
+[1:14:17] for the the three high school
+[1:14:18] modernization roads negative values in
+[1:14:22] that last column that add up to $100
+[1:14:24] million? Like is that
+[1:14:27] >> track that?
+[1:14:28] >> Yeah, currently we actually have um
+[1:14:33] yeah that we are going to have to um
+[1:14:36] show it that way and I don't know that
+[1:14:37] I've right now I think we just have it
+[1:14:39] in an unallocated budget. Yeah, I mean
+[1:14:41] an unallocated line and so yeah, we'll
+[1:14:44] have to um we will refine that as we
+[1:14:47] bring the projects online and get that.
+[1:14:49] But yeah, we you'll you'll see that
+[1:14:52] >> and and just to add, we have uh you know
+[1:14:55] reconciled the budgets for the
+[1:14:57] modernizations to the approved
+[1:14:58] comprehensive plans. So that is correct
+[1:15:01] reflected in those budgets.
+[1:15:03] >> Yep.
+[1:15:06] >> Greg, did you have a question?
+[1:15:09] Well, my question was along the lines of
+[1:15:10] Chris because because the budgets we
+[1:15:12] show for those schools are the same
+[1:15:14] numbers we've had for a long time. So,
+[1:15:15] we didn't see the 100 million. So, um
+[1:15:18] that's good news. And you said Sarah,
+[1:15:20] I'm thinking of my report I got it
+[1:15:22] right. You said Sarah that we're
+[1:15:24] tracking uh we're tracking these savings
+[1:15:26] and we're g and it's good that we'll
+[1:15:28] come up with the $100 million. But right
+[1:15:30] now, the stuff we have shows doesn't
+[1:15:32] show that 100 million savings.
+[1:15:34] >> Right. Right now we're showing 9652618
+[1:15:38] in that unallocated seismic line. And so
+[1:15:41] we're kind of show we're almost there.
+[1:15:42] We're not quite there, but we're we're
+[1:15:44] pretty darn close. So that's just so you
+[1:15:46] know, Greg, that's where kind of we are,
+[1:15:48] but we'll try and we'll try and do a
+[1:15:50] little bit more, you know, a little bit
+[1:15:51] more refinement there. So
+[1:15:53] >> thank you.
+[1:15:56] >> Yeah. And um I believe that the uh
+[1:15:59] remainder from the 96 is um due to if
+[1:16:03] you look above there's a seismic
+[1:16:05] projects row and so we have yeah we have
+[1:16:08] funded at least partially um some
+[1:16:11] seismic projects um as as we get
+[1:16:15] started.
+[1:16:16] >> So th that funding will move from
+[1:16:21] unallocated into the projects
+[1:16:22] themselves.
+[1:16:25] Russell
+[1:16:28] Hey, so there was a question earlier,
+[1:16:30] sorry I didn't catch you asked it around
+[1:16:32] the strong start technology. The lion's
+[1:16:36] share of that is actually from the
+[1:16:37] device refresh that we're doing. Um so
+[1:16:40] the the full device refresh that happens
+[1:16:42] in the fall before over the summer and
+[1:16:45] uh first week or two of school. Um we
+[1:16:47] started a pilot this past week. Um and
+[1:16:50] so that was approved to the board. have
+[1:16:53] the exact date, but it feels like three
+[1:16:55] or four board meetings ago. Um, so
+[1:16:57] that's the lion share of that number
+[1:16:59] right there.
+[1:17:01] >> Thank you, Russell. Appreciate it.
+[1:17:07] >> All right. Any other questions about the
+[1:17:08] financials?
+[1:17:13] >> Okay, then.
+[1:17:14] >> Thank you, Maya.
+[1:17:16] >> Thank you.
+[1:17:18] >> Um, okay. Next on our list then is
+[1:17:22] the consolidated project. Right. Okay.
+[1:17:27] >> Hi, this is Joanna. Um I have my camera
+[1:17:30] on. My internet is slightly unstable. So
+[1:17:32] if I go off of it, that is that's what's
+[1:17:34] going on. Um but I'm still here. Uh so
+[1:17:38] thank you to Jennifer and Russell for
+[1:17:41] stealing part of my presentation. We'll
+[1:17:43] make this go even quicker. [laughter]
+[1:17:46] Um so the consolidated work is
+[1:17:48] everything that's not the modernizations
+[1:17:51] uh and not the uh center gadair center.
+[1:17:55] So, um, as Jennifer mentioned, for
+[1:17:58] summer of 2026, we've have both roofing
+[1:18:02] projects that we've included some
+[1:18:04] seismic additional seismic with and then
+[1:18:06] some seismic parts work going on and
+[1:18:08] that's at the the following schools, the
+[1:18:11] Woodmir, Caesar Chavez, Marshall,
+[1:18:12] Vestal, Vernon, Winter Haven, and
+[1:18:15] Mary'sville, which is our third phase
+[1:18:17] there.
+[1:18:20] Next slide, please. Um, and then in
+[1:18:23] 2027,
+[1:18:25] um, we have some more of these partial
+[1:18:26] re-roofs and seismic parts. Our design
+[1:18:29] contracts are in their final stages for
+[1:18:32] Richmond and Capitol Hill. Um, our
+[1:18:35] seismic parts for Ainsworth and Kelly,
+[1:18:38] we're working on the design contracts.
+[1:18:40] Those should be in front of the board in
+[1:18:42] May. And then the full seismic at
+[1:18:46] Beverly Clearary Fernwood, the design is
+[1:18:48] in progress. And uh obviously we just
+[1:18:51] got SDS done.
+[1:18:54] And then moving further out uh
+[1:18:57] anticipated for 28 and 29 we have the
+[1:19:01] seismic parts and partial ru for beach
+[1:19:04] and then the full seismic for Rose City
+[1:19:08] Park.
+[1:19:12] On the other consolidated projects we
+[1:19:15] have athletics. I have a bunch of those
+[1:19:17] coming up. Um, currently in progress is
+[1:19:20] the Grant Bowl lighting project. A big
+[1:19:23] milestone in the last few weeks. The
+[1:19:25] lights, the light poles, um, have been
+[1:19:28] stood up and are on the field. The
+[1:19:31] wiring is in and we are just waiting for
+[1:19:33] our electrical cabinet to get delivered
+[1:19:36] and installed and we should have
+[1:19:39] connection miday
+[1:19:42] and then it's up to the power company to
+[1:19:44] get us over that finish line. Um, so we
+[1:19:47] should be complete by the end of May.
+[1:19:49] Um, for Marshall, we have the track and
+[1:19:53] field refresh that we're doing in
+[1:19:55] conjunction to get ready for the
+[1:19:58] Cleveland swing to the Marshall site.
+[1:20:00] So, the turf installation is complete
+[1:20:03] and the track installation is almost
+[1:20:05] there. We had a little few footsteps on
+[1:20:08] the fresh track, so we've repaired those
+[1:20:10] and that should be done. And then the
+[1:20:12] tennis courts are coming along ahead of
+[1:20:14] schedule. And there's a future project
+[1:20:16] for Marshall with some additional
+[1:20:19] fields. So, we're still in planning for
+[1:20:21] that. Um, also in progress is the phase
+[1:20:26] zero of the Jackson Athletic Hub. That
+[1:20:29] is the upper field. Um, it's nearing
+[1:20:32] design completion and we expect to start
+[1:20:34] construction this summer.
+[1:20:36] And the multi-use field, which is phase
+[1:20:39] one, is through its schematic design
+[1:20:42] review.
+[1:20:46] Um the device refresh Russell just told
+[1:20:49] us about it. They had a they had a pilot
+[1:20:51] deployment that they started um what a
+[1:20:54] week or week and a half ago and I think
+[1:20:57] that was six schools and it went really
+[1:20:59] well. So good job to that team for for
+[1:21:02] getting that pilot started. Um, every
+[1:21:04] student will have a computer, a new
+[1:21:06] device starting in the uh 26 27 school
+[1:21:10] year and we'll be providing support for
+[1:21:12] that
+[1:21:14] like strong support to get everybody up
+[1:21:17] and running in the first few weeks of
+[1:21:18] school as well.
+[1:21:22] Um, we are continuing with our DDC
+[1:21:25] controls upgrades. So this is changing
+[1:21:27] our mechanical controls from a pneumatic
+[1:21:31] systems over to an electronic system
+[1:21:33] that we can control better and remote.
+[1:21:37] Um it just it gives us more controls
+[1:21:40] over the system and it helps them
+[1:21:41] operate more efficiently. We have nine
+[1:21:44] schools completed in our first phase.
+[1:21:46] Phase two is eight uh
+[1:21:50] 18 schools divided into groups of six.
+[1:21:53] Um I know I was doing math and
+[1:21:55] [clears throat] it [laughter] it it
+[1:21:56] hurt. Um so we finished construction on
+[1:22:00] the first six. Uh the second six are in
+[1:22:03] construction and the third six will do
+[1:22:07] construction this summer.
+[1:22:09] Then we have fire alarm upgrades at 10
+[1:22:12] schools. Um just replacing and updating
+[1:22:14] our our fire alarm panel and devices.
+[1:22:18] Going to do that this summer.
+[1:22:21] Next. Um,
+[1:22:24] and we have completed recently a HVAC
+[1:22:28] system at Willox and the water main out
+[1:22:31] at Marshall.
+[1:22:33] And then also for summer of 2026, we
+[1:22:38] have a new condenser or condenser
+[1:22:40] replacement going on at Franklin um
+[1:22:43] Buckman. We've replaced the cafeteria
+[1:22:45] trusses. We are going to be replacing
+[1:22:48] the dance studio trusses and the
+[1:22:50] cafeteria flooring this summer.
+[1:22:53] Boise Elliot will get a full repaint um
+[1:22:56] interior.
+[1:22:57] Capitol Hill has a flooring replacement
+[1:23:00] that includes abatement through one wing
+[1:23:02] of the school. Jefferson will be getting
+[1:23:05] a stage rigging repairs to make them
+[1:23:07] safe and operable.
+[1:23:09] Sitten is getting a truss replacement.
+[1:23:13] Um, Roy Rose City Park, we are retubing
+[1:23:16] the boiler. And in Vestal, we are
+[1:23:19] replacing those inwall cafeteria tables
+[1:23:22] so that they don't just come out on
+[1:23:23] their own.
+[1:23:28] So, lots of lots of other projects that
+[1:23:31] we don't hear about so often going on.
+[1:23:33] And so, that's really the bulk of this
+[1:23:36] summer.
+[1:23:39] >> Any questions? A lot of work going on.
+[1:23:43] Yeah, I [clears throat] had a question
+[1:23:44] and and it's my under I'm trying to
+[1:23:47] understand the bond funding versus maybe
+[1:23:49] other funding that PPS has for these
+[1:23:52] kinds of projects. Sorry, I'm one of the
+[1:23:54] new BAC members. Uh, and I'm I'm
+[1:23:58] wondering about like that last slide,
+[1:24:00] the last couple of slides of projects,
+[1:24:02] if we if we go back one, these kinds of
+[1:24:06] projects, are they meant to be capital
+[1:24:08] projects to be bond funds? Is is that is
+[1:24:10] there a a definition of what capital
+[1:24:13] projects are for these kinds of things?
+[1:24:15] >> That is correct. So, a capital project
+[1:24:18] is over uh $25,000
+[1:24:22] and it is a facility improvement um an
+[1:24:25] asset improvement
+[1:24:28] um
+[1:24:28] >> over the life of that the in increasing
+[1:24:31] the life expectancy of the capital asset
+[1:24:34] upon which we are improving. And so
+[1:24:36] there's there's particular there's three
+[1:24:38] or four different line items that have
+[1:24:40] to meet the mark from a capital
+[1:24:42] improvement for it to be bond
+[1:24:43] compensible for it to be paid for by
+[1:24:45] bond funds. And so some of these
+[1:24:48] projects, Kelly, are some of the ones
+[1:24:49] that we have recognized that actually
+[1:24:51] meet those thresholds.
+[1:24:54] Great question. Yeah, I I could think if
+[1:24:57] we talk about I think um like some of
+[1:25:00] our if we replace an entire fan unit for
+[1:25:04] a building that is a capital improvement
+[1:25:07] if we're just replacing the belt on it
+[1:25:09] that is not
+[1:25:14] >> on that Franklin condenser replacement
+[1:25:17] was that done when the school was
+[1:25:19] remodeled or or
+[1:25:22] and if so is that the life expectancy of
+[1:25:24] such
+[1:25:25] device.
+[1:25:26] >> It did not meet its life expectancy. It
+[1:25:30] did outlast its warranty,
+[1:25:32] [laughter]
+[1:25:33] >> of course.
+[1:25:35] >> So, it got us right in the middle. Yeah.
+[1:25:37] Yeah. That's what happened. Um and and
+[1:25:40] when we have things like that, I will
+[1:25:42] say we do kind of look at what product
+[1:25:44] did we use and have we see is that a
+[1:25:47] one-off or is that something we should,
+[1:25:50] you know, use not use in our designs any
+[1:25:52] further?
+[1:25:54] And another question. So it looks like a
+[1:25:57] lot of things are going on. Does this uh
+[1:25:59] compare with the number of things we've
+[1:26:01] had going on in previous years? Got more
+[1:26:03] going, less going, or about the same, do
+[1:26:05] you think?
+[1:26:07] >> I think this is about what we usually
+[1:26:09] have going on. Um the
+[1:26:14] the 2025 bond allows for the facility
+[1:26:17] improvement projects which you're seeing
+[1:26:19] some of this shift into bond funded work
+[1:26:22] as opposed to what used to be non-bond
+[1:26:27] capital funded work. So our teams are
+[1:26:29] used to doing this much work. It's just
+[1:26:31] the funding has changed slightly. So
+[1:26:33] there's a little more of it here in the
+[1:26:35] bond. Gota good. And Kelly, did you have
+[1:26:39] another question or is your or is that
+[1:26:41] just your hand up? I just wanted to
+[1:26:43] double check with you.
+[1:26:45] >> My hand was just still up.
+[1:26:46] >> Okay. Okay. [laughter] I just want to
+[1:26:48] make sure.
+[1:26:50] >> Okay. Well, that cons covers everything
+[1:26:53] for the committee. We will move ahead of
+[1:26:56] schedule and do an ERP update.
+[1:26:59] >> All right. That's uh Russell.
+[1:27:03] >> All right. Russell, you want to take
+[1:27:04] over?
+[1:27:05] >> Yes, I will. Sure.
+[1:27:08] I will really try to.
+[1:27:11] Okay. Hopefully I put this into a
+[1:27:12] slideshow mode and I can still see
+[1:27:14] y'all. Can you see my screen?
+[1:27:16] >> Yes.
+[1:27:17] >> Okay, great. So, um, this is the
+[1:27:19] executive summary we're at with ERP
+[1:27:21] modernization. Um, every time I talk
+[1:27:24] about the ERP modernization, even to a
+[1:27:26] bond accountability committee, I make
+[1:27:28] sure people understand we're talking
+[1:27:30] about bond funding and it cuts across
+[1:27:31] both the 2020 and 2025 bonds. Um, we
+[1:27:34] continue to be on track. Right now, our
+[1:27:36] focus is on contract approvals. We'll
+[1:27:38] talk a little bit about that further in
+[1:27:40] the deck. Um, doing really detailed
+[1:27:42] planning for the work that's coming up
+[1:27:43] this summer and the early fall work.
+[1:27:45] We'll talk a little bit about what that
+[1:27:46] means. Um, we [clears throat] do have
+[1:27:49] the major risk we have right now is
+[1:27:51] internal resources, right? So, big part
+[1:27:53] of what we're doing is process redesign.
+[1:27:56] Um, we obviously have had some cuts in
+[1:27:58] the central office and school ad uh
+[1:28:00] school administrative staff. um that
+[1:28:03] just kind of doubles and triples the
+[1:28:05] work that we have with our functional
+[1:28:06] leads and our subject matter experts
+[1:28:08] that are really critical to the early
+[1:28:09] phases of the work. So, we're we're we
+[1:28:12] have a bunch of different options here
+[1:28:13] and I'll talk through some of those, but
+[1:28:14] that's kind of where we're at. The
+[1:28:16] reason why I chose this picture very uh
+[1:28:18] purposefully. The reason is is because
+[1:28:20] the time scale that we're talking about
+[1:28:22] is, you know, if this is a first grader
+[1:28:24] or second grader through when this
+[1:28:27] person these kids graduate. So we're
+[1:28:29] talking about a minimum 10-year time
+[1:28:31] scale. So I always want to make sure
+[1:28:33] it's front and center. We're not talking
+[1:28:34] about what we're doing over the next 20
+[1:28:36] to 24 months. We're talking about what
+[1:28:38] we're doing over the next 10 plus years.
+[1:28:41] So um again, what is this project? We
+[1:28:43] call it digital transformation. The bond
+[1:28:45] language is ERP modernization. But I
+[1:28:47] want to make really clear that yes, this
+[1:28:50] is led and and funded through the
+[1:28:52] technology office. But really what this
+[1:28:54] is about is people process and
+[1:28:56] technology. It's about process redesign.
+[1:28:59] It's about rearchitecting how PPS
+[1:29:02] operations work. So all of finance, all
+[1:29:05] of uh HR, all of asset management, all
+[1:29:08] of procurement and contracting and all
+[1:29:10] of the tendrils that go out from those
+[1:29:12] hub functions at PPS. We're going to be
+[1:29:15] rearchitecting how those actually work,
+[1:29:18] feeding them full of actual data instead
+[1:29:21] of old data or pieces of data or
+[1:29:23] conflicting data. uh actual systems of
+[1:29:26] record, golden records, and we're going
+[1:29:28] to be building efficient workflows that
+[1:29:30] live on this modern platform. We simply
+[1:29:32] just don't have the tools to run a
+[1:29:34] modern K through2 right now as it comes
+[1:29:35] to all those critical business
+[1:29:37] functions. So, I always said that uh
+[1:29:39] technology is driving, but we're really
+[1:29:42] pushing business operations.
+[1:29:45] And uh you probably saw this last time I
+[1:29:47] was here, which is the overall sort of
+[1:29:48] scope at the highest of high levels.
+[1:29:50] We're talking about 8,000 plus different
+[1:29:52] users, thousands and thousands of vendor
+[1:29:55] contracts, thousands and thous hundreds
+[1:29:57] and hundreds of reporting requirements,
+[1:29:59] hundreds and hundreds of reports beyond
+[1:30:01] those requirements. Um, and we're
+[1:30:03] talking about a system that's going to
+[1:30:05] manage both our general funds, our grant
+[1:30:08] funds, and our bond funds moving
+[1:30:09] forward.
+[1:30:12] So, from a vendor perspective, found
+[1:30:14] this to be kind of a useful uh point of
+[1:30:17] clarification because there's a lot of
+[1:30:18] vendors involved here. But in terms of
+[1:30:21] the actual like project delivery, they
+[1:30:22] break out as such. Overall program
+[1:30:25] management is Plant Moran, who you may
+[1:30:26] have heard me speak about before. These
+[1:30:29] guys are the industry experts. This is
+[1:30:31] 90 plus% of the what they do is K
+[1:30:34] through 12 ERP programs. This is their
+[1:30:37] bread and butter. This is what they do.
+[1:30:39] Uh they're partnering with um Seattle,
+[1:30:42] Beaverton, uh Jefferson County. They're
+[1:30:44] they're really hundreds and thousands
+[1:30:47] across the United States. Um, and I did
+[1:30:50] reference checks with probably a dozen
+[1:30:52] of their current and uh, former clients
+[1:30:55] and cannot say enough good things about
+[1:30:57] them. So really happy to have them on
+[1:31:00] board. Um, and they are responsible for
+[1:31:02] the overall scope, timeline and budget
+[1:31:04] from a change management perspective,
+[1:31:06] which is incredibly important, right? We
+[1:31:08] have to get people to actually adopt new
+[1:31:10] ways of working. That is one of our
+[1:31:12] critical metrics as we move through the
+[1:31:13] program and postprogram. That is led by
+[1:31:15] Precipio, who's a local firm. um they
+[1:31:18] are responsible for the strategy, the
+[1:31:19] plan and the execution of adoption.
+[1:31:22] They're also critical to how we're doing
+[1:31:24] training strategy and training rollout
+[1:31:26] and they will be with us throughout.
+[1:31:28] They're actually starting a little bit
+[1:31:29] early. Um process design, which is
+[1:31:32] really the heart of what we're doing
+[1:31:34] here. That's where the the uh Meridian
+[1:31:37] uh contract comes in, the implementation
+[1:31:39] S. and they are really the contract
+[1:31:42] holder for three vendors themselves,
+[1:31:45] Accenture and Workday. So a reminder,
+[1:31:48] we're implementing the workday platform
+[1:31:49] as our ERP. They obviously will have
+[1:31:51] boots on the ground as we move through
+[1:31:53] this. Accenture is going to really be
+[1:31:55] the main driver in the process redesign.
+[1:31:57] They do what's called business process
+[1:31:59] alignment. One of the things I'm really
+[1:32:01] focused on and really vocal about is
+[1:32:03] we're not lifting and shifting current
+[1:32:05] state onto a new technical platform. We
+[1:32:08] are actually like rearchitecting how
+[1:32:10] things work. How we do accounts payable
+[1:32:12] today be different from how we do
+[1:32:14] accounts payable tomorrow. Significantly
+[1:32:16] different significantly more efficient.
+[1:32:18] So AR Accenture is going to walk us
+[1:32:21] through that this summer. Then we get
+[1:32:23] into system configuration and test same
+[1:32:25] crew and then we get in we are also as
+[1:32:27] part of the contract because PPS does
+[1:32:30] not have a significant engineering
+[1:32:31] staff. As the leader of that team, I can
+[1:32:34] vouch to the fact that we do not have
+[1:32:35] the staff on hand to support this even
+[1:32:39] two years from now. So, we have 12
+[1:32:40] months of what they call post-
+[1:32:42] deployment support or application
+[1:32:43] management support. That's part of that
+[1:32:45] contract which will also be bond
+[1:32:46] compensible. And then the really cool
+[1:32:49] most important part is the user licenses
+[1:32:52] for 10 years. So, one thing I want to
+[1:32:54] highlight is once we get off of our
+[1:32:56] current state, we will essentially be
+[1:32:58] operating an ERP using bond funds for a
+[1:33:01] long term, which will help us with the
+[1:33:03] general fund pressure that we're
+[1:33:04] obviously under and will continue to be
+[1:33:06] for quite a long time.
+[1:33:09] So, here's the contract details. So,
+[1:33:12] they're in kind of a descending order in
+[1:33:15] terms of cost. The implementation of
+[1:33:17] this is obviously really expensive and
+[1:33:20] ERP uh work is expensive in general. Um
+[1:33:24] we were able to claw back about uh $6
+[1:33:27] million in their original proposal which
+[1:33:31] really happy to do. Basically scaling it
+[1:33:34] down to what actually PPS can consume
+[1:33:36] and what PPS actually needs. The second
+[1:33:38] line item here is the workday order
+[1:33:40] form. So that's the 10 year of licenses.
+[1:33:42] Um the way that works is there's an
+[1:33:44] annual true up. We struck a given that
+[1:33:47] PPS is going to have a um an employee
+[1:33:50] and contractor decline at least for the
+[1:33:52] next two to three years. We chose a
+[1:33:54] number that's kind of representative of
+[1:33:56] that of that dip but also hopeful some
+[1:33:59] uh climb back in terms of a user count
+[1:34:02] over that period of time.
+[1:34:04] uh change management we talked a little
+[1:34:05] about bit about program management we
+[1:34:07] talked a little bit about but those are
+[1:34:09] the documents that we have on hand that
+[1:34:11] will be uh in the hands of the board and
+[1:34:14] ready for the May 12th consent agenda
+[1:34:16] the items that are below that we do not
+[1:34:18] and there's a really specific reason why
+[1:34:21] uh let me talk through kind of what
+[1:34:22] those things are first euna is our
+[1:34:25] preapproval or sorry sorry pre-awward
+[1:34:29] grant management process so as you
+[1:34:31] probably know a significant portion of
+[1:34:32] the revenue that comes than a PPS are
+[1:34:34] through grants. Today it is to call it
+[1:34:37] Wild Wild West would be kind. Pretty
+[1:34:40] much anybody with a PPS.net account can
+[1:34:43] apply for a grant on behalf of BPS.
+[1:34:46] Whether we're actually um actually
+[1:34:48] applies to us, whether we're allowed to
+[1:34:50] do that, it's very loose. And then if we
+[1:34:54] are awarded a grant, it's basically kind
+[1:34:56] of thrown over the wall to our finance
+[1:34:58] team to manage long term. What this does
+[1:35:01] is it opens up the aperture for us. What
+[1:35:03] are the uh award what are the contracts
+[1:35:05] and uh sorry grants and awards that are
+[1:35:07] out there that PPS is potentially uh
+[1:35:10] eligible for helps us be more efficient
+[1:35:13] in that process but also then
+[1:35:16] streamlines right into our financials
+[1:35:18] once we are awarded a grant. So it
+[1:35:20] should save us from an efficiency
+[1:35:22] perspective but it should also open up
+[1:35:23] the top of the funnel from a revenue
+[1:35:25] perspective as well. Um, debt book is a
+[1:35:29] tool that we use today. It's how we
+[1:35:31] manage our long-term debt as a district.
+[1:35:33] What this is doing is buying 10 years of
+[1:35:35] licenses. For some weird reason, we're
+[1:35:37] on a year-by-year basis with them
+[1:35:39] currently. This is buying a 10-year
+[1:35:41] license. Um, and it is getting a really
+[1:35:44] good price at that. And it's also
+[1:35:45] slightly expanding the functionality of
+[1:35:47] what we do today. And also that
+[1:35:49] obviously integrated into our workday
+[1:35:50] platform. There's no integration that my
+[1:35:52] team has to do or anything like that. It
+[1:35:54] just is natively works on top. The
+[1:35:56] reason why those have to be uh contracts
+[1:35:59] later is because we prioritize the four
+[1:36:01] above it and they have to be on separate
+[1:36:03] paper because they are separate
+[1:36:05] companies. So they have uh existing
+[1:36:08] integrations into the workday platform
+[1:36:10] but because they're the different
+[1:36:11] company legally we have to have
+[1:36:13] different paper. So we just prioritize
+[1:36:15] those to be done after the May 12
+[1:36:17] deadline. Um and then the last thing I
+[1:36:20] talked about was that application
+[1:36:21] management support. That's that 12
+[1:36:22] months of sort of elevated premium
+[1:36:24] support that we're buying as part of the
+[1:36:25] bond.
+[1:36:27] Um, so we were able to claw back 4
+[1:36:29] million eventually o overall. Um, which
+[1:36:33] really I'm personally really happy
+[1:36:34] about. Um, shout out to our outside
+[1:36:36] council. Liz was incredibly helpful. Um,
+[1:36:39] it kind of took a village to get us
+[1:36:40] there. Uh, Chris,
+[1:36:43] [clears throat]
+[1:36:43] >> uh, Russell, thanks for the kind of the
+[1:36:45] line by line rundown. That was really
+[1:36:46] helpful. Um, a couple questions for you.
+[1:36:49] Uh first that 35.7
+[1:36:52] um curious if you can speak now or maybe
+[1:36:55] as a followup or in a in an upcoming
+[1:36:57] meeting about how that reconciles back
+[1:36:59] to the total bond funding across the
+[1:37:02] 2025 and 2020 bond funds and then second
+[1:37:06] question is I was just looking at the
+[1:37:08] change management statement of work and
+[1:37:10] that between the original proposal and
+[1:37:12] final ticked up
+[1:37:14] >> and is that like a scope change or
+[1:37:16] something and just appreciate all
+[1:37:17] >> cont. Yeah, awesome questions. So, the
+[1:37:20] budget between the two bonds is 55. Uh
+[1:37:24] we can kind of click into, you know,
+[1:37:25] what's beyond the contract stuff uh if
+[1:37:27] you want, but that's the budget. So, not
+[1:37:31] super happy about consuming so much in
+[1:37:33] contracts because obviously we also have
+[1:37:34] the people and we have contingency and
+[1:37:37] we have all the other things. So, we're
+[1:37:38] within budget. Um this is a significant
+[1:37:40] portion of that budget. The second
+[1:37:43] question was why did the here the
+[1:37:44] oneline item go from up over time?
+[1:37:48] Basically what we did is we were really
+[1:37:51] clear in the RFP for the ERP but also
+[1:37:53] clear in the RFP for the program
+[1:37:55] management and change management. Keep
+[1:37:57] in mind we had two RFPs. Let me do a
+[1:37:59] little bit of a deep dive. The first RFP
+[1:38:01] was actually for the the ERP platform
+[1:38:04] but we needed all the things right. So
+[1:38:06] we said hey go ahead and bid on program
+[1:38:08] management go ahead and bid on change
+[1:38:09] management. Go ahead and bid on training
+[1:38:11] etc etc. And what we did is we looked at
+[1:38:13] all the proposals and we liked the
+[1:38:16] workday proposal for Meridian. We didn't
+[1:38:19] like their training strategy. We didn't
+[1:38:21] like their rollout strategy in terms of
+[1:38:23] like driving adoption. So what we said
+[1:38:25] is, hey, I'm going to take that
+[1:38:26] functionality out of your proposal and
+[1:38:28] I'm going to give that to somebody else
+[1:38:30] that somebody else was Pipio. So when we
+[1:38:32] did our second RFP and we basically said
+[1:38:34] we're going to do a best of breed. We
+[1:38:36] need program management and change
+[1:38:37] management. And the way we wrote the RFP
+[1:38:39] is that one vendor could get both or we
+[1:38:41] could have two vendors get those two
+[1:38:43] different things. And the way it played
+[1:38:44] out from a scoring perspective is it's
+[1:38:46] the two vendors, plant, randio. So then
+[1:38:48] we had to go back to Presipio and say,
+[1:38:50] "By the way, you probably have to do
+[1:38:51] more from a training perspective and
+[1:38:53] from an actual like adoption perspective
+[1:38:54] than you thought in your proposal
+[1:38:56] because we stripped it out of Meridian's
+[1:39:00] uh contract." Yeah. One thing I'm hyper
+[1:39:03] hyper hyper focused on is change
+[1:39:06] management through program and adoption
+[1:39:09] after go live. If people are trying to
+[1:39:12] jam their old ways of thinking and jam
+[1:39:14] their old processes into this new
+[1:39:15] platform, that is a massive failure. So
+[1:39:17] I'm hyperfocused on those things and
+[1:39:19] that's what caused the increase. Yeah,
+[1:39:23] >> thank you. Appreciate that.
+[1:39:24] >> Yep. Hey Jonathan.
+[1:39:27] >> Hey Russell, thank you for all this. Um,
+[1:39:29] one of the things I see with the ERP
+[1:39:31] system where I work is that um,
+[1:39:34] compliance requirements change or you
+[1:39:38] know after or we'll realize hey we have
+[1:39:41] all this data and we want to look at it
+[1:39:43] this way and what we'll find is that
+[1:39:45] whatever template report is available
+[1:39:49] doesn't cut it and the software
+[1:39:52] contractor you know either we have to
+[1:39:54] pay to get them and create something
+[1:39:56] bespoke or heaven forbid like hire a
+[1:40:00] contractor to do something on the back
+[1:40:02] end, you know, and you start getting
+[1:40:03] these side systems. So, I'm just like
+[1:40:06] I'm I'm I imagine you've thought this
+[1:40:08] through, but I I am curious like like
+[1:40:11] within all of those costs,
+[1:40:14] how how do you account for the fact that
+[1:40:17] over 10 years you're really going to
+[1:40:18] want you're inevitably going to want
+[1:40:20] something different out of the system
+[1:40:21] than than what comes off the shelf?
+[1:40:25] >> Yeah, that's definitely one of the
+[1:40:26] risks. So obvious you mean the financial
+[1:40:28] benefits of having a longer term license
+[1:40:30] and having it bond funded is immense.
+[1:40:32] But then obviously you know things
+[1:40:34] happen over time and you run those risks
+[1:40:36] that you're articulating, right? Could
+[1:40:37] could not agree more. We're we're trying
+[1:40:40] to tackle it in three ways. And the
+[1:40:41] reason I jumped ahead a little bit is
+[1:40:43] this business process alignment phase is
+[1:40:45] easily the most critical thing we're
+[1:40:46] going to do over the next 12 months in
+[1:40:48] that we have to have deep conversations
+[1:40:52] about
+[1:40:54] how pretty much everything at PPS works
+[1:40:57] right so you're talking about the
+[1:40:59] compliance you're talking about accounts
+[1:41:00] payables and all the things I listed in
+[1:41:02] that one slide right now those also have
+[1:41:06] to come with an understanding of here's
+[1:41:08] the known cycle with which those changes
+[1:41:12] OD typically sends out these changes
+[1:41:14] once a year or every other year. We get
+[1:41:16] this thing from the state. We get this
+[1:41:18] thing from and so trying to minimize
+[1:41:19] that as much as possible. You'll never
+[1:41:21] get to zero. Right? So that's thing one
+[1:41:25] we're trying to do. Thing two is I think
+[1:41:26] I mentioned this last time is the very
+[1:41:28] first thing we did was we went out and
+[1:41:30] contracted with Snowflake and we've been
+[1:41:32] building out a data lakehouse. So I'm
+[1:41:34] not relying upon any of the vendors I
+[1:41:36] talked to about PPS data. We are
+[1:41:39] managing PPS data in a PPS data lake
+[1:41:43] that we are have procured and had four
+[1:41:46] plus months of learning uh from work
+[1:41:49] from snowflake. Um and so the entire
+[1:41:53] strategy is we have that data lake
+[1:41:55] warehouse underneath. I'm not dependent
+[1:41:58] upon anybody for what we do with PPS
+[1:42:01] data. I will require workday and other
+[1:42:04] systems to pres how we present it
+[1:42:07] potentially, but it massively increases
+[1:42:10] my uh options
+[1:42:13] as changes happen over time because I'm
+[1:42:15] not locked into workday and their
+[1:42:17] workday platform from a data
+[1:42:19] perspective. I'm actually using
+[1:42:20] Snowflake to feed Workday. So, it's a
+[1:42:23] very different approach. Um,
+[1:42:27] we've kind of learned some key lessons
+[1:42:29] from some of the other districts that
+[1:42:30] went through this. Um, and I've also
+[1:42:32] learned from previous projects, never
+[1:42:34] turn over your data to your ERP vendor.
+[1:42:38] We should always own it and control our
+[1:42:40] own data platforms. The third way we're
+[1:42:42] going to do that is massive change
+[1:42:44] control. The joke I have with Dr.
+[1:42:45] Armstrong all the time is anything over
+[1:42:47] 10 grand, you're going to have to
+[1:42:48] approve from a from a change control
+[1:42:50] perspective, and her ask was to ratchet
+[1:42:51] it down to five grand. So, I'm really
+[1:42:53] happy about the change control the
+[1:42:55] change control perspective today.
+[1:43:01] Hey, Cara.
+[1:43:04] >> Russell, I was really excited to see
+[1:43:06] this in the presentation today. And I
+[1:43:08] may ask a question that's going to be
+[1:43:09] super controversial because I'm going to
+[1:43:11] talk about AI. Um, I actually think it's
+[1:43:14] really interesting that the ERP
+[1:43:16] implementation is pushed into 2026
+[1:43:18] versus doing it back in 2020 because
+[1:43:19] everything I'm tracking says that like
+[1:43:21] the agentic AI and the AI tools that
+[1:43:24] these platforms are building in
+[1:43:25] themselves is actually making this a
+[1:43:28] very different process than in the past.
+[1:43:30] So instead of being like a one and done
+[1:43:32] and we'll see you in 20 years, it's much
+[1:43:34] more iterative because what you're
+[1:43:36] talking about with like OD OD changes,
+[1:43:39] like those are things that can then be
+[1:43:40] fed into these tools and like you can be
+[1:43:43] getting notifications that your process
+[1:43:45] flow has to change. Like are you seeing
+[1:43:48] some of that as a benefit as you go into
+[1:43:51] this? Because it would seem to me that
+[1:43:54] this
+[1:43:56] timeline lag of waiting six years is
+[1:43:58] actually capitalizing on the way
+[1:44:00] technology has evolved for the the
+[1:44:03] better in a massive implementation like
+[1:44:05] this.
+[1:44:06] >> Uh yeah. So you're hit you're hitting
+[1:44:08] all the correct points which is that
+[1:44:10] example you gave. Right. So you know if
+[1:44:13] there is a federal change one thing one
+[1:44:16] thing to keep in mind at all times one
+[1:44:17] of the advantages of workday has a
+[1:44:19] pluses and minuses but one of the one of
+[1:44:21] the pluses is there's only one version
+[1:44:22] of workday it only there's everybody is
+[1:44:25] really just using their configuration
+[1:44:27] the same underlying SAS product right
+[1:44:30] and so when the state changes or the
+[1:44:32] federal changes or OD changes or
+[1:44:34] whatever they're pushing that into our
+[1:44:37] system and we actually have the ability
+[1:44:39] to say oh I'm going to accept that
+[1:44:40] change I'm not going to accept that
+[1:44:41] change like legal stuff obviously we
+[1:44:43] can't but there's other ways things that
+[1:44:45] they push out and we actually get have a
+[1:44:47] regular cadence in which we can say I
+[1:44:49] don't want any of that I want some of
+[1:44:51] that I want all of it from a change
+[1:44:52] perspective right agent AI would fall
+[1:44:55] into that so I'm a little bit worried
+[1:44:58] about that because I'm not clear we have
+[1:45:01] the controls and oversight that we need
+[1:45:02] quite yet and we'll have to build that
+[1:45:04] muscle over the next couple of years I'm
+[1:45:07] super excited about it because the
+[1:45:09] example I haven't been giving is, hey,
+[1:45:11] we may configure um accounts payable to
+[1:45:15] be a certain way. And then after workday
+[1:45:18] learns how we do it for three months,
+[1:45:19] they'd be like, do you really need to do
+[1:45:21] step three? Because it seems like step
+[1:45:23] three is the same as step five and that
+[1:45:25] would save you some time, right? Um
+[1:45:27] there's a lot of those features. The way
+[1:45:30] the senior licensing is written is that
+[1:45:32] we get to consume those at our own
+[1:45:35] discretion over time without an
+[1:45:36] incremental cost. Yeah. Yeah.
+[1:45:41] Great question. Um, okay. I'm gonna go
+[1:45:43] back just real quick. So, where are we
+[1:45:45] at with the contracts? So, the
+[1:45:46] implementation SOS and the licensing, as
+[1:45:49] you can imagine, were kind of tricky.
+[1:45:51] Um, there there's a lot of language we
+[1:45:53] need to make sure is correct, but those
+[1:45:55] are on track to be submitted really in
+[1:45:57] the next 48 72 hours. So, that they're
+[1:46:00] um in time for the the timeline for the
+[1:46:02] consent agenda on May 12th. The SOS from
+[1:46:05] Flight Moran and Precipio, they're
+[1:46:07] already in in hand. um that represents
+[1:46:09] about 14% of the spend. Then the not to
+[1:46:12] exceed stuff, the ENA debt book, the
+[1:46:14] post go live support, that's less than
+[1:46:16] three million across those five
+[1:46:18] documents. Um and then we're going to
+[1:46:20] talk about them at the board as a not to
+[1:46:22] exceed number. Um okay, so planning, I
+[1:46:25] want to be really clear. Please don't
+[1:46:26] please don't screenshot this and start
+[1:46:28] sending it around because what's going
+[1:46:29] to happen, right, is this in this phase
+[1:46:32] June through October. Like I'm not
+[1:46:35] kidding you. It's the ne it's literally
+[1:46:36] the most important thing that's going to
+[1:46:37] happen in this program the next probably
+[1:46:38] 18 months and that is getting people
+[1:46:41] together to say how do we want these
+[1:46:43] critical functions to work get your head
+[1:46:46] out of what you do or have been doing
+[1:46:48] for x number of years how should AP work
+[1:46:50] how should AR work how should employee
+[1:46:52] benefits work and the wonderful thing is
+[1:46:55] we've started the change management
+[1:46:56] process already and what we're trying to
+[1:46:58] do is take the fuel from the complaining
+[1:47:01] right of well I can't believe the system
+[1:47:03] doesn't allow me to do this Cool. Take
+[1:47:05] that fuel and change it into how do you
+[1:47:07] actually want to configure it and use it
+[1:47:09] moving forward. Right? When we come out
+[1:47:11] of detailed planning that includes all
+[1:47:13] of the the functional leads from
+[1:47:15] finance, HR, procurement, contracting,
+[1:47:18] etc. We will get to detailed planning
+[1:47:20] and the red asterisk there is that will
+[1:47:23] be the moment in which we go into a very
+[1:47:25] formal change control like you would
+[1:47:26] with a construction project where we'll
+[1:47:28] have this weekby-eek plan. We'll have a
+[1:47:31] week-by-eek spend versus forecast. All
+[1:47:33] of that stuff. We have that at a high
+[1:47:35] level today, but that's where it really
+[1:47:36] comes uh comes into fruition. It is also
+[1:47:39] when we'll determine whether we're doing
+[1:47:41] a phased deployment or a big bang
+[1:47:44] deployment in the late fall 27, early
+[1:47:47] winter 28. There are benefits to doing
+[1:47:50] big bang or phase and there are risks.
+[1:47:53] Um, as you know, the thing that is
+[1:47:55] keeping me up at night is payroll. I
+[1:47:58] want to absolutely make sure we do
+[1:47:59] payroll. So that's always been my
+[1:48:01] priority and we will kind of center
+[1:48:03] around payroll but there are a lot of
+[1:48:05] pluses and minuses and we'll know that
+[1:48:07] because we will have done the process
+[1:48:08] work the previous three four months. Um
+[1:48:12] so again please don't screenshot this
+[1:48:14] >> but that's the goal.
+[1:48:16] >> Oh go like no good like scores or
+[1:48:20] >> okay
+[1:48:22] any questions about highle timeline or
+[1:48:25] feedback?
+[1:48:27] I did have one question because I was
+[1:48:28] like, "Oh, wow. This deployment is like
+[1:48:30] during the middle of the business year."
+[1:48:32] Like what do you what is the impact? Not
+[1:48:35] that you not that you need deployment to
+[1:48:37] happen during the summer. I understand
+[1:48:38] that like the school is the district is
+[1:48:40] running payroll and all these things all
+[1:48:42] the time, but is there a risk associated
+[1:48:44] with that happening like during these
+[1:48:47] high business times? Go
+[1:48:49] >> uh you'd be seen going live and so well
+[1:48:51] so there's as always there's no good
+[1:48:53] time. There are these windows where it's
+[1:48:56] impossible and then there's windows
+[1:48:58] where it's super risky and then there's
+[1:49:00] windows where it's kind of risky. The
+[1:49:03] window that we show here is actually
+[1:49:04] just the kind of risky. And the reason
+[1:49:06] is is because we obviously have to
+[1:49:08] there's a calendar year you have to
+[1:49:09] close out for tax purposes which is in
+[1:49:11] the middle of our fiscal year. But then
+[1:49:13] also in the summers when we're doing
+[1:49:14] employee we're doing all the assignments
+[1:49:17] on assassignments from a teacher
+[1:49:19] perspective and administrator
+[1:49:20] perspective. And then also keep in mind
+[1:49:22] that's also when we're setting up all
+[1:49:24] the benefits is al in the fall. So
+[1:49:26] there's like these little slices where
+[1:49:28] it kind of makes sense to kind of do
+[1:49:29] something that gets back to the what's
+[1:49:31] the lowest risk and the thing we can
+[1:49:33] actually absorb as a district is phase
+[1:49:36] versus big bang. So for example they
+[1:49:39] would like to go what the initial
+[1:49:41] thought is we'll go live with um most of
+[1:49:44] the HR stuff in that fall time frame
+[1:49:46] because everybody will sign up for
+[1:49:47] employee benefits. Everybody's been
+[1:49:49] assigned. We know who's who. We've
+[1:49:52] gotten through the first month of
+[1:49:53] school. So, it's a relatively calm time,
+[1:49:56] but it's kind of a crazy time from a
+[1:49:58] finance perspective because you're
+[1:49:59] getting ready for the end of the tax
+[1:50:00] year. So, you if you blow that out, all
+[1:50:04] the different components that we're
+[1:50:06] talking about, you see how it's like
+[1:50:08] this weird matrix of risk mitigation.
+[1:50:15] I can
+[1:50:17] um I can see by your face you're you're
+[1:50:20] uh you're thinking through all the
+[1:50:21] different fun things that we have to
+[1:50:22] deal with.
+[1:50:23] >> No, I I understand completely and
+[1:50:26] appreciate the way that you answered the
+[1:50:28] question, Russell. Thank you. This
+[1:50:29] presentation had me excited for the
+[1:50:31] meeting tonight.
+[1:50:32] >> Cool. Um part of the S. So is three
+[1:50:36] months of hyperare. So whenever we go
+[1:50:37] live uh we have that hyperare and then
+[1:50:40] the thing that's not in here is that
+[1:50:41] sort of like gradual step down of the 12
+[1:50:43] months. Basically what that um premium
+[1:50:47] support application management support
+[1:50:48] is a bucket of hours that we have of the
+[1:50:52] different um critical skills that we
+[1:50:54] need. What I'll be able to do over those
+[1:50:56] 12 months is understand, okay, what is
+[1:50:58] the actual sustaining team that's
+[1:51:00] required to manage this long term, which
+[1:51:02] will take us really until spring of
+[1:51:05] 2029.
+[1:51:09] Kelly?
+[1:51:10] >> Yeah. Hi. I'm going to stick with my
+[1:51:13] same theme from my last present the last
+[1:51:15] presentation question for this new
+[1:51:18] program, this new deployment of
+[1:51:19] technology for the ERP. What kind of
+[1:51:22] things were like excluded from bond
+[1:51:24] funding to be part of the general fund
+[1:51:27] funding? Um it sounded like a few
+[1:51:30] things, you know, with having the
+[1:51:32] contracts, the 10-year contracts maybe
+[1:51:34] moved into be capital funds, bond
+[1:51:36] funding. What kind of things maybe
+[1:51:38] didn't make it into that
+[1:51:40] >> with the definition?
+[1:51:42] >> Yeah, it's very similar rules to kind of
+[1:51:44] what Joanna and Sarah were talking about
+[1:51:47] earlier. So like ongoing expenses,
+[1:51:49] tweaks that we need to do to existing
+[1:51:51] systems, building integrations to
+[1:51:53] existing systems, none of that's bond
+[1:51:55] compensible, right? So really what we're
+[1:51:58] buying here, and again why we're really
+[1:52:00] pushing for the the the 10-year license,
+[1:52:03] is squeeze as much value as possible out
+[1:52:05] of the bond funds because that is a new
+[1:52:09] asset. It's a depreciable, capitalizable
+[1:52:11] asset. Um, and all the work associated
+[1:52:15] with that because we're building a new
+[1:52:18] thing is part of that as well. But like
+[1:52:21] it we have to be very specific on like
+[1:52:23] labor, what exactly that they're doing,
+[1:52:25] percentage of labor, all that stuff. And
+[1:52:27] that all goes through the bond
+[1:52:28] compensibility process that exactly the
+[1:52:31] same way as uh the other items that
+[1:52:33] we're talking about,
+[1:52:36] >> right? We can't it can't be capitalized
+[1:52:38] until we have something to until we have
+[1:52:40] a system to capitalize. if that makes
+[1:52:43] sense. So, anything anything related to
+[1:52:45] getting us there is not bond compensible
+[1:52:48] and so we've been working through that.
+[1:52:50] Um, kind of like Russell. Russell's not
+[1:52:51] bond compensible yet. So, uh, but
+[1:52:54] anyway, so he's central funded. So, I'm
+[1:52:56] just I'm just using that as an example
+[1:52:59] for the BAC just so that you understand.
+[1:53:01] So, yeah,
+[1:53:03] >> that's helpful, Sarah. That makes sense
+[1:53:04] that like the planning for getting ready
+[1:53:06] for the capital contract here.
+[1:53:09] >> Correct. Correct.
+[1:53:10] >> Makes sense. Okay. Yeah. All right,
+[1:53:12] that's helpful. Thank you.
+[1:53:13] >> Yep.
+[1:53:14] >> Okay. Um, that's all I had. Any other
+[1:53:17] questions or feedback?
+[1:53:19] >> Any other questions before we move on?
+[1:53:22] Thanks, Russell. I'm glad we have our IT
+[1:53:24] folks on this call because [laughter]
+[1:53:26] this is not construction, so I'm out of
+[1:53:29] my element.
+[1:53:29] >> Thank you, Russell.
+[1:53:31] >> Yes, I'm trying really hard to unshare.
+[1:53:33] I swear to God. There we go. [laughter]
+[1:53:37] As the tech guy, that was hilarious.
+[1:53:39] >> [clears throat]
+[1:53:40] >> All right, we're going to move into the
+[1:53:42] charter update. I hope everyone had a
+[1:53:45] chance to look at the changes that were
+[1:53:48] made
+[1:53:50] um
+[1:53:52] to the document based on our whenever
+[1:53:54] that meeting was in early April.
+[1:53:58] And rather than go through it, let's
+[1:53:59] just see do we are there any comments,
+[1:54:02] changes otherwise for the document from
+[1:54:04] anybody? Y'all are all good. Basically,
+[1:54:06] what we're going to do is we'll send
+[1:54:07] this back. These are our these this is
+[1:54:10] our input to the I guess the board and
+[1:54:12] the facility committee on the on the
+[1:54:15] charter and then it'll be up to them to
+[1:54:17] decide what they want to do with it.
+[1:54:20] But it looked okay to me. Did anybody
+[1:54:23] else any other thoughts on it?
+[1:54:30] Okay then. Uh so we will send uh staff
+[1:54:34] will send that on to the BAC. Send them
+[1:54:36] a redline version. I guess, right? So,
+[1:54:38] they'll see what the changes will be
+[1:54:40] made and then we'll send them a
+[1:54:41] completed version that's all checked
+[1:54:42] off, right? They get both so they can
+[1:54:45] see,
+[1:54:46] >> right? We'll be sure it gets to the uh I
+[1:54:48] think it's going to FIO and then the
+[1:54:50] full board. So, we'll be sure it gets to
+[1:54:52] both of those places. And thank you all
+[1:54:55] for the hard and thoughtful work as we
+[1:54:57] walked through the that meeting after
+[1:54:59] the fact. I was once again impressed
+[1:55:01] with um the care and thoughtfulness that
+[1:55:04] you all put into that. So, thank you.
+[1:55:07] Good job. Okay. Um, then we're up to BAC
+[1:55:12] general discussion and comments. Is
+[1:55:14] there anything from anybody?
+[1:55:17] >> This is Maya. I just want to jump in and
+[1:55:20] uh go back to the question that was
+[1:55:22] asked about the um uh administration
+[1:55:25] 2020 bond overunder. Perhaps Patrick can
+[1:55:28] go back to that slide. I was able to
+[1:55:30] determine why that uh value was so high.
+[1:55:33] So, I just wanted to share what I found.
+[1:55:39] Is this the right one?
+[1:55:41] >> Yes.
+[1:55:45] >> Thank you. Yeah. So, the 85 million
+[1:55:48] that's showing here um that actually um
+[1:55:52] includes the 72.8 million that's
+[1:55:55] currently in contingency.
+[1:55:57] And so in the next report, we'll make
+[1:55:59] sure to separate that out and show it um
+[1:56:02] on the appropriate line. So, we really
+[1:56:04] do have more like 12 million um under
+[1:56:08] for admin costs largely due to um cost
+[1:56:13] savings on staffing. Um, and then I do
+[1:56:16] want to um add another caveat that we um
+[1:56:20] are going to be adjusting our forecast
+[1:56:23] um to about an uh an additional 1
+[1:56:27] million for future bond sales um because
+[1:56:30] we do have additional sales needed for
+[1:56:32] the 2020 bond um at at least one. Uh so
+[1:56:37] it will be closer to about 11 million on
+[1:56:40] that line.
+[1:56:43] >> Thank you Maya. Thank you for jumping
+[1:56:45] back in and answering Norm's question.
+[1:56:47] And Norm, thank you so much for calling
+[1:56:48] that out to us. We really appreciate it.
+[1:56:53] >> Okay. Anything else?
+[1:56:56] We have our next meeting shown in July.
+[1:56:59] There was discussion about having every
+[1:57:01] having two months. Um, are we okay
+[1:57:04] waiting till July?
+[1:57:09] Sounds like we're okay waiting till
+[1:57:10] July. [laughter]
+[1:57:12] I'm pushing you guys. Um well, I do have
+[1:57:15] one question. Are we still is the
+[1:57:16] groundbreaking still on for May 29th at
+[1:57:18] Jefferson?
+[1:57:18] >> It is. Yes, I'm happy to announce that.
+[1:57:20] Yes. Uh Jefferson High School
+[1:57:22] groundbreaking um gates open at noon on
+[1:57:25] May 29th. Uh hope you all can join us if
+[1:57:28] you I mean we'd love to have you. Uh
+[1:57:30] it'll be a great celebration for the
+[1:57:31] district and for that campus in
+[1:57:33] particular. And then the next
+[1:57:35] groundbreaking that we have coming up is
+[1:57:37] for Cleveland High School. It is on June
+[1:57:39] 12th. Um, I don't have the time off the
+[1:57:41] top of my head. I'm so sorry. But we
+[1:57:43] can, we do have postcards and different
+[1:57:46] save the dates on our social media
+[1:57:47] pages, on our PPS web page. So, but we
+[1:57:50] hope you guys please feel free to join
+[1:57:52] us and we'd love to have you.
+[1:57:55] >> Perfect.
+[1:57:57] Is there anything else for the good of
+[1:57:59] our group here?
+[1:58:00] >> I just want to say I really want to
+[1:58:04] >> I'm sorry. Who was that?
+[1:58:06] Sorry, this was Cara. I was just
+[1:58:07] >> saying did
+[1:58:09] >> Patrick, hold on a second.
+[1:58:10] >> Go ahead, Cara.
+[1:58:11] >> I I loved the reports. Like I it was
+[1:58:14] really easy to consume and I know that
+[1:58:16] that took some time to evolve and I just
+[1:58:18] wanted to say thank you um as somebody
+[1:58:20] that sat on this committee for a long
+[1:58:22] time. Like that was the most digestible
+[1:58:24] board packet that I think I've seen.
+[1:58:28] I I want to say thank you to this
+[1:58:30] committee for the grace that you have
+[1:58:33] shown us since we took this over in I
+[1:58:36] think our first meeting was January or I
+[1:58:39] don't know it was it was
+[1:58:41] >> it was October
+[1:58:43] >> it was October and then we our contract
+[1:58:45] was in December and so I just I truly
+[1:58:48] want to say thank you for every I mean
+[1:58:50] all the questions all the comments we
+[1:58:53] really it's we're it's so valuable to us
+[1:58:55] and your input put and your dedication
+[1:58:58] to the district um truly is just so
+[1:59:01] appreciated. So, thank you for your
+[1:59:03] grace, thank you for your comments and
+[1:59:06] uh we will continue to evolve and
+[1:59:07] continuous improvement, right? I mean,
+[1:59:09] all of us. So, thank you.
+[1:59:13] >> Okay, everybody, we are know nothing
+[1:59:16] else. We're adjourned. See you in July.
+[1:59:19] July, we'll probably be in person. So,
+[1:59:21] we try to do
+[1:59:22] >> Thank you all so much.
+[1:59:24] Thanks everybody. We need to approve the
+[1:59:26] meeting minutes from from last month or
+[1:59:29] last meeting.
+[1:59:31] >> Do we have to approve them?
+[1:59:32] >> I think they were the meeting was just
+[1:59:34] adjourned, but they can be approved at
+[1:59:35] the next meeting. That'll be fun.
+[1:59:36] >> Yeah. I mean, Robert's rules of order
+[1:59:38] don't require that you actually approve.
+[1:59:40] You just have to have them. And so we
+[1:59:42] did.
+[1:59:44] >> Okay. We'll get them we'll get them
+[1:59:45] approved next meeting.
+[1:59:46] >> Sorry, Patrick.
+[1:59:48] >> Thank you, Patrick.
+[1:59:50] Yep. Thank you. Bye.
+[1:59:51] >> Bye.

@@ -1,0 +1,31 @@
+{
+ "id": "JurYqe50n5Y",
+ "fetched_at": "2026-10-11T08:01:43.681Z",
+ "meta": {
+  "videoId": "JurYqe50n5Y",
+  "title": "2023-02-23 Portland Public Schools' Bond Accountability Committee (BAC) Meeting",
+  "lengthSeconds": "6701",
+  "author": "PPS Communications",
+  "channelId": "UCBUuVy-Nfy1r9NAVM_BbitQ",
+  "publishDate": "2023-02-24T09:48:10-08:00",
+  "uploadDate": "2023-02-24T09:48:10-08:00",
+  "description": "",
+  "captionTracks": [
+   {
+    "lang": "en",
+    "kind": "asr",
+    "name": "English (auto-generated)",
+    "vssId": "a.en"
+   }
+  ]
+ },
+ "caption_kind": "asr",
+ "caption_lang": "en",
+ "n_lines": 2657,
+ "sample": "55579\t4421\tthere are two Jonathan's is that a was | 58079\t4980\tthat it I am so sorry it doesn't happen | 60000\t5220\toften you're our newest Jonathan",
+ "meetings": "",
+ "listed_as": "Feb 23rd 2023 BAC Meeting Video Recording",
+ "listed_on": "pps.net / bond.pps.net (see sources/pps_net/_download_manifest.jsonl)",
+ "url": "https://www.youtube.com/watch?v=JurYqe50n5Y",
+ "boardbook_meetings": []
+}

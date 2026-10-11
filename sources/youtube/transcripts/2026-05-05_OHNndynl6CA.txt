@@ -1,0 +1,3017 @@
+# Community Budget Review Committee - May 4
+# Video: https://www.youtube.com/watch?v=OHNndynl6CA
+# Source: YouTube captions (asr, en), fetched 2026-10-11T08:02:10.836Z
+# BoardBook meeting(s): 
+# Link to a moment: https://www.youtube.com/watch?v=OHNndynl6CA&t=<seconds>s
+
+[0:00:02] Good evening and welcome. I just want to
+[0:00:05] say hello to everyone who's joining.
+[0:00:08] Uh we do have the
+[0:00:12] recording on and um it's live stream
+[0:00:15] right now as we wait for everyone to
+[0:00:16] join.
+[0:01:28] So as we're joining, getting started,
+[0:01:31] I'm going to defer to the chair on
+[0:01:34] deciding on the time that we want to
+[0:01:35] kick off the meeting.
+[0:02:02] And I'll just jump in here. April, are
+[0:02:04] you able to
+[0:02:06] um
+[0:02:07] come off of mute by chance?
+[0:02:11] I'm so sorry. My voice came My hearing
+[0:02:14] went out. Did you ask me to come off of
+[0:02:17] mute?
+[0:02:18] Oh, no problem. Yeah, so I was just
+[0:02:20] suggesting that I would defer to you as
+[0:02:23] to determine the right time to kick off
+[0:02:25] the meeting and get started.
+[0:02:27] Oh.
+[0:02:29] I
+[0:02:30] I think we can um
+[0:02:32] not adjourn. I think we can call the
+[0:02:33] meeting to order now. We're going to set
+[0:02:35] 5:33.
+[0:02:40] And let's get it going.
+[0:02:43] One of the housekeeping items that I
+[0:02:45] have trouble tracking with myself, so
+[0:02:47] I'm going to ask Alexander to help me a
+[0:02:49] little bit is whether or not we have
+[0:02:50] quorum, where we were at, and where
+[0:02:52] we're at in this process if it's
+[0:02:54] required.
+[0:02:57] Um we do not have a majority of adult
+[0:03:00] members joined to the committee yet, so
+[0:03:04] um
+[0:03:04] it looks like for three-year term adult
+[0:03:07] members right now in the space, we have
+[0:03:10] three people, um and we also have our
+[0:03:13] student member joining us here. So given
+[0:03:17] that, it might make um sense to hold for
+[0:03:21] formal more folks to join.
+[0:03:26] Um
+[0:03:28] yeah. I'll I'll keep watching our um
+[0:03:31] attendee list.
+[0:05:49] Alexandra,
+[0:05:50] I think I have a question and just as an
+[0:05:52] um
+[0:05:53] part of my learning, what do we do if we
+[0:05:55] don't meet quorum?
+[0:05:58] Quorum is required for
+[0:06:01] in voting items. Um
+[0:06:05] so I I haven't actually experienced that
+[0:06:08] at CBRC that we haven't
+[0:06:11] had a quorum. Um so that would be new
+[0:06:15] new for me.
+[0:06:17] Um
+[0:06:21] Would discussions take place
+[0:06:23] without any decisions being made
+[0:06:27] among the folks who are present?
+[0:06:32] What do you think about that, Tammy?
+[0:06:35] Have you Have you ever encountered that
+[0:06:37] situation with an advisory body?
+[0:06:40] The quorum is needed for
+[0:06:43] voting.
+[0:06:43] >> Decision-making. That's what I was I
+[0:06:44] kind of alluding to in the if it's
+[0:06:46] required to begin the meeting as it's
+[0:06:49] been my experience that that the meeting
+[0:06:52] can still
+[0:06:53] take place, but you would not be able to
+[0:06:55] take action or make decisions.
+[0:06:58] Um this is
+[0:07:00] I'm a little conflicted that as as its
+[0:07:01] purest answer is true. Um you're also
+[0:07:04] producing a report and moving that
+[0:07:06] through to the board, and so having a
+[0:07:09] limited um
+[0:07:11] members present during some critical
+[0:07:13] kind of conversation pieces might slow
+[0:07:17] down or hinder the timeline in in which
+[0:07:19] this report is expected to be delivered.
+[0:07:24] Um
+[0:07:25] Um we're making our way kind of through
+[0:07:27] here, and I'm I'm admitting anyone who's
+[0:07:29] asking. That's That's a member of the
+[0:07:31] committee, so
+[0:07:32] I think the short answer is we can still
+[0:07:34] go through.
+[0:07:36] Um
+[0:07:37] The The meeting can still take place,
+[0:07:39] and the conversation could happen, but
+[0:07:41] there might be some sort of catching up
+[0:07:43] with colleagues that needs to happen
+[0:07:45] outside of this.
+[0:07:48] I can also drop in the chat the um
+[0:07:52] the Q&A tracking log while we're
+[0:07:54] reading.
+[0:07:55] Um
+[0:07:56] we uh many of you were aware um Friday
+[0:07:59] was a furlough day, and so we're trying
+[0:08:01] to make up time in getting responses to
+[0:08:04] questions um given the short week that
+[0:08:06] we had and the the time between our last
+[0:08:09] meeting.
+[0:08:10] Um so while we will have some of the
+[0:08:13] questions answered, we're still working
+[0:08:16] um and connecting with staff on making
+[0:08:18] sure we have the most accurate and
+[0:08:20] complete information.
+[0:08:22] Um I'm sure you can I empathize as
+[0:08:24] you're reading this data that the
+[0:08:26] number, you know, the object or function
+[0:08:28] code doesn't always tell the full story.
+[0:08:31] Um and so we want to make sure that's as
+[0:08:32] accurate as possible.
+[0:09:15] So does the meeting need to be called to
+[0:09:16] order to begin discussion?
+[0:09:21] Well, we already called the meeting to
+[0:09:22] We did. Okay.
+[0:09:26] You have a mind. Turn left on the
+[0:09:28] Northeast Morrison.
+[0:09:33] Sorry about my GPS.
+[0:09:40] Ann, it seems like you might be ready to
+[0:09:42] jump in. I am.
+[0:09:47] And you had a lot of the questions, so
+[0:09:51] >> Yeah.
+[0:09:52] Um and I I am trying to read these, but
+[0:09:55] these just came up in the last
+[0:09:57] 10 minutes. So, haven't had a chance to
+[0:09:59] review the answers to the questions yet.
+[0:10:01] Um
+[0:10:03] but
+[0:10:04] yes, so I sent through a number of
+[0:10:05] questions, um but I
+[0:10:08] I have two recommendations that I'd like
+[0:10:10] the CBRC to consider, and we probably
+[0:10:12] will need to summarize these and send
+[0:10:14] them out to the rest of the committee
+[0:10:15] since nobody's here and we can't do any
+[0:10:16] voting.
+[0:10:17] Um
+[0:10:18] but one is an idea to increase
+[0:10:20] transparency and how people can interact
+[0:10:22] with the budget better, and one is a
+[0:10:24] request for benchmarking of a particular
+[0:10:27] um number that is coming through the
+[0:10:29] budget. Um so, looking at the questions
+[0:10:33] on the form
+[0:10:34] and based on my own reading of the
+[0:10:36] budget documents,
+[0:10:38] I think one of the biggest issues with
+[0:10:40] the budget as it is written now is that
+[0:10:43] all that bond and all that debt money
+[0:10:46] are all entangled with the financial
+[0:10:48] decisions that are taking place inside
+[0:10:50] the operating budget.
+[0:10:52] And this gets in the way of one of the
+[0:10:54] district's key goals right now being
+[0:10:56] rebuilding community trust, reversing
+[0:10:58] enrollment declines, jump-starting the
+[0:11:00] fund, being transparency.
+[0:11:02] And that if I am the CBRC I'm having
+[0:11:04] trouble figuring out what's going on in
+[0:11:06] here, there's really very little hope
+[0:11:08] that a regular old community member
+[0:11:09] would be able to do so.
+[0:11:11] Um so, I want to share a couple of small
+[0:11:14] examples of what I mean, and then one
+[0:11:17] larger example.
+[0:11:18] So,
+[0:11:21] everyone who's on the call here knows
+[0:11:22] that we have a $56 million shortfall,
+[0:11:25] which is leading to hundreds of job
+[0:11:26] losses. Um but the budget also is
+[0:11:30] increasing significantly on certain line
+[0:11:33] items for next year. And if anybody
+[0:11:34] wants to follow along, some page 89 of
+[0:11:36] volume one of the budget, which is the
+[0:11:38] requirements by object table.
+[0:11:41] Our textbook adoption
+[0:11:43] is going up by $21 million.
+[0:11:47] The budget for software is increasing by
+[0:11:50] 800%
+[0:11:52] by another $21 million increase over
+[0:11:55] this year's levels.
+[0:11:56] Building and equipment maintenance up by
+[0:11:59] $14 million.
+[0:12:01] Property insurance up by $11 million.
+[0:12:04] Repairs and maintenance up by $10
+[0:12:05] million.
+[0:12:07] And legal services up by $10 million.
+[0:12:10] Those are some of the bigger ticket
+[0:12:12] items
+[0:12:13] that collectively those six objects
+[0:12:16] are increasing the budget $90 million
+[0:12:20] headed into next year compared to where
+[0:12:22] we were this year.
+[0:12:23] And presumably
+[0:12:26] much of this is driven by the bond.
+[0:12:29] Presumably a lot of this is stuff that's
+[0:12:31] happening because of the capital
+[0:12:33] expenses, but I can't see. I can't tell
+[0:12:36] why these things are going up and I my
+[0:12:39] guess is one of the reasons is that it's
+[0:12:40] because the bond money's all mixed in
+[0:12:42] there together. If that's not the case,
+[0:12:44] I definitely want to want to understand
+[0:12:46] that that why.
+[0:12:48] But this is the transparency gap that I
+[0:12:51] think we as a as a group could ask the
+[0:12:54] district to close. Uh this is on page 89
+[0:12:58] of volume one, which if you're looking
+[0:13:00] at the PDF is actually PDF page 101 cuz
+[0:13:03] they're off.
+[0:13:06] So, there's six different tables. Um
+[0:13:08] I also have this in an Excel sheet.
+[0:13:10] People There's a way I don't know if
+[0:13:11] there's a way to like share the Excel
+[0:13:13] sheet or if that's not allowed cuz we'd
+[0:13:15] be talking to each other.
+[0:13:16] Um or I could project it.
+[0:13:19] If anybody has preference.
+[0:13:21] Um so, that's that's sort of idea number
+[0:13:24] one within this request for
+[0:13:26] transparency.
+[0:13:27] The second being
+[0:13:29] there's a disconnect between the per
+[0:13:32] pupil spending.
+[0:13:34] When we look at volume number two, it
+[0:13:36] shows a little over $11,000 per student
+[0:13:39] is going from our budget straight into
+[0:13:41] the schools. $11,000. That's what we've
+[0:13:43] talked about, comes up at the the board
+[0:13:45] meetings.
+[0:13:46] Um but when we look at budget volume
+[0:13:48] one, construction and debt are all mixed
+[0:13:50] into the operating budget. And so, then
+[0:13:52] it shows we spend $66,000
+[0:13:55] per student per year, which is a a
+[0:13:57] really big number. And we were talking
+[0:14:00] about 16% last last week or whatever we
+[0:14:02] met. That's where the 16 is is the 11
+[0:14:04] out of 66. But but that's not the right
+[0:14:08] comparison here because we need to
+[0:14:09] remove the bond money and we need to
+[0:14:11] remove the debt money to understand how
+[0:14:14] much are we spending from our operating
+[0:14:16] budget on each student.
+[0:14:19] And in that case, when I run the numbers
+[0:14:21] and I please invite others on this call
+[0:14:23] to run them as well or to take a look at
+[0:14:25] mine. Um when we look at the PPS budget
+[0:14:28] per pupil without construction and
+[0:14:30] bonds,
+[0:14:31] the operating budget is 26,000
+[0:14:34] per student.
+[0:14:35] And a little higher. Little change.
+[0:14:38] That's still a really big difference
+[0:14:40] between $11,000 per student in one deck
+[0:14:43] and $26,000 per student in other deck.
+[0:14:47] That discrepancy
+[0:14:49] is part of the challenge in
+[0:14:51] transparency. I don't doubt that that
+[0:14:53] those costs are going to real and
+[0:14:55] legitimate places, but where are they
+[0:14:57] going? And how can we review a budget
+[0:15:00] when there's no way to tell what's
+[0:15:02] making up the difference between what
+[0:15:04] lives in one and what lives in the
+[0:15:06] other.
+[0:15:07] So,
+[0:15:08] my suggestion would be that we as a
+[0:15:11] group develop or excuse me, that we
+[0:15:13] recommend to the board um that headed
+[0:15:16] into next year, probably not for this
+[0:15:17] year, but headed into next year,
+[0:15:20] the the the finance group develop and
+[0:15:22] publish a supplemental budget that
+[0:15:24] separates out the capital construction
+[0:15:26] and debt service from the operating
+[0:15:28] expenditures so that we can see where
+[0:15:30] there are decisions being made that are
+[0:15:33] that are reversible. Instead of like
+[0:15:35] when we send the questions through,
+[0:15:36] there's the answer has been something
+[0:15:38] like, "Well, most of that's
+[0:15:39] locked funds. We can't spend that." But
+[0:15:41] it's all most. We'd like to see what
+[0:15:44] decisions are at hand and which ones are
+[0:15:47] locked away in the capital ones where we
+[0:15:49] can't do anything about it. So, a
+[0:15:50] supplemental budget that separates the
+[0:15:51] two.
+[0:15:52] Um I think a comprehensive per pupil
+[0:15:56] analysis of the operating budget, like
+[0:15:58] when people say, "Oh, you're doing the
+[0:15:59] budget thing?"
+[0:16:01] Where is the money going? If I have a
+[0:16:02] dollar, how much of it is going to
+[0:16:04] teachers? How much of it is going to
+[0:16:05] purs? How much of it is going here and
+[0:16:07] there? Um and that's one of the ways
+[0:16:09] that the public understands a budget. I
+[0:16:11] think that'd be a really useful
+[0:16:13] communication tool to for people to be
+[0:16:15] able to see where the money is going and
+[0:16:17] hopefully feel like then they understand
+[0:16:19] how the funds are being spent. And if
+[0:16:21] possible, you know, if we have a a great
+[0:16:23] you know, Eli, maybe one of your
+[0:16:25] classmates visual design, a visual that
+[0:16:28] shows how the dollar flows from a
+[0:16:30] central
+[0:16:31] district level to the classroom so that
+[0:16:34] people can see how the money is is
+[0:16:36] moving around as it goes through the
+[0:16:38] class.
+[0:16:40] So, I'm going to pause there. I do have
+[0:16:41] one other thing, but that's definitely
+[0:16:42] my my big idea request from my review of
+[0:16:46] the budget this year.
+[0:16:48] I want to note that if I'm not mistaken
+[0:16:51] in the notes from the meeting that um
+[0:16:54] Corinna and
+[0:16:56] um
+[0:16:59] vice chair had
+[0:17:01] those were some of the requests that
+[0:17:03] were in that um
+[0:17:05] that meeting, right? Those were some
+[0:17:06] takeaways. Is that Am I misrepresenting
+[0:17:09] that, Alexander?
+[0:17:13] No, there were some you're not
+[0:17:15] misrepresenting that at all. It um
+[0:17:18] and I did wonder if it would be helpful
+[0:17:21] to
+[0:17:23] walk through some of the ways that this
+[0:17:25] is presented in the budget document, um
+[0:17:28] which I know um Anne, you have been
+[0:17:31] reviewing in a really detailed way. And
+[0:17:33] so, if it's if it is not helpful, then
+[0:17:35] um
+[0:17:35] then I'm I'm totally fine uh if we
+[0:17:38] choose not to spend time on that, but I
+[0:17:40] do think that in many ways our budget
+[0:17:42] documents is is answering um this
+[0:17:45] question um from different points of
+[0:17:47] view. We have some really helpful
+[0:17:50] reports um that have been
+[0:17:52] useful in prior years in understanding
+[0:17:54] the year-over-year change, um and that
+[0:17:57] also include prior year actuals so you
+[0:17:59] can see a multi-year trend um with with
+[0:18:03] a lot of specificity. So, if it's
+[0:18:04] helpful, we can go there, um but I
+[0:18:07] understand Anne you that you've already
+[0:18:08] been reviewing it and are seeing
+[0:18:11] or um
+[0:18:14] is is seeing some gaps is I think is how
+[0:18:16] you phrased it. I think my question
+[0:18:18] would be I am surely not a budget
+[0:18:20] document expert. Is there a report that
+[0:18:23] pulls out the construction bond and that
+[0:18:25] pulls out the debt? So, we can see where
+[0:18:27] the spending money goes. And can you
+[0:18:29] point that out to us?
+[0:18:31] And I would So, just to clarify, are you
+[0:18:33] when you say like the spending money,
+[0:18:36] are you just focused on like money
+[0:18:38] that's going specifically to students as
+[0:18:39] opposed to like construction? Like I
+[0:18:41] Like I totally agree with you in that
+[0:18:45] it's not clear sort of like how much
+[0:18:47] money's actually going into the schools
+[0:18:48] versus being set aside for other things.
+[0:18:51] Um I'm just not totally following like
+[0:18:53] and maybe we should think about what we
+[0:18:55] want the specific like parameters to be
+[0:18:57] around this request. Like um I mean, if
+[0:19:00] it's if it's just pulling out the
+[0:19:03] construction only, I don't know if
+[0:19:04] that's necessarily the right answer.
+[0:19:07] Um
+[0:19:07] and I I I agree. Like I I think I saw
+[0:19:10] the same thing you did on like the Was
+[0:19:13] it like purchase services going up
+[0:19:15] exponentially
+[0:19:17] um compared to everything else, and it's
+[0:19:19] not clear exactly what's what's driving
+[0:19:21] that. Um and that that was one of the
+[0:19:23] questions I actually asked that I think
+[0:19:25] we just got an FAQ like response to, but
+[0:19:28] um yeah, I think that the level of depth
+[0:19:31] around like what's driving these big
+[0:19:33] increases in the
+[0:19:35] budget document itself is is lacking.
+[0:19:38] And I do agree that I think at the very
+[0:19:40] least like some more detail around that
+[0:19:42] would be a good a good recommendation.
+[0:19:47] One of the
+[0:19:48] clarifying questions I have cuz I'm
+[0:19:50] thinking about how to present this, and
+[0:19:52] the all funds report
+[0:19:54] ironically is a is a new report to
+[0:19:56] provide additional transparency that
+[0:19:59] wasn't provided before. And my hope with
+[0:20:01] that all the report you're referencing
+[0:20:03] is that when people honed in on
+[0:20:05] something specific in a fund, they could
+[0:20:07] look at the broader picture. I think
+[0:20:09] it's possible that the opposite might be
+[0:20:11] happening here that's creating a
+[0:20:14] frustration point. And so I'm going to
+[0:20:16] just
+[0:20:17] on page 101 it's I'm just I'm holding
+[0:20:20] the book, so we're just going to go to
+[0:20:22] the
+[0:20:22] >> [laughter]
+[0:20:23] >> good old paper 101.
+[0:20:25] Maybe you could screen share. Yeah.
+[0:20:28] Yeah, if you could screen share, then
+[0:20:30] anyone watching online can follow along
+[0:20:32] as well.
+[0:20:33] Um the the the the general fund, the
+[0:20:35] fund 100, that is our our operating
+[0:20:39] fund. That is our where we have our
+[0:20:41] choices, where we
+[0:20:44] are making decisions. That's where that
+[0:20:46] 56 million shows up.
+[0:20:48] Um and there is an an effort to describe
+[0:20:51] this, and I um
+[0:20:53] I joke a little bit about uh you know,
+[0:20:55] you can overpower with information, and
+[0:20:57] that can also
+[0:21:00] make it a little more challenging to
+[0:21:02] navigate. So, I just know that while I'm
+[0:21:05] stating that that that we have
+[0:21:06] information in the book, um if I had
+[0:21:09] shared with you the number of times I I
+[0:21:10] said, "I know it's there, but it's in
+[0:21:12] the middle of a bunch of things." So,
+[0:21:15] um so this this kind of represents where
+[0:21:18] we have choice and where we don't have
+[0:21:20] choice as in it's legally prescriptive
+[0:21:22] or something like that. So, the all
+[0:21:24] funds report is supposed to pull back
+[0:21:26] away from to look at big picture, for
+[0:21:28] example,
+[0:21:30] we divested in um a certain area in the
+[0:21:34] general fund, but then you see this big
+[0:21:35] increase overall. Maybe it's actually
+[0:21:38] being supplemented by grants where it
+[0:21:40] wasn't before. And when I say
+[0:21:41] supplement, I don't mean supplant.
+[0:21:42] There's there's very clear rules around
+[0:21:44] supplement and supplant for grant
+[0:21:46] accounting.
+[0:21:47] Uh but SIA might be covering
+[0:21:49] specifically more of things the general
+[0:21:51] fund had in the past. And so on page
+[0:21:53] 101, that general fund detail, that's
+[0:21:55] going to be our operating budget. That's
+[0:21:57] where you're looking at where's our gap,
+[0:22:00] where's our regular revenue coming in,
+[0:22:01] and how are we making choices on how
+[0:22:04] we're spending with kids. And then uh
+[0:22:07] similarly
+[0:22:08] on
+[0:22:09] page 109, this is where it gets a little
+[0:22:12] messy, and this is where I'm thinking
+[0:22:13] through like how to
+[0:22:15] how this might provide more clarity. The
+[0:22:18] 200 level funds,
+[0:22:20] we break those out. So, we don't have
+[0:22:22] multiple general funds, but we do have
+[0:22:24] several 200 level funds. And some of
+[0:22:26] those, we have more flexibility than
+[0:22:28] others in choice. SIA is one where we
+[0:22:31] have a plan, and that actually goes
+[0:22:33] through a lot of engagement to even get
+[0:22:35] the plan to go to the state for
+[0:22:37] approval. So, when it comes to the
+[0:22:39] budget process, it is going to feel kind
+[0:22:43] of like there's no choice, but there
+[0:22:45] there is a little bit and as long as it
+[0:22:47] fits within the plan. And that's a found
+[0:22:49] on fund 251 specifically. Major 98 is
+[0:22:52] very prescriptive and has very uh
+[0:22:54] specific categories as well, and that
+[0:22:56] one
+[0:22:57] although it has the same level of
+[0:22:59] requirements, might feel um
+[0:23:02] a little more restrictive in the
+[0:23:04] planning. And and and this all comes
+[0:23:06] from our integrated guidance.
+[0:23:09] And so
+[0:23:10] it it kind of what you're describing,
+[0:23:12] what do we have discretion on and what
+[0:23:13] we don't. We clearly have discretion on
+[0:23:15] the fund 100. There's no question.
+[0:23:17] That's where you should dig in for sure.
+[0:23:19] The 200s, now we're getting mixed, cuz
+[0:23:22] if we go to nutrition services, we're
+[0:23:24] going to just be feeding kids. Nobody
+[0:23:26] gets to choose much about that. We're
+[0:23:28] going to make sure our kids come to
+[0:23:29] school and they get fed. Um and it's
+[0:23:32] going to cost what it does, but we're
+[0:23:34] going to try and maintain a program that
+[0:23:35] has good quality food and uh reduces the
+[0:23:39] amount per meal that we're paying. Um
+[0:23:43] And that takes a little more nuance to
+[0:23:44] read through, and I don't think we've
+[0:23:46] teed that up well um for you. And I
+[0:23:52] um
+[0:23:53] and I'm
+[0:23:54] kind of just thinking through how could
+[0:23:55] we make that a little more clear. I can
+[0:23:58] go through every 200 level fund if you
+[0:24:00] want. There's a fund header that
+[0:24:01] describes it. Our grant funds are they
+[0:24:04] are we we're required to do that a
+[0:24:06] certain way.
+[0:24:07] Uh fund 205, fund 299, and I'll pause
+[0:24:11] there.
+[0:24:18] But there's
+[0:24:20] Does the 200
+[0:24:21] level detail
+[0:24:23] tell us whether the software is going to
+[0:24:26] classrooms or to construction?
+[0:24:31] Oh, so there's a point of clarification.
+[0:24:33] All right, so in the fund the function
+[0:24:36] 4000, that's our capital in the 200. And
+[0:24:39] so if we look here,
+[0:24:41] um I'm trying to look in real quickly.
+[0:24:43] If you can scroll down to a function
+[0:24:46] level in fund 205, and let's see if
+[0:24:48] there's any capital.
+[0:24:50] I don't have every uh number memorized.
+[0:24:53] I apologize.
+[0:24:57] And so what we're seeing there is a
+[0:25:00] small amount of capital,
+[0:25:02] and it's that 12,000 or 12 million 126.
+[0:25:06] So, we've got that in there. So, that is
+[0:25:08] the amount that's going to capital for
+[0:25:10] the building acquisition in that
+[0:25:11] function.
+[0:25:15] But we can't
+[0:25:16] >> comes to the big fund,
+[0:25:17] >> 20 million being spent on software is
+[0:25:20] going to classrooms or going to
+[0:25:21] construction?
+[0:25:23] Right, cuz each each function and object
+[0:25:26] is reported only out of the full pie.
+[0:25:29] >> Mhm. And so everything's all mixed
+[0:25:31] together, and we can see individual
+[0:25:33] increases, but we don't know what's
+[0:25:34] driving those increases, whether it's
+[0:25:37] the half of the budget that's sort of
+[0:25:38] headed towards kids or the half of the
+[0:25:40] budget that's headed toward building.
+[0:25:42] Yeah, um so that would be true, and I
+[0:25:48] some of that I would say like
+[0:25:50] And I don't This is going to sound
+[0:25:51] skirting. I promise you I'm not. Um but
+[0:25:54] I'm going to tell you right now in full
+[0:25:56] transparency, 100% of our plans will not
+[0:25:58] materialize next year
+[0:26:00] because we are not fortune tellers, but
+[0:26:02] we're going to do our best
+[0:26:03] estimate here. What that means is is um
+[0:26:07] our staffing we've set. That's not going
+[0:26:08] to change, right? Unless more students
+[0:26:10] show up or some other need is filled,
+[0:26:12] and then we will have to be responsive
+[0:26:14] to kids. Um and so
+[0:26:18] when it there there are certain things
+[0:26:20] that we have we have planned for that we
+[0:26:22] have traditionally spent, um but if
+[0:26:25] there is not an organizational need
+[0:26:28] um for that thing and you know, kids
+[0:26:31] come in, we're not going to spend money
+[0:26:33] on things we we don't necessarily need
+[0:26:35] to do. So, this sets the appropriation
+[0:26:37] maximum.
+[0:26:39] Um
+[0:26:40] and and we're looking at those high
+[0:26:42] level things. We could provide an a a
+[0:26:44] function object comparison, so you can
+[0:26:47] say within this fund and this function,
+[0:26:49] these are the objects that are being
+[0:26:51] purchased. And just knowing that that
+[0:26:53] would be the the ceiling or the most
+[0:26:55] based on function, but a budget approval
+[0:26:59] is based on the function and fund level,
+[0:27:01] not on the object level.
+[0:27:04] And so while it is possible that we um
+[0:27:07] the board approves a budget um with with
+[0:27:10] a fund function and object, that the
+[0:27:13] authority the board is is setting is
+[0:27:16] within that function level. I see
+[0:27:18] Michelle's jumping in here soon as well,
+[0:27:21] so she may have some more to add um to
+[0:27:23] that. Um but we can provide the detail.
+[0:27:26] I just want to make sure that it is that
+[0:27:28] it is
+[0:27:30] um
+[0:27:31] transparent and provides the right
+[0:27:33] information and allows you to focus in
+[0:27:36] on uh kind of these major themes.
+[0:27:39] And Michelle, I'll pause here to let you
+[0:27:40] jump in
+[0:27:42] if you wanted to add anything.
+[0:27:57] If if Michelle [clears throat] doesn't,
+[0:27:58] can I ask a question?
+[0:28:00] Yeah.
+[0:28:02] So,
+[0:28:03] so maybe one of the things that might be
+[0:28:04] helpful
+[0:28:06] um
+[0:28:06] So, I know like So, I'm just I'm reading
+[0:28:08] the response that I sent in for that
+[0:28:10] purchase services question, and I see it
+[0:28:13] says like in the response it says,
+[0:28:14] "Purchase services is increasing Sorry,
+[0:28:17] the general fund budget for purchase
+[0:28:18] services is increasing 5.6%."
+[0:28:20] [clears throat]
+[0:28:21] Like where would we go like on here
+[0:28:24] among all the different sort of like
+[0:28:27] ways to look at this where like we would
+[0:28:28] find that percentage? Like could we
+[0:28:30] conclude that
+[0:28:32] in here?
+[0:28:33] I can walk through that. Um Yeah,
+[0:28:36] thanks.
+[0:28:36] >> Just just I'm I'm running the screen
+[0:28:38] share with the budget document. I did
+[0:28:39] want to acknowledge that
+[0:28:41] um to your question, and I'm looking at
+[0:28:44] the um
+[0:28:46] the general obligation bond fund fund
+[0:28:49] 450.
+[0:28:51] When I scroll a few pages into this
+[0:28:53] report, I can see the object for
+[0:28:56] computer software, and then I can see
+[0:28:58] what you would called out, the 19.8
+[0:29:00] million. So, we have a bond funded
+[0:29:03] computer software project that um is
+[0:29:06] budgeted at 19.8 million, and that's
+[0:29:09] represented here. Um
+[0:29:11] So, digging into the the detail of some
+[0:29:14] of these sub funds will
+[0:29:17] answer some of the questions, I hope.
+[0:29:19] So,
+[0:29:20] if we wanted to focus on our operating
+[0:29:22] fund, the general fund,
+[0:29:25] um and look specifically at purchase
+[0:29:27] services, um all these funds follow the
+[0:29:31] same
+[0:29:32] presentation. So, we start with revenue
+[0:29:34] table,
+[0:29:35] and then we go to requirements by
+[0:29:38] function.
+[0:29:40] And then those same expenses are
+[0:29:42] presented differently when we look at
+[0:29:44] them by object. So, this is what we're
+[0:29:46] actually spending money on or what we
+[0:29:48] plan to spend money on.
+[0:29:50] And so when we zoom in to purchase
+[0:29:53] services, we can see we have a total
+[0:29:55] here in the general fund is 110.62,
+[0:30:00] sorry, 672 million is our total expected
+[0:30:04] spend for purchase services in the
+[0:30:06] general fund. And you can see the detail
+[0:30:08] that's broken out here. These are what
+[0:30:10] we expect or plan to spend on within
+[0:30:14] purchase services.
+[0:30:16] So like if there if software was being
+[0:30:18] used in this by the general fund, like
+[0:30:21] there would should be a software like
+[0:30:23] line item here. Right, yeah. So we have
+[0:30:26] that within supplies and materials and
+[0:30:28] it's here at 3.7 million.
+[0:30:31] Okay.
+[0:30:34] Got it.
+[0:30:36] So of the 19 million then, 3.7 million
+[0:30:39] of the computer software is being
+[0:30:41] allocated to the general fund.
+[0:30:43] So the funds are budgeted and accounted
+[0:30:46] for separately, so that would be in
+[0:30:48] addition to. So we have a bond
+[0:30:49] compensable software project that is
+[0:30:53] budgeted at 19 million in addition to
+[0:30:56] that. We have a general fund budget
+[0:31:00] budget line items
+[0:31:02] that total the 3 million that you saw
+[0:31:04] here.
+[0:31:05] >> Got it. Okay. Thank you for clarifying
+[0:31:07] that.
+[0:31:10] And so if we wanted to follow the same
+[0:31:11] logic for another item, say oh, I'm a
+[0:31:14] member of the public and I notice that
+[0:31:16] textbook adoption is 20 million dollars
+[0:31:18] more next year than this year. What's
+[0:31:20] the process that person would go through
+[0:31:23] to figure out why we're spending 20
+[0:31:25] million dollars more on textbooks next
+[0:31:26] year compared to this year?
+[0:31:34] We're reporting on um
+[0:31:38] on some of the high level detail in the
+[0:31:39] budget, so you can see what we're
+[0:31:41] sharing here across the columns is what
+[0:31:43] did we actually spend for that object
+[0:31:45] code for the prior 3 years, what is the
+[0:31:49] current year budget for this current
+[0:31:51] school year, and what are we proposing
+[0:31:53] and then approving and adopting for the
+[0:31:55] upcoming year. So that's the level of
+[0:31:57] detail that's visible here.
+[0:31:59] There is some other narrative in the
+[0:32:02] budget document that
+[0:32:04] that I think is helpful. I think it is
+[0:32:06] helpful to ground into
+[0:32:09] some of the other reports that we have.
+[0:32:11] So for example, we have a strategic
+[0:32:13] investments report that's included in
+[0:32:15] the informational section that
+[0:32:16] highlights some of the strategic
+[0:32:19] initiatives that the district is
+[0:32:20] planning on funding for the upcoming
+[0:32:23] year.
+[0:32:24] Sometimes that has included curriculum
+[0:32:26] adoption projects that are articulated
+[0:32:28] there.
+[0:32:30] It's here in this section.
+[0:32:32] We also describe the budget at a high
+[0:32:35] level in the budget overview. And so
+[0:32:37] some of the information may be there if
+[0:32:39] we're
+[0:32:41] if we've highlighted it as a change or a
+[0:32:43] new investment. That's a pretty typical
+[0:32:45] practice is to to highlight things that
+[0:32:47] are new or different in the budget
+[0:32:49] overview. So so it may have been
+[0:32:51] included there.
+[0:32:53] Um
+[0:32:54] Tammy or Michelle, I'm not sure if you
+[0:32:55] have any other ideas for the pathway
+[0:32:58] that a community member can follow to
+[0:33:00] learn more about specific line items.
+[0:33:04] I think it might end up being in a
+[0:33:06] similar way that you described a little
+[0:33:08] earlier. This one I happen to know is
+[0:33:10] there's a lot in the bond fund
+[0:33:12] associated and so you could look at the
+[0:33:14] all
+[0:33:15] fund report and then go to the bond fund
+[0:33:18] report for that same object code and
+[0:33:20] then deduce how much of that is coming
+[0:33:22] from bond versus how much of that is
+[0:33:24] coming from other funds. And you would
+[0:33:26] be able to see that in each fund.
+[0:33:29] Um and so I think that's page 2 172.
+[0:33:33] Um with the textbook adoption
+[0:33:36] we can see that line there carrying
+[0:33:38] through and then if we were to look at
+[0:33:40] the the all funds line
+[0:33:43] for that same thing, that would tell you
+[0:33:45] how much specifically is on bond but
+[0:33:48] would not or tell you
+[0:33:50] it would not necessarily tell you how
+[0:33:52] much is general fund versus special
+[0:33:54] revenue fund and so then you would need
+[0:33:55] to look in those others. And I've kind
+[0:33:58] of made note about doing a fund roll up
+[0:34:01] so that you could see that. So instead
+[0:34:03] of looking at each individual 200 fund
+[0:34:06] you could
+[0:34:07] you could see that across all.
+[0:34:09] One of the
+[0:34:11] danger points is like I called out
+[0:34:14] before, nutrition services kind of rolls
+[0:34:16] in and so there might be
+[0:34:18] some mixing up of what is
+[0:34:20] um
+[0:34:22] within the ability to to influence
+[0:34:25] versus what is required.
+[0:34:27] Textbook adoption should fall outside of
+[0:34:29] nutrition and so therefore would be a
+[0:34:31] safe
+[0:34:32] roll up.
+[0:34:35] And to Shane's point earlier about what
+[0:34:37] do we consider in our
+[0:34:40] I don't know what we would call
+[0:34:40] operating budget, like the general fund,
+[0:34:43] yes, but part of part of the finagling,
+[0:34:46] right, that's been going on is pulling
+[0:34:47] some instruction out of general fund and
+[0:34:49] putting it into there's now almost a 100
+[0:34:51] million dollars of instruction that's
+[0:34:53] taking place outside of the general
+[0:34:54] fund.
+[0:34:55] That is presumably money that's being
+[0:34:58] decided maybe it's a question. How much
+[0:35:01] of that 100 million dollars of
+[0:35:02] instruction that lives outside of the
+[0:35:04] general bond
+[0:35:05] do we have control of?
+[0:35:07] Is that something that would be
+[0:35:08] considered as part of our operating
+[0:35:10] budget?
+[0:35:14] Generally, no.
+[0:35:16] Um because within the grants we would
+[0:35:18] have certain grants requirements. So
+[0:35:20] when we applied for a grant,
+[0:35:22] um we put in what the plan is or you
+[0:35:24] know, we have to meet the requirements
+[0:35:25] of that grant. And so if we don't spend
+[0:35:28] the money in the way that the grantor
+[0:35:29] expected um we then we would need to not
+[0:35:33] accept those funds or return those
+[0:35:35] funds. And so that those those instances
+[0:35:38] would live outside of um typically
+[0:35:41] speaking, general fund is the major
+[0:35:43] place. There where I would say there's a
+[0:35:46] little bit more influence and and I
+[0:35:48] think it should happen both within CBRC
+[0:35:51] discussion, but also within our uniform
+[0:35:55] grant application window and our
+[0:35:56] community involvement there is providing
+[0:35:59] community input on how we spend the
+[0:36:01] money when we're when we're applying for
+[0:36:03] those grants from ODE. Right, there's
+[0:36:05] that's going to be two places where you
+[0:36:07] can really have your voice heard about
+[0:36:09] influence and matter of influence. And
+[0:36:12] so front end on application
+[0:36:14] here in this planning,
+[0:36:16] some of the questions that you um
+[0:36:19] when reviewing specifically
+[0:36:22] SIAA funds, you that may elicit more of
+[0:36:24] the questions that
+[0:36:25] does this align with the strategy of um
+[0:36:29] or the application that we put in for
+[0:36:30] integrated grants and um
+[0:36:34] and are there things on there that
+[0:36:37] do not align?
+[0:36:39] And
+[0:36:40] and generally speaking, we're trying to
+[0:36:41] avoid that, but that may be a place
+[0:36:43] where we're pushing in or pulling out
+[0:36:44] from general fund.
+[0:36:48] Did I answer that all the way through?
+[0:36:57] Permission to loop back later on that
+[0:36:59] question.
+[0:36:59] >> [laughter]
+[0:37:00] >> Yes.
+[0:37:05] I think the the place, the reason we're
+[0:37:07] talking about how much of it is
+[0:37:08] controllable and how much is it is
+[0:37:10] trying to understand the dollars per
+[0:37:12] pupil. Is this a challenge that you guys
+[0:37:14] have tackled before? How do we
+[0:37:16] communicate where the money is going?
+[0:37:19] Because you know, the operating budget
+[0:37:21] and then the what we have in volume two,
+[0:37:23] they're they're really different, like
+[0:37:25] concerningly different. And I'm sure
+[0:37:28] there's
+[0:37:29] I'm sure there's
+[0:37:31] full full documentation, like all of
+[0:37:33] those expected expenditures exist, but
+[0:37:35] we can't see them. They're not in the
+[0:37:37] budget. Because it's not defined what
+[0:37:40] goes into the dollars per student and
+[0:37:43] what doesn't. There's an etc. in the
+[0:37:45] definition.
+[0:37:47] For volume two specifically?
+[0:37:49] Yeah, when we're saying we spend 11,000
+[0:37:51] dollars per student. And that's that's a
+[0:37:53] number that I hear I hear people on the
+[0:37:55] playground say we spend 11,000 dollars
+[0:37:56] per student. I heard it in the board
+[0:37:58] meeting the other night.
+[0:37:59] People talk about that number. But if
+[0:38:02] you look at
+[0:38:03] if you take out construction and
+[0:38:04] estimate, you're either at 33,000 or
+[0:38:07] you're 26,000 depending on how many of
+[0:38:09] those other funds you you remove from
+[0:38:11] your denominator.
+[0:38:14] Right, yeah, we typically don't
+[0:38:15] calculate our debt service
+[0:38:18] dollar per student, although
+[0:38:20] yeah, I again, fully transparent, we do
+[0:38:22] pay our PERS we do pay our PERS debt
+[0:38:25] obligation, which is our our unfunded
+[0:38:27] actuarial liability, out of a debt
+[0:38:30] service fund. And if we were not doing
+[0:38:31] that, we would be paying PERS costs,
+[0:38:33] which would be coming out of our
+[0:38:35] operational budget and grants and
+[0:38:37] anywhere we're paying payroll. So
+[0:38:39] there is
+[0:38:40] that is a you're naming probably one of
+[0:38:43] the biggest challenges stepping in here
+[0:38:45] that I've I've kind of encountered is
+[0:38:48] the the question of what to include and
+[0:38:51] exclude. Um the answer is different
+[0:38:54] depending on who you ask.
+[0:38:56] Um and so one person might describe as
+[0:38:59] that is at a school
+[0:39:01] and that and this is in central office.
+[0:39:04] Someone else might describe slightly
+[0:39:06] different in a different way. And
+[0:39:10] and actually I was trying to look
+[0:39:12] through in volume
+[0:39:14] two to to identify some of the positions
+[0:39:17] that are here um that
+[0:39:21] that are housed centrally, that are
+[0:39:23] directly impacting students. And so I
+[0:39:27] know we have staff that are are
+[0:39:29] physically in this building, they're
+[0:39:30] assigned to a central office and they're
+[0:39:33] um they carry a caseload for students in
+[0:39:37] serving and they are um they are called
+[0:39:39] upon when needed.
+[0:39:41] And
+[0:39:42] um
+[0:39:43] the uh we we have uh different staff
+[0:39:46] that do that. And the question I would
+[0:39:48] then pose is is
+[0:39:50] do we call that a school support because
+[0:39:53] they are not there unless they're called
+[0:39:54] upon, so they're not available to help
+[0:39:56] out? And um they're there to do that job
+[0:39:59] and then they come back for their
+[0:40:01] reporting or other legal obligation.
+[0:40:05] And that's kind of that squishy, yeah.
+[0:40:08] >> Sorry, could you give me an example of
+[0:40:10] that position?
+[0:40:12] Um so the one coming to mind probably
+[0:40:14] isn't the best to call out, but we have
+[0:40:16] a a title nine um incident response
+[0:40:19] investigator position uh that definitely
+[0:40:23] um is at the heart of serving our kids
+[0:40:25] in our buildings and um and isn't is not
+[0:40:29] listed anywhere in volume two and is not
+[0:40:32] um
+[0:40:34] is is not in in that book.
+[0:40:37] Um is assigned to a central department.
+[0:40:40] And um is is really considered central
+[0:40:43] services, central office services
+[0:40:45] specifically.
+[0:40:47] I think if you expanded even further out
+[0:40:50] um Alexandra, do you I I want to I just
+[0:40:54] want to be accurate when I speak to this
+[0:40:55] and we have a long list of departments.
+[0:40:57] So um
+[0:40:59] I'm thinking through uh some of our
+[0:41:02] equity um
+[0:41:06] says here and I'm trying I'm pulling up
+[0:41:09] on the side here our departments that
+[0:41:10] are included in central um and there are
+[0:41:13] there are other there are other people
+[0:41:15] that are certainly
+[0:41:17] student centered and we will never find
+[0:41:20] in volume two. And so
+[0:41:22] um I would I'm hearing though is there's
+[0:41:24] a need to understand that. What I'm
+[0:41:26] curious about so that I can frame it the
+[0:41:29] right way is I want to be able to just
+[0:41:32] present it in a way that's a useful is
+[0:41:34] what decision making would happen with
+[0:41:36] the result of that information. Would we
+[0:41:39] work to protect those positions? Would
+[0:41:41] we work to
+[0:41:42] uh
+[0:41:43] identify them differently? And you don't
+[0:41:46] need to answer that in the moment. Um
+[0:41:49] but I want to make sure that we produce
+[0:41:50] something that's helpful for this
+[0:41:52] decision making body.
+[0:42:00] Well, I think
+[0:42:03] Oh, sorry. Go ahead.
+[0:42:05] No, I was just thinking
+[0:42:07] >> [laughter]
+[0:42:08] >> Go ahead, Alexandra, and I will mute.
+[0:42:11] I wasn't sure, Tammy, if you were asking
+[0:42:12] a question about some of the other
+[0:42:14] global services in
+[0:42:17] um
+[0:42:18] in central support and if you wanted me
+[0:42:20] to to look for that.
+[0:42:22] I was yeah, I was hoping you could maybe
+[0:42:24] pick out that or share the the key with
+[0:42:27] me and I can pull out some other
+[0:42:28] positions that might be examples of
+[0:42:31] student
+[0:42:33] at the heart of it it's student facing
+[0:42:34] work, but aren't
+[0:42:36] won't show up in a report that way.
+[0:42:40] Okay, how about I pivot to that and then
+[0:42:41] we can go to Angela.
+[0:42:44] Yeah, I mean, I think just to speak to
+[0:42:46] the question of what decision making is
+[0:42:48] dependent on that information. Um I
+[0:42:51] think
+[0:42:53] this body is working on impacting
+[0:42:55] decision making as well as helping build
+[0:42:57] trust in the community
+[0:42:59] with the district's budget process. And
+[0:43:03] part of what I've heard Ann say a couple
+[0:43:05] of times is that
+[0:43:07] folks are saying there's 11k going to
+[0:43:09] students, but then they're looking at
+[0:43:11] volume two and that's not the math. So
+[0:43:14] if we're able to see, okay, that 11k
+[0:43:17] includes the title nine coordinator, the
+[0:43:20] civil rights coordinator, the res J
+[0:43:23] department. Like that would help folks
+[0:43:26] understand that when we say 11,000, that
+[0:43:29] means this in schools and this outside
+[0:43:32] of schools that is specifically serving
+[0:43:34] students.
+[0:43:35] Um and I think it would help for
+[0:43:38] decision making um processes
+[0:43:41] to think about like, you know, each
+[0:43:43] school is supposed to have someone who
+[0:43:45] is a title nine coordinator
+[0:43:47] per school.
+[0:43:49] And then they connect with the the title
+[0:43:51] nine coordinator at the district.
+[0:43:53] Is that
+[0:43:54] a system that works? Is that a
+[0:43:56] redundancy? Is that something that we
+[0:43:58] need to have by law?
+[0:44:00] And we can't have that conversation if
+[0:44:02] we're not knowing if, you know, like lay
+[0:44:05] folks are not seeing the
+[0:44:08] here's where all this money is going
+[0:44:09] that the news and everyone is telling me
+[0:44:12] is going directly to my student because
+[0:44:14] of the per pupil spending
+[0:44:17] phrasing.
+[0:44:20] And that that is actually really helpful
+[0:44:23] and um
+[0:44:24] another a couple examples is school
+[0:44:26] psychs and speech pathologists will
+[0:44:29] never show up in volume two currently.
+[0:44:31] Like that's not how it's structured, so
+[0:44:33] uh more examples. I hear what you're
+[0:44:35] saying. So I think there is a way to
+[0:44:37] pivot some of that, share
+[0:44:39] which departments
+[0:44:41] have
+[0:44:43] um FTE that we call
+[0:44:46] um you know, specialized
+[0:44:48] services versus a school central
+[0:44:50] support. So then um this this body could
+[0:44:53] look, you know
+[0:44:54] this committee can look at um any sort
+[0:44:56] of redundancies or questions around
+[0:44:58] that.
+[0:45:01] I appreciate, Angela, you jumping in and
+[0:45:03] and saying that much more eloquently.
+[0:45:04] Oh, sorry. Did someone have their hand
+[0:45:06] up? Sorry.
+[0:45:08] Yeah, I'm
+[0:45:10] when in volume two
+[0:45:12] when it says how much is, you know, how
+[0:45:14] many teachers there are
+[0:45:17] in a particular school.
+[0:45:19] So if there's 10 teachers in one school
+[0:45:22] and 10 teachers in another school, is it
+[0:45:25] going to come out the same amount of
+[0:45:26] money or is it the actual amount those
+[0:45:28] particular teachers get?
+[0:45:32] It's it's going to reflect those
+[0:45:34] teachers' salaries, so the FTE would be
+[0:45:36] a much more accurate representation or
+[0:45:39] consideration of the resources within
+[0:45:42] the school
+[0:45:43] versus the dollars.
+[0:45:45] And where that's critical is that you
+[0:45:48] know, we're not making decisions based
+[0:45:50] on how much a a person
+[0:45:52] um costs. We're making decisions on the
+[0:45:54] right educator, the best educator.
+[0:45:57] Okay, so it would if you had a brand new
+[0:46:00] teacher
+[0:46:01] it would the amount of money spent would
+[0:46:04] show up there the same as if you had a
+[0:46:07] 30-year teacher.
+[0:46:10] Uh I guess what I'm saying is that it'll
+[0:46:12] show up as more money.
+[0:46:14] More money with the experience.
+[0:46:15] >> Yeah, mhm. So you'll see a higher dollar
+[0:46:17] per student even with the
+[0:46:20] uh same number of staff. Okay.
+[0:46:24] So your actual
+[0:46:26] number spent per student could have the
+[0:46:29] same number of teachers in the
+[0:46:31] Yeah, in the building. That is correct.
+[0:46:34] Yes.
+[0:46:34] >> Thank you.
+[0:46:40] Hey, on the topic of that table, it's
+[0:46:42] not teachers, right? It's FTE, it's
+[0:46:44] adults in the building rather than
+[0:46:45] teachers in the building. So the the
+[0:46:48] distribution of teachers versus maybe
+[0:46:50] lower paid FTE would also impact the
+[0:46:52] dollars that you see in that table, is
+[0:46:54] that right?
+[0:46:56] For the dollar side, yeah, that would
+[0:46:58] show the blend of the mix of all
+[0:47:01] staffing, licensed, classified, non-rep.
+[0:47:05] That makes sense. Um so to what I was um
+[0:47:09] wanted to say, Angela, thank you for
+[0:47:11] saying much more eloquently than I did.
+[0:47:13] Um
+[0:47:15] yes, it's hard to define these things.
+[0:47:16] We got to figure out what works to
+[0:47:18] define these things. But the the
+[0:47:20] district could just define them. Here's
+[0:47:23] the here's category one and it includes
+[0:47:25] all these kinds of people. Here's
+[0:47:26] category two, includes all these kind of
+[0:47:28] people. And then there's then there
+[0:47:30] wouldn't be the question anymore. Then
+[0:47:32] people would be able to point to that
+[0:47:33] and say, I might not agree with the
+[0:47:34] definition, but at least I know what it
+[0:47:36] is. I think that would be a a good step
+[0:47:38] toward transparency.
+[0:47:41] That's great. We can And we can produce
+[0:47:43] a list, I think, now. I was going to be
+[0:47:45] out of that.
+[0:47:46] Whoever's taking notes today will add
+[0:47:48] that in and then um that's something we
+[0:47:50] can provide on the Q&A
+[0:47:52] for this round to create more clarity
+[0:47:54] and then look at improving
+[0:47:56] um our document for next year.
+[0:48:01] I did also want to offer um one of the
+[0:48:04] reports that have been helpful for this
+[0:48:06] committee and really visible sometimes
+[0:48:07] through the process is this report which
+[0:48:10] is a FTE or full-time equivalent by
+[0:48:12] major function and employee type. And so
+[0:48:16] Ann, this is this is almost similar. I
+[0:48:18] really
+[0:48:19] and um appreciated the approach that you
+[0:48:22] took when you looked at the
+[0:48:23] instructional
+[0:48:25] um function and the support services
+[0:48:27] function. And then you asked us in your
+[0:48:30] um question that you submitted to break
+[0:48:32] it down by object. That made a lot of um
+[0:48:35] sense to me and is actually really
+[0:48:38] similar um to what we see here. Although
+[0:48:41] you were focused on dollars overall,
+[0:48:44] there's there's a a difference here that
+[0:48:45] that we've been discussing, but this
+[0:48:47] just presents FTE. This is for all
+[0:48:50] funds. So um most of our FTE is budgeted
+[0:48:53] in fund 100 and fund 200. We have um
+[0:48:56] smaller amount of FTE in fund 400 and
+[0:48:59] 600, but this will include the the
+[0:49:01] entire system of FTE.
+[0:49:04] And um you can see that we have created,
+[0:49:07] you know, or these are these are the
+[0:49:08] categories
+[0:49:10] by object type for the different FTE
+[0:49:12] types and we've broken it out by
+[0:49:15] function. So for example, when we look
+[0:49:19] at um primary instructional activities,
+[0:49:22] um that's classified within this regular
+[0:49:25] programs function, you can see the trend
+[0:49:28] over time here in our system.
+[0:49:31] Um and we have a subtotal here, so you
+[0:49:34] can see at a high level how that's
+[0:49:36] changed.
+[0:49:37] Um
+[0:49:38] and we break out support services at
+[0:49:40] this kind of middle level of detail so
+[0:49:43] that you can see um these trends. And I
+[0:49:47] think this report is helpful because you
+[0:49:48] don't get as lost in some of the detail
+[0:49:51] that exists in some of the other
+[0:49:53] reporting. So
+[0:49:55] in case that's helpful, that is on page
+[0:49:56] 205 of volume one.
+[0:50:07] Um I think another just from that that
+[0:50:10] page um in the budget uh the 204 205
+[0:50:16] um that brings up some questions as well
+[0:50:20] um
+[0:50:22] around like can we get a definition or
+[0:50:26] um or parsing out the admin license
+[0:50:28] definition between superintendent
+[0:50:31] academic administrators and directors
+[0:50:34] versus principals and APs and VPs. So I
+[0:50:37] think that's another one. I know that um
+[0:50:40] student rep uh to the board had asked
+[0:50:43] for something like that around like how
+[0:50:45] much does each position cost cuz folks
+[0:50:47] keep saying chop from the top. What does
+[0:50:49] the top actually mean? And I think
+[0:50:51] having that parsed out um
+[0:50:54] would help folks kind of understand the
+[0:50:56] difference in costs between you know the
+[0:50:59] folks who are in our buildings every
+[0:51:02] single day helping hold it down and the
+[0:51:05] folks who might be a little bit further
+[0:51:08] away from that direct um in the in the
+[0:51:11] schools daily kind of position.
+[0:51:16] Um is there any way to get that kind of
+[0:51:17] inform that level of information?
+[0:51:26] Yes, so I
+[0:51:27] um
+[0:51:28] can work on gathering some of that
+[0:51:30] together.
+[0:51:31] Um some of these requests they don't
+[0:51:33] come natively. I'm just going to be
+[0:51:34] honest. They don't come natively out of
+[0:51:35] the software very easily to pivot and
+[0:51:37] move. So it takes a little bit more time
+[0:51:40] to compile and I want to be mindful of
+[0:51:42] the reporting
+[0:51:44] um deadline that you have and the
+[0:51:46] timeline.
+[0:51:47] Um I also was considering you know what
+[0:51:50] the conversation looks like
+[0:51:52] annually and when we start getting
+[0:51:53] questions and gathering questions. So
+[0:51:56] um I'm going to work on that as well. Um
+[0:52:00] we still have more questions to wrap up
+[0:52:02] that came in
+[0:52:03] um last week from the meeting and then
+[0:52:07] um over the weekend with our Friday
+[0:52:09] being a furlough day. We're just a
+[0:52:10] little bit behind in
+[0:52:13] in being able to be as responsive as we
+[0:52:14] would have liked in between these
+[0:52:16] meetings. For sure.
+[0:52:19] I just want to note that um I know we
+[0:52:21] had uh
+[0:52:22] with our chairs a meeting with Alexander
+[0:52:25] on the 16th of April and one of the
+[0:52:27] things we did ask for was central
+[0:52:29] reductions clearly separated from school
+[0:52:31] reductions and making it like clear what
+[0:52:34] is separated. So you know it it I I know
+[0:52:38] that a lot it was a lot of stuff that we
+[0:52:40] asked for on that document. I'm looking
+[0:52:42] at the notes right now. Um but I think
+[0:52:44] it's important to respond to some of the
+[0:52:47] concerns folks have been lifting up or
+[0:52:49] some of the demands that folks have been
+[0:52:51] lifting up with just the clear data of
+[0:52:53] like what does that even mean? You know
+[0:52:55] like when we say chop from the top like
+[0:52:57] who is that and what does that actually
+[0:52:59] mean and how much would that actually
+[0:53:01] bring in versus other places where we
+[0:53:04] can look at um
+[0:53:07] different action items.
+[0:53:11] Go ahead, Shade. Yeah, if it's kind of
+[0:53:12] going off of that I think between this
+[0:53:14] and what Anne was first saying at the
+[0:53:15] top, I think maybe one of our comments
+[0:53:18] around transparency should really be
+[0:53:20] like
+[0:53:21] the volume should have more
+[0:53:22] differentiation between
+[0:53:24] like in class like in school central
+[0:53:27] office construction and these like I
+[0:53:29] think we kind of already have these
+[0:53:30] broader categories in other parts of the
+[0:53:32] volume but um it's harder to then cross
+[0:53:36] apply it where we're seeing like the
+[0:53:38] actual hard numbers and so maybe more uh
+[0:53:43] information and work around that in
+[0:53:45] future volumes might be something that
+[0:53:46] we would want to recommend.
+[0:54:01] I mean I'll just slide and I'm sorry I
+[0:54:03] was late everyone I think I got to get
+[0:54:05] them the data. I think I missed some of
+[0:54:06] the basketball practice and some of the
+[0:54:08] basketball background I know you might
+[0:54:09] be hearing but um
+[0:54:11] I'd strongly plus one that mainly
+[0:54:13] because and even if it's for some reason
+[0:54:15] we can't get get this reported out
+[0:54:17] exactly the way we want this year, but
+[0:54:19] making it a priority for next year
+[0:54:20] because it just seems I think people on
+[0:54:22] this committee even might have different
+[0:54:23] opinions about sort of how we view the
+[0:54:25] right balance of central office versus
+[0:54:28] school facing staff but like it's such a
+[0:54:29] sticking point in the basic
+[0:54:31] understanding of the these conversations
+[0:54:33] that it seems like
+[0:54:35] it really could be a top priority of the
+[0:54:36] district to report this out in a way
+[0:54:37] that everyone can agree that okay, we
+[0:54:39] might have different opinions about
+[0:54:40] solution but we have to work from a
+[0:54:42] common definition and a common
+[0:54:43] understanding of
+[0:54:45] what sort of direct school facing
+[0:54:47] spending staff versus central office and
+[0:54:49] we can go from there because it feels
+[0:54:50] like when this comes up and it's
+[0:54:52] unfortunately probably going to come up
+[0:54:53] in future years too given the financial
+[0:54:55] outlook, you spend so much time going
+[0:54:57] around and around and disagreeing on a
+[0:54:58] basic set of facts. It would be great to
+[0:55:00] get those separated and then we can move
+[0:55:01] on to other things.
+[0:55:16] Um I wonder if there are any other kind
+[0:55:18] of uh questions or answers to questions
+[0:55:21] that folks submitted that folks want to
+[0:55:24] kind of lift up or um get clarification
+[0:55:27] on or point out um
+[0:55:30] as connected to some of the themes that
+[0:55:32] we've already identified around uh and
+[0:55:34] I'll just list what I have the
+[0:55:36] transparency and legibility for the
+[0:55:38] public.
+[0:55:39] Um the uh the real how realistic the
+[0:55:42] assumptions are in some of the
+[0:55:45] budgeting.
+[0:55:47] Um the analysis on blended classrooms.
+[0:55:50] Uh the clear clarifying the limitation
+[0:55:54] of use of dollars between bond, general
+[0:55:56] fund, etc.
+[0:55:58] Um
+[0:55:59] Preservation of programs and are these
+[0:56:01] funds being reduced proportionally?
+[0:56:04] Uh questions around PERS and then
+[0:56:08] encouraging advocacy at the state level
+[0:56:10] as well as recommending alternative
+[0:56:12] funding sources.
+[0:56:14] So has any have any questions that
+[0:56:17] you've shared
+[0:56:18] addressed any of those themes or
+[0:56:21] anything that folks want to lift up?
+[0:56:31] I think on that on that last category
+[0:56:33] around like alternative funding sources
+[0:56:37] I don't know if it's necessarily funding
+[0:56:38] sources but maybe it's alternative
+[0:56:39] expense sources. Just thinking of like
+[0:56:41] contracting services and whether
+[0:56:44] there's alternative options to find you
+[0:56:47] know different providers and I I I don't
+[0:56:49] know what the process is. I assume
+[0:56:50] there's some type of like RFP process or
+[0:56:52] something that we need to go
+[0:56:53] through to you know if we wanted to
+[0:56:55] change who is providing some of these
+[0:56:58] third party services but um just seeing
+[0:57:01] such a large increase there when we're
+[0:57:03] trying to cut so much makes me wonder if
+[0:57:05] that is something that
+[0:57:07] should be suggested.
+[0:57:13] Thank you.
+[0:57:16] Yeah, there was um an answer to one of
+[0:57:18] my questions around like cutting
+[0:57:22] um MAPS MAP testing for the state
+[0:57:26] uh interim assessment tool and there was
+[0:57:28] the like the state interim assessment
+[0:57:30] tool is only third through through fifth
+[0:57:33] or third through eighth.
+[0:57:35] I'm looking for the question right now
+[0:57:37] but the boxes are very big. Um and we
+[0:57:39] need it from K through eight. Uh and
+[0:57:43] it is you know tens of thousands of
+[0:57:45] dollars and in my mind as a professional
+[0:57:47] educator like assessments is part of
+[0:57:50] what I learned how to do in my master's
+[0:57:52] program. It's part of what we do as
+[0:57:53] educators. It's a lot of districts have
+[0:57:56] you have paid educators to work on banks
+[0:57:59] of questions for interim assessments
+[0:58:01] that then get used district wide. Would
+[0:58:04] that be a lower cost to have that happen
+[0:58:06] connected to standards once every couple
+[0:58:09] of years than having to continue to
+[0:58:10] contract contract out every year with
+[0:58:13] MAP? Um
+[0:58:16] things that's that's what came to my
+[0:58:18] mind when you said that Shade of just
+[0:58:19] like how can we look at some of these
+[0:58:22] contracts? Is there a different way to
+[0:58:24] possibly spend less and still get
+[0:58:28] quality work whether it's another
+[0:58:30] contractor or employees we currently
+[0:58:32] have.
+[0:58:35] Yeah, Eli.
+[0:58:36] Um
+[0:58:37] I might be misremembering but I feel
+[0:58:39] like very early on in this meeting
+[0:58:41] process I heard someone mentioning that
+[0:58:43] there was like a state sponsored
+[0:58:45] alternative instead of
+[0:58:47] MAPS testing. Was am I correct in
+[0:58:49] remembering that and Yes.
+[0:58:50] >> what's our what's our decision point for
+[0:58:52] choosing MAPS test over the state state
+[0:58:57] the state system and would that be a
+[0:58:59] decision we would want to revisit?
+[0:59:01] Just wondering about that.
+[0:59:03] Let me see if I can find the answer for
+[0:59:06] you.
+[0:59:16] It is okay. It is on line 31 of the
+[0:59:20] questions asked in meetings. Mhm. Um and
+[0:59:24] the answer was that now um ODE interim
+[0:59:28] assessments were approved by the board
+[0:59:30] of Ed to be used.
+[0:59:32] And it shared that ODE assessments cover
+[0:59:35] grades 3 through 8 only. And the
+[0:59:37] required interim assessments must be
+[0:59:39] provided
+[0:59:41] K-8, which creates an assessment gap
+[0:59:43] that would need to be filled by one of
+[0:59:45] three of the other three assessment
+[0:59:47] choices.
+[0:59:49] And it shares, "Over the past 3 years
+[0:59:50] we've spent an average of $218,000
+[0:59:54] on MAP Growth contract each year.
+[0:59:57] We're also required to give a dyslexia
+[0:59:59] screener and have been using MAP Fluency
+[1:00:01] to meet that ODE requirement. And that
+[1:00:03] cost has been about has been
+[1:00:05] approximately 70,000 per year."
+[1:00:09] So, that's where I was talking a little
+[1:00:10] bit about like
+[1:00:12] could we create a different could we
+[1:00:15] create assessments interim assessments
+[1:00:17] um
+[1:00:20] locally to offset some of that cost? Is
+[1:00:23] it possible to maybe even reduce it to
+[1:00:25] just K through 2 as a contract and then
+[1:00:28] use the ODE interims for 3 through 8?
+[1:00:32] But that that answer is on line 31.
+[1:00:35] Cool. Thank you for that. Yeah. Mhm.
+[1:00:43] Oh, yeah. Anne.
+[1:00:45] Um I have a second sort of topic to
+[1:00:47] bring up. Um and it was one that I just
+[1:00:49] got an answer to just now, so I will
+[1:00:50] include the answer at the end of my
+[1:00:52] question.
+[1:00:53] Um as a bit of background, the National
+[1:00:55] Center for Education Statistics
+[1:00:57] publishes benchmarks to help districts
+[1:01:00] determine how their spending stacks up
+[1:01:01] against national average. And one thing
+[1:01:03] that they publish is the proportion of
+[1:01:05] the district operating budget that is
+[1:01:07] spent on instruction, and they do define
+[1:01:09] this with instruction, not support
+[1:01:11] services, not enterprise operations, not
+[1:01:13] nutrition services, cuz nutrition
+[1:01:14] services,
+[1:01:15] like you said, it bucks all the
+[1:01:16] categories, and it's tricky to keep
+[1:01:18] track of.
+[1:01:19] So, they define their their categories.
+[1:01:21] Nationally, the average is 61%
+[1:01:24] spent on instruction.
+[1:01:26] The lowest 10% of states are at 56%
+[1:01:31] or less. Like the lowest is 53 or 54.
+[1:01:34] I've taken a crack at estimating this
+[1:01:36] for PPS. Again, not an accountant. Um
+[1:01:40] our budget next year calls for 55
+[1:01:42] million on instruction.
+[1:01:44] And then if you add in the support
+[1:01:45] services and enterprise which are
+[1:01:46] explicitly named by NCES,
+[1:01:49] when we do the math, we see that only
+[1:01:51] 53%
+[1:01:53] of our funds are spent on instruction.
+[1:01:56] That's much lower than most of the the
+[1:01:59] other the states that are that are
+[1:02:00] shared by by NCES. And if you include
+[1:02:03] the cost of transfers and contingencies,
+[1:02:05] and I don't know how NCES deals with
+[1:02:07] those, then the number goes down to 51.
+[1:02:09] But it's an 8-point gap that at PPS's
+[1:02:13] scale can represent a really substantial
+[1:02:16] difference in the type of resources
+[1:02:18] that's reaching the classrooms or being
+[1:02:21] in central office or being in the
+[1:02:22] special service. Wherever it is, it's an
+[1:02:25] 8-point reduction in instructional
+[1:02:26] services compared to the national
+[1:02:28] average. And I did during this call
+[1:02:30] because the discussion around is it
+[1:02:32] general fund, is it operating budget, I
+[1:02:34] re-ran it with just the general fund
+[1:02:36] numbers, exactly the same. Still 53% for
+[1:02:39] instruction out of the general fund.
+[1:02:41] And
+[1:02:43] now, some some of you may be thinking
+[1:02:45] how this interacts with other features
+[1:02:46] of education in Oregon, and this is a
+[1:02:48] little bit of the the response, but it's
+[1:02:50] compounded by the fact that each of our
+[1:02:54] instructional dollars purchases less
+[1:02:55] instruction here in Oregon than in most
+[1:02:57] states because we have a short school
+[1:03:00] year, because we have strong teacher
+[1:03:02] compensation, and because the high PERS
+[1:03:04] contributions come out of the
+[1:03:06] instructional piece. Right? If we look
+[1:03:07] at the way the budget's structured, PERS
+[1:03:09] lives inside instruction, and it's still
+[1:03:12] only 53%. It's not that it's not that
+[1:03:14] the PERS is squishing it down. I've
+[1:03:16] taken out the debt service. PERS lives
+[1:03:18] inside the 53%.
+[1:03:20] So, our students might be receiving
+[1:03:22] fewer instructional resources than the
+[1:03:25] per pupil spending might imply.
+[1:03:27] And other people might be thinking how
+[1:03:29] is this impacting different student
+[1:03:31] groups? People from well Students from
+[1:03:33] well-resourced families might be able to
+[1:03:36] compensate for instructional gaps. They
+[1:03:37] get a tutor. They get enrichment. But
+[1:03:40] students who don't have those resources
+[1:03:41] depend entirely on the public schools
+[1:03:43] for learning, they're going to be the
+[1:03:45] most harmed by the by receiving a low
+[1:03:47] share of instruction. And the response
+[1:03:49] that that we got here, and what I'd like
+[1:03:51] to talk about, is that the instructional
+[1:03:53] spend is compressed by high fixed
+[1:03:55] personnel costs such as PERS and health
+[1:03:58] care. That lives inside the
+[1:04:00] instructional cut. It doesn't It's not
+[1:04:03] compressing it. It's making it so less
+[1:04:05] money gets to the student because more
+[1:04:06] is going to PERS and health care from
+[1:04:08] the 53% unless I'm understanding it
+[1:04:11] incorrectly, in which case please
+[1:04:12] correct me.
+[1:04:13] Um and also
+[1:04:15] alongside growth in non-classroom
+[1:04:17] support roles. That's the part I want to
+[1:04:20] talk about. Our support services group
+[1:04:23] is so much larger compared to what we're
+[1:04:25] seeing at the national level. What has
+[1:04:28] happened where so much of our money is
+[1:04:30] ending up in the support services role?
+[1:04:32] Again, we're asking it it's it might get
+[1:04:34] back to the same idea of let's define
+[1:04:36] these categories. Let's talk about how
+[1:04:38] much money is going into each of these
+[1:04:39] categories because our support services
+[1:04:42] appear to this layperson to be very
+[1:04:44] large compared to some of the other
+[1:04:46] benchmarks.
+[1:04:48] And so, my suggestion would be that one
+[1:04:50] thing that we as a committee might
+[1:04:51] recommend would be to have actual
+[1:04:54] financial experts,
+[1:04:56] people like you, Debbie, and Alexandra
+[1:04:58] Michelle, to to run the legitimate
+[1:05:00] financial benchmarking. And to look and
+[1:05:02] see how our instructional
+[1:05:06] proportion, how our support services
+[1:05:09] levels compare to either national
+[1:05:11] averages or to other peer sort of urban
+[1:05:13] school districts that we look up to
+[1:05:15] around the country, and understand if
+[1:05:17] there are certain places where our
+[1:05:18] support services is squeezing out
+[1:05:20] instruction to make sure that that's not
+[1:05:23] then impacting students all around our
+[1:05:25] district.
+[1:05:27] Yeah. Thank you, Anne. I mean, this was
+[1:05:30] part of the Oregon Secretary of State
+[1:05:32] audit that was done in January 2019. Um
+[1:05:36] one of the quotes from that audit is
+[1:05:37] that PPS has more money to spend per
+[1:05:39] student than any of its state and
+[1:05:41] national
+[1:05:42] peer districts, but the district is
+[1:05:44] spending proportionally less on
+[1:05:45] instruction and more on support services
+[1:05:47] than many of its peers.
+[1:05:49] Um so, that was from the State Secretary
+[1:05:52] of State's office in January 2019, and
+[1:05:54] then there was an update in 2022.
+[1:05:57] And it pointed out some of the
+[1:05:58] recommendations, like you said, like
+[1:06:00] some benchmarking as a recommendation
+[1:06:02] for transparency. What does it look like
+[1:06:04] compared to other districts so that we
+[1:06:06] can identify where we should be making
+[1:06:09] cuts. Um
+[1:06:12] uh and asked for reporting on potential
+[1:06:16] savings and highlighting like places
+[1:06:19] where that savings could happen.
+[1:06:21] Um so,
+[1:06:23] you're not It's not something new that
+[1:06:26] you're reporting, and you are
+[1:06:28] backed by the Oregon Secretary of State
+[1:06:30] at the time um in asking those same
+[1:06:33] questions.
+[1:06:34] Um
+[1:06:35] and I wondered, too, because I I asked
+[1:06:37] the question about ELD uh speaking to
+[1:06:40] like how many how much of that funding
+[1:06:42] is actually going to students, and those
+[1:06:44] most impacted will be those who maybe
+[1:06:47] don't have access to other educational
+[1:06:49] enrichment. Um
+[1:06:52] In that answer uh I received was that
+[1:06:56] like
+[1:06:57] there was a weighted loss of of ELD um
+[1:07:02] student population of 7.1%
+[1:07:06] um and it was a decrease overall of 3.8%
+[1:07:09] since 2023-24.
+[1:07:12] Um but it also points out that the
+[1:07:14] reduction in FTE is 23.3%.
+[1:07:18] So, I guess that's kind of like to the
+[1:07:21] same question, when we're receiving a
+[1:07:24] certain amount of funding for certain
+[1:07:26] populations,
+[1:07:28] why would that population decrease not
+[1:07:34] be proportional in the staffing decrease
+[1:07:37] that serves that population?
+[1:07:39] Um and I'm pointing out ELD because it's
+[1:07:41] very specific and like
+[1:07:43] legally
+[1:07:45] uh
+[1:07:46] focused. Like you wouldn't be teaching
+[1:07:48] ELD and something else necessarily.
+[1:07:50] You're teaching ELD to students who are
+[1:07:53] English language learners. Um
+[1:07:56] and to have there be like a 3.8%
+[1:07:59] reduction in an ELD students from '23 to
+[1:08:02] '25, a 7.1% reduction in their weighted
+[1:08:07] student number, but a 23.3%
+[1:08:10] FTE reduction, and an increase of their
+[1:08:13] ratios.
+[1:08:15] It's like
+[1:08:16] then where's where's that funding going?
+[1:08:19] And why is it so Why is it Why is that
+[1:08:22] loss so dramatic?
+[1:08:23] Um Yeah, Andy.
+[1:08:28] Um just reflecting on
+[1:08:30] on Anne's question. I think it's a good
+[1:08:31] question. Um I'll just say my experience
+[1:08:35] both
+[1:08:36] working in another very large district
+[1:08:38] and sort of as part of my day job seeing
+[1:08:40] how some of this stuff plays out in
+[1:08:42] other districts, there's sometimes the
+[1:08:44] larger and more complex districts
+[1:08:46] actually have good reason to have larger
+[1:08:49] sort of expenses in the in the support
+[1:08:52] services bucket.
+[1:08:54] Um
+[1:08:55] And that said, I think to me this is
+[1:08:57] gets back to what we were talking about
+[1:08:58] earlier about a need to offer a like
+[1:08:59] layman's definition of what exactly we
+[1:09:01] are talking about in the different in
+[1:09:03] the different buckets. Like to me,
+[1:09:04] that's the root
+[1:09:06] cause of the of the like people not
+[1:09:08] understanding this, and for good reason.
+[1:09:10] I think that's I think benchmarking is
+[1:09:12] great. I think the starting point is
+[1:09:13] what we were talking about earlier about
+[1:09:15] just getting a clear sense of, you know,
+[1:09:18] how much of the different buckets really
+[1:09:20] represents
+[1:09:21] student safety and, you know, staff
+[1:09:23] spending in schools versus definitely
+[1:09:25] burdening the classroom in the way you
+[1:09:27] framed it and all that. I I completely
+[1:09:29] agree that there needs to be
+[1:09:31] that needs to be easier for people to
+[1:09:33] understand. And then we can have we then
+[1:09:34] we can talk however much we want about
+[1:09:36] like we think something is maybe not a
+[1:09:37] good use of funds or not, but the
+[1:09:38] baseline is a common understanding of
+[1:09:40] what we're talking.
+[1:09:44] Yeah, I can jump in just a little bit to
+[1:09:46] offer a little piece of information
+[1:09:48] regarding support services. And so just
+[1:09:51] honing in on the general fund, um you'll
+[1:09:54] notice that uh operation of uh of plant
+[1:09:57] maintenance and student transportation
+[1:09:59] is a pretty large uh footprint
+[1:10:03] um of that support function. And so we
+[1:10:07] have significantly aging buildings and
+[1:10:10] infrastructure that require a lot of of
+[1:10:13] maintenance and upkeep. And I would be
+[1:10:15] curious to see when we're looking at
+[1:10:17] peer districts uh what their makeup is.
+[1:10:20] That's a little bit more
+[1:10:22] qualitative than quantitative to some
+[1:10:24] degree, but we can look at the numbers
+[1:10:26] to see like what are the age of
+[1:10:27] buildings um and then understanding what
+[1:10:30] peer districts to select from is also
+[1:10:32] going to be really critical.
+[1:10:34] Um and then transportation, we have um
+[1:10:38] a a big area of transportation to
+[1:10:41] compared to some districts. And in some
+[1:10:43] other states, they transport much
+[1:10:45] further. Um but what we have a
+[1:10:47] significant um distance between where we
+[1:10:51] can you know store the buses and then
+[1:10:53] picking up students. And so those
+[1:10:55] transportation costs are really
+[1:10:58] significant there. And so I I guess part
+[1:11:01] of that is is when you're looking at
+[1:11:02] tradeoffs, what I would offer is or that
+[1:11:05] evaluation is
+[1:11:07] um this is an example in general fund of
+[1:11:11] are we getting kids to school or are we
+[1:11:12] putting teachers in front of kids? And
+[1:11:14] I'm never going to pick one over
+[1:11:16] another. I just want to kind of
+[1:11:18] ground in that's that
+[1:11:21] piece where where yes, there's a lot
+[1:11:23] happening there. I know that
+[1:11:25] transportation department is is digging
+[1:11:27] into and evaluating what um the services
+[1:11:30] they're providing. The um
+[1:11:34] the ways in which we can reduce uh the
+[1:11:36] what I call the budget footprint in that
+[1:11:38] area as well. And you're calling that
+[1:11:40] out rightfully so. There is a lot
+[1:11:42] happening in support services.
+[1:11:44] Additionally, there are some school
+[1:11:46] positions that land in support services,
+[1:11:48] counselors. I'm actually not confident
+[1:11:51] on librarians if they're support or
+[1:11:53] instruction. Um
+[1:11:56] and I I don't want to misspeak on that.
+[1:11:58] Um I think they're instruction. Because
+[1:12:01] they provide classes. Like kids go to
+[1:12:04] library.
+[1:12:05] >> Yeah.
+[1:12:06] Thank Yeah, that the district that I
+[1:12:08] came from before here, uh they were uh
+[1:12:11] not uh they were classified uh
+[1:12:14] employees. So
+[1:12:15] thank you for clarifying that.
+[1:12:17] Um and then you'll see like
+[1:12:19] instructional staff development. This
+[1:12:20] function level report is going to give
+[1:12:22] you some really good detail as to where
+[1:12:24] we're investing within support services
+[1:12:27] for that fund. Um and then we can kind
+[1:12:30] of dig in to any of those areas if
+[1:12:32] there's a question. And I'll pause
+[1:12:34] there.
+[1:12:37] Thank you.
+[1:12:38] We're on page 103 of the budget
+[1:12:40] document. FYI.
+[1:12:46] Um and I
+[1:12:48] since I mentioned the Secretary of State
+[1:12:50] audits, I'm just putting the website the
+[1:12:52] PPS website where those audits live in
+[1:12:55] the chat. For the sake of transparency,
+[1:12:57] I'm saying it out loud.
+[1:12:59] >> [laughter]
+[1:13:05] >> Um since we're talking about
+[1:13:06] transportation, I have a question that
+[1:13:08] touches on transportation. Um being that
+[1:13:11] it it looks like we're planning a 13%
+[1:13:13] reduction to the talented and gifted
+[1:13:15] budget, which is a budget 1210. Um and
+[1:13:18] the comment explaining why suggests that
+[1:13:21] student participation is low, but TAG
+[1:13:23] students who are not at access schools
+[1:13:25] tend to have minimal access to TAG
+[1:13:27] programs. So that might be why
+[1:13:29] participation is low is cuz it's not
+[1:13:30] there.
+[1:13:31] And that reduction being coupled with
+[1:13:35] the proposed elimination of all
+[1:13:37] transportation to access, which is part
+[1:13:39] of how that access was a solution to
+[1:13:41] make it equitable across the district.
+[1:13:43] Um so now any family whose student can't
+[1:13:46] afford to drive or transport them will
+[1:13:48] have no access to TAG at all within PPS.
+[1:13:52] Um so how will reducing the budget allow
+[1:13:55] PPS to comply with its legal requirement
+[1:13:58] to provide programming to TAG students?
+[1:14:04] Angela. I don't Yeah, go ahead, Angela.
+[1:14:07] Well, I and I do want to um
+[1:14:10] give some context as well at the school
+[1:14:14] level. Um because there is a TAG
+[1:14:16] coordinator at each school.
+[1:14:19] Um and we used to have TOSAs that
+[1:14:21] specifically worked to help educators
+[1:14:23] with TAG. Like I remember my first year,
+[1:14:26] I was like,
+[1:14:27] I have all these students in fourth
+[1:14:29] grade and some are still reading at a
+[1:14:31] pre-literacy level and some are reading
+[1:14:33] at a middle school level. How do I
+[1:14:35] support my TAG students? Um and I had a
+[1:14:38] TOSA who came down uh teacher on special
+[1:14:41] assignment and just supported me with
+[1:14:43] like curriculum that I can embed into my
+[1:14:45] classroom. We started doing genius hour
+[1:14:48] um as a TAG enrichment. And so there are
+[1:14:51] ways that schools can do that, but we
+[1:14:53] have we no longer have TOSAs like that.
+[1:14:57] So I think it also speaks to the like
+[1:14:58] larger conversation of when we're
+[1:15:01] switching
+[1:15:04] when we're deciding where those services
+[1:15:06] and that funding goes, is it going to
+[1:15:09] support folks in doing that work at
+[1:15:11] folks at students' neighborhood schools?
+[1:15:14] Is it going through TOSAs? Is it going
+[1:15:15] through apps? Is it going through you
+[1:15:18] know, the access as a school? Like what
+[1:15:21] what are the ways that we're funding and
+[1:15:23] supporting TAG? Um
+[1:15:25] and if the only or the main way is
+[1:15:29] through access,
+[1:15:30] are kids actually no pun intended
+[1:15:33] accessing their TAG services if they
+[1:15:36] don't have access to transportation? But
+[1:15:39] I just wanted to also give that context
+[1:15:40] that that that there is a coordinator in
+[1:15:42] each school
+[1:15:43] and there should be more support for
+[1:15:46] that, but that support has been
+[1:15:48] eliminated over the past few years.
+[1:16:00] Oh, and Andy, did you still have a hand
+[1:16:01] up?
+[1:16:03] Nope. I did I did. Although Anne, were
+[1:16:05] you
+[1:16:07] were you asking were you looking for a
+[1:16:08] response on your question about the TAG
+[1:16:10] services from the district before?
+[1:16:14] Is that something that the CBRC
+[1:16:16] would want to raise as a question, I
+[1:16:18] suppose. Um
+[1:16:20] noting the cut to TAG in that it's the
+[1:16:21] financial cut the financial reduction
+[1:16:23] coupled with the proposed elimination of
+[1:16:26] transportation. Um I see. So you're like
+[1:16:29] a question about the budget. Yeah. Got
+[1:16:31] it.
+[1:16:33] Cuz transportation is not in the budget.
+[1:16:34] It's the context.
+[1:16:35] Yeah.
+[1:16:37] Yeah, I had submitted a question asking
+[1:16:38] about and just for transparency, I have
+[1:16:40] I I have two kids with access. So I'm
+[1:16:42] not going to pretend to be a unbiased
+[1:16:44] observer. I did submit a question and
+[1:16:46] asking cuz I don't think it's been
+[1:16:47] answered yet around sort of exactly what
+[1:16:49] the how much the district is expecting
+[1:16:51] to save um
+[1:16:52] like any transportation. I'm curious to
+[1:16:54] hear that. And Anne, I'll just kind of
+[1:16:56] cosign. I think
+[1:16:58] your framing is my
+[1:17:00] wondering that I think I would have even
+[1:17:01] if I didn't have good data about that
+[1:17:03] that decision.
+[1:17:05] Um
+[1:17:06] my question just to back up was we um
+[1:17:09] we're talking a minute ago about um
+[1:17:11] maybe one source of the of you know,
+[1:17:14] higher share of spending on support
+[1:17:16] services being our aging buildings. Has
+[1:17:18] the district done any modeling on like I
+[1:17:20] I know the superintendent's been really
+[1:17:22] clear that the point of doing
+[1:17:23] consolidation was not to save money
+[1:17:25] short term and so that's really my worry
+[1:17:26] is spreading our resources too thin, but
+[1:17:28] over the long run, are we expecting to
+[1:17:30] see any any savings on this front from
+[1:17:34] consolidation or has has the district
+[1:17:36] done any
+[1:17:37] preliminary thinking about that? And if
+[1:17:38] this is just opening a can of worms, I'm
+[1:17:40] happy to table it, but I do have a
+[1:17:42] wondering about
+[1:17:45] Uh so I
+[1:17:46] uh that our work is just getting
+[1:17:48] started. Uh we do not in full
+[1:17:50] transparency, we do not expect it to
+[1:17:51] save a lot of money because we're
+[1:17:53] lifting students and all the staffing
+[1:17:55] and putting them in another building.
+[1:17:57] And and the students still need teachers
+[1:17:59] that are with a reasonable class size.
+[1:18:01] So um we're not going to see a huge
+[1:18:04] savings there. What we should see is
+[1:18:05] better quality um
+[1:18:09] access to resources within a building.
+[1:18:12] So instead of having to choose someone
+[1:18:15] who's floating between three buildings,
+[1:18:17] um you should start to see more of
+[1:18:19] alignment of of a person who's in a
+[1:18:21] building more consistently.
+[1:18:24] Um there's a bigger question that I'm
+[1:18:26] sure is looming around sale of assets
+[1:18:29] and what do you do with a building? And
+[1:18:32] and those would all fall in
+[1:18:34] one-time revenue um things that would
+[1:18:37] come in and they would not resolve any
+[1:18:39] structural things. So not to say that
+[1:18:42] they wouldn't add value or the decision
+[1:18:44] shouldn't be made with them. They
+[1:18:45] absolutely should. Um but the the any
+[1:18:48] sort of property sale revenue that would
+[1:18:50] come in would be a one-time
+[1:18:53] gap closure for any structural gap that
+[1:18:57] happened. And then uh at a future year,
+[1:18:59] we would be back at the end at this
+[1:19:01] table saying, "Okay, well, we had this
+[1:19:02] one-time thing. So we chose not to
+[1:19:05] adjust potentially."
+[1:19:07] And then that means now we have to make
+[1:19:09] a different kind of kind of cut. And so
+[1:19:11] the hope would be that we would use
+[1:19:13] those revenues should they should they
+[1:19:15] happen um to create a more stable
+[1:19:19] movement over time that where our budget
+[1:19:21] is responsive to both decreases and
+[1:19:24] increases in student enrollment as
+[1:19:26] opposed to major swings.
+[1:19:30] That's helpful. Yeah, I think my
+[1:19:31] question is getting at more of the
+[1:19:32] second category of sort of what happens
+[1:19:34] to the to the buildings that are no
+[1:19:36] longer going to be used as as fields and
+[1:19:38] whether there's any savings there and
+[1:19:40] like if I think we can talk about who
+[1:19:42] would buy them and I totally understand
+[1:19:44] you all haven't
+[1:19:45] you haven't even gone through the
+[1:19:46] consolidation process yet, but just
+[1:19:47] thought about sort of what happens at
+[1:19:49] the end of that time. I was just sort of
+[1:19:51] curious
+[1:19:52] even directionally whether we are
+[1:19:53] expecting any long-term
+[1:19:55] advantage there and it sounds like I'm
+[1:19:57] hearing no or also maybe it's just TBD
+[1:20:00] where we land, but
+[1:20:02] but I think the your second part the
+[1:20:03] second part of what you answered is kind
+[1:20:05] of what I was getting
+[1:20:07] Yeah, I think that the the board would
+[1:20:09] have the authority to dispose of of
+[1:20:11] those property
+[1:20:13] and then we would go through the
+[1:20:14] process. So it would be a board decision
+[1:20:17] and this body could certainly
+[1:20:19] um
+[1:20:20] decide to make a recommendation
+[1:20:23] um to in some sort as part of your
+[1:20:26] report um as to if that were to happen
+[1:20:29] what you would recommend.
+[1:20:37] Yeah, um that leads me to another
+[1:20:40] question around property. So
+[1:20:43] you know, we sold that Washington
+[1:20:46] building and that property and now it's
+[1:20:48] Revolution Hall and is great um and I
+[1:20:51] know there's that like
+[1:20:53] hesitation of like
+[1:20:55] like we could if we sell that property
+[1:20:58] like is there value in that property
+[1:21:00] that we could use in the future or
+[1:21:03] um I know
+[1:21:05] Margaret Calvert has also shared like
+[1:21:07] some of these properties if there is
+[1:21:09] consolidation will also serve the
+[1:21:11] purpose that Marshall serves right now
+[1:21:13] for uh schools that are getting
+[1:21:15] renovated. Like students have to be
+[1:21:17] somewhere while their school is being
+[1:21:19] renovated. So some of those buildings
+[1:21:20] might be able to be used for that. But
+[1:21:22] I'm wondering um you know, we have
+[1:21:25] certain properties that we lease out and
+[1:21:27] make revenue from that is not one time.
+[1:21:30] Um and then I'm so I'm wondering where
+[1:21:32] we would find that in the budget
+[1:21:35] and how that funding is like then used.
+[1:21:38] So I know we have some charter schools
+[1:21:40] that pay rent
+[1:21:42] um and
+[1:21:43] uh
+[1:21:44] then I also and this is similar if this
+[1:21:47] is a can of worms we don't want to go
+[1:21:49] down that's fine, but I remember with
+[1:21:52] part of the question for the
+[1:21:54] um
+[1:21:56] the center the one north property was
+[1:22:00] the uh
+[1:22:02] the fact that we would have tenants in
+[1:22:03] that building. Um and if there is any
+[1:22:07] update around like do we have tenants in
+[1:22:09] that building? Are we making any revenue
+[1:22:11] on that building? I know there were
+[1:22:13] concerns about the cost of maintenance
+[1:22:16] for that building. Is that something
+[1:22:18] that we're seeing in this budget as
+[1:22:20] well? Like where where do some of the
+[1:22:24] costs and also revenue from properties
+[1:22:27] that we own that are not used
+[1:22:28] exclusively for
+[1:22:30] the function of school, where would that
+[1:22:33] live in that in this budget?
+[1:22:35] Yeah, I think Alexander has teed up the
+[1:22:38] page that I would reference. Alexander,
+[1:22:40] if you want to walk through the page
+[1:22:41] number and then maybe zoom in a little
+[1:22:44] bit um so you can see the screen uh to
+[1:22:47] walk through that.
+[1:22:49] Sure. So we're looking at the general
+[1:22:51] fund um resources by object report. We
+[1:22:55] could look at how this looks at all
+[1:22:56] funds, but just focusing on our
+[1:22:58] operating budget for now.
+[1:23:00] We have a few object codes um or a
+[1:23:02] couple of object codes where this would
+[1:23:04] come up. So civic use of buildings or
+[1:23:07] cub would be one area where we have um
+[1:23:11] some fees that are charged to partners
+[1:23:13] for usage of PPS space and um provide
+[1:23:16] some revenue here. So this is rounded to
+[1:23:18] the thousands.
+[1:23:19] So our estimate is $600,000 for the
+[1:23:22] upcoming fiscal year.
+[1:23:24] Um we also have rent lease of facilities
+[1:23:27] here that is budgeted at $1 million for
+[1:23:29] the upcoming fiscal year.
+[1:23:32] Um are there other areas Tammy where you
+[1:23:34] would want to highlight lease proceeds?
+[1:23:38] Yep, that's exactly where I was looking
+[1:23:40] and I'm not intentionally avoiding your
+[1:23:43] one north question. I actually I I'm
+[1:23:46] writing a note to myself to make sure I
+[1:23:48] get a comprehensive answer. Uh the the
+[1:23:51] data is embedded in a department's
+[1:23:53] budget that they've built and that it
+[1:23:55] lands in these lines in aggregate and
+[1:23:57] I'll need to dig in to to find out
+[1:23:59] exactly where we're at on one north.
+[1:24:04] Awesome, thank you.
+[1:24:11] Um so I know some of the so we've kind
+[1:24:14] of really focused on the uh transparency
+[1:24:18] and legibility part of
+[1:24:21] some of our recommendations and as well
+[1:24:23] as part of the like
+[1:24:26] preservation of programs is where I
+[1:24:28] would put some of that the the questions
+[1:24:30] around access like and and ELD and all
+[1:24:33] these things. Like how are these funds
+[1:24:35] being reduced and are they being reduced
+[1:24:37] proportionally or not? Um
+[1:24:41] and I'm wondering if folks have any
+[1:24:44] other kind of recommendations under
+[1:24:46] either those two topics or um
+[1:24:51] any other themes uh that that they might
+[1:24:54] want to
+[1:24:55] share now that we can start adding to
+[1:24:59] a future document.
+[1:25:14] I don't know if you're talking about an
+[1:25:15] access and ELD specifically. Is that
+[1:25:17] what it
+[1:25:18] Oh, I meant like um if there are any
+[1:25:20] other programs or uh
+[1:25:23] questions you all have around those
+[1:25:25] programs. I know I came in a little bit
+[1:25:27] late, so I don't know if we got an
+[1:25:28] answer to kind of the
+[1:25:31] question around sports and how that's
+[1:25:33] related to budgets and where in the
+[1:25:34] budgets we'd see that um but I know that
+[1:25:38] you know, one of the big themes that
+[1:25:41] that's one of the big themes that that
+[1:25:43] I've heard come up multiple times and
+[1:25:44] just wondering if there are
+[1:25:46] additional pieces we want to add to
+[1:25:48] recommendations
+[1:25:49] if we have any recommendations around
+[1:25:51] those themes
+[1:25:53] the whole shebang.
+[1:26:20] Maybe I interrupted the middle of your
+[1:26:21] answer. I'm sorry.
+[1:26:24] Well, I was I was going to go on a
+[1:26:25] slightly different topic. Um so if you
+[1:26:28] want to talk about this, that's totally
+[1:26:30] fine. Um
+[1:26:32] if not, I was just going to say I don't
+[1:26:33] know if we've come to a a consensus on
+[1:26:36] Anne's point around like benchmarking,
+[1:26:38] but I do think that is like a really
+[1:26:40] good recommendation that we should be
+[1:26:42] making is that there should be some
+[1:26:43] should be some amount of doesn't have to
+[1:26:45] be every year, but there should be some
+[1:26:46] consistent benchmark process.
+[1:26:49] Um and I don't even know if we could
+[1:26:51] lump that in with the theme of
+[1:26:53] um you know, like alternative revenues
+[1:26:56] and costs and those types of things and
+[1:26:58] it's just sort of like comparison of you
+[1:27:01] know, like what we're spending and
+[1:27:04] um using and receiving compared to just
+[1:27:08] our peers.
+[1:27:09] Um
+[1:27:11] unless there already is a benchmark
+[1:27:13] requirement, but it sounds like there
+[1:27:15] actually isn't any type of benchmark
+[1:27:17] requirement which surprises me. Frankly.
+[1:27:22] There There have been some benchmarks
+[1:27:25] completed to date
+[1:27:27] um as part of that
+[1:27:29] ODE audit. Um there was a response to
+[1:27:32] that with benchmarking
+[1:27:34] as well that would be available. I don't
+[1:27:36] know if that is on Alexander if that's
+[1:27:39] on the website um or if it's
+[1:27:41] that's been made publicly available in
+[1:27:43] the past, but that's something we could
+[1:27:44] provide. Um
+[1:27:46] But it almost sounds like it's been like
+[1:27:48] Sorry.
+[1:27:49] Um it sounds like it's almost like
+[1:27:50] always been in in reaction to something
+[1:27:53] as opposed to like a proactive like
+[1:27:56] every three years we're going to get new
+[1:27:58] benchmarks or every five years or
+[1:27:59] something like something like that. Some
+[1:28:01] type of policy in that regard.
+[1:28:03] Um Earlier this year as part of our
+[1:28:05] budgeting process, we did engage with
+[1:28:07] the same um same organization to do an
+[1:28:10] another benchmark to for comparator
+[1:28:12] districts and they they look at at
+[1:28:15] several things. Uh
+[1:28:16] the limited scope and that's going to be
+[1:28:18] true of just us finance staff as well is
+[1:28:21] is access to information. So they have
+[1:28:23] information based on other districts
+[1:28:26] that have participated in benchmark and
+[1:28:28] then they look for the closest
+[1:28:29] comparators within and you'll always see
+[1:28:31] some sort of difference there um but
+[1:28:34] that's something that we can also
+[1:28:35] provide and and as part of the
+[1:28:38] um organizational restructure
+[1:28:40] um that we've already seen here at
+[1:28:42] central office that part of that was in
+[1:28:44] response to um
+[1:28:47] really a holistic look across and
+[1:28:49] benchmarking and data helped inform that
+[1:28:51] as well.
+[1:28:52] Um so that that is a part of our
+[1:28:54] process, but what I'm hearing you say
+[1:28:56] that's a little different than what's
+[1:28:57] been done is really making that an
+[1:29:00] annual process.
+[1:29:02] Um one of the recommendations I would
+[1:29:04] just selfishly hope this committee would
+[1:29:06] come up with is what you would consider
+[1:29:09] as important factors when considering
+[1:29:11] what a peer district looks like uh
+[1:29:14] because that is a something that each
+[1:29:16] person might have a different opinion
+[1:29:19] on.
+[1:29:20] Yes. I I agree and I don't even know if
+[1:29:22] it's necessarily CSD the right group to
+[1:29:26] make the recommendation as to what
+[1:29:27] should be a peer group, but I I do
+[1:29:29] agree. Like I don't think we can just
+[1:29:31] say like, "Oh, this is how we compare
+[1:29:32] nationally to every single school
+[1:29:33] district across the nation, right?"
+[1:29:35] Because PPS is very
+[1:29:37] different than somewhere in the middle
+[1:29:38] of the Midwest,
+[1:29:40] um, rural Midwest, I'll say. So, uh, I
+[1:29:43] [clears throat] I do very much agree
+[1:29:44] with
+[1:29:46] I would even ask Tammy.
+[1:29:48] What would be and Alexandra, what would
+[1:29:49] be your recommendation? What should a
+[1:29:51] good benchmarking program for PPS look
+[1:29:53] like? Should it be annual? Should it be
+[1:29:54] every 3 years? Is there a particular
+[1:29:56] cadence? Is there a particular type of
+[1:29:58] school district that makes a lot of
+[1:29:59] sense? And
+[1:30:01] do you have ideas that we can put into
+[1:30:03] the recommendation or talk about?
+[1:30:07] I think most of my experience has been
+[1:30:10] in Oregon K-12. And there is some power
+[1:30:13] to understanding the nuance of Oregon,
+[1:30:15] but then you're limited, right? Um, to
+[1:30:17] Beaverton, Salem-Keizer.
+[1:30:19] You want to look at more than just, um,
+[1:30:22] student enrollment counts. So,
+[1:30:24] demographic makeup can be a really,
+[1:30:27] uh, telling story, uh, especially when
+[1:30:29] you look at instruction versus support.
+[1:30:32] And and so then looking out across the
+[1:30:35] nation,
+[1:30:37] um,
+[1:30:38] I think I brought up earlier tonight one
+[1:30:40] of the challenges I
+[1:30:42] have trouble with is the age and quality
+[1:30:45] of the building infrastructure that
+[1:30:46] they're battling and that being
+[1:30:48] something that either needs to be called
+[1:30:50] out or noted separately, um, to to pull
+[1:30:54] that away and then in a data, um,
+[1:30:57] we also face the challenge of reporting,
+[1:31:00] uh, by state varies. So, ODE has a
+[1:31:02] prescriptive function object account
+[1:31:05] code and for the I'm going to say for
+[1:31:07] the most part districts are pretty good
+[1:31:09] at following that, um, because there
+[1:31:11] isn't a lot of interpretation in there.
+[1:31:13] Other states
+[1:31:14] don't necessarily have the same
+[1:31:16] structure or some comparison or
+[1:31:19] what they classify as a certain type of
+[1:31:22] support
+[1:31:24] FTE,
+[1:31:25] we might actually consider to be more
+[1:31:27] instructional. And you couldn't tell
+[1:31:29] that in the accounting code or the So,
+[1:31:31] there is there is a significant amount
+[1:31:34] of work
+[1:31:35] that goes into that and not to say it's
+[1:31:37] I think it's worth it. I
+[1:31:40] I'm I would recommend every 3 to 5 years
+[1:31:42] and I think that that would be best
+[1:31:44] positioned with a board
+[1:31:47] Tammy's opinion here,
+[1:31:48] um, a board plan, to 5-year plan from
+[1:31:51] the board, right? So, you're aligning
+[1:31:53] your your recommendations on on peer
+[1:31:56] districts with,
+[1:31:58] um, kind of that guiding plan and then
+[1:31:59] that all moves together so that you can
+[1:32:03] that next cycle would then restart and
+[1:32:05] give the board an opportunity to
+[1:32:06] consider the direction that it wants,
+[1:32:09] uh, the district to move towards. And I
+[1:32:11] say board, but that that can be
+[1:32:13] superintendent and board. It doesn't
+[1:32:15] necessarily need to be, um, specifically
+[1:32:17] board directed,
+[1:32:19] um,
+[1:32:20] >> [clears throat]
+[1:32:21] >> 3 to 5 years for the It's It's It's It's
+[1:32:22] a significant level of work and,
+[1:32:26] um,
+[1:32:27] it's no secret that we're reducing
+[1:32:29] staffing in the central office and so
+[1:32:31] having, um, people to be able to do that
+[1:32:35] work with fidelity and, um, with
+[1:32:38] intention,
+[1:32:39] um, will require a trade-off in what
+[1:32:42] we're not doing and that that doesn't
+[1:32:44] mean that we drop something important. I
+[1:32:46] just want to be clear about that. It's
+[1:32:47] just so so also being mindful of
+[1:32:50] competing priorities at the time. Um, so
+[1:32:53] then for me selfishly that looks like a
+[1:32:55] summer project. I know that
+[1:32:57] >> [laughter]
+[1:32:58] >> little crazy, but, uh,
+[1:33:01] for others the summer might be like,
+[1:33:02] "Don't talk to me. That's my only time
+[1:33:04] to take a break and I don't want to
+[1:33:06] focus."
+[1:33:07] Yeah.
+[1:33:09] Thank you for that, May.
+[1:33:10] >> You're welcome.
+[1:33:11] Yeah, and and just to to your point, um,
+[1:33:14] if you look at the recommendation
+[1:33:16] follow-up report from the Secretary of
+[1:33:18] State, one of the recommendations is to
+[1:33:20] conduct regular and public peer
+[1:33:22] benchmarking to identify potential
+[1:33:24] savings areas and spending challenges.
+[1:33:27] And I'm reading directly, it's on page
+[1:33:28] 12. Identify peer districts using
+[1:33:31] objective criteria such as enrollment,
+[1:33:33] level of poverty, and other demographic
+[1:33:35] factors. So, it kind of talks a little
+[1:33:37] bit about that and it says, um,
+[1:33:40] "At the time as part of the quarterly
+[1:33:41] financial reports to the school board,
+[1:33:43] PPS produces a peer comparison and
+[1:33:45] benchmark analysis based on other Oregon
+[1:33:48] districts with over 10,000 students."
+[1:33:51] "District finance staff meet regularly
+[1:33:53] with peers from other districts in this
+[1:33:55] 10,000 student group, um, and PPS also
+[1:33:58] participates in the Council of the Great
+[1:34:00] City Schools Benchmarking Project, which
+[1:34:03] allows PPS to compare its operations and
+[1:34:05] performance to other large districts
+[1:34:07] across the nation." So, this is
+[1:34:09] from that time. So, uh, things might
+[1:34:11] have changed. Um, and then it goes on to
+[1:34:14] say, uh, "Despite these benchmarking
+[1:34:16] efforts, PPS provided no evidence the
+[1:34:18] work has been used to identify savings
+[1:34:21] areas and address spending challenges.
+[1:34:23] District officials state benchmarking is
+[1:34:26] used in internal discussions, but this
+[1:34:28] process is not transparent to the public
+[1:34:30] or to policymakers."
+[1:34:32] Um, and while the district has publicly
+[1:34:33] released benchmarking results, these are
+[1:34:36] limited in choice of peer districts and
+[1:34:38] level of financial details.
+[1:34:41] Um, and it says, "Including urban peers
+[1:34:43] with demographics more comparable to PPS
+[1:34:45] than other Oregon districts." So, it
+[1:34:48] talks a little bit about some of the
+[1:34:50] ways that we can do benchmarking,
+[1:34:51] whether it's enrollment or level of
+[1:34:53] poverty or other demographic factors,
+[1:34:56] because we are like one of the urban
+[1:34:59] districts in the state that we might
+[1:35:01] have to compare outside of state. Um,
+[1:35:03] but it also speaks a little bit to how
+[1:35:06] some of this is kind of already done,
+[1:35:09] um, but maybe that has changed since
+[1:35:11] this report came out.
+[1:35:15] Um,
+[1:35:16] oh, Tammy and then Patty.
+[1:35:18] Oh.
+[1:35:20] I was just going to offer that as the
+[1:35:21] the CGCS, the Council of Great City
+[1:35:23] Schools reporting, they, uh, switched
+[1:35:25] their uh, platform and so they're a
+[1:35:28] little bit behind in
+[1:35:29] that collection, but we we do
+[1:35:32] participate, um, and it's coordinated
+[1:35:35] through. So, that that is happening
+[1:35:37] annually.
+[1:35:40] Thank you.
+[1:35:42] Director Solven.
+[1:35:45] Yeah, I just wanted to apologize. I
+[1:35:47] wasn't here at the last meeting,
+[1:35:49] but I did look at the video
+[1:35:52] and I just want to say how impressed I
+[1:35:54] am with the questions
+[1:35:57] that are getting asked and
+[1:36:00] I think it's really going to make a
+[1:36:01] difference. It It It hasn't always made
+[1:36:03] a difference. I was on,
+[1:36:05] uh,
+[1:36:06] the board representative the last 2
+[1:36:08] years
+[1:36:09] and
+[1:36:10] I have learned so much from you. Anyway,
+[1:36:13] I just really want to tell you how much
+[1:36:14] I appreciate
+[1:36:16] time, effort, and all your thoughts.
+[1:36:17] It's been
+[1:36:19] really helpful.
+[1:36:21] I think it's probably helpful to
+[1:36:22] the to Tammy and Michelle, too, I can
+[1:36:25] imagine. So, thanks a lot.
+[1:36:39] Yeah, I know, um, I saw Julia in the
+[1:36:41] chat, you shared, um,
+[1:36:43] asking chat GPT about similar school
+[1:36:45] district size issues, goals, and it gave
+[1:36:47] San Francisco, Seattle, and Denver. I
+[1:36:49] know in the audit Seattle is one that
+[1:36:52] we're compared to as well as Beaverton
+[1:36:54] when it comes to some different parts
+[1:36:57] and I and I wonder if it's worth
+[1:36:59] not to be the teacher that gives folks
+[1:37:01] homework, but if it's worth looking
+[1:37:03] through the audits to see if there's any
+[1:37:05] trends or questions that we've cuz I'm
+[1:37:07] hearing a lot of things that I'm like,
+[1:37:08] "I think I've read that before." And
+[1:37:10] it's been in the audits and there might
+[1:37:12] be some, um, details that would help us
+[1:37:15] with our recommendations,
+[1:37:17] uh, if they are similar to what's
+[1:37:20] already been recommended and and the
+[1:37:22] updated one was 2022, so it is about 4
+[1:37:24] years
+[1:37:26] out of date, um, but if it hasn't
+[1:37:29] changed in 4 years, maybe it's something
+[1:37:31] we want to also continue to recommend.
+[1:37:33] Um,
+[1:37:35] uh, but I know that other school
+[1:37:37] districts, uh, Sacramento is similar
+[1:37:39] size as well and has also dealt with,
+[1:37:43] um,
+[1:37:44] the school closure conversations and
+[1:37:46] student population declining, um,
+[1:37:50] and, uh, pretty similar levels of
+[1:37:53] diversity, maybe a little bit more.
+[1:37:57] Yeah.
+[1:38:00] So, I wonder if at this point, um, Hey,
+[1:38:04] Angela, I just want to You know, you it
+[1:38:06] was kind of crickets after you asked
+[1:38:09] about sports and
+[1:38:11] I
+[1:38:12] Were you asking
+[1:38:14] Yeah, and and it was I was more curious
+[1:38:16] how it's part of the budget and I really
+[1:38:19] appreciate that. Um, is there anything
+[1:38:22] to talk about? I didn't know who exactly
+[1:38:24] who you were asking the question to.
+[1:38:29] Yeah, I I I know that it came up, um,
+[1:38:32] who owns the work, how is it funded, how
+[1:38:35] are those decisions made around budgets,
+[1:38:38] extracurriculars, is it district level,
+[1:38:41] building level? Um,
+[1:38:43] and so I guess my my wonder, I know that
+[1:38:46] we were told it's on the on page 101 of
+[1:38:49] the budget at the very bottom.
+[1:38:51] Um,
+[1:38:54] all right.
+[1:38:58] So, that's that's
+[1:39:00] general funds details, but I'm wondering
+[1:39:02] if there's any other questions that
+[1:39:04] maybe you had or or deeper questions
+[1:39:08] past what we asked previously around
+[1:39:11] sports and, uh
+[1:39:14] I guess really maybe my only question
+[1:39:16] would be is is it has it changed is it
+[1:39:19] changed it
+[1:39:21] has it changed from and I can't really
+[1:39:24] the numbers are too small for me to for
+[1:39:26] my eyes to see. Thank [laughter] you.
+[1:39:30] Uh thank you. Um from like over the past
+[1:39:33] over the years has there been any
+[1:39:35] significant change in the budget
+[1:39:37] allocation for sports and if so why?
+[1:39:42] Um
+[1:39:43] but it seems like only a few sports are
+[1:39:46] listed.
+[1:39:49] So the question from last week just as a
+[1:39:51] reminder um if I remember correctly was
+[1:39:53] focused on any proceeds that were
+[1:39:56] collected as part of the athletics
+[1:39:58] program. So um how do we
+[1:40:02] plan for the revenue um
+[1:40:04] on on the resource side. So that's what
+[1:40:07] this is presenting here. We have some
+[1:40:09] pay to play fees um
+[1:40:11] and and admission fees um here including
+[1:40:14] football admissions with the highest
+[1:40:16] revenue estimated at 120,000.
+[1:40:19] So those are some of the um
+[1:40:23] the revenues that we expect for those
+[1:40:25] programs and and the question from last
+[1:40:28] week was also around expense and um
+[1:40:32] Director Booth did I I thought um like a
+[1:40:36] great job responding to some of that but
+[1:40:38] I don't know if it offered the amount of
+[1:40:40] detail um
+[1:40:42] that was requested around that would be
+[1:40:44] more focused on the expense side. Um and
+[1:40:47] we have prepared we'll we'll um include
+[1:40:50] that response in our tracking log so so
+[1:40:53] folks can read through it versus having
+[1:40:55] to go and look at the minutes or um
+[1:40:57] other sources to find information. I
+[1:40:59] don't know Tammy if you would want to
+[1:41:01] remind folks of
+[1:41:03] um what you shared last week around the
+[1:41:05] expenses.
+[1:41:08] I think I was just sharing that there
+[1:41:10] was a
+[1:41:11] um
+[1:41:12] a a significant difference between what
+[1:41:13] is funded through the general fund
+[1:41:15] versus the revenue that we collect and
+[1:41:18] and to answer your question very
+[1:41:19] directly yes that has varied over time.
+[1:41:23] Um
+[1:41:23] are we looking at significant swings for
+[1:41:27] um next year the answer is no we are
+[1:41:29] not.
+[1:41:30] Um what that looks like in practice um
+[1:41:34] and I kind of alluded to like Marshall's
+[1:41:35] going to know the details
+[1:41:37] um
+[1:41:38] that the director um I
+[1:41:42] the details on the specifics but that
+[1:41:44] looks like um
+[1:41:46] OSA A sports versus uh club sports and
+[1:41:49] what we add
+[1:41:51] um and and fund through that process and
+[1:41:53] that the number and the quantity
+[1:41:56] um and which we're funding there.
+[1:41:58] Um and so it it it doesn't look like
+[1:42:01] less although there will be um less
+[1:42:05] it's my understanding there will be less
+[1:42:06] coaching staff for next year um and and
+[1:42:09] that will look like um different levels
+[1:42:12] of of students on a team versus the
+[1:42:14] number of coaches they will have access
+[1:42:16] to
+[1:42:17] um but I would need to pull the the more
+[1:42:19] granular data to
+[1:42:21] give more detail on there if that's
+[1:42:23] something that the CBRC wants to add to
+[1:42:26] their report and this would help.
+[1:42:35] I think only if there was like
+[1:42:36] significant change or
+[1:42:39] and it sounds like it there's not.
+[1:42:46] I'm just pulling a couple of things in
+[1:42:48] the background here my computer is is
+[1:42:50] running just a little slow.
+[1:42:53] Um
+[1:42:55] but looking over the budget
+[1:43:00] looks like
+[1:43:02] yeah there'll be a
+[1:43:04] a modest increase there.
+[1:43:07] Um
+[1:43:10] can you is there a function code
+[1:43:11] associated I don't think there is
+[1:43:13] specifically.
+[1:43:17] I don't see that level of detail.
+[1:43:19] >> Okay yeah.
+[1:43:20] I had I had a suspicion it was going to
+[1:43:22] land in a function.
+[1:43:28] School administrative service area
+[1:43:30] direction.
+[1:43:34] 11322
+[1:43:48] So high school extracurricular
+[1:43:54] that's where you're going to see that
+[1:43:55] come through and so you can see here
+[1:43:58] that
+[1:44:00] um
+[1:44:02] that there was a reduction in the budget
+[1:44:05] in 2526
+[1:44:09] and then 2627 is maintaining that high
+[1:44:12] school extracurricular.
+[1:44:19] So is that um in the high school
+[1:44:21] extracurricular
+[1:44:24] the
+[1:44:25] um adopted amount
+[1:44:28] and then is is is increasing between um
+[1:44:34] or excuse me the amount is increasing
+[1:44:35] between the adopted of 2526
+[1:44:38] and the proposed for 2627
+[1:44:41] but the budgeted FTE is going down. So
+[1:44:44] that means that the funds are increasing
+[1:44:47] to support
+[1:44:49] things outside of FTE.
+[1:44:53] I would want to pull the details there
+[1:44:55] to be sure uh there's
+[1:44:58] thousands of lines so I'm kind of
+[1:45:00] scrambling on the side but but that is
+[1:45:02] that yes that is how I would read that.
+[1:45:04] Yes that the FTE associated with that
+[1:45:06] function
+[1:45:08] are being reduced in the in that
+[1:45:10] function area. What I
+[1:45:12] want to double check
+[1:45:14] um is did because I see an increase very
+[1:45:18] modest in middle school extracurricular.
+[1:45:21] I don't know if there was a shift so I
+[1:45:22] just I want to make sure there wasn't
+[1:45:23] any sort of shifting happening as
+[1:45:25] opposed to true reduction. Um Got it.
+[1:45:30] Given the size of our
+[1:45:32] reductions I doubt that that would be
+[1:45:34] the case.
+[1:45:39] Yeah. I
+[1:45:43] And I also believe that 1132 as a
+[1:45:46] function code is going to probably hold
+[1:45:51] more than just athletics and so I don't
+[1:45:53] want to leave the impression that that
+[1:45:55] is equal to athletics. Mm got it.
+[1:45:59] So when I I want to make sure that's a
+[1:46:01] very clear picture of what's happening.
+[1:46:02] There's not a necessarily a one-to-one
+[1:46:04] but it's possible.
+[1:46:12] So that could be like
+[1:46:14] if you have a forensics team at a high
+[1:46:16] school that has to do trips
+[1:46:18] to competitions or something that might
+[1:46:21] be a high school extracurricular that's
+[1:46:23] non-sport
+[1:46:24] that is connected to that.
+[1:46:27] Potentially yes. Yeah.
+[1:46:33] Okay.
+[1:46:37] So um just thinking about our time and
+[1:46:41] the time we have left tonight um
+[1:46:45] I uh was trying to kind of like pull out
+[1:46:48] some of the themes that have continued
+[1:46:51] um into maybe some next time uh
+[1:46:55] providing kind of that list is like
+[1:46:57] recommendation areas and then we can
+[1:46:59] talk through like what those
+[1:47:00] recommendations would be. Um so I'll
+[1:47:03] just read out what I have so far um
+[1:47:07] and then ask if it would be helpful for
+[1:47:10] me to just kind of like gather all that
+[1:47:12] and send that out so we can start
+[1:47:13] talking through what we might want to
+[1:47:16] recommend through those categories.
+[1:47:19] Um so the first I had oh go ahead Ann.
+[1:47:21] Do we have quorum? There was an issue at
+[1:47:23] the beginning of the call where we
+[1:47:24] couldn't make any decisions because
+[1:47:26] there weren't enough people here. So we
+[1:47:27] should figure out if we have enough
+[1:47:29] people to decide anything.
+[1:47:31] Great question. Um what is technically
+[1:47:34] our quorum um for this body?
+[1:47:38] With 13 voting members our quorum would
+[1:47:41] be seven.
+[1:47:44] Um so 50% plus one. I'm just counting
+[1:47:48] our participants now.
+[1:47:51] We do not have quorum. Yeah.
+[1:47:55] Um so you know thank you Ann and I
+[1:47:58] wasn't I wasn't planning on voting on
+[1:48:00] anything tonight. I just wanted to see
+[1:48:02] if just a general like straw poll are
+[1:48:05] these the thing am I hearing what am I
+[1:48:08] hearing this correctly is there some wax
+[1:48:10] in the ear that I'm missing something.
+[1:48:12] Um so the first one is transparency and
+[1:48:16] legibility for the public.
+[1:48:18] Um
+[1:48:19] a recommendation
+[1:48:21] uh around like volumes should have more
+[1:48:24] differentiation between schools
+[1:48:25] construction central office um making it
+[1:48:28] a priority next year to focus on
+[1:48:30] legibility discussing benchmarking
+[1:48:34] um discussing the limitation of use of
+[1:48:36] dollars between the different funds so
+[1:48:38] that's transparent.
+[1:48:40] Um another one is recommending
+[1:48:43] alternative funding and expense sources.
+[1:48:45] So changes to fundraising
+[1:48:48] um change alternatives for contracting
+[1:48:51] services because there is a large
+[1:48:53] increase there. Um there is something
+[1:48:55] also I wanted to bring up around um
+[1:49:00] you know with the Moda Center uh
+[1:49:05] in in
+[1:49:07] uh investments by the state and the
+[1:49:08] county and the city, what would it look
+[1:49:11] like to maybe discuss like uh
+[1:49:14] a uh community benefits agreement with
+[1:49:17] the Moda Center to help fund our own
+[1:49:19] sports or other things, but just other
+[1:49:22] like what are some other ways that we
+[1:49:24] can increase um alternative funding and
+[1:49:27] expense sources?
+[1:49:29] Um
+[1:49:31] another theme is that I think we keep
+[1:49:34] coming back to is the encouraging
+[1:49:35] advocacy at the state level. Um
+[1:49:38] especially around PERS and the UAL.
+[1:49:41] Um
+[1:49:42] Uh
+[1:49:42] I think you talked about this today,
+[1:49:44] Anne, with the like parsing out um some
+[1:49:47] of the costs from the state school fund
+[1:49:50] that are not actually going to students
+[1:49:52] like PERS. Um and and health insur- like
+[1:49:56] how do we make it clear when we're
+[1:49:58] advocating what what needs to change?
+[1:50:02] Um and then something around the
+[1:50:04] preservation of programs, like how are
+[1:50:06] funds being reduced proportionally or
+[1:50:08] not, talking about um
+[1:50:13] TAG, uh transportation
+[1:50:17] um which is like a whole different
+[1:50:20] budget line item, but just something to
+[1:50:21] consider as we're talking about equity
+[1:50:24] across programs,
+[1:50:26] um ELD, DLI
+[1:50:28] alphabet soup.
+[1:50:30] Um
+[1:50:32] but those were kind of the themes that I
+[1:50:33] kept hearing from the last
+[1:50:36] play time and then into this one. Anne,
+[1:50:38] go ahead.
+[1:50:39] >> Add one there, Angela. Just as long as
+[1:50:40] we're in alphabet soup, I believe two of
+[1:50:42] the programs that are significantly
+[1:50:43] impacted by the reduction in staff are
+[1:50:45] the ELL programs and I believe it's the
+[1:50:48] less restrictive programs.
+[1:50:50] So, I don't want just TAG to get brought
+[1:50:52] up cuz those are the parents on the
+[1:50:53] committee. Like there are multiple
+[1:50:55] specific programs that are meaningfully
+[1:50:57] and directly impacted at a greater rate
+[1:51:00] than the school district as a whole.
+[1:51:03] Yeah, would you um give some examples of
+[1:51:05] those less restrictive programs?
+[1:51:12] Hand that off to Alexandra.
+[1:51:14] Hand me
+[1:51:15] >> [laughter]
+[1:51:16] >> I'll hand you
+[1:51:16] >> looking at the line item budget?
+[1:51:20] So,
+[1:51:20] I was going to ask a question when you
+[1:51:22] were referring to the less restrictive
+[1:51:24] programs.
+[1:51:25] >> I might be remembering that code.
+[1:51:27] Uh no, when you're when you're looking
+[1:51:29] at that function code specifically, are
+[1:51:31] you looking at the all funds or the
+[1:51:33] general fund page?
+[1:51:37] I'm recalling something
+[1:51:38] >> I'm asking
+[1:51:39] >> And I was looking at the FTE page, the
+[1:51:41] change in FTE page where it's summarized
+[1:51:43] and it says which program loses FTE.
+[1:52:00] One of the summary pages, it wasn't the
+[1:52:02] regular budget.
+[1:52:10] So, when I look at the all funds
+[1:52:14] I see an increase of 1.72
+[1:52:18] FTE
+[1:52:20] under the less restrictive programs.
+[1:52:23] When I look at the general fund
+[1:52:26] I do see a decrease. This is one of
+[1:52:29] those and I'm honing in I have a
+[1:52:30] specific here because this is one of
+[1:52:32] those areas where you're going to see us
+[1:52:35] um
+[1:52:35] leaning into our our grant funds where
+[1:52:39] appropriate to help with this so that
+[1:52:42] we're maintaining services and supports
+[1:52:45] to students without reducing staffing.
+[1:52:47] So, in this page you should see that
+[1:52:50] that maintain FTE, but if we go to the
+[1:52:53] general fund, you're going to see what's
+[1:52:56] going to look like a little bit of what
+[1:52:58] I would call like a shocking decline in
+[1:53:00] gen fund
+[1:53:02] um comparatively and I wonder if that's
+[1:53:04] where you were at. Um
+[1:53:06] and this is the exact example I was
+[1:53:08] trying to um
+[1:53:10] use as why we would need an all funds
+[1:53:13] report and not just rely on an
+[1:53:14] individual fund because this is not
+[1:53:16] telling the right story. So All funds
+[1:53:18] except for the capital building, that
+[1:53:20] 1.4 billion that dilutes it all and
+[1:53:22] makes it fuzzy. I
+[1:53:23] otherwise like I will look and see if
+[1:53:26] this isn't the one I was looking at, but
+[1:53:28] I again, I'm going to put low confidence
+[1:53:30] on that right now. Let me go look and
+[1:53:32] see while Angela's team
+[1:53:36] Yeah, cuz when I look up the definition
+[1:53:39] in the budget book about less
+[1:53:40] restrictive programs, it's short for
+[1:53:43] less restrictive programs for students
+[1:53:45] with disabilities, so special learning
+[1:53:47] experiences for students with
+[1:53:48] disabilities outside the regular
+[1:53:50] classroom, like resource rooms
+[1:53:53] um for or learning centers where
+[1:53:55] students go during the day,
+[1:53:58] um instructional specialists are
+[1:54:00] supports for
+[1:54:02] uh
+[1:54:04] paras in gen ed classrooms
+[1:54:06] um
+[1:54:08] autism services, deaf and hard of
+[1:54:10] hearing, visually impaired
+[1:54:13] services etc.
+[1:54:32] Just as an aside, compliments to
+[1:54:33] Alexandra for like pumping through that
+[1:54:35] 300-page document in a matter of seconds
+[1:54:38] when we just randomly bring up topics.
+[1:54:39] [laughter]
+[1:54:40] Very impressive.
+[1:54:41] There's no one else who knows it. Yeah.
+[1:54:45] I just want to jump on real quick for a
+[1:54:48] time check. Uh
+[1:54:50] I know we're nearing the end of our time
+[1:54:51] and I wanted to make sure that we can
+[1:54:53] share our our meeting schedule with you
+[1:54:56] um for deliverables. I know that you're
+[1:54:58] still waiting on
+[1:55:00] answers from us, which we're receiving
+[1:55:02] to get as quickly as possible and we
+[1:55:04] also have a deadline coming up that is
+[1:55:07] only a couple days away for finalizing a
+[1:55:09] report. And so,
+[1:55:12] uh
+[1:55:13] what I'd like to propose is as
+[1:55:15] uh if this group could I don't know if I
+[1:55:18] which
+[1:55:19] questions we should put a thousand
+[1:55:22] percent of our effort into to get as
+[1:55:23] quickly as possible to help with that
+[1:55:25] report building. And then we will of
+[1:55:27] course anything that's a little left
+[1:55:29] that we can get quickly, we're also
+[1:55:30] going to turn over so that we can make
+[1:55:32] sure that we're able to deliver
+[1:55:34] everything we can. And I'll pause there
+[1:55:36] for student voice.
+[1:55:39] Hi, yeah, I might have missed this, but
+[1:55:41] I'm wondering if
+[1:55:43] I could get like a better or we could
+[1:55:44] get a better understanding of like what
+[1:55:46] the report is supposed to look like or
+[1:55:48] like what previous reports have looked
+[1:55:49] like or just sort of like the format of
+[1:55:51] that and the the way that's structured.
+[1:55:54] I think that would be helpful for me at
+[1:55:56] least.
+[1:56:02] Was that something that was already
+[1:56:03] discussed or was that
+[1:56:05] I don't believe this has been discussed
+[1:56:07] in the group space yet. I don't believe
+[1:56:10] you missed this. I'm just I am screen
+[1:56:12] sharing right now the um
+[1:56:14] report that was produced last spring by
+[1:56:16] our committee.
+[1:56:18] Um so the CBRC
+[1:56:20] I can walk through it very quickly. Um
+[1:56:23] the it was this
+[1:56:25] um report from this year was broken out
+[1:56:27] into background and purpose um focusing
+[1:56:30] on the charge of the CBRC
+[1:56:32] and then um the purpose of the budget
+[1:56:34] review. They provided overall
+[1:56:37] reflections with um kind of um guiding
+[1:56:40] principles around direct impact to
+[1:56:42] students and staff.
+[1:56:44] Um discussed budget context, long-term
+[1:56:47] out um outlook, areas of inquiry similar
+[1:56:51] to what we're um discussing right now.
+[1:56:54] Observations on staffing and student
+[1:56:57] impacts. Um there was a benchmarking
+[1:57:00] recommendation
+[1:57:02] um in this report as well.
+[1:57:04] There was a specific focus on title one
+[1:57:07] um changes and then impact to student
+[1:57:10] supports, equity funding, blended
+[1:57:12] classrooms also came up in this
+[1:57:15] um report. Assessment alignment came up
+[1:57:18] um
+[1:57:19] similar to this year's conversation,
+[1:57:21] operational efficiency similar to this
+[1:57:23] year
+[1:57:24] enrollment um which was a question that
+[1:57:26] has been asked already, attendance and
+[1:57:28] addressing chronic absenteeism was a
+[1:57:30] focus, the bond um
+[1:57:35] and
+[1:57:37] um there was um
+[1:57:39] also similar discussion around
+[1:57:40] transparency in the bond, revenue
+[1:57:43] diversification
+[1:57:44] asset management um around buildings and
+[1:57:48] reserves and one-time spending
+[1:57:50] um
+[1:57:51] and that kind of wrapped up the report
+[1:57:55] here.
+[1:57:59] The committee also produces a local
+[1:58:00] option levy report which has been linked
+[1:58:03] separately um as an example for how the
+[1:58:06] committee looked at that um
+[1:58:08] last year.
+[1:58:11] Cool. Thank you. And I did paste the
+[1:58:14] final CBRC report link in the chat.
+[1:58:18] Again, saying it out loud.
+[1:58:19] >> [laughter]
+[1:58:20] >> The chat's not visible publicly, just so
+[1:58:22] that if you wanted to click on that,
+[1:58:24] Eli, and look at it yourself, you could.
+[1:58:31] Yeah. Um How does the report get
+[1:58:34] written? Who write
+[1:58:36] Who writes it? How does it
+[1:58:39] get written? How do we do that?
+[1:58:47] At a really
+[1:58:49] practical level, usually in the past we
+[1:58:51] would um
+[1:58:53] we would have the report created during
+[1:58:55] these meetings and so similar to this
+[1:58:58] meeting, there would be some discussion
+[1:59:01] um that happens early on in the process
+[1:59:04] and then as staff support myself or
+[1:59:06] other staff would take notes and screen
+[1:59:09] share during the that note taking.
+[1:59:12] Um, so you could see what was being
+[1:59:14] recorded. It would be a group document
+[1:59:17] that um, the CBRC members would then
+[1:59:19] contribute to.
+[1:59:21] And and they would write portions of it
+[1:59:24] with some kind of outline that had had
+[1:59:26] already been created from the meeting.
+[1:59:29] Thank you.
+[1:59:33] Oof.
+[1:59:35] All right.
+[1:59:36] Um,
+[1:59:39] you know, we're hitting we're at 7:30.
+[1:59:42] Uh,
+[1:59:42] you know, I feel like we are it's
+[1:59:46] Thank you for that explanation Alexander
+[1:59:48] cuz it definitely is like, uh, we are
+[1:59:50] far from that
+[1:59:52] right now. That doesn't mean that we
+[1:59:54] can't get there. Um, so uh, before I
+[1:59:58] adjourn the meeting, um, just wanting to
+[2:00:02] uh,
+[2:00:03] acknowledge that uh,
+[2:00:05] Minyana put in the chat, uh, I noticed
+[2:00:07] that legal consulting and professional
+[2:00:09] services are bundled together in the
+[2:00:10] budget under a 1.7 million reduction.
+[2:00:13] There's an unclear breakdown of what
+[2:00:15] portion is legal versus consulting or
+[2:00:18] other services. Has there been any
+[2:00:20] additional detail shared on this or has
+[2:00:22] the group already discussed it?
+[2:00:24] Um, as far as I know we haven't
+[2:00:26] discussed it, but
+[2:00:28] uh,
+[2:00:29] that's a great question to add to our
+[2:00:31] questions during meetings
+[2:00:33] document. Um, and uh, I'm hoping maybe
+[2:00:37] next when we meet next on Wednesday, um,
+[2:00:41] I can share out what I,
+[2:00:44] you know, what I've read out loud as
+[2:00:46] like the themes that I'm seeing and and
+[2:00:48] folks can maybe
+[2:00:50] ponder on that, think about that and
+[2:00:52] then when we come back on Wednesday, we
+[2:00:54] can talk a little bit about the outline
+[2:00:56] and start working on the actual report.
+[2:01:00] Um, and hopefully we'll have enough
+[2:01:01] quorum to do some votes
+[2:01:04] next next meeting. Um, otherwise we'll
+[2:01:07] likely have to figure out another
+[2:01:09] meeting in order to
+[2:01:11] take votes and finalize the report.
+[2:01:14] All right. Any last questions or
+[2:01:17] comments for the good of the order? Yes,
+[2:01:19] Anne. Can we email people and tell them
+[2:01:21] to come on Wednesday or else we're going
+[2:01:22] to need them again?
+[2:01:24] We'll do. We'll get to it since unlikely
+[2:01:26] within this time line. Can we let people
+[2:01:28] know we really need you there and if you
+[2:01:29] have restrictions, maybe we they could
+[2:01:31] let us know what those are and we could
+[2:01:32] try and get important votes while people
+[2:01:35] are available.
+[2:01:36] Yeah, I like that. That heard and uh,
+[2:01:39] let your staff support. We will um,
+[2:01:41] coordinate to do something and and share
+[2:01:43] the urgency. Thank you.
+[2:01:45] Yeah, I just wanted to mention that Yes.
+[2:01:47] unfortunately I have class. I'm getting
+[2:01:49] my masters right now and it's every
+[2:01:51] Wednesday evening.
+[2:01:53] So I try to attend when I can. I try to
+[2:01:55] do the two at one time. It doesn't work
+[2:01:57] for me at all. Um, I am reviewing all
+[2:01:59] the documents and information. So
+[2:02:02] unfortunately I'm not going to be
+[2:02:03] present, but if there is another time I
+[2:02:05] can definitely make time in my schedule.
+[2:02:08] Thank you for letting us know.
+[2:02:10] Yeah. Um, so
+[2:02:13] you know, if folks want to leave us with
+[2:02:15] before I dismiss the me I
+[2:02:19] adjourn us.
+[2:02:25] All right. Um, at 7:30 at 7:33, um, I
+[2:02:29] will call this meeting adjourned. Thank
+[2:02:31] you so much everyone for your work
+[2:02:32] tonight. Thank you. Thanks all. All
+[2:02:35] right, take care y'all.

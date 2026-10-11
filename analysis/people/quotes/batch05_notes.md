@@ -1,3 +1,5 @@
+> **CAVEAT (controller, 2026-10-11):** parts of this file were written from YouTube *Arabic auto-translated* captions for these videos: gVtn7AYmhUU, ppbt9KnsTbk, bQb4RGUlfk0, kIF9qrrMy6E, S-pk57P6f_o, YfANSrxqAMI, 3N-rsU_g5Yk, zfvbTie4mpE, U8Cg5voCxXc, k0wbO5egtWA. Those meetings were re-analyzed from English captions in `batch10_redo_notes.md` and the corresponding `analysis/meetings/*.md`; prefer those. Quotes from the Arabic captions were removed from the JSONL files.
+
 # Batch05 notes: transcripts 2026-01-27 to 2026-03-08
 
 Scope: 8 meetings:

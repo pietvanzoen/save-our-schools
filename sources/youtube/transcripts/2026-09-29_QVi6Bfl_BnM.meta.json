@@ -1,0 +1,151 @@
+{
+ "id": "QVi6Bfl_BnM",
+ "fetched_at": "2026-10-11T08:01:08.576Z",
+ "meta": {
+  "videoId": "QVi6Bfl_BnM",
+  "title": "6 How Can The Community Engage In The Discussion",
+  "lengthSeconds": "147",
+  "author": "PPS Communications",
+  "channelId": "UCBUuVy-Nfy1r9NAVM_BbitQ",
+  "publishDate": "2026-09-29T10:11:44-07:00",
+  "uploadDate": "2026-09-29T10:11:44-07:00",
+  "description": "",
+  "captionTracks": [
+   {
+    "lang": "ar",
+    "kind": "asr",
+    "name": "Arabic (auto-generated)",
+    "vssId": "a.ar"
+   },
+   {
+    "lang": "bn",
+    "kind": "asr",
+    "name": "Bangla (auto-generated)",
+    "vssId": "a.bn"
+   },
+   {
+    "lang": "nl-NL",
+    "kind": "asr",
+    "name": "Dutch (Netherlands) (auto-generated)",
+    "vssId": "a.nl-NL"
+   },
+   {
+    "lang": "en",
+    "kind": "asr",
+    "name": "English (auto-generated)",
+    "vssId": "a.en"
+   },
+   {
+    "lang": "fr-FR",
+    "kind": "asr",
+    "name": "French (France) (auto-generated)",
+    "vssId": "a.fr-FR"
+   },
+   {
+    "lang": "de",
+    "kind": "asr",
+    "name": "German (auto-generated)",
+    "vssId": "a.de"
+   },
+   {
+    "lang": "iw",
+    "kind": "asr",
+    "name": "Hebrew (auto-generated)",
+    "vssId": "a.iw"
+   },
+   {
+    "lang": "hi",
+    "kind": "asr",
+    "name": "Hindi (auto-generated)",
+    "vssId": "a.hi"
+   },
+   {
+    "lang": "id",
+    "kind": "asr",
+    "name": "Indonesian (auto-generated)",
+    "vssId": "a.id"
+   },
+   {
+    "lang": "it",
+    "kind": "asr",
+    "name": "Italian (auto-generated)",
+    "vssId": "a.it"
+   },
+   {
+    "lang": "ja",
+    "kind": "asr",
+    "name": "Japanese (auto-generated)",
+    "vssId": "a.ja"
+   },
+   {
+    "lang": "ko",
+    "kind": "asr",
+    "name": "Korean (auto-generated)",
+    "vssId": "a.ko"
+   },
+   {
+    "lang": "ml",
+    "kind": "asr",
+    "name": "Malayalam (auto-generated)",
+    "vssId": "a.ml"
+   },
+   {
+    "lang": "pl",
+    "kind": "asr",
+    "name": "Polish (auto-generated)",
+    "vssId": "a.pl"
+   },
+   {
+    "lang": "pt",
+    "kind": "asr",
+    "name": "Portuguese (auto-generated)",
+    "vssId": "a.pt"
+   },
+   {
+    "lang": "pa",
+    "kind": "asr",
+    "name": "Punjabi (auto-generated)",
+    "vssId": "a.pa"
+   },
+   {
+    "lang": "ru",
+    "kind": "asr",
+    "name": "Russian (auto-generated)",
+    "vssId": "a.ru"
+   },
+   {
+    "lang": "es",
+    "kind": "asr",
+    "name": "Spanish (auto-generated)",
+    "vssId": "a.es"
+   },
+   {
+    "lang": "ta",
+    "kind": "asr",
+    "name": "Tamil (auto-generated)",
+    "vssId": "a.ta"
+   },
+   {
+    "lang": "te",
+    "kind": "asr",
+    "name": "Telugu (auto-generated)",
+    "vssId": "a.te"
+   },
+   {
+    "lang": "uk",
+    "kind": "asr",
+    "name": "Ukrainian (auto-generated)",
+    "vssId": "a.uk"
+   }
+  ]
+ },
+ "caption_kind": "asr",
+ "caption_lang": "en",
+ "n_lines": 63,
+ "sample": "48520\t3120\tour district. | 50280\t3000\tDates and locations of these | 51640\t4040\topportunities are listed on the",
+ "meetings": "",
+ "listed_as": "How can the community engage in the discussion? (video)",
+ "listed_on": "pps.net / bond.pps.net (see sources/pps_net/_download_manifest.jsonl)",
+ "url": "https://www.youtube.com/watch?v=QVi6Bfl_BnM",
+ "boardbook_meetings": []
+}
