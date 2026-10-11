@@ -1,0 +1,352 @@
+fiscal_year,fund,item,amount,unit,document_date,source,notes
+2025-26,All funds,Adopted budget total,2035116552,USD,2025-06-10,[BB:3990156 p.1],"Res 7121; Budget Committee approved $2,035,117,000 on 2025-05-19 [BB:3989693 p.1]"
+2026-27,All funds,Adopted budget total,2768590878,USD,2026-06-23,[BB:3988878 p.1],Res 7326; same total approved by Budget Committee 2026-05-26 (Res 7308) [BB:3990562 p.1]
+2025-26,Debt service,Bonded debt levy imposed,181000000,USD,2025-06-10,[BB:3990156 p.2],
+2026-27,Debt service,Bonded debt levy imposed,184250000,USD,2026-06-23,[BB:3988878 p.2],
+2025-26,General Fund (100),Permanent tax rate,5.2781,"USD per $1,000 AV",2025-06-10,[BB:3990156 p.2],includes $0.5038 gap tax
+2025-26,General Fund (100),Local option levy rate,1.99,"USD per $1,000 AV",2025-06-10,[BB:3990156 p.2],unchanged in 2026-27 [BB:3988878 p.2]
+2025-26,General Fund (100),Proposed/adopted General Fund budget (incl. contingency),868.6,USD millions,2025-04-22,[BB:3991017 p.35]; [BB:3990983 p.18],+1.7% / +$14.2M from $854.4M in 2024-25
+2024-25,General Fund (100),General Fund budget,854.4,USD millions,2025-04-22,[BB:3991017 p.35],
+2026-27,General Fund (100),Proposed General Fund budget (incl. contingency),862.1,USD millions,2026-04-28,[BB:3997160 p.34]; [BB:3997181 p.27],"-$6.5M (-0.7%); Vol 1 text mislabels base year as ""2026-25"""
+2026-27,General Fund (100),General Fund Current Service Level (CSL) before reductions,918398076,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Gap-closing reductions vs CSL (all service areas),-56286020,USD,2026-04-28,[BB:3997181 p.29]; [BB:3990695 p.3],"""$50 million"" gap used in public framing"
+2025-26,General Fund (100),Building Supports: FY26 adopted,123320777,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Building Supports: FY27 preliminary CSL,125113550,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Building Supports: gap-closing reductions,3376040,USD,2026-04-28,[BB:3997181 p.29],positive = net increase
+2026-27,General Fund (100),Building Supports: FY27 proposed,128489590,USD,2026-04-28,[BB:3997181 p.29],
+2025-26,General Fund (100),Central Office: FY26 adopted,88936591,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Central Office: FY27 preliminary CSL,89474106,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Central Office: gap-closing reductions,-13176170,USD,2026-04-28,[BB:3997181 p.29],positive = net increase
+2026-27,General Fund (100),Central Office: FY27 proposed,76297936,USD,2026-04-28,[BB:3997181 p.29],
+2025-26,General Fund (100),Schools: FY26 adopted,431774055,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Schools: FY27 preliminary CSL,459314235,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Schools: gap-closing reductions,-20469284,USD,2026-04-28,[BB:3997181 p.29],positive = net increase
+2026-27,General Fund (100),Schools: FY27 proposed,438844951,USD,2026-04-28,[BB:3997181 p.29],
+2025-26,General Fund (100),Specialized Programs: FY26 adopted,166525728,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Specialized Programs: FY27 preliminary CSL,172989450,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Specialized Programs: gap-closing reductions,-14564944,USD,2026-04-28,[BB:3997181 p.29],positive = net increase
+2026-27,General Fund (100),Specialized Programs: FY27 proposed,158424506,USD,2026-04-28,[BB:3997181 p.29],
+2025-26,General Fund (100),"Transfers, Vacancy Savings, & Contingency: FY26 adopted",38252612,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),"Transfers, Vacancy Savings, & Contingency: FY27 preliminary CSL",51714508,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),"Transfers, Vacancy Savings, & Contingency: gap-closing reductions",-10636943,USD,2026-04-28,[BB:3997181 p.29],positive = net increase
+2026-27,General Fund (100),"Transfers, Vacancy Savings, & Contingency: FY27 proposed",41077565,USD,2026-04-28,[BB:3997181 p.29],
+2025-26,General Fund (100),Charter Schools Distribution: FY26 adopted,19770508,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Charter Schools Distribution: FY27 preliminary CSL,19792227,USD,2026-04-28,[BB:3997181 p.29],
+2026-27,General Fund (100),Charter Schools Distribution: gap-closing reductions,-814719,USD,2026-04-28,[BB:3997181 p.29],positive = net increase
+2026-27,General Fund (100),Charter Schools Distribution: FY27 proposed,18977508,USD,2026-04-28,[BB:3997181 p.29],
+2025-26,General Fund (100),PPS share of State School Fund (first year of 2025-27 biennium),291.0,USD millions,2025-04-22,[BB:3991017 p.26],"based on $11.36B SSF, 49/51 split"
+2026-27,General Fund (100),PPS share of State School Fund (second year),305.4,USD millions,2026-04-28,[BB:3997181 p.17],
+2025-26,General Fund (100),Current-year property tax + local option revenue (estimate),640.6,USD millions,2025-04-22,[BB:3991017 p.26],"+3.9% property tax, +4.4% local option; 3.0% AV growth; 95% collection"
+2026-27,General Fund (100),Current-year property tax revenue (estimate),533.6,USD millions,2026-04-28,[BB:3997181 p.17],+0.4%; 1.8% AV growth
+2026-27,General Fund (100),Local option levy revenue (estimate),103.9,USD millions,2026-04-28,[BB:3997181 p.17]; [BB:14305424 p.1],-4.8%; 12.1% of GF resources per CBRC
+2025-26,General Fund (100),"Local option levy revenue (projection, May 2025)",109.2,USD millions,2025-05-06,[BB:3996390 p.1],
+2025-26,General Fund (100),"Local option levy revenue (projection, May 2026)",104.4,USD millions,2026-07-09,[BB:14305424 p.2],
+2025-26,General Fund (100),Local option levy shortfall vs budget,-5.0,USD millions,2025-09-09,[BB:3993195 p.4]; [BB:3988764 p.18],"""$5,000,000 ~ 33 Licensed FTE""; attributed to compression/declining commercial values"
+2024-25,General Fund (100),Local option levy revenue received as of 2025-04-01,104.6,USD millions,2025-05-06,[BB:3996390 p.1],
+2019-20,General Fund (100),Local option levy revenue,97.4,USD millions,2025-05-06,[BB:3996390 p.1],
+2019-20,General Fund (100),Teaching positions funded by levy,916,FTE (approx.),2025-05-06,[BB:3996390 p.1],"""over 916"""
+2024-25,General Fund (100),Teaching positions funded by levy (projection May 2025),744,FTE,2025-05-06,[BB:3996390 p.1],actual reported July 2026: 741 [BB:14305424 p.2]
+2024-25,General Fund (100),Teaching positions funded by levy (actual),741,FTE,2026-07-09,[BB:14305424 p.2],
+2025-26,General Fund (100),Teaching positions funded by levy (projection May 2025),718,FTE,2025-05-06,[BB:3996390 p.1],
+2025-26,General Fund (100),Teaching positions funded by levy (projection May 2026),686,FTE,2026-07-09,[BB:14305424 p.2],
+2024-25,General Fund (100),Average teacher cost used for levy analysis,141000,USD,2025-05-06,[BB:3996390 p.1],"$106,000 in 2019-20; projected $152,000 in 2025-26"
+2025-26,General Fund (100),Average teacher cost used for levy analysis,152000,USD,2026-07-09,[BB:14305424 p.2],
+2025-26,General Fund (100),"Average teacher total cost per FTE (salary $104,579 + benefits)",160851,USD,2025-12-02,[BB:3996752 p.14]; [BB:3997181 p.21],"PERS/PERS UAL $22,578; insurance $23,561"
+2025-26,General Fund (100),State formula revenue per ADMr (ODE estimate),11812,USD per ADMr,2025-08-05,[BB:3996528 p.15],
+2025-26,General Fund (100),State School Fund share of GF revenue,75.6,percent,2025-08-05,[BB:3996528 p.9],ACFR says ~81% from SSF and related property taxes [BB:3996892 p.13]
+2024-25,General Fund (100),Local option levy share of GF revenues,14,percent (approx.),2026-01-28,[BB:3996892 p.13],
+2025-26,Special revenue,Integrated Grant funding expected,63.0,USD millions,2025-04-22,[BB:3991017 p.24],$2.5M to charters/CBOs
+2026-27,Special revenue,Integrated Grant funding expected,62.0,USD millions,2026-04-28,[BB:3997160 p.23],$1.5M to charters/CBOs
+2021-24,Special revenue,ESSER funds supporting spending FY21-24 (total),121844309,USD,2026-03-10,[BB:3988764 p.16],"ESSER I $8,354,389; II $32,836,859; III $73,869,717; other $6,783,344"
+2015-16,General Fund (100),"Ending fund balance (audited, GAAP)",37835,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2016-17,General Fund (100),"Ending fund balance (audited, GAAP)",20104,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2017-18,General Fund (100),"Ending fund balance (audited, GAAP)",38282,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2018-19,General Fund (100),"Ending fund balance (audited, GAAP)",39887,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2019-20,General Fund (100),"Ending fund balance (audited, GAAP)",64474,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2020-21,General Fund (100),"Ending fund balance (audited, GAAP)",88691,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2021-22,General Fund (100),"Ending fund balance (audited, GAAP)",98804,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2022-23,General Fund (100),"Ending fund balance (audited, GAAP)",105497,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2023-24,General Fund (100),"Ending fund balance (audited, GAAP)",86078,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2024-25,General Fund (100),"Ending fund balance (audited, GAAP)",44323,USD thousands,2026-01-28,[BB:3996892 p.126-127],ACFR Schedule 3
+2024-25,General Fund (100),Ending fund balance (preliminary Q4 report),45401192,USD,2025-11-04,[BB:3998321 p.3],"5.9% of operating revenue; audited figure $44,323,202 [BB:3998327 p.4]"
+2024-25,General Fund (100),Operating revenue (preliminary),771364956,USD,2025-11-04,[BB:3998321 p.3],
+2024-25,General Fund (100),Operating expenditures (preliminary),812041403,USD,2025-11-04,[BB:3998321 p.3],
+2024-25,General Fund (100),Operating deficit (preliminary),-40676447,USD,2025-11-04,[BB:3998321 p.3],
+2024-25,General Fund (100),Instruction expenditures over appropriation,4147,USD thousands,2026-02-05,[BB:3988265 p.8]; [BB:3996892 p.36],"State audit finding 2025-007; SRF Support Services over by $3,584K"
+2025-26,General Fund (100),Budgeted beginning fund balance,45.0,USD millions,2025-04-22,[BB:3991017 p.27],
+2025-26,General Fund (100),Budgeted contingency,41.2,USD millions,2025-04-22,[BB:3991017 p.35],"""meeting the minimum 5% requirement""; 2026-27 Vol 1 restates FY26 contingency as $41.7M [BB:3997160 p.34]"
+2025-26,General Fund (100),Expenditures excl. contingency exceed revenues (budget),3.8,USD millions,2025-04-22,[BB:3991017 p.35],
+2025-26,Special revenue (Fund 225),Transfer from PERS Rate Stabilization Reserve Fund to GF,23961548,USD,2026-06-23,[BB:3990296 p.1],"Res 7325; Fund 225 balance at 6/30/2025 was $22,824K [BB:3996892 p.63]"
+2025-26,General Fund (100),Projected ending fund balance (Q2 report),17684900,USD,2026-03-31,[BB:3998327 p.6],before mitigation
+2025-26,General Fund (100),Projected ending fund balance (January report),17476689,USD,2026-04-14,[BB:3998328 p.6],projected $26.8M spend-down of BFB; 5% balance depleted by >$22M; revenue shortfall >$6M [BB:3998328 p.3]
+2025-26,General Fund (100),Mid-year projected variance (Q2 gap),22.5,USD millions,2026-02-24,[BB:3996968 p.7],"2.5%; $12.5M discretionary savings identified, $10M remaining (Feb 24)"
+2025-26,General Fund (100),Q2 gap closed: discretionary spending controls,10.5,USD millions,2026-03-31,[BB:3997106 p.5],Feb 24 deck said $12.5M identified
+2025-26,General Fund (100),Q2 gap closed: furlough days,12.0,USD millions,2026-03-31,[BB:3997106 p.5],
+2025-26,General Fund (100),Variance driver: teacher set-aside/vacancy savings not materializing,12,USD millions,2026-03-10,[BB:3988764 p.18],
+2025-26,General Fund (100),Variance driver: higher transportation,5.5,USD millions,2026-03-10,[BB:3988764 p.18],
+2025-26,General Fund (100),Variance driver: higher maintenance incl. emergency declarations,6,USD millions,2026-03-10,[BB:3988764 p.18],7 emergency declarations = $2.5M [BB:3996968 p.6]
+2025-26,General Fund (100),Variance offset: reimbursements/savings,-6,USD millions,2026-03-10,[BB:3988764 p.18],
+2025-26,General Fund (100),Budget Amendment 2: reduce Contingency,-10000000,USD,2026-06-23,[BB:3997356 p.1],"also +$4M Instruction, +$10M Support Services; total $14M GF transfers"
+2025-26,General Fund (100),Year-end reconciliation gap mentioned by staff,6,USD millions (approx.),2026-10-01,[BB:14493920 p.17],"Board member: ""$6M hole""; staff: below-5% outcome would reduce 2026-27 BFB"
+2026-27,General Fund (100),Budgeted beginning fund balance,41.0,USD millions,2026-04-28,[BB:3997160 p.26]; [BB:3997181 p.18],
+2026-27,General Fund (100),Budgeted contingency (= projected ending balance),41.1,USD millions,2026-04-28,[BB:3997160 p.34],
+2024-25 to 2026-27,General Fund (100),Board reserve policy range,5,percent of GF revenues (min; goal 5-10%),2026-01-28,[BB:3996892 p.63],policy 8.10.025-P; expectation to achieve 10%
+2022-23,General Fund (100),Reductions (central office),30,USD millions,2025-02-04,[BB:3988777 p.6],schools $0
+2023-24,General Fund (100),Reductions (central office),10,USD millions,2025-02-04,[BB:3988777 p.7],
+2024-25,General Fund (100),"Reductions (schools -$14.2M, central -$15.7M)",30,USD millions,2025-02-04,[BB:3988777 p.8],"Mar 2026 recap: 204.3 FTE, $27.3M + $2.6M purchased services = $29.9M [BB:3988764 p.4]; Apr 2026 table shows -$40.0M CSL reductions [BB:3997181 p.51]"
+2024-25 to 2025-26,General Fund (100),Two-year deficit (incl. $72M shortfall + $32M PERS),105,USD millions,2025-02-04,[BB:3988777 p.5],"""$40M of $105M Remaining"" for 2025-26"
+2025-26,General Fund (100),"Preliminary reductions (Feb 2025): schools -$29.6M, central -$12.2M",41.3,USD millions,2025-02-04,[BB:3988777 p.14],228 positions
+2025-26,General Fund (100),Reductions after feedback (Mar 2025),40.0,USD millions,2025-03-18,[BB:3996313 p.21],210 positions; central -$17.4M/-40 positions
+2025-26,General Fund (100),Total 2025-26 reductions (central $17M + $3M added; schools $23M),43,USD millions,2025-04-22,[BB:3990983 p.26],47% central / 53% schools
+2025-26,General Fund (100),"Reductions labeled ""due to enrollment decline"" (ES $0.8M/6, K-8 $1.2M/8, MS $0.2M/1)",2.2,USD millions,2025-03-18,[BB:3996313 p.19-20],"15 positions; ""Enrollment decline contributes to about 9% of school-based FTE reductions"" [BB:3996313 p.5]"
+2025-26,General Fund (100),Staff roles eliminated (per CBRC),247,positions,2025-05-06,[BB:3996388 p.6],
+2026-27,General Fund (100),2026-27 reductions estimated in Apr 2025,32,USD millions (minimum),2025-04-29,[BB:3996386 p.8],later revised to $50M
+2026-27,General Fund (100),Projected 2026-27 shortfall (first stated),50,USD millions,2025-10-28,[BB:3996700 p.8],"assumes ""No consolidations or school closures will occur in 2026-27"" [BB:3996700 p.9]"
+2026-27,General Fund (100),$50M gap expressed per student,1179,"USD per student (42,404 students)",2026-01-13,[BB:3996811 p.8],also = 312.5 educator FTE at $160k; 12.5 elementary school operating budgets at $4.0M each
+2026-27,General Fund (100),Elementary school annual operating budget (illustrative unit),4.0,USD millions per school,2026-01-13,[BB:3996811 p.8]; [BB:3996942 p.24],"PPS illustration, not a closure-savings estimate"
+2023-24,General Fund (100),CSL reductions,-10.0,USD millions,2026-04-28,[BB:3997181 p.51],
+2024-25,General Fund (100),CSL reductions,-40.0,USD millions,2026-04-28,[BB:3997181 p.51],conflicts with $30M in Feb 2025 deck
+2025-26,General Fund (100),CSL reductions (original -$43.0M + mid-year -$22.5M),-65.5,USD millions,2026-04-28,[BB:3997181 p.51],
+2026-27,General Fund (100),CSL reductions,-56.3,USD millions,2026-04-28,[BB:3997181 p.51],
+2027-28,General Fund (100),Projected CSL reductions / structural reset,-65.2,USD millions,2026-04-28,[BB:3997181 p.50-51],new baseline ~$834.8M vs ~$900M trajectory
+2023-24 to 2026-27,General Fund (100),Cumulative service-level reductions,171.8,USD millions,2026-04-28,[BB:3997181 p.51],
+cumulative (undated),General Fund (100),Cumulative reductions: Central Office,67.9,USD millions,2026-06-23,[BB:3990695 p.2],Schools $43.8M
+cumulative (undated),General Fund (100),Cumulative reductions: Schools,43.8,USD millions,2026-06-23,[BB:3990695 p.2],
+2026-27,General Fund (100),Forecast operating deficit without action (cumulative chart),-65,USD millions,2026-04-28,[BB:3997181 p.49],chart also shows -$108M and -$169M in later years (year labels not text-extractable)
+2022-23,All funds,Total FTE (actual 22-23/23-24; adopted 24-25/25-26; proposed 26-27),6519.66,FTE,2026-04-28,[BB:3997160 p.212],
+2023-24,All funds,Total FTE (actual 22-23/23-24; adopted 24-25/25-26; proposed 26-27),6260.98,FTE,2026-04-28,[BB:3997160 p.212],
+2024-25,All funds,Total FTE (actual 22-23/23-24; adopted 24-25/25-26; proposed 26-27),6018.22,FTE,2026-04-28,[BB:3997160 p.212],
+2025-26,All funds,Total FTE (actual 22-23/23-24; adopted 24-25/25-26; proposed 26-27),5835.46,FTE,2026-04-28,[BB:3997160 p.212],
+2026-27,All funds,Total FTE (actual 22-23/23-24; adopted 24-25/25-26; proposed 26-27),5513.16,FTE,2026-04-28,[BB:3997160 p.212],
+2026-27,All funds,FTE reduction vs 2025-26 budget,-322,FTE,2026-04-28,[BB:3997160 p.24],142 building supports/central + 180 schools/specialized programs [BB:3997160 p.22]
+2026-27,General Fund (100),General Fund FTE,4481,FTE,2026-04-28,[BB:3997181 p.35],-336 FTE / 7% vs CSL [BB:3997181 p.32]
+2026-27,General Fund (100),"School staffing FTE (schools cost centers), FY27",2557,FTE,2026-04-28,[BB:3997181 p.38],"Analysis: 2,168+228+15+146; FY26 2,669"
+2026-27,General Fund (100),Licensed school staff FTE change (gap-closing),-128,FTE,2026-04-28,[BB:3997181 p.38],"2,296 CSL -> 2,168"
+2015-16,All funds,Total FTE (ACFR Schedule 15),5432.7,FTE,2026-01-28,[BB:3996892 p.142-143],differs from budget-book FTE series
+2018-19,All funds,Total FTE (ACFR Schedule 15),5574.0,FTE,2026-01-28,[BB:3996892 p.142-143],differs from budget-book FTE series
+2024-25,All funds,Total FTE (ACFR Schedule 15),6121.8,FTE,2026-01-28,[BB:3996892 p.142-143],differs from budget-book FTE series
+2024-25,All funds,Teachers FTE (ACFR),2665.7,FTE,2026-01-28,[BB:3996892 p.142],"2018-19: 2,697.3 [BB:3996892 p.143]"
+2025-26,All funds,PERS blended employer rate assumed,4.2,percent of payroll,2025-04-22,[BB:3991017 p.28],UAL fringe 17.39%
+2026-27,All funds,PERS employer rate + UAL,22.97,percent of payroll,2026-04-28,[BB:3997181 p.19],4.18% + 18.79%
+2027-29,All funds,PERS 2024 advisory employer rate,20.82,percent of payroll,2026-04-28,[BB:3997181 p.52],from 4.18%
+2025-27,All funds,Added employer contributions from 2021-23 valuation (+5.33 points),28,USD millions per year,2026-02-24,[BB:3996942 p.10]; [BB:14330795 p.9],
+2024-25 to 2025-26,General Fund (100),PERS increase added to 2025-26 deficit (Nov 2024),32,USD millions,2025-02-04,[BB:3988777 p.5],
+2025 (by May 6),Debt,S&P rating downgraded AA -> AA-,,rating,2025-05-06,[BB:3996394 p.7],"rationale ""largely focused on declining fund balances and declining enrollment"""
+2026 (Feb),Debt,Moody's rating downgraded Aa2 -> Aa3; S&P maintained AA-,,rating,2026-02-10,[BB:3996891 p.10],BAC chair: due to lower fund balance and declining enrollment [BB:3990212 p.3]
+2026 (Feb),Capital,GO bonds sold (2020 tranche 3 up to $90M + 2025 tranche 1 up to $570M),660,USD millions,2026-04-28,[BB:3997160 p.26],bond proceeds cannot fund operations [BB:3996811 p.14]
+2025-26,General Fund (100),Purchased services (adopted),104835,USD thousands,2026-06-23,[BB:3990695 p.10],
+2026-27,General Fund (100),Purchased services (approved),110672,USD thousands,2026-06-23,[BB:3990695 p.10],
+2025-26,Special revenue (200),Purchased services (adopted),43821,USD thousands,2026-06-23,[BB:3990695 p.10],
+2026-27,Special revenue (200),Purchased services (approved),53595,USD thousands,2026-06-23,[BB:3990695 p.10],
+2025-26,Capital projects (400),Purchased services (adopted),120707,USD thousands,2026-06-23,[BB:3990695 p.10],
+2026-27,Capital projects (400),Purchased services (approved),272150,USD thousands,2026-06-23,[BB:3990695 p.10],
+2025-26,Internal service (600),Purchased services (adopted),557,USD thousands,2026-06-23,[BB:3990695 p.10],
+2026-27,Internal service (600),Purchased services (approved),557,USD thousands,2026-06-23,[BB:3990695 p.10],
+2025-26,All funds,Purchased services (adopted),269919,USD thousands,2026-06-23,[BB:3990695 p.10],
+2026-27,All funds,Purchased services (approved),436973,USD thousands,2026-06-23,[BB:3990695 p.10],
+2026-27 (Oct 2026 analysis),General Fund (100),Average GF non-equity formula staffing cost per student: K-5,10037.04,USD per student,2026-10-06,[BB:14511742 p.6],"excludes SPED, MLL, Title I, M98"
+2026-27 (Oct 2026 analysis),General Fund (100),Average GF non-equity formula staffing cost per student: MS,9280.79,USD per student,2026-10-06,[BB:14511742 p.6],"excludes SPED, MLL, Title I, M98"
+2026-27 (Oct 2026 analysis),General Fund (100),Average GF non-equity formula staffing cost per student: HS,8609.99,USD per student,2026-10-06,[BB:14511742 p.6],"excludes SPED, MLL, Title I, M98"
+2026-27 (Oct 2026 analysis),General Fund (100),Average GF non-equity formula staffing cost per student: K-12 overall,9484.17,USD per student,2026-10-06,[BB:14511742 p.6],"excludes SPED, MLL, Title I, M98"
+2026-27 (Oct 2026 analysis),General Fund (100),Formula cost per student: Grant,8010.06,USD per student,2026-10-06,[BB:14511742 p.6],
+2026-27 (Oct 2026 analysis),General Fund (100),Formula cost per student: Jefferson,13638.41,USD per student,2026-10-06,[BB:14511742 p.6],
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Rosa Parks (projected enrollment 161; avg class 23.0; GF FTE 13.0; student:FTE 12.4),12869.57,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Rosa Parks",545049.34,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Whitman (projected enrollment 196; avg class 21.8; GF FTE 15.0; student:FTE 13.1),12204.08,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Whitman",533103.54,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Creston (projected enrollment 198; avg class 28.3; GF FTE 13.0; student:FTE 15.3),10464.65,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Creston",194135.21,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Rieke (projected enrollment 255; avg class 23.2; GF FTE 17.2; student:FTE 14.9),10760.78,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Rieke",325537.77,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Beach (projected enrollment 286; avg class 22.0; GF FTE 20.0; student:FTE 14.3),11160.84,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Beach",479528.64,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Woodstock (projected enrollment 351; avg class 23.4; GF FTE 22.2; student:FTE 15.8),10096.87,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Woodstock",215057.88,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Atkinson (projected enrollment 358; avg class 23.9; GF FTE 22.0; student:FTE 16.3),9810.06,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Atkinson",116668.72,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Kelly (projected enrollment 412; avg class 24.2; GF FTE 24.6; student:FTE 16.8),9533.98,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Kelly",20523.78,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Ainsworth (projected enrollment 554; avg class 25.2; GF FTE 32.0; student:FTE 17.3),9227.44,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Ainsworth",-142227.74,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27 (projected enrollment),General Fund (100),Formula $ per pupil: Richmond (projected enrollment 505; avg class 28.1; GF FTE 26.0; student:FTE 19.5),8221.78,USD per student,2026-10-06,[BB:14511742 p.7],
+2026-27 (projected enrollment),General Fund (100),"""Subsidy received"" vs K-12 average: Richmond",-637503.62,USD,2026-10-06,[BB:14511742 p.7],"PPS calculation: enrollment x (school $/pupil - $9,484.17)"
+2026-27,All funds,Per-student dollars reaching schools (Vol 2) per CBRC,11100,USD per student,2026-05-12,[BB:3997238 p.3],text from OCR of PDF page (text layer garbled)
+2026-27,All funds,Per-student spending excluding construction and debt service (Vol 1) per CBRC,26300,USD per student,2026-05-12,[BB:3997238 p.3],"OCR; ""approximately"""
+2026-27,All funds,Instruction share of operating budget (CBRC estimate) vs 61% national,53,percent,2026-05-12,[BB:3997238 p.5],OCR; preliminary CBRC analysis
+2026-27,All funds,Personnel share of expenditures,82,percent,2026-04-14,[BB:3997150 p.13],
+2026-27,All funds,Central office share of budget,5.8,percent,2026-06-23,[BB:3990695 p.5],
+2025-26,All funds,Nutrition cost per ADMr (from $583.69 in 2024-25),677.33,USD per ADMr,2025-05-06,[BB:3996388 p.10],CBRC calculation
+2025-26,General Fund (100),Teacher overload pay (projected; $1.7M in 2021-22),4,USD millions (over),2025-05-06,[BB:3996388 p.5],
+2025-26,General Fund (100),"Civic Use of Buildings revenue target (from $100,000)",250000,USD,2025-05-06,[BB:3996388 p.9],
+2026-27,General Fund (100),Sale of fixed assets (revenue increase),2.5,USD millions,2026-04-28,[BB:3997181 p.27],
+2026-27,General Fund (100),PERS reserve transfer (decrease vs 2025-26),-23.5,USD millions,2026-04-28,[BB:3997181 p.27],
+2026-27,General Fund (100),State School Fund increase vs 2025-26,19.9,USD millions,2026-04-28,[BB:3997181 p.27],
+2026-27,General Fund (100),Property taxes change vs 2025-26 (budget-to-budget),-6.5,USD millions,2026-04-28,[BB:3997181 p.27],
+annual (current),General Fund (100),Annual cost of vacant Smith building incl. insurance,70000,USD (approx.),2026-10-01,[BB:14493920 p.23],only two vacant buildings: Kenton and Smith
+2025-26,Charter,Charter Schools Distribution (GF),19770508,USD,2026-04-28,[BB:3997181 p.29],"FY27 proposed $18,977,508"
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Rosa Parks (K-5),18113,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 79; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Rosa Parks (K-5),16805,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 79; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Woodmere (K-5),15516,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 59; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Woodmere (K-5),14754,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 59; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Whitman (K-5),14366,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 64; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Whitman (K-5),14650,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 64; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Sitton (K-5),13049,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 60; K-5 (Spanish Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Sitton (K-5),13636,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 60; K-5 (Spanish Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Marysville (K-5),14518,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 58; K-5 TSI Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Marysville (K-5),13499,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 58; K-5 TSI Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lee (K-5),13794,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 45; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lee (K-5),13472,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 45; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Boise-Eliot/Humboldt (K-5),13229,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 62; K-5 TSI Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Boise-Eliot/Humboldt (K-5),13372,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 62; K-5 TSI Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: James John (K-5),12059,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 54; K-5 (Spanish Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: James John (K-5),13108,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 54; K-5 (Spanish Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Beach (K-5),12711,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 34; K-5 (Spanish Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Beach (K-5),13011,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 34; K-5 (Spanish Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Arleta (K-5),12002,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 24; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Arleta (K-5),12903,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 24; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Grout (K-5),12785,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 51; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Grout (K-5),12871,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 51; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Clark (K-5),13817,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 67; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Clark (K-5),12829,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 67; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lent (K-5),14161,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 46; K-5 (Spanish Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lent (K-5),12812,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 46; K-5 (Spanish Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Scott (K-5),11885,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 51; K-5 (Spanish Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Scott (K-5),12764,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 51; K-5 (Spanish Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Kelly (K-5),12334,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 67; K-5 (Russian Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Kelly (K-5),12271,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 67; K-5 (Russian Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: MLK Jr (K-5),12980,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 51; K-5 (Mandarin Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: MLK Jr (K-5),12265,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 51; K-5 (Mandarin Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Buckman (K-5),11350,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 36; K-5 (Arts Focus) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Buckman (K-5),12261,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 36; K-5 (Arts Focus) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Abernethy (K-5),10813,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 11; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Abernethy (K-5),12126,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 11; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Vestal (K-5),12416,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 43; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Vestal (K-5),12042,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 43; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Peninsula (K-5),13675,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 38; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Peninsula (K-5),12002,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 38; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lewis (K-5),10673,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 22; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lewis (K-5),11836,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 22; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Rigler (K-5),12445,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 53; K-5 (Spanish Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Rigler (K-5),11820,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 53; K-5 (Spanish Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Chapman (K-5),11335,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 52; K-5 TSI Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Chapman (K-5),11779,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 52; K-5 TSI Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Woodlawn (K-5),12121,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 44; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Woodlawn (K-5),11743,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 44; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Rieke (K-5),10844,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 15; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Rieke (K-5),11617,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 15; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Irvington (K-5),11753,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 20; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Irvington (K-5),11609,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 20; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Woodstock (K-5),11638,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 23; K-5 (Mandarin Immersion)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Woodstock (K-5),11492,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 23; K-5 (Mandarin Immersion)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Creston (K-5),12955,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 23; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Creston (K-5),11467,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 23; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Maplewood (K-5),10204,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 19; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Maplewood (K-5),11280,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 19; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Chief Joseph (K-5),11034,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 22; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Chief Joseph (K-5),11188,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 22; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Rose City Park (K-5),10301,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 32; K-5 (Vietnamese Immersion)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Rose City Park (K-5),11093,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 32; K-5 (Vietnamese Immersion)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Markham (K-5),10607,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 38; K-5 Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Markham (K-5),11053,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 38; K-5 Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Atkinson (K-5),9911,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 32; K-5 (Spanish Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Atkinson (K-5),10949,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 32; K-5 (Spanish Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Glencoe (K-5),10096,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 17; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Glencoe (K-5),10907,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 17; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Sabin (K-5),11521,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 28; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Sabin (K-5),10782,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 28; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Forest Park (K-5),9725,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 6; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Forest Park (K-5),10700,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 6; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Llewellyn (K-5),9890,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 13; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Llewellyn (K-5),10690,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 13; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Stephenson (K-5),9522,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 9; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Stephenson (K-5),10586,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 9; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Hayhurst (K-5),10653,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 26; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Hayhurst (K-5),10194,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 26; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Bridlemile (K-5),9457,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 13; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Bridlemile (K-5),9667,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 13; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Capitol Hill (K-5),10575,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 18; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Capitol Hill (K-5),9643,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 18; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Ainsworth (K-5),9345,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 12; K-5 (Spanish Immersion)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Ainsworth (K-5),9568,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 12; K-5 (Spanish Immersion)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Duniway (K-5),9116,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 8; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Duniway (K-5),9333,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 8; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Richmond (K-5),8146,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 6; K-5 (Japanese Immersion)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Richmond (K-5),8755,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 6; K-5 (Japanese Immersion)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Alameda (K-5),8738,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 6; K-5
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Alameda (K-5),8639,USD per student,2026-04-28,[BB:3997161 p.10],2026-27 = budget; 2024-25 = actual; DC% 6; K-5
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: César Chávez (K-8),13919,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 65; K-8 (Spanish Immersion) TSI Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: César Chávez (K-8),14443,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 65; K-8 (Spanish Immersion) TSI Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Skyline (K-8),11380,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 13; K-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Skyline (K-8),12962,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 13; K-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Faubion (K-8),11916,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 56; K-8 CSI Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Faubion (K-8),12843,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 56; K-8 CSI Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Astor (K-8),10254,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 29; K-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Astor (K-8),11438,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 29; K-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Odyssey (K-8),11031,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 7; K-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Odyssey (K-8),11198,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 7; K-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Beverly Cleary (K-8),9100,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 11; K-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Beverly Cleary (K-8),11039,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 11; K-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Bridger Creative Science (K-8),10148,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 27; K-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Bridger Creative Science (K-8),10939,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 27; K-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Access (K-8),10256,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 12; 1-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Access (K-8),10725,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 12; 1-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Winterhaven (K-8),9963,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 18; K-8 (STEM Focus)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Winterhaven (K-8),10653,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 18; K-8 (STEM Focus)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Sunnyside Environmental (K-8),10249,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 18; K-8 (Environmental Curriculum)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Sunnyside Environmental (K-8),10462,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 18; K-8 (Environmental Curriculum)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Vernon (K-8),10047,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 27; K-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Vernon (K-8),10276,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 27; K-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Laurelhurst (K-8),9690,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 12; K-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Laurelhurst (K-8),10022,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 12; K-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: George (MIDDLE),13171,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 70; 6-8 (Spanish Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: George (MIDDLE),13290,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 70; 6-8 (Spanish Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lane (MIDDLE),13821,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 57; 6-8 (Russian Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lane (MIDDLE),12281,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 57; 6-8 (Russian Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Harrison Park (MIDDLE),14054,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 46; 6-8 (Mandarin Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Harrison Park (MIDDLE),12078,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 46; 6-8 (Mandarin Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Kellogg (MIDDLE),12178,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 44; 6-8 (Spanish Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Kellogg (MIDDLE),11815,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 44; 6-8 (Spanish Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Roseway Heights (MIDDLE),11484,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 43; 6-8 (Spanish and Vietnamese Immersion) CSI Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Roseway Heights (MIDDLE),11585,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 43; 6-8 (Spanish and Vietnamese Immersion) CSI Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Harriet Tubman (MIDDLE),15028,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 37; 6-8 (Mandarin Immersion) Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Harriet Tubman (MIDDLE),11475,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 37; 6-8 (Mandarin Immersion) Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Ockley Green (MIDDLE),12127,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 35; 6-8 (Spanish Immersion) CSI Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Ockley Green (MIDDLE),11318,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 35; 6-8 (Spanish Immersion) CSI Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Beaumont (MIDDLE),10902,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 23; 6-8 (Spanish Immersion)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Beaumont (MIDDLE),10903,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 23; 6-8 (Spanish Immersion)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Mt Tabor (MIDDLE),10049,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 16; 6-8 (Japanese Immersion)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Mt Tabor (MIDDLE),10440,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 16; 6-8 (Japanese Immersion)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Gray (MIDDLE),10149,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 20; 6-8 TSI
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Gray (MIDDLE),10222,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 20; 6-8 TSI
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: da Vinci (MIDDLE),10313,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 30; 6-8 (Arts Focus)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: da Vinci (MIDDLE),10159,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 30; 6-8 (Arts Focus)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Hosford (MIDDLE),9091,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 25; 6-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Hosford (MIDDLE),9765,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 25; 6-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Jackson (MIDDLE),8970,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 22; 6-8 (Bernstein Artful Learning)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Jackson (MIDDLE),9561,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 22; 6-8 (Bernstein Artful Learning)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Sellwood (MIDDLE),8982,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 12; 6-8
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Sellwood (MIDDLE),9552,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 12; 6-8
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: West Sylvan (MIDDLE),9326,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 16; 6-8 (Spanish Immersion)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: West Sylvan (MIDDLE),9113,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 16; 6-8 (Spanish Immersion)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Metro. Learning Center (MIDDLE),14232,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 21; K-12 (Alternative Program)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Metro. Learning Center (MIDDLE),17163,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 21; K-12 (Alternative Program)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Alliance (HIGH),23551,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 38; 9-12 (Alternative Program) CSI
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Alliance (HIGH),22575,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 38; 9-12 (Alternative Program) CSI
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Jefferson (HIGH),16415,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 55; 9-12 (Middle College Program) CSI Title I
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Jefferson (HIGH),17438,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 55; 9-12 (Middle College Program) CSI Title I
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Roosevelt (HIGH),11363,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 44; 9-12 (Advanced Placement, PSU Inquiry Partnership) CSI Title I"
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Roosevelt (HIGH),12110,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 44; 9-12 (Advanced Placement, PSU Inquiry Partnership) CSI Title I"
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: McDaniel (HIGH),10659,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 41; 9-12 (Advanced Placement, AVID, STEM Programs)"
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: McDaniel (HIGH),11450,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 41; 9-12 (Advanced Placement, AVID, STEM Programs)"
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Benson (HIGH),11747,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 32; 9-12 (Professional, Technical, Health Occupations)"
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Benson (HIGH),10832,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 32; 9-12 (Professional, Technical, Health Occupations)"
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Franklin (HIGH),9640,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 32; 9-12 (Advanced Placement, Dual-Credit Courses)"
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Franklin (HIGH),10431,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 32; 9-12 (Advanced Placement, Dual-Credit Courses)"
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Cleveland (HIGH),9418,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 17; 9-12 (International Baccalaureate) TSI
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Cleveland (HIGH),9846,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 17; 9-12 (International Baccalaureate) TSI
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lincoln (HIGH),9749,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 11; 9-12 (International Baccalaureate)
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Lincoln (HIGH),9491,USD per student,2026-04-28,[BB:3997161 p.11],2026-27 = budget; 2024-25 = actual; DC% 11; 9-12 (International Baccalaureate)
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Ida B. Wells-Barnett (HIGH),9311,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 17; 9-12 (Advanced Placement, Computer Sciences) TSI"
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Ida B. Wells-Barnett (HIGH),9439,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 17; 9-12 (Advanced Placement, Computer Sciences) TSI"
+2024-25,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Grant (HIGH),8881,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 13; 9-12 (Advanced Placement, Dual-Credit Courses)"
+2026-27,"School-level (GF, Title I, Foundation, grants; excl. SPED, ESL, Nutrition)",Dollars per student: Grant (HIGH),9062,USD per student,2026-04-28,[BB:3997161 p.11],"2026-27 = budget; 2024-25 = actual; DC% 13; 9-12 (Advanced Placement, Dual-Credit Courses)"

@@ -47,6 +47,15 @@ Conventions: "PPS states" = what a PPS document says; "minutes record" = adopted
   - 9-12 schools with 1,100+ rise from 78% to 100%, as Jefferson grows.
   - By 2031–32, 7 of 15 middle schools are under 400.
 - September 1 framing: "1 in 6" K5 schools with 360+, "1 in 7" K8 with 500+ and "1 in 8" 6-8 with 500+ in five years [BB:14357211 p.10] [BB:14374370 p.5].
+- **September 1 "Magnitude" charts** (read from slide images) [BB:14357211 p.11] [BB:14357211 p.12]:
+  - K-5, 2031–32: with no closures, 8 of 45 schools are at 360+. That rises to 13 of 40 with 5 closures, 22 of 35 with 10, and 30 of 30 with 15.
+  - 6-8: with no closures, 2 of 15 schools are at 500+. That rises to 3 of 14 with 1 closure, 4 of 13 with 2, and 8 of 12 with 3.
+- **August 4 projection charts** (read from slide images) [BB:3997425 p.16] [BB:3997425 p.17]:
+  - K-5, 2031–32: 15 schools under 260, 9 at 260–309, 13 at 310–359, 4 at 360–449 and 4 at 450+.
+  - K-8, 2031–32: 7 under 400, 2 at 400–449, 2 at 450–499, 1 at 500–549 and 1 at 550+.
+  - Middle, 2031–32: 7 under 400, 4 at 400–449, 2 at 450–499, 1 at 500–549 and 1 at 550+.
+  - High school, 2031–32: 4 at 1,100–1,299 and 5 over 1,300.
+  - **Analysis:** the K-8 bands do not match the memo's "69% of K8 ... 100 students or more below" (see open questions).
 - KPI baseline, percent of schools above threshold, 2025–26 → 2031–32 [BB:14430171 p.14]:
   - K5 Title I: 18% → 9%. K5 non-Title I: 35% → 26%.
   - K8 Title I: 50% → 50%. K8 non-Title I: 18% → 9%.
@@ -120,6 +129,7 @@ Conventions: "PPS states" = what a PPS document says; "minutes record" = adopted
 | 2026-09-01 | Board: well-resourced schools; "magnitude" (5/10/15 K-5 closures; 1/2/3 MS closures) | [BB:14357211 p.11] [BB:14357211 p.12] |
 | 2026-09-08 | TLE: well-resourced schools, history of closures | [BB:14374370 p.4] |
 | 2026-09-15 | Board: decision framework, KPIs, equity impact analysis; draft Engelsman resolution discussed | [BB:14430171 p.2] [BB:14383792 p.1] |
+| 2026-09-29 | Special meeting: bond performance audit response only (Res. 7382); no rightsizing item | [MTG:2026-09-29/769094] |
 | 2026-10-05/06 | Scenario release memo; districtwide and regional summaries; maps; Board presentation | [BB:14509719 p.1] [BB:14511742 p.1] |
 | 2026-10-13 | TLE: Dual Language Immersion and Middle Grades (scheduled) | [BB:14511742 p.45] |
 | 2026-10-20 | Board meeting: scenarios (scheduled) | [BB:14511742 p.45] |
@@ -156,7 +166,11 @@ How the schedule moved:
   - La Forte motion "to adopt the changes to the proposed amendment": recorded as "passed (4-yes, 3-no, 0-abstain)". The printed roll call, however, shows only three yes votes (Engelsman, La Forte, Sullivan) and four no votes (Chase-Miller, DePass, Splitt, Wang). **Analysis:** that roll call would mean the motion failed 3-4, so the minutes contradict themselves.
   - Splitt motion to make Recital E read "The result of this process will include school and program closures, consolidations, or boundary changes": passed 6-0-1.
   - Main motion "as amended": **passed 5-2**. Yes: Chase-Miller, DePass, Splitt, Sullivan, Wang. No: Engelsman, La Forte. Student representative Ritorto: no (unofficial).
-- The final adopted text of 7296 is not in the archive. Whether conditions A–F are part of it is unresolved (see open questions).
+- Two other passages suggest the amendment failed:
+  - During discussion, Chair Wang "asked if the proposed amendment could be moved to be included in the next resolution they adopt on the guiding principles" [BB:3997322 p.3].
+  - The future-agenda list includes "consideration of the proposed amendment that did not pass" [BB:3997322 p.6].
+- The October 6 deck quotes the 7296 resolve clause without any "subject to the following" conditions [BB:14511742 p.4].
+- The final adopted text of 7296 is not in the archive. **Analysis:** conditions A–F were probably not adopted. Condition B (equity impact analysis) reappears in 7307. See open questions.
 
 ### 3.3 Resolution 7307 (May 26, 2026): guiding principles and workplan
 - 7307 adopts four Guiding Principles (Well-Resourced Schools; Safe and Healthy Learning Environments; Educational Options; PPS Equity Lens) and a workplan (Approach & Analysis, Community Engagement, Implementation Plan) [BB:3997273 p.2] [BB:3997273 p.3].
@@ -172,7 +186,15 @@ How the schedule moved:
   - the Student Voice Advisory Council (April 9), the Village Table (April 15) and administrative-assistant sessions (April 23).
 - The sessions used a "Neighborhood Gallery Walk" of the enrollment and utilization map and a ranking of the six policy factors [BB:3997148 p.16] [BB:3997148 p.23].
 - The April 22 deck told attendees that "NO final decisions are being made today" and "NO specific schools picked or criteria established" [BB:3997180 p.6].
-- PPS estimates "up to 1614 community members participated in the online Slido poll" on the six factors [BB:3997282 p.4]. The results chart is an image without extractable values.
+- PPS estimates "up to 1614 community members participated in the online Slido poll" on the six factors [BB:3997282 p.4]. The results chart is an image. Read visually, the ranking is:
+  1. Right Boundaries (~1,060 selections);
+  2. Right Pathways (~1,020);
+  3. Right Balance (~800);
+  4. Right Impact (~660);
+  5. Right Use of Space (~640);
+  6. Right Mix of Students (~530).
+
+  Source: [BB:3997282 p.4]. Details are in `rightsizing_criteria_and_principles.md` §1.
 - **September community connections and voices sessions:** Village Table, Latinx, Native, SPEAC, student councils, and the "Enrollment Advisory Committee Sept 17" [BB:14357211 p.13] [BB:14430171 p.24].
 - **Phase III, "Making Meaning Together" (October 9–29).** It includes Board Community Connections at Roosevelt (Oct 9), McDaniel (Oct 17 and Oct 27), virtual (Oct 28) and Cleveland at Marshall (Oct 29), plus affinity and special-education sessions [BB:14511742 p.46].
 - **Project governance (August 4).** Executive Sponsor Dr. Jon Franco and Program Lead Margaret Calvert. The workstreams are Data & Modeling (Richard Smith), Communication & Engagement (Nichole Watson), Academics & Activities (Filip Hristic and Emily Glasgow) and Operations (Hannah Witt). An "Enrollment Advisory Committee" also appears [BB:3997425 p.13].
@@ -236,6 +258,11 @@ How the schedule moved:
 
 Sources: [BB:14505788 p.1] [BB:14505788 p.2] [BB:14511742 p.20].
 
+**Analysis, on the counts:**
+- 82 − 11 = 71, not 65, for Scenario B. 65 equals the sum of Scenario A's four regional "remaining open" rows (16 + 15 + 13 + 21), which exclude the three citywide schools [BB:14511742 p.20].
+- The 67% and 57% figures cannot be reproduced exactly with 68 and 71 schools.
+- See open questions §A.1.
+
 K-8 students who move [BB:14511742 p.44]:
 
 | Group | A (n) | A (%) | B (n) | B (%) |
@@ -258,6 +285,7 @@ K-8 students who move [BB:14511742 p.44]:
   - **MLC** becomes K-8, the MLC 9–12 program closes, and Odyssey moves to the MLC site (East Sylvan left vacant).
 - **Scenario A only:** **Stephenson closes**, with about 70% of its area going to Markham and 30% to Capitol Hill.
 - **Scenario B:** Stephenson remains open with its boundary unchanged.
+- **Feeder detail (deck):** the "Maplewood Area" from Rieke and Hayhurst feeds Gray and then Wells. Skyline K-8 "No longer feeds to" Lincoln [BB:14511742 p.32].
 - **Outcomes (A / B / status quo):**
   - Closures: 2 / 1 / 0.
   - Schools above threshold: 60% / 44% / 35%.
@@ -287,6 +315,15 @@ K-8 students who move [BB:14511742 p.44]:
   - **Mandarin immersion:** Clark's moves to Woodstock.
 - **Scenario A only:** **Rose City Park closes.** Its neighborhood K-5 students go to Scott and its Vietnamese immersion goes to Vestal. The memo cites "Rose City Park facility concerns".
 - **Scenario B:** Rose City Park stays open with its Vietnamese immersion.
+- **Feeder detail (deck)** [BB:14511742 p.39]:
+  - Kelly feeds Harrison Park, and Atkinson is marked "No longer feeds to" Harrison Park.
+  - Harrison Park is a split feeder to Franklin, Cleveland and McDaniel.
+  - Roseway Heights feeds McDaniel.
+  - Laurelhurst feeds Mt. Tabor, and Beverly Cleary feeds Beaumont.
+  - Mt. Tabor is drawn as a split feeder: a dashed line to Grant and a greyed dashed line to Cleveland. Beaumont is a solid boundary feeder to Grant.
+  - Out-of-region high schools (Franklin, Cleveland) appear greyed on the slide.
+  - **Analysis:** the September 15 current-state slide listed Mt. Tabor's split feeder as Grant/Franklin [BB:14430171 p.19]. If the slide is accurate, the scenario changes Mt. Tabor's second high school from Franklin to Cleveland.
+- **Map labels.** On the Scenario A 6–8 map, "Roseway Heights Middle School Spanish Immersion, Vietnamese Immersion" and Harriet Tubman "Mandarin Immersion" [BB:14505794 p.1].
 - **Outcomes (A / B / status quo):**
   - Closures: 2 / 1 / 0.
   - Schools above threshold: 69% / 57% / 40%.
@@ -302,6 +339,8 @@ K-8 students who move [BB:14511742 p.44]:
   - **Sunnyside** becomes a K-5 neighborhood school. Its focus option is discontinued, with no new lottery transfers; existing lottery students "could remain through fifth grade". Its 6-8 moves to Hosford.
   - **Bridger Creative Science** becomes K-5, with its 6-8 moving to Harrison Park.
   - **Atkinson's** Spanish immersion moves to Lent.
+  - **Other boundary shifts (deck):** Duniway's area moves to Llewellyn ("SOUTHERN BOUNDARY ONLY"), and "Lent non-DLI attending Marysville" moves to Kelly [BB:14511742 p.43]. Sellwood students go to Hosford or Brentwood "depending on if they are in the new Duniway boundary, or the new Llewellyn boundary" [BB:14511742 p.42].
+  - **Deck labels:** Bridger "Becomes a K-5 Neighborhood/Focus"; Sunnyside "Becomes a K-5 Neighborhood ONLY" [BB:14511742 p.43].
 - **Scenario A only:** **Lewis closes** into Duniway.
 - **Scenario B:** Lewis stays open and receives part of Whitman's boundary. The Duniway/Lewis middle school pathway still shifts to Brentwood.
 - **Outcomes (A / B / status quo):**
@@ -359,6 +398,8 @@ Source for figures: [BB:3997157 p.1]. Sellwood's utilization was cut off at the 
 - **Cost and savings.**
   - **MLC 9–12:** projected savings of $1.1M (February) [BB:3996961 p.13]. This is the only closure-related savings figure in the archive.
   - **No other estimate:** no per-closure or scenario-level savings estimate has been published (see open questions).
+  - **Unanswered Board question.** A Board member asked "(1) what is the estimated cost savings to closing a school?". The written response, numbered "2.", answers only the layoffs part [BB:14421589 p.4] [BB:14493920 p.7]. Another request, "how much will we save, per school closed, to close a school?", appears without a recorded answer [BB:14493920 p.5].
+  - **Rough receiving-capacity checks.** The open-questions file (§C.23) compares closing-plus-receiving enrollments with receiving capacity. For example, Lewis + Duniway would be about 118% of Duniway's functional capacity in 2025–26 terms, and Stephenson's 70% to Markham about 105%.
 
 ---
 
