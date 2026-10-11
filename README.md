@@ -7,6 +7,22 @@ It also covers the 2025 bond and seismic retrofits, enrollment, budget, and boar
 **Start here:** [`analysis/BRIEFING.md`](analysis/BRIEFING.md), then [`analysis/README.md`](analysis/README.md)
 (index of every analysis file, plus "how to answer common questions").
 
+**Using Claude with this repo:**
+- Answering questions: open the repo in Claude Code. The project skill
+  [`.claude/skills/pps-research/SKILL.md`](.claude/skills/pps-research/SKILL.md) tells Claude how to answer from the
+  archived sources with citations, without fetching anything. Other assistants can be pointed at that file directly.
+- Collecting new material (new meetings, minutes, transcripts): see [`RUNBOOK.md`](RUNBOOK.md).
+- Shareable pages built from the archive are logged in [`analysis/_published_pages.md`](analysis/_published_pages.md).
+
+**Lightweight clone for Q&A.** The full repo is about 7 GB, mostly PDFs and video. The text extracts of every PDF sit next
+to it as `.pdf.txt`, so a question-answering copy can skip the binaries:
+```bash
+git clone --filter=blob:none --no-checkout https://github.com/timaelliott/pps.git && cd pps
+git sparse-checkout set --no-cone '/*' '!*.pdf' '!*.mp4' '!*.zip' '!*.xlsx' '!*.xls' '!*.docx' '!*.pptx' '!*.png' '!*.jpg' '!*.part0[0-9]'
+git checkout main
+```
+Fetch a single binary later when needed, e.g. to look at a page image: `git sparse-checkout add '<path>.pdf'`.
+
 Everything in `sources/` is a copy of something published by PPS or another public body, with its original URL and fetch time
 recorded in a manifest. Everything in `analysis/` is derived from `sources/` and cites back to it.
 

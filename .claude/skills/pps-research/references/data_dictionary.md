@@ -1,0 +1,74 @@
+# Data dictionary: where everything is and what each file is good for
+
+All paths are relative to the repo root. `sources/` holds primary material (copies of what PPS and others published, with
+provenance). `analysis/` is derived and cites back into `sources/`.
+
+## Primary sources (`sources/`)
+
+### BoardBook: `sources/boardbook/`
+| Path | Contents | Cite as |
+|---|---|---|
+| `meetings_index.csv` | One row per meeting since 2025-01-01. Columns: `date, meeting_id, heading, meeting_type, location, cancelled, agenda_url, minutes_url, folder, videos, n_agenda_items, n_attachments, n_supplemental_files` | `[MTG:<date>/<meeting_id>]` |
+| `attachments_index.csv` | One row per agenda or supplemental attachment (~1,370). Columns: `date, meeting_id, meeting, kind, agenda_item, document_id, name, pages, text_bytes, tags, pdf, url`. Tags: rightsizing, budget, enrollment, facilities, bond_seismic, equity, governance, labor | `[BB:<document_id> p.N]` |
+| `meetings/<date>_<meetingId>_<slug>/` | `meeting.json` (agenda items with nested attachments, videos, URLs), `agenda.md/.html`, `minutes.md/.html`, `minutes_<docId>.pdf` (+`.pdf.txt`, `.pdf.ocr.txt`), `public_notice_<docId>.pdf`, `attachments/<docId>_<name>.pdf(.txt)`, `supplemental/` | `[BB:<docId> p.N]` |
+| `_manifests/` | Fetch provenance (URL, status, bytes, time) | — |
+
+PDF text lives in `<file>.pdf.txt` next to each PDF, with pages separated by form feed `\f`. Page N of the PDF is the Nth
+`\f`-separated chunk. Scanned PDFs also have `<file>.pdf.ocr.txt`.
+
+### Video transcripts: `sources/youtube/`
+| Path | Contents |
+|---|---|
+| `videos_index.csv` | `date, video_id, title, length_s, caption_kind, n_lines, error, boardbook_meetings, url, transcript` |
+| `transcripts/<date>_<videoId>.txt` | One caption line per row: `[H:MM:SS] text`. Read this one. |
+| `transcripts/<date>_<videoId>.tsv` | `start_ms, duration_ms, text` (exact timing) |
+| `transcripts/<date>_<videoId>.meta.json` | YouTube title, length, caption track info, linked BoardBook meeting ids |
+
+Cite as `[YT:<videoId>@H:MM:SS]` with link `https://www.youtube.com/watch?v=<videoId>&t=<seconds>s`.
+YouTube auto-captions have no speaker labels and contain mis-hearings.
+
+### pps.net: `sources/pps_net/`
+| Folder | What's there |
+|---|---|
+| `rightsizing/school_impact/<slug>.pdf(.txt)` + `_index.json` | **The 82 per-school "How could your school be impacted?" family guides (Oct 2026).** p.3 has "What is being proposed / Why is PPS considering this / What else was considered"; p.4 has projections and demographics |
+| `rightsizing/scenarios/`, `presentations/`, `engagement/`, `feeder/`, `segc/`, `*.html` | Scenario summaries, decks, engagement materials, feeder patterns, Southeast Guiding Coalition records |
+| `data-and-reporting/<2024-25 / 2025-26 / 2026-27 / longitudinal>/` | Official datasets as PDFs: 10-yr enrollment, class size, capture rates (`neighborhood_capture_rate_metrics`), enrollment by neighborhood of residence (transfers in), PSU forecast, demographics, discipline |
+| `enrollment/` | Transfer and lottery pages; `lottery/<year>/` results 2007-08 to 2026-27 (neighborhood schools appear only through 2014-15); progression patterns; `segc_legacy/` (from the Internet Archive) |
+| `budget/` | Budget volumes, FAQs, community budget review committee (CBRC) |
+| `facilities/` | Long-Range Facility Plan (`lrfp/`, volume 2 split), ed specs, 2009 historic building assessments |
+| `_download_manifest.jsonl`, `_manifests/`, `_site_map.md` | URL, final URL and fetch time for every file |
+
+Cite as `[PPS:<path under sources/>]`, e.g. `[PPS:pps_net/rightsizing/school_impact/maplewood.pdf p.3]`.
+
+### Bond: `sources/bond/`
+`2025_bond/`, `audits/` (performance audits), `bac/` (Bond Accountability Committee reports and decks), `seismic/` (URM list,
+2012 seismic ratings, assessment), `pages/`, `_manifests/`. Some large files are split. See the `*.SPLIT.md` next to them.
+
+### News: `sources/news/`
+`index.jsonl`, one record per article (233): `id, date, outlet, title, url, author, topics, schools_mentioned,
+people_quoted, summary, key_facts, short_quotes[{speaker, quote, context}]`. Summaries are the archive's own wording;
+there is no full text. Cite `[NEWS:<id>]`. Also `pps_in_the_news_list.json` (PPS's own press list).
+
+## Derived analysis (`analysis/`)
+
+| Path | Grain / contents | Best for |
+|---|---|---|
+| `BRIEFING.md` | Capstone decision briefing | First read |
+| `timeline.md`, `timeline_from_news.md` | Dated events, sourced | "When / what came before" |
+| `topics/*.md` | Rightsizing; criteria and principles; bond and seismic; budget and enrollment; plus `*_open_questions.md` | Cross-cutting synthesis and known conflicts |
+| `schools/<slug>.md` (82) + `README.md`, `_discrepancies.md` | Per school: what A/B do, PPS rationale (verbatim), projections, demographics, seismic, $/student, quotes, news | Any school question |
+| `schools/maplewood_brief.html` | Shareable brief (example of a published page) | Style reference |
+| `meetings/<date>_<videoId>.md` (106) | Per-meeting summary, decisions and votes, topic index with timestamps | "What happened at…" |
+| `people/<slug>.md` (27) + `README.md` (stance matrix) | Board and staff profiles, positions over time | Person questions |
+| `people/quotes_all.jsonl` (1,443) | `person, role, date, meeting_id, video_id, timestamp, seconds, url, quote, paraphrase, topics[], stance, attribution_evidence, confidence` | Attributed quotes |
+| `people/positions_timeline.csv` | `person, date, topic, stance, quote_ref, confidence, all_topics, source_type` | Position changes over time |
+| `people/quotes/batchNN*.jsonl/_notes.md` | Raw per-batch quote extraction and notes (caption fixes, attribution problems) | Provenance of quotes |
+| `board_closure_stance/<slug>.md`, `README.md`, `all_scores.csv` | Per-director closure stance: timeline, contradictions, fixations, weak points; lean scores −2…+2 (`member, date, score, confidence, type, citation, quote_or_action, rationale`) | "Where does X stand?" |
+| `data/school_impact.csv` | school × {StatusQuo, A, B}: action, destinations, 2027-28→2031-32 projections, goals met, % within 1 mile, demographics, 2025-26 enrollment and capacity, seismic, $/student, with sources | **Per-school numbers** |
+| `data/rightsizing_scenarios.csv` | school × scenario from memo, deck and regional summaries (corrected) | Cross-check |
+| `data/school_metrics.csv` | school × metric (long format) | 2025-26 enrollment, capacity, utilization, Title I |
+| `data/enrollment_history_and_forecast.csv` | year × level/school × measure (history, PPS and PSU forecasts by vintage) | Trends and forecasts |
+| `data/budget_figures.csv` | fiscal year × fund × item | Budget figures |
+| `data/bond_projects.csv`, `data/seismic_facilities.csv` | Bond projects; per-building seismic scores, URM, retrofit status, scenario status | Bond and seismic questions |
+| `_verification_report.md` | Independent fact-check results | How reliable each area is |
+| `_published_pages.md` | Log of shareable pages published from this archive | Republishing |

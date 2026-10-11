@@ -32,6 +32,18 @@ def process(txt):
     return f"ok {len(done)}"
 
 if __name__ == "__main__":
-    lst = [ROOT / l.split("\t")[0] for l in Path(sys.argv[1]).read_text().splitlines() if l.strip()]
+    # Argument: a list file (one <file>.pdf.txt path per line, tab-separated extras ignored),
+    # or a directory to scan for .pdf.txt files where >=30% of pages have <40 chars and no .ocr.txt exists yet.
+    arg = Path(sys.argv[1])
+    if arg.is_dir():
+        lst = []
+        for t in sorted(arg.rglob("*.pdf.txt")):
+            pages = [p for p in t.read_text(errors="ignore").split("\f")]
+            if pages and not pages[-1].strip(): pages = pages[:-1]
+            if pages and sum(len(p.strip()) < 40 for p in pages) / len(pages) >= 0.3 and not Path(str(t)[:-4] + ".ocr.txt").exists():
+                lst.append(t.resolve())
+        print(len(lst), "PDFs need OCR", flush=True)
+    else:
+        lst = [ROOT / l.split("\t")[0] for l in arg.read_text().splitlines() if l.strip()]
     with ThreadPoolExecutor(int(sys.argv[2]) if len(sys.argv) > 2 else 6) as ex:
         for t, r in zip(lst, ex.map(process, lst)): print(r, t.relative_to(ROOT), flush=True)

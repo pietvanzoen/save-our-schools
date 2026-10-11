@@ -5,6 +5,12 @@ school-closure proposals**. Supporting topics: 2025 bond & seismic retrofits, en
 and how board members and senior staff think and change positions over time. Routine procedural business
 (contract approvals, minutes adoption, ceremonial items) can be noted briefly or skipped.
 
+## Start here
+- **Answering questions** about PPS closures, schools, people or meetings: follow `.claude/skills/pps-research/SKILL.md`.
+  Everything needed is already in the repo, so don't browse or fetch.
+- **Collecting or refreshing sources** (new meetings, minutes, transcripts): follow `RUNBOOK.md`.
+- **Shareable pages** built from the archive: `analysis/_published_pages.md`.
+
 ## Rules
 1. `sources/` is primary material. Never edit files there except to ADD new source files plus their
    provenance (URL + fetch date in a manifest or front matter). Do not paraphrase into sources/.
@@ -22,7 +28,8 @@ and how board members and senior staff think and change positions over time. Rou
    `medium` (strong contextual inference), `low` (guess; avoid using low-confidence quotes in syntheses).
 5. Distinguish clearly between what PPS documents state, what people said, and your own inference
    (label inference as "Analysis:").
-6. Do NOT run git commit/push. The controller commits. Write only to the paths your task assigns you.
+6. Helper agents spawned by a controlling session: do NOT run git commit/push (the controller commits), and write only
+   to the paths your task assigns you. A session working directly for the user commits only when asked.
 7. Prefer structured outputs (CSV/JSONL) alongside readable Markdown so things can be searched and joined.
 8. News articles are copyrighted: store metadata, a summary in your own words, and at most short quotes
    (< 25 words each) with attribution; never full article text.
@@ -37,3 +44,5 @@ and how board members and senior staff think and change positions over time. Rou
 - pps.net / bond.pps.net archives: `sources/pps_net/`, `sources/bond/` with `_manifests/` (URL, final URL, fetch time)
 - People: `analysis/people/README.md`, `analysis/people/quotes_all.jsonl`, per-person profiles
 - Search: `python3 tools/search.py "query"` (full-text over sources + analysis)
+- Data tables: `analysis/data/*.csv` (`school_impact.csv` for per-school scenario facts); director stances: `analysis/board_closure_stance/`
+- Quote merging (new batches only): `python3 tools/merge_quotes.py analysis/people/quotes/<batch>.jsonl [--write]`
