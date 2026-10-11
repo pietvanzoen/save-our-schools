@@ -1,0 +1,91 @@
+Portland Public Schools
+Class Size Detail, January 15, 2013
+
+                                                                  Percentile               Standard
+School Type    Title I Status   School Name               5%    25%    50%     75%    95% Deviation Average
+K-5            Not Title I      Markham                    21     23   24.0      26     28        2    24.2
+K-5            Not Title I      Rieke                      20     22   24.5      27     31        3    24.5
+K-5            Not Title I      Buckman                    22     23   24.5      26     28        2    24.7
+K-5            Not Title I      Ainsworth                  19     22   26.0      26     30        3    24.7
+K-5            Not Title I      Maplewood                  19     23   25.0      28     30        4    24.9
+K-5            Not Title I      Duniway                    23     24   24.0      26     31        2    25.2
+K-5            Not Title I      Atkinson                   21     22   24.0      28     32        4    25.5
+K-5            Not Title I      Lewis                      21     23   24.0      31     33        4    25.8
+K-5            Not Title I      Llewellyn                  21     24   25.0      28     33        4    26.0
+K-5            Not Title I      Glencoe                    21     24   25.5      28     32        3    26.0
+K-5            Not Title I      Chapman                    23     24   26.0      29     30        2    26.3
+K-5            Not Title I      Richmond                   24     25   27.0      28     28        1    26.4
+K-5            Not Title I      Woodstock                  21     24   27.0      30     32        4    26.5
+K-5            Not Title I      Capitol Hill               17     24   27.0      30     33        5    26.5
+K-5            Not Title I      Forest Park                18     24   26.0      32     33        5    26.7
+K-5            Not Title I      Bridlemile                 22     25   25.0      30     31        3    26.9
+K-5            Not Title I      Abernethy                  23     25   27.0      29     30        2    26.9
+K-5            Not Title I      Stephenson                 22     25   28.0      29     34        4    27.5
+K-5            Not Title I      Alameda                    24     25   27.0      31     33        3    27.7
+K-5            Not Title I      Chief Joseph               25     27   28.5      30     31        2    28.4
+K-5            Title I          Grout                      17     19   20.0      20     24        2    19.9
+K-5            Title I          Rosa Parks                 17     19   20.0      23     26        2    21.0
+K-5            Title I          Woodmere                   19     23   24.5      25     28        2    23.8
+K-5            Title I          James John                 22     23   24.0      25     26        1    24.1
+K-5            Title I          Whitman                    20     21   23.5      27     30        3    24.1
+K-5            Title I          Sitton                     20     23   27.0      27     29        3    25.5
+K-5            Title I          Kelly                      21     24   25.0      28     32        4    25.6
+K-8            Not Title I      Skyline                     8     18   21.0      26     28        5    21.0
+K-8            Not Title I      Irvington                  19     21   24.5      26     29        3    23.8
+K-8            Not Title I      Sabin                      20     21   23.0      28     31        4    24.3
+K-8            Not Title I      Hayhurst                   18     23   26.0      27     31        4    24.8
+K-8            Not Title I      Sunnyside Environmental    19     21   25.0      29     34        4    25.2
+K-8            Not Title I      Astor                       7     26   28.0      29     31        7    25.6
+K-8            Not Title I      Roseway Heights            19     24   26.0      28     30        4    25.8
+K-8            Not Title I      Laurelhurst                23     24   24.0      28     31        3    25.9
+K-8            Not Title I      Creative Science           24     25   27.5      29     30        2    27.4
+K-8            Not Title I      Beverly Cleary             20     24   26.0      29     46        7    27.8
+K-8            Not Title I      Winterhaven                24     29   30.0      31     31        7    30.8
+K-8            Title I          King                        9     18   19.0      20     23        3    18.8
+K-8            Title I          Vestal                      9     18   19.0      23     29        5    19.9
+K-8            Title I          Woodlawn                   12     15   21.0      23     27        5    20.0
+K-8            Title I          Peninsula                   7     18   24.0      27     29        8    20.9
+K-8            Title I          Ockley Green               13     19   21.0      23     27        5    21.0
+K-8            Title I          Scott                      16     20   21.0      22     26        3    21.1
+K-8            Title I          Lent                       13     19   22.5      24     27        4    21.5
+K-8            Title I          Creston                    10     20   23.0      24     33        5    21.9
+K-8            Title I          Bridger                    12     20   22.0      24     31        4    22.0
+K-8            Title I          César Chávez               17     21   22.0      25     27        3    22.3
+K-8            Title I          Boise-Eliot/Humboldt       19     20   21.0      23     26        4    22.3
+K-8            Title I          Vernon                     17     20   23.0      27     29        4    23.1
+K-8            Title I          Marysville                 20     21   24.0      26     28        3    23.6
+K-8            Title I          Rigler                     19     22   25.0      26     28        3    23.9
+K-8            Title I          Beach                      17     20   24.0      27     31        5    24.0
+K-8            Title I          Faubion                    17     20   26.0      29     33        5    24.5
+K-8            Title I          Lee                        21     23   25.0      27     27        2    24.6
+K-8            Title I          Harrison Park              20     24   26.0      28     31        4    25.7
+K-8            Title I          Arleta                     21     25   28.0      29     32        3    27.1
+Portland Public Schools
+Class Size Detail, January 15, 2013
+
+                                                                           Percentile               Standard
+School Type       Title I Status   School Name                     5%    25%    50%     75%    95% Deviation Average
+Middle            Not Title I      Sellwood                         16     19   21.0      27     33        6    22.9
+Middle            Not Title I      Hosford                          15     21   23.0      27     31        6    23.7
+Middle            Not Title I      Beaumont                          6     20   27.0      30     35       10    24.5
+Middle            Not Title I      Gray                             13     23   26.0      30     36        7    25.9
+Middle            Not Title I      Mt Tabor                         12     24   27.0      31     36        7    26.7
+Middle            Not Title I      Jackson                          12     25   30.0      33     41        8    28.1
+Middle            Not Title I      West Sylvan                      19     27   29.0      31     41        7    29.2
+Middle            Not Title I      da Vinci                         15     24   29.0      32     58       11    29.5
+Middle            Title I          George                            9     18   24.0      26     31        7    21.6
+Middle            Title I          Lane                             12     21   25.0      28     32        7    23.8
+High              Not Title I      Madison                          11     21   25.0      28     33        7    23.9
+High              Not Title I      Lincoln                          14     21   25.0      28     34        7    24.5
+High              Not Title I      Wilson                           13     21   25.0      28     34        7    24.5
+High              Not Title I      Franklin                         14     21   25.0      28     37        7    24.8
+High              Not Title I      Benson                           14     21   25.0      30     41        8    25.2
+High              Not Title I      Cleveland                        13     22   26.0      29     35        7    25.7
+High              Not Title I      Grant                            17     24   26.5      30     34        7    26.9
+High              Title I          Jefferson                        10     18   22.0      27     45        9    22.9
+High              Title I          Roosevelt                         6     17   23.0      29     38       11    23.3
+PPS Alternative   Not Title I      Alliance                          5      6    6.0       8     13        3      7.4
+PPS Alternative   Not Title I      Head Start Early Childhood Ed    15     16   17.0      19     20        5    18.2
+PPS Alternative   Not Title I      ACCESS                           14     24   27.0      28     29        5    25.2
+PPS Alternative   Not Title I      Metro. Learning Center           11     24   26.0      26     37       17    26.4
+

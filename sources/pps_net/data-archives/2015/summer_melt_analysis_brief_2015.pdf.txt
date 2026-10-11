@@ -1,0 +1,181 @@
+                                          PORTLAND PUBLIC SCHOOLS • SYSTEM PLANNING AND PERFORMANCE • JUNE 2015
+
+
+
+
+                                   S T U D E N T S AT A G L A N C E :
+
+                                   Summer Melt
+
+                                                                               HIGHLIGHTS
+Exit surveys capture valuable data on high school senior plans for
+after graduation.
+
+About 29% of PPS high school seniors planning to enroll in
+college will not successfully matriculate; this phenomenon is
+called “summer melt.”
+
+Although not all summer melt is bad, it affects different groups at
+different rates.
+
+
+Historically underserved students and students planning to attend
+2-year colleges are most affected by summer melt.
+
+
+Outreach to students and families before and after graduation can
+reduce summer melt.
+
+                              BACKGROUND                                                                             METHOD
+
+What is Summer Melt?                                                                   Every year, seniors typically complete an exit survey in the Spring prior
+“Summer melt” is the term for when high school graduates who plan                      to graduation. In this survey, they indicate whether they plan to attend
+to enroll in college ultimately do not enroll in the fall after graduation¹.           a four-year college or university, a community college, or a technical
+Nationally, fall enrollment is defined as enrollment in an institution as              or trade school. These data were matched with National Student
+of its fall reporting date, typically August 1 through October 31².                    Clearinghouse (NSC) data on college enrollments for the 2012-13 cohort.
+                                                                                       Most but not all 4- and 2-year colleges and universities report to NSC.
+                                                                                       Trade/technical schools and community colleges are included as
+What is the Scope of Summer Melt?                                                      2-year colleges.
+This phenomenon affects students enrolling at all types of postsecondary
+institutions, including 4-year colleges and universities, 2-year colleges,             Summary statistics and chi-squared analyses were conducted to test for
+and technical/trade schools. Nationwide, it affects 10-40% of students                 differences of proportions across groups.
+planning to enroll in college². Studies suggest that students from low- and
+middle-income and historically underserved backgrounds experience                                                       D ATA
+summer melt to a greater extent than White, Asian, and more affluent
+students³. For students intending to enroll in community colleges,                     Districtwide, summer melt affected approximately 29% of college-
+rates of melt are higher than for students planning to attend a 4-year                 intending seniors. This rate is similar even when considering students
+college or university ¹.                                                               who enrolled in a different type of school than planned. These rates were
+                                                                                       higher among historically underserved students and were statistically
+                                                                                       significant for those planning to attend 4-year colleges/universities.
+Does PPS have a “Summer Melt” issue?
+Using senior exit survey and National Student Clearinghouse data, System               Although some students plan to enroll in a 4-year college and eventually
+Planning and Performance investigated whether students’ college                        enroll in a 2-year college (or vice versa), these students (N=59) only
+enrollment matched their post-graduation plans.                                        account for only 12% of summer melt at PPS.
+
+
+
+                                                                                                                                                                   1
+                            RESE ARCH BRIEF:
+                            Summer Melt
+
+                                                              DISTRIC T WIDE – PL ANNED VS AC TUAL ENROLLMENT
+
+  Plans after High School                           # Respondents               % of Respondents         # Plans Match                % Plans Match            # Summer Melt                   % Summer Melt
+                                                                                                       Actual Enrollment            Actual Enrollment           (Plan-Actual)
+
+  Planning to attend a 2-year or 4-year                   1620                         86%                     1143                        71%                         -477                           -29%
+          2-year                                           538                         29%                      246                        46%                         -292                           -54%
+          4-year                                          1082                         58%                      897                        83%                            -185                        -17%
+
+                                                     B Y R A C E – P L A N N E D V S A C T U A L 4 -Y E A R C O L L E G E E N R O L L M E N T
+
+  Race                                              # Planning to Attend                 # Actually Enrolled          % Actually Enrolled                 # Difference                         % Difference
+                                                           4 year
+
+  Native American / Alaskan Native                               –                               –                              –                                –                                   –
+  Asian                                                          128                            106                           83%                               -22                                 -17%
+  Black / African American                                       94                              61                           65%                               -33                                -35%***
+  Hispanic / Latino                                              89                              58                           65%                               -31                                -35%***
+  Multi-Racial                                                   69                              58                           84%                               -11                                 -16%
+  Native Hawaiian / Other Pacific Islander                       –                               –                              –                                –                                   –
+  White                                                          693                            608                           88%                               -85                                 -12%
+
+  Note: For groups of 6 or less, data has been withheld to protect student confidentiality; *** = compared to White group, significantly higher summer melt at p<0.001.
+
+                                                                              S U M M E R M E LT – 4 -Y E A R C O L L E G E S
+                                   District                           N=177
+                                                                                                                               *Statistically significant difference              Note: For groups of less than 6,
+      Native American / Alaskan Native          –                                                                                between Hispanic / Latino and                   data has been withheld to protect
+                                                                                                                                    Black / African American                          student confidentiality.
+                                     Asian                               N=22
+                                                                                                                                summer melt rates vs. rates for
+                   Black / African American                                                   N=33*                                      white students
+                          Hispanic / Latino                                                   N=31*
+
+                              Multi-Racial                            N=11
+Native Hawaiian / Other Pacific Islander        –
+                                     White                       N=85
+                                                        10%            20%         30%         40%      50%           60%       70%         80%          90%          100%
+
+
+                                                      B Y R A C E P L A N N E D V S A C T U A L 2-Y E A R C O L L E G E E N R O L L M E N T
+
+  Race                                              # Planning to Attend                 # Actually Enrolled          % Actually Enrolled                 # Difference                         % Difference
+                                                           2 year
+
+  Native American / Alaskan Native                               –                               –                              –                                –                                   –
+  Asian                                                          58                              31                           53%                               -27                                -47%
+  Black / African American                                       85                              39                           46%                               -46                                -54%
+  Hispanic / Latino                                              121                             49                           40%                               -72                                -60%
+  Multi-Racial                                                   18                              7                            39%                               -11                                -61%
+  Native Hawaiian / Other Pacific Islander                       –                               –                              –                                –                                   –
+  White                                                          283                            115                           48%                              -123                                -52%
+
+  Note: For groups of 6 or less, data has been withheld to protect student confidentiality.
+
+                                                                                                                                                                                                                     2
+                          RESE ARCH BRIEF:
+                          Summer Melt
+
+                                                               S U M M E R M E LT– 2-Y E A R C O L L E G E S A N D S C H O O L S
+                                   District                                                           N=233
+                                                                                                                                                                                    Note: For groups of less than 6,
+      Native American / Alaskan Native          –                                                                                                                                  data has been withheld to protect
+                                                                                                                                                                                        student confidentiality.
+                                     Asian                                                                N=27
+
+                Black / African American                                                                              N=46
+
+                         Hispanic / Latino                                                                                   N=72
+
+                              Multi-Racial                                                                                   N=11
+
+Native Hawaiian / Other Pacific Islander        –
+                                     White                                                                     N=123
+                                                        10%          20%          30%         40%          50%         60%          70%          80%          90%          100%
+
+
+                      B Y H I S T O R I C A L LY U N D E R S E R V E D R A C I A L / E T H N I C G R O U P S – P L A N N E D V S A C T U A L E N R O L L M E N T
+
+                                                     # with Post Secondary Education Plans                    # Actually Enrolled in Planned School Type                              % Actually Enrolled
+
+   Historically Underserved                                                416                                                         283                                                      68%
+
+   Not Historically Underserved                                            1204                                                        1004                                                     83%
+
+   Note : Historically underserved (HU) races/ethnicities include Black / African American, Hispanic / Latino, Native American / Alaskan Native, and Native Hawaiian / Pacific Islander students.
+   HU students successfully enrolled in planned school type at a lower rate than not historically underserved students (p<0.001).
+
+                         W H AT C A U S E S S U M M E R M E LT ?                                                                      H O W C A N P P S P R E V E N T M E LT ?
+
+   There are many reasons why a college-intending student may not enroll.                                          Summer counseling and reminder campaigns (such as via text messages
+   Some students plan to have a gap year prior to college in order to consider                                     or social media) are among possible interventions for high school
+   the best fit for their goals or to save money prior to enrolling⁴. Financial                                    seniors¹, ². Prior to graduation, seniors may also be guided in developing
+   concerns and lack of social support for completing the tasks related to                                         summer plans and checklists for the many tasks that they must complete
+   enrolling in college (such as registering, completing forms, and receiving                                      prior to enrollment. PPS already has a method for collecting senior post-
+   and responding to communication from schools) are also common reasons                                           graduation plans and could use these to target students with relevant
+   for failure to enroll¹.                                                                                         supports such as digital reminders or summer counseling.
+
+
+
+
+                       FUTURE RESEARCH DIREC TIONS                                                                                                     REFERENCES
+
+   Could partnering with local colleges decrease Summer Melt?                                                 1 Castleman, B. L., Page, L. C., & Snowdon, A. L. (2013). Strategic Data Project summer melt
+                                                                                                                handbook: A guide to investigating and responding to summer melt. Center for Education Policy
+   What kinds of support do colleges currently provide?                                                         Research, Harvard University. Retrieved from http://cepr.harvard.edu/ceprresources/files/
+                                                                                                                newsevents/sdpsummermelthandbook.pdf
+                                                                                                              2 US Department of Education (2015). Fall enrollment. Retrieved from https://surveys.nces.ed.gov/
+   What types of support are most needed?                                                                       ipeds/VisFaqView.aspx?mode=reg&id=3&show=all
+   Resources could include FAFSA completion assistance, emotional and social                                  3 Roderick, M., Nagaoka, J., Coca, V., & Moeller, E. (2008). From High School to the Future: Potholes
+   support through counseling, and reminders to complete various enrollment                                     on the Road to College. Research Report. Consortium on Chicago School Research. 1313 East 60th
+                                                                                                                Street, Chicago, IL 60637.
+   and orientation tasks.
+                                                                                                              4 Castleman, B. L., Page, L. C., & Schooley, K. (2014). The Forgotten Summer: Does the Offer of
+                                                                                                                College Counseling After High School Mitigate Summer Melt Among College-Intending, Low-
+                                                                                                                Income High School Graduates?. Journal of Policy Analysis and Management , 33(2), 320344.
+
+
+
+                                                                                                                                                                                                                       3
+

@@ -1,0 +1,51 @@
+Portland Public Schools
+October 3rd, 2022 Enrollment - Summary Comparison
+  Enrollment by Program Type             2020     2021     2022    Change
+  Elementary Schools                    23,265   20,705   20,881      176
+  Middle Schools                         7,416    7,560    7,464      -96
+  High Schools                          12,667   13,050   13,125       75
+  Selected Focus/Alternative Programs    1,243    1,795    1,553     -242
+  Community Based Programs                872      637      683        46
+  Special Services                        408      455      456         1
+  Public Charter Schools                 1,443    1,295    1,294       -1
+  Total Enrollment                      47,314   45,497   45,456      -41
+
+  Enrollment by Grade                    2020     2021     2022    Change
+  Pre-Kindergarten                        377      492      658       166
+  Kindergarten                           3,245    3,195    3,152      -43
+  Grade 1                                3,696    3,282    3,376       94
+  Grade 2                                3,738    3,476    3,319     -157
+  Grade 3                                3,646    3,486    3,502       16
+  Grade 4                                3,747    3,388    3,485       97
+  Grade 5                                3,764    3,497    3,358     -139
+  Grade 6                                3,614    3,375    3,405       30
+  Grade 7                                3,665    3,420    3,355      -65
+  Grade 8                                3,738    3,550    3,457      -93
+  Grade 9                                3,442    3,652    3,601      -51
+  Grade 10                               3,473    3,474    3,621      147
+  Grade 11                               3,439    3,379    3,381        2
+  Grade 12                               3,730    3,831    3,786      -45
+  Pre-K - 12 Totals                     47,314   45,497   45,456      -41
+  K - 12 Totals                         46,937   45,005   44,798     -207
+
+  Enrollment by Race/Ethnicity           2020     2021     2022    Change
+  Asian                                  6.2%     6.0%     5.8%     -0.2%
+  African American                       8.6%     8.5%     8.3%     -0.2%
+  Latino                                16.6%    16.7%    17.3%      0.6%
+  Native American                        0.5%     0.5%     0.5%      0.0%
+  Pacific Islander                       0.8%     0.7%     0.8%      0.0%
+  White                                 55.9%    55.8%    55.2%     -0.6%
+  Multi-Racial - Asian/White             4.9%     5.3%     5.4%      0.1%
+  Multi-Racial - Other Ancestries        6.4%     6.5%     6.7%      0.3%
+Portland Public Schools
+October 3rd, 2022 Enrollment - Summary Comparison
+  Enrollment Summaries are based on enrollment on the first weekday in October as
+  reported in the student information system (SIS).
+
+  School configuration changes will impact the year-to-year counts by Program Type, as
+  6-8 grades are moved from K-8 schools to new Middle Schools.
+
+  Students in the student information system (SIS) who are only receiving Special
+  Education services and are not regularly attending PPS are excluded from the
+  enrollment summaries.
+

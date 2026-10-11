@@ -1,0 +1,63 @@
+PPS Discipline Incidents (expulsions and out-of-school suspensions) by Race, 2023-24 with one prior year
+
+
+
+
+                                                                                                                                                                                                                                   Multiple
+                                                                                                                                                                                                                       Pacific    (Excluding Multiple (Asian
+                                                                                             Overall    White                           Black              Latino              Native               Asian             Islander   Asian White)    White)
+                                   Group         Type             Year                      #        % #     %                        #       %           #      %            #      %            #      %            #      %     #      %    #        %
+                                   District      Students         2022-2023                 1699 3.8% 604 2.4%                        415 11.3%           346     5%           28 12.3%            30 1.2%             25 7.5% 215 7.1%           36      1%
+                                                                  2023-2024                 1917 4.3% 694 2.9%                        463 12.8%           382     5%           30 13.8%            46 1.8%             29 8.6% 246 8.2%           27      1%
+                                                 Incidents        2022-2023                 3186 7.1% 1143 4.6%                       822 22.3%           596     8%           54 23.8%            46 1.8%             42 12.6% 438 14.5%         45      2%
+                                                                  2023-2024                 3749 8.5% 1341 5.5%                       892 24.6%           745 10%              72 33.2%            69 2.8%             42 12.4% 531 17.6%         57      2%
+                                   E.S.          Students         2022-2023                  588 2.8% 231 2.0%                        134 8.2%            102     3%           11 9.6%             12 1.0%             10 5.7%      81 5.6%        7      1%
+                                                                  2023-2024                  623 3.1% 250 2.2%                        133 8.3%            107     3%           13 12.7%            13 1.2%               5 3.0%     92 6.4%       10      1%
+                                                 Incidents        2022-2023                 1280 6.1% 524 4.5%                        290 17.7%           224     6%           27 23.7%            24 2.1%             21 11.9% 162 11.2%          8      1%
+                                                                  2023-2024                 1416 6.9% 569 5.1%                        289 18.0%           233     6%           34 33.3%            29 2.7%               9 5.3% 228 15.9%         25      2%
+                                   M.S.          Students         2022-2023                  562 7.5% 204 4.9%                        138 22.7%           116     9%            8 29.6%              9 2.2%              4 7.8%     67 14.4%      16      4%
+                                                                  2023-2024                  681 9.2% 229 5.7%                        163 28.6%           153 11%               7 23.3%            23 5.2%             16 21.9%     77 16.4%      13      3%
+                                                 Incidents        2022-2023                 1087 14.6% 365 8.7%                       314 51.6%           190 15%              17 63.0%            11 2.7%               8 15.7% 162 34.8%        20      5%
+                                                                  2023-2024                 1358 18.4% 447 11.1%                      329 57.8%           321 24%              23 76.7%            27 6.1%             25 34.2% 168 35.7%         18      4%
+                                   H.S.          Students         2022-2023                  466 3.6% 130 1.8%                        136 12.6%           107     5%            7 14.0%              8 0.9%            11 11.3%     56 6.5%       11      2%
+                                                                  2023-2024                  476 3.6% 148 2.1%                        146 13.3%             98    4%            5 12.8%              7 0.8%              7 8.0%     62 7.4%        3      0%
+                                                 Incidents        2022-2023                  668 5.1% 184 2.6%                        202 18.7%           152     7%            8 16.0%            10 1.1%             13 13.4%     87 10.1%      12      2%
+                                                                  2023-2024                  690 5.2% 193 2.7%                        228 20.7%           134     6%            5 12.8%              9 1.0%              7 8.0% 111 13.2%          3      0%
+                                   PPS Alt.      Students         2022-2023                   18 1.7%   10 1.5%                          3 4.5%              3    2%                                                                 2 2.8%
+                                                                  2023-2024                   29 3.4%   17 3.0%                          2 5.4%              7    7%             2 25.0%                                             1 1.6%
+                                                 Incidents        2022-2023                   19 1.8%   10 1.5%                          4 6.0%              3    2%                                                                 2 2.8%
+                                                                  2023-2024                   50 5.8%   31 5.5%                          2 5.4%              8    9%             5 62.5%                                             4 6.6%
+                                   CBO           Students         2022-2023                   34 5.0%   16 5.6%                          2 2.1%             12    6%             1 5.0%                                              3 5.3%
+                                                                  2023-2024                   29 3.8%    8 2.6%                          7 6.6%              9    4%             3 11.1%                                             2 2.6%
+                                                 Incidents        2022-2023                   52 7.6%   22 7.7%                          5 5.3%             14    7%             1 5.0%                                             10 17.5%
+                                                                  2023-2024                   38 5.0%   11 3.6%                          8 7.5%             12    6%             5 18.5%                                             2 2.6%
+                                   SPED          Students         2022-2023                   15 4.8%                                    3 8.8%              4    8%             1 14.3%             1 6.7%                          6 16.2%
+                                                                  2023-2024                   43 13.6%  22 12.4%                         7 22.6%             3    6%                                 2 18.2%                         9 25.0%
+                                                 Incidents        2022-2023                   26 8.4%                                    5 14.7%             6 13%               1 14.3%             1 6.7%                         13 35.1%
+                                                                  2023-2024                   94 29.7%  39 22.0%                       24 77.4%             14 29%                                   3 27.3%                        14 38.9%
+                                   Charter       Students         2022-2023                   25 1.9%   16 2.0%                          2 1.2%              4    3%                                                                 1 1.2%        2      3%
+                                                                  2023-2024                   46 3.5%   22 2.8%                          8 4.3%              7    5%                                 1 1.5%              *     *     4 4.2%        3      5%
+                                                 Incidents        2022-2023                   54 4.2%   38 4.7%                          2 1.2%              7    6%                                                                 2 2.4%        5      8%
+                                                                  2023-2024                  103 7.7%   51 6.5%                        12 6.5%              23 18%                                   1 1.5%              *     *     4 4.2%       11     19%
+                                     All percentages are of October Enrollment, ethnicity percentages shown are students and incidents of that ethnicity divided by the count of students enrolled in October of that subgroup.
+
+                                      *Discipline counts and rates are suppressed where enrollment falls below 6 students. Percents based on a small number of students are not statistically sound and do NOT support comparison.
+
+                                     ¹ For most of the schools and programs reported here, October enrollments are representative of the total number of students served throughout the school year, and thus a reasonable basis for calculating suspension and expulsion
+                                     rates. However, for Alliance HS (shown in PPS Alt), an alternative high school serving 16- to 21-year olds previously unsuccessful in traditional high school programs, the total number of students served during the school year may be as
+                                     many as 2 to 3 times greater than October enrollments. Consequently, suspension and expulsion rates reported for Alliance HS should be viewed with caution. Pioneer Programs (shown in PPS Special), similarly take students
+                                     throughout the school year, therefore October Enrollment is not a good representation of the total students served.
+                                                            Major Discipline Referrals are out-of-school suspension (exclusion from school for at least one but not more than 10 days) and expulsion.
+                                     Counts of students referred are unduplicated within a school. For example if a student at one school received two out-of-school suspensions and one expulsion, that student will be counted once in the student row, with three major
+                                     incidents being included for that student in the total incidents row for that school.
+                                                            Caution should be exercised when comparing discipline data across schools and years. Although District policies and regulations increase consistency in addressing and reporting student discipline incidents,
+                                     exclusions from school are ultimately determined by the best professional judgment of the administrator. District-wide results are slightly different starting 2014/15 SY, with the inclusion of community based alternative programs ,
+                                     which were previously not reported on for discipline.
+                                                            Race/Ethnicity: Definitions of race/ethnicity categories used in these calculations changed in 2009. In 2008/09, students who identified as Hispanic/Latino and one or more other category were included in the
+                                     Multiple category. Beginning in 2009/10 such students were included in the Hispanic/Latino category. In 2009, the Asian/Pacific Islander category was divided into two separate categories. Prior to 2010 there was a category for
+
+
+
+
+System Planning & Performance - Analytics                                                                                                                                                                                                                                           Page 1 of 1
+

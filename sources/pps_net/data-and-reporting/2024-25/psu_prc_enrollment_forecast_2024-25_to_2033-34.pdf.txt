@@ -1,0 +1,1341 @@
+PORTLAND PUBLIC SCHOOLS
+ ENROLLMENT FORECASTS
+     2024-25 to 2033-34
+
+
+
+
+      Population Research Center
+
+
+             July 24, 2024
+Contents
+
+
+1   EXECUTIVE SUMMARY                                                                                    1
+    1.1 Demographic Trends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         1
+    1.2 Enrollment Trends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        2
+    1.3 Summary of Enrollment Forecast Results . . . . . . . . . . . . . . . . . . . . . . . .           2
+
+2   POPULATION AND HOUSING TRENDS                                                                         4
+    2.1 Population by Age Group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         6
+    2.2 Births . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      7
+    2.3 Housing Trends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       10
+    2.4 Affordable Housing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       13
+
+3   ENROLLMENT TRENDS                                                                                    16
+    3.1 Private Schools, Homeschooling, and District Capture Rate . . . . . . . . . . . . . . .          17
+    3.2 Enrollment Trends by Place of Residence . . . . . . . . . . . . . . . . . . . . . . . .          18
+
+4   ENROLLMENT FORECASTS                                                                                 20
+    4.1 Forecast Process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     20
+    4.2 Forecast Data and Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          21
+    4.3 Forecast Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     24
+        4.3.1 District-wide Enrollment Forecasts . . . . . . . . . . . . . . . . . . . . . . .           24
+        4.3.2 Enrollment Forecasts by Grade . . . . . . . . . . . . . . . . . . . . . . . . . .          25
+    4.4 Forecast Accuracy and Uncertainty . . . . . . . . . . . . . . . . . . . . . . . . . . . .        27
+
+5   APPENDICES                                                                                           30
+
+
+
+
+List of Tables
+
+
+    2.1   PPS District Population by Jurisdiction . . . . . . . . . . . . . . . . . . . . . . . . . .     4
+    2.2   Population Under Age 18, PPS High School Clusters . . . . . . . . . . . . . . . . . .           6
+    2.3   Births by High School Cluster . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       9
+    2.4   Single Family Housing Units in PPS Permitted by City of Portland by HSCL, 2004 to
+          2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+                                                     1
+  2.5   Multi-Family Housing Units in PPS Permitted by City of Portland by HSCL, 2004 to
+        2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   11
+  2.6   Children in households by housing type, 2012 to 2019 . . . . . . . . . . . . . . . . . .       13
+  2.7   New Affordable Housing Recently Constructed or Under Development within PPS . .                15
+
+  3.1   Portland Public Schools, Historic K-12 Enrollment, 2014-2023 . . . . . . . . . . . . .         16
+  3.2   School Enrollment by Type of School, PPS District Residents, 2013-17 and 2018-22 .             17
+  3.3   PPS Historic Enrollment by Grade Level and High School Cluster of Residence . . . .            19
+
+  4.1   Affordable Housing Student Generation Rates . . . . . . . . . . . . . . . . . . . . . .        24
+  4.2   District Enrollment Forecasts by Individual Grade . . . . . . . . . . . . . . . . . . . .      26
+  4.3   Forecast Errors by Grade: PPS, 2023 . . . . . . . . . . . . . . . . . . . . . . . . . . .      28
+  4.4   Forecast Errors by Years since Forecast: PPS, 2011-2023 . . . . . . . . . . . . . . . .        29
+
+  5.1   Population Projection: Portland Public Schools, 2030-2040 . . . . . . . . . . . . . . .        30
+  5.2   Enrollment Projection (Medium Scenario): Portland Public Schools, 2024-2038 . . . .            31
+  5.3   Enrollment Projection (Low Scenario): Portland Public Schools, 2024-2038 . . . . . .           32
+  5.4   Enrollment Projection (High Scenario): Portland Public Schools, 2024-2038 . . . . . .          33
+  5.5   Enrollment Projection by Grade Group: Portland Public Schools, 2024-2033 . . . . . .
+
+
+
+
+List of Figures
+
+
+  2.1   District Overview Map . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       5
+  2.2   Population by Age Group, PPS, 2000, 2010, and 2016-2020 . . . . . . . . . . . . . .             7
+  2.3   Age-Specific Fertility Rates, 1990 to 2020 Residents of Portland Public Schools . . . .         8
+  2.4   Annual Births to PPS Residents, 2005 to 2022 Residents of Portland Public Schools .             8
+  2.5   Median Age of Mother at Birth of Child by Place of Residence . . . . . . . . . . . . .          9
+  2.6   Housing Units Authorized in PPS by City of Portland . . . . . . . . . . . . . . . . . .        10
+  2.7   Housing Units Authorized in PPS by HSCL . . . . . . . . . . . . . . . . . . . . . . .          12
+  2.8   Affordable Housing Development Map . . . . . . . . . . . . . . . . . . . . . . . . . .         14
+
+  4.1   Net Migration to/from PPS, 2000–2040 . . . . . . . . . . . . . . . . . . . . . . . . .         22
+  4.2   Capture Rate at KG/Grade 1: PPS, 2000–2040 . . . . . . . . . . . . . . . . . . . . . .         23
+  4.3   Grade Progression Ratios: PPS, 2000–2040 . . . . . . . . . . . . . . . . . . . . . . .         23
+  4.4   District-wide Enrollment Forecasts . . . . . . . . . . . . . . . . . . . . . . . . . . . .     25
+
+
+
+
+                                                   2
+EXECUTIVE SUMMARY
+
+
+
+1.1    Demographic Trends
+
+This report summarizes the methodology and results of a demographic study conducted by the Portland
+State University Population Research Center (PRC) for Portland Public Schools (PPS). The study in-
+cludes an analysis of population dynamics, housing, and enrollment trends affecting PPS, and detailed
+annual enrollment forecasts for the District overall, and for students enrolled at each school according
+to grade, as of October 1 of each school year.
+
+    Between 2000 and 2010, the PPS area grew at an annualized rate of 0.8%, from 426,110 persons
+to 460,694. In the most recent decade, growth accelerated: between the 2010 and 2020 decennial
+censuses, the population grew at 1.2% per year (to 519,860). The share of Portland’s overall city
+population residing within the PPS boundary also increased, from 77 percent in 2010 to 80 percent in
+2020.
+
+    The PPS area is younger on average than the rest of the state, with a much higher proportion of
+persons age 20-39 (36%, compared to 27% statewide), and a lower median age (38.6 compared to
+40.1 statewide). Despite its younger population, the birthrate in Portland has declined significantly in
+the past 20 years, and is much lower than the rest of the state. Approximately 2.5% of women 15-
+50 reported a birth in the past year, compared to 4.6% statewide. The total fertility rate in the city–
+an approximation of expected total lifetime births to one woman– has declined from 1.6 in 2000 to
+fewer than one (approximately 0.8). This downward trend in births exerts downward pressure on PPS
+enrollment, which can only be counteracted by more in-migration of children or declines in the share
+of children in private or homeschooling.
+
+    The Census Bureau counted 253,369 housing units in the PPS zone in 2020, up from 219,365 in
+2010 (an annual rate of growth of 1.4%). Multi-family structures have accounted for about 85 percent
+of new housing units, and tend to have smaller, rented units with fewer children. Correspondingly, the
+average household size has been trending downward and currently stands at 2.17 overall for the City
+of Portland (2.46 for owner occupied housing, 1.86 for renter occupied). The most rapidly growing
+segment of households since 2015 is those with just 1-2 people, and households with 3+ persons did
+not increase.
+
+   Median household income in the PPS zone ($87,300) is higher than Multnomah overall ($79,900)
+and the statewide average ($75,600). New affordable housing projects within PPS scheduled for occu-
+pancy from the 2022-23 school year onward and 2024 include about 1,367 family-size units of two or
+                                                   1
+1.2 Enrollment Trends                                                                                 2
+
+more bedrooms. These units are expected to contribute approximately 689 more students across PPS
+schools than would otherwise have been the case if only market-rate housing was built.
+
+
+
+1.2    Enrollment Trends
+
+In fall 2023, Portland Public Schools (PPS) enrolled 44,005 students in grades K-12, a decrease of 604
+students from fall 2022 and around 4,000 students below the pre-pandemic level in 2019-20. Post-
+pandemic experiences have diverged for individual schools in the PPS system. Some have seen a return
+to pre-pandemic enrollment patterns, and others have seen a persistently low rate of enrollment from
+their neighborhoods. The district overall capture rate has grown from a nadir of 77.9% in fall 2021 to
+79.3% in 2022, but is still far from its recent high of 83% in the 2018-19 school year.
+
+    Enrollment declined 7.5 percent over the two-year period between fall 2019 and fall 2021, at-
+tributable to choices that families made during the COVID-19 pandemic, either by moving out of the
+district or by choosing other school options including private schools, online charter schools, or home-
+schooling.
+
+    The greatest declines during the COVID-19 pandemic were observed in elementary grades, for
+example much smaller entering kindergarten (K) cohorts than expected in 2020-21 and 2021-22, as
+the share of the population age 4-5 that is enrolled in a PPS school (“K capture rate”) declined from
+approximately 80% in 2019 to 70% in 2020, and stabilized at 71% at the start of the 2021 and 2022
+school years.
+
+    District-wide enrollment at middle schools had experienced mostly steady growth between 2010
+and 2019. The pandemic coincided with a reversal of the trend for middle grades; losses in enrollment
+in 6th-8th grades averaged 400 students per year between 2019 and 2021. These were only partly due
+the pandemic: declines in elementary enrollment driven by low birthrates and a declining K capture rate
+began to appear as early as 2015, and were being felt as those entering cohorts reached middle school
+age.
+
+    High school enrollment continued to increase throughout the pandemic, with 9th-12th grades adding
+165 students per year on average. Final enrollment in fall 2023 of 14,368 students marks the highest
+enrollment since 2005-06.
+
+
+
+1.3    Summary of Enrollment Forecast Results
+
+Enrollment is projected to continue to decline from the fall 2023 levels, at a decelerating rate, until
+reaching low point of 38,562 in 2032-33. Thereafter, it begins to recover as the historically small
+entering classes from the COVID period age out, and higher capture rates in earlier grades provide
+larger incoming classes. Under this baseline scenario, the enrollment could recover to 40,108 at the end
+of a 15-year period, in the 2039-40 school year.
+
+   The kindergarten/first grade capture are predictive of an age cohort’s future attachment to PPS.
+1.3 Summary of Enrollment Forecast Results                                                               3
+
+To maintain enrollment, PPS will need more school age children in the district, or a higher share of
+age-eligible population whose families choose to enroll in a PPS kindergarten or first grade classroom.
+
+   The K/1 capture rate is currently low compared to the past decade (approximately 70% of K and
+73% of 1st population, down from a high of 86-88% for K and 88-90% for 1st during 2007-2013). The
+K/1 capture rate is expected to recover to 83%/84%, respectively, by 2030, their last pre-COVID values.
+
+    Another factor causing downward pressure in enrollments is that the underlying population age 4-5
+that forms the pool eligible for enrolling in K has also been in decline. This is the result of declining
+birth rates since 2010, and is not expected to reverse in the time horizon of the enrollment forecast. All
+future growth in kindergarten/first enrollment is therefore expected to come from a larger share of the
+age eligible population entering PPS in the future.
+
+    In total, PPS kindergartens are expected to enroll 3,074 students in the 2024-25 school year, an
+increase of 75 students from fall 2023. Elementary schools overall are expected to decline from 19,813
+to 19,506 students. The decline is projected to continue until the 2030 school year, when the enrollment
+will begin to pick up from its low of 17,819.
+
+    Middle schools similarly see declines next year, from 9,568 to 9,429 (-1%). As smaller elementary
+cohorts progress through the middle school grades, enrollment will continue to decline to a low of 7,806
+students in 2035, before resuming growth.
+
+     High schools were resilient during the pandemic, even as elementary and middle schools saw large
+declines. High school enrollment is projected to decline in fall 2024, from 14,368 to 14,269 students (-
+0.7%). Eventually, smaller classes in elementary and middle schools will be felt in the form of declining
+HS class sizes. While some years are likely to see fluctuations higher or lower than projected, the overall
+trend is towards declining HS enrollment through the 2032 school year, when total HS enrollment will
+fall to 39,129, before beginning a recovery.
+POPULATION AND HOUSING TRENDS
+
+
+From 2000 to 2010, the population within PPS witnessed significant growth, increasing by 34,584
+residents from 426,110 to 460,694. This growth trend accelerated in the following decade, with a gain
+of 59,166 from 2010 to 2020. In 2020, the district population reached 519,860. Map 2.1 provides a
+visual illustration of the PPS school boundaries and locations of schools.
+
+    Table 2.1 shows changes by jurisdiction. Between 2000 and 2010, the growth rate in the District
+was 8.1%, which was lower than the growth rates of both the City of Portland and the Metro Area
+(MSA). However, between 2010 and 2020, the District growth rate reached to 12.8%. This rate was
+nearly identical to that of the MSA and exceeded the growth rate of the city. As a result, the proportion
+of Portland’s overall city population residing within the PPS boundary increased from 77% in 2010 to
+80% in 2020. Note that just two% of the District’s residents live outside of Portland, predominantly in
+Beaverton and Lake Oswego or in unincorporated areas in Multnomah and Washington counties.
+
+                            Table 2.1: PPS District Population by Jurisdiction
+                                         2000           2010       2020          Change     Change
+                                                                                 2000-10    2010-20
+    Portland Public Schools              426,110        460,694   519,860          8.1%      12.8%
+     Portland city (PPS part)            417,068        451,258   510,046          8.2%      13.0%
+     Lake Oswego city (PPS part)           2,172          2,413      2,459        11.1%        1.9%
+     Beaverton city (PPS part)             1,148          1,453      1,435        26.6%       -1.2%
+     Unincorporated Area                   5,722          5,570      5,920        -2.8%        6.5%
+    Portland City (total)                529,121        583,776   652,503         10.3%      11.8%
+
+
+
+
+                                                    4
+                                  5
+Fig. 2.1: District Overview Map
+2.1 Population by Age Group                                                                          6
+
+2.1    Population by Age Group
+
+Table 2.2 provides a demographic snapshot of the population under 18 living within current high school
+clusters (HSCLs). Between 2000 and 2020, the District saw an increase of more than 95,000 adults but
+a slight decrease in the number of children. Specifically, the under-18 population decreased by 4,663
+between 2000 and 2010, with reductions across all HSCLs except for Grant and Lincoln. Conversely,
+from 2010 to 2020, this age group experienced modest growth of 2,258, despite declines in McDaniel,
+Roosevelt, and the portion of the Jefferson HSCL with a dual assignment to Roosevelt.
+
+                   Table 2.2: Population Under Age 18, PPS High School Clusters
+                 HS Cluster         2000     2010      2020     Change      Change
+                                                                2000-10     2010-20
+                 Cleveland         11,428   11,365    12,305       −63         940
+                 Franklin          14,666   13,305    13,436    −1,361         131
+                 Grant              4,485     4,806    5,302       321         496
+                 Ida B. Wells      11,744   11,385    12,584      −359       1,199
+                 Jeff-Grant         6,733     5,333    5,492    −1,400         159
+                 Jeff-Madison       4,241     3,137    3,503    −1,104         366
+                 Jeff-Roosevelt     7,636     6,008    5,612    −1,628       −396
+                 Lincoln            5,115     6,635    7,949      1,520      1,314
+                 McDaniel          11,422   10,990    10,002      −432       −988
+                 Roosevelt          7,593     7,436    6,473      −157       −963
+                 PPS Total         85,063   80,400    82,658     -4,663      2,258
+
+
+
+    Significant changes have been found in the age distribution of the adult population. In the absence
+of age detail from the 2020 Census, Table 2.2 illustrates changes using estimates from the 2016-2020
+American Community Survey (ACS). The age groups of 25-29 and 30-34 have consistently represented
+the largest age groups within the District’s demographic composition between 2000 and 2020. The next
+largest groups have been 35-39 and 40-44 since 2010. In 2020, individuals aged 25-44 comprise 39%
+of PPS residents, up from 36% in 2000 and 37 in 2010. In addition, Figure 2.2 demonstrates the aging
+trend of the baby boom generation. Although their share shrinks over the years, this cohort born in the
+late 1940s and early 1950s continues to account for the largest percentage growth by age group each
+decade, from the 45-54 age group in 2000 to 55-64 in 2010, and 65-74 by 2020.
+2.2 Births                                                                                           7
+
+
+
+
+                      Fig. 2.2: Population by Age Group, PPS, 2000, 2010, and 2016-2020
+
+
+2.2    Births
+
+Despite the growing number of young adults within the District, the average number of births per
+woman under age 30 experienced a significant decrease. Figure 2.3 highlights this transformation
+through age-specific fertility rates (ASFRs) for women in various age groups. By 2020, ASFRs for
+women under 25 plummeted to less than a sixth of their 1990 figures, while the rates for those aged
+25 to 29 dropped to about a quarter of their 1990 levels. The number of births to women under age 25
+within the PPS area fell from 1,747 in 2000 to 860 in 2020, and further down to 320 by 2020.
+
+     The total fertility rate (TFR), an indicator of the average number of children a woman is expected
+to have during her child-bearing years, has also seen a notable decrease. The District TFR was 1.96 in
+1990, slightly below the 2.12 TFR for the remainder of the seven-county Portland-Vancouver-Hillsboro
+Metropolitan Statistical Area (MSA). This disparity widened over the decades, with the TFR in PPS
+dropping to 1.64 in 2000, 1.34 in 2010, and 0.85 in 2021, compared to higher rates in the MSA. The
+falling fertility rates among women under 30 were partially offset by increases among women over 30,
+alongside overall population growth, preventing a steep decline in the number of births within PPS.
+Despite the increase in the number of women in prime child-bearing ages, the annual number of births
+has been decreasing since 2012, with a 28% reduction by 2022 compared to 2012, as illustrated in
+Figure 2.4.
+
+   In addition, the median age of women giving birth has increased significantly. In 1990, the median
+age was 27 years in both PPS and the MSA. By 2018, this age rose to 33 years for PPS residents,
+compared to a more modest increase to 31 years in suburban areas, as shown in Figure 2.5.
+2.2 Births                                                                                                 8
+
+
+
+
+              Fig. 2.3: Age-Specific Fertility Rates, 1990 to 2020 Residents of Portland Public Schools
+
+
+
+
+             Fig. 2.4: Annual Births to PPS Residents, 2005 to 2022 Residents of Portland Public Schools
+2.2 Births                                                                                            9
+
+
+
+
+                     Fig. 2.5: Median Age of Mother at Birth of Child by Place of Residence
+
+
+    Table 2.3 shows birth trends across HSCLs over the last 15 years, divided into three five-year peri-
+ods. Only the Ida B. Wells and Lincoln HSCLs experienced an increase in births between the first two
+periods, all clusters saw declines in the most recent two periods.
+
+                                   Table 2.3: Births by High School Cluster
+
+                                                                       2008-12         2013-17
+             HS Cluster        2008-12      2013-17       2018-22      to 2013-17      to 2018-22
+                                                                       Change          Change
+             Cleveland            4,146        3,800        3,090            -8%            -19%
+             Franklin             4,668        4,339        3,210            -7%            -26%
+             Grant                1,154          954          777           -17%            -19%
+             Ida B. Wells         3,259        3,391        2,773             4%            -18%
+             Jeff-Grant           1,916        1,763        1,418            -8%            -20%
+             Jeff-McDaniel        1,133        1,002          755           -12%            -25%
+             Jeff-Roosevelt       2,684        2,522        2,012            -6%            -20%
+             Lincoln              2,298        2,334        2,198             2%             -6%
+             McDaniel             3,866        3,424        2,689           -11%            -21%
+             Roosevelt            2,601        2,283        1,883           -12%            -18%
+             PPS Total           27,725       25,812       20,805            -7%            -19%
+2.3 Housing Trends                                                                                    10
+
+
+
+
+                          Fig. 2.6: Housing Units Authorized in PPS by City of Portland
+
+
+2.3    Housing Trends
+
+Figure 2.6 illustrates the annual totals of new single-family and multi-family housing units across the
+district from 2000 to 2023. The general trend across PPS has been greater housing unit density, with
+a decrease in single-family units and a significant increase in multi-family units. Table 2.4, Table 2.5,
+and Figure 2.7 recount housing permitting activity by HSCL for the past 20 years.
+
+    Between 2004 and 2008, the district saw approximately 3200 units built per year. In the following
+5 years, production declined to approximately 1900 units per year, reflecting the economic downturn
+following the 2008 financial crisis. The 2014 to 2018 period marked a recovery phase– particularly
+for multifamily construction, which nearly quadrupled in permitted units. In the most recent 5 years,
+production of single family units has decelerated; only 359 new units were permitted during calendar
+year 2023. In the past 5 years, multi-family housing has outpaced single family at a ratio of approxi-
+mately 3:1. The pace of multi-family housing has slowed since peaking at over 8,000 new units in 2017,
+whereas fewer than 1,100 units were permitted in 2023.
+
+    At the HSCL level, from 2017 to 2021, five HSCLs accounted for nearly 70% of new single-family
+units. They are Cleveland (484 new homes, 19.8%), Franklin (407 new homes, 16.6%), Jefferson-
+Roosevelt (290 new homes, 11.8%), Roosevelt (250 new homes, 10.2%), and Ida B. Wells (241 new
+homes, 9.8 %). Multi-family development is more concentrated, with Lincoln (3,585 new homes,
+26.6%), Cleveland (3,355 new homes, 24.9%), and Jefferson-Roosevelt (2001 new homes, 14.8%)
+accounting for over 65% of new homes.
+2.3 Housing Trends                                                                                                    11
+
+
+
+
+          Table 2.4: Single Family Housing Units in PPS Permitted by City of Portland by HSCL, 2004 to 2023
+
+  HS Cluster          2004-08     2009-13      2014-18      2019     2020     2021     2022     2023     2019-23
+  Cleveland             616          305          773        128       92       97       94       73           484
+  Franklin              533          325          631        125      125       65       47       45           407
+  Grant                   19          39          132         29       25        9       18        9            90
+  Ida B. Wells          626          208          404         63       52       24       51       51           241
+  Jeff-Grant            159          168          308         62       30       25       28       13           158
+  Jeff-McDaniel           86         122          225         60       52       22       11       24           169
+  Jeff-Roosevelt        447          222          381        127       55       34       26       48           290
+  Lincoln               487          121          162         33       31       13       26       27           130
+  McDaniel              449          201          338         63       73       35       28       32           231
+  Roosevelt             656          208          324         73       52       44       44       37           250
+  PPS Total           4,078        1,919        3,678        763      587      368     373      359       2,450
+
+
+
+
+          Table 2.5: Multi-Family Housing Units in PPS Permitted by City of Portland by HSCL, 2004 to 2023
+
+ HS Cluster          2004-08      2009-13      2014-18      2019     2020     2021     2022     2023     2019-23
+ Cleveland               906         870       6,671          880 1,312        267      820       76          3,355
+ Franklin                624         381       2,543          504     218      156      114       43          1,035
+ Grant                    60         425         827           74      85       75       40         8          282
+ Ida B. Wells          2,108         936       1,698           74     105       30       59      238           506
+ Jeff-Grant              559         532       2,957          137     370      170       43       89           809
+ Jeff-McDaniel            80         198         675           67      87       84       30      200           468
+ Jeff-Roosevelt          271         574       2,581          617     761      122      291      210          2,001
+ Lincoln               5,521      2,757        8,291          410 1,700        485      850      140          3,585
+ McDaniel                846         300         718          229     297       48      245       51           870
+ Roosevelt               890         431         991          105     136      230       76       39           586
+ PPS Total           11,865       7,404       27,952        3,097 5,071 1,667 2,568 1,094                13,497
+                                                    2.3 Housing Trends
+Fig. 2.7: Housing Units Authorized in PPS by HSCL
+
+
+
+
+                                                    12
+2.4 Affordable Housing                                                                                           13
+
+2.4    Affordable Housing
+
+Housing affordability is defined by the price of housing relative to income. Affordable housing is often
+defined as that which costs no more than 30% of a household’s income, providing a margin for saving
+or spending in other areas. Portland’s housing values are far higher than the rest of the state (median
+home value in Portland was 562,500 in 2022, well above the state average of 475,600 and the national
+average of 320,600). Rental prices are closer to the statewide average (the average renter in Portland
+paid $1,484 in 2022 compared to $1,370 statewide), and have declined over the past 5 years by almost
+5%. However, Portland apartments are on average much smaller– studio and 1-bedroom rental units
+comprise over 30% of the Portland rentals, compared to 15% statewide.
+
+    Housing affordability has been a growing problem. The share of renter households that are paying
+more than 30% of income towards rent has increased from 44% in 2018 to 52% in 2022. Production
+of affordable housing is a priority of state and local government, and affordable housing and home-
+ownership are associated with better health and educational outcomes of children. Affordable housing
+is also important for school planning because affordable units are more likely to house families with
+children than are market rate apartments. Table 2.6 demonstrates this by comparing the average number
+of children per household for a variety of housing types. Single family housing and large apartments
+with 3 or more bedrooms–especially those in affordable housing developments–are much more likely
+than other types of multi-family housing to have children.
+
+                           Table 2.6: Children in households by housing type, 2012 to 2019
+
+                                          Avg Hhd       Share of households            Avg Yield per Unit
+        Housing Type:                         Size     with 1+ children 5–17             of PPS studentsa
+        Single family                          2.7                      28%                          0.47
+        Multi-family (all units)
+        Studio/1-bedroom                        1.2                          1%                         0.05
+        2-bedroom                               1.8                         10%                         0.07
+        3+ bedroom                              2.5                         23%                         0.54
+        Multi-family (affordable)b
+        Studio/1-bedroom                        1.3                          3%                         0.01
+        2-bedroom                               2.3                         24%                         0.18
+        3+ bedroom                              3.5                         52%                         0.97
+        Notes: Pooled sample of Multnomah, Washington, and Clackamas counties; (a) buildings less than 5 years
+        old and students age 5–17 in any public school; (b) units occupied by households earning less than 60%
+        AMI, or receiving public assistance (SNAP, TANF, or Medicaid).
+
+
+    Figure 2.8 provides a visualization of the locations of the affordable housing projects and the distri-
+bution of housing units by school attendance area. Table 2.7 shows the details of the projects in terms
+of name, unit, neighborhood, and opening time. The development plan for affordable housing known
+to PRC as of April 2024 includes over 1,600 family-size units of two or more bedrooms. 467 units are
+currently under construction, with over 1,100 units are scheduled to build in the coming five years. The
+expected student yields from each development are added to the projections for the elementary, middle,
+and high schools associated with the address, over a 3-year period starting in the school year after the
+expected opening date.
+                                               2.4 Affordable Housing
+                                               14
+Fig. 2.8: Affordable Housing Development Map
+                                                                                                                                              2.4 Affordable Housing
+                          Table 2.7: New Affordable Housing Recently Constructed or Under Development within PPS
+
+
+Elementary Zone        Name                        Total            2 Bdrm            3+ Bdrm            Neighborhood         Year/Quarter
+                                                   Units            Units             Units                                   of Completion
+Peninsula              Kenton Townhomes            30               15                15                 Kenton               2022/Q1
+Chapman                Alta Art Tower              314              0                 14                 Goose Hollow         2022/Q1
+James John             Cathedral Village           110              45                11                 St Johns             2022/Q2
+Astor                  Portsmouth Commons          20               12                0                  Portsmouth           2022/Q2
+Ainsworth              Waterleaf                   178              32                18                 Downtown             2022/Q3
+Rigler/Scott           Las Adelitas                142              71                26                 Cully                2022/Q3
+Rigler/Scott           Hayu Tilixam                50               11                9                  Cully                2022/Q3
+MLK Jr                 Alberta Alive               21               11                8                  King                 2022/Q3
+Vernon                 Mamook Tokatee              56               7                 10                 Cully                2023/Q1
+Laurelhurst            Anna Mann                   128              47                15                 Kerns                2023/Q2
+Rigler/Scott           Charlotte Lewis             12               2                 10                 Cully                2023/Q2
+Vernon                 Isaka Shamsud-Din           29               11                0                  Vernon               2023/Q2
+Beach                  Minnesota Places            72               28                28                 Overlook             2023/Q3
+Chapman                Tiller Terrace              214              11                0                  Goose Hollow         2023/Q4
+Astor                  Tistilal Village            57               21                11                 Portsmouth           2024/Q2
+Peninsula              Argyle                      290              90                30                 Kenton               2024/Q2
+Grout                  Hazel Ying Lee              206              59                6                  Creston-Kenilworth   2024/Q4
+Beach                  Darrell Millner             64               23                25                 Overlook             2024/Q4
+Buckman                Alder 9                     159              36                6                  Buckman              2025/Q1
+Boise-Eliot/Humboldt   Albina One                  94               37                17                 Eliot                2025/Q2
+Rigler/Scott           PCC Killingsworth           84               45                15                 Cully                2025/Q3
+Marysville             73Foster                    64               14                15                 Foster-Powell        2025/Q3
+Vestal                 Aldea                       96               45                18                 Montavilla           2025/Q4
+Faubion                Dekum Court                 147              70                48                 Concordia            2025/Q4
+Markham                Value Inn                   77               34                16                 West Portland Park   2026/Q2
+Laurelhurst            hollywoodHUB                222              95                32                 Hollywood            2026/Q2
+Rieke                  Gooseberry Trails           52               20                45                 Hillsdale            2026/Q2
+Bridger                PCC Southeast               124              46                17                 Montavilla           2026/Q2
+
+
+
+
+                                                                                                                                              15
+Maplewood              Barbur Apartments           149              83                20                 Hillsdale            2026/Q3
+Boise-Eliot/Humboldt   Strong Family Site          75               32                22                 Humboldt             2026/Q4
+MLK Jr                 Abbey Lot Townhomes         8                0                 8                  King                 2026/Q4
+Astor                  Carey Blvd                  53               11                42                 University Park      2029/Q1
+ENROLLMENT TRENDS
+
+
+There has been a significant decline of approximately 7.6% over the past 10 years, from total enrollment
+of 48,647 in 2014 to 44,005 in 2023. The most significant decreases occurred from 2020 onwards,
+attributable to impacts of the COVID-19 pandemic.
+
+    Table 3.1 outlines the historical enrollment trends from 2014 to 2023 across different grade levels.
+The biggest declines have been in elementary grades with steady decreases from 24,555 in 2014 to
+19,813 in 2023, representing a drop of nearly 20% over the decade. This trend is a function of long-
+term decline in birth rates within the district, mirroring state and national trends. Enrollment in middle
+school grades has also been decreasing but more gradually, from 10,382 in 2014 to 9,824 in 2023. High
+school grades have seen stable or increasing enrollment, rising from 12,710 in 2014 to 14,368 in 2023.
+
+                     Table 3.1: Portland Public Schools, Historic K-12 Enrollment, 2014-2023
+
+Grade 2014          2015   2016   2017   2018   2019   2020   2021   2022   2023
+K         4,134     4,119  4,071  3,927  3,883  3,857  3,243  3,187  3,132  2,995
+1         4,312     4,270  4,134  4,091  3,894  3,913  3,691  3,276  3,363  3,213
+2         4,297     4,267  4,201  4,057  4,025  3,848  3,737  3,469  3,311  3,360
+3         4,054     4,240  4,153  4,107  3,996  3,955  3,644  3,474  3,493  3,320
+4         3,882     3,996  4,123  4,119  4,026  3,944  3,745  3,381  3,470  3,464
+5         3,876     3,779  3,911  4,072  4,016  3,939  3,763  3,487  3,344  3,461
+6         3,596     3,862  3,567  3,687  3,835  3,788  3,613  3,371  3,385  3,205
+7         3,430     3,603  3,602  3,509  3,604  3,797  3,661  3,400  3,340  3,334
+8         3,356     3,428  3,518  3,539  3,485  3,513  3,735  3,539  3,442  3,285
+9         3,143     3,258  3,231  3,328  3,485  3,446  3,439  3,642  3,585  3,439
+10        3,092     3,131  3,196  3,202  3,341  3,455  3,470  3,462  3,609  3,593
+11        2,934     2,984  3,085  3,202  3,210  3,282  3,438  3,358  3,372  3,558
+12        3,541     3,446  3,406  3,603  3,682  3,698  3,728  3,815  3,763  3,778
+K-5      24,555    24,671 24,593 24,373 23,840 23,456 21,823 20,274 20,113 19,813
+6-8      10,382    10,893 10,687 10,735 10,924 11,098 11,009 10,310 10,167  9,824
+9-12     12,710    12,819 12,918 13,335 13,718 13,881 14,075 14,277 14,329 14,368
+Total    47,647    48,383 48,198 48,443 48,482 48,435 46,907 44,861 44,609 44,005
+Annual Change         736  −185     245     39   −47 −1,528 −2,046   −252   −604
+Percent Change        1.5% −0.4%    0.5%   0.1% −0.1% −3.2% −4.4% −0.6% −1.4%
+
+
+
+
+                                                       16
+3.1 Private Schools, Homeschooling, and District Capture Rate                                             17
+
+3.1    Private Schools, Homeschooling, and District Capture Rate
+
+The capture rate is the ratio of enrollment in District schools to the school-age population living within
+the District boundary. School-age residents who do not attend PPS schools include those who attend
+private schools, transfer to other districts, are home-schooled, five- or six-year-old children who have
+not yet entered school, and teenagers who have graduated or left PPS schools. Conversely, PPS enroll-
+ment includes some students who are not included in the district’s school-age population, specifically
+transfer students from other districts and students over age 18.
+
+    The Census Bureau’s American Community Survey (ACS) includes questions about school enroll-
+ment by level and type of schools (public or private). Table 3.2 shows the comparison of the numbers
+between ACS 2018-22 and ACS 2013-17. According to ACS 2018-22 estimates, 15% (+/- 3.6) of PPS
+residents enrolled in grades K-12 were enrolled in private schools, the percentage decreased compared
+to the ACS data from 10 years ago. At the kindergarten level, enrollment in public schools rose, while
+enrollment in private schools decreased, resulting in a reduction of the private share from 20.5% to
+16.8%. At the elementary school level (grades 1-4), the private share increases from 13.9% to 14.3%.
+At the middle school level (grades 5-8), the private share also saw a marginal increase from 15.2% to
+15.6%. At the high school level (grades 9-12), ACS 2018-22 estimates a substantial rise in enrollment
+in public schools, the private share decreased significantly from 18.9% to 14.6%.
+
+            Table 3.2: School Enrollment by Type of School, PPS District Residents, 2013-17 and 2018-22
+
+                                               2013-17   2013-17 2018-22    2018-22
+                Grade Cohort
+                                               Estimate MOE       Estimate MOE*
+                Enrolled in K                     4,432      579     4,732      743
+                 Public Schools                   3,525      514     3,935      686
+                 Private Schools                    907      266       797      286
+                  Private Share                    20.5%     6.0%     16.8%     6.0%
+                Enrolled in 1-4th grade          19,040     1121    19,135     1533
+                 Public Schools                  16,394     1021    16,404     1368
+                 Private Schools                  2,646      463     2,731      691
+                  Private Share                    13.9%     2.4%     14.3%     3.6%
+                Enrolled in 5-8th grade          17,151     1268    17,960     1362
+                 Public Schools                  14,542     1157    15,165     1212
+                 Private Schools                  2,609      518     2,795      621
+                  Private Share                    15.2%     3.0%     15.6%     3.5%
+                Enrolled in 9-12th grade         15,876     1067    17,885     1376
+                 Public Schools                  12,881      903    15,270     1256
+                 Private Schools                  2,995      568     2,615      561
+                  Private Share                    18.9%     3.6%     14.6%     3.1%
+                Total                            56,499     4027    59,712     5011
+                 Public Schools                  47,342     3595    50,774     4522
+                 Private Schools                  9,157     1815     8,938     2159
+                  Private Share                    16.2%     3.2%     15.0%     3.6%
+3.2 Enrollment Trends by Place of Residence                                                            18
+
+     In Oregon, families may choose to homeschool their child at anytime and for any duration. Accord-
+ing to the laws 1 , when families choose to homeschool their child, they are required to file a ’notifica-
+tion’ to the local Education Service District (ESD) upon withdrawing from a public or private school,
+or before child’s enrollment to the first grade year. Between the 2019-20 and 2020-21 school years,
+the number of new homeschool registrations increased from 446 to 1659– almost quadrupling in one
+year. In the 2021-22 school year, MESD received notification of 835 new homeschool registrations
+2 . About half of the District’s registered homeschool students are in 1st-5th grades, numbering nearly
+
+1,000 students and representing between four and five percent of the PPS population age six to ten.
+
+
+
+3.2    Enrollment Trends by Place of Residence
+
+The overall population of students residing in an attendance area and enrolled in any PPS school is
+typically more stable than the enrollment at the neighborhood school serving the attendance area. En-
+rollment at individual schools may change due to program or boundary changes, school openings or
+closures, school choice, the number of transfer slots, or other changes not related to underlying demo-
+graphic trends. When student points are matched by address in a geographic information system, the
+number of PPS students (including charter schools) by grade level can be tabulated for any geographic
+area. Creating time series of resident PPS students by grade level by current attendance areas facili-
+tates historic enrollment analysis even if school boundaries have changed, allowing us to identify shifts
+in the share of area students who enroll in their neighborhood school, or attend other PPS schools or
+programs.
+
+    Table 3.3 shows enrollment trends by grade levels across HSCLs for years 2018 through 2023, along
+with the numeric and percentage changes over the five-year period. For K-5 enrollment, there is a con-
+sistent decrease across almost all clusters within five years, with a significant overall decline of 16.9%
+in the district. The most significant decreases are seen in clusters like Grant (-20.6%), Jefferson/Grant
+(-21.9%), and Roosevelt (-21.5%). The smallest decline is in the Jefferson/McDaniel cluster with a de-
+crease of 11.4%. The trend of 6-8 enrollment within five years is similar to K-5, with an overall district
+decrease of 10.1%, except Jefferson/McDaniel which shows an increase of 6.8%. The most dramatic
+drop is observed in the Jefferson/Grant cluster (-28.2%). Contrary to the trends in lower grades, 9-12
+high school enrollment appears more stable or even increasing in some clusters. The overall district
+increase is 4.7%. Notable increases are seen in Grant (34.8%) and Jefferson/McDaniel (27.3%).
+
+
+
+
+  1 ORS 339.010 and OAR 581-021-0026(4)
+  2 Multnomah Education Service Districts (2023). Interviews with Homeschooling Families.
+3.2 Enrollment Trends by Place of Residence                                                                     19
+
+             Table 3.3: PPS Historic Enrollment by Grade Level and High School Cluster of Residence
+
+                                                                                        Numeric       Percent
+ HS Cluster            Grades 2018 2019 2020 2021 2022 2023                             Change        Change
+ Cleveland             K-5    3,601 3,585 3,327 3,065 2,993 2,900                         −701         -19.5%
+ Cleveland             6-8    1,688 1,692 1,663 1,603 1,561 1,534                         −154          -9.1%
+ Cleveland             9-12   1,999 1,944 2,016 2,005 1,939 1,915                          −84          -4.2%
+ Cleveland             Total  7,288 7,221 7,006 6,673 6,493 6,349                         −939         -12.9%
+ Franklin              K-5    3,852 3,755 3,580 3,273 3,257 3,093                         −759         -19.7%
+ Franklin              6-8    1,799 1,812 1,803 1,704 1,584 1,604                         −195         -10.8%
+ Franklin              9-12   2,229 2,308 2,351 2,348 2,355 2,229                             0          0.0%
+ Franklin              Total  7,880 7,875 7,734 7,325 7,196 6,926                         −954         -12.1%
+ Grant                 K-5    1,671 1,653 1,512 1,407 1,384 1,327                         −344         -20.6%
+ Grant                 6-8      801    836    849    817    815    788                     −13          -1.6%
+ Grant                 9-12     879    981 1,044 1,168 1,203 1,185                          306         34.8%
+ Grant                 Total  3,351 3,470 3,405 3,392 3,402 3,300                          −51          -1.5%
+ Ida B. Wells          K-5    3,108 3,068 2,770 2,620 2,571 2,568                         −540         -17.4%
+ Ida B. Wells          6-8    1,403 1,489 1,463 1,403 1,462 1,342                          −61          -4.3%
+ Ida B. Wells          9-12   1,783 1,756 1,705 1,785 1,723 1,828                            45          2.5%
+ Ida B. Wells          Total  6,294 6,313 5,938 5,808 5,756 5,738                         −556          -8.8%
+ Jefferson/Grant       K-5    1,519 1,458 1,346 1,258 1,226 1,187                         −332         -21.9%
+ Jefferson/Grant       6-8      698    632    620    582    537    501                    −197         -28.2%
+ Jefferson/Grant       9-12     870    954    949    979 1,005 1,001                        131         15.1%
+ Jefferson/Grant       Total  3,087 3,044 2,915 2,819 2,768 2,689                         −398         -12.9%
+ Jefferson/McDaniel    K-5      799    812    778    698    692    708                     −91         -11.4%
+ Jefferson/McDaniel    6-8      294    329    346    332    327    314                       20          6.8%
+ Jefferson/McDaniel    9-12     293    321    336    362    384    373                       80         27.3%
+ Jefferson/McDaniel    Total  1,386 1,462 1,460 1,392 1,403 1,395                             9          0.6%
+ Jefferson/Roosevelt   K-5    1,878 1,882 1,775 1,674 1,662 1,625                         −253         -13.5%
+ Jefferson/Roosevelt   6-8      757    789    777    766    741    730                     −27          -3.6%
+ Jefferson/Roosevelt   9-12     898    925    956    936    960    972                       74          8.2%
+ Jefferson/Roosevelt   Total  3,533 3,596 3,508 3,376 3,363 3,327                         −206          -5.8%
+ Lincoln               K-5    1,877 1,879 1,634 1,590 1,608 1,620                         −257         -13.7%
+ Lincoln               6-8      951    955    913    836    882    842                    −109         -11.5%
+ Lincoln               9-12   1,566 1,514 1,455 1,429 1,469 1,482                          −84          -5.4%
+ Lincoln               Total  4,394 4,348 4,002 3,855 3,959 3,944                         −450         -10.2%
+ McDaniel              K-5    2,911 2,839 2,656 2,459 2,481 2,513                         −398         -13.7%
+ McDaniel              6-8    1,372 1,413 1,352 1,207 1,213 1,150                         −222         -16.2%
+ McDaniel              9-12   1,685 1,586 1,605 1,596 1,629 1,734                            49          2.9%
+ McDaniel              Total  5,968 5,838 5,613 5,262 5,323 5,397                         −571          -9.6%
+ Roosevelt             K-5    1,992 1,894 1,732 1,631 1,601 1,563                         −429         -21.5%
+ Roosevelt             6-8      938    953    947    843    835    808                    −130         -13.9%
+ Roosevelt             9-12   1,106 1,212 1,235 1,225 1,286 1,259                           153         13.8%
+ Roosevelt             Total  4,036 4,059 3,914 3,699 3,722 3,630                         −406         -10.1%
+ Out of District       K-5      632    631    713    599    638    709                       77         12.2%
+ Out of District       6-8      223    198    276    217    210    211                     −12          -5.4%
+ Out of District       9-12     410    380    423    444    376    390                     −20          -4.9%
+ Out of District       Total  1,265 1,209 1,412 1,260 1,224 1,310                            45          3.6%
+ PPS Total             K-5   23,840 23,456 21,823 20,274 20,113 19,813                   −4,027        -16.9%
+ PPS Total             6-8   10,924 11,098 11,009 10,310 10,167 9,824                    −1,100        -10.1%
+ PPS Total             9-12  13,718 13,881 14,075 14,277 14,329 14,368                      650          4.7%
+ PPS Total             Total 48,482 48,435 46,907 44,861 44,609 44,005                   −4,477         -9.2%
+ENROLLMENT FORECASTS
+
+
+The enrollment forecasts comprise several components, including a demographic forecast of the total
+resident population of the district, and expected shares of the district resident population that enroll in
+a PPS school at critical junctures such as kindergarten, first grade, sixth grade, or ninth grade. The
+enlargement or attrition of currently enrolled cohorts is determined by modeling and projecting the
+ratio of students who continue into the next grade in school. The overall methodology is a bottom-up or
+school-level forecast, which is controlled to forecasts done at a higher geographic level, including high
+school attendance zones and districtwide, in order to ensure consistency between forecasts for schools
+and the district while leveraging the better data availability and more stable trends for the districtwide
+forecast.
+
+
+
+4.1    Forecast Process
+
+The first step of the enrollment forecast is to produce historical annual estimates and a forecast of
+the resident population of the PPS area. The historical estimates provide denominators for calculating
+fertility, mortality, and migration rates in the district, which are in turn each projected by age and sex in
+order to project a future eligible population for each grade level of enrollment at PPS.
+
+    The second step is to model and project districtwide capture rates and grade progression ratios. The
+ratio of students enrolled at PPS to the district resident eligible population (capture rate) is projected
+and applied to the demographic forecast to generate incoming students at kindergarten, first, sixth, and
+ninth grades (when it is most likely for students to enter/exit PPS). For students in other grades, a
+continuation rate or grade progression ratio (GPR) is used to project enrollment as a function of the
+prior year’s enrollment in the previous grade (for example, the size of an upcoming 6th-grade class may
+be 85% of the eligible resident 11-year olds, while the upcoming 7th-grade class may be 98% of the
+prior year’s 6th-grade class).
+
+    The second step is repeated for each high school cluster (HSCL) overall, except that the incoming
+cohorts at each level of elementary, middle, and high school within the cluster are modeled not by
+capture rate of the general population of the district or the cluster, but of the PPS forecast student body
+at each grade level (therefore, capture rates for high school clusters sum to 100%).
+
+   Each individual school has an independent forecast as well, where intake of new students is for-
+mulated as a share of the applicable high school cluster forecast enrollment (or, in the case of special
+programs that are not part of a HSCL, the share of the total districtwide enrollment), and each school’s
+                                                     20
+4.2 Forecast Data and Methodology                                                                          21
+
+GPRs are applied to intermediate grades. In cases where schools have had attendance zone changes or
+program moves, splits are created such that the zones or programs can be characterized as they were in
+the past, or as they will be in the future. Program moves, attendance boundary changes, facility open-
+ings and closures, and other changes, including implementation of Southeast Enrollment and Program
+Balancing, are incorporated into the enrollment forecast based on data provided by PPS on their timing,
+geographic scope, and affected populations.
+
+    In a third step, additional adjustments are made for the number of students expected to come to PPS
+from planned large affordable housing developments with units that have 2 or more bedrooms. The
+future pace of market-generated housing is assumed to be reflected in the recent trends for each high
+school cluster and school, but as affordable developments are not entirely market-driven developments,
+and as larger affordable units have higher than average children per unit, these developments are treated
+as an exogenous source of additional students in the schools that are served by the neighborhoods.
+
+    The final step is an adjustment step that reflects cases where the capture rates or GPRs should be
+adjusted either to account for outliers or unusual circumstances and internal consistency. Discrepancies
+between the districtwide forecast by grade and the forecast for HSCL by grade are resolved by adjusting
+the HSCL forecast, through adjustments to the GPRs or capture rates at each HSCL. In a similar way,
+the individual school forecasts are made consistent with the higher-level high school cluster and district
+forecasts.
+
+
+
+4.2    Forecast Data and Methodology
+
+The historical resident population of PPS is estimated from the decennial census, on the basis of the
+individual census blocks that comprise the district and sum of counts across blocks by age and sex.
+Between censuses, tract-level interpolations are used, weighted based on the average share of the pop-
+ulation in each tract that is within the district (according to the blocks in each tract that are inside or
+outside of the district).
+
+    Birth and death rates within the district are estimated from vital statistics records of actual births and
+deaths that occurred within the district boundaries, divided by the historical population estimates. They
+are projected by a variant of the Lee-Carter method, based on an average age pattern for birth or death
+rates, and one or more sets of deviations that, when combined, best explain the historical deviations
+from the average pattern, along with accompanying weights that explain how each set of deviations
+have increased or decreased in importance over time. Migration is forecast by an autoregressive time
+series model that assumes gradual return to the long run pre-COVID trend (Figure 4.1).
+
+    The resident population forecast is generated by starting with the age structure of the actual resident
+population at the time of the 2020 Census, and then projecting forward the population by adding or
+subtracting expected births, deaths, and migrants by age and sex to the population to represent expected
+changes each year.
+
+    Student enrollment as of October 1 of each school year by grade, school attending, and school
+zone residing was provided by PPS and data. Data from 2017 through 2023 were used in the current
+forecasts. Capture rates are estimated from the enrollment data based on the resident population data by
+4.2 Forecast Data and Methodology                                                                      22
+
+
+
+
+                                Fig. 4.1: Net Migration to/from PPS, 2000–2040
+
+
+age, and grade progression ratios from the enrollment data only. Both capture rates and GPRs at many
+schools have been exceptionally low during the COVID-19 pandemic. They are projected based on an
+assumption of gradual convergence back to the pre-COVID 5-year average (Figures 4.2 and 4.3).
+
+    Student generation rates for affordable housing is based analysis of American Community Survey
+microdata. Households were filtered based on income and housing type to isolate low income renters
+at or below 60% of Area Median Income (AMI) or who receive public benefits (TANF, SNAP, or
+Medicaid), conditional on living in a building up to 5 years old. The yield rate for such housing units is
+between 1 student in public school per 2 units to 1 student per 20 units, varying by number of bedrooms
+and grade level (Table 4.1).
+4.2 Forecast Data and Methodology                                                23
+
+
+
+
+                          Fig. 4.2: Capture Rate at KG/Grade 1: PPS, 2000–2040
+
+
+
+
+                           Fig. 4.3: Grade Progression Ratios: PPS, 2000–2040
+4.3 Forecast Results                                                                                    24
+
+                            Table 4.1: Affordable Housing Student Generation Rates
+
+                 Student Generation Rate          Years since Construction/Occupancy:
+                 by School Level/Bedrooms:            1       2       3       4     5+
+                 Units with 2 bedrooms:
+                 Elementary (Gr K-5)              0.100    0.113     0.125    0.138   0.150
+                 Middle (Gr 6-8)                  0.050    0.050     0.050    0.050   0.050
+                 High (Gr 9-12)                   0.040    0.049     0.058    0.066   0.075
+                 TOTAL                            0.190    0.211     0.233    0.254   0.275
+                 Units with 3+ bedrooms:
+                 Elementary (Gr K-5)              0.300    0.350     0.400    0.450   0.500
+                 Middle (Gr 6-8)                  0.100    0.125     0.150    0.175   0.200
+                 High (Gr 9-12)                   0.200    0.225     0.250    0.275   0.300
+                 TOTAL                            0.600    0.700     0.800    0.900   1.000
+
+
+4.3     Forecast Results
+
+4.3.1   District-wide Enrollment Forecasts
+
+The K-12 enrollment of 43,529 students in fall 2024 is 476 students (1.1 percent) lower than the fall
+2023 total, and nearly 5,000 students below the fall 2019 pre-pandemic level. Enrollment is projected
+to continue to decline, at a decelerating rate, until reaching low point of 38,562 in 2032-33 (Figure 4.4).
+Thereafter, it begins to recover as the historically small entering classes from the COVID period age
+out, and higher projected capture rates provide larger incoming classes. Under this baseline scenario,
+the enrollment could recover to 40,108 at the end of a 15-year period, in the 2039-40 school year.
+
+    Kindergarten and first grade capture rates are predictive of an age cohort’s future attachment to PPS.
+The K/1 capture rate is currently low (approximately 70% of K and 73% of 1st population, down from
+a high of 86-88% for K and 88-90% for 1st during 2007-2013). Capture rates have not significantly
+recovered since the COVID years. The size of entering K cohorts has declined, while the underlying
+population age 4-5 that forms the pool eligible for enrolling in K has also been in decline. This pressure
+toward declining enrollment is due to declining birth rates since 2010, and is expected to continue
+as birth rates are expected to remain low during the time horizon of the enrollment forecast. In the
+projections, the K/1 capture rate is expected to recover to 83%/84%, respectively, by 2030, their last
+pre-COVID values.
+
+    The enrollment projections reflect an optimistic near- and medium-term outlook on net migration to
+Portland, which has been low or negative since 2020. Migration tends to bring young residents into the
+district; however, the average household moving out of the district is more likely to include children. If
+these trends continue, then future growth in kindergarten/first enrollment must come from a larger share
+of the age eligible population entering PPS in the future, or from transfer students, because migration
+will be unlikely to contribute any net school age children.
+4.3 Forecast Results                                                                                    25
+
+
+
+
+                                  Fig. 4.4: District-wide Enrollment Forecasts
+
+
+4.3.2   Enrollment Forecasts by Grade
+
+PPS kindergarten classrooms are expected to enroll 3,074 students in the 2024-25 school year, an in-
+crease of 75 students from fall 2023 (+2.5%). The increase in Kindergarten would be the first increase
+since fall 2015, and is driven by the assumption of a higher capture rate. If the capture rate does not in-
+crease, Kindergarten enrollment would decline due to demographic factors such as a smaller number of
+age eligible children. Overall, elementary school (grades up to 5) are expected to decline from 19,813
+to 19,506 students. The decline is projected to continue until the 2030 school year, when the enrollment
+will begin to pick up from its low of 17,819.
+
+   Middle school (grades 6-8) similarly see declines next year, from 9,568 to 9,429 (-1%). As smaller
+elementary cohorts progress through the middle school grades, enrollment will continue to decline to a
+low of just 7,806 students in 2035, before returning to growth.
+
+    High schools were resilient during the pandemic and saw increases, even as elementary and middle
+schools saw large declines. High school enrollment is projected to decline in fall 2024, from 14,368
+to 14,269 students (-0.7%), and to continue declining due to the effects of smaller classes in recent
+elementary and middle schools exerting strong downward pressure on HS class sizes. While some
+years are likely to see fluctuations higher or lower than projected, the overall trend is towards declining
+HS enrollment through the forecast window, to a low of 10,678 students in fall 2038. HS classes will
+eventually recover, once the larger projecting KG cohorts that enter in 2030 onwards begin to reach
+high school.
+                                                                                                                                    4.3 Forecast Results
+                                   Table 4.2: District Enrollment Forecasts by Individual Grade
+
+Grade 2023-24      2024-25   2025-26   2026-27      2027-28      2028-29      2029-30       2030-31   2031-32   2032-33   2033-34
+K          2,995     3,074     3,115     3,054        2,942        2,900        2,825         3,092     3,285     3,431     3,456
+1          3,213     3,150     3,178     3,211        3,139        3,014        2,972         2,882     3,093     3,290     3,432
+2          3,360     3,205     3,130     3,148        3,170        3,099        2,976         2,935     2,847     3,054     3,248
+3          3,320     3,357     3,189     3,098        3,103        3,124        3,054         2,933     2,893     2,806     3,010
+4          3,464     3,283     3,310     3,135        3,034        3,039        3,058         2,991     2,873     2,834     2,749
+5          3,461     3,437     3,240     3,250        3,058        2,961        2,967         2,986     2,920     2,804     2,766
+6          3,205     3,317     3,303     3,117        3,125        2,935        2,849         2,856     2,880     2,812     2,699
+7          3,334     3,153     3,259     3,241        3,054        3,062        2,876         2,792     2,799     2,823     2,755
+8          3,285     3,284     3,110     3,221        3,205        3,021        3,030         2,848     2,763     2,770     2,791
+9          3,439     3,281     3,275     3,098        3,202        3,188        3,005         3,011     2,827     2,746     2,754
+10         3,593     3,449     3,281     3,274        3,091        3,199        3,182         3,000     3,009     2,829     2,744
+11         3,558     3,549     3,418     3,255        3,257        3,074        3,187         3,167     2,987     2,999     2,824
+12         3,778     3,990     3,982     3,842        3,655        3,662        3,455         3,592     3,564     3,364     3,383
+Total     44,005    43,529    42,790    41,944       41,035       40,278       39,436        39,085    38,740    38,562    38,611
+Annual Change         -476      -739      -846         -909         -757         -842          -351      -345      -178        49
+Percent Change       -1.1%     -1.7%     -2.0%        -2.2%        -1.8%        -2.1%         -0.9%     -0.9%     -0.5%     0.1%
+K-5       19,813    19,506    19,162    18,896       18,446       18,137       17,852        17,819    17,911    18,219    18,661
+6-8        9,824     9,754     9,672     9,579        9,384        9,018        8,755         8,496     8,442     8,405     8,245
+9-12      14,368    14,269    13,956    13,469       13,205       13,123       12,829        12,770    12,387    11,938    11,705
+
+
+
+
+                                                                                                                                    26
+4.4 Forecast Accuracy and Uncertainty                                                                      27
+
+4.4    Forecast Accuracy and Uncertainty
+
+Enrollment forecasts are utilized as a school planning tool and as a basis for community discussions
+about future school facility needs. Forecasts are by their nature uncertain, and rely on assumptions
+that are likely to be violated to some degree. The most important sources of uncertainty in the current
+district level forecast are: future trends in migration to/from the PPS district (the forecast assumes a
+return to the pre-COVID status quo), and the trajectory of capture rates (the forecast assumes a return
+to previous rates, but post-COVID trends have been for lower capture rates at the crucial Kindergarten
+and grade 1 years).
+
+    The last projection series were completed in 2023 from data through fall 2022. These forecasts
+can be examined for their one-year enrollment forecast error, which was 283 students or 0.6% higher
+than the final fall 2023 enrollment. Errors were concentrated in Kindergarten, which was forecast 118
+students (4%) over final enrollment. Other grades were within 2% error, and the overall average error
+across all grades (MAPE) was 1% (Table 4.3).
+
+    The methodology in the current forecast is substantially similar compared to previous PPS enroll-
+ment forecasts made by the Portland State University Population Research Center. Therefore, another
+approach to assess potential forecast error is to compare actual enrollments with previous forecasts
+since 2011 that were conducted using similar data and methodologies (Table 4.4).
+
+    The overall 1-year median forecast error of forecasts since 2011 is 0.5%. In the early 2010s, fore-
+casts failed to anticipate declining enrollments in the mid-2010s. Prior to the pandemic, middle series
+forecasts were consistently within one percent of the PPS K-12 total in the first year, and errors seldom
+exceeded three percent in the longer run. The COVID-19 pandemic negatively affected all accuracy
+metrics starting in the 2020-21 school year (forecasts under or to the left of the solid line in the table are
+those made for the pandemic and post-pandemic period prior to 2021). Enrollment declines resulted in
+a one-year middle series forecast 3.9 percent that proved higher than actual 2020-21 enrollment. When
+the one-year forecasts for 2021-22 were prepared in January 2021, vaccines were becoming available
+and there was general optimism about students returning to in-person learning and that K-12 enrollment
+in 2021-22 would return close to 2019-20 levels. The projections assumed a return to the status quo in
+the next year. However, the 2021-22 school year opened with remote learning once again, and further
+losses resulted in a one-year enrollment forecast 8.1 percent higher than actual enrollment.
+4.4 Forecast Accuracy and Uncertainty                                             28
+
+
+
+
+                             Table 4.3: Forecast Errors by Grade: PPS, 2023
+
+                                    Fall 2023 One Year Enrollment Forecast:
+                     Actual          Low            Middle            High
+             Grade Fall 2023 Fcst. Error Fcst. Error Fcst.               Error
+                 K      2,995    3,084 3.0%      3,113     4%     3,472 15.9%
+                  1     3,213    3,265 1.6%      3,235     1%     3,266    1.6%
+                  2     3,360    3,296 -1.9%     3,296    -2%     3,345 -0.4%
+                  3     3,320    3,220 -3.0%     3,318     0%     3,296 -0.7%
+                  4     3,464    3,378 -2.5%     3,486     1%     3,484    0.6%
+                  5     3,461    3,353 -3.1%     3,453     0%     3,443 -0.5%
+                  6     3,205    3,146 -1.8%     3,261     2%     3,241    1.1%
+                  7     3,334    3,303 -0.9%     3,388     2%     3,387    1.6%
+                  8     3,285    3,322 1.1%      3,322     1%     3,336    1.6%
+                  9     3,439    3,442 0.1%      3,442     0%     3,514    2.2%
+                10      3,593    3,598 0.1%      3,583     0%     3,631    1.1%
+                11      3,558    3,526 -0.9%     3,599     1%     3,589    0.9%
+                12      3,778    3,778 0.0%      3,792     0%     3,943    4.4%
+              Total   44,005 43,711 -0.7% 44,288 0.6% 44,947               2.1%
+             Mean Absolute Pct. Error     1.5%           1.1%              2.5%
+                                                                                                                                                          4.4 Forecast Accuracy and Uncertainty
+                                            Table 4.4: Forecast Errors by Years since Forecast: PPS, 2011-2023
+
+ School   Actual Fall                                                Forecast errors (from forecasts as of):
+   Year   Enrollment    2011-12   2012-13   2013-14     2014-15     2015-16 2016-17 2017-18 2018-19               2019-20   2020-21   2021-22   2022-23
+2011-12       46,190
+2012-13       46,581      0.2%
+2013-14       47,111     -0.4%     -0.3%
+2014-15       47,647     -0.8%     -0.2%      -0.1%
+2015-16       48,383     -1.1%     -0.2%      -0.4%       -0.5%
+2016-17       48,198      0.1%      1.3%       1.4%        1.2%        1.3%
+2017-18       48,443      0.5%      1.7%       2.0%        1.8%        2.0%        0.9%
+2018-19       48,482      1.4%      2.5%       3.1%        2.9%        3.1%        1.8%        1.3%
+2019-20       48,435      2.4%      3.6%       4.2%        4.0%        4.2%        2.9%        2.4%        1.1%
+2020-21       46,907      6.2%      7.9%       8.5%        8.3%        8.6%        7.0%        6.6%        5.0%     4.0%
+2021-22       44,861     12.3%     13.7%      14.1%       14.1%       14.4%       12.6%       11.9%       10.3%     8.8%      8.4%
+2022-23       44,609     13.7%     15.2%      15.4%       15.5%       15.7%       13.9%       12.7%       10.6%     8.9%      8.5%      0.5%
+2023-24       44,005     16.2%     17.9%      18.0%       18.0%       18.4%       16.5%       14.9%       11.6%     9.4%      9.2%      0.9%      0.6%
+
+
+
+
+                                                                                                                                                          29
+APPENDICES
+
+
+              Table 5.1: Population Projection: Portland Public Schools, 2030-2040
+
+     Age Group                    2000         2010         2020         2030           2040
+     Under Age 5                24,382       25,838       22,462       21,023         22,125
+     Age 5 to 9                 23,699       22,708       22,732       17,484         20,065
+     Age 10 to 14               23,096       19,871       21,215       18,799         18,302
+     Age 15 to 17               14,355       12,307       12,374       11,398          8,677
+     Age 18 to 19               10,597        9,495        9,155        7,502          5,910
+     Age 20 to 24               33,478       33,827       30,383       20,534         19,018
+     Age 25 to 29               41,985       48,534       52,081       33,128         31,650
+     Age 30 to 34               39,531       46,781       56,656       51,112         45,171
+     Age 35 to 39               35,432       41,270       51,295       64,697         50,710
+     Age 40 to 44               34,981       35,381       43,107       57,601         54,099
+     Age 45 to 49               35,915       30,492       35,875       48,076         61,564
+     Age 50 to 54               30,217       30,561       31,956       38,209         53,516
+     Age 55 to 59               19,090       31,402       30,185       31,150         44,129
+     Age 60 to 64               13,319       25,698       29,092       27,419         34,320
+     Age 65 to 69               10,521       15,445       26,067       25,328         27,213
+     Age 70 to 74               10,535        9,794       19,739       23,756         23,219
+     Age 75 to 79               10,181        7,224       11,198       20,224         20,340
+     Age 80 to 84                7,720        6,287        6,529       13,509         17,297
+     Age 85 and over             7,076        7,354        7,245        9,850         19,651
+     Total Population          426,110      460,269      519,347      540,800        576,978
+     Annualized Growth               -        0.8%         1.2%         0.4%           0.6%
+     Percent Age 5-17           14.4%        11.9%        10.8%         8.8%           8.2%
+     Percent under 18           20.1%        17.5%        15.2%        12.7%          12.0%
+     Note: Results shown for medium growth scenario. The medium scenario reflects actual
+     births and deaths through the end of calendar year 2021, and assumes long run increase
+     between 2020 to 2040 from a total fertility rate of approximately 0.8 children per woman
+     to 1.0, and life expectancy from 80 to 82 years for men and 85 to 87 years for women.
+     Migration recovers and returns to trend by 2024 (approximately +2,200 per year increasing
+     to +4,000 per year by 2040).
+     Source: Population Research Center, PSU.                                 January 5, 2024
+
+
+
+
+                                                30
+                                                              Table 5.2: Enrollment Projection (Medium Scenario): Portland Public Schools, 2024-2038
+
+                      —- Historic Enrollment —-                                                                                      —- Forecast Enrollment —-
+Grade      2019-20    2020-21 2021-22 2022-23          2023-24     2024-25    2025-26    2026-27    2027-28    2028-29    2029-30    2030-31 2031-32 2032-33           2033-34    2034-35    2035-36    2036-37    2037-38    2038-39
+K            3,857      3,243     3,187    3,132         2,995       3,074      3,115      3,054      2,942      2,900      2,825      3,092     3,285    3,431          3,456      3,442      3,448      3,410      3,441      3,502
+1            3,913      3,691     3,276    3,363         3,213       3,150      3,178      3,211      3,139      3,014      2,972      2,882     3,093    3,290          3,432      3,465      3,450      3,458      3,418      3,445
+2            3,848      3,737     3,469    3,311         3,360       3,205      3,130      3,148      3,170      3,099      2,976      2,935     2,847    3,054          3,248      3,388      3,420      3,405      3,413      3,404
+3            3,955      3,644     3,474    3,493         3,320       3,357      3,189      3,098      3,103      3,124      3,054      2,933     2,893    2,806          3,010      3,201      3,339      3,370      3,356      3,414
+4            3,944      3,745     3,381    3,470         3,464       3,283      3,310      3,135      3,034      3,039      3,058      2,991     2,873    2,834          2,749      2,948      3,135      3,269      3,300      3,327
+5            3,939      3,763     3,487    3,344         3,461       3,437      3,240      3,250      3,058      2,961      2,967      2,986     2,920    2,804          2,766      2,683      2,878      3,061      3,192      3,276
+6            3,788      3,613     3,371    3,385         3,205       3,317      3,303      3,117      3,125      2,935      2,849      2,856     2,880    2,812          2,699      2,662      2,581      2,771      2,949      3,042
+7            3,797      3,661     3,400    3,340         3,334       3,153      3,259      3,241      3,054      3,062      2,876      2,792     2,799    2,823          2,755      2,645      2,608      2,529      2,715      2,901
+8            3,513      3,735     3,539    3,442         3,285       3,284      3,110      3,221      3,205      3,021      3,030      2,848     2,763    2,770          2,791      2,725      2,617      2,580      2,502      2,673
+9            3,446      3,439     3,642    3,585         3,439       3,281      3,275      3,098      3,202      3,188      3,005      3,011     2,827    2,746          2,754      2,777      2,710      2,601      2,564      2,493
+10           3,455      3,470     3,462    3,609         3,593       3,449      3,281      3,274      3,091      3,199      3,182      3,000     3,009    2,829          2,744      2,751      2,771      2,707      2,599      2,561
+11           3,282      3,438     3,358    3,372         3,558       3,549      3,418      3,255      3,257      3,074      3,187      3,167     2,987    2,999          2,824      2,735      2,741      2,757      2,696      2,575
+12           3,698      3,728     3,815    3,763         3,778       3,990      3,982      3,842      3,655      3,662      3,455      3,592     3,564    3,364          3,383      3,195      3,085      3,091      3,101      3,049
+TOTAL       48,435     46,907   44,861    44,609        44,005      43,529     42,790     41,944     41,035     40,278     39,436     39,085   38,740    38,562         38,611     38,617     38,783     39,009     39,246     39,662
+
+K-2          11,618      10,671      9,932       9,806      9,568       9,429      9,423      9,413      9,251       9,013      8,773    8,909      9,225      9,775    10,136      10,295     10,318      10,273     10,272     10,351
+3-5          11,838      11,152     10,342      10,307    10,245       10,077      9,739      9,483      9,195       9,124      9,079    8,910      8,686      8,444      8,525       8,832     9,352       9,700      9,848     10,017
+6-8          11,098      11,009     10,310      10,167      9,824       9,754      9,672      9,579      9,384       9,018      8,755    8,496      8,442      8,405      8,245       8,032     7,806       7,880      8,166      8,616
+9-12         13,881      14,075     14,277      14,329    14,368       14,269    13,956      13,469     13,205     13,123     12,829   12,770     12,387      11,938    11,705      11,458     11,307      11,156     10,960     10,678
+TOTAL        48,435      46,907     44,861      44,609    44,005       43,529    42,790      41,944     41,035     40,278     39,436   39,085     38,740      38,562    38,611      38,617     38,783      39,009     39,246     39,662
+Sources: Portland Public Schools (historic and current enrollment); Population Research Center, PSU (enrollment forecasts).                                                                                              April 13, 2024
+Note: The medium scenario reflects actual births and deaths through the end of calendar year 2021, and assumes long run increase between 2020 to 2040 from a total fertility rate of approximately 0.8 children per woman
+to 1.0, and life expectancy from 80 to 82 years for men and 85 to 87 years for women. Migration recovers and returns to trend by 2024 (approximately +2,200 per year increasing to +4,000 per year by 2040). Grade
+progression ratios start in 2023 as an average of the last 3 years, with modifications in some cases to return to a long term pre-COVID trend. The share of the kindergarten and first grade age-eligible population that enroll
+in a PPS school is held at its current level (69% and 72% respectively) for the 2024 entry cohort, and between the years 2025-2030 increases to the pre-COVID 5-year average (83.0% and 83.7% respectively).
+
+
+
+
+                                                                                                                                                                                                                                 31
+                                                                 Table 5.3: Enrollment Projection (Low Scenario): Portland Public Schools, 2024-2038
+
+                     —- Historic Enrollment —-                                                                                    —- Forecast Enrollment —-
+Grade      2019-20   2020-21 2021-22 2022-23          2023-24      2024-25   2025-26   2026-27   2027-28    2028-29    2029-30    2030-31 2031-32 2032-33         2033-34    2034-35    2035-36    2036-37    2037-38   2038-39
+K            3,857     3,243     3,187    3,132          2,995       3,097     2,797     2,781     3,406      4,203      4,133      4,046     3,848    3,547        3,190      2,994      2,836      2,779      2,588     2,347
+1            3,913     3,691     3,276    3,363          3,213       3,158     3,134     2,819     2,814      3,441      4,242      4,171     4,084    3,885        3,583      3,225      3,028      2,869      2,812     2,620
+2            3,848     3,737     3,469    3,311          3,360       3,313     3,087     3,061     2,750      2,747      3,356      4,135     4,066    3,981        3,788      3,494      3,146      2,955      2,800     2,745
+3            3,955     3,644     3,474    3,493          3,320       3,251     3,227     3,003     2,975      2,673      2,670      3,262     4,018    3,951        3,868      3,681      3,396      3,058      2,872     2,722
+4            3,944     3,745     3,381    3,470          3,464       3,415     3,172     3,149     2,929      2,901      2,606      2,604     3,180    3,916        3,851      3,770      3,588      3,311      2,982     2,801
+5            3,939     3,763     3,487    3,344          3,461       3,358     3,307     3,067     3,040      2,828      2,802      2,517     2,514    3,072        3,784      3,721      3,642      3,466      3,198     2,880
+6            3,788     3,613     3,371    3,385          3,205       3,182     3,162     3,110     2,873      2,844      2,651      2,627     2,361    2,355        2,885      3,561      3,501      3,426      3,259     3,004
+7            3,797     3,661     3,400    3,340          3,334       3,294     3,096     3,075     3,024      2,794      2,766      2,578     2,554    2,296        2,290      2,805      3,462      3,404      3,331     3,169
+8            3,513     3,735     3,539    3,442          3,285       3,277     3,220     3,029     3,008      2,958      2,735      2,709     2,523    2,500        2,246      2,241      2,743      3,384      3,327     3,256
+9            3,446     3,439     3,642    3,585          3,439       3,318     3,166     3,111     2,921      2,902      2,855      2,636     2,609    2,432        2,411      2,166      2,160      2,646      3,268     3,213
+10           3,455     3,470     3,462    3,609          3,593       3,555     3,272     3,121     3,059      2,879      2,857      2,811     2,600    2,576        2,398      2,377      2,134      2,130      2,607     3,215
+11           3,282     3,438     3,358    3,372          3,558       3,421     3,381     3,111     2,973      2,912      2,749      2,725     2,681    2,486        2,467      2,293      2,272      2,038      2,036     2,488
+12           3,698     3,728     3,815    3,763          3,778       3,454     3,495     3,466     3,189      3,056      2,989      2,840     2,808    2,763        2,574      2,562      2,374      2,350      2,105     2,108
+TOTAL       48,435    46,907   44,861    44,609        44,005       43,093    41,516    39,903    38,961     39,138     39,411     39,661   39,846    39,760       39,335     38,890     38,282     37,816     37,185    36,568
+
+K-2         11,618     10,671       9,932     9,806       9,568      9,568      9,018      8,661     8,970    10,391     11,731     12,352      11,998     11,413     10,561      9,713    9,010       8,603     8,200      7,712
+3-5         11,838     11,152     10,342     10,307     10,245      10,024      9,706      9,219     8,944     8,402       8,078     8,383       9,712     10,939     11,503     11,172   10,626       9,835     9,052      8,403
+6-8         11,098     11,009     10,310     10,167       9,824      9,753      9,478      9,214     8,905     8,596       8,152     7,914       7,438      7,151      7,421      8,607    9,706     10,214      9,917      9,429
+9-12        13,881     14,075     14,277     14,329     14,368      13,748     13,314     12,809    12,142    11,749     11,450     11,012      10,698     10,257      9,850      9,398    8,940       9,164    10,016    11,024
+TOTAL       48,435     46,907     44,861     44,609     44,005      43,093     41,516     39,903    38,961    39,138     39,411     39,661      39,846     39,760     39,335     38,890   38,282     37,816     37,185    36,568
+Sources: Portland Public Schools (historic and current enrollment); Population Research Center, PSU (enrollment forecasts).                                                                                        April 13, 2024
+Note: The low scenario reflects the same birth rate and life expectancy trends as the medium scenario. Net migration recovers to approximately +1,500 per year (the bottom quartile of net migrants since 2000) and stays
+constant from 2024 onward. Starting in 2024, GPRs revert to the 25th percentile since 2000, and Kindergarten capture rates remain constant at the most recently observed level (69%).
+
+
+
+
+                                                                                                                                                                                                                            32
+                                                              Table 5.4: Enrollment Projection (High Scenario): Portland Public Schools, 2024-2038
+
+                     —- Historic Enrollment —-                                                                                    —- Forecast Enrollment —-
+Grade      2019-20   2020-21 2021-22 2022-23          2023-24    2024-25    2025-26    2026-27    2027-28    2028-29    2029-30   2030-31 2031-32 2032-33          2033-34    2034-35    2035-36    2036-37   2037-38    2038-39
+K            3,857     3,243     3,187    3,132          2,995     3,702      3,508      3,188      3,200      3,942      4,916     4,859     4,751    4,539         4,199      3,806      3,590      3,420     3,363      3,146
+1            3,913     3,691     3,276    3,363          3,213     3,202      3,794      3,582      3,267      3,280      4,035     5,027     4,969    4,859         4,643      4,297      3,897      3,677     3,504      3,446
+2            3,848     3,737     3,469    3,311          3,360     3,364      3,178      3,760      3,546      3,236      3,249     3,995     4,974    4,917         4,809      4,595      4,254      3,859     3,641      3,471
+3            3,955     3,644     3,474    3,493          3,320     3,319      3,344      3,156      3,731      3,518      3,211     3,224     3,964    4,935         4,878      4,771      4,559      4,221     3,829      3,613
+4            3,944     3,745     3,381    3,470          3,464     3,482      3,301      3,326      3,138      3,708      3,496     3,192     3,205    3,940         4,903      4,847      4,741      4,530     4,195      3,806
+5            3,939     3,763     3,487    3,344          3,461     3,417      3,431      3,248      3,267      3,084      3,646     3,438     3,138    3,150         3,874      4,823      4,768      4,664     4,456      4,126
+6            3,788     3,613     3,371    3,385          3,205     3,244      3,281      3,291      3,104      3,119      2,950     3,495     3,299    3,005         3,017      3,718      4,637      4,584     4,483      4,282
+7            3,797     3,661     3,400    3,340          3,334     3,344      3,204      3,239      3,248      3,064      3,079     2,912     3,450    3,257         2,966      2,978      3,670      4,577     4,525      4,425
+8            3,513     3,735     3,539    3,442          3,285     3,322      3,314      3,178      3,211      3,220      3,039     3,055     2,888    3,420         3,227      2,940      2,952      3,636     4,533      4,482
+9            3,446     3,439     3,642    3,585          3,439     3,415      3,303      3,295      3,154      3,189      3,199     3,015     3,029    2,866         3,399      3,208      2,920      2,931     3,614      4,510
+10           3,455     3,470     3,462    3,609          3,593     3,626      3,434      3,321      3,305      3,169      3,201     3,211     3,030    3,046         2,879      3,410      3,217      2,931     2,943      3,625
+11           3,282     3,438     3,358    3,372          3,558     3,542      3,570      3,380      3,273      3,256      3,129     3,157     3,167    2,993         3,012      2,843      3,362      3,168     2,891      2,904
+12           3,698     3,728     3,815    3,763          3,778     3,869      4,053      4,095      3,877      3,760      3,737     3,604     3,630    3,641         3,450      3,476      3,275      3,863     3,635      3,325
+TOTAL       48,435    46,907   44,861    44,609        44,005     44,848     44,715     44,059     43,321     43,545     44,887    46,184   47,494    48,568        49,256     49,712     49,842     50,061    49,612     49,161
+
+K-2         11,618     10,671       9,932      9,806      9,568      10,268     10,480    10,530    10,013     10,458     12,200     13,881    14,694    14,315     13,651      12,698     11,741    10,956     10,508     10,063
+3-5         11,838     11,152      10,342    10,307     10,245       10,218     10,076     9,730    10,136     10,310     10,353      9,854    10,307    12,025     13,655      14,441     14,068    13,415     12,480     11,545
+6-8         11,098     11,009      10,310    10,167       9,824       9,910      9,799     9,708     9,563      9,403      9,068      9,462     9,637     9,682       9,210      9,636     11,259    12,797     13,541     13,189
+9-12        13,881     14,075      14,277    14,329     14,368       14,452     14,360    14,091    13,609     13,374     13,266     12,987    12,856    12,546     12,740      12,937     12,774    12,893     13,083     14,364
+TOTAL       48,435     46,907      44,861    44,609     44,005       44,848     44,715    44,059    43,321     43,545     44,887     46,184    47,494    48,568     49,256      49,712     49,842    50,061     49,612     49,161
+Sources: Portland Public Schools (historic and current enrollment); Population Research Center, PSU (enrollment forecasts).                                                                                         April 13, 2024
+Note: The high scenario reflects the same birth rate and life expectancy trends as the medium scenario. Net migration recovers to approximately +4,500 per year (top decile of net migrants since 2000) and stays constant
+from 2024 onward. Starting in 2024, GPRs revert to the 75th percentile since 2000, and Kindergarten capture rates recover to the pre-COVID pandemic average (81%).
+
+
+
+
+                                                                                                                                                                                                                             33
+                                                     Table 5.5: Enrollment Projection by Grade Group: Portland Public Schools, 2024-2033
+
+                                                              – Historic Enrollment –                                          —- Forecast Enrollment —-
+Name                       Type   Program         Grades   2021-22    2022-23   2023-24    2024-25   2025-26   2026-27   2027-28  2028-29    2029-30   2030-31   2031-32   2032-33   2033-34
+Abernethy                    ES           Total   K-5          374         352      330        298       277       253       253       248        242      244       255       262       274
+Buckman                      ES           Total   K-5          399         394      371        339       318       289       268       265        264      268       269       276       285
+Duniway                      ES           Total   K-5          436         422      409        388       381       375       354       362        351      357       360       363       378
+Grout                        ES           Total   K-5          340         316      302        290       296       281       287       285        282      286       287       298       304
+Lewis                        ES           Total   K-5          337         320      298        278       282       278       255       238        244      241       242       248       254
+Llewellyn                    ES           Total   K-5          395         415      393        392       388       394       384       389        389      390       396       407       418
+Whitman                      ES           Total   K-5          152         153      180        202       230       259       290       317        326      338       341       346       355
+Woodstock                    ES           Total   K-5          476         488      451        429       411       391       368       368        364      368       364       377       400
+Woodstock                    ES   Neighborhood    K-5          222         240      214        200       188       172       152       146        150      153       152       153       165
+Woodstock                    ES       Mandarin    K-5          254         248      237        229       223       219       216       222        214      215       212       224       235
+Hosford                     MS            Total   6-8          628         565      517        512       503       477       430       395        336      329       326       331       323
+Hosford                     MS    Neighborhood    6-8          512         469      517          0         0         0         0         0          0        0         0         0         0
+Hosford                     MS        Mandarin    6-8          116          96         0         0         0         0         0         0          0        0         0         0         0
+Sellwood                    MS            Total   6-8          553         563      567        544       509       487       474       452        441      412       418       425       423
+Cleveland                   HS            Total   9-12       1,622       1,546    1,474      1,375     1,299     1,223     1,201     1,180      1,146    1,122     1,060       960       914
+Cleveland                   HS    Neighborhood    9-12       1,492       1,415    1,328      1,238     1,183     1,135     1,126     1,092      1,045    1,019       951       864       819
+Cleveland                   HS        Mandarin    9-12         130         131      146        137       116        88        75        88        101      103       109        96        95
+Arleta                       ES           Total   K-5          269         256      274        271       272       262       268       269        261      261       265       274       282
+Atkinson                     ES           Total   K-5          342         337      366        375       380       370       378       382        379      381       388       390       396
+Atkinson                     ES   Neighborhood    K-5          206         196      203        214       223       222       239       245        248      250       254       255       257
+Atkinson                     ES         Spanish   K-5          136         141      163        161       157       148       139       137        131      131       134       135       139
+Creston                      ES           Total   K-5          250         259      238        235       222       209       206       200        200      197       202       206       206
+Glencoe                      ES           Total   K-5          373         394      372        369       355       342       314       288        285      283       281       287       298
+Kelly                        ES           Total   K-5          371         355      376        352       338       335       315       298        290      291       291       303       315
+Kelly                        ES   Neighborhood    K-5          238         213      232        220       214       212       204       196        185      186       187       196       205
+Kelly                        ES         Russian   K-5          133         142      144        132       124       123       111       102        105      105       104       107       110
+Lent                         ES           Total   K-5          277         250      273        267       272       250       235       221        207      206       203       199       200
+Lent                         ES   Neighborhood    K-5          151         122         0         0         0         0         0         0          0        0         0         0         0
+Lent                         ES         Spanish   K-5          126         128      273        267       272       250       235       221        207      206       203       199       200
+Marysville                   ES           Total   K-5          248         286      359        349       336       330       318       312        314      314       316       318       332
+Woodmere                     ES           Total   K-5          253         235      248        241       236       224       205       194        184      183       181       182       188
+Bridger                      ES           Total   K-5          630         613         0         0         0         0         0         0          0        0         0         0         0
+Bridger                      ES   Neighborhood    K-5          419         423         0         0         0         0         0         0          0        0         0         0         0
+Bridger                      ES         Spanish   K-5          211         190         0         0         0         0         0         0          0        0         0         0         0
+Bridger Creative Science     K8           Total   K-8            0           0      515        516       509       509       489       471        450      434       423       429       428
+Sunnyside Environmental      K8           Total   K-8          469         464      447        445       441       412       412       415        396      396       389       396       400
+Kellogg                     MS            Total   6-8          683         660      677        635       615       651       652       640        617      579       565       548       542
+Kellogg                     MS    Neighborhood    6-8          532         501      449        394       363       370       363       353        339      325       315       318       309
+Kellogg                     MS          Spanish   6-8          151         159      228        241       252       281       289       287        278      254       250       230       233
+Lane                        MS            Total   6-8          363         336      391        425       447       423       415       395        376      354       356       357       363
+Lane                        MS    Neighborhood    6-8          322         302      362        393       410       382       376       356        343      325       331       332       338
+Lane                        MS          Russian   6-8           41          34        29        32        37        41        39        39         33       29        25        25        25
+Mt Tabor                    MS            Total   6-8          645         606      503        456       415       402       401       390        363      354       341       346       342
+Mt Tabor                    MS    Neighborhood    6-8          327         302      259        222       193       188       194       190        171      161       147       149       153
+Mt Tabor                    MS         Japanese   6-8          249         239      244        234       222       214       207       200        192      193       194       197       189
+Mt Tabor                    MS          Spanish   6-8           69          65         0         0         0         0         0         0          0        0         0         0         0
+Franklin                    HS            Total   9-12       2,011       1,966    1,811      1,736     1,630     1,623     1,640     1,587      1,618    1,562     1,517     1,449     1,401
+Franklin                    HS    Neighborhood    9-12       1,832       1,786    1,622      1,512     1,382     1,366     1,359     1,303      1,327    1,251     1,213     1,147     1,108
+Franklin                    HS          Spanish   9-12         139         140      148        181       211       224       241       243        250      263       259       265       259
+                                              Table 5.5 Enrollment Projection by Grade Group: Portland Public Schools, 2024-2033 (Continued)
+
+                                                            – Historic Enrollment –                                          —- Forecast Enrollment —-
+Name                   Type   Program          Grades    2021-22    2022-23   2023-24    2024-25   2025-26   2026-27   2027-28  2028-29    2029-30   2030-31   2031-32   2032-33   2033-34
+Franklin                HS          Russian    9-12           40          40        41        43        37        33        40        41         41       48        45        37        34
+Alameda                  ES           Total    K-5           525         538      521        511       506       486       465       447        436      433       446       458       470
+Beverly Cleary           K8           Total    K-8           657         602      560        511       444       432       391       368        355      338       329       341       343
+Laurelhurst              K8           Total    K-8           649         674      659        657       644       648       624       611        604      610       604       599       605
+Beaumont                MS            Total    6-8           465         445      434        420       385       365       368       361        360      341       334       326       322
+Beaumont                MS    Neighborhood     6-8           343         317      320        307       279       268       260       264        250      244       233       226       223
+Beaumont                MS          Spanish    6-8           122         128      114        113       106        97       108        97        110       97       101       100        99
+Grant                   HS            Total    9-12        2,122       2,158    2,178      2,182     2,082     1,946     1,837     1,733      1,657    1,626     1,535     1,462     1,413
+Grant                   HS    Neighborhood     9-12        1,845       1,872    1,892      1,912     1,827     1,694     1,589     1,492      1,431    1,412     1,332     1,266     1,219
+Grant                   HS         Japanese    9-12          277         286      286        270       255       252       248       241        226      214       203       196       194
+Boise-Eliot/Humboldt     ES           Total    K-5           321         324      308        303       294       283       284       295        290      289       295       303       311
+Irvington                ES           Total    K-5           248         228      235        235       230       231       234       231        226      231       243       250       263
+MLK Jr                   ES           Total    K-5           297         301      307        305       305       299       310       302        303      306       312       329       344
+MLK Jr                   ES   Neighborhood     K-5           128         116      124        120       116       110       114       111        108      106       109       114       115
+MLK Jr                   ES       Mandarin     K-5           169         185      183        185       189       189       196       191        195      200       203       215       229
+Sabin                    ES           Total    K-5           339         311      302        284       271       258       239       243        242      248       253       265       276
+Harriet Tubman          MS            Total    6-8           387         360      320        302       317       327       326       298        274      255       253       254       258
+Harriet Tubman          MS    Neighborhood     6-8           353         332      288        266       277       284       283       253        233      212       212       209       213
+Harriet Tubman          MS        Mandarin     6-8            34          28        32        36        40        43        43        45         41       43        41        45        45
+Faubion                  K8           Total    K-8           619         607      571        579       562       574       547       537        524      515       504       509       501
+Vernon                   K8           Total    K-8           517         555      578        585       589       571       551       549        546      524       505       506       511
+Beach                    ES           Total    K-5           351         346      325        317       302       284       270       262        248      241       241       248       254
+Beach                    ES   Neighborhood     K-5           127         145      134        146       150       154       158       148        140      135       133       135       134
+Beach                    ES         Spanish    K-5           224         201      191        171       152       130       112       114        108      106       108       113       120
+Chief Joseph             ES           Total    K-5           269         261      265        263       241       235       230       219        211      213       213       218       228
+Peninsula                ES           Total    K-5           201         224      234        253       259       261       251       241        228      221       221       224       225
+Woodlawn                 ES           Total    K-5           282         285      299        281       275       264       241       241        219      213       213       218       226
+Ockley Green            MS            Total    6-8           485         482      428        431       458       446       436       416        429      409       410       387       360
+Ockley Green            MS    Neighborhood     6-8           381         383      350        366       403       385       378       369        393      379       377       356       333
+Ockley Green            MS          Spanish    6-8           104          99        78        65        55        61        58        47         36       30        33        31        27
+Jefferson               HS            Total    9-12          583         597      525        530       506       524       566       567        566      567       558       523       515
+Jefferson               HS    Neighborhood     9-12          583         585      515        512       481       500       537       534        529      529       513       482       475
+Jefferson               HS        Mandarin     9-12            0          12        10        18        25        24        29        33         37       38        45        41        40
+Ainsworth                ES           Total    K-5           553         563      585        607       594       578       581       580        554      545       544       553       575
+Ainsworth                ES   Neighborhood     K-5           281         287      294        303       294       291       299       304        289      282       277       279       290
+Ainsworth                ES         Spanish    K-5           272         276      291        304       300       287       282       276        265      263       267       274       285
+Chapman                  ES           Total    K-5           341         350      344        349       343       349       330       326        308      309       310       315       322
+Forest Park              ES           Total    K-5           333         328      321        312       285       279       282       276        271      276       280       285       295
+Skyline                  K8           Total    K-8           203         214      218        217       220       225       221       218        212      208       212       212       214
+West Sylvan             MS            Total    6-8           725         757      722        695       698       681       681       642        646      654       669       644       629
+West Sylvan             MS    Neighborhood     6-8           597         624      591        576       577       555       547       512        518      524       542       526       513
+West Sylvan             MS          Spanish    6-8           128         133      131        119       121       126       134       130        128      130       127       118       116
+Lincoln                 HS            Total    9-12        1,459       1,521    1,579      1,570     1,545     1,484     1,374     1,365      1,314    1,315     1,304     1,285     1,286
+Lincoln                 HS    Neighborhood     9-12        1,281       1,335    1,387      1,388     1,375     1,307     1,215     1,198      1,148    1,152     1,137     1,118     1,123
+Lincoln                 HS          Spanish    9-12          178         186      192        182       170       177       159       167        166      163       167       167       163
+Clark                    ES           Total    K-5             0           0      341        325       306       284       271       268        261      262       266       267       269
+Clark                    ES   Neighborhood     K-5             0           0      261        247       228       210       197       197        192      193       194       194       193
+Clark                    ES       Mandarin     K-5             0           0        80        78        78        74        74        71         69       69        72        73        76
+Lee                      ES           Total    K-5           234         273      288        292       292       290       290       292        286      286       286       296       301
+                                         Table 5.5 Enrollment Projection by Grade Group: Portland Public Schools, 2024-2033 (Continued)
+
+                                                       – Historic Enrollment –                                          —- Forecast Enrollment —-
+Name              Type   Program          Grades    2021-22    2022-23   2023-24    2024-25   2025-26   2026-27   2027-28  2028-29    2029-30   2030-31   2031-32   2032-33   2033-34
+Rigler              ES           Total    K-5           232         221      255        253       248       256       243       242        236      236       239       244       254
+Rigler              ES   Neighborhood     K-5             0           0         0         0         0         0         0         0          0        0         0         0         0
+Rigler              ES        Spanish     K-5           232         221      255        253       248       256       243       242        236      236       239       244       254
+Rose City Park      ES           Total    K-5           464         468      464        465       469       488       504       493        502      510       513       529       539
+Rose City Park      ES   Neighborhood     K-5           285         285      248        235       225       233       236       221        234      241       241       253       256
+Rose City Park      ES     Vietnamese     K-5           179         183      216        230       244       255       268       272        268      269       272       276       283
+Scott               ES           Total    K-5           415         432      500        500       475       489       493       474        458      456       465       471       487
+Scott               ES   Neighborhood     K-5           206         226      265        261       233       247       242       228        223      217       217       215       220
+Scott               ES        Spanish     K-5           209         206      235        239       242       242       251       246        235      239       248       256       267
+Vestal              ES           Total    K-5           207         230      228        230       240       264       280       274        290      293       300       301       305
+Harrison Park      MS            Total    6-8           527         573      321        390       464       510       486       450        419      424       430       449       442
+Harrison Park      MS    Neighborhood     6-8           455         472      241        286       342       388       374       348        310      319       322       345       340
+Harrison Park      MS        Mandarin     6-8            72         101        80       104       122       122       112       102        109      105       108       104       102
+Roseway Heights    MS            Total    6-8           578         571      551        577       630       618       611       586        623      641       654       662       644
+Roseway Heights    MS    Neighborhood     6-8           475         462      432        441       478       457       464       428        449      443       453       462       450
+Roseway Heights    MS      Vietnamese     6-8             0          38        36        50        61        74        69        76         83       99       105       107       101
+Roseway Heights    MS         Spanish     6-8           103          71        83        86        91        87        78        82         91       99        96        93        93
+McDaniel           HS            Total    9-12        1,352       1,430    1,650      1,595     1,524     1,448     1,397     1,464      1,438    1,506     1,478     1,412     1,462
+McDaniel           HS    Neighborhood     9-12        1,188       1,218    1,380      1,300     1,196     1,115     1,042     1,096      1,085    1,133     1,111     1,032     1,059
+McDaniel           HS         Spanish     9-12          126         158      204        222       222       220       217       220        195      204       200       209       221
+McDaniel           HS        Mandarin     9-12            0           0         0         0        33        30        32        35         36       36        30        29        31
+McDaniel           HS      Vietnamese     9-12            0           0         0        11        21        30        54        64         74       82        85        90       101
+McDaniel           HS            PISA     9-12           38          54        66        62        52        53        52        49         48       51        52        52        50
+James John          ES           Total    K-5           331         336      348        344       335       326       307       287        285      278       280       282       287
+James John          ES   Neighborhood     K-5           207         208      220        212       204       199       184       170        170      164       167       169       174
+James John          ES        Spanish     K-5           124         128      128        132       131       127       123       117        115      114       113       113       113
+Rosa Parks          ES           Total    K-5           213         192      177        171       173       169       168       163        154      151       150       154       158
+Sitton              ES           Total    K-5           302         342      335        342       351       349       327       309        297      294       292       304       312
+Sitton              ES   Neighborhood     K-5           187         223      207        220       234       235       219       211        205      201       198       210       213
+Sitton              ES        Spanish     K-5           115         119      128        122       117       114       108        98         92       93        94        94        99
+Astor               K8           Total    K-8           393         368      375        362       331       323       312       302        310      290       291       286       285
+César Chávez        K8           Total    K-8           482         464      481        471       465       437       413       401        388      385       384       383       389
+César Chávez        K8   Neighborhood     K-8           174         168      156        147       132       117       106        98         87       76        78        76        74
+César Chávez        K8        Spanish     K-8           308         296      325        324       333       320       307       303        301      309       306       307       315
+George             MS            Total    6-8           385         385      367        371       363       380       376       370        377      358       352       328       318
+George             MS    Neighborhood     6-8           315         266      254        257       254       256       253       246        253      239       238       216       211
+George             MS         Spanish     6-8            70         119      113        114       109       124       123       124        124      119       114       112       107
+Roosevelt          HS            Total    9-12        1,368       1,478    1,457      1,489     1,522     1,460     1,476     1,460      1,422    1,446     1,402     1,384     1,374
+Roosevelt          HS    Neighborhood     9-12        1,131       1,200    1,130      1,149     1,144     1,067     1,071     1,069      1,053    1,075     1,048     1,029     1,025
+Roosevelt          HS         Spanish     9-12          200         225      256        284       321       332       344       326        310      311       295       297       294
+Roosevelt          HS            PISA     9-12           37          53        71        56        57        61        61        65         59       60        59        58        55
+Bridlemile          ES           Total    K-5           433         457      446        454       456       453       442       440        427      426       427       445       462
+Capitol Hill        ES           Total    K-5           324         333      361        349       348       351       349       343        339      340       345       353       362
+Hayhurst            ES           Total    K-5           350         349      335        336       311       306       298       300        292      286       285       287       299
+Maplewood           ES           Total    K-5           291         307      301        301       291       291       302       294        297      299       298       301       299
+Markham             ES           Total    K-5           424         424      402        388       374       365       340       335        329      332       332       337       346
+Rieke               ES           Total    K-5           312         299      288        279       266       257       249       250        248      242       239       244       251
+Stephenson          ES           Total    K-5           320         307      310        304       306       300       300       294        283      285       287       288       293
+Gray               MS            Total    6-8           476         481      472        441       433       431       445       398        389      380       387       382       368
+                                                    Table 5.5 Enrollment Projection by Grade Group: Portland Public Schools, 2024-2033 (Continued)
+
+                                                                    – Historic Enrollment –                                                  —- Forecast Enrollment —-
+Name                     Type        Program          Grades     2021-22    2022-23   2023-24       2024-25     2025-26    2026-27     2027-28  2028-29    2029-30   2030-31         2031-32   2032-33   2033-34
+Jackson                    MS               Total     6-8            751         787      711           715         697        712         707       674        637       609            592       612       611
+Ida B Wells-Barnett         HS              Total     9-12         1,594       1,555    1,652         1,618       1,554      1,484       1,421     1,453      1,396     1,416          1,383     1,297     1,257
+Odyssey                     K8              Total     K-8            219         225      227           231         233        234         228       226        227       228            230       228       230
+ACCESS                     2-8              Total     2-8            313         317      329           324         322        316         316       313        314       314            314       314       313
+Creative Science            K8              Total     K-8            126         139        0             0           0          0           0         0          0         0              0         0         0
+MLC                       K12               Total     K-12           340         347      336           330         327        339         333       340        345       346            342       344       341
+OLA                       K12               Total     K-12           590         223        0             0           0          0           0         0          0         0              0         0         0
+Richmond                    ES              Total     K-5            550         539      537           542         535        525         524       524        519       516            520       518       518
+Winterhaven                 K8              Total     K-8            292         313      316           313         314        319         317       314        314       310            311       313       310
+da Vinci                   MS               Total     6-8            415         433      407           420         427        438         433       431        431       427            436       439       433
+Benson Polytechnic          HS              Total     9-12           893         826      818           924       1,026      1,099       1,165     1,158      1,145     1,150          1,156     1,144     1,143
+Other (incl. Charters)    K12               Total     K-12         2,538       2,603    2,659         2,665       2,665      2,554       2,461     2,467      2,410     2,326          2,250     2,273     2,182
+Elementary and K-8 Subtotal                                       20,010     20,038    20,149        19,857      19,427     19,096      18,607    18,293    17,947     17,863         17,918    18,225    18,632
+Middle Schools Subtotal                                            8,066       8,004    7,388         7,334       7,361      7,348       7,241     6,898      6,718     6,526          6,523     6,490     6,378
+High Schools Subtotal                                             13,004     13,077    13,144        13,019      12,688     12,291      12,077    11,967    11,702     11,710         11,393    10,916    10,765
+Other (K-12 and 1-8)                                               3,468       3,173    2,995         2,995       2,992      2,893       2,794     2,807      2,755     2,672          2,592     2,617     2,523
+TOTAL                                                             44,861     44,609    44,005        43,529      42,790     41,944      41,035    40,278    39,436     39,085         38,740    38,562    38,611
+
+Sources: Portland Public Schools (historic and current enrollment); Population Research Center, PSU (enrollment forecasts).                                                                          May 6, 2024
+Notes:
+(A) Odyssey K5 grades are co-located at Hayhust; reported Hayhurst enrollment excludes Odyssey students.
+(B) Richmond ES Japanese DLI included with special programs (due to no neighborhood enrollment component).
+(C) Enrollment forecast reflects boundary changes approved through Resolution 6513 (May 24 2022) and program changes as of October 1, 2023.
+(D) Zeroes displayed for new, pending, recently closed, or other programs without enrollment.
+(E) McDaniel HS Mandarin DLI (2025+) expected to attract a share of current and future Mandarin DLI students proportional to the share of ES Mandarin DLI students enrolled at Clark ES.
+(F) Program and school names reflect expectations for start of 2024-25 school year.
+Program relocations implemented for 2024+: (None)
+

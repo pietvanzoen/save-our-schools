@@ -1,0 +1,50 @@
+Portland Public Schools
+October 3, 2011 Enrollment - Summary Comparison
+
+
+                  Enrollment by Program Type                      2010     2011   Change
+                    Elementary Schools                           25874    26445      571
+                    Middle Schools                                5142     5160       18
+                    High Schools                                 10978    10810     -168
+                    Selected Focus/Alternative Programs           1661     1689       28
+                    Community-Based Programs                      1275     1150     -125
+                    Special Services                               387      502      115
+                    Public Charter Schools                        1486     1532       46
+                    Total Enrollment                             46803    47288      485
+
+
+
+
+                  Enrollment by Grade                             2010     2011   Change
+                    Pre-Kindergarten                              1062     1082       20
+                    Kindergarten                                  3995     4064       69
+                    Grade 1                                       4091     4037      -54
+                    Grade 2                                       3894     4029      135
+                    Grade 3                                       3727     3898      171
+                    Grade 4                                       3682     3721       39
+                    Grade 5                                       3479     3597      118
+                    Grade 6                                       3354     3396       42
+                    Grade 7                                       3299     3310       11
+                    Grade 8                                       3192     3230       38
+                    Grade 9                                       3176     3082      -94
+                    Grade 10                                      3339     3256      -83
+                    Grade 11                                      3026     3181      155
+                    Grade 12                                      3487     3405      -82
+                                                                 46803    47288      485
+
+
+
+
+                  Enrollment by Ethnicity / Race                  2010     2011   Change
+                    Asian / Pacific Islander                      9.1%     9.2%     0.1%
+                    African American                             12.9%    12.1%    -0.8%
+                    Hispanic                                     15.8%    15.9%     0.1%
+                    Native American                               1.4%     1.2%    -0.1%
+                    White                                        55.6%    55.6%     0.0%
+                    Multiple Ethnicities Specified                5.3%     6.0%     0.8%
+                    Unspecified/Other                             0.0%     0.0%     0.0%
+                                                                100.0%   100.0%
+
+                 Counts from Student Database (eSIS) extract.
+                 See attached tables for detailed definitions
+

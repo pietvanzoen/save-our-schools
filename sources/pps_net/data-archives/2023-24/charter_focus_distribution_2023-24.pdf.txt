@@ -1,0 +1,724 @@
+Portland Public Schools
+Neighborhood Distribution of Students Attending Arthur Academy (October 2023)
+                             Arthur Academy
+Neighborhood Where the     Grade
+Students Live              KG    01        02        03        04        05        Total
+Arleta                                           1         1         1                  3
+Atkinson                                                                       1        1
+Bridger Creative Science       2                 1         1                            4
+Buckman                        3                                                        3
+Capitol Hill                   1                 1                                      2
+Chief Joseph                   1                                                        1
+Clark                          2       2         3         2         2         3       14
+Duniway                                1                                       1        2
+Forest Park                                      1                                      1
+Glencoe                                          2                             1        3
+Grout                          1       1                   1         1         1        5
+Kelly                          3                 2         1                   1        7
+Lee                                    1                             2         1        4
+Lent                           1       3         1         2         1                  8
+Lewis                                  1                                                1
+Marysville                     1                           1                            2
+Out of District                6      13        14        10        10        13       66
+Rigler                                 1                   2         1         1        5
+Scott                          2                           1                            3
+Sunnyside Environmental                                    1                            1
+Vestal                         2       4         1         3         6                 16
+Whitman                        3                 1         1         1         1        7
+Woodlawn                               1                                                1
+Woodmere                       1                 1                                      2
+Woodstock                      1                                     1                  2
+Total                         30      28        29        27        26        24      164
+Portland Public Schools
+Neighborhood Distribution of Students Attending Emerson School (October 2023)
+                             Emerson School
+Neighborhood Where the     Grade
+Students Live              KG    01        02        03        04        05        Total
+Ainsworth                              2                                                2
+Alameda                                                    1                            1
+Arleta                                                                         1        1
+Beach                          1       1         1         3         2                  8
+Beverly Cleary                 1                                     1                  2
+Boise-Eliot/Humboldt                             1                   2         1        4
+Bridger Creative Science                                   1                            1
+Bridlemile                     1       1         3         1         1         2        9
+Buckman                                          1                                      1
+Capitol Hill                   2                                     1                  3
+César Chávez                                     1                                      1
+Chapman                        4                 3         5         1                 13
+Chief Joseph                           1         2                   1         2        6
+Creston                        1                           2                            3
+Duniway                                                                        1        1
+Faubion                                1                   1                            2
+Glencoe                                                              1                  1
+Grout                          2                           1         1                  4
+Hayhurst                               1                                       2        3
+Irvington                                                  1                            1
+James John                             1                                       1        2
+Kelly                          1                                                        1
+Llewellyn                              1                                                1
+Maplewood                      1       1         1                                      3
+Markham                                                              1                  1
+MLK Jr                                                                         1        1
+Out of District                1       6         2         3         1         1       14
+Peninsula                                        2         1                   4        7
+Rieke                                  1         1                   1                  3
+Rosa Parks                     1       1         2         1         1         1        7
+Rose City Park                         1                                                1
+Sabin                          1       2                   1         2                  6
+Scott                                                                2         2        4
+Sitton                         1                           1         1                  3
+Stephenson                                                           1                  1
+Sunnyside Environmental                                              1                  1
+Vernon                         1                 1                   2                  4
+Vestal                         2                                                        2
+Whitman                                1                                                1
+Woodlawn                       1       1                                       2        4
+Total                         22      23        21        23        24        21      134
+Portland Public Schools
+Neighborhood Distribution of Students Attending Kairos PDX (October 2023)
+                               Kairos PDX
+Neighborhood Where the     Grade
+Students Live              KG    01        02        03        04        05        Total
+Abernethy                                                  1                            1
+Ainsworth                      1                 1         1         1                  4
+Alameda                                1                             1                  2
+Arleta                                           1                                      1
+Astor                          1       2         1                   1                  5
+Beach                                  2         2         2                   1        7
+Boise-Eliot/Humboldt           9       6         5         1         6         3       30
+Bridger Creative Science       1       1                             1                  3
+Bridlemile                                                           1                  1
+Buckman                        1       1                   1                            3
+César Chávez                                     1         1                   2        4
+Chief Joseph                   1       1                   2         1         3        8
+Clark                          1                 1                                      2
+Faubion                                2         1         2         2                  7
+Glencoe                                          1                   1         1        3
+Hayhurst                               1                                                1
+Irvington                      1                 1         1                   1        4
+James John                                       1                   1         1        3
+Kelly                                            1                   1                  2
+Lee                            1       1         2         1                   1        6
+Lent                           1                                                        1
+Maplewood                                        1                   1                  2
+Markham                                2         1         1                            4
+MLK Jr                                 1         4         3         2         1       11
+Out of District               11      14        16         8         7         9       65
+Peninsula                      2                 1         1         2         1        7
+Rigler                         1       1         3         2         3         3       13
+Rosa Parks                     2       1         2                             1        6
+Sabin                          2       2                   2         1         1        8
+Scott                                                                1                  1
+Sitton                                           1                                      1
+Sunnyside Environmental                                                        1        1
+Vernon                         4       1         1         2                   2       10
+Vestal                         1                 1                                      2
+Woodlawn                       1       2         4         1         2         3       13
+Woodmere                                                   1                            1
+Woodstock                                                            1                  1
+Total                         42      42        54        34        37        35      244
+ Portland Public Schools
+ Neighborhood Distribution of Students Attending Le Monde (October 2023)
+
+
+                                                 Le Monde
+Neighborhood Where the     Grade
+Students Live              KG     01        02         03        04        05        06        07        08      Total
+Abernethy                       1       3          2         4         4         2                                   16
+Ainsworth                               4          1                   1         1                                     7
+Alameda                                 1          3                   1         2                                     7
+Arleta                         2        2          1         1         1                                               7
+Astor                                                                                                1                 1
+Atkinson                       2        1          3         1         1         2                                   10
+Beach                          1        1                              2         1                                     5
+Beverly Cleary                          1                    1                   2         1         1         2       8
+Boise-Eliot/Humboldt           3        5          1         1         2                                             12
+Bridger Creative Science       1                             1         2                             1         1       6
+Bridlemile                     1                                                 2                                     3
+Buckman                        1        1          1         2                   2                                     7
+Capitol Hill                            1          1         1                   2                                     5
+César Chávez                                                                                                   1       1
+Chapman                        2        1          3         1         4         2                                   13
+Chief Joseph                   4                             1         1         2                                     8
+Clark                          1        2          1         1                                                         5
+Creston                        2        1                                        1                                     4
+Duniway                        1        1          1                             1                                     4
+Faubion                                 2                                        1                   1                 4
+Forest Park                                        1                                                                   1
+George                                                                                     1                   1       2
+Glencoe                        2        3          2                   2                                               9
+Gray                                                                                                 2                 2
+Grout                                              2         1         1         2                                     6
+Harriet Tubman                                                                             3         2         1       6
+Harrison Park                                                                              2         6         3     11
+Hosford                                                                                    6         8         5     19
+Irvington                      5                   5         3         3         1                                   17
+Jackson                                                                                    1         1         3       5
+James John                              1                    2                                                         3
+Kellogg                                                                                              1                 1
+Lane                                                                                                 2                 2
+Laurelhurst                             1          2         1         3         1                                     8
+Lee                                     2                    3                                                         5
+Lent                           1                             2         1                                               4
+Llewellyn                               1                    1                                                         2
+Maplewood                                                    2         3         1                                     6
+Markham                        1        1          1         1                   3                                     7
+Marysville                                         1                   1         2                                     4
+MLK Jr                         1                   2                             2                                     5
+Mt Tabor                                                                                   2         1                 3
+Ockley Green                                                                                         2         5       7
+Out of District                2                   1         4         2         2         7         2         7     27
+Peninsula                      1                   2                                                                   3
+Rieke                                              2                   1                                               3
+Rigler                                                                 1                                               1
+Rosa Parks                     2        1                    1                                                         4
+Rose City Park                          1          1                   1                                               3
+Roseway Heights                                                                            4                   1       5
+Sabin                          2                             1                   1                                     4
+Scott                          2        2          1         3         1         1                                   10
+Sellwood                                                                                   1                   2       3
+Skyline                                                      1                             1                   1       3
+Stephenson                                         1                                                                   1
+Sunnyside Environmental        1        2          1                                                           1       5
+Vernon                         1        2          2                                                                   5
+Vestal                         1                   2         1         2                                               6
+West Sylvan                                                                                4         5         4     13
+Whitman                                                      1                                                         1
+Woodlawn                       1        2          1                                                                   4
+Woodmere                                2                    1                                                         3
+Woodstock                      2                   2         1         1                                               6
+Total                         47       48         50        45        42        39        33        36        38    378
+ Portland Public Schools
+ Neighborhood Distribution of Students Attending Portland Village School (October 2023)
+
+                                     Portland Village School
+Neighborhood Where the    Grade
+Students Live             KG    01        02        03        04        05        06        07        08        Total
+Abernethy                             1                                                                              1
+Ainsworth                                       1                                                                    1
+Alameda                                                   1                   2                                      3
+Astor                          3      2         7         3         4         1         1         1         2       24
+Atkinson                                                            2                                                2
+Beach                          1      1         3         1                   2                                      8
+Beaumont                                                                                4         2         2        8
+Beverly Cleary                                            1                                                          1
+Boise-Eliot/Humboldt           2      2         1         2         3         1                                     11
+Buckman                                                                       1                                      1
+Capitol Hill                   1                                                                                     1
+César Chávez                          2                             1         1         1                            5
+Chapman                               1         1         1                                                          3
+Chief Joseph                   1      3         5         3         2                                               14
+Clark                                 1                                                                              1
+Creston                                                                       1                                      1
+Faubion                        2                2                   2         1         1         3                 11
+Forest Park                    1                1                                                                    2
+George                                                                                 14         7         8       29
+Glencoe                               2                                                                              2
+Gray                                                                                    1         1         1        3
+Grout                          1                                    1                                                2
+Harriet Tubman                                                                          2         1         4        7
+Hayhurst                       1                                                                                     1
+Irvington                             4         1                   1         1                                      7
+Jackson                                                                                 1                            1
+James John                     2      9         1         7         4         4                                     27
+Lane                                                                                              1                  1
+Laurelhurst                                     1                                                           1        2
+Lee                            1                                                                                     1
+Lent                           1                1                                                                    2
+Llewellyn                      1                                                                                     1
+Markham                        1                          1                                                          2
+Marysville                     1                                                                                     1
+MLK Jr                                1                             3         1                                      5
+Ockley Green                                                                           15        16        12       43
+Out of District                6      5         5         4         4        10         5         6                 45
+Peninsula                      4      4         3        10         5         2                                     28
+Rieke                          1                                                                                     1
+Rigler                         1      1         1         3         2         1                                      9
+Rosa Parks                            3         2         2         1         1                                      9
+Rose City Park                 1                2         1                   1                                      5
+Roseway Heights                                                                         2                   3        5
+Sabin                          2      1         1                   3                                                7
+Scott                                 2         1         1                   2                                      6
+Sellwood                                                                                          1                  1
+Sitton                         1      3                   2         1         1                                      8
+Skyline                                                   2                             1         1                  4
+Undetermined                   1                                                                                     1
+Vernon                         3      2         1         3         1         7         1         3         4       25
+Vestal                         1                2                   1                                                4
+West Sylvan                                                                             1                            1
+Whitman                        1                                              1                                      2
+Woodlawn                       2      1         2         5         1         4                                     15
+Total                         44     51        45        53        42        46        50        43        37      411
+ Portland Public Schools
+ Neighborhood Distribution of Students Attending ACCESS (October 2023)
+
+
+                                      ACCESS
+Neighborhood Where the     Grade
+Students Live              02    03        04        05        06        07        08        Total
+Abernethy                              1         3         3                                      7
+Ainsworth                      1                 1         1                                      3
+Alameda                                3         2         4                                      9
+Arleta                                 1                   1                                      2
+Astor                                            1         1         1         1                  4
+Atkinson                                                   2                                      2
+Beach                          1       1                                                          2
+Beaumont                                                             4         2         1        7
+Beverly Cleary                 2       1                                       2         2        7
+Boise-Eliot/Humboldt                   1         1                                                2
+Bridger Creative Science                         1         1         1         1                  4
+Bridlemile                             1         1         1                                      3
+Buckman                        1                 1         1                                      3
+Capitol Hill                           1         2         1                                      4
+Chapman                                                    1                                      1
+Chief Joseph                                     4                                                4
+Clark                                  2                   1                                      3
+Creston                        1       2         1         2                                      6
+Duniway                                          1                                                1
+Faubion                        1       1                             1                   1        4
+Forest Park                            1         1         2                                      4
+George                                                               3         2                  5
+Glencoe                        3       1                   5                                      9
+Gray                                                                 6         5         9       20
+Grout                          1       1         2         1                                      5
+Harriet Tubman                                                       3         5         2       10
+Harrison Park                                                        1         4         3        8
+Hayhurst                               2         1         2                                      5
+Hosford                                                              3         9         2       14
+Irvington                      1       2         1         1                                      5
+Jackson                                                                        5        10       15
+James John                             2                                                          2
+Kellogg                                                                        2         1        3
+Lane                                                                 2                   3        5
+Laurelhurst                    1       3         2         1         2         1         1       11
+Lee                                    1                                                          1
+Lent                                   1         1                                                2
+Lewis                                            1                                                1
+Llewellyn                                                  2                                      2
+Maplewood                      1                 1         1                                      3
+Markham                        1                 1         1                                      3
+Marysville                     1       1         2                                                4
+Mt Tabor                                                             6         2         4       12
+Ockley Green                                                         6         1         2        9
+Out of District                                                      1                            1
+Rieke                          1       1         3         2                                      7
+Rigler                                 1         1                                                2
+Rosa Parks                             2                                                          2
+Rose City Park                         1         3                                                4
+Roseway Heights                                                      4         2         4       10
+Sabin                          3       2         3         6                                     14
+Scott                                  2                   1                                      3
+Sellwood                                                             3         3         5       11
+Sitton                                           1                                                1
+Skyline                                          1                   1                   1        3
+Stephenson                                                 1                                      1
+Sunnyside Environmental                1                             1                            2
+Vernon                                 1         2                             1                  4
+Vestal                                           1         1                                      2
+West Sylvan                                                          7         7         6       20
+Woodlawn                               1                                                          1
+Woodmere                       1                                                                  1
+Woodstock                      1       1         1         1                                      4
+Total                         22      43        48        48        56        55        57      329
+Portland Public Schools
+Neighborhood Distribution of Students Attending Alliance (October 2023)
+                         Alliance
+Neighborhood Where the   Grade
+Students Live            09    10        11        12         Total
+Cleveland                            2         1          5        8
+Franklin                                       7         10       17
+Grant                                2         4          6       12
+Ida B. Wells-Barnett                           3          2        5
+Jefferson / Grant                    1        10         15       26
+Jefferson / McDaniel          1      2         2          7       12
+Jefferson / Roosevelt         1      3         4         15       23
+Lincoln                                        1          8        9
+McDaniel                             8         6         27       41
+Out of District                      2         1          2        5
+Roosevelt                     2      2         5         26       35
+Total                         4     22        44        123      193
+Portland Public Schools
+Neighborhood Distribution of Students Attending Benson (October 2023)
+                         Benson
+Neighborhood Where the   Grade
+Students Live            09     10     11     12     Total
+Cleveland                    65     62     40     21    188
+Franklin                     56     48     38     36    178
+Grant                         5      7      1      2     15
+Ida B. Wells-Barnett          6     12      5      4     27
+Jefferson / Grant            11     12     10      8     41
+Jefferson / McDaniel          7      4      8      7     26
+Jefferson / Roosevelt        33     23     26     20    102
+Lincoln                       5      3      4      6     18
+McDaniel                     23     19     22     42    106
+Out of District              10     22     15     16     63
+Roosevelt                    15     19     12      8     54
+Total                       236    231    181    170    818
+Portland Public Schools
+Neighborhood Distribution of Students Attending Buckman (October 2023)
+                                   Buckman
+Neighborhood Where the     Grade
+Students Live              KG     01        02        03        04        05        Total
+Abernethy                       2                 2         1         2         2        9
+Alameda                                                     1                   1        2
+Arleta                         2        1         1                   2         5       11
+Atkinson                       1                  1         3                            5
+Beach                                   1         1         2         1                  5
+Beverly Cleary                                    1         1                            2
+Boise-Eliot/Humboldt           1        2         1         3         3                 10
+Bridger Creative Science                1                   1         1         2        5
+Buckman                       24       21        24        30        25        25      149
+Capitol Hill                                                                    1        1
+César Chávez                                      1                                      1
+Chapman                                 1                                                1
+Chief Joseph                                                1                   2        3
+Creston                        1        3         2         1         4                 11
+Duniway                                                     1                            1
+Faubion                                                     2                            2
+Glencoe                                 1         1         1         2         3        8
+Grout                          2        2         1         3         3         3       14
+Irvington                                         1                             1        2
+Kelly                                   1         1         1                   1        4
+Laurelhurst                                                                     2        2
+Lee                            1                  2                   1         3        7
+Lent                                    1                             1                  2
+Lewis                                   1         2         1                   1        5
+Llewellyn                      1        1         1         1         1                  5
+Marysville                              2         5                   4                 11
+MLK Jr                                                                1                  1
+Out of District                         1         1         1         1         3        7
+Peninsula                               1                                                1
+Rieke                                                                 1                  1
+Rigler                         1                  2         5                   1        9
+Rosa Parks                              1                                                1
+Rose City Park                 1        1         2                             2        6
+Sabin                                   1                             1                  2
+Scott                          1        2         4         3         2         1       13
+Sunnyside Environmental        1                            2         5                  8
+Vernon                         3                            4         2         4       13
+Vestal                         1        3         2         4         3         2       15
+Whitman                                           2                                      2
+Woodlawn                                1         2         2         3         3       11
+Woodstock                                         1                   1         1        3
+Total                         43       50        64        75        70        69      371
+Portland Public Schools
+Neighborhood Distribution of Students Attending da Vinci (October 2023)
+                           da Vinci
+Neighborhood Where the        Grade
+Students Live                 06     07          08         Total
+Astor                              1                    1        2
+Beaumont                           6         7         14       27
+Beverly Cleary                     1         1          6        8
+Bridger Creative Science           1         2          2        5
+César Chávez                                 1                   1
+Faubion                                4     4          2       10
+George                                 9     8          5       22
+Gray                                   2     2          1        5
+Harriet Tubman                        27    20         18       65
+Harrison Park                         12    11          9       32
+Hosford                               13    17         17       47
+Jackson                                1                3        4
+Kellogg                               10     4          3       17
+Lane                                   9     7          4       20
+Laurelhurst                                  2          2        4
+Mt Tabor                            3       10          9       22
+Ockley Green                       15       14          7       36
+Out of District                     1        1          1        3
+Roseway Heights                    10       10          9       29
+Sellwood                            4        5          6       15
+Sunnyside Environmental             2        4          3        9
+Vernon                              2        6          3       11
+West Sylvan                         4        5          4       13
+Total                             137      141        129      407
+Portland Public Schools
+Neighborhood Distribution of Students Attending Odyssey (October 2023)
+                                              Odyssey
+Neighborhood Where the   Grade
+Students Live            KG    01        02        03        04        05        06        07        08        Total
+Abernethy                                      3                             1                                      4
+Ainsworth                     1                                                                                     1
+Astor                                          1                                                 1                  2
+Boise-Eliot/Humboldt                                     1         1                                                2
+Bridlemile                    6      5         8         6         2         5                                     32
+Buckman                                                            2                                                2
+Capitol Hill                         1         2         1         4                                                8
+Chapman                       1                1         3         1         1                                      7
+Forest Park                                              2                   1                                      3
+Glencoe                                                                      1                                      1
+Gray                                                                                   4         5        10       19
+Grout                         1                                                                                     1
+Harriet Tubman                                                                         1         1                  2
+Harrison Park                                                                                              1        1
+Hayhurst                      4      2         2         6         6         6                                     26
+Hosford                                                                                1                            1
+Jackson                                                                               12        14         6       32
+Lee                                            1                                                                    1
+Maplewood                     4      5         3         3         7         8                                     30
+Markham                       3      5         3                   2         3                                     16
+MLK Jr                                                                       1                                      1
+Mt Tabor                                                                                         1                  1
+Rieke                         2      4         2         3         2                                               13
+Roseway Heights                                                                                            1        1
+Sabin                         1                                                                                     1
+Skyline                                                                                1                            1
+Stephenson                                               1         1         1                                      3
+West Sylvan                                                                            6         3         6       15
+Total                       23      22        26        26        28        28        25        25        24      227
+ Portland Public Schools
+ Neighborhood Distribution of Students Attending Metro. Learning Center (October 2023)
+
+                                                         Metro. Learning Center
+Neighborhood Where the    Grade
+Students Live             KG    01        02        03        04        05        06        07        08        09        10        11        12        Total
+Abernethy                                                 1                                                                                                  1
+Ainsworth                     1       1         1         1                   1                                                                              5
+Alameda                                                                       1                                                                              1
+Arleta                                                    1                                                                                                  1
+Astor                                                                         1                   2         1                                                4
+Atkinson                                                            1                                                                                        1
+Beach                         1       1         1                   3                                                                                        6
+Beaumont                                                                                1         2         1                                                4
+Beverly Cleary                                                                1                             1                                                2
+Boise-Eliot/Humboldt                            2         2                   1                                                                              5
+Bridlemile                                                                    1                                                                              1
+Capitol Hill                                    1                   1         1                                                                              3
+Chapman                       5       1         2         2         6         3                                                                             19
+Chief Joseph                  1       1         4         2         3         1                                                                             12
+Clark                                           1         1                                                                                                  2
+Cleveland                                                                                                             4         3         3         1       11
+Faubion                       1                 1                             1                   2                                                          5
+Franklin                                                                                                              1         2         2         1        6
+George                                                                                  8         6         4                                               18
+Grant                                                                                                                 2         2         1         1        6
+Gray                                                                                    1         1         2                                                4
+Harriet Tubman                                                                          6         6         6                                               18
+Harrison Park                                                                                     1         1                                                2
+Hayhurst                                        1         2         1                                                                                        4
+Hosford                                                                                           2         2                                                4
+Ida B. Wells-Barnett                                                                                                  3         3         2         1        9
+Irvington                             1                   1                                                                                                  2
+Jackson                                                                                 1         1         1                                                3
+James John                            1                   3                   1                                                                              5
+Jefferson / Grant                                                                                                     1         1                   1        3
+Jefferson / McDaniel                                                                                                                      1                  1
+Jefferson / Roosevelt                                                                                                 2         6         2         1       11
+Lane                                                                                              1                                                          1
+Laurelhurst                                                         1         1         2         2                                                          6
+Lee                                                       1                   1                                                                              2
+Lincoln                                                                                                               2         3         3         1        9
+Maplewood                                       1                                                                                                            1
+Markham                                         1                   1                                                                                        2
+McDaniel                                                                                                              2         1                            3
+MLK Jr                                                              2                                                                                        2
+Mt Tabor                                                                                                    2                                                2
+Ockley Green                                                                           11         8         8                                               27
+Out of District                       2         1         1                   1                   1         5                             2         3       16
+Peninsula                             1                   1         1         3                                                                              6
+Rieke                                           1                   1                                                                                        2
+Rigler                                                    1                   1                                                                              2
+Roosevelt                                                                                                                       2         1         1        4
+Roseway Heights                                                                         1                   1                                                2
+Sabin                                 1                                                                                                                      1
+Scott                                           1                                                                                                            1
+Sellwood                                                                                1         1         1                                                3
+Sitton                        1       1         1         1                                                                                                  4
+Stephenson                            2         1         1         3                                                                                        7
+Sunnyside Environmental       1                                                         1                   1                                                3
+Vernon                        2                           1         1         2                   2         1                                                9
+Vestal                                                                        1                                                                              1
+West Sylvan                                                                             5        13        11                                               29
+Whitman                       1       1                                                                                                                      2
+Woodlawn                      1                 2         2         2         2                                                                              9
+Woodstock                                                                     1                                                                              1
+Total                        15      14        23        25        27        26        38        51        49        17        23        17        11      336
+ Portland Public Schools
+ Neighborhood Distribution of Students Attending Richmond (October 2023)
+
+                                Richmond
+Neighborhood Where the     Grade
+Students Live              KG     01        02        03        04        05      Total
+Abernethy                       7       7         9         4         6         3     36
+Ainsworth                                         1                                     1
+Alameda                                 2         2                   3         2       9
+Arleta                         2                  4         2         2         3     13
+Astor                          1                            1                   1       3
+Atkinson                      10        3         7         9         6         4     39
+Beach                          4                  1                                     5
+Beverly Cleary                 1        1         1                                     3
+Boise-Eliot/Humboldt                    1         1                   1         1       4
+Bridger Creative Science       2        1         1         1                           5
+Bridlemile                                                  2                           2
+Buckman                                                               1                 1
+Capitol Hill                                                                    1       1
+César Chávez                   2                                                        2
+Chapman                        2        1         2                   2         1       8
+Chief Joseph                   2        2         1         2         2         2     11
+Clark                          1        1         2         1         2         2       9
+Creston                        8        9         7        10        10         2     46
+Duniway                        2        2         2         1         3               10
+Faubion                                                     2                   2       4
+Forest Park                                                                     1       1
+Glencoe                       10       12         6        15         9        12     64
+Grout                          5        6         5         5         3         7     31
+Hayhurst                                          2         1         1                 4
+Irvington                               3         1                             1       5
+James John                     3                  2                             1       6
+Kelly                          1        2         1         2         3         2     11
+Laurelhurst                    5        2         1         3         5         2     18
+Lee                            2        1         2         3                   1       9
+Lewis                          1        2         1         3         1                 8
+Llewellyn                               1         3                   1         1       6
+Markham                                 1         1                                     2
+Marysville                     2        1         3                             3       9
+MLK Jr                         1                                                        1
+Out of District                5        2         2         5         2         2     18
+Peninsula                                                   1         1         1       3
+Rieke                                   1                             1         1       3
+Rigler                                  1         2                             1       4
+Rosa Parks                     1        1                                               2
+Rose City Park                 2        7         1         3         8         2     23
+Sabin                                                       1                           1
+Scott                          1        1         2         2         2         4     12
+Stephenson                                                  1         1                 2
+Sunnyside Environmental        1        4         3         1         3         3     15
+Vernon                         3        1         1         2         3         5     15
+Vestal                         3        3         3         2         4         1     16
+Whitman                        1        3         4         1         1         3     13
+Woodlawn                       1        3         2                   1         1       8
+Woodmere                       2        2                   2                   4     10
+Woodstock                                         2         2         1                 5
+Total                         94       90        91        90        89        83    537
+ Portland Public Schools
+ Neighborhood Distribution of Students Attending Sunnyside Environmental (October 2023)
+
+                                       Sunnyside Environmental
+Neighborhood Where the     Grade
+Students Live              KG     01         02        03        04        05        06        07        08      Total
+Abernethy                       1        2         3                   2         2                                   10
+Alameda                         1                                                                                      1
+Arleta                                             2         1                                                         3
+Astor                                                                            1                             1       2
+Atkinson                                           1                             2                                     3
+Beaumont                                                                                             1                 1
+Beverly Cleary                                                         1         1                             1       3
+Boise-Eliot/Humboldt                     1                             1                                               2
+Bridger Creative Science                                     1                   1                   5                 7
+Buckman                                  1         1                                                                   2
+Chapman                                                      1                   2                                     3
+Clark                          1                                                                                       1
+Creston                                  1         1         1                   3                                     6
+Faubion                        1                   1                   1                                       1       4
+Glencoe                        1                   5         4         2         1                                   13
+Grout                          1         3                   2                                                         6
+Harriet Tubman                                                                             5         4         1     10
+Harrison Park                                                                              2         1         1       4
+Hayhurst                                                               1                                               1
+Hosford                                                                                    7         8         4     19
+Irvington                                1         1                                                                   2
+Kellogg                                                                                    2         1                 3
+Kelly                                    1         1                             1                                     3
+Lane                                                                                       4         5         1     10
+Laurelhurst                              1         1                                       2         1                 5
+Lee                            1                   1                                                                   2
+Lent                                                                   2         1                                     3
+Lewis                                                        1                                                         1
+Llewellyn                                2                                                                             2
+Marysville                     1         1                                       1                                     3
+MLK Jr                                   1                                                                             1
+Mt Tabor                                                                                   8         4         2     14
+Ockley Green                                                                               1                   1       2
+Out of District                          1         2                   3         3                   1         1     11
+Rigler                                   2         1         1                   1                                     5
+Rosa Parks                                         1                                                                   1
+Rose City Park                 1                             1         1                                               3
+Roseway Heights                                                                            1         2         1       4
+Sabin                          1                                                 1                                     2
+Sellwood                                                                                   1                           1
+Stephenson                                                   1                                                         1
+Sunnyside Environmental       21        26        10        35        23        26        35        25        37    238
+Vernon                                                                 2                             1         1       4
+Vestal                         2         1         1         1                                                         5
+West Sylvan                                                                                          1                 1
+Whitman                        2         1                             1         1                                     5
+Woodlawn                                 1                                                                             1
+Woodmere                       1                   1                   1                                               3
+Woodstock                                3         2         3         1         1                                   10
+Total                         36        50        36        53        42        49        68        60        53    447
+ Portland Public Schools
+ Neighborhood Distribution of Students Attending Winterhaven (October 2023)
+
+                                             Winterhaven
+Neighborhood Where the     Grade
+Students Live              KG     01        02        03        04        05        06        07        08      Total
+Abernethy                       1      2         4         2         2         1                                    12
+Alameda                         1                          1         1         1                                      4
+Arleta                                 1                                                                              1
+Atkinson                       1                           1         1         2                                      5
+Beach                                                      1                                                          1
+Beaumont                                                                                 1         2          2       5
+Beverly Cleary                                                                 1                                      1
+Bridger Creative Science                                   1         1         2                              1       5
+Buckman                                                    1                                                          1
+Capitol Hill                   1                                     1                                                2
+Chapman                        1       1                                       1                                      3
+Chief Joseph                   1                           1                                                          2
+Clark                                                      1                   1                                      2
+Creston                                4         1                   2         1                                      8
+Duniway                        1                 1         4         2                                                8
+Faubion                                1                                                                              1
+George                                                                                             2          1       3
+Glencoe                        2       1         1                   1         1                                      6
+Grout                          9       6         4         2         6         2                                    29
+Harriet Tubman                                                                           1          2         7     10
+Harrison Park                                                                                       6         1       7
+Hosford                                                                                  20        15        18     53
+Irvington                                        2                   1                                                3
+Jackson                                                                                  1                            1
+Kellogg                                                                                  3                    2       5
+Kelly                          1       1                   1         1                                                4
+Lane                                                                                     2         6          5     13
+Laurelhurst                                      1                   1                             1                  3
+Lee                                    1         1                                                                    2
+Lent                           1                                                                                      1
+Lewis                                            2                                                                    2
+Llewellyn                      1       2         1         1                   3                                      8
+Maplewood                      1                                     1                                                2
+Marysville                             1                                                                              1
+MLK Jr                                 1         1                                                                    2
+Mt Tabor                                                                                 1         3          1       5
+Ockley Green                                                                             2         1          2       5
+Out of District                        1         1         1         1         2         3         3          3     15
+Peninsula                      1                 1         1                                                          3
+Rigler                         1                                                                                      1
+Roseway Heights                                                                          3                            3
+Sabin                                  1         1                                                                    2
+Scott                                            2                   1         1                                      4
+Sellwood                                                                                 8         9          7     24
+Sunnyside Environmental                1                   1         1         1                              1       5
+Vernon                                                                                   1         2          1       4
+West Sylvan                                                                              5                            5
+Whitman                        1                            1        1         1                                      4
+Woodlawn                                                    1                                                         1
+Woodmere                       1        1         2         1         1         3                                     9
+Woodstock                               1         2         2         3         2                                   10
+Total                         26       27        28        25        29        26        51        52        52    316
+Portland Public Schools
+Neighborhood Distribution of Students Attending Jefferson (October 2023)
+                         Jefferson
+Neighborhood Where the   Grade
+Students Live            09    10          11         12         Total
+Cleveland                                         1          1        2
+Franklin                               3          2          1        6
+Grant                          1       2                     1        4
+Ida B. Wells-Barnett                              2                   2
+Jefferson / Grant            29       36         33         23      121
+Jefferson / McDaniel         22       20         17         16       75
+Jefferson / Roosevelt        53       54         64         57      228
+Lincoln                                           3                   3
+McDaniel                       6       4          7         14       31
+Out of District                4       1          4          4       13
+Roosevelt                      3       7         12         17       39
+Undetermined                                      1                   1
+Total                       118      127        146        134      525
+

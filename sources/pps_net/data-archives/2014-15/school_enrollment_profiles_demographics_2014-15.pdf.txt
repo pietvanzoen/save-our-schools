@@ -1,0 +1,56 @@
+Portland Public Schools
+October 1, 2014 Enrollment - Summary Comparison
+
+
+             Enrollment by Program Type                        2012      2013       2014   Change
+               Elementary Schools                             26577     27051      27015      -36
+               Middle Schools                                  5365      5559       5680      121
+               High Schools                                   10551     10585      10807      222
+               Selected Focus/Alternative Programs             1739      1699       1716       17
+               Community Based Programs                        1207      1055       1034      -21
+               Special Services                                 457       485        443      -42
+               Public Charter Schools                          1627      1664       1764      100
+               Total Enrollment                               47523     48098      48459      361
+
+
+
+
+             Enrollment by Grade                               2012      2013       2014   Change
+               Pre-Kindergarten                                1006       971        880      -91
+               Kindergarten                                    4277      4244       4127     -117
+               Grade 1                                         4146      4369       4302      -67
+               Grade 2                                         3937      4082       4287      205
+               Grade 3                                         3918      3864       4041      177
+               Grade 4                                         3813      3906       3864      -42
+               Grade 5                                         3660      3775       3865       90
+               Grade 6                                         3467      3547       3594       47
+               Grade 7                                         3336      3407       3428       21
+               Grade 8                                         3217      3349       3349        0
+               Grade 9                                         3065      3057       3137       80
+               Grade 10                                        3111      3055       3090       35
+               Grade 11                                        3090      2990       2946      -44
+               Grade 12                                        3480      3482       3549       67
+               Pre-K - 12 Totals                              47523     48098      48459      361
+
+               K - 12 Totals                                  46517     47127      47579       452
+
+
+
+
+             Enrollment by Ethnicity / Race                    2012      2013      2014    Change
+               Asian                                           8.1%      7.9%      7.8%     -0.2%
+               African American                               11.4%     10.7%     10.3%     -0.4%
+               Hispanic                                       16.1%     16.2%     16.2%      0.0%
+               Native American                                 1.2%      1.1%      0.9%     -0.1%
+               Pacific Islander                                0.9%      0.9%      0.8%     -0.1%
+               White                                          55.6%     55.8%     55.9%      0.1%
+               Multiple Ethnicities Specified                  6.6%      7.4%      8.0%      0.6%
+                                                             100.0%    100.0%    100.0%
+
+             October 2014 Enrollment Summaries are based on enrollment on 10/1/2014 as reported
+             in the Period 1 Cumulative Average Daily Membership State Report.
+
+             Students receiving Special Education services only who are not regularly attending, but
+             are in the student information system (SIS), are excluded from the enrollment
+             summaries.
+

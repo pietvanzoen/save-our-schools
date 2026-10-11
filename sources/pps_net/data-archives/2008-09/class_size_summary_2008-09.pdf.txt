@@ -1,0 +1,74 @@
+PORTLAND PUBLIC SCHOOLS
+Class Size, January 15, 2010
+
+
+
+
+                                                                  Percentile 05
+
+                                                                                  Percentile 25
+
+
+
+
+                                                                                                            Percentile 75
+
+                                                                                                                            Percentile 95
+
+
+                                                                                                                                            Deviation
+                                                                                                                                            Standard
+                                                                                                  Average
+
+
+
+
+                                                                                                                                                        Median
+
+
+                                                                                                                                                                 Count
+Type of School       Whether School Receives Title-I Funding
+
+
+
+                   Not Title-I, F&RPM<40%                         20 23 24.8 27 30                                                            3         25       289
+Elementary K-5
+                   Title-I School-wide Program, F&RPM >40%        16 19 21.8 24 28                                                            4         22       176
+                   Not Title-I, F&RPM<40%                         13 23 25.9 28 39                                                            9         25       252
+Elementary K-8
+                   Title-I School-wide Program, F&RPM >40%        13 19 22.1 25 29                                                            6         22       683
+                   Not Title-I, F&RPM<40%                         16 23 27.3 31 37                                                            8         28       940
+       Middle
+                   Title-I School-wide Program, F&RPM >40%        11 18 23.0 28 33                                                            7         23       381
+                   Not Title-I, F&RPM<40%                         13 22 27.4 33 38                                                            8         28 1976
+       High
+                   Title-I School-wide Program, F&RPM >75%         8              15 20.4 26 33                                               8         21       723
+      PPS
+  Alternatives
+                   Not Title-I                                    11 17 22.0 26 31                                                            7         24       140
+
+                                 Summary by Title-I Status
+                   Not Title-I                                    14 22 26.8 31 38                                                            8         27 3596
+                   Title-I School-wide                            10 18 21.6 26 31                                                            7         22 1963
+
+Summary by Type of School
+Elementary K-5                                                    17 21 23.6 26 29                                                            4         24       465
+Elementary K-8                                                    13 20 23.1 26 31                                                            7         23       935
+Middle                                                            13 21 26.0 30 36                                                            8         27 1321
+High                                                              11 20 25.5 31 38                                                            9         26 2699
+PPS Alternatives                                                  10 17 21.8 26 30                                                            6         23       139
+
+Notes
+ Classes taught by Special Education and ESL teachers are excluded from this calculation. Certain classes with
+ questionable data are also excluded.
+
+Data were extracted from eSIS and HRMS effective January 15, 2010. Student's room assignments were
+matched with teachers, course codes, period of the day.
+
+Title-I is a federally funded program seeking the improvement of the academic achievement of the disadvantaged.
+Portland Public Schools allocates these funds to schools with Free and Reduced Price Meal Eligibility (F&RPM)
+Percent greater than 40% for PK-8 and greater than 75% for High Schools.
+
+Class sizes in this snapshot include courses in addition to core courses. Snapshot as of January 15, 2010. As
+such these class size averages differ from 2008-09 SY class sizes shown on individual school profiles.
+

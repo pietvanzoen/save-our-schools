@@ -1,0 +1,56 @@
+Portland Public Schools
+Enrollment Summary
+
+                     Enrollment by Program Type, October 2007
+
+                 Elementary Schools                          24,404
+                 Middle Schools                               5,665
+                 High Schools                                11,629
+
+                 Selected Focus/Alternative Programs          1,432
+
+                 Community Based Programs                     1,342
+
+                 Special Services                               539
+
+                 Public Charter Schools                       1,077
+
+                 Total Enrollment                            46,088
+
+
+                         Enrollment by Grade, October 2007
+
+                     Pre-Kindergarten                         1,005
+                     Kindergarten                             3,803
+                     Grade 1                                  3,760
+                     Grade 2                                  3,629
+                     Grade 3                                  3,545
+                     Grade 4                                  3,460
+                     Grade 5                                  3,376
+                     Grade 6                                  3,354
+                     Grade 7                                  3,369
+                     Grade 8                                  3,143
+                     Grade 9                                  3,356
+                     Grade 10                                 3,323
+                     Grade 11                                 3,341
+                     Grade 12                                 3,571
+                     Ungraded                                    53
+                                                             46,088
+
+
+                        Enrollment by Ethnicity, October 2007
+
+                 Asian/Pacific Islander                     10.6%
+                 African American                           15.6%
+                 Hispanic                                   13.9%
+                 Native American                             1.8%
+                 White                                      54.9%
+                 Multiple Ethnicities Specified              2.0%
+                 Unspecified/Other                           1.2%
+                                                           100.0%
+
+
+
+                Counts from Student Database (eSIS) Extract. See
+                attached tables for detailed data and definitions
+

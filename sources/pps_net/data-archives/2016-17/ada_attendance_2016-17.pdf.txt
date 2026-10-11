@@ -1,0 +1,146 @@
+Portland Public Schools 2016-17 Average Daily Attendance (ADA) by Program Type, School and Grade
+
+                                                          Average Daily Attendance (ADA) by Program Type, School and Grade                  K-12
+School                              KG      01      02          03         04       05       06      07       08       09    10   11   12   Total
+Abernethy                         94.9%   95.7%   95.7%      94.5%    96.1%    94.3%                                                        95.2%
+Ainsworth                         95.2%   94.8%   95.3%      95.4%    95.7%    95.8%                                                        95.4%
+Alameda                           94.8%   95.3%   95.9%      95.8%    95.5%    96.1%                                                        95.6%
+Arleta                            93.5%   93.6%   94.3%      94.0%    93.4%    93.9%    94.4%    94.3%    89.8%                             93.5%
+Astor                             94.7%   95.3%   94.6%      94.7%    92.9%    94.9%    94.9%    92.8%    93.0%                             94.3%
+Atkinson                          94.7%   94.6%   95.4%      93.7%    95.2%    93.6%                                                        94.5%
+Beach                             94.1%   93.5%   93.9%      94.2%    94.4%    95.4%                                                        94.2%
+Beverly Cleary                    95.4%   96.0%   96.7%      95.1%    96.2%    96.7%    96.2%    95.4%    95.4%                             95.9%
+Boise-Eliot/Humboldt              91.8%   93.5%   92.5%      92.4%    93.0%    94.5%    93.8%    93.7%    92.7%                             93.1%
+Bridger                           94.0%   94.0%   94.9%      95.2%    95.0%    93.7%    94.7%    92.5%    93.9%                             94.3%
+Bridlemile                        95.5%   94.8%   95.1%      95.4%    96.4%    95.7%                                                        95.5%
+Buckman                           92.7%   94.0%   94.4%      94.4%    94.3%    92.1%                                                        93.7%
+Capitol Hill                      94.7%   96.2%   94.6%      95.6%    95.5%    95.2%                                                        95.3%
+César Chávez                      92.0%   92.7%   92.4%      93.3%    93.4%    92.9%    94.1%    91.6%    93.0%                             92.8%
+Chapman                           91.6%   93.1%   94.4%      94.6%    93.3%    93.8%                                                        93.5%
+Chief Joseph                      94.4%   93.0%   93.6%      94.6%    94.2%                                                                 93.9%
+Creative Science                  95.0%   94.9%   95.5%      94.9%    94.9%    95.6%    93.2%    92.9%    94.5%                             94.6%
+Creston                           93.4%   94.7%   95.0%      93.9%    92.7%    92.3%    94.4%    94.1%    93.0%                             93.8%
+Duniway                           94.4%   94.0%   94.9%      93.8%    95.3%    95.3%                                                        94.6%
+Faubion                           92.2%   92.8%   93.1%      94.3%    93.6%    93.4%    93.0%    94.0%    87.1%                             92.8%
+Forest Park                       95.0%   95.6%   96.4%      95.9%    96.9%    95.6%                                                        95.9%
+Glencoe                           95.0%   94.7%   94.8%      94.9%    94.7%    93.5%                                                        94.6%
+Grout                             92.3%   93.3%   94.0%      93.4%    94.0%    93.4%                                                        93.4%
+Harrison Park                     92.7%   94.2%   95.7%      95.3%    95.6%    95.3%    93.2%    93.1%    93.6%                             94.4%
+Hayhurst                          94.8%   95.2%   95.2%      95.1%    95.4%    93.4%    95.2%    94.5%    95.9%                             94.9%
+Irvington                         93.9%   95.8%   95.4%      95.3%    95.6%    93.8%    93.0%    93.5%    94.0%                             94.5%
+James John                        92.8%   93.7%   93.8%      93.5%    93.0%    94.0%                                                        93.4%
+Kelly                             90.5%   91.5%   92.5%      92.5%    93.8%    93.0%                                                        92.3%
+Laurelhurst                       94.8%   94.4%   95.7%      95.7%    95.4%    95.6%    95.5%    94.2%    93.9%                             95.0%
+Lee                               93.9%   94.5%   95.6%      95.0%    95.8%    94.9%    94.7%    96.2%    94.9%                             95.1%
+Lent                              92.4%   94.4%   94.2%      94.2%    93.4%    94.6%    94.8%    92.6%    93.6%                             93.8%
+Lewis                             93.0%   93.9%   93.1%      93.4%    92.8%    94.3%                                                        93.4%
+Llewellyn                         95.4%   95.0%   95.4%      95.6%    95.0%    95.4%                                                        95.3%
+Maplewood                         94.1%   95.1%   93.7%      94.8%    95.6%    95.3%                                                        94.8%
+Markham                           92.9%   94.7%   93.0%      94.4%    94.9%    95.0%                                                        94.1%
+Marysville                        93.4%   91.8%   92.2%      94.0%    91.8%    94.7%    96.2%    95.9%    94.4%                             93.7%
+MLK Jr                            95.2%   95.6%   94.7%      95.8%    95.0%    94.2%    92.1%    94.6%    92.8%                             94.8%
+Peninsula                         93.3%   92.8%   93.0%      93.5%    92.8%    92.2%                                                        93.0%
+Richmond                          96.0%   95.8%   96.3%      96.5%    96.0%    96.6%                                                        96.2%
+Rieke                             95.4%   95.1%   95.4%      94.5%    96.1%    96.2%                                                        95.5%
+Portland Public Schools 2016-17 Average Daily Attendance (ADA) by Program Type, School and Grade
+
+                                                          Average Daily Attendance (ADA) by Program Type, School and Grade                           K-12
+School                              KG      01      02          03         04       05       06      07       08       09       10     11      12    Total
+Rigler                            92.5%   93.1%   93.7%      94.4%    94.8%    94.9%                                                                 93.8%
+Rosa Parks                        92.2%   92.3%   94.4%      94.6%    93.9%    91.5%                                                                 93.3%
+Roseway Heights                   95.6%   95.5%   95.7%      95.9%    96.3%    96.1%    95.0%    94.4%    94.6%                                      95.5%
+Sabin                             94.9%   95.2%   93.9%      93.6%    94.7%    94.1%    95.1%    91.6%    93.2%                                      94.3%
+Scott                             93.3%   92.5%   92.4%      94.6%    95.9%    94.6%    94.6%    93.8%    95.4%                                      94.1%
+Sitton                            90.5%   93.5%   93.0%      92.2%    93.9%    93.9%                                                                 92.8%
+Skyline                           94.2%   95.1%   95.1%      94.8%    94.4%    94.3%    93.0%    94.9%    93.5%                                      94.4%
+Stephenson                        95.8%   95.0%   95.8%      96.0%    96.1%    95.0%                                                                 95.6%
+Sunnyside Environmental           96.0%   95.4%   95.0%      95.3%    95.8%    95.3%    95.5%    93.5%    94.0%                                      95.1%
+Vernon                            94.5%   94.4%   93.4%      95.7%    94.9%    95.3%    95.0%    95.1%    94.6%                                      94.7%
+Vestal                            92.4%   93.7%   93.8%      95.3%    93.0%    93.7%    93.2%    94.3%    92.6%                                      93.6%
+Whitman                           92.5%   93.7%   93.0%      94.6%    92.4%    93.0%                                                                 93.2%
+Winterhaven                       96.2%   94.4%   95.0%      95.8%    94.4%    95.9%    95.4%    94.7%    94.6%                                      95.1%
+Woodlawn                          93.6%   93.5%   92.2%      95.4%    94.2%    92.3%                                                                 93.6%
+Woodmere                          92.0%   93.8%   92.9%      95.6%    94.2%    95.5%                                                                 94.0%
+Woodstock                         95.3%   95.0%   96.1%      96.4%    95.8%    96.1%                                                                 95.8%
+Elementary Schools Total          93.9%   94.3%   94.5%      94.7%    94.8%    94.7%    94.6%    93.9%    93.6%                                      94.4%
+Beaumont                                                                                94.4%    93.9%    91.9%                                      93.4%
+da Vinci                                                                                94.5%    93.8%    93.7%                                      94.0%
+George                                                                                  93.2%    93.0%    91.8%                                      92.7%
+Gray                                                                                    94.7%    94.3%    92.9%                                      93.9%
+Hosford                                                                                 93.9%    94.0%    91.1%                                      93.0%
+Jackson                                                                                 94.4%    94.4%    93.5%                                      94.1%
+Lane                                                                                    93.5%    92.3%    91.8%                                      92.5%
+Mt Tabor                                                                                94.8%    94.4%    93.6%                                      94.3%
+Ockley Green                                                                   93.6%    94.4%    93.1%    92.1%                                      93.4%
+Sellwood                                                                                94.8%    94.6%    93.5%                                      94.3%
+West Sylvan                                                                             95.9%    94.9%    95.1%                                      95.3%
+Middle Schools Total                                                           93.6%    94.5%    94.0%    93.0%                                      93.9%
+Benson                                                                                                             94.0%     92.4%   92.5%   88.5%   92.2%
+Cleveland                                                                                                          94.7%     93.9%   94.0%   93.8%   94.1%
+Franklin                                                                                                           92.9%     92.4%   90.5%   88.6%   91.4%
+Grant                                                                                                              94.9%     94.0%   91.4%   85.6%   91.8%
+Jefferson                                                                                                          92.0%     92.2%   88.7%   87.9%   90.5%
+Lincoln                                                                                                            95.0%     95.2%   92.6%   88.7%   93.0%
+Madison                                                                                                            94.1%     93.1%   92.6%   91.4%   92.9%
+Roosevelt                                                                                                          89.5%     90.0%   84.9%   83.0%   86.8%
+Wilson                                                                                                             94.6%     92.3%   91.0%   84.8%   91.0%
+High Schools Total                                                                                                 93.9%     93.2%   91.3%   88.2%   91.9%
+Portland Public Schools 2016-17 Average Daily Attendance (ADA) by Program Type, School and Grade
+
+                                                                  Average Daily Attendance (ADA) by Program Type, School and Grade                               K-12
+School                                      KG      01      02          03         04       05       06      07       08       09       10       11       12     Total
+ACCESS                                            94.7%   95.8%      95.4%    95.0%    95.4%    94.5%    96.5%    94.1%                                          95.2%
+Alliance                                                                                                                   90.5%      79.7%    79.7%    73.3%    75.9%
+Metro. Learning Center                    96.2%   96.0%   96.3%      96.1%    95.9%    96.3%    94.9%    92.7%    93.8%   100.0%     100.0%   100.0%   100.0%    96.3%
+Portland International Scholars Academy                                                                                    92.6%      95.4%    85.8%             92.7%
+Reconnection Center                                                                                                       100.0%     100.0%   100.0%   100.0%   100.0%
+Virtual Scholars                                                                                        100.0%            100.0%     100.0%   100.0%   100.0%   100.0%
+Focus / Alternative Programs Total        96.2%   95.7%   96.1%      95.6%    95.3%    95.7%    94.7%    94.7%    93.9%    96.6%      91.7%    89.4%    78.6%    91.8%
+Depaul Center
+Mt Scott Park Learning Ctr                                                                                        95.6%    78.3%      80.4%    79.8%    77.6%    79.6%
+NAYA Early College Academy                                                                                                 75.5%      57.5%    67.5%    61.0%    64.1%
+Open School North                                                                               81.4%    84.8%    78.2%                                          81.0%
+PCC
+Rosemary Anderson                                                                                                          90.3%      90.6%    87.1%    86.9%    87.9%
+SE Works                                                                                                                              59.5%    73.3%    87.1%    83.6%
+Youth Builders                                                                                                                                 94.1%    95.9%    95.6%
+Youth Progress Association                                                                                       100.0%   100.0%     100.0%   100.0%   100.0%   100.0%
+Community-Based Programs Total                                                                  81.4%    84.8%    81.5%    82.5%      84.9%    82.7%    84.5%    83.8%
+CTC Humboldt                                                                                                                                            95.2%    95.2%
+CTC Northeast                                                                                                                                          100.0%   100.0%
+CTC Southeast                                                                                                                                          100.0%   100.0%
+DART Programs                             94.0%   95.6%   90.7%      96.7%    94.2%    95.6%    97.6%    95.8%    92.2%    91.0%      87.0%    88.4%    89.4%    91.4%
+Home Instruction
+Outdoor School
+Park Academy                                                                                                              100.0%                        99.0%    99.0%
+PPS Pioneer Programs                      96.5%   93.6%   95.1%      90.0%    92.0%    86.8%    89.1%    90.8%    88.7%    87.3%      86.6%    81.0%    86.4%    89.4%
+Providence Hospital                                                 100.0%   100.0%   100.0%            100.0%                       100.0%            100.0%   100.0%
+Serendipity                                                                            97.0%                                                   88.9%             92.1%
+Special Education Instruction
+Student Success Center                                                                                                    100.0%                       100.0%   100.0%
+Teen Parent Services                                                                                                                 100.0%   100.0%   100.0%   100.0%
+Victory Academy - SPED                                                                                                    100.0%                                100.0%
+Special Services Total                    95.4%   94.2%   94.3%      91.0%    93.7%    91.2%    91.7%    93.3%    90.6%    89.8%     87.0%    86.5%    97.2%     92.5%
+Portland Public Schools 2016-17 Average Daily Attendance (ADA) by Program Type, School and Grade
+
+                                                                                Average Daily Attendance (ADA) by Program Type, School and Grade                                          K-12
+School                                               KG         01         02         03         04       05       06      07       08       09               10         11        12     Total
+Arthur Academy                                    94.8%      93.7%     95.0%       95.1%    94.1%     96.2%                                                                               94.8%
+Cm2 Opal School                                   92.4%      92.2%     94.4%       92.5%    92.4%     93.4%                                                                               92.9%
+Emerson School                                    96.4%      96.3%     96.6%       96.0%    96.4%     95.2%                                                                               96.2%
+Kairos PDX                                        93.1%      94.1%     93.0%       96.0%                                                                                                  93.7%
+Le Monde                                          94.5%      94.2%     94.2%       93.2%    93.1%     93.8%                                                                               93.9%
+Portland Village School                           92.6%      93.0%     93.7%       93.8%    93.8%     93.3%      94.5%     92.8%      90.9%                                               93.2%
+Self Enhancement Inc.                                                                                                      92.1%      92.7%                                               92.5%
+Trillium                                          95.5%      94.9%     97.0%       95.6%    95.5%     93.6%     100.0%     99.8%      99.9%     91.6%     95.0%      90.3%     88.8%      95.5%
+Public Charters Total                             94.2%      94.1%     94.7%       94.4%    94.2%     94.1%      96.7%     95.0%      94.1%     91.6%     95.0%      90.3%     88.8%      94.3%
+Grand Total                                       94.0%      94.3%     94.6%       94.7%    94.8%     94.6%      94.6%     94.0%      93.2%     93.6%     92.8%      90.8%     87.6%      93.5%
+
+ Average Daily Attendance (ADA) rate is calculated by dividing the total days of attendance (all days each student is present) by the total number of student days (membership days) offered by
+ each school to these students over the entire school year.
+
+ Schools/programs showing no ADA submit ADM via instructional hours, therefore ADA is not shown.
+
+ NOTE: The data above is based on the entire school year and may be different than ADA used for NCLB accountability, which is based on students present most of the school year and
+ enrolled on May 1.
+

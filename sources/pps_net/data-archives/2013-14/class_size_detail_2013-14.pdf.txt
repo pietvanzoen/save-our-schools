@@ -1,0 +1,102 @@
+Portland Public Schools
+Class Size Detail, 2013-14
+                                                                                                                  Measures of Central
+                                                                           Grade Level
+                                                                                                                       Tendency
+School Type     School                          KG            1st-3rd      4th-5th       6th-8th      9th-12th   Class Avg Median
+   Elementary (PK/K-5)
+                Abernethy E.S.                       23.3:1       26.1:1       28.7:1                                26.3:1      27.5
+                Ainsworth E.S.                       24.5:1       26.0:1       23.8:1                                24.9:1      25.0
+                Alameda E.S.                         23.5:1       23.4:1       27.1:1                                24.6:1      27.0
+                Arthur Academy Charter               29.0:1       29.0:1       22.3:1                                26.1:1      28.5
+                Atkinson E.S.                        18.8:1       23.1:1       28.8:1                                23.7:1      25.0
+                Bridlemile E.S.                      18.3:1       27.5:1       27.2:1                                25.8:1      25.0
+                Buckman E.S.                         27.3:1       23.3:1       23.3:1                                23.9:1      26.0
+                Capitol Hill E.S.                    23.3:1       22.3:1       31.0:1                                24.6:1      26.5
+                Chapman E.S.                         25.8:1       25.9:1       30.4:1                                27.3:1      27.0
+                Cm2'S Opal School                    16.0:1       20.0:1       22.0:1                                20.0:1      22.0
+                Duniway E.S.                         22.0:1       25.7:1       26.9:1                                25.6:1      26.0
+                Forest Park E.S.                     18.3:1       27.3:1       31.7:1                                27.3:1      27.5
+                Glencoe E.S.                         26.3:1       29.2:1       26.7:1                                27.9:1      28.0
+                Grout E.S.                           19.3:1       24.3:1       25.8:1                                23.3:1      22.0
+                James John E.S.                      22.0:1       24.6:1       23.4:1                                23.8:1      23.0
+                Kelly E.S.                           24.6:1       24.0:1       24.4:1                                24.2:1      24.5
+                Le Monde French Immersion            24.0:1       22.8:1                                             23.2:1      23.5
+                Lewis E.S.                           18.7:1       24.9:1       23.0:1                                23.1:1      25.0
+                Llewellyn E.S.                       25.0:1       24.3:1       24.3:1                                24.3:1      24.0
+                Maplewood E.S.                       19.0:1       27.7:1       27.5:1                                25.6:1      25.0
+                Markham E.S.                         25.3:1       23.0:1       24.0:1                                23.8:1      24.0
+                Richmond E.S.                        28.0:1       26.6:1       24.3:1                                26.0:1      26.5
+                Rieke E.S.                           19.3:1       25.5:1       31.8:1                                25.9:1      26.0
+                Rigler E.S.                          21.3:1       21.2:1       23.7:1                                22.0:1      21.5
+                Rosa Parks E.S.                      22.7:1       20.1:1       17.9:1                                19.2:1      21.5
+                Sitton E.S.                          22.7:1       23.1:1       17.4:1                                21.4:1      21.5
+                Stephenson E.S.                      16.5:1       27.2:1       31.3:1                                27.4:1      29.0
+                The Emerson School                   24.0:1       23.8:1       24.0:1                                23.9:1      24.0
+                Whitman E.S.                         17.0:1       22.9:1       26.4:1                                22.9:1      24.0
+                Woodmere E.S.                        17.3:1       24.4:1       23.8:1                                22.5:1      23.5
+                Woodstock E.S.                       20.1:1       29.0:1       25.7:1                                26.0:1      27.0
+Elementary (PK/K-5) Total                            22.3:1       24.9:1       25.2:1                                24.6:1      25.0
+   Elementary (PK/K-8 and K-12)
+                Access                                            25.7:1       29.0:1        20.6:1                  23.3:1      22.0
+                Arleta K-8                           22.3:1       22.0:1       19.6:1        22.0:1                  21.6:1      22.0
+                Astor K-8                            21.3:1       22.6:1       23.5:1        24.2:1                  23.2:1      25.0
+                Beach PK-8                           22.8:1       23.9:1       24.8:1        23.9:1                  23.9:1      24.0
+                Beverly Cleary K-8                   29.3:1       27.2:1       28.2:1        24.3:1                  26.5:1      25.0
+                Boise-Eliot/Humboldt PK-8            16.8:1       17.9:1       24.0:1        16.5:1                  18.5:1      18.0
+                Bridger K-8                          22.3:1       22.4:1       22.2:1        21.4:1                  22.1:1      23.0
+                Cesar Chavez K-8                     21.3:1       21.6:1       23.2:1        20.6:1                  21.6:1      21.0
+                Chief Joseph/Ockley Green K-8        20.0:1       24.0:1       20.7:1        18.9:1                  20.3:1      20.0
+                Creative Science K-8                 25.0:1       29.5:1       29.3:1        21.3:1                  25.9:1      25.0
+                Creston K-8                          25.5:1       24.0:1       25.7:1        22.6:1                  24.0:1      24.0
+                Faubion PK-8                         27.0:1       28.3:1       22.8:1        21.0:1                  24.0:1      19.5
+                Harrison Park K-8                    18.5:1       24.5:1       25.3:1        26.0:1                  24.4:1      27.0
+                Hayhurst E.S.                        17.0:1       24.0:1       20.0:1                                21.1:1      22.0
+                Irvington K-8                        23.5:1       22.9:1       24.4:1        22.6:1                  23.1:1      23.5
+                King PK-8                            17.0:1       18.1:1       17.8:1        20.3:1                  18.6:1      20.0
+                Laurelhurst K-8                      26.7:1       23.7:1       31.0:1        28.4:1                  27.1:1      29.5
+                Lee K-8                              20.3:1       21.7:1       21.0:1        21.0:1                  21.1:1      22.5
+Portland Public Schools
+Class Size Detail, 2013-14
+                Lent K-8                         27.0:1   23.6:1   21.5:1   21.5:1            22.8:1   23.0
+                Marysville K-8                   22.0:1   25.2:1   25.7:1   20.7:1            23.0:1   23.0
+                Odyssey Program K-8              22.7:1   23.0:1   26.5:1   26.8:1            24.0:1   24.0
+                Peninsula K-8                    15.8:1   20.0:1   20.8:1   17.2:1            18.4:1   18.0
+                Portland Village School          21.0:1   24.5:1   24.3:1   21.0:1            23.6:1   24.0
+                Roseway Heights K-8              20.0:1   23.6:1   24.2:1   24.0:1            23.5:1   24.0
+                Sabin K-8                        23.7:1   27.1:1   28.7:1   27.0:1            26.8:1   27.0
+                Scott K-8                        20.2:1   22.2:1   20.8:1   17.3:1            20.1:1   19.0
+                Skyline K-8                      17.3:1   21.4:1   24.7:1   20.8:1            21.0:1   23.0
+                Sunnyside Environmental K-8      26.0:1   28.4:1   31.8:1   29.8:1            29.3:1   31.0
+                Vernon K-8                       22.7:1   22.6:1   21.3:1   20.6:1            21.6:1   21.0
+                Vestal K-8                       18.3:1   19.0:1   25.0:1   20.2:1            20.3:1   20.0
+                Winterhaven K-8                  24.0:1   28.7:1   29.5:1   30.3:1            29.4:1   31.0
+                Woodlawn PK-8                    22.3:1   24.1:1   20.8:1   17.4:1            20.6:1   19.0
+                Trillium Public Charter K-12     21.0:1   21.4:1   21.3:1                     21.3:1   21.0
+                Metropolitan Learning Ctr K-12   24.0:1   26.0:1   26.0:1   22.7:1   22.3:1   23.5:1   24.0
+Elementary (PK/K-8 and K-12) Total               21.7:1   23.5:1   24.0:1   22.6:1   22.3:1   23.0:1   23.0
+   Middle Schools (6-8)
+                Beaumont M.S.                                               25.0:1            25.0:1   26.0
+                DaVinci Arts M.S.                                           27.2:1            27.2:1   28.0
+                George M.S.                                                 20.3:1            20.3:1   21.0
+                Hosford M.S.                                                25.7:1            25.7:1   26.0
+                Jackson M.S.                                                28.5:1            28.5:1   30.0
+                Lane M.S.                                                   23.8:1            23.8:1   25.0
+                Mt Tabor M.S.                                               28.1:1            28.1:1   28.0
+                Robert Gray M.S.                                            26.8:1            26.8:1   26.0
+                Sellwood M.S.                                               27.7:1            27.7:1   29.0
+                West Sylvan M.S.                                            28.9:1            28.9:1   29.0
+Middle Schools (6-8) Total                                                  26.5:1            26.5:1   27.0
+   High Schools (9-12 and 6-12)
+                Benson Polytechnic H.S.                                              23.2:1   23.2:1   24.0
+                Cleveland H.S.                                                       24.7:1   24.7:1   25.0
+                Franklin H.S.                                                        24.6:1   24.6:1   25.0
+                Grant H.S.                                                           26.1:1   26.1:1   27.0
+                Jefferson H.S.                                                       23.1:1   23.1:1   23.0
+                Lincoln H.S.                                                         25.6:1   25.6:1   26.0
+                Madison H.S.                                                         23.9:1   23.9:1   24.0
+                Roosevelt H.S.                                                       24.9:1   24.9:1   25.0
+                Wilson H.S.                                                          26.0:1   26.0:1   26.0
+High Schools (9-12 and 6-12) Total                                                   24.9:1   24.9:1   25.0
+District Total                                   22.0:1   24.3:1   24.7:1   24.6:1   24.8:1   24.3:1   25.0
+

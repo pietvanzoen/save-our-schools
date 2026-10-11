@@ -1,0 +1,13 @@
+                  2020-21 ACCESS Academy
+                   Lottery Results Summary
+Grade         Slots Applications Accepted Declined Withdrawn   Waitlisted Available
+        1st     12          29        12        2          1          14          0
+        2nd      4          20         4        2          0          14          0
+        3rd     37          45        33        7          5           0          4
+        4th      8          14         7        2          0           5          1
+        5th     16          15        13        2          0           0          3
+        6th     20          18        13        3          2           0          7
+        7th      3          15         3        0          0          12          0
+        8th      3           4         3        0          0           1          0
+Total          103         160        88       18          8          46
+

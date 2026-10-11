@@ -1,0 +1,20 @@
+Portland Public Schools                                                                                         As of 10/15/2018
+Class Size Summary, 2018-19
+                                                    Measures of Central
+                                                                                            Median Class by Grade Level(s)
+                                                        Tendency
+School Type                                         Class Avg     Median          KG        1st-3rd    4th-5th     6th-8th      9th-12th
+Elementary Schools (PK/K-5)                                23.2:1   24.0:1        22.0:1      23.0:1     25.0:1
+Elementary Schools (PK/K-8 and K-12)                       23.1:1   24.0:1        23.0:1      23.0:1     25.0:1       24.0:1       16.0:1
+Middle Schools (6-8)                                       26.6:1   28.0:1                                            28.0:1
+High Schools (9-12 and 6-12)                               25.4:1   27.0:1                                                        27.0:1
+District Total                                             24.9:1   26.0:1         22.0:1     23.0:1      25.0:1      26.0:1      26.0:1
+
+  Notes:
+  ESL and SPED classes are not included, as they are not scheduled consistently.
+  Elementary (PK-5) Specialists classes are not scheduled consistently and are not included (PE,Art,Dance).
+  Teaching assistant and Study halls are not included.
+  Blended grade classes are included in the average and median for the lowest grade (ex. if a school has a 3/4 blend, all the
+  students would be included in the average and median for 1st-3rd grade).
+  Classes with multiple teachers are only counted once.
+

@@ -1,0 +1,202 @@
+​                    Jefferson Is Rising High School Enrollment Scenarios: ​
+​                    Methodology
+​                    October 2025
+
+
+Datasets
+Three datasets serve as the basis for Scenario enrollment estimates:
+
+    1.​ PPS School Boundaries: Every address in the district is assigned to specific schools for grades
+        K-12, with the exception of high school students in the Jefferson Dual Assignment area who have a
+        choice between Jefferson and one of three comprehensive high schools. Elementary school
+        boundaries determine the high school choices:
+
+
+         Elementary                                  HIgh School Dual Assignment Options
+         Neighborhood School         Jefferson         Grant           McDaniel         Roosevelt
+
+         Beach                            ✅                                                   ✅
+         Boise-Eliot/Humboldt             ✅                    ✅
+         Chief Joseph                     ✅                                                   ✅
+         Dr. Martin Luther King Jr        ✅                    ✅
+         Faubion (North)                  ✅                                                   ✅
+         Faubion (South)                  ✅                                  ✅
+         Irvington                        ✅                    ✅
+         Peninsula                        ✅                                                   ✅
+         Sabin                            ✅                    ✅
+         Vernon                           ✅                                  ✅
+         Woodlawn                         ✅                                                   ✅
+        Each scenario assigns each elementary boundary area shown above to one high school. In
+        Scenario E, the current Boise-Eliot/Humboldt neighborhood is divided along Shaver Avenue, the
+        historic boundary line that separated the Boise-Eliot attendance zone from the Humboldt
+        attendance zone.
+
+
+​                                                ​                       ​        ​      ​              1
+​       ​
+    2.​ PPS SIS official student-level files for 2024-25: For this analysis, actual enrollment from October
+        2024 is used as the baseline for comparison.
+
+         Demographic information refers to the percentage and count of students by race, ethnicity,
+         economic status (measured by direct certification of a student’s family in governmental assistance
+         programs) and participation in Special Education (SPED) and Multilingual programs. Students who
+         identify racial as Black or Native American are shown in a combined column, as these two priority
+         groups are highlighted together in a Racial Equity Key Performance Indicator (KPI)
+
+    3.​ PSU Population Research Center projections by attendance area, released in June 2025 for
+        2025-26 through 2029-30
+           a.​ Note: Updated PPS enrollment data for 2025-26 are expected to arrive in December 2025.
+
+Scenario Enrollment Assumptions
+    1.​ In each scenario, implementation begins with 9th graders in the 2027-28 school year and continue
+        as shown:
+
+                                               Grade level subject to proposed enrollment changes
+                   School Year
+                                        9th Grade           10th Grade     11th Grade         12th Grade
+
+                   2027-28                    ✅
+                   2028-29                    ✅                    ✅
+                   2029-30                    ✅                    ✅              ✅
+                   2030-31                    ✅                    ✅              ✅                 ✅
+    2.​ High school enrollment is modeled using PSU forecasts modified in the following ways:
+            a.​ Students are added or subtracted from the forecast based on the scenario assignment
+                plan.
+            b.​ The rate of 9th grade students enrolling at Jefferson HS from each assigned area is
+                modeled at 70%, which is approximate to rates of attendance at Roosevelt and McDaniel
+                high schools, for years 2027-28 and 2028-29. The rate increases to 82% beginning in
+                2029-30 with the opening of the new campus.
+            c.​ Additional transfer students are added to Grant, McDaniel and Roosevelt to account for
+                siblings who are guaranteed transfer if their older brothers or sisters are still attending the
+                requested school.
+
+
+
+
+Jefferson Is Rising HS Enrollment Scenario Methodology - October 2025​        ​       ​        ​              2
+Applying Demographics to Enrollment Estimates
+PSU enrollment projections do not estimate future student demographics. The following steps were taken
+to estimate the potential impact of an enrollment scenario on each high school’s student composition:
+    1.​ Student demographics based upon actual 2024-25 enrollment serves as the baseline for
+        comparison.
+    2.​ Students who live in Jefferson Dual Assignment areas were reallocated, based on the scenario
+        assignment pattern. For example: students who attended Roosevelt and lived in the Woodlawn
+        area were reallocated to Jefferson because the Woodlawn area is assigned to Jefferson in each
+        scenario.
+    3.​ New estimated demographic percentages were generated based upon the student reallocations in
+        each scenario.
+
+
+Calculating Distance to School
+PPS transportation for high school students is provided through a partnership with TriMet and the CIty of
+Portland. A high school Transit Analysis (link) was developed using the following steps:
+    1.​ The online TriMet trip planning tool was used to determine travel time to each school:
+            a.​ Trips were planned for arrival at school by 8:25 am
+            b.​ Travel times include walk time and wait time between connections
+    2.​ Each elementary attendance zone was analyzed from multiple points:
+            a.​ GIS software was used to analyze the home location of current students and determine a
+                central point of student density within each elementary area, with two central points for
+                Faubion. The fastest TriMet travel time from the central point is shown on the Transit
+                Analysis.
+            b.​ At least four additional addresses that were nearer to the boundary edges of each
+                attendance zone were analyzed. The range of TriMet travel times from the edge
+                addresses and the central point are shown on the Transit Analysis.
+            c.​ The Transit Analysis also shows the number of TriMet transfers needed from most routes
+                analyzed in each attendance zone.
+            d.​ Two instances were identified where walk times from one or more points were reported by
+                TriMet as being faster than the lowest transit times in the range:
+                    i.​ Chief Joseph to Jefferson High School
+                   ii.​ Irvington to Grant High School
+            e.​ Two instances were identified where the best TriMet route required students to walk more
+                than two miles:
+                    i.​ Faubion (North) to Jefferson
+                   ii.​ Faubion (South) to Roosevelt
+
+
+Reporting Racial Equity Impact and Key Performance Indicators
+PPS Policy 4.10.045-P includes six factors for consideration to promote school boundary optimization.
+Below is a description of how each factor is included in enrollment scenario analysis:
+
+
+Jefferson Is Rising HS Enrollment Scenario Methodology - October 2025​   ​       ​        ​             3
+ Policy Factor                            Scenario Key Performance Indicators (KPIs)
+
+     A.​ A feeder pattern that            Scenario analysis focuses on the current elementary feeder
+         allows as many students          patterns for Harriet Tubman and Ockley Green middle
+         as possible to continue          schools, and the proportion of those students who would
+         together from one school         have the chance to continue together to a single high
+         level to the next                school. The target goal is 100%: That is, all students
+                                          assigned to either middle school would move on together to
+                                          a single high school. There are ten elementary
+                                          neighborhood or dual language programs in total, so each
+                                          area or program that splits to a different high school lowers
+                                          the KPI score by 10%.
+                                          In every scenario, all Faubion K-8 and Vernon K-8 students
+                                          move together to Jefferson HS.
+
+     B.​ Student body                     The demographic groups highlighted in the scenario KPIs
+         demographics                     are Black and Native American students and Multi-Lingual
+                                          Learners. These categories are consistent with those
+                                          emphasized in the Southeast Guiding Coalition (SEGC)
+                                          enrollment balancing process of 2020-2022 and the District
+                                          Continuous Improvement Plan. Black and Native American
+                                          students are shown together as the percentage of Native
+                                          American students in each high school is below 1% in each
+                                          scenario.
+
+                                          The indicator used is the estimated proportion of all
+                                          students and each highlighted demographic group who
+                                          would be enrolled in a high school with enrollment of at
+                                          least 1100 students, if the scenario had been fully in place
+                                          during the 2024-25 school year.
+
+                                          Baseline example: Of all the Black and Native American
+                                          students enrolled at Jefferson, Grant, McDaniel and
+                                          Roosevelt high schools last year, 72% attended high
+                                          schools with more than 1100 students. The remaining 28%
+                                          of Black and Native American students from the four
+                                          schools attended Jefferson HS, where enrollment was less
+                                          than 1100 students.
+
+                                          Scenario example: Based on actual demographics from
+                                          2024-25 reallocated to follow Scenario A and enrollment
+                                          estimates, 67% of Multi-lingual learners would attend high
+                                          schools with enrollment of at least 1100 students. However,
+                                          33% of Multi-lingual learners would be at Roosevelt HS,
+
+Jefferson Is Rising HS Enrollment Scenario Methodology - October 2025​         ​       ​        ​         4
+                                          where estimated enrollment would be below 1100.
+
+     C.​ Compact boundaries               Because distance and travel time to high schools vary
+         that promote safer routes        greatly across the Jefferson Dual Assignment region, no
+         to schools and a sense of        single indicator is used to determine boundary
+         community as well as             compactness. The transit analysis shows the potential
+         recognize and address            travel burden from each elementary attendance area to the
+         natural and human-made           two high schools with which they currently have choice.
+         barriers
+
+     D.​ Optimal use of existing          In all scenarios, estimated enrollment is expected to be well
+         facilities                       below building capacity in 2030-31, the first year the
+                                          changes will be fully in effect. Estimated school capacity:​
+                                          Jefferson (Modernized): 1773 students
+                                          Grant: 1935 (includes 216 seats at the Hollyrood Annex,
+                                          temporarily available to off-set overcrowding)
+                                          McDaniel: 1735 student
+                                          Roosevelt: 1404 students
+
+     E.​ Program and enrollment           This factor is measured by the estimated enrollment gap
+         stability in the                 between the largest and smallest of the four high schools in
+         surrounding schools              2030-31. The target difference is 350 students, slightly
+                                          above the threshold established during the High School
+                                          System Design process in the early 2010s.
+
+     F.​ Limiting the impact of           Dual Assignment is proposed to end for all students in
+         boundary changes to the          every scenario, so there is no indicator for this policy factor
+         smallest number of
+         students possible
+
+
+
+
+Jefferson Is Rising HS Enrollment Scenario Methodology - October 2025​          ​        ​        ​         5
+

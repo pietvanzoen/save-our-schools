@@ -1,0 +1,65 @@
+                         Actual & Estimated Enrollment
+                         By Year, School and Enrollment Scenario
+
+
+                                 2024-25       2025-26        2026-27        2027-28        2028-29    2029-30    2030-31
+  SCHOOL        SCENARIO
+                                (ACTUAL)        (EST)          (EST)          (EST)          (EST)      (EST)      (EST)
+
+    Grant            A                2149           2059           1970           1788         1568       1386       1231
+
+    Grant            B                2149           2059           1970           1788         1568       1386       1231
+
+    Grant            C                2149           2059           1970           1833         1659       1519       1416
+
+    Grant            D                2149           2059           1970           1833         1659       1519       1416
+
+    Grant            E                2149           2059           1970           1925         1838       1785       1777
+
+ Jefferson           A                 459            391            376            634          918       1222       1536
+
+ Jefferson           B                 459            391            376            593          852       1128       1409
+
+ Jefferson           C                 459            391            376            552          770       1001       1232
+
+ Jefferson           D                 459            391            376            593          834       1097       1361
+
+ Jefferson           E                 459            391            376            487          614        802        959
+
+
+
+
+Estimated enrollment developed by PPS staff based on PSU Population Research Center forecasts
+                         Actual & Estimated Enrollment
+                         By Year, School and Enrollment Scenario
+
+
+                                 2024-25       2025-26        2026-27        2027-28        2028-29    2029-30    2030-31
+  SCHOOL        SCENARIO
+                                (ACTUAL)        (EST)          (EST)          (EST)          (EST)      (EST)      (EST)
+
+  McDaniel           A                1686           1651           1639           1605         1595       1559       1524
+
+  McDaniel           B                1686           1651           1639           1605         1595       1559       1524
+
+  McDaniel           C                1686           1651           1639           1605         1595       1559       1524
+
+  McDaniel           D                1686           1651           1639           1605         1595       1559       1524
+
+  McDaniel           E                1686           1651           1639           1605         1595       1559       1524
+
+ Roosevelt           A                1452           1493           1461           1384         1238       1130       1020
+
+ Roosevelt           B                1452           1493           1461           1429         1309       1229       1153
+
+ Roosevelt           C                1452           1493           1461           1429         1309       1229       1153
+
+ Roosevelt           D                1452           1493           1461           1384         1238       1130       1020
+
+ Roosevelt           E                1452           1493           1461           1429         1309       1229       1153
+
+
+
+
+Estimated enrollment developed by PPS staff based on PSU Population Research Center forecasts
+

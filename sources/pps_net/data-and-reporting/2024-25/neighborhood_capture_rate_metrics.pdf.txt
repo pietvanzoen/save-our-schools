@@ -1,0 +1,113 @@
+Portland Public Schools
+Enrollment Summary, October 2024, by K-12 Students' Neighborhood and Type of School Attended
+                                                                    Type of School Students Attend
+                                            Own
+                                                          Other                       Community-
+                                       Neighborhood
+                                                      Neighborhood PPS Alternative       Based       Special Services   PPS Charter    Total
+                                           School
+                                                         School                        Alternative
+              Students' Neighborhood   (Capture Rate)
+EAbernethy                                 267    68%      8     2%     94     24%                0%       2      1%      24      6%      395
+ Ainsworth                                 403    91%      9     2%     13      3%                0%       1      0%      16      4%      442
+ Alameda                                   454    90%     11     2%     21      4%                0%       2      0%      14      3%      502
+ Arleta                                    195    59%     29     9%     97    29%                 0%       1      0%      11      3%      333
+ Astor                                     326    75%     34     8%     54    13%          1      0%       2      0%      15      3%      432
+ Atkinson                                  206    60%      9     3%    121    35%                 0%              0%      10      3%      346
+ Beach                                     196    67%     40    14%     32    11%                 0%       2      1%      24      8%      294
+ Beverly Cleary                            456    88%     22     4%     31      6%                0%       1      0%       8      2%      518
+ Boise-Eliot/Humboldt                      219    63%     23     7%     48    14%                 0%              0%      57     16%      347
+ Bridger Creative Science                  129    51%     25    10%     88    35%                 0%       1      0%      11      4%      254
+ Bridlemile                                381    83%     10     2%     56     12%                0%              0%      10      2%      457
+ Buckman                                   126    72%     16     9%     17    10%                 0%       1      1%      15      9%      175
+ Capitol Hill                              294    79%     22     6%     32      9%                0%       1      0%      23      6%      372
+ César Chávez                              216    73%     49    17%     19      6%                0%       2      1%       9      3%      295
+ Chapman                                   335    71%     30     6%     73    15%                 0%       3      1%      30      6%      471
+ Chief Joseph                              249    66%     27     7%     75    20%                 0%       2      1%      27      7%      380
+ Clark                                     296    62%     38     8%    114    24%                 0%       3      1%      25      5%      476
+ Creston                                   192    63%     13     4%     92    30%                 0%              0%       6      2%      303
+ Duniway                                   371    86%     20     5%     34      8%                0%              0%       7      2%      432
+ Faubion                                   519    74%     87    12%     68    10%                 0%       4      1%      26      4%      704
+ Forest Park                               298    91%      6     2%     20      6%                0%              0%       4      1%      328
+ Glencoe                                   306    67%     14     3%    113    25%                 0%       2      0%      21      5%      456
+ Grout                                     261    60%     34     8%    111    26%                 0%      10      2%      17      4%      433
+ Hayhurst                                  291    78%     20     5%     57    15%                 0%       1      0%       4      1%      373
+ Irvington                                 202    69%     25     9%     38    13%                 0%       1      0%      26      9%      292
+ James John                                293    73%     49    12%     40    10%                 0%       2      0%      20      5%      404
+ Kelly                                     207    63%     38    12%     71    22%                 0%              0%      10      3%      326
+ Laurelhurst                               610    85%     14     2%     71    10%                 0%      12      2%      12      2%      719
+ Lee                                       212    68%     19     6%     64    21%                 0%       1      0%      15      5%      311
+ Lent                                       71    29%    116    47%     42    17%                 0%              0%      16      7%      245
+ Lewis                                     190    79%      9     4%     36    15%                 0%       2      1%       4      2%      241
+ Llewellyn                                 336    87%      8     2%     37    10%                 0%              0%       7      2%      388
+ Maplewood                                 268    81%     16     5%     37    11%                 0%              0%      11      3%      332
+ Markham                                   326    72%     59    13%     44    10%                 0%       2      0%      21      5%      452
+ Marysville                                187    66%     28    10%     60    21%                 0%       1      0%       9      3%      285
+ MLK Jr                                    116    67%     25    15%      9      5%                0%       1      1%      21     12%      172
+ Peninsula                                 190    64%     44    15%     39    13%                 0%       1      0%      23      8%      297
+ Rieke                                     254    81%      9     3%     40    13%                 0%              0%       9      3%      312
+ Rigler                                    254    53%    145    30%     49    10%                 0%       6      1%      22      5%      476
+ Rosa Parks                                141    54%     41    16%     50    19%                 0%       2      1%      25     10%      259
+ Rose City Park                            286    78%     22     6%     49    13%                 0%       2      1%      10      3%      369
+ Sabin                                     234    69%     28     8%     49    14%                 0%              0%      30      9%      341
+ Scott                                     340    74%     25     5%     70    15%                 0%              0%      25      5%      460
+ Sitton                                    302    78%     42    11%     32      8%                0%              0%      13      3%      389
+ Skyline                                   210    88%      8     3%     12      5%                0%       2      1%       6      3%      238
+ Stephenson                                254    88%     10     3%     20      7%                0%              0%       4      1%      288
+ Sunnyside Environmental                   220    75%     11     4%     53    18%                 0%              0%       9      3%      293
+ Vernon                                    443    68%     61     9%    116    18%          2      0%       2      0%      31      5%      655
+ Vestal                                    199    53%     46    12%    102    27%                 0%       1      0%      30      8%      378
+ Whitman                                   166    41%    144    36%     78    19%                 0%       2      0%      15      4%      405
+ Woodlawn                                  259    64%     46    11%     68    17%                 0%              0%      30      7%      403
+ Woodmere                                  151    55%     58    21%     62    22%                 0%       2      1%       4      1%      277
+ Woodstock                                 198    69%     25     9%     52    18%                 0%              0%      14      5%      289
+Elementary Total                        14,105    71%  1,767     9%  2,970    15%          3      0%      83      0%     886      4%   19,814
+MBeaumont                                  357    66%     92    17%     79    15%          2      0%       1      0%       9      2%      540
+ George                                    375    67%     51     9%    100    18%         11      2%       2      0%      19      3%      558
+ Gray                                      411    82%     18     4%     67    13%                 0%              0%       7      1%      503
+ Harriet Tubman                            279    57%     60    12%    134    27%          1      0%       1      0%      14      3%      489
+ Harrison Park                             273    45%    101    17%    210    35%                 0%       5      1%      12      2%      601
+ Hosford                                   460    61%     67     9%    195    26%          1      0%      11      1%      24      3%      758
+ Jackson                                   695    85%     21     3%     85    10%                 0%       1      0%      12      1%      814
+ Kellogg                                   349    78%     20     4%     77    17%                 0%              0%       3      1%      449
+ Lane                                      361    58%     84    14%    168    27%                 0%       4      1%       5      1%      622
+ Mt Tabor                                  185    68%      6     2%     76    28%                 0%       1      0%       3      1%      271
+ Ockley Green                              363    61%     69    12%    131    22%          1      0%       4      1%      31      5%      599
+ Roseway Heights                           361    71%     30     6%    106    21%          1      0%       3      1%       6      1%      507
+ Sellwood                                  547    86%     12     2%     70    11%                 0%       1      0%       7      1%      637
+ West Sylvan                               582    84%     13     2%     78    11%                 0%       1      0%      22      3%      696
+Portland Public Schools
+Enrollment Summary, October 2024, by K-12 Students' Neighborhood and Type of School Attended
+                                                                                 Type of School Students Attend
+                                                         Own
+                                                                       Other                       Community-
+                                                    Neighborhood
+                                                                   Neighborhood PPS Alternative       Based       Special Services    PPS Charter    Total
+                                                        School
+                                                                      School                        Alternative
+              Students' Neighborhood                (Capture Rate)
+Middle Total                                          5,598    70%    644     8%  1,576    20%         17      0%      35      0%      174      2%    8,044
+HCleveland                                            1,304    71%     81     4%    299    16%         96      5%      47      3%               0%    1,827
+ Franklin                                             1,656    72%    118     5%    328    14%       151       7%      33      1%               0%    2,286
+ Grant                                                1,083    90%     23     2%     52      4%        22      2%      17      1%               0%    1,197
+ Ida B. Wells-Barnett                                 1,593    87%     53     3%    120      7%        51      3%      16      1%               0%    1,833
+ Jefferson                  Jefferson / Grant           114    11%    721    71%    110    11%         57      6%      14      1%               0%    1,016
+                            Jefferson / McDaniel         63    17%    215    57%     72    19%         22      6%       4      1%               0%      376
+                            Jefferson / Roosevelt       204    21%    443    45%    259    26%         71      7%      15      2%               0%      992
+ Jefferson Total                                        381    16%  1,379    58%    441    18%       150       6%      33      1%               0%    2,384
+ Lincoln                                              1,373    92%     31     2%     36      2%        41      3%       7      0%               0%    1,488
+ McDaniel                                             1,284    76%     77     5%    203    12%       101       6%      18      1%               0%    1,683
+ Roosevelt                                              940    77%     46     4%     94      8%      115       9%      25      2%               0%    1,220
+High Total                                            9,614    69%  1,808    13%  1,573    11%       727       5%    196       1%               0%   13,918
+ Out of District                                                0%    689    43%    570    36%         44      3%      41      3%       246    15%    1,590
+Out of District/Undetermined Total                              0%    693    43%    571    36%         47      3%      42      3%       246    15%    1,599
+Grand Total                                          29,317    68%  4,912    11%  6,690    15%       794       2%    356       1%     1,306     3%   43,375
+
+ Notes:
+
+ Neighborhood Capture Rate is the percentage of PPS students in a neighborhood who attend that neighborhood's school.
+
+ Pre-Kindergarten students are not included in the counts.
+
+ Undetermined is student's whose addresses could not be verified as being within PPS boundaries or those of a neighboring District.
+

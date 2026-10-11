@@ -1,0 +1,700 @@
+  PORTLAND PUBLIC SCHOOLS
+   ENROLLMENT FORECASTS
+        2023-24 to 2032-33
+
+
+
+
+Based on October 2022 Enrollments
+
+
+
+
+           JUNE 2023
+  PORTLAND PUBLIC SCHOOLS
+   ENROLLMENT FORECASTS
+         2023-24 TO 2032-33
+
+
+
+Based on October 2022 Enrollments
+
+
+
+
+        Population Research       PRC
+                     Center
+
+
+
+
+                 JUNE 2023
+
+
+
+
+                 Project Staff:
+  Ethan Sharygin, Research Assistant Professor
+  Christina Xi Wei, Graduate Research Assistant
+Abstract
+This report summarizes the methodology and results of a demographic study
+conducted by the Portland State University Population Research Center (PRC) for
+
+Portland Public Schools (PPS). The study includes an analysis of population
+dynamics, housing, and enrollment trends affecting PPS, and detailed annual
+
+enrollment forecasts for the District overall, for students in each of its high school
+clusters (HSCLs), and for students enrolled at each school according to grade, as
+
+of October 1 of each school year.
+
+
+
+Demographic Trends
+Between 2000 and 2010, the PPS area grew at an annualized rate of 0.8%, from
+426,110 persons to 460,694. In the most recent decade, growth accelerated:
+
+between the 2010 and 2020 decennial censuses, the population grew at 1.2% per
+year (to 519,048).
+
+   The share of Portland’s overall city population residing within the PPS boundary
+increased from 77 percent in 2010 to 80 percent in 2020. The PPS area is younger
+
+on average than the rest of the state, with a much higher proportion of persons
+age 20-39 (36%, compared to 27% statewide), and a lower median age (38.6
+compared to 40.1 statewide).
+
+   The birthrate in Portland has declined significantly, and is much lower than the
+rest of the state. Approximately 2.5% of women 15-50 reported a birth in the past
+
+year, compared to 4.6% statewide. The Total Fertility Rate in the city-- an
+approximation of expected total lifetime births-- is fewer than one child per woman
+
+(approximately 0.8), a significant decline from 1.6 in 2000.
+   The Census Bureau counted 253,369 housing units in the PPS zone in 2020, up
+
+from 219,365 in 2010 (an annual rate of growth of 1.4%). Multi-family units have
+accounted for about 85 percent of new homes. Correspondingly, the average
+
+household size has been trending downward for both rented and owner-occupied
+units for at least the past 5 years (2.6 to 2.47 for owner occupied housing, 2.12 to
+
+1.86 for renter occupied). The most rapidly growing segment of households since
+2015 is those with just 1-2 people, and households with 3+ persons did not
+
+increase.
+
+   Household income in the PPS zone ($82,700) is higher than Multnomah overall
+($78,300) and the statewide average ($71,500). New affordable housing projects
+
+within PPS scheduled for occupancy from the 2022-23 school year onward and
+2024 include about 1,367 family-size units of two or more bedrooms. These units
+
+are expected to contribute approximately 689 more students across PPS schools
+than would otherwise have been the case if only market-rate housing was built.
+
+
+
+Enrollment Trends
+In fall 2022, Portland Public Schools (PPS) enrolled 44,799 students in grades K-12,
+
+a decrease of 206 students from fall 2021. This marked a significant recovery from
+the preceding two years, which saw average declines of 1,500 students year-over-
+
+year.
+
+   Most of the 7.5 percent decline over the two-year period between fall 2019 and
+
+fall 2021 was attributable to choices that families made during the COVID-19
+pandemic, either by moving out of the District or by choosing other school options
+
+including private schools, online charter schools, or homeschooling.
+
+   The greatest declines during the COVID-19 pandemic were observed in
+elementary grades, for example much smaller entering kindergarten (K) cohorts
+than expected in 2020-21 and 2021-22, as the share of the population age 4-5 that
+
+is enrolled in a PPS school (“K capture rate”) declined from approximately 80% in
+2019 to 70% in 2020, and stabilized at 71% at the start of the 2021 and 2022 school
+
+years.
+
+   District-wide enrollment in secondary grades had experienced mostly steady
+growth between 2010-2019. The pandemic caused a reversal of the trend for
+
+middle grades; losses in enrollment in 6th-8th grades averaged 400 students per
+year between 2019 and 2021. These were only partly due the pandemic: declines
+
+in elementary enrollment driven by low birthrates and a declining K capture rate
+began to appear as early as 2015.
+
+   High school enrollment continued to increase throughout the pandemic, with
+
+9th-12th grades adding 155 students per year on average. Final enrollment in fall
+2022 of 14,389 students marks the highest enrollment since 2005-06.
+
+   Since the pandemic, the experiences have diverged for individual schools in the
+PPS system. Some have seen a return to pre-pandemic enrollment patterns, and
+
+others have seen a persistently low rate of enrollment from their neighborhoods.
+The district overall capture rate has grown from a nadir of 77.9% in fall 2021 to
+
+79.3% in 2022, but is still far from its recent high of 83% in the 2018-19 school year.
+
+
+
+Enrollment Forecast: Methodology
+The enrollment forecasts are made within the context of an overarching
+demographic forecast of the district, and based on expected shares of the general
+
+population that enroll in a PPS school at a critical juncture such as kindergarten,
+first grade, sixth grade, or ninth grade. Capture rates of PPS residents at these
+grades are predictive of these cohorts’ future attachment to PPS schools. The
+enlargement or attrition of currently enrolled cohorts is determined by application
+
+of grade progression ratios (GPR).
+
+   A similar forecast is produced for each high school cluster (HSCL) by similar
+methods, except that the incoming cohorts are modeled not by capture rate of the
+
+general population of the district, but of the PPS forecast student body at each
+grade level (therefore, capture rates for high school clusters sums to 100%).
+
+   Each individual school has an independent forecast as well, where GPRs are
+
+similarly applied and intake of new students is formulated as a share of the total
+forecast high school cluster enrollment for the cluster to which each school
+
+belongs (or, in the case of special programs that are not part of a HSCL, the share
+of the total districtwide enrollment).
+
+   An additional adjustment is made for the number of additional units in large
+affordable housing developments with 2 or more bedrooms, which have higher
+
+than average children per unit. Because they are not entirely market-driven
+developments, these developments are treated as an exogenous source of
+
+additional students in the schools that are served by the neighborhoods, where the
+number of additional students is estimated based on citywide survey data.
+
+   The forecasts are then compared for internal consistency. Discrepancies
+
+between the districtwide forecast by grade and the forecast for HSCL by grade are
+resolved by adjusting the HSCL forecast, either through adjustments to the GPRs
+
+or to the specific enrollments at each HSCL. In a similar way, the individual school
+forecasts are made consistent with the higher-level forecasts.
+
+   The 2023-24 school year sees a number of significant changes, including
+program moves, attendance boundary changes, facility openings and closures, and
+other changes, including implementation of Southeast Enrollment and Program
+Balancing. These were incorporated into the enrollment forecast based on data
+
+provided by PPS on their timing, geographic scope, and affected populations.
+
+
+
+Enrollment Forecast: Summary of Findings
+The K-12 enrollment of 44,799 students in fall 2023 is 206 students (0.5 percent)
+lower than the fall 2022 total, and nearly 4,000 students below the pre-pandemic
+
+level in 2019-20.
+
+   Enrollment is projected to continue to decline, at a decelerating rate, until
+reaching low point of 39,129 in 2032-33. Thereafter, it begins to recover as the
+
+historically small entering classes from the COVID period age out, and higher
+capture rates in earlier grades provide larger incoming classes. Under this baseline
+
+scenario, the enrollment could recover to 40,020 at the end of a 15-year period, in
+the 2037-38 school year.
+
+   The kindergarten/first grade capture are predictive of an age cohort’s future
+
+attachment to PPS. To maintain enrollment, PPS will need to achieve a higher share
+
+of age-eligible population enrolling in a PPS kindergarten or first grade classroom.
+
+   The K/1 capture rate is currently low (approximately 71% of K and 76% of 1st
+population, down from a high of 86-88% for K and 88-90% for 1st during 2007-
+2013). The K/1 capture rate is expected to recover to 80%/83%, respectively, by
+2030, their last pre-COVID values.
+
+   Although K/1 capture rates are up slightly since the COVID years, the size of
+
+entering K cohorts has not yet recovered: the underlying population age 4-5 that
+forms the pool eligible for enrolling in K has also been in decline. This pressure
+
+toward declining enrollment is due to declining birth rates since 2010, and is not
+expected to reverse in the time horizon of the enrollment forecast. All future
+growth in kindergarten/first enrollment therefore must come from a larger share
+
+of the age eligible population entering PPS in the future.
+
+   In total, PPS kindergartens are expected to enroll 3,113 students in the 2023-
+24 school year, a 39-student decline from 2022-23. Elementary schools overall
+
+decline from 20,192 to 19,901 students. The decline is projected to continue until
+the 2029 school year, when the enrollment will begin to pick up from its low of
+
+18,400.
+
+   Middle schools similarly see declines next year, from 10,218 to 9,971 (-2%). As
+smaller elementary cohorts progress through the middle school grades, enrollment
+
+will continue to decline to a low of just 8,288 students in 2033, before resuming
+growth.
+
+   High schools were resilient during the pandemic and saw increases, even as
+elementary and middle schools saw large declines. High school enrollment is
+
+projected to grow again next year, from 14,389 to 14,416 (+27 or 0.2%). Eventually,
+smaller classes in elementary and middle schools will exert strong downward
+
+pressure on HS class sizes. While some years are likely to see fluctuations higher
+or lower than projected, the overall trend is towards declining HS enrollment
+
+through the 2032 school year, when total HS enrollment will fall to 39,129, before
+beginning a recovery.
+
+
+
+
+Appendix A contains annual district-wide enrollment (high, medium, and low
+scenarios) and affordable housing unit forecasts. Appendix B contains enrollment
+
+forecasts tables by high school cluster and grade group. Appendix C contains
+detailed forecasts of students attending individual schools by grade group and
+program (neighborhood, DLI, or other).
+APPENDIX A.
+Portland Public Schools, Enrollment Forecasts, 2023-24 to 2037-38
+
+Medium Growth Scenario, District-wide Enrollment by Grade and Year
+
+                            ---- Historic Enrollment ----                                                                                      ---- Forecast Enrollment ----
+Grade            2018-19 2019-20 2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31 2031-32 2032-33 2033-34 2034-35 2035-36 2036-37 2037-38
+K                   3,899       3,874       3,245       3,195       3,152      3,113       3,162       3,072       2,946       2,998       3,046       3,096       3,232       3,301        3,347       3,359       3,381       3,432       3,427       3,414
+1                   3,916       3,930       3,696       3,282       3,376      3,235       3,220       3,269       3,168       3,069       3,121       3,179       3,278       3,319        3,394       3,436       3,456       3,478       3,532       3,525
+2                   4,040       3,861       3,738       3,476       3,319      3,296       3,167       3,159       3,215       3,124       3,027       3,078       3,135       3,232        3,272       3,346       3,387       3,407       3,428       3,481
+3                   4,011       3,972       3,646       3,486       3,502      3,318       3,280       3,138       3,117       3,157       3,068       2,973       3,023       3,079        3,174       3,213       3,286       3,326       3,346       3,367
+4                   4,051       3,961       3,747       3,388       3,485      3,486       3,293       3,247       3,100       3,071       3,110       3,023       2,930       2,979        3,034       3,127       3,165       3,237       3,276       3,296
+5                   4,036       3,963       3,764       3,497       3,358      3,453       3,447       3,248       3,195       3,042       3,014       3,052       2,967       2,875        2,924       2,978       3,069       3,106       3,177       3,216
+6                   3,844       3,797       3,614       3,375       3,405      3,261       3,343       3,341       3,143       3,085       2,929       2,904       2,941       2,857        2,767       2,815       2,868       2,957       2,993       3,062
+7                   3,619       3,811       3,665       3,420       3,355      3,388       3,233       3,303       3,290       3,084       3,028       2,875       2,850       2,887        2,804       2,716       2,763       2,815       2,902       2,938
+8                   3,500       3,524       3,738       3,550       3,458      3,322       3,348       3,188       3,251       3,231       3,029       2,975       2,826       2,801        2,838       2,757       2,670       2,717       2,768       2,853
+9                   3,500       3,463       3,442       3,652       3,601      3,442       3,285       3,287       3,110       3,148       3,129       2,933       2,879       2,732        2,708       2,744       2,665       2,580       2,626       2,675
+10                  3,354       3,472       3,473       3,474       3,621      3,583       3,427       3,263       3,263       3,081       3,122       3,102       2,909       2,858        2,716       2,691       2,726       2,648       2,565       2,610
+11                  3,234       3,299       3,439       3,379       3,381      3,599       3,556       3,403       3,236       3,235       3,053       3,096       3,075       2,884        2,835       2,697       2,672       2,707       2,629       2,547
+12                  3,704       3,726       3,730       3,831       3,786      3,792       4,065       4,032       3,892       3,718       3,719       3,504       3,560       3,534        3,316       3,265       3,115       3,084       3,125       3,036
+TOTAL             48,708      48,653      46,937      45,005      44,799      44,288      43,826      42,950       41,926      41,043      40,395      39,790      39,605      39,338      39,129      39,144      39,223      39,494      39,794      40,020
+
+
+K-2               11,855      11,665      10,679        9,953       9,847       9,644       9,549       9,500       9,329       9,191       9,194       9,353       9,645       9,852      10,013      10,141      10,224      10,317      10,387      10,420
+3-5               12,098      11,896      11,157      10,371      10,345      10,257      10,020        9,633       9,412       9,270       9,192       9,048       8,920       8,933       9,132       9,318       9,520       9,669       9,799        9,879
+6-8               10,963      11,132      11,017      10,345      10,218        9,971       9,924       9,832       9,684       9,400       8,986       8,754       8,617       8,545       8,409       8,288       8,301       8,489       8,663        8,853
+9-12              13,792      13,960      14,084      14,336      14,389      14,416      14,333      13,985       13,501      13,182      13,023      12,635      12,423      12,008      11,575      11,397      11,178      11,019      10,945      10,868
+TOTAL             48,708      48,653      46,937      45,005      44,799      44,288      43,826      42,950       41,926      41,043      40,395      39,790      39,605      39,338      39,129      39,144      39,223      39,494      39,794      40,020
+
+
+Sources: Portland Public Schools (historic and current enrollment); Population Research Center, PSU (enrollment forecasts).                                                                                                                 December 2, 2022
+
+Note: The medium scenario reflects long run stabilization of the fertility rate at its current level of approximately 0.8 children per woman (no further decline), and life expectancy to increase from 80 to 82 and 85 to 87 for men and women, spectively.
+Migration recovers and returns to trend (approximately +2,800 per year increasing to +3,700 per year by 2040). Grade progression ratios start in 2023 from the average of the last 2 years' ratios and converge to the pre-COVID 5-year average within 5
+years. The share of the kindergarten age population that enroll in a PPS school increases from its current level (approximately 71%) to the pre-COVID 5-year average by 2030 (81%).
+Portland Public Schools, Enrollment Forecasts, 2023-24 to 2037-38
+
+Low Growth Scenario, District-wide Enrollment by Grade and Year
+
+                           ---- Historic Enrollment ----                                                                                   ---- Forecast Enrollment ----
+Grade           2018-19 2019-20 2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31 2031-32 2032-33 2033-34 2034-35 2035-36 2036-37 2037-38
+K                  3,899       3,874       3,245      3,195       3,152      3,084       3,043       2,872       2,676        2,714     2,748       2,787       2,816       2,871      2,905       2,910       2,922       2,961      2,949       2,930
+1                  3,916       3,930       3,696      3,282       3,376      3,265       3,192       3,150       2,975        2,774     2,813       2,848       2,888       2,918      2,974       3,009       3,015       3,027      3,067       3,055
+2                  4,040       3,861       3,738      3,476       3,319      3,296       3,190       3,119       3,079        2,911     2,715       2,753       2,787       2,826      2,855       2,910       2,944       2,950      2,962       3,001
+3                  4,011       3,972       3,646      3,486       3,502      3,220       3,199       3,097       3,029        2,990     2,828       2,638       2,674       2,707      2,745       2,773       2,827       2,860      2,865       2,877
+4                  4,051       3,961       3,747      3,388       3,485      3,378       3,108       3,090       2,996        2,932     2,895       2,739       2,555       2,590      2,622       2,659       2,686       2,738      2,770       2,774
+5                  4,036       3,963       3,764      3,497       3,358      3,353       3,250       2,989       2,971        2,879     2,818       2,782       2,632       2,455      2,489       2,520       2,555       2,581      2,631       2,662
+6                  3,844       3,797       3,614      3,375       3,405      3,146       3,136       3,047       2,802        2,785     2,692       2,636       2,602       2,459      2,291       2,324       2,353       2,386      2,411       2,458
+7                  3,619       3,811       3,665      3,420       3,355      3,303       3,052       3,043       2,956        2,719     2,703       2,613       2,558       2,525      2,387       2,224       2,256       2,284      2,316       2,340
+8                  3,500       3,524       3,738      3,550       3,458      3,322       3,272       3,024       3,018        2,932     2,697       2,683       2,595       2,539      2,508       2,371       2,209       2,241      2,269       2,300
+9                  3,500       3,463       3,442      3,652       3,601      3,442       3,307       3,255       3,009        3,000     2,915       2,681       2,665       2,574      2,519       2,488       2,350       2,189      2,221       2,249
+10                 3,354       3,472       3,473      3,474       3,621      3,598       3,443       3,302       3,250        3,001     2,995       2,909       2,677       2,663      2,575       2,520       2,489       2,352      2,192       2,224
+11                 3,234       3,299       3,439      3,379       3,381      3,526       3,499       3,351       3,211        3,160     2,917       2,913       2,829       2,604      2,592       2,509       2,455       2,425      2,293       2,138
+12                 3,704       3,726       3,730      3,831       3,786      3,778       3,943       3,902       3,746        3,582     3,528       3,251       3,255       3,159      2,910       2,902       2,818       2,756      2,724       2,578
+TOTAL             48,708     48,653      46,937      45,005      44,799      43,711     42,634      41,241      39,718        38,379    37,264     36,233      35,533      34,890      34,372     34,119      33,879      33,750      33,670      33,586
+
+
+K-2               11,855     11,665      10,679       9,953       9,847       9,645       9,425       9,141      8,730         8,399     8,276       8,388      8,491       8,615       8,734       8,829       8,881      8,938       8,978       8,986
+3-5               12,098     11,896      11,157      10,371      10,345       9,951       9,557       9,176      8,996         8,801     8,541       8,159      7,861       7,752       7,856       7,952       8,068      8,179       8,266       8,313
+6-8               10,963     11,132      11,017      10,345      10,218       9,771       9,460       9,114      8,776         8,436     8,092       7,932      7,755       7,523       7,186       6,919       6,818      6,911       6,996       7,098
+9-12              13,792     13,960      14,084      14,336      14,389      14,344     14,192      13,810      13,216        12,743    12,355     11,754      11,426      11,000      10,596     10,419      10,112       9,722       9,430       9,189
+TOTAL             48,708     48,653      46,937      45,005      44,799      43,711     42,634      41,241      39,718        38,379    37,264     36,233      35,533      34,890      34,372     34,119      33,879      33,750      33,670      33,586
+
+
+Sources: Portland Public Schools (historic and current enrollment); Population Research Center, PSU (enrollment forecasts).                                                                                                            December 2, 2022
+
+Note: The low scenario reflects the same birth rate and life expectancy trends as the medium scenario. Net migration recovers to approximately +1,900 per year (the bottom quartile of net migrants since 2000) and stays constant from 2023 onward.
+GPRs start from the average of the last 2 years, and do not change subsequently. Kindergarten capture rates remain at the most recent observed level (71%).
+Portland Public Schools, Enrollment Forecasts, 2023-24 to 2037-38
+
+High Growth Scenario, District-wide Enrollment by Grade and Year
+
+                           ---- Historic Enrollment ----                                                                                   ---- Forecast Enrollment ----
+Grade           2018-19 2019-20 2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31 2031-32 2032-33 2033-34 2034-35 2035-36 2036-37 2037-38
+K                  3,899       3,874       3,245      3,195       3,152      3,472       3,466       3,315      3,135         3,219     3,298       3,366      3,406       3,485       3,542       3,565      3,597       3,659       3,664       3,662
+1                  3,916       3,930       3,696      3,282       3,376      3,266       3,593       3,586      3,432         3,247     3,333       3,415      3,485       3,526       3,607       3,666      3,689       3,722       3,786       3,791
+2                  4,040       3,861       3,738      3,476       3,319      3,345       3,238       3,562      3,557         3,406     3,223       3,308      3,389       3,459       3,499       3,579      3,638       3,660       3,693       3,756
+3                  4,011       3,972       3,646      3,486       3,502      3,296       3,322       3,217      3,539         3,534     3,384       3,203      3,287       3,368       3,437       3,477      3,556       3,615       3,637       3,669
+4                  4,051       3,961       3,747      3,388       3,485      3,484       3,281       3,309      3,208         3,531     3,526       3,376      3,196       3,280       3,361       3,429      3,469       3,548       3,606       3,628
+5                  4,036       3,963       3,764      3,497       3,358      3,443       3,442       3,240      3,267         3,165     3,485       3,480      3,332       3,154       3,237       3,317      3,384       3,424       3,502       3,559
+6                  3,844       3,797       3,614      3,375       3,405      3,241       3,318       3,326      3,131         3,156     3,050       3,364      3,360       3,214       3,041       3,122      3,200       3,265       3,304       3,380
+7                  3,619       3,811       3,665      3,420       3,355      3,387       3,224       3,301      3,309         3,115     3,140       3,034      3,347       3,343       3,197       3,025      3,106       3,183       3,248       3,287
+8                  3,500       3,524       3,738      3,550       3,458      3,336       3,370       3,209      3,288         3,296     3,103       3,129      3,025       3,335       3,332       3,187      3,016       3,097       3,173       3,238
+9                  3,500       3,463       3,442      3,652       3,601      3,514       3,391       3,423      3,260         3,337     3,347       3,150      3,174       3,065       3,382       3,379      3,230       3,056       3,138       3,216
+10                 3,354       3,472       3,473      3,474       3,621      3,631       3,546       3,416      3,448         3,280     3,360       3,369      3,171       3,197       3,091       3,408      3,405       3,255       3,081       3,163
+11                 3,234       3,299       3,439      3,379       3,381      3,589       3,595       3,513      3,382         3,413     3,245       3,326      3,334       3,139       3,166       3,063      3,376       3,373       3,225       3,053
+12                 3,704       3,726       3,730      3,831       3,786      3,943       4,187       4,184      4,096         3,937     3,975       3,774      3,874       3,881       3,655       3,691      3,579       3,939       3,936       3,765
+TOTAL             48,708     48,653      46,937      45,005      44,799     44,947      44,973      44,601      44,052        43,636   43,469      43,294      43,380     43,446      43,547      43,908      44,245     44,796      44,993      45,167
+
+
+K-2               11,855     11,665      10,679       9,953       9,847     10,083      10,297      10,463      10,124         9,872     9,854     10,089      10,280     10,470      10,648      10,810      10,924     11,041      11,143      11,209
+3-5               12,098     11,896      11,157      10,371      10,345     10,223      10,045       9,766      10,014        10,230   10,395      10,059       9,815       9,802     10,035      10,223      10,409     10,587      10,745      10,856
+6-8               10,963     11,132      11,017      10,345      10,218       9,964       9,912      9,836       9,728         9,567     9,293      9,527       9,732       9,892       9,570      9,334       9,322       9,545       9,725      9,905
+9-12              13,792     13,960      14,084      14,336      14,389     14,677      14,719      14,536      14,186        13,967   13,927      13,619      13,553     13,282      13,294      13,541      13,590     13,623      13,380      13,197
+TOTAL             48,708     48,653      46,937      45,005      44,799     44,947      44,973      44,601      44,052        43,636   43,469      43,294      43,380     43,446      43,547      43,908      44,245     44,796      44,993      45,167
+
+
+Sources: Portland Public Schools (historic and current enrollment); Population Research Center, PSU (enrollment forecasts).                                                                                                           December 2, 2022
+
+Note: The high scenario reflects the same birth rate and life expectancy trends as the medium scenario. Net migration recovers to approximately +6,500 per year (top quartile of net migrants since 2000), and stays constant from 2023 onward. GPRs
+immediately recover to the 90th percentile for each grade specific GPR observed since the year 2000. Kindergarten capture rates follow the same trends are in the medium scenario.
+Affordable Multi-Family Housing Recently Completed or under Development: Portland Public Schools
+
+                                                              Total Affordable 2 Affordable 3+                           Expected
+Elementary Area      Name                                     Units    BR Units      BR Units    April 2023 status     Completion
+Peninsula            Kenton Townhomes                           30           15             15                 Open    Spring 2022
+Chapman              Alta Art Tower                            314             0            14                 Open    Spring 2022
+James John           Cathedral Village                         110           45             11                 Open   Summer 2022
+Astor                Portsmouth Commons                         20           12              0          In Progress      Fall 2023
+Ainsworth            Waterleaf                                 178           32             18                 Open    Winter 2022
+Rigler               Las Adelitas                              142           71             26                 Open      Fall 2022
+Rigler               Hayu Tilixam                               50           11              9                 Open      Fall 2022
+MLK Jr               Alberta Alive                              21           11              8          In Progress      Fall 2023
+Laurelhurst          Anna Mann                                 128           47             15         Partly Open     Spring 2023
+Vernon               Mamook Tokatee                             56             7            10                 Open      Fall 2022
+Rigler               Charlotte Lewis                            12             2            10                 Open    Winter 2022
+Vernon               Isaka Shamsud-Din                          29           11              0                 Open    Winter 2022
+Beach                Minnesota Places                           72           28             28          In Progress    Spring 2024
+Chapman              Tiller Terrace                            214           11              0          In Progress    Spring 2024
+Astor                Tistilal Village                           57           21             11              Planned   Summer 2024
+Vestal               Aldea                                      96           45             18          In Progress   Summer 2024
+Peninsula            Argyle                                    290           90             30              Planned   Summer 2024
+Buckman              Alder 9                                   159           36              6          In Progress      Fall 2024
+Faubion              Dekum Court                               147           70             48          In Progress    Winter 2024
+Grout                3000 SE Powell                            206           59              6          In Progress    Winter 2024
+Beach                5020 N Interstate                          64           23             25          In Progress    Winter 2024
+Boise-Eliot          Albina One                                 94           37             17          In Progress    Spring 2025
+Rigler               PCC Killingsworth                          84           45             15              Planned      Fall 2025
+Markham              Value Inn                                  77           34             16              Planned    Winter 2025
+Laurelhurst          hollywoodHUB                              222           95             32              Planned    Spring 2026
+Rieke                Barbur Apartments                         149           83             16              Planned      Fall 2026
+Boise-Eliot          Strong Property                            75           32             22              Planned    Winter 2026
+Astor                Carey Blvd                                 53           11             22              Planned    Spring 2029
+
+Source: reported by PSU Population Research Center from data published by Portland Housing                            April 21, 2023
+Bureau, Oregon Metro, news items, developer/architect contacts.
+APPENDIX B.
+Enrollment Forecasts, High School Cluster by Grade Group: Portland Public Schools, 2023-24 to 2037-38
+
+                                                                                                                                                                                  15-Year Change
+Cluster &           -- Historic Enrollment --                                                   ---- Forecast Enrollment ----                                                   (2022-23 to 2037-38)
+
+Grade Group         2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31 2031-32 2032-33 2033-34 2034-35 2035-36 2036-37 2037-38              Count       Percent
+Cleveland Cluster
+  K-5                 3,274     3,008   2,948   2,857   2,789   2,723   2,677   2,676   2,736      2,789     2,836    2,885     2,961   3,002   3,040   3,084   3,116   3,134        186         6%
+  6-8                 1,634     1,578   1,524   1,523   1,526   1,506   1,446   1,386   1,281      1,229     1,210    1,241     1,246   1,262   1,284   1,326   1,345   1,368       -156        -10%
+  9-12                1,963     1,958   1,898   1,868   1,825   1,808   1,777   1,769   1,759      1,693     1,636    1,543     1,461   1,446   1,428   1,438   1,475   1,495       -403        -21%
+  Total               6,871     6,544   6,370   6,247   6,141   6,037   5,901   5,831   5,776      5,711     5,682    5,669     5,668   5,711   5,752   5,848   5,936   5,998       -372         -6%
+
+Franklin Cluster
+  K-5                 3,693     3,390   3,372   3,270   3,177   3,094   2,942   2,889   2,855      2,861     2,885    2,925     2,990   3,047   3,098   3,143   3,175   3,193       -179         -5%
+  6-8                 1,868     1,752   1,652   1,668   1,644   1,644   1,656   1,585   1,530      1,411     1,384    1,353     1,329   1,307   1,310   1,341   1,375   1,410       -242        -15%
+  9-12                2,435     2,426   2,434   2,339   2,327   2,274   2,226   2,253   2,200      2,236     2,156    2,076     2,004   1,884   1,845   1,795   1,782   1,769       -665        -27%
+  Total               7,996     7,568   7,458   7,277   7,148   7,012   6,825   6,728   6,586      6,508     6,425    6,354     6,323   6,239   6,252   6,278   6,332   6,373      -1,085       -15%
+
+Grant Cluster
+  K-5                 1,512     1,407   1,384   1,398   1,378   1,370   1,344   1,316   1,286      1,268     1,270    1,284     1,306   1,330   1,350   1,363   1,378   1,387            3       0%
+  6-8                     849    817     816     798     805     766     769     737     749         744      734       702      676     653     655     670     685     699        -117        -14%
+  9-12                1,044     1,168   1,203   1,226   1,247   1,206   1,135   1,119   1,067      1,025     1,008      965      959     938     913     880     854     837        -366        -30%
+  Total               3,405     3,392   3,403   3,422   3,430   3,342   3,248   3,172   3,101      3,038     3,011    2,951     2,940   2,921   2,917   2,913   2,917   2,924       -479        -14%
+
+Jefferson/Grant Cluster
+  K-5                 1,348     1,259   1,231   1,189   1,174   1,136   1,105   1,070   1,090      1,110     1,141    1,169     1,197   1,218   1,237   1,251   1,264   1,271         40         3%
+  6-8                     620    582     537     499     475     495     479     495     448         420      389       396      400     406     415     432     441     453          -84       -16%
+  9-12                    953    981    1,008    991     984     889     832     723     681         684      666       637      595     575     534     545     557     563        -445        -44%
+  Total               2,921     2,822   2,776   2,679   2,632   2,520   2,416   2,288   2,219      2,214     2,196    2,203     2,192   2,199   2,187   2,228   2,262   2,287       -489        -18%
+
+Jefferson/McDaniel Cluster
+  K-5                 1,033      940     693     710     707     736     765     790     813         831      854       864      879     891     903     909     919     925         232        33%
+  6-8                     468    450     328     338     371     365     363     335     336         354      371       392      406     414     416     429     435     442         114        35%
+  9-12                    480    507     384     417     432     467     460     492     498         468      474       443      443     468     491     510     530     541         157        41%
+  Total               1,981     1,897   1,405   1,465   1,510   1,568   1,588   1,617   1,647      1,653     1,700    1,700     1,728   1,772   1,810   1,848   1,884   1,908        503        36%
+Enrollment Forecasts, High School Cluster by Grade Group: Portland Public Schools, 2023-24 to 2037-38
+
+                                                                                                                                                                                                              15-Year Change
+Cluster &                -- Historic Enrollment --                                                                    ---- Forecast Enrollment ----                                                         (2022-23 to 2037-38)
+
+Grade Group             2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31 2031-32 2032-33 2033-34 2034-35 2035-36 2036-37 2037-38                                      Count      Percent
+Jefferson/Roosevelt Cluster
+   K-5                    1,527      1,439     1,672      1,601     1,547     1,469      1,408     1,338     1,291       1,265     1,259    1,265      1,286    1,313    1,336    1,351    1,365    1,372       -300       -18%
+
+   6-8                      661        653       746        742       730       738        688       655        612        594      569       544       516      486      476      486      500      514        -232       -31%
+
+   9-12                     818        797       973        977     1,004     1,010        959       926        900        876      830       793       740      726      690      657      629      603        -370       -38%
+
+   Total                  3,006      2,889     3,391      3,320     3,281     3,217      3,055     2,920     2,804       2,736     2,659    2,602      2,542    2,525    2,501    2,493    2,493    2,489       -902       -27%
+
+Lincoln Cluster
+   K-5                    1,457      1,410     1,610      1,587     1,574     1,497      1,434     1,366     1,319       1,303     1,307    1,316      1,334    1,356    1,376    1,391    1,406    1,414       -196       -12%
+
+   6-8                      811        740       884        869       838       843        840       858        815        774      724       684       662      645      641      651      663      677        -207       -23%
+
+   9-12                   1,281      1,272     1,474      1,418     1,377     1,340      1,299     1,268     1,282       1,247     1,248    1,252      1,183    1,134    1,069    1,019     990      976        -498       -34%
+
+   Total                  3,549      3,422     3,968      3,875     3,789     3,680      3,573     3,491     3,415       3,324     3,280    3,253      3,180    3,135    3,086    3,060    3,059    3,067       -901       -23%
+
+McDaniel Cluster
+   K-5                    2,630      2,426     2,445      2,445     2,431     2,371      2,364     2,367     2,369       2,359     2,376    2,402      2,440    2,475    2,512    2,547    2,573    2,587        142         6%
+
+   6-8                    1,337      1,201     1,208      1,129     1,126     1,144      1,129     1,095     1,027       1,039     1,050    1,053      1,034    1,022    1,020    1,032    1,048    1,072       -136       -11%
+
+   9-12                   1,604      1,586     1,612      1,681     1,611     1,506      1,412     1,326     1,349       1,291     1,285    1,274      1,220    1,231    1,234    1,236    1,223    1,212       -400       -25%
+
+   Total                  5,571      5,213     5,265      5,255     5,168     5,021      4,906     4,788     4,744       4,689     4,711    4,729      4,694    4,728    4,766    4,815    4,844    4,871       -394        -7%
+
+Roosevelt Cluster
+   K-5                    1,732      1,634     1,608      1,578     1,528     1,500      1,466     1,408     1,385       1,373     1,369    1,372      1,392    1,415    1,435    1,451    1,466    1,475       -133        -8%
+
+   6-8                      949        843       837        806       810       756        726       699        675        665      633       619       596      569      559      568      580      591        -246       -29%
+
+   9-12                   1,237      1,229     1,289      1,259     1,261     1,247      1,164     1,151     1,122       1,030     1,020      947       915      909      860      834      810      786        -503       -39%
+
+   Total                  3,918      3,706     3,734      3,643     3,600     3,503      3,356     3,257     3,182       3,067     3,022    2,938      2,904    2,894    2,854    2,853    2,856    2,852       -882       -24%
+
+Ida B. Wells Cluster
+   K-5                    2,965      2,804     2,579      2,590     2,586     2,535      2,502     2,490     2,493       2,490     2,511    2,547      2,604    2,657    2,703    2,741    2,770    2,786        207         8%
+   6-8                    1,576      1,506     1,469      1,406     1,395     1,379      1,380     1,342     1,271       1,259     1,275    1,286      1,266    1,242    1,244    1,274    1,310    1,345       -124        -8%
+   9-12                   1,884      1,945     1,726      1,836     1,867     1,875      1,875     1,827     1,837       1,771     1,752    1,714      1,665    1,661    1,662    1,660    1,646    1,634         -92       -5%
+   Total                  6,425      6,255     5,774      5,833     5,847     5,788      5,757     5,659     5,602       5,519     5,537    5,547      5,534    5,559    5,609    5,676    5,726    5,765          -9       0%
+
+Out of District
+   K-5                      665        607       650        675       678       702        733       752        748        752      755       755       755      755      755      755      755      755         105       16%
+
+   6-8                      244        223       217        192       202       196        207       212        242        266      279       275       279      281      281      281      281      281          64       29%
+
+   9-12                     385        467       388        405       399       362        362       329        330        314      348       363       390      426      452      445      449      451          63       16%
+
+   Total                  1,294      1,297     1,255      1,272     1,279     1,260      1,302     1,293     1,320       1,332     1,382    1,393      1,424    1,462    1,488    1,481    1,485    1,487        232       18%
+
+TOTAL                    46,937    45,005     44,799    44,288     43,826    42,950    41,926     41,043    40,395      39,790   39,605    39,338     39,129   39,144   39,223   39,494   39,794   40,020      -4,779      -11%
+
+
+Sources: Portland Public Schools (historic and current enrollment); Population Research Center, PSU (enrollment forecasts).                                                                                     December 2, 2022
+APPENDIX C.
+Enrollment Forecasts, by Grade Group and School: Portland Public Schools, 2023-24 to 2033-34
+
+                                               -- Historic Enrollment --                          ---- Forecast Enrollment ----
+Name                   Program        Grades   2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31 2031-32 2032-33
+Abernethy              Total          K-5         451      374       353   320    285     262     250       251       261         268   270   276   285
+Ainsworth              Total          K-5         594      553       563   557    554     531     517       511       506         501   508   508   522
+Ainsworth              Neighborhood   K-5         297      281       287   283    281     272     266       267       267         264   266   263   269
+Ainsworth              Spanish        K-5         297      272       276   274    273     259     251       244       239         237   242   245   253
+Alameda                Total          K-5         623      525       538   517    490     478     450       439       431         427   433   439   447
+Arleta                 Total          K-5         485      269       256   241    210     195     169       166       172         169   176   179   182
+Atkinson               Total          K-5         390      342       337   333    339     345     336       336       344         347   349   362   369
+Atkinson               Neighborhood   K-5         246      206       196   193    196     199     195       200       211         214   217   225   228
+Atkinson               Spanish        K-5         144      136       141   140    143     146     141       136       133         133   132   137   141
+Beach                  Total          K-5         382      351       346   339    332     316     301       294       289         276   270   268   275
+Beach                  Neighborhood   K-5         130      127       145   155    156     147     153       158       151         138   134   130   132
+Beach                  Spanish        K-5         252      224       201   184    176     169     148       136       138         138   136   138   143
+Boise-Eliot/Humboldt   Total          K-5         327      321       327   322    317     297     288       294       296         305   315   321   325
+Bridlemile             Total          K-5         437      435       458   467    484     494     499       491       490         482   487   491   499
+Buckman                Total          K-5         446      400       395   383    369     352     334       322       332         336   339   344   350
+Capitol Hill           Total          K-5         346      324       333   346    341     329     330       326       321         319   323   326   336
+Chapman                Total          K-5         375      341       350   339    345     342     343       333       337         334   335   342   345
+Chief Joseph           Total          K-5         305      269       261   250    244     221     213       203       199         193   194   197   200
+Clark                  Total          K-5           0         0        0   377    386     383     376       381       379         367   356   347   354
+Clark                  Neighborhood   K-5           0         0        0   271    269     260     254       254       257         254   256   259   263
+Clark                  Mandarin       K-5           0         0        0   106    117     123     122       127       122         113   100    88    91
+Creston                Total          K-5         385      250       260   255    256     240     223       224       215         214   213   214   223
+Duniway                Total          K-5         468      436       422   395    364     358     349       337       347         354   362   372   390
+Forest Park            Total          K-5         348      333       328   327    323     304     293       295       280         276   274   275   285
+Glencoe                Total          K-5         395      373       394   385    374     355     339       323       301         304   310   318   330
+Grout                  Total          K-5         350      340       316   316    323     332     335       356       358         366   372   377   389
+Hayhurst               Total          K-5         380      351       350   345    341     320     306       300       292         290   291   295   303
+Irvington              Total          K-5         319      248       228   220    218     210     206       203       203         209   217   221   233
+James John             Total          K-5         316      332       337   333    341     328     326       328       320         319   319   323   326
+James John             Neighborhood   K-5         191      208       208   204    197     187     183       183       178         176   177   184   185
+James John             Spanish        K-5         125      124       129   129    144     141     143       145       142         143   142   139   141
+Kelly                  Total          K-5         419      372       356   356    337     319     305       298       295         297   304   304   310
+Kelly                  Neighborhood   K-5         243      238       213   213    210     201     194       191       189         190   194   193   197
+Kelly                  Russian        K-5         176      134       143   143    127     118     111       107       106         107   110   111   113
+Lee                    Total          K-5         262      236       276   279    290     286     275       272       266         266   268   271   277
+Lent                   Total          K-5         476      277       251   314    298     291     267       263       268         261   267   270   274
+Lent                   Neighborhood   K-5         269      151       122     0      0       0       0         0         0           0     0     0     0
+Lent                   Spanish        K-5         207      126       129   314    298     291     267       263       268         261   267   270   274
+Lewis                  Total          K-5         368      337       320   295    266     267     255       252       246         253   260   272   274
+Llewellyn              Total          K-5         460      395       415   424    427     423     429       430       430         437   448   463   477
+Maplewood              Total          K-5         347      291       310   307    299     288     282       280       267         265   267   270   275
+Markham                Total          K-5         416      424       426   432    448     446     435       420       425         425   430   436   444
+Marysville             Total          K-5         402      248       286   406    401     397     387       376       376         385   390   399   402
+MLK Jr                 Total          K-5         319      297       302   300    296     289     274       283       278         282   289   295   306
+MLK Jr                 Neighborhood   K-5         138      128       116   109    104      98      91        93        90          93    93    94    98
+MLK Jr                 Mandarin       K-5         181      169       186   191    192     191     183       190       188         189   196   201   208
+Peninsula              Total          K-5         237      201       225   224    211     215     215       203       196         191   185   183   187
+Richmond               Total          K-5         600      551       539   521    515     504     500       496       503         507   512   509   506
+Rieke                  Total          K-5         329      313       300   284    276     263     247       233       234         236   239   246   254
+Rigler                 Total          K-5         268      237       223   224    220     214     217       213       215         218   221   222   224
+Rigler                 Neighborhood   K-5           0         0        0     0      0       0       0         0         0           0     0     0     0
+Rigler                 Spanish        K-5           0         0        0   224    220     214     217       213       215         218   221   222   224
+Rosa Parks             Total          K-5         266      214       197   183    168     159     147       136       135         139   137   137   139
+Enrollment Forecasts, by Grade Group and School: Portland Public Schools, 2023-24 to 2033-34
+
+                                                   -- Historic Enrollment --                          ---- Forecast Enrollment ----
+Name                       Program        Grades   2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31 2031-32 2032-33
+Rose City Park             Total          K-5         529      464       468   465    457     446     442       439       422         414   420   428   442
+Rose City Park             Neighborhood   K-5         329      285       285   273    270     259     262       261       249         241   245   249   254
+Rose City Park             Vietnamese     K-5         200      179       183   192    187     187     180       178       173         173   175   179   188
+Sabin                      Total          K-5         360      340       312   303    298     289     291       286       299         304   311   317   327
+Scott                      Total          K-5         460      429       453   468    484     466     480       482       479         468   464   469   482
+Scott                      Neighborhood   K-5         234      215       236   243    253     236     249       243       248         238   238   240   245
+Scott                      Spanish        K-5         226      214       217   225    231     230     231       239       231         230   226   229   237
+Sitton                     Total          K-5         337      307       346   369    375     382     380       361       354         349   351   358   365
+Sitton                     Neighborhood   K-5         204      190       226   245    253     260     264       245       240         237   239   246   252
+Sitton                     Spanish        K-5         133      117       120   124    122     122     116       116       114         112   112   112   113
+Stephenson                 Total          K-5         322      320       307   297    280     278     268       268       266         265   268   273   279
+Vestal                     Total          K-5         228      207       232   242    246     245     259       280       284         288   293   295   300
+Whitman                    Total          K-5         185      152       153   149    153     164     176       192       215         217   222   226   235
+Woodlawn                   Total          K-5         315      283       288   282    268     262     245       223       229         225   228   231   234
+Woodmere                   Total          K-5         269      253       235   257    274     282     286       280       285         284   279   281   286
+Woodstock                  Total          K-5         526      479       491   472    445     436     416       385       387         391   401   404   413
+Woodstock                  Neighborhood   K-5         242      224       242   231    217     214     200       177       171         174   178   178   181
+Woodstock                  Mandarin       K-5         284      255       249   241    228     222     216       208       216         217   223   226   232
+Astor                      Total          K-8         394      393       368   371    375     352     360       367       379         384   368   374   379
+Beverly Cleary             Total          K-8         692      657       604   568    544     493     485       448       431         425   424   425   427
+Bridger Creative Science   Total          K-8         964      756       752   561    557     537     514       489       466         454   455   449   452
+Bridger Creative Science   Neighborhood   K-8         645      545       562     0      0       0       0         0         0           0     0     0     0
+Bridger Creative Science   Spanish        K-8         319      211       190     0      0       0       0         0         0           0     0     0     0
+César Chávez               Total          K-8         544      485       467   452    440     435     413       388       377         368   367   361   359
+César Chávez               Neighborhood   K-8         236      176       169   150    145     138     130       115       106          95    89    92    90
+César Chávez               Spanish        K-8         308      309       298   302    295     297     283       273       271         273   278   269   269
+Faubion                    Total          K-8         697      627       615   600    608     609     596       582       580         594   617   624   634
+Laurelhurst                Total          K-8         688      649       674   669    661     640     616       588       549         533   533   532   538
+Odyssey                    Total          K-8         244      219       225   230    227     226     225       225       225         225   225   225   225
+Skyline                    Total          K-8         181      205       215   223    226     233     236       235       236         231   220   217   220
+Sunnyside                  Total          K-8         522      469       465   467    459     444     448       458       479         491   498   490   489
+Vernon                     Total          K-8         569      517       555   554    551     564     569       568       565         581   577   588   594
+Winterhaven                Total          K-8         291      292       313   317    321     322     318       317       316         316   313   316   318
+Beaumont                   Total          6-8         518      467       448   414    417     395     391       383       374         372   362   355   340
+Beaumont                   Neighborhood   6-8         392      344       317   302    303     286     283       270       269         265   259   253   239
+Beaumont                   Spanish        6-8         126      123       131   112    114     109     108       113       105         107   103   102   101
+da Vinci                   Total          6-8         443      415       435   431    427     425     423       419       412         416   414   414   414
+George                     Total          6-8         432      385       387   376    372     355     344       339       329         325   315   307   296
+George                     Neighborhood   6-8         396      315       268   256    257     244     231       221       210         205   191   188   180
+George                     Spanish        6-8          36        70      119   120    115     111     113       118       119         120   124   119   116
+Gray                       Total          6-8         509      478       483   454    441     429     428       416       385         381   382   388   380
+Harriet Tubman             Total          6-8         443      388       361   327    320     342     334       342       311         289   270   271   272
+Harriet Tubman             Neighborhood   6-8         417      353       332   294    285     305     297       306       276         260   242   243   245
+Harriet Tubman             Mandarin       6-8          26        35       29    33     35      37      37        36        35          29    28    28    27
+Harrison Park              Total          6-8         601      529       575   345    410     480     478       450       431         434   459   459   442
+Harrison Park              Neighborhood   6-8         517      457       474   243    290     350     354       340       324         319   324   318   316
+Harrison Park              Mandarin       6-8          84       72       101   102    120     130     124       110       107         115   135   141   126
+Hosford                    Total          6-8         676      629       566   483    489     487     471       450       417         391   386   392   392
+Hosford                    Mandarin       6-8         139      116        96     0      0       0       0         0         0           0     0     0     0
+Hosford                    Neighborhood   6-8         537      513       470     0      0       0       0         0         0           0     0     0     0
+Jackson                    Total          6-8         803      752       793   734    711     684     684       663       617         614   617   624   613
+Enrollment Forecasts, by Grade Group and School: Portland Public Schools, 2023-24 to 2033-34
+
+                                                 -- Historic Enrollment --                            ---- Forecast Enrollment ----
+Name                     Program        Grades   2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31 2031-32 2032-33
+Kellogg                  Total          6-8           0      684       661    696     649     613     610       588       581         549    529     518     516
+Kellogg                  Neighborhood   6-8           0      533       502    466     408     376     375       358       352         333    317     313     310
+Kellogg                  Spanish        6-8           0      151       159    230     241     237     235       230       229         216    212     205     206
+Lane                     Total          6-8         416      363       336    390     447     476     474       444       425         386    380     373     376
+Lane                     Neighborhood   6-8         367      322       302    359     415     441     434       405       389         356    348     343     345
+Lane                     Russian        6-8          49        41       34     31      32      35      40        39        36          30     32      30      31
+Mt Tabor                 Total          6-8         721      645       607    509     475     444     447       424       405         374    367     363     354
+Mt Tabor                 Neighborhood   6-8         369      327       302    263     233     206     208       198       189         171    168     166     162
+Mt Tabor                 Japanese       6-8         274      249       240    246     242     238     239       226       216         203    199     197     192
+Mt Tabor                 Spanish        6-8          78        69       65      0       0       0       0         0         0           0      0       0       0
+Ockley Green             Total          6-8         487      485       483    474     451     474     452       432       401         379    363     350     330
+Ockley Green             Neighborhood   6-8         376      381       384    383     367     394     369       351       329         314    301     287     271
+Ockley Green             Spanish        6-8         111      104        99     91      84      80      83        81        72          65     62      63      59
+Roseway Heights          Total          6-8         617      589       583    536     512     515     517       502       465         476    476     476     462
+Roseway Heights          Neighborhood   6-8         509      483       471    420     392     381     378       364       330         337    338     339     329
+Roseway Heights          Vietnamese     6-8          15         0       38     34      34      33      38        42        42          42     38      39      38
+Roseway Heights          Spanish        6-8          93      106        74     82      86     101     101        96        93          97    100      98      95
+Sellwood                 Total          6-8         549      553       563    561     540     539     518       489       457         437    430     436     439
+West Sylvan              Total          6-8         802      727       759    743     746     755     744       747       694         664    622     586     567
+West Sylvan              Neighborhood   6-8         655      599       626    617     619     622     619       622       578         547    510     480     464
+West Sylvan              Spanish        6-8         147      128       133    126     127     133     125       125       116         117    112     106     103
+Benson Polytechnic       Total          9-12       1,005     895       827    804     802     813     806       802       792         774    770     759     778
+Cleveland                Total          9-12       1,581    1,623    1,547   1,555   1,487   1,455   1,435    1,415     1,416     1,353     1,308   1,238   1,159
+Cleveland                Neighborhood   9-12       1,457    1,493    1,415   1,406   1,341   1,312   1,296    1,284     1,282     1,227     1,186   1,123   1,057
+Cleveland                Mandarin       9-12        124      130       132    149     146     143     139       131       134         126    122     115     102
+Franklin                 Total          9-12       2,010    2,014    1,968   1,853   1,814   1,716   1,697    1,716     1,698     1,719     1,650   1,563   1,513
+Franklin                 Neighborhood   9-12       1,836    1,835    1,788   1,684   1,633   1,534   1,518    1,531     1,512     1,528     1,463   1,380   1,324
+Franklin                 Spanish        9-12        135      139       140    135     147     152     148       152       152         152    147     146     154
+Franklin                 Russian        9-12         39        40       40     34      34      30      31        33        34          39     40      37      35
+Grant                    Total          9-12       1,965    2,126    2,159   2,181   2,176   2,076   1,939    1,896     1,804     1,718     1,692   1,627   1,607
+Grant                    Neighborhood   9-12       1,701    1,849    1,873   1,883   1,891   1,804   1,686    1,646     1,566     1,491     1,465   1,411   1,394
+Grant                    Japanese       9-12        264      277       286    298     285     272     253       250       238         227    227     216     213
+Ida B Wells-Barnett      Total          9-12       1,540    1,597    1,558   1,653   1,656   1,620   1,607    1,548     1,561     1,513     1,494   1,443   1,404
+Jefferson                Total          9-12        620      588       607    627     623     601     619       594       585         564    537     513     486
+Jefferson                Neighborhood   9-12        620      588       595    598     585     553     568       545       534         509    487     464     440
+Jefferson                Mandarin       9-12          0         0       12     29      38      48      51        49        51         55      50      49      46
+Lincoln                  Total          9-12       1,481    1,462    1,528   1,551   1,533   1,520   1,466    1,400     1,402     1,350     1,354   1,348   1,273
+Lincoln                  Neighborhood   9-12       1,318    1,284    1,342   1,358   1,346   1,351   1,295    1,236     1,239     1,193     1,198   1,196   1,130
+Lincoln                  Spanish        9-12        163      178       186    193     187     169     171       164       163         157    156     152     143
+McDaniel                 Total          9-12       1,173    1,369    1,443   1,609   1,596   1,511   1,418    1,330     1,351     1,301     1,289   1,278   1,240
+McDaniel                 Neighborhood   9-12       1,086    1,199    1,228   1,344   1,302   1,225   1,135    1,052     1,059     1,022     1,003    990     950
+McDaniel                 Spanish        9-12         87      130       161    207     229     213     193       183       190         178    183     182     178
+McDaniel                 Mandarin       9-12          0         0        0      0       0       5      14        22        31          32     25      29      32
+McDaniel                 Vietnamese     9-12          0         0        0     13      26      39      47        45        43         44      53      51      55
+McDaniel                 PISA           9-12          0        40       54     45      39      29      29        28        28          25     25      26      25
+Roosevelt                Total          9-12       1,292    1,376    1,488   1,461   1,453   1,486   1,392    1,359     1,323     1,227     1,213   1,175   1,127
+Roosevelt                Neighborhood   9-12       1,074    1,137    1,208   1,190   1,172   1,157   1,073    1,043       996         927    922     862     829
+Roosevelt                Spanish        9-12        218      200       226    233     250     303     296       293       305         279    271     293     279
+Roosevelt                PISA           9-12          0        39       54     38      31      26      23        23        22          21     20      20      19
+ACCESS                   Total          1-8         318      314       317    356     359     359     359       359       359         359    359     359     359
+MLC                      Total          K-12        377      341       348    373     379     376     381       378       377         377    375     379     376
+OLA                      Total          K-12          0      592       225      0       0       0       0         0         0           0      0       0       0
+Other (incl. Charters)   Total          K-12       2,950    2,556    2,628   2,560   2,604   2,546   2,451    2,429     2,393     2,423     2,428   2,389   2,299
+Enrollment Forecasts, by Grade Group and School: Portland Public Schools, 2023-24 to 2033-34
+
+                                                                  -- Historic Enrollment --                                                ---- Forecast Enrollment ----
+Name                            Program              Grades      2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31 2031-32 2032-33
+Elementary and K-8 Subtotal                                       22,608      20,063      20,116     20,232       19,937    19,458      19,041     18,729        18,630   18,625   18,764   18,955   19,315
+Middle Schools Subtotal                                             8,017      8,089       8,040       7,473       7,407      7,413      7,315       7,088        6,704    6,487    6,372    6,312    6,193
+High Schools Subtotal                                             12,667      13,050      13,125     13,294       13,140    12,798      12,379     12,060        11,932   11,519   11,307   10,944   10,587
+Other (K-12 and 1-8)                                                3,645      3,803       3,518       3,289       3,342      3,281      3,191       3,166        3,129    3,159    3,162    3,127    3,034
+TOTAL                                                             46,937      45,005      44,799     44,288       43,826    42,950      41,926     41,043        40,395   39,790   39,605   39,338   39,129
+
+
+Sources: Portland Public Schools (historic and current enrollment); Population Research Center, PSU (enrollment forecasts).                                                                    April 21, 2023
+
+
+Notes:
+(A) Odyssey K5 grades are co-located at Hayhust; reported Hayhurst enrollment excludes Odyssey students.
+(B) Richmond ES Japanese DLI coded as "Total" only, due to the absence of a neighborhood attendance area.
+(C) Enrollment forecast reflects boundary changes approved through Resolution 6513 (May 24 2022) and program changes noted below.
+(D) Assumption of DLI feeder students only (unknown future transfers) for entry cohorts to the following programs: McDaniel Chinese DLI, Jefferson Chinese DLI, McDaniel Vietnamese DLI.
+(E) Zeroes shown for new, pending, or recently closed programs without enrollment.
+(F) Program names reflect expectations for start of 2023-24 school year; historical enrollment reallocated to current planned program location where possible.
+Program relocations implemented for 2023-24:
+(1) Harrison Park K5 programs relocated to Clark ES; Clark ES added to McDaniel cluster
+(2) Creative Science school relocated to Bridger K-8; CSS no longer tracked as a separate special option school
+(3) Bridger Spanish DLI (grades K-5) moved to Lent ES
+(4) Mt Tabor Spanish DLI (grades 6-8) moved to Kellogg MS
+(5) Hosford Chinese DLI (grades 6-8) moved to Harrison Park MS
+(6) Lent neighborhood program moved to Marysville
+

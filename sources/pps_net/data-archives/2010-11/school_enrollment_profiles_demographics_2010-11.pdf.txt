@@ -1,0 +1,57 @@
+                   Portland Public Schools
+
+       Enrollment by Program Type, October 2010
+
+                                                 2009     2010   Change
+Elementary Schools                              25629    25874      245
+Middle Schools                                   5211     5142      -69
+High Schools                                    11034    10978      -56
+
+Selected Focus/Alternative Programs             1642      1661       19
+
+Community Based Programs                        1206      1275       69
+
+Special Services                                 500       387     -113
+
+Public Charter Schools                          1374      1486      112
+
+Total Enrollment                                46596    46803      207
+
+
+            Enrollment by Grade, October 2010
+
+                                                 2009     2010   Change
+Pre-Kindergarten                                 1004     1062       58
+Kindergarten                                     4073     3995      -78
+Grade 1                                          4007     4091       84
+Grade 2                                          3782     3894      112
+Grade 3                                          3730     3727       -3
+Grade 4                                          3542     3682      140
+Grade 5                                          3496     3479      -17
+Grade 6                                          3318     3354       36
+Grade 7                                          3254     3299       45
+Grade 8                                          3253     3192      -61
+Grade 9                                          3349     3176     -173
+Grade 10                                         3121     3339      218
+Grade 11                                         3165     3026     -139
+Grade 12                                         3502     3487      -15
+                                                46596    46803      207
+
+
+      Enrollment by Ethnicity / Race, October 2010
+
+                                              2009        2010   Change
+Asian / Pacific Islander                      9.8%        9.1%    -0.7%
+African American                             13.6%       12.9%    -0.7%
+Hispanic                                     15.4%       15.8%     0.4%
+Native American                               1.5%        1.4%    -0.1%
+White                                        54.2%       55.6%     1.5%
+Multiple Ethnicities Specified                3.3%        5.3%     1.9%
+Unspecified/Other                             2.2%        0.0%    -2.2%
+                                            100.0%      100.0%
+
+
+Counts from Student Database (eSIS) Extract.
+See attached tables for detailed definitions.
+Updated January 21, 2011
+

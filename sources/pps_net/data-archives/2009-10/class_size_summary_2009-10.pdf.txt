@@ -1,0 +1,71 @@
+       Portland Public Schools
+       Class Size Summary, January 15, 2011
+
+
+
+
+                                                                                                                    Standard Deviation
+                                    Percentile 05
+
+                                                    Percentile 25
+
+
+
+
+                                                                               Percentile 75
+
+
+                                                                                               Percentile 95
+Type of School Title 1 Status
+
+
+
+
+                                                                     Average
+
+
+
+
+                                                                                                                                         Median
+Elementary K-5     Not Title 1          18              23          25.2        28.0                           31                3.9              26
+                   Title 1              18              21          23.6        25.0                           29                3.5              24
+Elementary K-8     Not Title 1          17              22          25.7        29.0                           35                7.4              26
+                   Title 1              11              19          21.9        26.0                           29                5.7              22
+Middle             Not Title 1          16              24          27.4        31.0                           37                7.3              28
+                   Title 1                     8        19          23.2        28.0                           32                7.9              24
+High               Not Title 1          12              22          26.8        32.0                           38                8.3              28
+                   Title 1                     5        11          16.6        21.0                           29                7.2              16
+PPS Alternatives Not Title 1            10              20          23.6        29.0                           33                7.3              24
+
+
+          Title 1 Status
+Charter                                 14              20          22.1        25.0                           28                4.8              23
+Not Title 1                             15              22          26.0        30.0                           36                7.0              26
+Title 1                                  9              19          21.6        25.0                           30                6.1              22
+
+
+          School Type
+Elementary K-5                          18              22          24.6        27.0                           30                3.8              25
+Elementary K-8                          12              20          22.7        26.0                           30                6.3              23
+Middle                                  14              22          26.4        30.0                           35                7.7              27
+High                                     8              18          24.3        31.0                           38                9.2              25
+PPS Alternatives                        10              20          23.6        29.0                           33                7.3              24
+
+
+Class sizes in this snapshot include elective courses in addition to core courses. Since
+this snapshot is as of January 15, 2011 (current year) these class size averages differ
+from 2009-10 SY class sizes shown on individual school profiles.
+
+Classes taught by Special Education and ESL teachers are excluded from this
+calculation. Certain classes with questionable data are also excluded.
+
+Data were extracted from eSIS and HRMS effective January 15, 2011. Student room
+assignments were matched with teachers, course codes, and period of the day. For K-8
+schools and summary average calculations, grade K-5 homeroom classrooms re-
+weighted for comparability with grade 6-8 course structure.
+
+Title I is a federally funded program seeking the improvement of the academic
+achievement of the disadvantaged. Portland Public Schools allocates these funds to
+schools with Free and Reduced Price Meal Eligibility (F&RPM) percent greater than 40%
+for PK-8 and greater than 75% for High Schools.
+

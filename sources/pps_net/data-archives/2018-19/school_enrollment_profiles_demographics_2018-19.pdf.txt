@@ -1,0 +1,47 @@
+Portland Public Schools
+October 1st, 2018 Enrollment - Summary Comparison
+  Enrollment by Program Type                   2016        2017        2018     Change
+  Elementary Schools                          26,620      26,627     25,248         -1,379
+  Middle Schools                               6,457       6,449      7,516         1,067
+  High Schools                                11,348      11,768     12,220           452
+  Selected Focus/Alternative Programs          1,764       1,659      1,631           -28
+  Community Based Programs                       968       1,035        912          -123
+  Special Services                               447        455         529            74
+  Public Charter Schools                       1,585       1,564      1,494           -70
+  Total Enrollment                            49,189     49,557      49,550             -7
+
+  Enrollment by Grade                          2016        2017        2018     Change
+  Pre-Kindergarten                               880        873         842           -31
+  Kindergarten                                 4,073       3,948      3,899           -49
+  Grade 1                                      4,141       4,106      3,916          -190
+  Grade 2                                      4,211       4,070      4,040           -30
+  Grade 3                                      4,160       4,133      4,011          -122
+  Grade 4                                      4,128       4,137      4,051           -86
+  Grade 5                                      3,916       4,087      4,036           -51
+  Grade 6                                      3,568       3,704      3,844           140
+  Grade 7                                      3,605       3,523      3,619            96
+  Grade 8                                      3,523       3,553      3,500           -53
+  Grade 9                                      3,240       3,344      3,500           156
+  Grade 10                                     3,203       3,228      3,354           126
+  Grade 11                                     3,102       3,220      3,234            14
+  Grade 12                                     3,439       3,631      3,704            73
+  Pre-K - 12 Totals                           49,189     49,557      49,550             -7
+  K - 12 Totals                               48,309      48,684     48,708            24
+
+  Enrollment by Race/Ethnicity                 2016        2017        2018     Change
+  Asian                                        7.2%        7.1%        6.8%         -0.3%
+  African American                             9.7%        9.3%        8.9%         -0.3%
+  Latino                                      16.3%       16.3%       16.3%          0.0%
+  Native American                              0.7%        0.6%        0.6%          0.0%
+  Pacific Islander                             0.8%        0.7%        0.8%          0.0%
+  White                                       55.8%       56.1%       56.3%          0.2%
+  Multi-Racial - Asian/White                   3.7%        3.9%        4.1%          0.2%
+  Multi-Racial - Other Ancestries              5.9%        6.0%        6.2%          0.2%
+
+  Enrollment Summaries are based on enrollment on October 1st as reported in the
+  Period 1 Cumulative Average Daily Membership State Report.
+
+  Students in the student information system (SIS) who are only receiving Special
+  Education services and are not regularly attending PPS are excluded from the
+  enrollment summaries.
+

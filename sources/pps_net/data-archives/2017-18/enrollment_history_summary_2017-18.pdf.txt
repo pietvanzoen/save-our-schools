@@ -1,0 +1,25 @@
+Portland Public Schools
+Enrollment Summary by Program Type, School and Year
+2008-09 through 2017-18
+                                                                                                                                            1-Year Change         5-Year Change 10-Year Change
+                                                                                                                                              (2017-18 -            (2017-18 -     (2017-18 -
+                                                                                                                                               2016-17)              2013-14)       2008-09)
+                                                         2008-    2009-   2010-    2011-   2012-   2013-   2014    2015-   2016-    2017-
+                  Program Type                            09       10      11       12      13      14      -15     16      17       18       #         %           #      %        #         %
+  Elementary Schools                                     25,124 25,629 25,874 26,445 26,577 27,051 27,015 27,159 26,620 26,627                   7       0.0        -424    -1.6   1,840       7.4
+  Middle Schools                                          5,252 5,211 5,142 5,160 5,365 5,559 5,680 5,911 6,457 6,449                           -8      -0.1         890   16.0      860      15.4
+  High Schools                                           11,033 11,034 10,978 10,810 10,551 10,585 10,807 11,183 11,348 11,768                 420       3.7       1,183   11.2      735       6.7
+Subtotal - Elementary, Middle and High Schools           41,409 41,874 41,994 42,415 42,493 43,195 43,502 44,253 44,425 44,844                 419       0.9       1,649    3.8    3,435          8.3
+  Alternative Programs                                    1,587   1,642    1,663   1,689   1,739   1,699   1,716   1,817    1,764   1,659     -105      -6.0         -40    -2.4      72          4.5
+Subtotal - Schools and Alternative Programs              42,996 43,516 43,657 44,104 44,232 44,894 45,218 46,070 46,189 46,503                 314       0.7       1,609    3.6    3,507          8.2
+  Community-Based Alternative Programs                    1,282   1,206    1,275   1,150   1,207   1,055   1,034     964     968    1,035         67     6.9         -20    -1.9    -247      -19.3
+  Special Services                                          522     500     385      502     457     485     443     451     447      455          8     1.8         -30    -6.2     -67      -12.8
+  Public Charter Schools                                  1,246   1,374    1,486   1,532   1,627   1,664   1,764   1,590    1,585   1,564         -21   -1.3        -100    -6.0     318      25.5
+Grand Total                                              46,046 46,596 46,803 47,288 47,523 48,098 48,459 49,075 49,189 49,557                 368          0.7    1,459    3.0    3,511          7.6
+ October 2017 Enrollment Summaries are based on enrollment on 10/2/2017 from the Cumulative Period 1 ADM data collection submitted to the Oregon Department of Education.
+ Students receiving Special Education services only who are not regularly attending, but are in the student information system (SIS), are excluded from the enrollment summaries.
+
+ Program type (i.e., elementary, middle, high, etc.) reflects the most recent administrative assignment. In recent years enrollment counts are compiled on or about the first school day of
+ October. An enrolled student is defined as a student who attends one or more schools or programs within the District. Regardless of the number of schools or programs attended, each
+ student is counted only once; the counts are unduplicated.
+

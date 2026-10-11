@@ -1,0 +1,54 @@
+Portland Public Schools
+Class Size Summary, January 15, 2013
+                                                  Percentile                 Standard
+                  School Type           5%     25%    50%    75%        95% Deviation Average
+                  K-5                    20      23   25.0     28         32        4    25.4
+                  K-8                    12      20   24.0     27         31        6    23.6
+                  Middle                 12      21   26.0     30         36        8    25.7
+                  High                   12      21   25.0     29         35        8    24.8
+                  PPS Alternative        10      17   20.0     26         29        9    21.6
+
+
+                                                  Percentile                 Standard
+                  Title I Status        5%     25%    50%    75%        95% Deviation Average
+                  Not Title I            15      22   26.0     29         34     6.70    25.4
+                  Title I                13      20   23.0     26         31     6.40    23.2
+
+
+                                                  Percentile                 Standard
+School Type       Title I Status       5%      25%    50%    75%        95% Deviation Average
+K-5               Not Title I           21       24   26.0     28         32        3    26.1
+K-5               Title I            18.95       21   23.0     25         29        3    23.4
+K-8               Not Title I           17       23   26.0     29         31        6    25.5
+K-8               Title I               14       20   23.0     26         30        5    22.7
+Middle            Not Title I           13       21   27.0     30         36        8    26.3
+Middle            Title I               10    18.25   24.0     28         31        7    22.8
+High              Not Title I           14       21   25.0     29         35        7    25.1
+High              Title I              7.1       18   22.0     28         41       10    23.1
+PPS Alternative   Not Title I            7       16   17.0     26         29       10    20.5
+textbox here
+Classes taught by Special Education and ESL teachers are excluded from this calculation. Certain
+textbox here
+classes with questionable data are also excluded.
+textbox here
+textbox
+Data   werehere
+              extracted from eSIS and HRMS effective January 15, 2013. Student room assignments
+were
+textboxmatched
+           here with teachers, course codes, and period of the day. For K-8 schools and summary
+average    calculations, grade K-5 homeroom classrooms re-weighted for comparability with grade 6-8
+textbox here
+course structure.
+textbox here
+textbox
+Title I is here
+           a federally funded program seeking the improvement of the academic achievement of the
+disadvantaged.
+textbox here Portland Public Schools allocates these funds to schools with Free and Reduced
+Price
+textboxMeal   Eligibility (F&RPM) percent greater than 60% for PK-8 and greater than 75% for high
+           here
+schools.
+textbox here
+

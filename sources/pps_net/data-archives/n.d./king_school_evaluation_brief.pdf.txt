@@ -1,0 +1,2238 @@
+OAKS Results in King School
+2010/11–2012/13
+Evidence from Analyses of Test Scores and
+Interviews with Staff Members
+
+
+
+March 2014
+OAKS Results in King School
+2010/11–2012/13
+Evidence from Analyses of Test Scores and
+Interviews with Staff Members
+
+
+
+
+Arthur J. Burke, Ph.D.
+Lauren Bates, M.A.
+
+March 2014
+
+
+
+
+                               OAKS Results in King School i
+About Education Northwest
+
+Founded as a nonprofit corporation in 1966, Education Northwest builds capacity in schools,
+families, and communities through applied research and development. This report is submitted
+at the request of Portland Public Schools.
+
+
+
+
+Contact
+
+Education Northwest
+101 SW Main Street, Suite 500
+Portland, OR 97204
+educationnorthwest.org
+503.275.9500
+
+
+Authors
+
+Arthur J. Burke, Ph.D.
+Lauren Bates, M.A.
+
+
+
+
+Citation
+
+Burke, A., & Bates, L. (2014). OAKS results in King School, 2010/11–2012/13: Evidence from
+analyses of test scores and interviews with staff members. Portland, OR: Education Northwest.
+
+
+
+
+ii Education Northwest
+Executive Summary
+
+Portland Public Schools (PPS) requested that Education Northwest analyze results on the
+Oregon Assessment of Knowledge and Skills (OAKS) and interview staff members at King
+School to add to knowledge about the OAKS achievement trend in the school from 2010/11 to
+2012/13.
+
+In conducting the study, Education Northwest analyzed a file of test results made available by
+PPS. The file contained enrollment and demographic information about students who took the
+OAKS and their test results in reading/literature and mathematics for 2010/11, 2011/12, and
+2012/13. In addition, the file contained results for each attempt students made at the
+assessments. This data structure allowed Education Northwest to compare achievement on first
+attempts and on re-takes across subjects, schools, and years. More specifically, Education
+Northwest examined gains in scale scores and achievement levels from first attempt through
+retests in mathematics and reading/literature for King students and students in other K–8
+schools in 2010/11, 2011/12, and 2012/13.
+
+In addition to analyzing OAKS results, Education Northwest reviewed assessment procedures
+prescribed by the Oregon Department of Education and conducted semi-structured interviews
+with King staff members. The interviews were designed to gather perceptions concerning
+conditions in the school from 2010/11 to 2012/13 that could be related to OAKS achievement
+over that time and to obtain explanations for the increase in scores in 2011/12.
+
+Key Finding 1: The increase in the percentage of King students who met the state standard for
+proficiency in mathematics and reading/literature from 2010/11 to 2011/12 was strongly
+associated with higher rates of meeting the standard on retests after not meeting the standard
+on first attempts, compared to results from 2010/11 and 2012/13.
+
+      King School had the lowest percentage of students meeting the standard on their first
+       attempt among all K-8 schools in PPS each year from 2010/11 to 2012/13.
+
+      The proportion of King students meeting the standard on their first attempt at the
+       reading test increased each year from 2010/11 to 2012/13. The proportion of King
+       students meeting the standard in mathematics on their first attempt increased from
+       2010/11 to 2011/12, but decreased from 2011/12 to 2012/13.
+
+      Each year, and in each subject, the K-8 schools varied considerably in sizes of gains in
+       the percentage of students meeting the standard from first attempts to retests.
+
+      Each year and in each subject, one or more schools stood out from the rest in gains in the
+       percentage of students meeting the standard from first attempts to retests.
+
+
+
+                                                           OAKS Results in King School 2010/11–2012/13 i
+       The percentage of students meeting the standard on their first attempt in mathematics
+        decreased in King School from 2011/12 to 2012/13, but increased in other K-8 schools.
+
+       Increases in the percentage of King students meeting the standard after retesting were
+        much larger in both subjects in 2011/12 than in the other years, and the increases were
+        much larger in King School than in other K-8 schools.
+
+       Across all K-8 schools, average gains in the percentage of students meeting the standard
+        from first attempt through retests were generally smaller in 2012/13 than in the other
+        years. Among other reasons, this may have occurred because success rates on first
+        attempts were higher in 2012/13 than in other years and because procedures for retests
+        changed from 2010/11 to 2012/13.
+
+Key Finding 2: In some K-8 schools, substantial percentages of students who met the standard
+on their first attempt were retested, particularly in 2010/11 and 2011/12.
+
+       Schools varied widely in the percentage of students who met the standard on their first
+        attempt who were subsequently retested.
+
+       In 2010/11 and 2011/12, retesting students who met the standard on their first attempt
+        was common. In fact, in a number of schools, more than half of students who met
+        standard on their first attempt were subsequently retested.
+
+       Retesting students who met the standard on their first attempt was far less common in
+        2012/13, but did occur, and some schools retested students who met the standard more
+        frequently than others.
+
+Key Finding 3: In 2011/12, King students who did not meet the standard on their first attempt
+gained, on average, substantially more on retests than their counterparts in other K-8 schools.
+In the other years, King students showed retest gains that were similar to the gains of students
+in other K-8 schools.
+
+       In 2011/12 at each grade level and across all grade levels, King students who did not
+        meet the standard on their first attempt gained substantially more scale score points on
+        retests than did students in other K-8 schools, including schools with demographics
+        similar to King.
+
+       In 2010/11 and 2012/13, King students made scale score gains on retests similar to gains
+        by students in other K-8 schools, including schools with demographics similar to King.
+
+       In 2011/12, King students went from an average achievement level of “low” on their first
+        attempt to “meeting or nearly meeting” the standard on retests. Achievement-level gains
+        for students at King that year were larger than for students in other K-8 schools,
+        including schools with demographics similar to King. In other years, gains in
+        achievement levels from first attempts to retests were relatively similar for King
+        students and students in other K-8 schools.
+
+
+ii Education Northwest
+Key Finding 4: Interviewees emphasized “drastic” differences in the testing environment
+between the years, especially between 2011/12 and 2012/13.
+
+      Differences noted by interviewees included changes to the external scrutiny of the school,
+       the testing climate experienced by staff members and students, supervision of students
+       during testing, accommodations provided to students during testing, training and
+       guidance to school staff members related to test administration, and the number of retests
+       allowed for students.
+
+Key Finding 5: Despite initial skepticism, King school staff members believed the testing
+accommodations offered in 2011/12 were valid because they had been sanctioned by an external
+expert.
+
+Key Finding 6: The Oregon Department of Education’s 2012/13 Accommodations Manual did
+not introduce new information about read aloud accommodations; however, understanding by
+King staff members of acceptable accommodations shifted between 2011/12 and 2012/13.
+
+      In 2011/12, school staff members followed an external expert’s interpretation of
+       acceptable accommodations.
+      In 2012/13, school staff members followed the district’s interpretation, as communicated
+       via district criteria for testing for that year.
+
+Key Finding 7: Interviewees noted changes to the teaching environment that may have affected
+the quality of instruction between the years, especially between 2011/12 and 2012/13.
+
+      Differences identified by interviewees included turnover among teachers and support
+       staff members, the long-term absence of an experienced teacher, changes in grade-level
+       assignments and re-organizations, changes in the number of leveled classes, and changes
+       in the number of intervention classes.
+
+Key Finding 8: Evidence from analyses of test results and from interviews with King staff
+members casts doubt on several explanations that have been advanced for the test score trend
+in King School from 2010/11 through 2012/13.
+
+      The demographics of the test-taking population at King School did not change
+       substantially from 2010/11 to 2012/13. Furthermore, while average enrollment days were
+       slightly lower for King compared to other K-8 schools, average absences were relatively
+       similar. As a result, changes in attendance and demographics are unlikely explanations
+       for the increase in OAKS scores at King in 2011/12.
+
+      Results for the population of K–8 students who were tested in each year (“intact”
+       population) were very similar to the overall results, with a large increase in the
+
+
+                                                         OAKS Results in King School 2010/11–2012/13 iii
+        percentage of King students meeting the standards from 2010/11 to 2011/12, followed by
+        lower rates of meeting the standards in 2012/13. This is additional evidence that the
+        2011/12 achievement results for King School probably did not arise mainly from changes
+        in the student population.
+
+       On average, King students who did not meet the standard on their first attempt did not
+        retest substantially more times than students in other K-8 schools who did not meet the
+        standard on their first attempt. Furthermore, the average number of retakes for King
+        students was actually slightly smaller for 2011/12 than in 2010/11. As a result, the
+        increase in the percentage of King students achieving proficiency in 2011/12 compared
+        to 2010/11 cannot be due to more retesting in 2011/12.
+
+Key Finding 9: Retesting in 2011/12 clearly contributed to higher achievement in King School in
+that year compared to 2010/11 and 2012/13. However, neither analysis of test scores nor
+interviews with school staff members gives a clear answer to why achievement on retests
+increased so dramatically in 2011/12 compared to the other years.
+
+
+
+
+iv Education Northwest
+Contents
+
+Chapter 1: Introduction ........................................................................................................................... 1
+   Background ............................................................................................................................................. 1
+   Methods ..................................................................................................................................................... 1
+Chapter 2: Results of Analyses of Test Scores ...................................................................................... 5
+   Students Meeting the Standard ............................................................................................................ 5
+   Retesting Students Who Met the Standard on First Attempt......................................................... 15
+   Size of Gains in Achievement on Retests .......................................................................................... 19
+Chapter 3: Interview Results ................................................................................................................ 29
+   Testing Environment............................................................................................................................ 29
+   Teaching Environment ........................................................................................................................ 38
+   Long-term Influences on the School .................................................................................................. 43
+Chapter 4: Evidence Concerning Explanations of Achievement Trend in King School .............. 45
+Chapter 5 Current PPS Testing Practices ............................................................................................ 53
+   Training for Staff Members Involved in Testing.............................................................................. 53
+   Monitoring the Testing Process .......................................................................................................... 54
+   Reporting Irregularities ....................................................................................................................... 55
+   Investigation .......................................................................................................................................... 56
+   Consequences of Testing Irregularities ............................................................................................. 56
+Chapter 6: Recommendations .............................................................................................................. 57
+   Policy, Planning, and Communication .............................................................................................. 58
+   Training.................................................................................................................................................. 58
+   Monitoring............................................................................................................................................. 58
+   Reporting Irregularities or Suspected Irregularities........................................................................ 59
+   Investigation .......................................................................................................................................... 59
+Appendix A: Protocol for Interviews with King Staff Members ....................................................... 61
+Appendix B: Protocol for Follow-Up Interviews with King Staff Members ................................... 63
+References ................................................................................................................................................. 65
+
+
+
+
+                                                                                                 OAKS Results in King School 2010/11–2012/13 v
+List of Figures
+
+Figure 1 Gains in Percentage of Students Meeting the Standard in Reading/Literature
+         and Mathematics From First Attempt to Retests ................................................................. 9
+Figure 2 Percentage of Students Meeting the Standard on First Attempt and Retests in
+         King and Other K-8 Schools, 2010–2013 ............................................................................ 13
+Figure 3 Percentage of Students Meeting the Standard on First Attempt and after All
+         Retests in King and Similar K-8 Schools, 2010–2013 ........................................................ 14
+Figure 4 Percentage of Students Meeting the Standards on First Attempt, But Were
+         Retested ................................................................................................................................... 16
+Figure 5 Average Gains in Scale Score Points from First Attempt to Final Attempt, King
+         and Other K–8 Schools .......................................................................................................... 21
+Figure 6 Average Gains in Scale Score Points from First Attempt to Final Attempt, King
+         and Schools With Demographics Similar to King ............................................................. 22
+Figure 7 Average Gains in Proficiency Level in Reading/Literature from First Attempt
+         to Retest, King and other K–8 Schools ................................................................................ 24
+Figure 8 Average Gains in Proficiency Level in Mathematics from First Attempt to
+         Retest, King and other K–8 Schools ..................................................................................... 25
+Figure 9 Average Gains in Proficiency Level in Reading/Literature from First Attempt
+         to Retest, King and K–8 Schools With Demographics Similar to King ......................... 26
+Figure 10 Average Gains in Proficiency Level in Mathematics from First Attempt to
+          Retest, King and K–8 Schools With Demographics Similar to King .............................. 27
+
+
+
+
+vi Education Northwest
+List of Tables
+
+Table 1 Percentage of Students in K-8 Schools Meeting the Standard in
+         Reading/Literature on First Attempt, After All Attempts, and Percentage
+         Point Gain from First Attempt ............................................................................................. 6
+Table 2 Percentage of Students in K-8 Schools Meeting the Standard in Mathematics on
+         First Attempt, after all Attempts, and Percentage Point Gain from First
+         Attempt...................................................................................................................................... 7
+Table 3        Percentage of Students in K-8 Schools Meeting the Standard on First
+               Attempt, After All Attempts, and Percentage Point Gain from First
+               Attempt ................................................................................................................................... 12
+Table 4 Average Gains in Scale Score Points from First Attempt to Highest Score on
+        Retest........................................................................................................................................ 20
+Table 5 Testing Environments at King School in 2011/12 and 2012/13 .......................................... 30
+Table 6 Teaching Environments at King School in 2011/12 and 2012/13 ....................................... 39
+Table 7 Demographics of the Test-Taking Population in PPS K-8 Schools 2010/11–
+        2012/13 ..................................................................................................................................... 46
+Table 8 Percentage of Students in the Intact Population of Students from 2010/11 to
+         2012/13 Meeting or Exceeding the Standard for Proficiency ........................................... 49
+Table 9 Average Number of Retests for Students Not Meeting the Standard on First
+        Attempt ................................................................................................................................... 51
+
+
+
+
+                                                                                            OAKS Results in King School 2010/11–2012/13 vii
+Acknowledgements
+
+Education Northwest acknowledges the assistance of Sue Ann Higgens and Joe Suggs of
+Portland Public Schools for providing test data. We also thank the principal of King school for
+making space available for interviewing staff members and we thank both the staff members of
+King school and other district staff members who participated in interviews.
+
+
+
+
+viii Education Northwest
+Chapter 1:
+Introduction
+
+Background
+
+Portland Public Schools (PPS) requested Education Northwest to provide additional perspective
+on Oregon Assessment of Knowledge and Skills (OAKS) achievement trends in King School
+from 2010/11 to 2012/13. More specifically, PPS requested Education Northwest to analyze
+student achievement data and interview King staff members to identify conditions associated
+with the strong performance of King students on OAKS in 2011/12 in contrast to the markedly
+lower performance in the previous year (2010/11) and the following year (2012/13). In addition,
+PPS requested Education Northwest to recommend changes in PPS testing practices and steps
+for future review of testing and test results.
+
+
+Methods
+
+PPS did not request Education Northwest to repeat earlier PPS studies of the test score trend in
+King School from 2010/11 to 2012/13, nor were we asked to review the results of those studies or
+how the studies were carried out. In addition, in conducting the study, Education Northwest
+did not observe training of test administrators or student testing in King or any other PPS
+school. The study was limited to descriptive analyses of student-level OAKS data in
+reading/literature and mathematics for Portland K-8 schools and to gathering perspectives from
+King staff members concerning conditions in the school and reasons for the changes in
+achievement. We asked King staff members about accommodations in 2011/12 and 2012/13, but
+we did not conduct a comprehensive review of instructions given to staff members involved in
+testing or training of staff members involved in testing. Additional details of the test score
+analyses and the interviews are provided below.
+
+Test Score Analysis
+Education Northwest received a data file from PPS at the end of January 2014. The data were
+transferred to Education Northwest by secure means. At Education Northwest, the data were
+stored on a server with access restricted to the researchers and IT staff members assigned to the
+project.
+
+The file contained enrollment and demographic information about students who took the
+OAKS and their test results in reading/literature and mathematics for 2010/11, 2011/12, and
+2012/13. In addition, the file contained results for each attempt students made at the
+assessments. This data structure allowed Education Northwest to compare achievement on first
+attempts and on re-takes across schools and across years. Exploratory analysis suggested a
+closer look at the frequency and results of retesting. As a result, Education Northwest focused
+attention on gains in scale scores and achievement levels from first attempt through retests in
+
+
+
+                                                           OAKS Results in King School 2010/11–2012/13 1
+mathematics and reading/literature for King students and students in other K-8 schools in
+2010/11, 2011/12, and 2012/13.
+
+Interviews with King Staff Members
+PPS contacted the school principal and requested that she work with Education Northwest to
+schedule interviews. Once in communication with the principal, the interviewer asked her to
+identify current staff members who had been present at the school during 2011/12 and 2012/13,
+and whose roles made it likely they would have some involvement in, or knowledge of, OAKS
+testing. The principal identified six individuals; all six subsequently participated in interviews.
+Two people also participated in follow-up interviews designed to gather additional information
+about a small number of topics.
+
+Education Northwest used semi-structured interview protocols for both the main interviews
+and follow-up interviews. The principal received the main interview protocol, including an
+introduction to the study, and provided it to the six interviewees. Additionally, before the main
+interview, the interviewer gave an overview of the study that described why the data were
+being collected, how they would be used, and how they would be reported. The interviewer
+made clear that interviews were voluntary, could be stopped at any time, and that data
+gathered would be kept confidential. As is standard with semi-structured protocols, the
+interviewer began by asking a set of carefully developed questions, but added additional
+follow-up and clarifying questions as needed throughout the conversation. The research team
+designed the main interview protocol questions to be open-ended, broad, and free from leading
+language. Education Northwest designed the follow-up protocol to gather additional
+information and clarification about topics that emerged during the first round of interviews.
+More specifically, follow-up interviews addressed accommodations, staff training, and the
+testing environment. The follow-up protocol also included open-ended questions, but these
+questions were narrower in focus than the ones in the main interview protocol. Two staff
+members were approached for follow-up interviews because they had been at the school for the
+entire duration of the 2010/11, 2011/12, and 2012/13 school years, and thus had more in-depth
+knowledge about conditions in King over the years. Protocols for the interviews and follow-up
+interviews appear as appendices.
+
+The interviewer conducted interviews by phone or in person at the school, depending on the
+availability and preference of each interviewee. The main interviews took place during the first
+two weeks of March 2014; the follow-up interviews occurred the third week of March. The
+interviewer took thorough notes during each interview and opted against recording the
+interviews to ensure free-flowing conversation. After each interview, the interviewer reviewed
+the notes for accuracy and began categorizing interviewees’ responses, where appropriate.
+
+To analyze the interview data, Education Northwest used qualitative data analysis techniques.
+The interviewer noted themes in the data by coding each interview file using Atlas.ti qualitative
+analysis software. Next, the interviewer composed analytic memos to further synthesize and
+refine the themes. While composing analytic memos, the interviewer used Atlas.ti’s query tools
+
+
+2 Education Northwest
+to explore the prevalence of different themes and their co-occurrence with other themes. Finally,
+Education Northwest distilled key findings and related sub-themes.
+
+The interviews included questions about 2010/11, 2011/12, and 2012/13; however, the report
+includes only findings from the last two school years because some of the interviewees were not
+in the school in 2010/11 and because the differences between 2011/12 and 2012/13 were more
+notable than the differences between 2010/11 and 2011/12. In Chapter 3, results are presented
+for each key finding and associated sub-themes, together with relevant data from 2011/12 and
+2012/13. Data are grouped by year to show both coherence within years and highlight contrasts
+across the two years. When possible, the report includes quotations from interviewees, as
+captured by the interviewee’s notes. To preserve confidentiality, interviewees are not identified
+in the report by name or by role.
+
+The report ends with recommendations from Education Northwest concerning testing practices
+and maintaining the integrity of the testing process.
+
+
+
+
+                                                          OAKS Results in King School 2010/11–2012/13 3
+4 Education Northwest
+Chapter 2:
+Results of Analyses of Test Scores
+
+Students Meeting the Standard
+
+Many students at King met the state standard on retests in 2011/12.
+
+The increase in the percentage of King students who met the state standard for proficiency in
+mathematics and reading/literature from 2010/11 to 2011/12 was strongly associated with
+higher rates of meeting the standard on retests after not meeting the standard on first attempts,
+compared to results in 2010/11 and 2012/13.
+
+      King school had the lowest percentage of students meeting standards on their first
+       attempt among all K-8 schools each year from 2010/11 to 2012/13 (Tables 1 and 2).
+
+      The proportion of King students meeting the standard on their first attempt at the
+       reading/literature test increased each year from 2010/11 to 2012/13 (Table 1). The
+       proportion of King students meeting standard in mathematics on their first attempt
+       increased from 2010/11 to 2011/12 but decreased from 2011/12 to 2012/13 (Table 2).
+
+
+
+
+                                                          OAKS Results in King School 2010/11–2012/13 5
+Table 1
+Percentage of Students in K-8 Schools Meeting the Standard in Reading/Literature on First
+Attempt, After All Attempts, and Percentage Point Gain from First Attempt
+                                                             Percent (Percentage Point Gain)
+                                         2010/11                            2011/12                           2012/13
+School                         First      Total       Gain       First       Total      Gain        First      Total       Gain
+Arleta                         46         59          (13)       48          61          (12)       59         68          ( 9)
+Astor                          66         79          (13)       67          78          (12)       63         73          (10)
+BE-Humboldt                    NA         NA          NA         NA          NA          NA         43         50          ( 8)
+Beach                          49         58          ( 8)       48          62          (14)       57         64          ( 7)
+Beverly Cleary                 84         93          ( 9)       81          89          ( 9)       87         90          ( 3)
+Boise-Eliot                    43         63          (19)       37          55          (17)       NA         NA          NA
+Bridger                        38         48          (10)       42          61          (19)       45         51          ( 6)
+César Chávez                   39         46          ( 7)       28          39          (10)       33         40          ( 7)
+Creative Science               67         80          (13)       70          81          (10)       70         81          (11)
+Faubion                        46         55          ( 9)       42          65          (24)       50         59          ( 9)
+Harrison Park                  37         51          (14)       43          63          (20)       41         53          (12)
+Hayhurst                       75         81          ( 7)       76          88          (12)       87         91          ( 4)
+Humboldt                       28         55          (27)       28          63          (35)       NA         NA          NA
+Irvington                      62         65          ( 3)       61          67          ( 6)       64         70          ( 6)
+King                           22         31          ( 8)       28          77          (49)       34         45          (12)
+Laurelhurst                    80         88          ( 8)       81          91          (10)       84         88          ( 5)
+Lee                            41         53          (12)       47          61          (14)       35         48          (14)
+Lent                           38         52          (14)       36          51          (14)       41         51          (10)
+Marysville                     44         53          ( 9)       48          64          (16)       53         62          ( 9)
+Ockley Green                   29         44          (14)       31          45          (14)       43         47          ( 5)
+Peninsula                      50         63          (13)       48          62          (14)       56         63          ( 7)
+Roseway Heights                58         74          (15)       63          74          (10)       71         75          ( 5)
+Sabin                          58         69          (11)       62          80          (18)       74         87          (13)
+Scott                          37         50          (13)       37          49          (12)       39         44          ( 5)
+Skyline                        77         83          ( 6)       74          80          ( 6)       78         81          ( 3)
+Sunnyside Environ              79         83          ( 4)       79          88          ( 9)       78         82          ( 4)
+Vernon                         34         55          (21)       38          54          (16)       48         56          ( 8)
+Vestal                         40         51          (11)       44          52          ( 8)       52         59          ( 7)
+Winterhaven                    94         96          ( 2)       92          95          ( 3)       91         95          ( 4)
+Woodlawn                       38         50          (12)       27          39          (12)       37         46          ( 9)
+NA indicates scores not reported because school was reconfigured.
+Note: Results reported for 2011/12 standards. “First” indicates percent of students meeting standard on their first attempt.
+“Total” indicates percent of students meeting standard after all attempts. “Gain” is percentage point increase in meeting
+standard from first attempt through all attempts. All figures are rounded; as a result, Gain may not equal Total – First Results
+may differ from results from AYP reporting because these results do not include students taking X-level tests. Results are not
+restricted to students enrolled the whole year.
+Source: Education Northwest Analysis of PPS data.
+
+
+
+
+6 Education Northwest
+Table 2
+Percentage of Students in K-8 Schools Meeting the Standard in Mathematics on First Attempt,
+after all Attempts, and Percentage Point Gain from First Attempt
+                                                             Percent (Percentage Point Gain)
+                                          2010/11                           2011/12                            2012/13
+School                         First       Total      Gain        First      Total       Gain       First       Total       Gain
+Arleta                         34          56         (21)         35         49          (14)      42          55          (12)
+Astor                          59          85         (27)         61         78          (17)      59          72          (14)
+BE-Humboldt                    NA          NA         NA          NA         NA           NA        35          44          ( 9)
+Beach                          38          60         (22)         48         63          (15)      56          61          ( 6)
+Beverly Cleary                 59          84         (25)         61         83          (21)      82          88          ( 7)
+Boise-Eliot                    26          58         (31)         23         67          (44)      NA          NA          NA
+Bridger                        21          51         (30)         24         55          (31)      38          46          ( 8)
+César Chávez                   27          40         (13)         16         28          (12)      24          32          ( 8)
+Creative Science               41          71         (29)         44         73          (28)      53          73          (21)
+Faubion                        35          49         (15)         20         48          (27)      35          46          (10)
+Harrison Park                  29          51         (22)         32         56          (24)      44          54          (10)
+Hayhurst                       53          74         (21)         59         80          (21)      76          85          ( 9)
+Humboldt                       13          50         (37)         31         73          (41)      NA          NA          NA
+Irvington                      49          58         ( 9)         55         62          ( 7)      55          65          ( 9)
+King                           10          38         (28)         17         70          (53)      15          24          ( 8)
+Laurelhurst                    58          84         (26)         57         81          (23)      74          83          ( 8)
+Lee                            27          52         (25)         31         51          (19)      32          42          10)
+Lent                           28          49         (21)         32         53          (21)      37          46          ( 9)
+Marysville                     24          50         (26)         31         55          (23)      46          58          (12)
+Ockley Green                   18          31         (13)         16         31          (15)      26          32          ( 6)
+Peninsula                      43          63         (20)         41         63          (22)      55          64          ( 9)
+Roseway Heights                36          66         (30)         43         61          (19)      59          68          ( 9)
+Sabin                          37          65         (28)         49         82          (33)      68          80          (12)
+Scott                          20          39         (20)         21         31          (10)      25          30          ( 5)
+Skyline                        65          81         (16)         64         73          ( 9)      68          76          ( 7)
+Sunnyside Environ              53          69         (16)         61         73          (12)      69          75          ( 6)
+Vernon                         17          40         (22)         21         37          (16)      36          50          (14)
+Vestal                         28          58         (29)         37         48          (11)      45          54          ( 9)
+Winterhaven                    92          96         ( 4)         90         96          ( 6)      90          94          ( 4)
+Woodlawn                       14          31         (16)         10         30          (20)      22          34          (12)
+NA indicates scores not reported because school was reconfigured.
+Note: Results reported for 2011/12 standards. “First” indicates percent of students meeting standard on their first attempt.
+“Total” indicates percent of students meeting standard after all attempts. “Gain” is percentage point increase in meeting
+standard from first attempt through all attempts. All figures are rounded; as a result, Gain may not equal Total – First. Results
+may differ from results from AYP reporting because these results do not include students taking X-level tests. Results are not
+restricted to students enrolled the whole year.
+Source: Education Northwest Analysis of PPS data.
+
+
+
+
+                                                                                   OAKS Results in King School 2010/11–2012/13 7
+      In 2011/12, King experienced the largest percentage point gain of all K-8 schools in the
+       percentage of students meeting standard from first attempt through retests (Tables 1 and
+       2; Figure 1).
+
+      Each year and in each subject, the K-8 schools varied considerably in sizes of gains in the
+       percentage of students meeting the standard on retests (Figure 1).
+
+      Each year and in each subject, one or more schools stood out from the rest in gains in the
+       percentage of students meeting standard from first attempt through retests (Figure 1).
+
+
+
+
+8 Education Northwest
+Figure 1
+Gains in Percentage of Students Meeting the Standard in Reading/Literature and Mathematics From First Attempt to Retests
+
+                                                             2010/11
+
+
+
+
+                                                   (Gains are in percentage points)
+
+
+
+
+                                                                                                   OAKS Results in King School 2010/11–2012/13 9
+    Figure 1 (continued)
+    Gains in Percent of Students Meeting Standard in Reading/Literature and Mathematics From First Attempt to Retests, 2011/12
+
+                                                                 2011/12
+
+
+
+
+                                                       (Gains are in percentage points)
+
+
+
+
+10 Education Northwest
+Figure 1 (continued)
+Gains in Percent of Students Meeting Standard in Reading/Literature and Mathematics From First Attempt to Retests, 2012/13
+
+                                                             2012/13
+
+
+
+
+                                                   (Gains are in percentage points)
+
+
+
+
+                                                                                                  OAKS Results in King School 2010/11–2012/13 11
+Achievement trends in King School from 2010/11 to 2012/13 differed from the trends in other
+K–8 schools in several ways (Table 3; Figures 2 and 3). First, the percentage of students meeting
+the standard on their first attempt in mathematics decreased in King School from 2011/12 to
+2012/13, but increased in other K-8 schools. Second, increases in the percentage of King students
+meeting the standard after retesting were much larger in 2011/12 in both subjects than in the
+other years, and the increases were much larger in King school than in the other K-8 schools.
+
+Across all K-8 schools, average gains in the percentage of students meeting standard from first
+attempt to retesting were generally smaller in 2012/13 than in the other years (Table 3). Among
+other reasons, this may have occurred because success rates on first attempts were higher in
+2012/13 than in other years and because procedures for retests changed from 2010/11 to 2012/13.
+
+Table 3
+Percentage of Students in K-8 Schools Meeting the Standard on First Attempt, After All
+Attempts, and Percentage Point Gain from First Attempt
+                                                            Percent (Percentage Point Gain)
+                                        2010/11                           2011/12                           2012/13
+School                        First      Total       Gain       First      Total      Gain       First       Total      Gain
+Reading/Literature
+King                          22         31          ( 8)       28         77         (49)       34          45          (12)
+Similar K-8                   38         52          (13)       37         53         (16)       40          49          ( 9)
+Other K-8                     54         65          (11)       55         68         (13)       59          67          ( 7)
+All K-8                       54         64          (10)       54         68         (14)       59          66          ( 7)
+Mathematics
+King                          11         38          (28)       17         70         (53)       15          24          ( 9)
+Similar K-8                   25         45          (21)       24         46         (22)       33          42          ( 9)
+Other K-8                     39         60          (22)       41         60         (19)       52          61          ( 9)
+All K-8                       38         60          (22)       41         61         (20)       51          60          ( 9)
+Note: Results reported for 2011/12 standards. “First” indicates percentage of students meeting standard on their first attempt.
+“Total” indicates percentage of students meeting standard after all attempts. “Gain” is percentage point increase in meeting
+standard from first attempt through all attempts. Gains were calculated before First and Total were rounded; as a result, Gain may
+not equal Total – First.. Similar schools include Boise-Elliot-Humboldt, Boise-Elliot, Cesar Chavez, Faubion, Harrison Park,
+Humboldt, Lee, Lent, Ockley Green, Scott, and Woodlawn. These results may differ from results from AYP reporting because
+these results do not include students taking X-level tests. Results are not restricted to students enrolled the whole year.
+Source: Education Northwest Analysis of PPS data.
+
+
+
+
+12 Education Northwest
+Figure 2
+Percentage of Students Meeting the Standard on First Attempt and Retests in King and
+Other K-8 Schools, 2010–2013
+
+                                       Reading/Literature
+
+
+
+
+                                         Mathematics
+
+
+
+
+                                                               OAKS Results in King School 2010/11–2012/13 13
+    Figure 3
+    Percentage of Students Meeting the Standard on First Attempt and after All Retests in King and
+    Similar K-8 Schools, 2010–2013
+                                           Reading/Literature
+
+
+
+
+                                              Mathematics
+
+
+
+
+14 Education Northwest
+Retesting Students Who Met the Standard on First Attempt
+
+In some K-8 schools, substantial percentages of students who met the standard on their
+first attempt were retested, particularly in 2010/11 and 2011/12).
+
+      Schools varied widely in the percentage of students who met the standard on their first
+       attempt that were subsequently retested (Figure 4).
+
+      Retesting students who met the standard on their first attempt was relatively common in
+       2010/11 and 2011/12. In fact, in a number of schools more than half of students who met
+       the standard on their first attempt were subsequently retested.
+
+      Retesting students who met the standard on their first attempt was far less common in
+       2012/13, but did occur, and some schools retested students who met the standard more
+       frequently than others.
+
+
+
+
+                                                        OAKS Results in King School 2010/11–2012/13 15
+    Figure 4
+    Percentage of Students Meeting the Standards on First Attempt, But Were Retested
+
+                                                                 2010/11
+
+
+
+
+16 Education Northwest
+Figure 4 (continued)
+Percentage of Students Meeting the OAKS Standard on First Attempt But Were Retested
+
+                                                           2011/12
+
+
+
+
+                                                                                      OAKS Results in King School 2010/11–2012/13 17
+    Figure 4 (continued)
+    Percentage of Students Meeting OAKS the on First Attempt But Were Retested
+
+                                                               2012/13
+
+
+
+
+18 Education Northwest
+Size of Gains in Achievement on Retests
+
+In 2011/12, King students who did not meet the standard on their first attempt on average
+gained substantially more on retests than their counterparts in other K-8 schools. In the
+other years, King students showed retest gains that were similar to the gains of students
+in other K-8 schools.
+
+Across all grade levels, King students who did not meet the standard on their first attempt
+gained substantially more scale score points on retests than students in other PPS K-8 schools
+(Table 4).
+
+In 2011/12, at each grade King students who did not meet the standard on their first attempt
+gained more scale score points on retests than the aggregate of students in all other K-8 schools
+(Figure 5) and in K-8 schools with demographics similar to King (Figure 6). In 2010/11 and
+2012/13, King students made scale score gains on retests similar to gains by students in other K-
+8 schools (Figure 5) and in K-8 schools with demographics similar to King (Figure 6).
+
+
+
+
+                                                          OAKS Results in King School 2010/11–2012/13 19
+Table 4
+Average Gains in Scale Score Points from First Attempt to Highest Score on Retest
+
+         (Results are for students who did not meet the standard on first attempt.)
+
+                                    Reading/Literature                                Mathematics
+School                    2010/11      2011/12      2012/13             2010/11        2011/12    2012/13
+Arleta                      5.5           6.1          4.8                6.6            5.9        5.6
+Astor                      11.2           6.5          6.3               10.8            8.1        9.3
+BE-Humboldt                  NA           NA           4.5                 NA             NA        4.5
+Beach                       5.4           5.4          5.1                7.4            7.0        4.9
+Beverly Cleary              9.0           6.4          4.0                9.2            7.2        5.2
+Boise-Eliot                 7.9           6.7          NA                 9.1           12.2         NA
+Bridger                     6.5           6.9          4.3                8.8            8.8        4.0
+Creative Science            7.8           6.7          7.6                7.0            9.2        8.9
+César Chávez                5.1           6.0          5.1                5.2            5.3        4.9
+Faubion                     6.1           6.7          4.8                6.5            8.6        5.3
+Harrison Park               7.8           7.5          6.8                8.2            8.8        6.3
+Hayhurst                    5.8           7.9          6.9                7.9            8.5        6.1
+Humboldt                   10.6           3.7          NA                10.0           11.3         NA
+Irvington                   5.2           5.1          5.2                6.0            4.3        4.3
+King                        6.7          13.2          4.2                8.4           17.6        4.7
+Laurelhurst                 7.6           7.1          4.6                8.6            7.9        5.7
+Lee                         6.9           6.1          5.1                8.0            6.7        5.2
+Lent                        7.0           5.4          5.1                8.3            7.5        5.7
+Marysville                  6.3           5.8          6.0                7.6            7.1        6.5
+Ockley Green                6.1           6.0          4.0                6.2            6.8        4.5
+Peninsula                   6.7           6.0          3.7                6.8            6.5        4.3
+Roseway Heights             8.7           6.0          4.2               10.1            6.9        6.1
+Sabin                       7.9           8.0          8.2                8.9           10.8        7.9
+Scott                       5.7           5.5          4.6                7.5            4.5        4.3
+Skyline                     7.0           4.3          4.5                6.2            5.5        4.9
+Sunnyside Env               6.1           8.4          6.2                7.5            5.5        7.5
+Vernon                      7.2           5.2          3.5                7.5            6.0        5.3
+Vestal                      5.7           5.4          4.0                9.6            5.3        6.3
+Winterhaven                 5.7           8.2          6.4                5.8            8.0        4.5
+Woodlawn                    5.9           5.8          5.3                7.5            8.4        5.3
+All K-8                     6.9           6.4          5.2                8.0            7.8        5.6
+K-8 except King             6.9           6.2          5.2                8.0            7.5        5.7
+Similar to King             6.9           6.1          5.3                7.7            7.9        5.3
+NA indicates scores not reported because school was reconfigured.
+Note: Similar schools include Boise-Elliot-Humboldt, Boise-Elliot, Cesar Chavez, Faubion, Harrison Park, Humboldt, Lee,
+Lent, Ockley Green, Scott, and Woodlawn.
+Source: Education Northwest analysis of PPS data
+
+
+
+
+20 Education Northwest
+Figure 5
+Average Gains in Scale Score Points from First Attempt to Final Attempt, King and Other K–8 Schools
+
+
+
+
+                      (Results for students not meeting the standard on first attempt)
+
+
+
+
+                      (Results for students not meeting the standard on first attempt)
+
+
+                                                                     OAKS Results in King School 2010/11–2012/13 21
+Figure 6
+Average Gains in Scale Score Points from First Attempt to Final Attempt, King and Schools With
+Demographics Similar to King
+
+
+
+
+                         (Results for students not meeting the standard on first attempt)
+
+
+
+
+                         (Results for students not meeting the standard on first attempt)
+
+
+
+22 Education Northwest
+In 2011/12 King students went from an average achievement level of “low” on their first attempt
+to “meeting or nearly meeting” the standard on retests. Achievement level gains for students at
+King that year were larger than for students in all other K-8 schools and for students in K-8
+schools with demographics similar to King (Figures 7–10). In other years, gains in achievement
+levels from first attempts to retests were relatively similar for King students and students in
+other K-8 schools.
+
+
+
+
+                                                        OAKS Results in King School 2010/11–2012/13 23
+Figure 7
+Average Gains in Proficiency Level in Reading/Literature from First Attempt to Retest, King and other K–8 Schools
+
+
+
+
+                         (Results for students not meeting the standard on first attempt)
+
+
+24 Education Northwest
+Figure 8
+Average Gains in Proficiency Level in Mathematics from First Attempt to Retest, King and other K–8 Schools
+
+
+
+
+                          (Results for students not meeting the standard on first attempt)
+
+                                                                          OAKS Results in King School 2010/11–2012/13 25
+Figure 9
+Average Gains in Proficiency Level in Reading/Literature from First Attempt to Retest, King and
+K–8 Schools With Demographics Similar to King
+
+
+
+
+                         (Results for students not meeting the standard on first attempt)
+26 Education Northwest
+Figure 10
+Average Gains in Proficiency Level in Mathematics from First Attempt to Retest, King and
+K–8 Schools With Demographics Similar to King
+
+
+
+
+                      (Results for students not meeting the standard on first attempt)
+
+
+
+                                                                     OAKS Results in King School 2010/11–2012/13 27
+28 Education Northwest
+Chapter 3:
+Interview Results
+
+King staff members offered many ideas about factors that may have contributed to King’s
+OAKS performance from 2010/11 to 2012/13. Their perspectives varied somewhat; however, in
+general interviewees made similar observations about differences in the school’s testing
+environment (e.g., accommodations offered, number of attempts allowed, and others) and in its
+teaching environment (staff turnover, teaching assignments, and others). Additionally,
+interviewees perceived long-term trends affecting the school, though study of these trends
+would warrant additional time, data, and resources.
+
+In understanding the results of the interviews, it should be kept in mind that results are
+based on recollections of a relatively small number of individuals and that some staff
+members who worked at King in 2010/11 and 2011/12 are no longer in the school and thus
+were not interviewed. The report includes only findings from 2011/12 and 2012/13 because
+some of the interviewees were not in the school in 2010/11 and because differences between
+2011/12 and 2012/13 reported in interviews were more notable than the differences between
+2010/11 and 2011/12. Finally, within the time frame of the study, Education Northwest had
+little opportunity to verify informants’ reports of conditions in the school, especially in the
+earlier years.
+
+
+Testing Environment
+
+Interviewees emphasized “drastic” differences in the testing environment, especially
+between 2011/12 and 2012/13.
+
+Of the interviewees, five of them were present during both the 2011/12 and 2012/13 OAKS
+testing windows. All five interviewees noted changes to the testing environment between the
+two years. Changes fell into six interrelated categories:
+
+   1.   External scrutiny
+   2.   Testing climate
+   3.   Supervision
+   4.   Accommodations
+   5.   Training and guidance
+   6.   Retesting
+
+In order to provide a coherent picture of the testing environment in each year, we describe each
+year separately. Table 5 summarizes differences between testing environments in 2011/12 and
+2012/13.
+
+
+
+
+                                                         OAKS Results in King School 2010/11–2012/13 29
+Table 5
+Testing Environments at King School in 2011/12 and 2012/13
+               External           Testing                                        Training &    Initial Attempt
+               Scrutiny           Climate      Supervision   Accommodations      Guidance      and Retesting
+011/12        Spread-         “Encouraging”    3-7 adults    Snacks            Slide deck      3 attempts
+              sheet
+                                                             Breaks
+                                                                               Signed          Relatively
+                                                             Read              affidavit or    small groups,
+                                                             alouds for all    release         especially
+                                                             students                          during retakes
+                                                                               2
+                                                                               presentations   Testing began
+                                                                               from SIG        relatively
+                                                                               coach           early, allowing
+                                                                                               for more
+                                                                                               attempts
+
+
+                                                                                               Math coach
+                                                                                               used test data
+                                                                                               to inform math
+                                                                                               instruction and
+                                                                                               math stations
+2012/13       Checklist       “Sterile”        1-4 adults    Snacks            Online          2 attempts
+                                                                               training
+                                                             Read alouds for
+              District                                       ESL and SPED                      Relatively
+              visits                                         students          Meeting to      large groups
+                                                                               discuss
+                                                                               accommodati
+              Media                                                            ons
+              coverage
+Source: Authors’ analysis of interview data.
+
+
+2011/12 Testing Environment
+External scrutiny. According to one interviewee, during testing the district provided the school
+a “little spreadsheet to say, ‘How close are you?’ It would say, ‘You need two more students in
+SPED’ and ‘You need three more ELLs.’ As you were testing, you would get these updates on
+the computer, like a document,” which “seemed like it was what you needed to meet AYP
+[Adequate Yearly Progress as defined by the No Child Left Behind Act] and how close you
+were or how far away you were.” This interviewee explained that the spreadsheet served as a
+“guide” that suggested the school should “provide for [those students], maybe the most of
+whatever they needed, like testing them earlier. It would be the normal testing environment but
+with extra accommodations.” No interviewee recalled district officials visiting the school during
+the 2012 OAKS tests.
+
+
+
+
+30 Education Northwest
+Testing climate. During the 2012 OAKS tests, school staff strove to provide “an encouraging
+environment” during testing that “made the students comfortable.” As explained by one
+source, “We made it a point to really make it very positive and supportive.” Another explained
+that the goal was to create an “environment for the kids to reach their capacity.” Yet another
+emphasized the breadth of this effort; the mindset within the school was, “Hold everything,
+we’re going to put all of our focus on testing.”
+
+The school took a few steps to create this “encouraging” environment. Adults in the testing lab
+set an upbeat, nurturing tone, telling students, “You’re doing a good job” as they worked
+through the examinations. The testing lab featured signs with similar messages, such as “You
+can do it!” In the words of one interviewee, “We were encouraging kids, telling them to do their
+best. Loving them up and letting them know they could do it.” According to this interviewee,
+the students responded well: “Kids were excited, they were cheering for each other” and there
+were “kids yelling with excitement when they found out they met [the cut score]. It was a
+positive thing.” Another interviewee cited a downside to this activity: sometimes there were
+“too many kids or [it was] too loud” in the testing lab.
+
+Supervision. During 2012, interviewees recalled as few as three and as many as seven adults
+being present in the testing lab. Although only adults who had completed OAKS training could
+be in the testing lab training (see section Training and Guidance below), they functioned as more
+than proctors and test administrators: they were also agents of the school’s encouraging test
+climate. For example, the test administrator read instructions aloud to students and carried out
+logistical aspects of the test (e.g., making sure students were able to log on and to indicate
+accommodations received by the student). Additional adults were stationed between pairs of
+students to provide accommodations like “read aloud” (see section Accommodations below),
+offer encouragement, and remind students of “best practices” like “use your resources,” like
+highlighting text on the screen, and “show your work.” One interviewee also noted adults
+could ask students, “Is that your final answer?” while another reported that students were told
+they could check their work before and then after the test. Beyond this explicit work to
+encourage students to do well, two interviewees felt an adult nearby also helped students to
+“focus and work hard.” “As soon as they sat down at the test, [the students] were encouraged
+just by sheer proximity of the teacher there to do their best,” explained one interviewee.
+
+An additional rationale for such adult presence was to allow the students to “co-regulate with
+an adult to be successful in the testing environment.” In other words, students themselves and
+the adults around them could attend to students’ physical and emotional states and respond to
+signs of less than optimal functioning. For example, one interviewee explained an adult could
+notice when a student was “glazing over” and advise the student to take a break or to get a
+snack. The adult could also help manage a student’s emotional deregulation, such as when a
+child “burst into tears, but we gave her a break and a snack and she came back and passed.”
+Another interviewee described how students “were comfortable enough to tell us they were
+spent” and needed to take a break from the test.
+
+
+
+
+                                                          OAKS Results in King School 2010/11–2012/13 31
+Perhaps because of the school’s focus on co-regulation, two interviewees emphasized the
+importance of having adults with a relationship to students in the testing lab, such as their
+homeroom teacher, content area teacher, and/or support teacher (English-as-a-Second-
+Language (ESL)teacher, Special Education (SPED) teacher, math coach, etc.). Substitute teachers
+supervised students who were in the classrooms of teachers who were in the testing lab; one
+interviewee also reported substitutes assisted with testing. Responsibility for coordinating and
+administering tests was spread across a few individuals, including the school testing
+coordinator and math coach; classroom teachers and support teachers (ESL and SPED) also
+administered the tests. According to one interviewee, classroom teachers were less likely to help
+with the final round of testing because relatively few students took the tests three times (see
+section Retesting below). Interviewees recalled that students receiving SPED or ESL services
+were tested by their respective SPED or ESL teachers; other students were usually tested by
+their homeroom teacher, reading/language arts teacher, and/or math teacher.
+
+Accommodations. As mentioned above, in 2012 adults were in the testing lab in part to provide
+accommodations to students. The State of Oregon’s Accommodations Manual 2011-12 defined
+accommodations as:
+      Practices and procedures in presentation, response, setting, and timing or scheduling
+      that, when used in an assessment, provide equitable access to all students.
+      Accommodations do not compromise the learning expectations, construct, grade-level
+      standards, and/or measured outcome of the assessment. Use of approved accommodations
+      during administration of an Oregon Statewide Assessment based on individual student
+      needs will not impact the validity of the assessment results (Office of Student Learning
+      and Partnerships, 2011, p.12, emphasis theirs).
+
+According to the manual, some accommodations were available only to students with particular
+needs (e.g., English Learners could listen to audio recordings of tests in English and Spanish),
+but many accommodations were available to any student taking the OAKS assessments (e.g.,
+frequent breaks). Similarly, some accommodations were intended to use one-on-one with
+students, while others could be used with small groups or even whole groups of students.
+
+During the 2011/12 OAKS testing, King staff members utilized several accommodations. Any
+student could take a break in a separate break room (recalled by two interviewees), eat a snack
+(recalled by one interviewee), or complete a test over the course of multiple test sessions
+(recalled by one interviewee, who noted some students took four or five days to complete a
+test). These accommodations were available for either the math or reading OAKS.
+
+Other accommodations were available only for specific tests. For the OAKS reading test, four
+interviewees remembered that any student was allowed to “read aloud,” meaning they could
+read anything on the test aloud to themselves. Similarly, students could “think aloud” as they
+pondered their answers to test items. (The Accommodations Manual 2011/12 identified the
+think aloud strategy as an acceptable accommodation for either the reading or math
+
+
+
+
+32 Education Northwest
+assessments; however, two interviewees indicated that the think aloud strategy was used only
+during the reading assessment.)
+
+For the OAKS math test, the read aloud accommodation was slightly different—an adult
+“prompter” could read math questions to students. Three interviewees stressed that adults
+could only read aloud to students during the math test, since the purpose of the math read
+aloud accommodation was to enable students to complete math problems regardless of their
+reading ability. One interviewee elaborated on the guidelines adult prompters were expected to
+follow during math read alouds, such as reading numbers as digits without place value names
+(e.g., a prompter could read 137 as “one three seven” but not as “one hundred thirty-seven”).
+Students could also opt for the computer to read math questions aloud to them, but according
+to one interviewee, that option was “not welcomed” at the school and that “a person, someone
+with a relationship” to the students should read aloud instead.
+
+Training and guidance. As mentioned above, any adult taking part in OAKS testing had to be
+trained. Five interviewees reported training and guidance related to OAKS administration in
+2011/12, including a presentation by the school’s federal School Improvement Grant (SIG)
+“coach” or “administrator.” Interviewees had varying perceptions of where the SIG coach
+worked; two noted she had been “brought in” from outside of the school while two identified
+her as an Oregon Department of Education employee. Interviewees recalled that the
+presentation included a review of “documents” about accommodations; one interviewee
+recalled that the SIG coach presented both the state OAKS Manual and the state
+Accommodations Manual. Most interviewees agreed that some of the accommodations hadn’t
+previously been used at the school. In one’s words, “a number of us were quite surprised and
+actually asked her to come back and clarify what she had presented because it was completely
+new to us that [the accommodations were] allowable. She presented pages of documents in
+support of it.” A second interviewee noted,
+
+       When we first found out about the accommodations, the staff had questions. This was not
+       how we had been doing it. They called in a [presenter] who came in two different times. It
+       was almost like the teachers questioned her and said, “We don’t think this is right, we’ve
+       never been able to do this.” On both occasions [the presenter] went through the testing
+       manual and interpreted it.
+
+Interviewees did not identify specific passages in the accommodations manual or any other
+document that the SIG coach interpreted for them.
+
+According to one interviewee, the school testing coordinator also provided training and
+distributed a slide deck from the school district or state about OAKS administration to teachers,
+as well as a link to the OAKS requirements. Anyone administering tests was expected to sign a
+document (an “affidavit” or a “release”) attesting to their understanding of the requirements.
+Another interviewee mentioned that in 2012, testing was “all hands on deck” and so
+“everybody got OAKS trained.”
+
+
+
+                                                              OAKS Results in King School 2010/11–2012/13 33
+Retesting. During 2012, staff members, such as the testing coordinator and math coach,
+determined “how kids were grouped, who sat next to them, if someone sat next to them, all of
+that.” Four interviewees said the number of students in the testing lab at once was relatively
+small in 2012; two mentioned they sent in groups of 10 or fewer students at a time. In addition,
+struggling students experienced progressively smaller groups of students each time they re-
+attempted the test. One interviewee said, “It was a very small testing environment, the groups
+of students got smaller and smaller and smaller. It was whole class first round, then second
+round was strategically smaller groups with more space and time allowed for the students” and
+so on until the third (final) round of retests. Another interviewee observed that students got
+“nervous” during the testing, but “more times you get to go in there, you get used to it.”
+
+In 2012, OAKS testing began relatively early, in January. This early start allowed students to
+take the test up to three times, as was allowed by the Oregon Department of Education, if
+needed. Additionally, according to one interviewee, the math coach worked with teachers to
+design and teach math activities meant to help “tier two” students (those who didn’t meet
+proficiency on their first attempt but who were relatively close to meeting it) gain the skills
+needed to achieve proficiency. The math coaches’ lessons and math stations provided “a lot of
+opportunities to enrich their math vocabulary and skills” on topics normally not covered until
+the end of the school year.
+
+Despite initial skepticism, King staff members believed the testing accommodations
+offered in 2011/12 were valid because they had been sanctioned by an external expert.
+
+In sum, interviewees described a testing environment in 2012 that seemed designed to make the
+testing experience less stressful for students and to encourage better test performance. School
+staff members accomplished this with several strategies, most notably expanded use of
+accommodations. According to five of the six interviewees, the changes to the accommodations
+were inspired by a presentation by the school’s federal SIG coach, who was not a school
+employee but came to the school frequently to guide and support SIG implementation.
+Although interviewees didn’t have the same perception of who the SIG coach worked for (e.g.,
+the district, the state, or the “administration”), it was clear they felt she was in a position of
+authority and expertise.
+
+2012/13 Testing Environment
+External scrutiny. In 2013, interviewees reported scrutiny from the district before and during
+OAKS testing, as well as additional scrutiny from local media after testing. Two interviewees
+were informed before testing began that a former teacher had made allegations of cheating on
+prior OAKS assessments. One of these interviewees stated the district’s “reaction” to the
+allegations was to give the school administration a “checklist” of criteria to follow during OAKS
+tests. Someone from the district “came to pop in on” tests while they were in progress “to make
+we were following the criteria.” According to the interviewee, the criteria:
+
+
+
+
+34 Education Northwest
+          Reduced the number of staff members allowed to be present during tests
+          Specified that the testing lab should be quiet
+          Required that adults were seated away from students, such as in the corners of the
+           testing lab
+          Stipulated that read-aloud accommodations (whether students reading aloud to
+           themselves or adults reading math test items aloud to students) had to be conducted
+           one-on-one in separate rooms from other test-takers
+          Required that read-aloud accommodations only occur for entire tests (e.g., a teacher
+           had to read an entire test to a student rather than certain questions on it)
+
+Although this interviewee felt “teachers didn’t know about the complaint” before or during
+testing, teachers knew “the testing environment changed drastically.” As put by another
+interviewee, teachers “got scared” and “felt like they had to walk on eggshells.” Still another
+felt “the hammer came down on us” because of the allegations.
+
+Reflecting on all of the aforementioned changes to the testing environment in 2012/13, one
+interviewee stated, “I think what is inequitable is that none of the other schools like ours [got]
+popped in on by the district. Other schools I’ve asked, they had the testing environment like
+ours in 2011/12. Honestly, I don’t think there is another school that has a testing environment
+like we had in 2012/13.” Another elaborated,
+
+       I believed and other people believed we were doing the right thing [in 2011/12]. We did
+       nothing wrong and we have nothing to be ashamed of. But a lot of teachers didn’t want
+       anything to do with testing. It wasn’t fair to the kids. [In prior years teachers] had given
+       kids practice tests, practice using the resources, but a lot people got scared and just said,
+       “Go in and take it” and that’s it.
+
+When school test results were released later in 2013, local media reported on the school’s lower
+scores on the 2012/13 test relative to 2011/12, and surfaced the allegations of cheating. One
+interviewee commented that it “was a really hurtful thing” to have a former teacher make the
+allegations, and then to have them made public.
+
+Testing climate. In 2012/13, staff members at King School worked to make the testing lab
+“completely quiet” with adults “not talking to kids” unless they were students with special-
+needs being individually tested by the SPED or ESL teachers. Two interviewees used the word
+“sterile” to describe the testing lab, including one who added that it was “by the book.”
+Another said it was “businesslike, like a factory. We brought them in and moved them out, no
+emotion to it.” Another interviewee explained, “We could not talk to the students or encourage
+them...We couldn’t tell them, ‘Good job!’” A final interviewee observed, “That whole experience
+in the [testing] lab changed greatly.”
+
+
+
+
+                                                                OAKS Results in King School 2010/11–2012/13 35
+Two interviewees commented on students’ responses to this “sterile” testing climate. One
+reported “it was very confusing for the students. They had just had a very positive experience
+[during the 2011/12 tests] and then all of a sudden it was not positive.” The second stated, “It
+was a horrible experience for the kids” and “they just bombed.”
+
+Supervision. Interviewees repeated that in 2012/13, only trained staff members could be present
+in the lab during OAKS testing. Interviewees reported as few as one and as many as four adults
+in the testing lab. The school had a testing coordinator; in addition to the coordinator, classroom
+teachers and support teachers (ESL and SPED) administered the test. One interviewee
+mentioned substitute teachers came to the school to provide support, such as teaching while
+homeroom teachers administered the tests, while another interviewee reported no support from
+substitutes during 2012/13 OAKS tests. In their reflections about supervision during testing, two
+interviewees mentioned a relative “lack of support” compared to 2011/12. One interviewee
+emphasized that adults in the testing lab were expected to sit away from students.
+
+Accommodations. When describing accommodations available to students during 2012/13, five
+interviewees noted that fewer students were able to access read-aloud accommodations than in
+2011/12. Four of them indicated that students receiving ESL and/or SPED services could receive
+read-aloud accommodations because of the support provided by the ESL or SPED teachers who
+were able to test their students one-on-one. Students without ESL or SPED services did not
+receive read-aloud accommodations because the school “didn’t have the manpower” to offer
+one-on-one testing for all students in grades three to eight. One interviewee noted that students
+did receive snacks upon completion of a test, but did not have access to a break room. In the
+words of another interviewee, “All of the accommodations from the previous year went out the
+door” with the exception of “a handful of kids who were either intervention kids or ESL kids
+who still had the read aloud.”
+
+Training and guidance. Three interviewees recalled completing online training on
+administering the OAKS test during 2012/13. Additionally, two of these interviewees mentioned
+attending a meeting about allowable accommodations. Both noted the guidance offered during
+this meeting made clear how different accommodations would be compared to 2011/12; one
+used the word “stringent” to describe the changes. One interviewee involved in test
+coordination during 2012/13 “passed this down to the staff. They could not tell [students] to
+check their work, could not remind them to use the features of the test [like highlighting text on
+the computer screen], they could not encourage students.” In terms of accommodations, the
+most salient difference to interviewees was the change from offering read alouds in small or
+whole group settings to offering them one-on-one (one interviewee noted read alouds could be
+one-on-one or in small groups). Another interviewee recalled that the school invited the SIG
+coach back to “tell us if we were right or wrong” about the accommodations.
+
+Retesting.The 2012/13 school year marked the first time students had only one opportunity to
+repeat each OAKS test; in prior years, students had two opportunities per test. In terms of the
+size of student groups during the first round of testing, one interviewee noted that whole
+
+
+
+36 Education Northwest
+classes went to the testing lab at once while another reported that the school “tried to reduce the
+number of students, split it up into a smaller group” because “when the lab is full, it’s not the
+best environment.” In discussing testing attempts, interviewees felt the number of students in
+the testing lab decreased between the first and second rounds of testing since students who met
+proficiency didn’t have to be retested.
+
+According to one interviewee, OAKS testing began later in the school year during 2012/13, a
+change meant to ensure students experienced more of the curriculum before testing. This
+interviewee couldn’t remember when testing started, but recalled that the late start meant the
+school “almost ran out of time” to complete both rounds of testing.
+
+Understanding of acceptable accommodations shifted between 2011/12 and 2012/13
+
+Interviewees did not indicate specific parts of the Accommodations Manual from either 2011/12
+or 2012/13 that had been presented and interpreted to them, and only one interviewee recalled
+that the Accommodations Manual had been used during the SIG coach’s presentations about
+testing in 2012. Our review of both manuals found no differences in how the manuals describe
+the read aloud accommodations. However, the interpretation of these descriptions was clearly
+different at the school between 2011/12 and 2012/13. In 2011/12, the interpretation was given by
+the SIG coach, while in 2012/13 the district’s criteria seemingly shaped the school’s
+interpretation.
+
+Referring to math read aloud accommodations, the 2011/12 Accommodations Manual stated,
+“Read aloud accommodations must be provided individually and typically requires a separate
+setting,” (Office of Student Learning and Partnerships, 2012, p.35). In 2011/12, teachers sat
+between pairs of students and read aloud in response to a student’s requests; students were not
+in a separate setting. In contrast, in 2012/13 students received read aloud accommodations one-
+on-one with an adult, in a separate setting from other test takers.
+
+Similarly, the 2012/13 manual’s description of the read aloud accommodation for the reading
+test included stated, “Prompts must be read word-for-word without extra explanations or
+interpretations that are unavailable to other students. To avoid distracting other students, other
+accommodations may be required for read aloud to a small group (e.g., separate setting)”
+(Office of Student Learning and Partnerships, 2012, p. 36). In 2011/12, the school did not believe
+students needed a separate setting for the reading read aloud, but then required the separate
+setting in 2012/13. Our review of the manuals did not identify a requirement for the 2012/13 test
+mentioned by one interviewee, namely that math or reading test read aloud accommodations
+had to be provided only for entire assessments rather than item by item or upon student
+request.
+
+
+
+
+                                                           OAKS Results in King School 2010/11–2012/13 37
+Teaching Environment
+
+Interviewees noted changes to the teaching environment, especially between 2011/12
+and 2012/13
+
+Interviewees observed several differences to the teaching environment that could have
+impacted the quality of instruction between 2011/12 and 2012/13. Differences involved:
+          Turnover among teachers and support staff
+          Long-term absence of an experienced teacher
+          Grade-level assignments and re-organizations
+          Leveled classes in elementary grades
+          Intervention classes in elementary- and middle-school grades
+
+We address each of these topics in two sections below: one for 2011/12 and one for 2012/13.
+Table 6 summarizes changes to the teaching environment in 2011/12 and 2012/13. Detailed
+information about the contents of the table follows the table.
+
+
+
+
+38 Education Northwest
+Table 6
+Teaching Environments at King School in 2011/12 and 2012/13
+                                                  Grade-level
+                                   Long-term     assignments &        Leveled         Intervention         Other
+                 Turnover          absences     re-organizations      classes           classes           support
+             New 4th/5th-          None         Mid-year: two      3rd & 4th        3rd-5th-grade      3rd-5th-
+             grade teacher                      4th/5th-grade      grade walk-to-   reading            grade push-
+                                                classes become     read             interventions      in math
+             New school                         one 4th-grade                       with SPED          instruction
+             improvement                        and two 5th-       5th-grade        teacher            and stations
+             specialist                         grade classes      walks-to-read                       by math
+                                                                   until 2/12       6th-8th-grade      coach
+             Mid-year: 5th-                                                         reading
+2011/12      grade teacher                                         4th & 5th-       interventions
+                                                                   grade walk-to-   with school
+                                                                   math             improvement
+                                                                                    specialist
+                                                                   6th-8th
+                                                                   departmentaliz   4th math
+                                                                   ed               interventions
+                                                                                    with math
+                                                                                    coach
+             Math coach            3rd-grade    3rd-grade          3rd & 4th        3rd-8th grade      None
+             vacancy               teacher      teacher new to     grade walk-to-   reading
+                                   (February-   grade level,       read             interventions
+             New middle            April)       starts new loop                     with SPED
+             school math                                           6th-8th-grade    teacher
+             teacher                            4th-grade          departmentaliz
+                                                teacher loops      ed
+             New middle                         with prior
+2012/13                                         students
+             school
+             science
+             teacher
+
+             Mid-year: new
+             middle school
+             language arts
+             teacher
+Source: Authors’ analysis of interview data.
+
+
+
+
+                                                                     OAKS Results in King School 2010/11–2012/13 39
+It is important to note the school maintained a consistent overall structure between 2011/12 and
+2012/13 in that elementary-school teachers taught all or most of the curriculum to students in
+their homerooms, while teachers at the middle-school level were departmentalized and taught a
+single content area to students (e.g., the middle school math teacher taught separate sixth
+through eighth-grade math classes). Support teachers such as the ESL teachers or SPED teachers
+offered their services to students at several grade levels; for instance, one ESL teacher
+specialized in third through eighth grades.
+
+Also noteworthy is that traditionally, King School has had a relatively small faculty. For
+example, in the current 2013/14 school year, one interviewee counted one third-grade teacher,
+two fourth-grade teachers, one fifth-grade teacher, four middle school teachers (one each for
+social studies, science, math, and language arts), and a few specialists that teach multiple grade
+levels (dance, SPED, ESL, etc.) in the faculty. In such a small school, the departure or addition of
+a single teacher could impact an entire elementary grade level or, in the case of specialists and
+middle-school teachers, multiple grade levels.
+
+2011/12 Teaching Environment
+Turnover among teachers and support staff. At the beginning of the 2011/12 school year, a
+school improvement specialist and one new elementary school teacher (teaching a split
+fourth/fifth-grade class) started at King; one interviewee also mentioned at least one new
+middle school teacher joined the faculty in the year. In fourth and fifth grades, the school
+featured two split-grade classrooms, both of them fourth/fifth-grade splits. In February, the
+school added a fifth-grade teacher, who was hired from within the existing elementary faculty.
+There were no long-term absences of third- through eighth-grade teachers in 2011/12.
+
+Grade level assignments and re-organization. With the addition of a new fifth-grade teacher in
+February, the school re-organized the fourth/fifth combination classes. One of the fourth/fifth
+teachers took on all of the fourth graders. The other fourth/fifth teacher kept half of the fifth
+graders; the newly-promoted fifth-grade teacher took the remaining fifth graders. Many
+students, then, had to adapt to new homeroom classrooms and teachers mid-way through the
+school year.
+
+Leveled classes in elementary grades. Fourth- and fifth-grade students “walked to math”
+during 2011/12, meaning they switched to classes composed only of students of similar math
+ability. The fourth/fifth combination teachers and the school math coach provided these leveled
+math classes. In the words of one interviewee, the levels were defined as “at or almost at grade
+level,” and “below or well below” grade level. This interviewee felt the school’s leveled math
+classes enabled teachers to provide “different levels of differentiated support” to students. Also,
+the math coach “pushed in” to third-, fourth-, and fifth-grade math classes every week. As
+described by one interviewee, during the weekly visits the math coach taught a lesson and
+provided a few “math stations” with small group or individual math activities; both the math
+coach and math teacher remained in the classroom to help students. Another interviewee
+mentioned that the math coach’s push-in lessons increased the amount of time students spent
+
+
+40 Education Northwest
+studying math, as well as gave students “a lot of opportunities to enrich their math vocabulary
+and skills,” especially related to content usually covered later in the school year.
+
+Finally, third, fourth, and fifth-grade students walked to read in 2011/12, which suggests
+students in all of the OAKS tested grades received reading/language arts instruction in leveled
+classes. An interviewee noted this structure helped students “who [were] struggling but didn’t
+have an IEP [Individualized Education Program, typically created for students receiving SPED
+services].” Students could attend a reading class either above or below their grade level, if
+needed, although one interviewee noted this was the exception rather than the rule.
+
+Intervention classes in elementary and middle school grades. Another strategy for
+differentiated support employed at King School was intervention instruction in both reading
+and math. One interviewee mentioned pull-out math intervention sessions with the math coach,
+which happened “a few times a week for 30 minutes” for elementary school math students who
+were close to meeting proficiency on the OAKS. Another interviewee said the math coach “was
+working with all of the students especially in preparation for the OAKS.”
+
+In reading, one interviewee said the SPED teacher pulled out elementary-grade students who
+were struggling to read for a “strategic intervention group.” At the middle school level, another
+interviewee identified the school improvement specialist as a reading intervention teacher.
+
+2012/13 Teaching Environment
+Turnover among teachers and support staff. Interviewees noted several staff changes at the
+beginning of the 2012/13 school year, including new middle school teachers in math and
+science, both OAKS-tested subjects. The middle school language arts teacher departed mid-
+year, as well, and was replaced by a new teacher. In the elementary school, the third-grade
+teacher took a three-month leave during the 2013 testing window, and was replaced by a long-
+term substitute teacher during that time. Yet another elementary school-teacher hosted a
+student teacher, who gradually took on increased teaching responsibilities until she “soloed” in
+math and then other content areas. Finally, all six interviewees referenced the departure of the
+math coach, whose position remained unfilled for the entire school year.
+
+In contrast to their descriptions of turnover during 2011/12, interviewees’ perceptions of
+changes to staff in 2012/13 were relatively negative. One recalled that the “middle school
+changed drastically, pretty much complete turnover.” Another felt the new middle school staff
+were “definitely disorganized. There was not a lot of learning going on due to behavioral
+chaos.” Still another said,
+
+       “We had all new teachers in the middle school by testing time. And there were also all
+       first-year teachers…without any disrespect intended, it’s hard. We’ve got often
+       challenging students and it’s hard your first year.”
+
+
+
+
+                                                              OAKS Results in King School 2010/11–2012/13 41
+And although the student teacher was “good” and “did a very good job,” one interviewee
+questioned the “effect [having a student teacher] had, as far as some of the kids who were close,
+but didn’t meet,” proficiency in math.
+
+Grade-level assignments and re-organization. Although no new teachers joined the elementary
+school faculty, two elementary teachers taught different grade levels than they had in the prior
+year. Two interviewees indicated both of these teachers were “looping” with students, meaning
+the teacher kept the same class two years in a row, the first year at one grade level and the
+second at the next grade level. In third grade, the teacher was a veteran educator, but had never
+taught that grade level before; the teacher began teaching third grade in order to begin looping
+with a class of students.
+
+Leveled classes in elementary grades. Interviewees indicated fewer elementary teachers taught
+leveled math or reading classes in 2012/13. In math, the school administration opted for the
+fourth- and fifth-grade teachers to swap classes for math instruction; one interviewee explained
+the rationale for this change was that one of the teachers had more experience with the math
+curriculum and thus was needed to instruct a particular grade level. This swapping structure,
+though, was not a means of leveling classes: the entire classes swapped, regardless of ability
+level. The school discontinued the swap when the third-grade teacher went on leave in
+February. The school had a single fifth-grade teacher and no math coach, and so fifth-graders
+did not walk to math.
+
+In reading, third- and fourth-graders walked to read. One interviewee indicated that only
+students receiving SPED services walked to a different class for reading instruction; two other
+interviewees recalled that only students reading two or more years below grade level walked to
+read, and they walked to a class by the SPED teacher. Fifth graders did not walk to math.
+
+Intervention classes in elementary and middle school grades. Interviewees also reported that
+fewer intervention classes were available to students in 2012/13. No interviewee indicated that
+math intervention classes were offered at any grade level. In reading, two interviewees said the
+SPED teacher offered reading interventions in elementary- and middle-school students eligible
+for SPED services. One of these interviewees noted that the school improvement specialist no
+longer offered reading interventions to middle school students that year.
+
+
+
+
+42 Education Northwest
+Long-term Influences on the School
+
+Interviewees noted long-term influences on the school
+
+Interviewees identified other factors that could have influenced test scores at the school. These
+remaining factors were not associated with a specific year, but reflect long-term trends in the
+school and surrounding neighborhood. In-depth exploration of these factors is beyond the
+scope of this report, but could be subjects of further study:
+          Student poverty
+          Student transience
+          School identity in a gentrifying neighborhood
+
+
+
+
+                                                           OAKS Results in King School 2010/11–2012/13 43
+44 Education Northwest
+Chapter 4:
+Evidence Concerning Explanations of Achievement Trend
+in King School
+
+A number of explanations have been offered informally and in the media to explain the test
+score trend in King School from 2010/11 through 2012/13. These include changes in the
+population of students at King and policy that allowed more retests in 2010/11 and 2012/13.
+Education Northwest assessed the plausibility of these explanations within the limits of the
+available data. Evidence from analyses of test results and from interviews with King staff
+members casts doubt on some explanations that have been advanced for the test score trend in
+King school from 2010/11 through 2012/13.
+
+Retesting in 2011/12 clearly contributed to higher achievement in King school that year
+compared to 2010/11 and 2012/13. However, neither analysis of test scores nor interviews with
+school staff members gives a clear answer to why achievement on retests increased so
+dramatically in 2011/12 compared to the other years.
+
+Demographics
+The demographics of the test-taking population at King School did not change substantially
+from 2010/11 to 2012/13 (Table 7). Furthermore, while average enrollment days were slightly
+lower for King compared to other K-8 schools, average absences were relatively similar. As a
+result, changes in attendance and demographics are unlikely explanations for the increase in
+OAKS scores at King in 2011/12.
+
+
+
+
+                                                        OAKS Results in King School 2010/11–2012/13 45
+Table 7
+Demographics of the Test-Taking Population in PPS K-8 Schools 2010/11–2012/13
+Year      School             Female   Asian   Black   Hispanic   Multiple    Native_Am   Pac_Isl    White   SPED   LEP    Enrolldays   Absences
+   2010   Arleta                 45      17       7        14            2           3          0     55      24     13          164          9
+   2011   Arleta                 44      18       7        16            4           2          0     53      26     12          160          9
+   2012   Arleta                 43      16       9        16            5           2          0     52      28     11          166         10
+
+   2010   Astor                  52      2       6         19           7           2          2      62      24      4         168          8
+   2011   Astor                  52      2       8         20           9           1          2      58      22      2         169          8
+   2012   Astor                  52      3       7         22           9           1          2      56      22      4         168          9
+
+   2010   Boise-Eliot            49      3      67         14           5           1          0      11      15      8         158         11
+   2011   Boise-Eliot            47      4      62         15           8           0          0      11      19      7         165         10
+   2012   BE-Humb                46      4      60         18           9           2          0       7      19     10         165         11
+   2010   Beach                  52      5      19         40           7           2          1      26      12     17         160         10
+   2011   Beach                  54      5      19         38           7           1          1      30      12     11         167          8
+   2012   Beach                  51      4      16         36           8           1          1      34      13     12         168          8
+
+   2010   Beverly Cleary         52      3       5          5           5           2          0      79       9      1         167          8
+   2011   Beverly Cleary         51      4       4          3           4           2          0      82      10      1         169          8
+   2012   Beverly Cleary         50      3       4          4           4           1          0      83      10      1         171          7
+
+   2010   Bridger                46     18      13         28           5           2          4      31      20     30         160         10
+   2011   Bridger                48     12      11         29           6           1          4      37      21     22         162          8
+   2012   Bridger                56     10       6         33           5           1          3      43      20     22         165          8
+
+   2010   Creative Science       40      4       3          5           8           1          1      78      21      1         170          9
+   2011   Creative Science       43      6       4          5           8           1          1      77      21      2         170          7
+   2012   Creative Science       40      5       3          3           7           0          0      81      22      2         171          8
+   2010   César Chávez           53      2      16         63           4           0          4      12      11     41         158          9
+   2011   César Chávez           54      2      15         64           5           0          3      11      15     40         160         11
+   2012   César Chávez           54      2      14         66           5           1          2      10      15     37         161          9
+
+   2010   Faubion                52      4      39         17          10           0          2      27      17     12         165          8
+   2011   Faubion                52      4      41         18          10           0          1      25      16      8         164         10
+   2012   Faubion                55      4      37         23           9           0          1      25      15     13         163          9
+
+   2010   Harrison Park          47     28      17         19           4           1          1      29      16     30         159          9
+   2011   Harrison Park          48     25      20         19           4           1          3      28      21     26         160          8
+   2012   Harrison Park          47     30      18         18           4           1          2      27      22     22         162         10
+
+
+
+
+46 Education Northwest
+Table 7 (continued)
+Demographics of the Test-Taking Population in PPS K-8 Schools 2010/11–2012/13
+  Year   School          Female   Asian   Black   Hispanic   Multiple   Native_Am   Pac_Isl   White   SPED    LEP     Enrolldays   Absences
+  2010   Hayhurst           47        1       5          7          7           0        0      79      14      2            166          9
+  2011   Hayhurst           49        2       1          4          9           0        0      84       8      1            171          7
+  2012   Hayhurst           47        2       0          5        10            0        0      83       9      1            170          8
+
+  2010   Humboldt            47      1      58         23          6           2         0       9      16      12           162           10
+  2011   Humboldt            46      5      58         25          7           2         0       3      15       9           162           10
+  2010   Irvington           43      1      27         11          9           1         1      51      17        2          169             9
+  2011   Irvington           45      2      28         10         10           1         0      49      16        3          167             8
+  2012   Irvington           48      3      24         15          8           0         0      51      17        4          168             9
+
+  2010   King                51      3      56         32          4           1         1       3      14      19           158            8
+  2011   King                42      3      56         32          3           1         0       7      17      19           152           10
+  2012   King                44      1      55         33          4           2         0       4      19      18           154            8
+
+  2010   Laurelhurst         56      3       2          8          7           1         0      79      14        1          169             7
+  2011   Laurelhurst         55      3       2          7          9           1         0      78      18        1          171             7
+  2012   Laurelhurst         53      3       1          7         10           1         0      79      17        2          170             7
+
+  2010   Lee                 40     28      18         15         11           3         1      25      17      22           157             8
+  2011   Lee                 43     26      18         16         11           1         1      25      21      16           164             8
+  2012   Lee                 45     26      19         17         12           2         1      23      23      15           169             9
+
+  2010   Lent                46     15      11         34          4           1         0      34      16      23           158           10
+  2011   Lent                49     16      12         37          4           1         1      29      17      26           162           10
+  2012   Lent                46     15      11         41          6           1         1      25      17      26           165            8
+  2010   Marysville          53     22       9         15          7           2         5      40      18      23           164             9
+  2011   Marysville          54     24      10         20          7           0         3      36      21      21           162             9
+  2012   Marysville          50     24      10         20          8           1         3      33      18      19           161             7
+
+  2010   Ockley Green        41      5      39         18          3           1         5      29      23      12           157            9
+  2011   Ockley Green        43      5      43         17          5           2         3      26      33      11           160           12
+  2012   Ockley Green        53      8      40         17          5           2         4      25      25       9           162            7
+  2010   Peninsula           43      8      17         43          6           1         2      23      13      21           163            8
+  2011   Peninsula           47      5      17         47          5           1         2      22      19      18           168            9
+  2012   Peninsula           43      6      17         45          7           2         1      23      21      12           193           11
+  2010   Roseway Hts         43     10      10          9          6           3         1      61      17        5          165             9
+  2011   Roseway Hts         46     11       9          8          6           2         1      64      16        4          168             8
+  2012   Roseway Hts         46     12       8          9          5           1         0      65      16        5          168             6
+                                                                                                         OAKS Results in King School 2010/11–2012/13 47
+Table 7 (continued)
+Demographics of the Test-Taking Population in PPS K-8 Schools 2010/11–2012/13
+Year         School                  Female         Asian   Black     Hispanic      Multiple     Native_Am       Pac_Isl       White     SPED      LEP       Enrolldays     Absences
+   2010      Sabin                       47             2      37          15               8            1              1        36        16            4          168           10
+   2011      Sabin                       49             2      29          10               9            3              0        49        14            3          166            9
+   2012      Sabin                       46             2      26          10               8            1              0        53        12            2          169            8
+
+    2010     Scott                          45          8       14            48            5                2            1        21         9        31             153        12
+    2011     Scott                          49          9       14            53            5                1            1        16        11        29             164        12
+    2012     Scott                          47          9       12            59            4                1            1        12        15        34             162        11
+
+    2010     Skyline                        54          4        2             7            4                2            1        81        16          3            167         9
+    2011     Skyline                        54          3        2             8            5                1            1        80        18          2            164        10
+    2012     Skyline                        50          4        1             8            6                2            1        80        17          3            167         7
+    2010     Sunnyside                      51          4        2             6            7                1            0        81        14          2            167         9
+    2011     Sunnyside                      51          2        0             5            7                1            0        85        15          1            169         8
+    2012     Sunnyside                      50          1        1             6            8                0            0        83        13          1            168         9
+
+    2010     Vernon                         53          2       53            23            9                0            1        11         8        11             160         8
+    2011     Vernon                         54          4       42            30            8                1            0        15        12        10             163        10
+    2012     Vernon                         53          2       44            23            9                0            1        20        12         7             165        10
+
+    2010     Vestal                         57        24        14            16            7                3            2        34        17        21             160        10
+    2011     Vestal                         53        26        10            16            8                4            2        33        22        16             162        10
+    2012     Vestal                         52        24        16            16            9                2            2        31        20        18             159         8
+
+    2010     Winterhaven                    38        12         1             5            3                1            1        77        10          0            169         7
+    2011     Winterhaven                    38         9         2             5            5                1            1        78        11          0            170         7
+    2012     Winterhaven                    41         7         2             4            6                0            1        80        12          0            172         7
+    2010     Woodlawn                       45          1       48            28            3                0            3        17        17        15             162        10
+    2011     Woodlawn                       46          2       48            27            6                1            4        13        22        15             162        11
+    2012     Woodlawn                       47          1       52            22            4                1            4        16        22        10             163         9
+Note Values for Enrolldays are average number of days enrolled; values for Absences are average number of reported absences. Values for all other variables are percent.
+Source: Education Northwest analysis of PPS data.
+
+
+
+
+48 Education Northwest
+   Results for the population of K-8 students who were tested in each year (“intact” population)
+   were very similar to the overall results, with a large increase in the percentage of King students
+   meeting the standards for proficiency from 2010/11 to 2011/12, followed by lower rates of
+   proficiency in 2012/13 (Table 8). This is additional evidence that the 2011/12 achievement results
+   for King school probably did not arise mainly from changes in the student population.
+
+   Table 8
+   Percentage of Students in the Intact Population of Students from 2010/11 to 2012/13 Meeting or
+   Exceeding the Standard for Proficiency
+
+                                                 Percent (Percentage Point change)
+                                    Reading/Literature                           Mathematics
+                                                2011 to 2012 to                          2011 to                        2012 to
+                       2010      2011 2012         2012     2013 2010 2011 2012             2012                           2013
+ Arleta                 56.1      64.0   69.1    ( 7.9)   ( 5.0)    51.4    52.9   56.4   ( 1.4)                         ( 3.6)
+ Astor                  76.2      81.1   67.1    ( 4.9)   (-14.0)   89.8    77.7   65.6   (-12.1)                        (-12.1)
+ BE-Humb                59.4      59.4   44.5    ( 0.0)   (-14.8)   54.7    72.7   42.2   ( 18.0)                        (-30.5)
+ Beach                  55.8      62.6   66.3    ( 6.7)   ( 3.7)    61.2    63.0   62.4   ( 1.8)                         ( -0.6)
+ Bev Cleary             92.7      92.7   93.6    ( 0.0)   ( 0.9)    82.1    86.7   89.0   ( 4.6)                         ( 2.3)
+ Bridger                41.4      65.5   44.8    ( 24.1)  (-20.7)   48.2    63.5   47.1   ( 15.3)                        (-16.5)
+ Creative Sci           78.7      78.7   78.7    ( 0.0)   ( 0.0)    65.9    70.5   72.7   ( 4.5)                         ( 2.3)
+ C Chávez               43.3      49.2   42.5    ( 5.8)   ( -6.7)   48.8    35.0   34.1   (-13.8)                        ( -0.8)
+ Faubion                54.5      69.6   63.4    ( 15.2)  ( -6.3)   52.2    54.9   54.0   ( 2.7)                         ( -0.9)
+ Harris Park            51.4      63.1   54.7    ( 11.7)  ( -8.4)   55.0    59.1   53.2   ( 4.1)                         ( -5.9)
+ Hayhurst               87.9      89.9   91.9    ( 2.0)   ( 2.0)    85.9    83.8   87.9   ( -2.0)                        ( 4.0)
+ Irvington              62.2      68.5   68.5    ( 6.3)   ( 0.0)    52.0    62.4   66.4   ( 10.4)                        ( 4.0)
+ King                   27.6      75.0   35.5    ( 47.4)  (-39.5)   39.0    64.9   20.8   ( 26.0)                        (-44.2)
+ Laurelhurst            86.1      92.9   90.1    ( 6.7)   ( -2.8)   82.5    83.7   83.3   ( 1.2)                         ( -0.4)
+ Lee                    52.8      62.5   48.6    ( 9.7)   (-13.9)   52.5    48.9   40.4   ( -3.5)                        ( -8.5)
+ Lent                   48.1      54.4   56.3    ( 6.3)   ( 1.9)    49.4    58.2   55.1   ( 8.9)                         ( -3.2)
+ Marysville             49.2      65.8   61.7    ( 16.7)  ( -4.2)   54.7    59.0   54.7   ( 4.3)                         ( -4.3)
+ Ock Green              42.7      51.2   43.9    ( 8.5)   ( -7.3)   32.5    35.0   31.3   ( 2.5)                         ( -3.8)
+ Peninsula              58.9      65.2   64.3    ( 6.3)   ( -0.9)   59.3    69.4   75.9   ( 10.2)                        ( 6.5)
+ Ros Heights            76.6      74.8   74.3     ( -1.9) ( -0.5)   70.8    60.4   65.6   (-10.4)                        ( 5.2)
+ Sabin                  75.3      84.9   80.6    ( 9.7)   ( -4.3)   76.3    87.1   77.4   ( 10.8)                        ( -9.7)
+ Scott                  42.6      52.9   49.3    ( 10.3)  ( -3.7)   30.8    30.8   33.8   ( 0.0)                         ( 3.0)
+ Skyline                85.6      85.6   83.5    ( 0.0)   ( -2.1)   82.8    82.8   78.8   ( 0.0)                         ( -4.0)
+ Sunnyside              84.3      89.4   81.8    ( 5.1)   ( -7.6)   73.1    78.2   75.6   ( 5.1)                        ( --2.6)
+ Vernon                 53.6      50.5   51.5    ( -3.1)  ( 1.0)    35.1    35.1   42.3   ( 0.0)                         ( 7.2)
+ Vestal                 53.6      61.6   60.7    ( 8.0)   ( -0.9)   64.9    57.7   58.6    ( -7.2)                       ( 0.9)
+ Winterhaven            94.9      96.3   95.6    ( 1.5)   ( -0.7)   96.3    97.8   95.6    ( 1.5)                        ( -2.2)
+ Woodlawn               51.3      41.6   53.1    ( -9.7)    11.5)   26.1    26.1   34.2    ( 0.0)                        ( 8.1)
+ All K-8                64.9      71.4   67.2    ( 6.5)   ( -4.2)   62.2    64.5   61.6    ( 2.3)                        ( -2.9)
+ Similar to King        49.9      56.8   51.2    ( 6.9)   ( -5.6)   46.2    48.6   43.6    ( 2.4)                        ( -5.0)
+ K-8 not King           65.6      71.3   67.8    ( 5.7)   ( -3.5)   62.7    64.5   62.4    ( 1.8)                        ( -2.1)
+Note: Results are presented for 3,838 students who tested in reading/literature and 3,819 students who tested in mathematics
+for three years.
+Source: Education Northwest analysis of PPS data.
+
+
+
+
+                                                                                 OAKS Results in King School 2010/11–2012/13 49
+Frequency of Retests
+On average, King students who did not meet the standard on their first attempt did not retest
+substantially more times than students in other K-8 schools who did not meet the standard on
+their first attempt (Table 9). Furthermore, the average number of retakes for King students was
+actually slightly smaller for 2011/12 than in 2010/11 (table 9). As a result, the increase in the
+percentage of King students achieving proficiency in 2011/12 compared to 2010/11 cannot be
+due to more retesting in 2011/12.
+
+
+
+
+50 Education Northwest
+Table 9
+Average Number of Retests for Students Not Meeting the Standard on First Attempt
+                                     2010/11                        2011/12                      2012/13
+          School                   Read     Math                  Read    Math                  Read   Math
+ Arleta                            2.4     2.5                    2.3     2.2                   2.0    2.0
+ Astor                             2.2     2.5                    2.5     2.4                   2.0    2.0
+ BE-Humboldt                       NA      NA                     NA      NA                    2.0    2.0
+ Beach                             2.4     2.4                    2.6     2.6                   2.0    2.0
+ Beverly Cleary                    2.1     2.5                    2.1     2.3                   2.0    2.0
+ Boise-Eliot                       2.6     2.7                    2.5     2.5                   NA     NA
+ Bridger                           2.5     2.8                    2.3     2.4                   2.0    2.0
+ César Chávez                      2.4     2.4                    2.3     2.1                   2.0    2.0
+ Creative Science                  2.3     2.4                    2.3     2.5                   2.0    2.0
+ Faubion                           2.4     2.4                    2.7     2.5                   2.0    2.0
+ Harrison Park                     2.4     2.6                    2.5     2.5                   2.0    2.0
+ Hayhurst                          2.3     2.4                    2.4     2.6                   2.0    2.0
+ Humboldt                          2.1     2.2                    2.2     2.2                   NA     NA
+ Irvington                         2.1     2.1                    2.0     2.0                   2.0    2.0
+ King                              2.6     2.6                    2.3     2.4                   2.0    2.0
+ Laurelhurst                       2.3     2.6                    2.7     2.7                   2.0    2.0
+ Lee                               2.6     2.8                    2.8     2.9                   2.0    2.0
+ Lent                              2.5     2.5                    2.3     2.3                   2.0    2.0
+ Marysville                        2.4     2.5                    2.7     2.7                   2.0    2.0
+ Ockley Green                      2.9     2.8                    2.6     2.6                   2.0    2.0
+ Peninsula                         2.3     2.4                    2.5     2.5                   2.0    2.0
+ Roseway Heights                   2.5     2.7                    2.3     2.3                   2.0    2.0
+ Sabin                             2.4     2.6                    2.5     2.5                   2.0    2.0
+ Scott                             2.8     2.9                    2.1     2.0                   2.0    2.0
+ Skyline                           2.4     2.5                    2.2     2.3                   2.0    2.0
+ Sunnyside Environ                 2.1     2.2                    2.1     2.1                   2.0    2.0
+ Vernon                            2.9     2.9                    2.6     2.4                   2.0    2.0
+ Vestal                            2.3     2.3                    2.0     2.0                   2.0    2.0
+ Winterhaven                       2.4     2.6                    2.6     2.5                   2.0    2.0
+ Woodlawn                          2.4     2.6                    2.4     2.4                   2.0    2.0
+ All K-8                           2.5     2.6                    2.4     2.4                   2.0    2.0
+ K-8 except King                   2.5     2.6                    2.4     2.4                   2.0    2.0
+ Similar to King                   2.5     2.6                    2.5     2.4                   2.0    2.0
+ NA indicates scores not reported because school was reconfigured.
+ Note: Averages include students who did not meet the standard on first attempt and retook the tests. Students
+ who did not meet the standard on first attempt but did not retake the test were not included. In 2012/13 state
+ policy limited retests to two attempts. Similar schools include Boise-Elliot-Humboldt, Boise-Elliot, Cesar Chavez,
+ Faubion, Harrison Park, Humboldt, Lee, Lent, Ockley Green, Scott, and Woodlawn.
+ Source: Education Northwest Analysis of PPS data.
+
+
+
+
+                                                                               OAKS Results in King School 2010/11–2012/13 51
+52 Education Northwest
+Chapter 5
+Current PPS Testing Practices
+
+This chapter provides an overview of PPS testing practices, with emphasis on training of staff
+members, monitoring the testing process, and responding to reports of irregularities.
+Information in this section was obtained from staff members from the district office. The
+purpose of this description of current PPS testing practices is to provide context for the
+recommendations in the following chapter. Education Northwest was not asked to conduct a
+comprehensive review of PPS activities in these areas as part of this project.
+
+
+Training for Staff Members Involved in Testing
+
+School staff members involved in testing students must read the current test manual published
+by ODE and undergo annual training required by the state including online training modules.
+PPS sends a hard copy of the manual to each school and it is available online. The ODE modules
+outline requirements and the district adds its own requirements to the modules. Training is
+required for everyone involved with testing—anyone who is in the room during testing is
+required to participate. The introduction to the modules explains that the training does not
+replace reading the test manual, which is a state requirement.
+
+Two key documents are embedded within the training module: the district’s data security test
+and the state’s Test Assurance Form. Staff members are required to answer a specific percentage
+of items correctly in order to complete training successfully. When that happens, staff members
+complete the state Test Assurance Form. (Last year the district did its own online verification
+using the state form. However, because of technical glitches some staff members were unable to
+access the form.) In signing the Test Assurance Form, examinees assert that they have read the
+state’s current test manual. Staff members who complete the training successfully receive a
+certificate.
+
+Schools have leeway in arranging for staff members to complete the training modules. At some
+schools, staff members participate in group training in the lab at their school. At most schools,
+staff members complete the modules individually.
+
+District staff members meet face to face with the new test coordinators at the beginning of the
+year through January or February and provide an hour-long briefing on testing security and
+responsibilities of test coordinators. 30-40 minutes are devoted to security and the coordinators’
+role in maintaining security. In addition, the district conducts meetings with returning test
+coordinators. Finally, training materials are posted online in the Learning Campus, the district’s
+main vehicle for training.
+
+
+
+
+                                                          OAKS Results in King School 2010/11–2012/13 53
+In the past, the district employed a train-the-trainer model, but this model was not universally
+effective, partly because of differences in the strengths of particular trainers. As a result,
+training was placed online to convey the same information to everyone. According to PPS, this
+system works better with the testing calendar since some schools don’t test until after spring
+break. Staff members in these schools can go back to Learning Campus to refresh their
+knowledge. Modules are updated annually and posted to Learning Center in November. This
+process will change next year with the start of the Smarter Balanced assessment; one expected
+change is that training will occur later in the year.
+
+Finally, the district provides substantial support to schools concerning testing. First, district
+staff members respond to questions from principals and test administrators by phone and email
+and sometimes by in-person visits to schools. In addition to receiving questions from principals
+and test coordinators, district staff members receive emails from teachers. Communication with
+schools is not confined to the testing window. Updates about testing are sent by email
+throughout the year.
+
+
+Monitoring the Testing Process
+
+ODE has stated that it would audit testing in schools. The district conducts site visits in
+anticipation of the state audits. These site visits are the primary means by which the district
+monitors testing in the schools.
+
+District staff members visit schools with the purpose of reviewing test security using a checklist
+drawn from guidelines in the test administration manual. District staff members have found the
+checklist to be useful in alerting school staff members to proper testing conditions. For example,
+before it became a key feature in the state manual that no technology (for example, student cell
+phones) should be in the test environment, the district included it on the checklist. The checklist
+is distributed to all test coordinators with the expectation that it will be shared with school staff
+members at the beginning of the year or at the beginning of testing. District staff members feel
+that the checklist was very clear about what was allowable or not allowable. In addition, the
+district maintains a website with information for test coordinators including the checklist, a
+teacher readiness checklist, and a form for reporting improprieties.
+
+The district includes 80 comprehensive schools and 20 community organizations. There is no
+overall plan for visiting every school; currently not every school is visited each year. In past
+years the dates and times of the visits and the names of teachers to be visited were announced
+before the visits. District staff members email the principal, test coordinator, and teacher, inform
+them that a visit is upcoming and send the checklist and the manual to remind them what the
+visit will cover. Visits are not conducted according to a specific protocol, though the members of
+PPS’ research and evaluation department follow agreed-upon steps when making visits. These
+steps are described on the department’s website. When district staff members visit schools, they
+generally observe one teacher and the teacher’s students as they are testing. After visiting
+
+
+
+
+54 Education Northwest
+schools, district staff members, they send notes of their visit to the principal, test coordinator,
+and the teacher as appropriate.
+
+The district is currently discussing making unannounced visits. In previous years the testing
+window was wider so visits needed to be scheduled when schools were testing. With the
+existing shorter testing window, a site visit is sure to include testing in at least one classroom.
+
+Despite the security visits by district staff members, schools bear the responsibility of self-
+reporting testing improprieties. A relatively common irregularity is when a student is supposed
+to take the SPED assessment and takes the regular one instead. If a number of such mistakes are
+reported at a school, district staff members will visit the school the following year and conduct a
+face-to-face meeting with the testing coordinator to discuss ways to limit such mistakes in the
+future. In general, following a report from a school, district staff members will schedule a visit
+to the school the following year.
+
+In addition to checks on test security, site visits provide opportunities for identifying best
+practices. For example, some schools place screens between computers so students can’t see the
+monitor next to them; some schools place a laminated tri fold between computers; some use the
+computer tower as a visual barrier; some use a round table so students can’t see adjacent
+monitors. District staff members who encounter such innovations photograph them and include
+them in the training modules. Cell phones are ubiquitous wherever adolescents gather,
+including during testing. The district does not have a policy regarding students’ cell phones
+during testing, though they are mentioned on the district’s checklist. District staff members
+observed that some schools prohibited them and others allowed students to turn phones off and
+place them in a sealed manila envelope at the front of the room or in sealed baggies kept under
+their desks. District staff members shared this information with schools to advance their
+understanding of what controls they can exert over testing.
+
+System monitoring as described above is unchanged since 2011/12 except that more schools
+were visited during the last test season.
+
+
+Reporting Irregularities
+
+PPS follows ODE guidelines concerning testing. ODE has a form for reporting irregularities that
+PPS teachers can complete on the PPS website. When that happens, the district passes the report
+on to the state. As described above, schools bear primary responsibility for self-reporting of
+improprieties in testing. However, school staff members may report irregularities directly to
+ODE. Other modes of communicating irregularities include the ODE helpdesk for the state
+assessment and the ESD support desk. When district staff members receive a report of an
+irregularity in a school they ask the principal to investigate. The investigation form asks, “What
+is the school action?” and “What is the district action?” If the district identifies cause to
+invalidate a test result, it asks ODE to invalidate.
+
+
+
+
+                                                            OAKS Results in King School 2010/11–2012/13 55
+Investigation
+
+As described above, identifying irregularities depends primarily on self-reporting by schools of
+irregularities. However, district staff members review assessment data to identify significant
+increases or decreases in levels of achievement and may follow up with site visits to schools that
+display substantial changes.
+
+
+Consequences of Testing Irregularities
+
+If an irregularity is reported, the student’s results are invalidated. Some irregularities are the
+result of errors by teachers. For example, a teacher may have been unaware of restrictions on
+explaining words on a test to students. A report of this kind is typically followed by a
+conversation with the principal, the teacher, and a district staff member that refers to the testing
+manual. Of course, students themselves are sometimes responsible for irregularities. Examples
+are cheating using a cell phone or the old-fashioned way of just asking a neighbor for assistance.
+When identified, these acts result in the perpetrator’s test being invalidated.
+
+
+
+
+56 Education Northwest
+Chapter 6:
+Recommendations
+
+Administrative procedures for the Oregon state assessment have grown increasingly complex.
+For example, the ODE Test Administration Manual (TAM) for 2013/14 runs to 165 pages
+(though it addresses procedures for assessments in addition to OAKS). The complexity of the
+testing process creates challenges in training staff members to conduct assessments according to
+specified procedures. It also complicates efforts to monitor assessment practices in the schools.
+
+The importance of preventing, detecting, and responding to irregularities in testing has received
+renewed emphasis nationally following media reports of large-scale cheating by educators in
+Atlanta and Philadelphia and reports of localized cheating by educators in Baltimore and other
+districts. In addition, after conducting a survey of state testing administrators, GAO reported
+that officials in 33 states confirmed at least one instance of cheating in 2010/11 and 2011/121.
+
+Education Northwest did not examine all the possible explanations for the spike in achievement
+at King in 2011/12. PPS already covered much of that ground in its earlier investigations.
+Instead, we focused on the effects of retesting on achievement and on reports by King staff
+members concerning instructional and testing conditions in the school from 2010/11 to 2012/13.
+
+Education Northwest identified no direct evidence of irregularities in testing King students in
+2011/12. At the same time, the achievement trend at King from 2010/11 to 2012/13—specifically
+the spike in achievement on retests in 2011/12—is very different from the trend observed over
+that time in other PPS K-8 schools. Furthermore, interviews suggest that staff members may
+have been perplexed by changes in testing procedures—for example, changes to allowable
+accommodations. Finally, we are unable to explain the achievement spike at King in the
+context of changes in the student population, larger numbers of retests that year for King
+students, or to changes to testing procedures noted by district staff members and by staff
+members from King school.
+
+In responding to a request from PPS for recommendations concerning its testing
+procedures, Education Northwest formulated recommendations for district response if
+irregularities are suspected or reported and recommendations for maintaining the integrity of
+the testing process by, for example, increased attention to training and prevention. The
+recommendations were formulated based on review of OAKS results and interviews with King
+staff members by Education Northwest, and on information provided to Education Northwest
+by district staff members concerning the testing processes described earlier in the report. The
+recommendations include suggestions concerning best practices in preventing, detecting, and
+responding to irregularities in testing from a 2012 symposium hosted by the U.S. Department of
+
+
+1 Government Accountability Office (2013). K-12 Education: States’ Test Security Policies and Procedures Varied. Available from
+
+http://www.gao.gov/assets/660/654721.pdf
+
+
+
+                                                                              OAKS Results in King School 2010/11–2012/13 57
+Education2. Within these local and national contexts to the recommendations, it should be kept
+in mind that PPS is already taking action in a number of areas addressed by the
+recommendations.
+
+
+Policy, Planning, and Communication
+
+   1. Review district policy to ensure that the expectation of honest testing is explicitly stated
+      and consequences for deliberate irregularities are identified.
+
+   2. Each year, district leadership should communicate the importance of administering
+      assessments faithfully, that the assessment process and assessment results will be
+      monitored, violations will be investigated and violators face consequences.
+
+   3. Develop a comprehensive plan for maintaining the integrity of the testing process and for
+      responding to reports of irregularities. The plan should give appropriate attention to
+      detecting and responding to testing irregularities. However, preventing irregularities
+      from occurring should be the first priority.
+
+   4. Students and parents should be given clear guidelines both for proper conduct by
+      students during testing assessment by students and for proper conduct by school staff
+      members.
+
+Training
+
+   5. Review irregularities reported by school staff members to identify needs for additional
+      training or for clarification of specific procedures.
+
+   6. Solicit suggestions from staff members concerning training that would help them
+      understand the assessment process better, including maintaining test security.
+
+Monitoring
+
+   7. Develop a comprehensive system of checking adherence to requirements in the Test
+      Security chapter of the TAM and success in avoiding the adult-initiated and student-
+      initiated improprieties identified there.
+
+   8. Observations of the testing process should include unannounced visits.
+
+   9. Include data displays such as those in this report in analyses of test results and as checks
+      of the integrity of the testing process.
+
+
+
+
+2 U.S. Department of Education symposium on testing integrity.
+
+http://ies.ed.gov/whatsnew/conferences/?id=966.
+
+
+
+58 Education Northwest
+Reporting Irregularities or Suspected Irregularities
+
+  10. In addition to the testing impropriety forms already available, establish additional
+      channels for reporting irregularities or suspected irregularities including reports from
+      parents and students and clearly specify the kinds of irregularities that should be
+      reported.
+
+  11. Establish a means for reporting irregularities or suspected irregularities in confidence.
+
+Investigation
+
+  12. Investigate whenever any of the following occur3:
+
+             o    Significant increases in scores
+             o    Significant decreases in scores
+             o    Unusual answer patterns
+             o    High numbers answers changed from wrong-to-right
+             o    Report of suspicious conduct
+             o    Report of cheating
+
+  13. Establish a protocol for conducting school-level investigation of irregularities that are
+      limited in scope and duration and a plan for comprehensive investigation with outside
+      investigators when irregularities are suspected to be widespread or ongoing.
+
+We want to emphasize that any irregularity in testing students should be reported to district
+officials, but also that not every mistake made by school staff members will warrant full-scale
+investigation by outside agents. Ideally, the culture of trust within the district will be strong
+enough that staff members who make a mistake in testing students will report it to maintain
+both the transparency of the system and faith in the results , and to contribute to continuous
+improvement of the testing process. Finally, some in the district and the community may recoil
+at formalizing preventative and investigatory processes in regard to testing irregularities. It will
+require committed leadership to build consensus that ensuring integrity in testing is of
+paramount importance for students, parents, the district, and the community and that the
+recommended actions are necessary.
+
+
+
+
+3 Current technology and resources available to the district may limit the ability of the district to conduct its own investigation of
+unusual answer patterns or high numbers of answers changed from wrong to right. Support from ODE may be required to
+investigate these matters.
+
+
+
+                                                                                 OAKS Results in King School 2010/11–2012/13 59
+60 Education Northwest
+Appendix A:
+Protocol for Interviews with King Staff Members
+
+Introduction
+
+Thank you for taking time to speak to me today. I’m a technical advisor and researcher
+from Education Northwest. Education Northwest is based here in Portland. We’re a nonprofit
+organization that works with teachers and administrators, policymakers, and community
+members around teaching and learning. We do many kinds of research, program evaluation,
+and technical assistance for schools and districts throughout the Northwest states.
+
+PPS hired Education Northwest to gather additional perspectives on trends in King
+Elementary School’s OAKS results from 2010/11 to 2012/13. PPS would like us to document
+ideas from school staff members about possible causes for the increases and decreases in
+student outcomes here and to learn as much as possible from your experiences with
+student tests. The district’s goal is ultimately to ensure that all schools are following best
+testing practices. To assist the district, Education Northwest is analyzing the school’s
+OAKS data from 2010 to 2013 and interviewing staff members that worked at King during
+those years. If you were not employed here from 2010 to 2013, please let me know now —I
+don’t need to take any more of your time today.
+
+I have five questions for you. The questions are about your role here, your role in OAKS
+testing, and your thoughts about the school’s student achievement data since 2010.
+Accuracy is important, so please take your time to answer—it’s challenging to think about
+things that happened up to three years ago, and I understand you may need to pause and
+collect your thoughts or think out loud a bit. While we talk, I will be taking notes to capture
+your responses to these questions. To ensure that I fully understand your responses, I may
+ask you short follow-up questions or ask you to confirm that my notes are correct. My notes
+from today are confidential; nothing you say will be attached to your name and we will not
+be providing notes or any other raw data to PPS. Also, we will make sure that no one
+outside the research team can connect you to your responses. For example, we will not
+identify a comment as coming from a teacher in a particular grade level. I will interview as
+many people as possible to ensure that we have a variety of perspectives from staff
+members at King.
+
+Once all of the interviews are complete, my colleagues and I will analyze the results and
+summarize patterns or trends that emerge. We will write a report to PPS that includes our
+findings and provides any recommendations we think would be helpful to PPS as it plans
+for testing going forward. We will not provide the report to anyone else, but PPS may
+distribute it to others. As I said earlier, our report to PPS will not name anyone we
+interview. In addition, we will not provide any information about your interview to
+anyone here in the school or anyone outside of the research team.
+
+
+                                                        OAKS Results in King School 2010/11–2012/13 61
+Please keep in mind that your participation is voluntary. You can take as much time as
+you’d like to answer the questions, and you may skip any question for any reason. You
+may also end the interview at any time, for any reason. Before we begin, do you have any
+questions for me?
+
+
+Interview Questions
+
+   1. Were you a staff member at King at any time from 2010/11 to 2012/13? If so, when were
+      you there and in what role or roles?
+
+   2. What OAKS testing did you conduct each year (subjects, grade levels)?
+
+
+
+   3. What students did you test (own, mix of own and other classrooms, only other
+      classrooms)?
+
+   4. What do you think accounted for the increase in achievement at King school from
+      2010/11 to 2011/12 and the decline in performance from 2011/12 to 2012/13?
+
+       Record comments under the following headings:
+
+               Curricular changes
+
+               Changes in professional development
+
+               Changes in the student population
+
+               Changes in school staff
+
+               Changes in the testing environment including changes in test preparation,
+               supervision of students during testing, use of practice assessments, or
+               instructions for test administrators
+
+   5. What other changes at King or in the district might be associated with the achievement
+      trend from 2010/11 to 2012/13?
+
+Thank you for your time. If you have any questions in the future or would like to talk to
+me more, please contact me at Education Northwest.
+
+
+
+
+62 Education Northwest
+Appendix B:
+Protocol for Follow-Up Interviews with King Staff Members
+
+2010/11
+
+  1. What accommodations were present for students during OAKS testing?
+  2. Did the school make it a priority for students to have support from adults they have
+     relationships with during testing that year?
+  3. Did the district provide guidance about “How Close Are You?” during testing?
+  4. Did staff receive training for OAKS testing?
+        a. Who delivered the training?
+        b. Did everyone receive the same training?
+  5. What was the testing lab like during OAKS that year (lights out or noisy? Both?)?
+  6. About how many adults were in the testing lab during OAKS testing?
+
+
+2011/12
+
+  1. What role did the math coach have in preparing students for the OAKS math test?
+  2. Who, if anyone, provided reading interventions during this school year?
+  3. Did staff receive training for OAKS testing?
+        a. Who delivered the training?
+        b. Did everyone receive the same training?
+  3. About how many adults were in the testing lab during OAKS testing?
+  4. Did 3-8 teachers use leveled classes (walk to read and/or walk to math)?
+
+
+2012/13
+
+  1. Who, if anyone, provided reading interventions during this school year?
+  2. Did staff receive training for OAKS testing?
+        a. Who delivered the training?
+        b. Did everyone receive the same training?
+  3. About how many adults were in the testing lab during OAKS testing?
+  4. Did 3-8 teachers use leveled classes (walk to read and/or walk to math)
+
+
+
+
+                                                       OAKS Results in King School 2010/11–2012/13 63
+64 Education Northwest
+References
+
+Office of Student Learning and Partnerships (2011). Accommodations manual 2011-12: How to
+       select, administer, and evaluate accommodations for Oregon’s statewide assessments. Salem,
+       OR: Oregon Department of Education. Retrieved from
+       http://www.ode.state.or.us/teachlearn/testing/admin/alt/ea/accman-update-7-7-
+       2011-12_hc.pdf
+
+Office of Student Learning and Partnerships (2012). Accommodations manual 2012-13: How to
+       select, administer, and evaluate accommodations for Oregon’s statewide assessments. Salem,
+       OR: Oregon Department of Education. Retrieved from
+       http://www.ode.state.or.us/teachlearn/testing/admin/alt/ea/accommodations-
+       manual-for-2012-2013.pdf
+
+
+
+
+                                                          OAKS Results in King School 2010/11–2012/13 65
+

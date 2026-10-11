@@ -1,0 +1,252 @@
+School-level PPS Major Discipline Incidents by Action Type, 2016-17
+                                                                    Out-of-School     In-School
+                                          Overall       Expulsion    Suspension      Suspension Enrollment
+       School                 Type          #       %      #      %     #        %        #     %        #
+E.S.   Abernethy              Students      6    1.2%                   3     0.6%        3 0.6%       519
+                              Incidents     6    1.2%                   3     0.6%        3 0.6%
+       Ainsworth              Students      3    0.5%                   2     0.3%        1 0.2%       605
+                              Incidents     9    1.5%                   8     1.3%        1 0.2%
+       Alameda                Students      1    0.1%                   1     0.1%                     747
+                              Incidents     2    0.3%                   2     0.3%
+       Arleta                 Students     25    5.5%                  25     5.5%                     457
+                              Incidents    43    9.4%                  43     9.4%
+       Astor                  Students     23    5.1%                  16     3.5%     13   2.9%       455
+                              Incidents    48 10.5%                    31     6.8%     17   3.7%
+       Atkinson               Students      2    0.5%                                   2   0.5%       432
+                              Incidents     2    0.5%                                   2   0.5%
+       Beach                  Students     11    2.4%                   8    1.7%       3   0.6%       464
+                              Incidents    15    3.2%                  12    2.6%       3   0.6%
+       Beverly Cleary         Students     17    1.9%                   4    0.5%      15   1.7%       884
+                              Incidents    28    3.2%                  10    1.1%      18   2.0%
+       Boise-Eliot/Humboldt   Students     65 12.2%                    39    7.3%      39   7.3%       532
+                              Incidents   112 21.1%                    63   11.8%      49   9.2%
+       Bridger                Students     34    6.8%                  29    5.8%      10   2.0%       500
+                              Incidents    59 11.8%                    46    9.2%      13   2.6%
+       Bridlemile             Students      2    0.4%                   2    0.4%                      511
+                              Incidents     5    1.0%                   5    1.0%
+       Buckman                Students     11    2.4%     1   0.2%     11    2.4%       2 0.4%         459
+                              Incidents    19    4.1%     1   0.2%     16    3.5%       2 0.4%
+       Capitol Hill           Students      7    1.6%                   4    0.9%       6 1.3%         448
+                              Incidents    21    4.7%                  13    2.9%       8 1.8%
+       César Chávez           Students     58 10.5%                    30    5.4%      49 8.9%         551
+                              Incidents   150 27.2%                    69   12.5%      81 14.7%
+       Chapman                Students      9    1.5%                   6    1.0%       5 0.9%         584
+                              Incidents    19    3.3%                  10    1.7%       9 1.5%
+       Chief Joseph           Students      8    2.5%                   2    0.6%       8 2.5%         326
+                              Incidents    22    6.7%                   5    1.5%      17 5.2%
+       Creative Science       Students      7    1.4%                   5    1.0%       2 0.4%         492
+                              Incidents    15    3.0%                  13    2.6%       2 0.4%
+       Creston                Students     17    4.8%                  15    4.2%       5 1.4%         356
+                              Incidents    30    8.4%                  25    7.0%       5 1.4%
+       Duniway                Students      3    0.6%                   2    0.4%       2 0.4%         519
+                              Incidents     6    1.2%                   4    0.8%       2 0.4%
+       Faubion                Students     12    2.3%                  12    2.3%                      532
+                              Incidents    14    2.6%                  14    2.6%
+       Forest Park            Students      2    0.4%                   1    0.2%       1   0.2%       455
+                              Incidents     2    0.4%                   1    0.2%       1   0.2%
+       Glencoe                Students      3    0.6%                   3    0.6%       2   0.4%       492
+                              Incidents     6    1.2%                   3    0.6%       3   0.6%
+       Grout                  Students      9    2.3%                   6    1.6%       6   1.6%       384
+                              Incidents    14    3.6%                   6    1.6%       8   2.1%
+School-level PPS Major Discipline Incidents by Action Type, 2016-17
+                                                                 Out-of-School     In-School
+                                       Overall       Expulsion    Suspension      Suspension Enrollment
+       School              Type          #       %      #      %     #        %        #     %        #
+E.S.   Harrison Park       Students     30    4.4%                  30     4.4%        1 0.1%       676
+                           Incidents    51    7.5%                  50     7.4%        1 0.1%
+       Hayhurst            Students     17    3.1%                  15     2.7%        5 0.9%       552
+                           Incidents    70 12.7%                    62 11.2%           8 1.4%
+       Irvington           Students      5    1.1%                   4     0.9%        4 0.9%       446
+                           Incidents    14    3.1%                   8     1.8%        6 1.3%
+       James John          Students     11    2.7%                   9     2.2%        2 0.5%       405
+                           Incidents    19    4.7%                  16     4.0%        3 0.7%
+       Kelly               Students     12    2.0%                  10     1.7%        4 0.7%       604
+                           Incidents    15    2.5%                  11     1.8%        4 0.7%
+       Laurelhurst         Students      9    1.3%                   5     0.7%        7 1.0%       684
+                           Incidents    21    3.1%                  10     1.5%      11 1.6%
+       Lee                 Students     15    3.4%                   3     0.7%      14 3.1%        447
+                           Incidents    28    6.3%                   4     0.9%      24 5.4%
+       Lent                Students     59 11.3%                    52     9.9%      23 4.4%        523
+                           Incidents   124 23.7%                    93 17.8%         31 5.9%
+       Lewis               Students      5    1.2%                   5     1.2%                     412
+                           Incidents     9    2.2%                   9     2.2%
+       Llewellyn           Students      5    1.0%                   5     1.0%                     517
+                           Incidents     5    1.0%                   5     1.0%
+       Maplewood           Students      5    1.3%                   4     1.0%      1   0.3%       384
+                           Incidents     5    1.3%                   4     1.0%      1   0.3%
+       Markham             Students     12    2.9%                  10     2.4%      2   0.5%       418
+                           Incidents    20    4.8%                  18     4.3%      2   0.5%
+       Marysville          Students     15    3.9%                  10     2.6%      6   1.6%       381
+                           Incidents    23    6.0%                  15     3.9%      8   2.1%
+       MLK Jr              Students     19    4.9%                  17     4.4%      2   0.5%       386
+                           Incidents    27    7.0%                  25     6.5%      2   0.5%
+       Peninsula           Students      6    2.3%                   4     1.5%      4   1.5%       266
+                           Incidents    13    4.9%                   7     2.6%      6   2.3%
+       Richmond            Students                                                                 649
+                           Incidents
+       Rieke               Students      3    0.7%                   3    0.7%                      410
+                           Incidents     3    0.7%                   3    0.7%
+       Rigler              Students     26    5.5%                  19    4.0%      14   3.0%       472
+                           Incidents    86   18.2%                  54   11.4%      32   6.8%
+       Rosa Parks          Students     10    3.4%                  10    3.4%                      298
+                           Incidents    30   10.1%                  30   10.1%
+       Roseway Heights     Students     22    3.4%                   9    1.4%      15   2.3%       643
+                           Incidents    32    5.0%                  14    2.2%      18   2.8%
+       Sabin               Students      4    0.8%                                   4   0.8%       524
+                           Incidents     4    0.8%                                   4   0.8%
+       Scott               Students     34    6.6%                  16    3.1%      25   4.9%       512
+                           Incidents    66   12.9%                  28    5.5%      38   7.4%
+School-level PPS Major Discipline Incidents by Action Type, 2016-17
+                                                                         Out-of-School     In-School
+                                               Overall       Expulsion    Suspension      Suspension Enrollment
+       School                    Type            #       %      #      %     #        %        #     %        #
+E.S.   Sitton                    Students       23    5.7%                  19     4.7%        7 1.7%       401
+                                 Incidents      48 12.0%                    41 10.2%           7 1.7%
+       Skyline                   Students        5    1.7%                   2     0.7%        4 1.3%       300
+                                 Incidents      11    3.7%                   7     2.3%        4 1.3%
+       Stephenson                Students        3    0.9%                   2     0.6%        1 0.3%       340
+                                 Incidents       3    0.9%                   2     0.6%        1 0.3%
+       Sunnyside Environmental   Students       15    2.5%                  12     2.0%        5 0.8%       602
+                                 Incidents      20    3.3%                  14     2.3%        6 1.0%
+       Vernon                    Students        7    1.5%                   7     1.5%                     471
+                                 Incidents      10    2.1%                  10     2.1%
+       Vestal                    Students       63 16.5%                    53 13.9%        28 7.3%         381
+                                 Incidents     139 36.5%                    93 24.4%        46 12.1%
+       Whitman                   Students        8    2.8%                   7     2.4%      5 1.7%         287
+                                 Incidents      22    7.7%                  15     5.2%      7 2.4%
+       Winterhaven               Students        4    1.1%                                   4 1.1%         353
+                                 Incidents       5    1.4%                                   5 1.4%
+       Woodlawn                  Students       12    3.5%                    9    2.6%      5 1.5%         342
+                                 Incidents      19    5.6%                   11    3.2%      8 2.3%
+       Woodmere                  Students        8    2.6%                    8    2.6%      5 1.7%         303
+                                 Incidents      30    9.9%                   18    5.9%     12 4.0%
+       Woodstock                 Students        8    1.5%                    5    0.9%      3 0.6%         527
+                                 Incidents      25    4.7%                   22    4.2%      3 0.6%
+       Total                     Students      813    3.1%     1   0.0%     588    2.2%    374 1.4%      26,620
+                                 Incidents   1,644    6.2%     1   0.0%   1,101    4.1%    542 2.0%
+M.S.   Beaumont                  Students       18    3.2%     1   0.2%      14    2.5%      5 0.9%         569
+                                 Incidents      26    4.6%     1   0.2%      20    3.5%      5 0.9%
+       da Vinci                  Students        3    0.7%                    3    0.7%                     461
+                                 Incidents       4    0.9%                    4    0.9%
+       George                    Students       43 11.9%                     35    9.7%     16   4.4%       360
+                                 Incidents      70 19.4%                     53   14.7%     17   4.7%
+       Gray                      Students       14    2.6%                   14    2.6%                     546
+                                 Incidents      19    3.5%                   19    3.5%
+       Hosford                   Students       30    4.8%                   28    4.4%      2   0.3%       631
+                                 Incidents      46    7.3%                   44    7.0%      2   0.3%
+       Jackson                   Students       14    2.3%                    9    1.5%      7   1.2%       597
+                                 Incidents      18    3.0%                   10    1.7%      8   1.3%
+       Lane                      Students       34    7.7%                   28    6.3%     11   2.5%       443
+                                 Incidents      65 14.7%                     52   11.7%     13   2.9%
+       Mt Tabor                  Students       15    2.1%                    6    0.8%     11   1.5%       730
+                                 Incidents      17    2.3%                    6    0.8%     11   1.5%
+       Ockley Green              Students       52    8.3%                   38    6.1%     25   4.0%       626
+                                 Incidents      91 14.5%                     61    9.7%     30   4.8%
+       Sellwood                  Students       11    1.9%                    8    1.4%      3   0.5%       583
+                                 Incidents      12    2.1%                    9    1.5%      3   0.5%
+       West Sylvan               Students       25    2.7%                    6    0.7%     20   2.2%       911
+                                 Incidents      28    3.1%                    8    0.9%     20   2.2%
+       Total                     Students      258    4.0%     1   0.0%     188    2.9%    100   1.5%     6,457
+                                 Incidents     396    6.1%     1   0.0%     286    4.4%    109   1.7%
+School-level PPS Major Discipline Incidents by Action Type, 2016-17
+                                                                              Out-of-School     In-School
+                                                  Overall       Expulsion      Suspension      Suspension Enrollment
+       School                         Type          #       %      #      %       #        %        #     %         #
+H.S.   Benson                         Students     25    2.5%      1 0.1%        21     2.1%        5 0.5%        994
+                                      Incidents    29    2.9%      1 0.1%        23     2.3%        5 0.5%
+       Cleveland                      Students     25    1.6%      2 0.1%        21     1.3%        5 0.3%      1,609
+                                      Incidents    33    2.1%      2 0.1%        26     1.6%        5 0.3%
+       Franklin                       Students     43    2.7%      3 0.2%        42     2.6%                    1,612
+                                      Incidents    59    3.7%      3 0.2%        56     3.5%
+       Grant                          Students     30    2.0%      2 0.1%        27     1.8%      3   0.2%      1,476
+                                      Incidents    33    2.2%      2 0.1%        28     1.9%      3   0.2%
+       Jefferson                      Students     48    8.1%      1 0.2%        48     8.1%                     590
+                                      Incidents    61 10.3%        1 0.2%        60 10.2%
+       Lincoln                        Students     15    0.9%                    13     0.8%      2   0.1%      1,703
+                                      Incidents    17    1.0%                    15     0.9%      2   0.1%
+       Madison                        Students     44    4.1%     1   0.1%       44     4.1%                    1,070
+                                      Incidents    62    5.8%     1   0.1%       61     5.7%
+       Roosevelt                      Students     46    5.2%     3   0.3%       44     5.0%      2   0.2%       881
+                                      Incidents    65    7.4%     3   0.3%       60     6.8%      2   0.2%
+       Wilson                         Students     39    2.8%     2   0.1%       37     2.6%      1   0.1%      1,413
+                                      Incidents    53    3.8%     2   0.1%       50     3.5%      1   0.1%
+       Total                          Students    315    2.8%    15   0.1%      297     2.6%     18   0.2%     11,348
+                                      Incidents   412    3.6%    15   0.1%      379     3.3%     18   0.2%
+Alt.   ACCESS                         Students      3    0.9%                     2     0.6%      1   0.3%       352
+                                      Incidents     3    0.9%                     2     0.6%      1   0.3%
+       Alliance **                    Students     35 17.6%       3   1.5%       33 16.6%         1   0.5%       199
+                                      Incidents    57 28.6%       3   1.5%       53 26.6%         1   0.5%
+       Metro. Learning Center         Students     10    2.3%                     6     1.4%      5   1.2%       427
+                                      Incidents    14    3.3%                     7     1.6%      7   1.6%
+       Portland International ScholarsStudents
+                                       Academy      1    3.6%                     1     3.6%                      28
+                                      Incidents     1    3.6%                     1     3.6%
+       Total                          Students     49    4.9%     3   0.3%       42     4.2%      7   0.7%      1,006
+                                      Incidents    75    7.5%     3   0.3%       63     6.3%      9   0.9%
+CBO    Mt Scott Park Learning Ctr     Students     51 32.1%                      51 32.1%                        159
+                                      Incidents    75 47.2%                      75 47.2%
+       NAYA Early College Academy Students         10 16.9%                       7 11.9%         4 6.8%          59
+                                      Incidents    14 23.7%                       8 13.6%         6 10.2%
+       Open School North              Students                                                                    45
+                                      Incidents
+       Rosemary Anderson              Students                                                                   221
+                                      Incidents
+       SE Works                       Students                                                                    27
+                                      Incidents
+       Youth Builders                 Students                                                                    23
+                                      Incidents
+       Youth Progress Association     Students                                                                    31
+                                      Incidents
+       Total                          Students     61   10.8%                   58    10.3%       4   0.7%       565
+                                      Incidents    89   15.8%                   83    14.7%       6   1.1%
+School-level PPS Major Discipline Incidents by Action Type, 2016-17
+                                                                                             Out-of-School             In-School
+                                                               Overall           Expulsion    Suspension              Suspension Enrollment
+        School                                Type              #        %          #      %     #        %                #     %        #
+Charter Arthur Academy                        Students          5     3.0%                       5     3.0%                             165
+                                              Incidents        12     7.3%                      12     7.3%
+          Cm2 Opal School                     Students                                                                                             88
+                                              Incidents
+          Emerson School                      Students                                                                                            144
+                                              Incidents
+          Kairos PDX                          Students           8     9.2%                           8      9.2%                                  87
+                                              Incidents         15    17.2%                          15     17.2%
+          Le Monde                            Students                                                                                            276
+                                              Incidents
+          Portland Village School             Students                                                                                            399
+                                              Incidents
+          Self Enhancement Inc.               Students           1     1.5%                           1      1.5%                                  67
+                                              Incidents          1     1.5%                           1      1.5%
+          Trillium                            Students           9     2.5%                           9      2.5%                                 359
+                                              Incidents         15     4.2%                          15      4.2%
+          Total                               Students          23     1.5%                          23      1.5%                            1,585
+                                              Incidents         43     2.7%                          43      2.7%
+SPED      CTC Humboldt                        Students                                                                                             24
+                                              Incidents
+          CTC Northeast                       Students                                                                                             35
+                                              Incidents
+          CTC Southeast                       Students           1     2.1%                        1         2.1%                                  48
+                                              Incidents          1     2.1%                        1         2.1%
+          PPS Pioneer Programs **             Students          43    32.6%                       43        32.6%                                 132
+                                              Incidents         59    44.7%                       59        44.7%
+          Total                               Students          44    18.4%                       44        18.4%                                 239
+                                              Incidents         60    25.1%                       60        25.1%
+District Total                                Students       1,548     3.2%         20    0.0% 1,225         2.6%        502    1.0%        47,820
+                                              Incidents      2,719     5.7%         20    0.0% 2,015         4.2%        684    1.4%
+ All percentages are of October Enrollment.
+
+ Counts of students are unduplicated within a school and action. For example, if a student at a school received two out-of-school suspensions
+ and one expulsion, that student will be counted once in the Expulsion column, once in the Out-of-School Suspension column and once in the
+ Overall column. In this example, three incidents would be shown for that student in the Incidents row.
+
+ Caution should be exercised when comparing discipline data across schools and years. Although District policies and regulations increase
+ consistency in addressing and reporting student discipline incidents, corrective action is based on an understanding of the individual student
+ and ultimately determined by the best professional judgment of the administrator.
+
+ ** For most of the schools and programs reported here, October enrollments are representative of the total number of students served
+ throughout the school year, and thus a reasonable basis for calculating suspension and expulsion rates. However, for Alliance HS, an alternative
+ high school serving 16- to 21-year-olds previously unsuccessful in traditional high school programs, the total number of students served during
+ the school year may be as many as 2 to 3 times greater than October enrollments. Consequently, suspension and expulsion rates reported for
+ Alliance HS should be viewed with caution. Pioneer Programs, similarly take students throughout the school year; therefore, October
+ Enrollment is not a good representation of the total students served.
+
