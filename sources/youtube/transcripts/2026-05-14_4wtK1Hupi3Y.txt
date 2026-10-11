@@ -1,0 +1,3217 @@
+# 2026-05-14 Board of Education’s Teaching, Learning, and Enrollment Committee
+# Video: https://www.youtube.com/watch?v=4wtK1Hupi3Y
+# Source: YouTube captions (asr, en), fetched 2026-10-11T00:26:03.637Z
+# BoardBook meeting(s): 2026-05-14|745857
+# Link to a moment: https://www.youtube.com/watch?v=4wtK1Hupi3Y&t=<seconds>s
+
+[0:00:01] All right. Uh, this public meeting of
+[0:00:04] the Board of Education's Teaching,
+[0:00:06] Learning, and Enrollment Committee for
+[0:00:07] May 14th, 2026 is called to order. Good
+[0:00:11] afternoon and welcome. We have a full
+[0:00:14] agenda tonight. After public comment, we
+[0:00:16] will have our annual charter school
+[0:00:18] report, an update on our interim
+[0:00:21] assessment tool, an overview of the 613
+[0:00:24] social studies instructional resource
+[0:00:26] recommendations,
+[0:00:28] and a presentation on AI in PPS. First,
+[0:00:32] we'll begin with introductions. I'm
+[0:00:34] Michelle Chase Miller. I am the
+[0:00:36] committee chair.
+[0:00:38] I'm Christy Split. I am the board member
+[0:00:40] that lives in zone one, which is in
+[0:00:41] southwest Portland.
+[0:00:45] Kimberly Armstrong, superintendent.
+[0:00:49] >> Jay Biano, uh, chief of student
+[0:00:51] services.
+[0:00:53] >> Mary Kaine, senior legal counsel,
+[0:00:57] >> Eve Thompson, uh, Franklin, student
+[0:01:00] representative and the student rep on
+[0:01:02] this committee.
+[0:01:07] >> Great. Uh, oh, Director Englesman, do
+[0:01:10] you want to introduce yourself?
+[0:01:12] >> Oh, hi. Sure. Stephanie Englesman. I'm
+[0:01:15] in Southeast Portland zone 6
+[0:01:16] representative. I am listening and I
+[0:01:18] have a lot of um this is a great agenda.
+[0:01:21] So I'm just listening in. Thank you.
+[0:01:23] >> Great. Thanks for being here.
+[0:01:26] Give director Lefort a second to join us
+[0:01:28] and introduce herself.
+[0:01:32] >> Hi, I'm Virginia Lefort. Um I live in
+[0:01:34] Northeast Portland and
+[0:01:37] yeah, that's representing all students
+[0:01:40] in PPS.
+[0:01:44] Hey, next we have public comment.
+[0:01:46] Roseanne, do we have anyone signed up to
+[0:01:48] speak?
+[0:01:49] >> Yes, we do.
+[0:01:52] I'll start with calling Emily Barrett,
+[0:01:55] Kuranjo Cruz, and Beth Kavanaaugh.
+[0:02:00] >> Thank you. Please make sure when you
+[0:02:02] begin your comments that you clearly
+[0:02:04] state your name and spell your last
+[0:02:05] name. You will have two minutes to
+[0:02:07] speak. We ask that once you hear the
+[0:02:09] sound of the alarm go off, please wrap
+[0:02:11] up your comments.
+[0:02:30] Is it just me? Okay. Um, my name is Beth
+[0:02:34] Kavanaaugh. CA N A U G. and I'm a parent
+[0:02:37] of a sophomore choir student at
+[0:02:39] Cleveland High School. I'm here to talk
+[0:02:41] about the implementation of SB3
+[0:02:43] requiring financial literacy and college
+[0:02:44] career readiness credit beginning with
+[0:02:46] next year's seniors. I had a bunch of
+[0:02:48] prepared comments to share, but then I
+[0:02:50] received an email from Cleveland's
+[0:02:51] incredible choir teacher this morning
+[0:02:53] and her words sum this up better than I
+[0:02:54] ever could. So, I'm going to start
+[0:02:56] there. I teach choir at an IB school
+[0:02:58] with a small feeder program and I can
+[0:03:00] tell you with certainty for my students,
+[0:03:02] SB3 is not a scheduling inconvenience.
+[0:03:04] It is a program ending mandate with no
+[0:03:06] when no alternative is being given. The
+[0:03:09] IB curriculum is already one of the most
+[0:03:11] demanding and credit intensive pathways
+[0:03:13] a high school student can choose. IB
+[0:03:15] students carry a prescribed course load
+[0:03:16] that fills nearly every period of every
+[0:03:18] school day across all four years. There
+[0:03:20] is no slack in the schedule. There are
+[0:03:22] no free periods to absorb a new
+[0:03:24] requirement. When a new mandatory credit
+[0:03:26] appears, something must go. And in an IB
+[0:03:28] school, the only thing that can go is an
+[0:03:30] elective. and our making our situation
+[0:03:33] particularly painful. We have no IB
+[0:03:35] music offering at our school. My program
+[0:03:38] does not have the protection of being an
+[0:03:39] IB course. It has no designated place in
+[0:03:42] the sequence. It exists only because
+[0:03:43] students want it badly enough to make it
+[0:03:45] fit. My feeder program is small. That's
+[0:03:48] a central v vulnerability. A healthy
+[0:03:50] large music program can absorb the loss
+[0:03:52] of a few students to scheduling
+[0:03:53] conflicts and survive. Though not ideal,
+[0:03:56] as all students who want music should
+[0:03:57] have it, mine cannot. Every single
+[0:04:00] student matters to the program. Losing
+[0:04:02] two or three program students to an SB
+[0:04:04] requirement doesn't thin my roster. It
+[0:04:06] collapses it. I don't have extra teners
+[0:04:08] waiting in the wings. When the singer
+[0:04:10] leaves, that voice is simply gone. I've
+[0:04:12] already had conversations with students
+[0:04:14] who love music, who've grown up in the
+[0:04:16] program and are extremely passionate
+[0:04:17] about it, who are now being told they
+[0:04:18] may not be able to continue, not because
+[0:04:20] they want to leave, but because the
+[0:04:22] schedule will not allow it. That is the
+[0:04:24] human cost of a mandate. I'm skipping
+[0:04:26] through because I have I had a couple of
+[0:04:28] my own thoughts I want to add at the end
+[0:04:29] of hers. Um I've been working with Laura
+[0:04:32] Arthur, the public policy chair at OMA,
+[0:04:34] the or Oregon music educators
+[0:04:35] association to she's been surveying
+[0:04:37] teachers and districts to come up with
+[0:04:39] solutions and things that are being
+[0:04:40] offered to live within the mandate in
+[0:04:43] other districts in the state. And I've
+[0:04:45] got some questions for you around what
+[0:04:47] PPS might be able to do to equitably
+[0:04:49] offer this student this uh some
+[0:04:51] flexibility to the small number of
+[0:04:53] students who are being asked to give up
+[0:04:56] their four-year pathway in the the music
+[0:04:58] programs that are so important to their
+[0:05:00] their success. I'll email you the rest
+[0:05:02] of the comments. Thank you. Thank you,
+[0:05:04] Beth. Um, my personal suggestion also is
+[0:05:08] to share your comments and this this
+[0:05:10] teacher's uh email with Senator Liieber
+[0:05:13] at the funding forum. She seemed uh open
+[0:05:16] to looking at the unfunded mandates and
+[0:05:18] this is a great example.
+[0:05:21] >> And CC your own lawmakers while you're
+[0:05:22] at it. Thanks.
+[0:05:26] >> We also have Katherine Young and Erica
+[0:05:31] Fringlick.
+[0:05:41] Hello, my name is Erica Finler, spelled
+[0:05:44] F as in Frank. R E U N D L I C H. I'm
+[0:05:49] the mother of a senior at IDW Wells High
+[0:05:51] School.
+[0:05:53] Words matter. This is why I'm here
+[0:05:55] today. I'm very concerned about the
+[0:05:58] decision to consider Etiius or Sgage for
+[0:06:00] world history as it relates to the
+[0:06:03] history of Israel.
+[0:06:05] Eticurius frames world history primarily
+[0:06:07] around genocide and settler colonialism
+[0:06:10] which I don't believe constitutes a
+[0:06:12] comprehensive or balanced history
+[0:06:15] curriculum. It lists 10 events as
+[0:06:18] genocide, ranging from 150 deaths to 6
+[0:06:21] million without distinguishing
+[0:06:23] differences in scale, context, or
+[0:06:26] scholarly consensus.
+[0:06:29] The Holocaust is effectively placed
+[0:06:31] alongside events that historians
+[0:06:33] actively debate.
+[0:06:35] Meanwhile, the genocide of the Roma
+[0:06:37] people is omitted entirely. This is
+[0:06:40] historically distorting.
+[0:06:42] Regarding Sengage National Geographics
+[0:06:45] Israel content, the text describes the
+[0:06:48] UN as quote carving an Israeli state out
+[0:06:51] of Palestine end quote framing that
+[0:06:54] misrepresents the actual history of the
+[0:06:55] League of Nations mandate which was
+[0:06:58] explicitly intended to establish a
+[0:07:00] Jewish homeland.
+[0:07:02] It also obscures the fact that Jews
+[0:07:04] maintained a consistent presence, a
+[0:07:06] continuous presence in the region for
+[0:07:08] over 3,000 years. This was not a
+[0:07:10] population arriving from elsewhere to
+[0:07:12] claim foreign land, but a people
+[0:07:13] returning to their historical and
+[0:07:15] religious homeland.
+[0:07:17] The text omits that Jewish leaders
+[0:07:19] accepted the 1947 partition plan while
+[0:07:22] Arab leaders rejected it. It presents
+[0:07:25] violence during this era as symmetrical
+[0:07:28] without acknowledging specific attacks
+[0:07:30] on Jewish communities.
+[0:07:32] It describes the 1948 war without
+[0:07:35] clearly stating that Arab nations
+[0:07:37] invaded Israel. And it treats
+[0:07:39] Palestinian displacement as historically
+[0:07:42] unique without contextualizing it
+[0:07:44] against the more than 40 million people
+[0:07:47] displaced after the after World War II,
+[0:07:50] including 800,000 Jews expelled from
+[0:07:53] Arab countries whose story receives far
+[0:07:56] less attention.
+[0:07:59] These omissions and framings are not
+[0:08:01] balanced history. In today's climate,
+[0:08:04] one-side portrayals of Israel can
+[0:08:06] contribute to misunderstanding and put
+[0:08:08] Jewish students like my daughter at
+[0:08:11] risk. I strongly urge the board to
+[0:08:14] reject these materials and consider
+[0:08:16] McGra Hill as a more balanced
+[0:08:18] alternative. Thank you.
+[0:08:22] >> Thank you.
+[0:08:45] My name is Kathleen Young. Y O U N G.
+[0:08:49] I'm a retired physicist and a Portland
+[0:08:52] grandmother. I participate in the April
+[0:08:56] 13 field test for the 6 to 12 social
+[0:08:59] science digital materials. By the way, I
+[0:09:01] agree with the lady who just spoke in
+[0:09:04] front of me about the materials. I
+[0:09:06] understand the recommendation for the
+[0:09:09] committee's tci for grades 6 to 8 uh sen
+[0:09:13] for and tci for grade 6 9 to 12. I'm
+[0:09:17] here to wake make one specific request
+[0:09:21] before the final approval. Please ask
+[0:09:23] the staff to complete and publicly share
+[0:09:28] a clear content
+[0:09:30] searchability
+[0:09:32] and the teacher resources visibility
+[0:09:35] check for the recommended materials.
+[0:09:39] I spent about four hours reviewing both
+[0:09:41] studentf facing and teacherf facing
+[0:09:45] version of the platforms that day.
+[0:09:49] My question was simple. Can student a
+[0:09:51] teacher efficiently find meaningful
+[0:09:53] contents and teacher support? So I pick
+[0:09:56] one benchmark.
+[0:09:58] I search for material on the rise of
+[0:10:01] modern China and the communist
+[0:10:04] commun uh Chinese Communist Party
+[0:10:07] because students need access to
+[0:10:09] information about the world they are
+[0:10:11] inheriting. My concern with TCI is that
+[0:10:14] during my testing, it felt highly
+[0:10:16] dependent on script lessons pathways
+[0:10:20] that can support classroom activity, but
+[0:10:22] it also made open-end inquiry
+[0:10:24] independent content retrieve harder. My
+[0:10:27] concern with synergy is different. The
+[0:10:29] visual presentation is strong, but in
+[0:10:31] economics material I reviewed, I
+[0:10:33] struggle to locate visible teacher
+[0:10:35] support resource such as instruction
+[0:10:38] instructional guides or answer keys. I
+[0:10:41] may be wrong. I may have missed
+[0:10:43] resources or misunderstanding navigation
+[0:10:45] pathway, but this is exactly why I'm
+[0:10:47] asking for a verification, not asking
+[0:10:50] the committee to rely on judgment. So my
+[0:10:53] request is narrow and practical. Please
+[0:10:55] verify before final approval where the
+[0:10:58] students can find all the information
+[0:10:59] they need in order to learn. Thank you.
+[0:11:03] >> Thank you.
+[0:11:08] >> Great. Thank you everyone for your
+[0:11:09] comments.
+[0:11:11] Chief Buno, would you like to introduce
+[0:11:12] the next item?
+[0:11:15] >> Yes. Thank you, Director Chase Miller.
+[0:11:17] Um, I'd like to uh ask Senior Director
+[0:11:19] Karina Wolf and Director Sento Sandos to
+[0:11:22] come up and present for us our charter
+[0:11:25] school update.
+[0:11:32] >> Thank you. Good afternoon,
+[0:11:34] superintendent, school board members,
+[0:11:36] student representative, and community.
+[0:11:38] We're here um this afternoon to provide
+[0:11:41] an update. We provided one in December
+[0:11:44] and we um per statute will provide um an
+[0:11:48] update now that we have our performance
+[0:11:50] frameworks um completed for each of our
+[0:11:52] charter schools.
+[0:11:54] Some of the information that we're going
+[0:11:56] to
+[0:11:58] is this this
+[0:12:01] Thank you. Some of the information is
+[0:12:04] similar, so I'll go over it fairly
+[0:12:06] quickly, but we are happy to answer any
+[0:12:08] questions.
+[0:12:14] The district responsibilities
+[0:12:16] um with the role of a charter school
+[0:12:18] sponsor um include several things, but
+[0:12:21] I'll just touch really on the top kind
+[0:12:23] of the top four. So, every year we
+[0:12:25] approve or deny annual applicants for
+[0:12:27] the establishment of new PPS charter
+[0:12:28] schools. We did recently um receive one
+[0:12:32] letter of an intent to apply to become a
+[0:12:34] charter school for 2027. Um it's the
+[0:12:37] very first pre-application
+[0:12:40] um beginning stages. Um and so that's
+[0:12:43] where we are in that process. We will
+[0:12:45] know more if the um interested party
+[0:12:48] chooses or not um after meeting to
+[0:12:51] submit a full application or not. We
+[0:12:53] don't have that information yet. Um we
+[0:12:56] conduct we conduct um ongoing
+[0:12:58] monitoring, oversight and annual
+[0:13:00] evaluation. We pass through state school
+[0:13:02] funds and other funding. And we monitor
+[0:13:04] and implement uh interv interventions
+[0:13:07] for underperforming schools. A little of
+[0:13:09] which we'll talk about in just a minute.
+[0:13:15] Uh just as review, it's really a
+[0:13:18] three-legged stool for our oversight
+[0:13:21] responsibilities include academic
+[0:13:23] oversight, fiscal oversight, and
+[0:13:25] operational oversight of each of our um
+[0:13:28] five PPS um sponsored charter schools.
+[0:13:33] Our charter schools, as a reminder, we
+[0:13:35] have three K5 charter schools. The
+[0:13:37] Emerson School, Kyros PDX Learning
+[0:13:40] Academy, and Portland Arthur Academy. We
+[0:13:43] have two K8 charter schools which are
+[0:13:45] Leond French immersion and Portland
+[0:13:47] Village school. We also support um with
+[0:13:51] some services and um pass through
+[0:13:53] funding our two states ch our two state
+[0:13:56] charter schools that um operate within
+[0:13:59] PPS boundaries which are the Cotton
+[0:14:01] School of Civics and Science and the Ivy
+[0:14:03] School.
+[0:14:08] Okay, this slide is an overview that you
+[0:14:12] saw in December as well. We've updated
+[0:14:14] the enrollment numbers and it's just a
+[0:14:17] good reminder to see that all of our PPS
+[0:14:20] charter schools are in the middle
+[0:14:22] somewhere in the middle of a 10-year
+[0:14:24] contract. And then just um to keep in
+[0:14:27] mind that they are um have to find and
+[0:14:32] maintain their own facilities and
+[0:14:33] everyone of our five PPS schools is in
+[0:14:36] um a secure
+[0:14:38] uh stable facility at the moment.
+[0:14:43] Um I think we can yeah shift to you were
+[0:14:47] going to start uh the academic data.
+[0:14:49] >> Absolutely. So every year what we're
+[0:14:51] tasked to do is to compare the previous
+[0:14:54] year's state assessment for the charter
+[0:14:57] school performance in comparison to the
+[0:15:00] district overall performance. And so
+[0:15:02] that's what you'll see on this chart. So
+[0:15:04] you can see that the Emerson school um
+[0:15:07] which is again K5. So their three grades
+[0:15:10] three through five OSAS scores are
+[0:15:12] higher than the district average by 8.5%
+[0:15:16] in ELA and.5% in math. Uh you can see
+[0:15:20] that uh I'm going to skip to Portland
+[0:15:23] Arthur Academy um is above the district
+[0:15:26] in with 11.2% above in ELA and.5%
+[0:15:30] above in math. Lamond French Immersion
+[0:15:33] is 25 uh.8 percentage points above the
+[0:15:37] district average in ELA and 33.3%
+[0:15:40] above the district average in math. The
+[0:15:43] other two score the other two schools
+[0:15:45] have different um data. So, Cyros um PDX
+[0:15:50] um is below the district average in ELA
+[0:15:54] overall in ELA 34.2% and 33.7% in math.
+[0:16:01] I want to note um that and we'll talk
+[0:16:04] more about this in a second, but I want
+[0:16:05] to note that Chyros PDX the majority of
+[0:16:09] their students are African-American or
+[0:16:12] black. And so we also share information
+[0:16:15] and we there we made a correction to
+[0:16:17] this slide uh an update to this slide
+[0:16:19] earlier that the information with regard
+[0:16:22] to um looking at the how the district um
+[0:16:26] performs in grades three through five
+[0:16:28] with our African-American black students
+[0:16:31] um compared to Chyros. Chyros um last
+[0:16:34] year for the last school year that we um
+[0:16:36] have performance data was um 5.2% 2%
+[0:16:40] below the district with regard to ELA
+[0:16:42] for our African-American black students
+[0:16:44] and 7.1% below the district for our
+[0:16:47] African-American students in math.
+[0:16:50] And um Portland Village school was for
+[0:16:54] in grades 3 to five. Portland Village
+[0:16:56] school was 18.4% below the district
+[0:17:00] average.
+[0:17:01] It's okay. In ELA can in ELA and uh
+[0:17:07] 18.4% 4% below the district average in
+[0:17:10] math for grade in grades 3 through five.
+[0:17:13] However, in grades 6 through eight,
+[0:17:15] Portland Village schools scored above
+[0:17:18] the district average in both ELA and
+[0:17:20] math. Uh above the district average in
+[0:17:22] ELA by 3.9% in ELA and 4.6% in math.
+[0:17:28] sharing just a little bit of what we do
+[0:17:31] and how we continue to monitor all of
+[0:17:34] our schools, all of our charter schools
+[0:17:36] and what support um and process we have
+[0:17:40] with regard to when charter schools fall
+[0:17:42] below the district average is we follow
+[0:17:46] what's outlined in statute. Um and um
+[0:17:49] Sunni, I'm going to pass it to Sunnita
+[0:17:51] who's going to talk about both Portland
+[0:17:53] Village School and Chyros as far as the
+[0:17:56] supports and intervention that they each
+[0:17:58] are choosing and implementing with
+[0:17:59] regard to uh their school improvement
+[0:18:02] plan with this data in mind.
+[0:18:04] >> Uh thank you. Um so in in regard to a a
+[0:18:07] a
+[0:18:09] school continuous improvement plan uh
+[0:18:12] the charter schools actually submit what
+[0:18:14] we call a performance plan annually and
+[0:18:16] they have to set their own academic
+[0:18:18] goal. Um so we are tracking that on an
+[0:18:22] annual basis but I should note that both
+[0:18:25] Kyros uh PDX and Portland Village school
+[0:18:28] have put themselves on self-imposed
+[0:18:32] uh improvement plans. Uh this data is
+[0:18:35] not news to um anyone at these schools.
+[0:18:39] And so uh of note, Chyros is in the
+[0:18:43] second year of a three-year improvement
+[0:18:46] plan separate from their performance
+[0:18:48] plan that they submit to the district
+[0:18:50] annually with their academic,
+[0:18:52] organizational, and financial goals. Um
+[0:18:55] that plan, as I mentioned, they're in uh
+[0:18:57] the second year. the the first year of
+[0:19:00] of that plan included stabilizing their
+[0:19:04] staffing. So, we mentioned in December
+[0:19:07] that um uh not that we knew we were
+[0:19:11] going to be looking at this exact data,
+[0:19:13] but we knew that they had been
+[0:19:14] struggling to stabilize their
+[0:19:16] administration and their staffing. And
+[0:19:18] we are seeing the um the outcomes of the
+[0:19:22] first year of the plan working in that
+[0:19:24] they have stabilized their
+[0:19:26] administration. They have a fantastic
+[0:19:28] principal
+[0:19:29] Karina Rogers.
+[0:19:31] >> So I I I think we shared this in
+[0:19:33] December also where Kyros had um kind of
+[0:19:37] had a turnover in leadership or multiple
+[0:19:39] turnovers in leadership for about the
+[0:19:41] last two and a half or three years. And
+[0:19:43] so Principal Rogers was hired last year.
+[0:19:46] And so when we look at this data,
+[0:19:47] Principal Rogers was in place for six
+[0:19:50] months of the previous year of this
+[0:19:51] data. He is continues to be the leader
+[0:19:53] at Chyros and is um leading the school
+[0:19:57] improvement efforts.
+[0:19:58] >> Absolutely. And um we've also seen a
+[0:20:01] stabilization in terms of their um
+[0:20:03] teachers. There were a number of uh
+[0:20:06] long-term and short-term subs serving in
+[0:20:09] classrooms last year and there is hardly
+[0:20:11] any teacher turnover as of this year
+[0:20:13] heading into to next year. So this has
+[0:20:15] been sort of their
+[0:20:17] focused [laughter]
+[0:20:19] uh focus for their first year of their
+[0:20:21] improvement plan. Year two, which we're
+[0:20:23] currently in right now, focuses on
+[0:20:25] establishing high leverage instructional
+[0:20:27] and behavioral practices with more
+[0:20:29] targeted learning and support. Year
+[0:20:31] three will focus on continuous
+[0:20:33] improvement and sustainability. And uh
+[0:20:36] another piece of that that I wanted to
+[0:20:38] mention because if you look at uh
+[0:20:41] enrollment for our charter schools,
+[0:20:43] Chyros PDX is the one school that is
+[0:20:45] showing decreased enrollment over past
+[0:20:48] number of years. Uh they've made an
+[0:20:50] intentional decision to not aggressively
+[0:20:53] recruit students during the early stages
+[0:20:55] of the improvement work in order to
+[0:20:57] prioritize school stability, culture,
+[0:20:59] and instructional quality. So they again
+[0:21:02] were in year two. Um year three will
+[0:21:05] focus on continuous improvement and
+[0:21:06] sustainability. Um Portland Village
+[0:21:10] School has um shared a plan um
+[0:21:14] specifically for grades K through five
+[0:21:17] because as you see their data suggests
+[0:21:20] that uh grades three through five OSAs
+[0:21:22] scores uh are not meeting uh district
+[0:21:27] metrics or or benchmarks so to speak. Um
+[0:21:30] so they've shared a plan in place that
+[0:21:32] includes professional stabilizing
+[0:21:34] staffing um uh professional development
+[0:21:37] and then um continued contracting with
+[0:21:40] reading results for high dosage tutoring
+[0:21:42] services in grades one through four uh
+[0:21:44] early literacy specialists being
+[0:21:46] retained to provide one-on-one and small
+[0:21:48] group interventions and a new ELA
+[0:21:51] curriculum map um as well as adjusting
+[0:21:54] tier 2 meeting process with focus on
+[0:21:56] planning small group differentiated
+[0:21:58] interventions at the classroom level and
+[0:22:00] specific PD for their K5 teachers. So,
+[0:22:05] we are hoping that we will see the
+[0:22:08] results of those um improvement plans
+[0:22:10] that the schools have put in place
+[0:22:12] themselves.
+[0:22:14] For us, as Karina mentioned, um we we
+[0:22:16] rely on statute and if we are are
+[0:22:20] looking at two years of declining um
+[0:22:24] academic data, then we are to put in
+[0:22:29] place our own um improvement plan for
+[0:22:32] the school and work with them. So,
+[0:22:36] while we're not there yet, we are
+[0:22:39] staring this down and working with both
+[0:22:41] of these schools currently to speak to
+[0:22:45] what those plans would look like that
+[0:22:47] the district would put into place and
+[0:22:49] track along with the school as we move
+[0:22:51] into 2627
+[0:22:54] >> aligned with as as outlined by statute.
+[0:23:00] The next um piece
+[0:23:04] is just the last piece is just the
+[0:23:06] demographic data um kind of the overall
+[0:23:09] demographic data. So um again as we as
+[0:23:14] we have mentioned before um
+[0:23:17] we continue to look at um areas um where
+[0:23:22] the in where uh specific demographics
+[0:23:25] are how they are in comparison to the
+[0:23:27] district um overall and those have been
+[0:23:30] provided as well as at the bottom it's
+[0:23:32] in comparison to our uh PPS K5s and then
+[0:23:36] our PPS indistrict middle schools.
+[0:23:42] And that is what we have. We are happy
+[0:23:44] to answer any questions.
+[0:23:48] I'm sorry I was giving y'all the crazy
+[0:23:49] eye. [laughter] Um I I have a lot of
+[0:23:52] questions. Um
+[0:23:55] so my first question is [sighs]
+[0:23:58] um
+[0:24:00] my understanding is that
+[0:24:03] uh stable staffing continues and and
+[0:24:06] high turnover continues to be an issue
+[0:24:08] at Chyros. Um, can you tell me a little
+[0:24:11] bit more about the stabilization both in
+[0:24:15] terms of permanent long-term hired staff
+[0:24:19] who are not subs um but also Chyros's
+[0:24:23] ability to maintain uh grade bands. Um,
+[0:24:27] and for example, um, a few years ago
+[0:24:30] they went from two fifth grades down to
+[0:24:33] one. I think that's also happened in
+[0:24:34] like the second grade and
+[0:24:36] >> maybe some other grades. Um so I'm
+[0:24:38] curious about um both the teacher tenure
+[0:24:41] and stability but also their ability to
+[0:24:43] maintain programming.
+[0:24:45] >> Yeah, I I absolutely and that that's why
+[0:24:48] I spoke to their decreasing enrollment
+[0:24:51] because we you can you can everyone can
+[0:24:53] look at the numbers and they have um
+[0:24:56] combined their fifth grade. That is the
+[0:24:58] case. Um, in staring down next year,
+[0:25:01] we've got they've got an enrollment in
+[0:25:03] the upper 170s and aren't anticipating
+[0:25:06] any more combination of uh or blending
+[0:25:09] of of classrooms. And uh last year at
+[0:25:14] this point in the year, they were still
+[0:25:16] um
+[0:25:18] in three or four of their classrooms,
+[0:25:22] they were not able to hire permanent
+[0:25:25] teachers. they have this year and
+[0:25:27] they're not their hiring for next year
+[0:25:30] is very very limited and their in entire
+[0:25:34] administration is also stable going into
+[0:25:37] next year as well. So that's what we are
+[0:25:41] hearing and what is being indicated from
+[0:25:43] the administration. Um currently
+[0:25:45] >> visits
+[0:25:46] >> yeah and site visits um and being in the
+[0:25:49] classrooms uh they they are not
+[0:25:52] experiencing the teacher turn turnover
+[0:25:55] that they were last year and their
+[0:25:57] inability to staff their classrooms.
+[0:26:01] >> Is the principal uh empowered to make
+[0:26:04] the academic decisions at Chyros? I
+[0:26:08] believe so in conjunction with the rest
+[0:26:12] of the team. Um I will say that that
+[0:26:15] principal Rogers works hand inand with
+[0:26:19] um Terry who has been in um her role as
+[0:26:24] sort of the lead um for the staff and
+[0:26:27] the teaching staff for a number of years
+[0:26:29] and they work in tandem together but I
+[0:26:32] believe they are empowered to make
+[0:26:34] academic decisions. Yes.
+[0:26:37] Um gosh, I'm not quite sure how to
+[0:26:41] phrase this question, but um at a school
+[0:26:44] like Chyros with the express mission of
+[0:26:47] existing to eliminate the racial
+[0:26:49] achievement gap, but we see the racial
+[0:26:51] achievement gap persist
+[0:26:53] >> um and [clears throat] in looking at the
+[0:26:56] um improvement plan materials um that we
+[0:26:59] received,
+[0:27:02] >> I mean it and and from what I've seen in
+[0:27:04] past years, it just it seems like every
+[0:27:05] year it's like we're going to do better
+[0:27:07] next year, can keep working on reading.
+[0:27:10] Um, and things don't improve. So, at
+[0:27:13] what point
+[0:27:15] um is there accountability to the
+[0:27:18] children?
+[0:27:20] >> Full disclosure,
+[0:27:22] >> my oldest kid graduated from Chyros um
+[0:27:24] and did not have the skills from middle
+[0:27:26] school. Um, and I hear that from a lot
+[0:27:29] of uh Chyros families and I've heard
+[0:27:32] from teachers that they can tell which
+[0:27:33] kids came from Chyros because of their
+[0:27:36] skills. So, what I'm driving at
+[0:27:40] is um
+[0:27:43] how do we ensure that the kids that go
+[0:27:46] to school at Chyros are graduating with
+[0:27:49] the skills that they need to go into
+[0:27:52] middle school? how are we ensuring that
+[0:27:55] that mission to close the racial
+[0:27:57] achievement gap um is met
+[0:28:02] and
+[0:28:04] what can we do to just not have a case
+[0:28:06] where every year it's like oh we're
+[0:28:08] going to keep trying to do better um but
+[0:28:10] we don't see better in the outcomes.
+[0:28:13] So, we're guided by statute. And so,
+[0:28:16] what statute says is if there's academic
+[0:28:19] um decline um comparatively more than
+[0:28:22] two years, two years or more, then a
+[0:28:25] performance plan, a formal performance
+[0:28:27] plan is implemented with any charter
+[0:28:29] school. And so, that's the guidance that
+[0:28:31] we follow. And at this point, those are
+[0:28:34] the conversations that we are having
+[0:28:36] that this spring with Chyros and will
+[0:28:38] continue to have. and a performance a
+[0:28:40] formal performance plan would start in
+[0:28:42] the fall as guided by statute
+[0:28:45] and then and then and then there's
+[0:28:47] statute with regard to how we're
+[0:28:49] monitoring
+[0:28:51] >> I'm going to follow up just on that
+[0:28:53] sorry we're like talking over you and
+[0:28:54] not listening to the end of your answer
+[0:28:55] but I'm just following directly up on
+[0:28:57] that particular question so there's
+[0:29:00] basically no so like let's say a charter
+[0:29:03] school came in and said we're this is
+[0:29:05] just kind of a silly idea but we're
+[0:29:07] going to be here to be a sports focused
+[0:29:09] option for for kids in Portland.
+[0:29:11] >> And then we heard later that they're
+[0:29:13] actually doing absolutely no sports.
+[0:29:15] >> Statute doesn't give us any recourse to
+[0:29:17] do anything. They just keep doing what
+[0:29:19] they're doing and they're the sports
+[0:29:20] charter school with no sports and that's
+[0:29:22] just the way it is.
+[0:29:23] >> Is that a fair question?
+[0:29:25] >> You want to I'm I'm just going to go
+[0:29:27] back to the previous response which is
+[0:29:29] we're guided by statute.
+[0:29:31] >> So what
+[0:29:32] >> just academic performance and that's it.
+[0:29:34] Yeah.
+[0:29:34] >> So what we talk So it's it's that
+[0:29:36] three-legged stool. So it's academic
+[0:29:39] performance and how are we monitoring
+[0:29:41] that and we have an annual calendar of
+[0:29:43] deliverables. It is our fiscal um
+[0:29:47] oversight around how are they managing
+[0:29:49] with regard to solveny. And then it's
+[0:29:52] the third one which is operational
+[0:29:53] management right which might be some
+[0:29:56] some pieces of culture and a whole
+[0:29:59] variety of other of of other pieces
+[0:30:02] around how are they organized or how are
+[0:30:04] they managing as an organization. And so
+[0:30:07] those and then we use the national um
+[0:30:11] assessment for charter schools in our
+[0:30:13] performance framework. So we follow
+[0:30:14] national practice with regard to um the
+[0:30:18] performance framework that is completed
+[0:30:19] every year on every charter school. But
+[0:30:22] if we have concerns, that's part of what
+[0:30:25] um Sunnita and I do in our roles is are
+[0:30:28] out in charter schools with leaders just
+[0:30:31] like we're with leaders in our indust
+[0:30:33] schools. Um with regard to sharing
+[0:30:36] concerns, talking about assessment data,
+[0:30:38] looking at looking with our own for our
+[0:30:41] own selves um um part of the um site
+[0:30:45] review every year. Sunnita can go far
+[0:30:48] more into detail but is talking about
+[0:30:51] administration. It's talking to
+[0:30:52] students. It's talking to parents and
+[0:30:55] community members. It's talking to
+[0:30:56] staff. So there's various focus groups
+[0:30:58] and getting different information from
+[0:31:00] various stakeholders in every school
+[0:31:02] every year. And so to go back to your
+[0:31:05] example, um if there was concern um
+[0:31:10] there and
+[0:31:12] um and we have a you know we have a
+[0:31:14] complaint process this their their own
+[0:31:17] organizations but as things come to us
+[0:31:19] in our office though we follow up on
+[0:31:22] those as well as we're working with
+[0:31:23] charter school organizations and their
+[0:31:25] boards around their concerns and around
+[0:31:27] what remedies look like. um if we have
+[0:31:30] multiple concerns expressed from any one
+[0:31:32] school, we're having those
+[0:31:34] conversations. Um one of the functions
+[0:31:37] that Sunnita also does and I literally
+[0:31:39] will stop and let her finish this
+[0:31:40] answer, but is she also attends charter
+[0:31:43] school board meetings
+[0:31:46] um um multi you know throughout the
+[0:31:49] year. So there's also really looking at
+[0:31:51] what is the health of the organization
+[0:31:53] and so that we're so that we as a
+[0:31:56] district are also receiving that
+[0:31:57] information.
+[0:31:58] >> Thank you. you want to
+[0:31:59] >> exactly what I was I was going to just
+[0:32:01] bring up the the piece that these are um
+[0:32:04] their own 501c3s. They have their own um
+[0:32:08] each one each charter school has their
+[0:32:10] own board. Um, and that is a big part of
+[0:32:16] the charter school office's job here at
+[0:32:19] PPS is to ensure that not only are we
+[0:32:21] looking at the academic data, but of
+[0:32:23] course that we're looking at the health
+[0:32:25] of the organization and ensuring that um
+[0:32:29] that their boards are strong enough to
+[0:32:32] hold these schools and these
+[0:32:34] organizations independent and outside of
+[0:32:38] of Portland public. um because they have
+[0:32:41] their own policies, procedures, they are
+[0:32:43] beholdened to um so many of the things
+[0:32:46] that our district is beholden to
+[0:32:48] independently as a small charter school.
+[0:32:51] Um so looking at the overall health of
+[0:32:54] the organization is also a big piece of
+[0:32:57] our job as a district um in the role of
+[0:33:00] authorizer to to take that into account
+[0:33:02] and to track their goals in regard to an
+[0:33:06] organizational goal and a f financial is
+[0:33:08] huge as well. and they're submitting um
+[0:33:11] we mentioned in December that they
+[0:33:13] submit not only their annual budget and
+[0:33:15] then we're tracking that but they submit
+[0:33:17] quarterly financial reports and
+[0:33:18] quarterly PERS reporting so that we can
+[0:33:21] ensure that um nothing
+[0:33:23] >> and annual municipal audits um as well
+[0:33:26] so that we can ensure that um nothing
+[0:33:29] um is going off track um that we're
+[0:33:33] tracking all along the way on a
+[0:33:35] quarterly basis in those regards as
+[0:33:40] One more question. I'll I'll pass the
+[0:33:42] mic. Um
+[0:33:46] my understanding is that there um has
+[0:33:48] been a grievance filed um a sped
+[0:33:52] grievance filed uh that applies to all
+[0:33:55] of the charter schools. um what are we
+[0:33:58] doing to ensure that kids who receive
+[0:34:01] special ed services um are adequately
+[0:34:05] having their IEPs met and that the
+[0:34:08] environments and learning conditions are
+[0:34:11] appropriate.
+[0:34:12] >> So what I'll share is that we're working
+[0:34:14] through our grievance process.
+[0:34:22] Can I add one more thing? So, one of the
+[0:34:25] um key partnerships that we have um uh
+[0:34:29] is with our chart is with our special
+[0:34:31] education uh department. And so, every
+[0:34:35] the only um PPS employees that are
+[0:34:38] employed at any of our charter schools,
+[0:34:40] as you well know, but just for
+[0:34:41] everyone's information, um are our
+[0:34:44] special educators. And so we're also in
+[0:34:48] ongoing communication with not only the
+[0:34:51] educators but also our uh program
+[0:34:54] administrators, our senior director of
+[0:34:55] special education around issues such as
+[0:34:59] anything that would come up with regard
+[0:35:00] to special education. So we um Sunnita
+[0:35:04] and myself share that responsibility
+[0:35:06] with our special educators and our
+[0:35:08] special ed those that supervise special
+[0:35:09] education to work through any challenges
+[0:35:12] and that's what we do with any personnel
+[0:35:13] issue. I I'd also say I think we have a
+[0:35:16] really good collaborative u relationship
+[0:35:20] with our special ed education team here
+[0:35:23] at PPS and our goal is to have we I run
+[0:35:27] a meeting every week with our charter
+[0:35:30] leaders um to discuss any you know
+[0:35:34] relevant obligations and anything that's
+[0:35:37] coming up on a weekly basis and on a
+[0:35:39] monthly basis. Our goal is to have um
+[0:35:42] someone from the PPS special education
+[0:35:43] team push in and provide PD and or
+[0:35:47] answer questions and or um address
+[0:35:51] issues of space challenges in our
+[0:35:54] charter schools. They're again they're
+[0:35:57] required to find their own buildings and
+[0:35:59] lease their own buildings or purchase
+[0:36:01] their own buildings. So space is at a
+[0:36:02] premium. uh questions about the
+[0:36:05] supervision of PPS employees in your
+[0:36:08] building when they're the only PPS
+[0:36:10] employees in the building or the special
+[0:36:12] educators. So, those conversations do
+[0:36:15] come up often and I feel like our team
+[0:36:18] has been um exceptional at being
+[0:36:21] available to provide professional
+[0:36:24] development to our charter leaders and
+[0:36:26] also to answer questions as they come up
+[0:36:29] um during the year. Yeah.
+[0:36:31] >> Yeah. and our special education
+[0:36:33] leadership team has really been present
+[0:36:36] and super positive.
+[0:36:38] >> I have so much confidence in uh your
+[0:36:41] your teams. Um I I worry a bit about um
+[0:36:46] you know those those PPS staff who are
+[0:36:49] embedded in the schools and regardless
+[0:36:53] of the guidance that you all are given
+[0:36:56] um once you're gone, what is actually
+[0:37:00] happening and what um building
+[0:37:03] leadership is following up on or not um
+[0:37:07] and how that impacts our our educators
+[0:37:09] and our learners. Thank you.
+[0:37:11] >> Sure. We will continue to keep you
+[0:37:13] informed.
+[0:37:14] >> Thank you. I appreciate that.
+[0:37:18] >> Um, couple questions regarding, and I'm
+[0:37:21] kind of new to the charter school
+[0:37:23] conversation, so this is, you know,
+[0:37:25] drinking from a fire hose for me. Um,
+[0:37:28] regarding the charter school contracts,
+[0:37:30] um, does a sponsor like PPS have the
+[0:37:34] discretion to pull a contract if a
+[0:37:37] school continues to not meet, um, it
+[0:37:39] stated goals or district academic
+[0:37:42] benchmarks for students?
+[0:37:44] >> Yes, we would follow statute and go
+[0:37:46] through the process. There's t there are
+[0:37:48] timelines. School improvement plans we
+[0:37:51] mentioned two years of declining
+[0:37:53] academic data and then they the school
+[0:37:55] has two years to put things into place
+[0:37:57] and we're following up. Yes, there is
+[0:37:59] language um available to us if if
+[0:38:03] >> um
+[0:38:04] >> if academic outcome outcomes don't
+[0:38:07] improve. So we're not stuck
+[0:38:09] >> and or other things, right? That's all
+[0:38:11] written into the contract and then we
+[0:38:13] follow statute and go through uh the
+[0:38:15] time frame in that way.
+[0:38:16] >> Okay. Yes.
+[0:38:17] >> Um
+[0:38:19] I just thought of this while you were
+[0:38:21] talking about the um uh to director
+[0:38:23] Chase Miller's question. You were
+[0:38:25] talking about additional sped staff
+[0:38:26] coming in. I was wondering how the
+[0:38:27] staffing formula worked. So can you tell
+[0:38:30] me like I'm five how the staffing
+[0:38:33] formula does work for a charter school?
+[0:38:36] Do we have a baseline that I mean comes
+[0:38:38] out of our regular budget. I know it's
+[0:38:40] less because I've looked at the numbers.
+[0:38:42] Does that include this bed staff or is
+[0:38:44] that sort of like an as needed? like how
+[0:38:46] how does that all work?
+[0:38:47] >> I am going to let Chief Buo answer that
+[0:38:49] question because he is all he has the
+[0:38:52] best answer.
+[0:38:53] >> Uh yeah. So, thank you. Uh for the
+[0:38:56] special education staff that it comes
+[0:38:58] out of our budget, so the budget that
+[0:39:01] you um are looking at right now and we
+[0:39:03] staff the charter schools in the same
+[0:39:06] with the same ratios like same type of
+[0:39:08] programming that we would as if it was
+[0:39:10] one of our comprehensive schools.
+[0:39:17] kind of because I feel like and I might
+[0:39:19] be I might need to go back and look at
+[0:39:20] the numbers, but I thought the c the the
+[0:39:22] budget per pupil at some of the charter
+[0:39:24] schools was actually less than some of
+[0:39:26] our neighborhood schools. Am I not
+[0:39:29] remembering that correctly? It's
+[0:39:30] entirely possible.
+[0:39:32] >> So it is less. So
+[0:39:35] >> So that's outlined in statute.
+[0:39:38] >> Okay.
+[0:39:39] So when does that lower number include
+[0:39:43] sped staff or is that layered on top of
+[0:39:48] what we budget for per student? Does
+[0:39:49] that make sense?
+[0:39:50] >> Do you want to answer this?
+[0:39:52] >> No, I'm sorry.
+[0:39:54] >> Are you talking about over I'm sorry,
+[0:39:55] can I ask a clarifying question? Are you
+[0:39:57] talking about overall budget or special
+[0:39:58] education budget?
+[0:40:00] >> I'm thinking about like the the budget
+[0:40:02] at the school level budget. Like when we
+[0:40:04] go through the budget book, like budget
+[0:40:05] book number two, and we're looking at
+[0:40:06] each school and you know what the the
+[0:40:08] number per student is, they're lower. So
+[0:40:11] the so the payment to charter schools
+[0:40:14] overall,
+[0:40:15] >> I'm going to tag team with Chief Uno. So
+[0:40:17] the payment to charter schools overall
+[0:40:20] is outlined in statute. And then I'll
+[0:40:22] and then as far as how PPS shows up with
+[0:40:24] our sped staffing,
+[0:40:26] >> so I I I will verify this for you. Um, I
+[0:40:29] believe strongly that what you're seeing
+[0:40:31] in the budget book is the schools
+[0:40:33] staffing and then the special education
+[0:40:36] sits on top of that in a different in
+[0:40:39] different areas.
+[0:40:40] >> It's part of a a centralized
+[0:40:45] >> allocation.
+[0:40:45] >> Okay, that's what I'm wondering. So when
+[0:40:47] we look at the number like the per pupil
+[0:40:49] spend for a charter charter school, it's
+[0:40:52] actually for like let's just take Cyros
+[0:40:54] as an example, it's actually probably
+[0:40:56] higher once we layer on sped staffing
+[0:41:00] that may not be reflected in the
+[0:41:03] >> Yeah. So so I I do I know that the
+[0:41:06] special ed staffing it sits separately.
+[0:41:09] It's it's um the the specific
+[0:41:11] technicality behind that I I need to
+[0:41:14] follow up with you on. I wasn't trying
+[0:41:16] to surprise.
+[0:41:16] >> No, no, no. I know. I don't take it I'm
+[0:41:18] not taking [laughter] it that way.
+[0:41:19] >> It came up as I was listening. So,
+[0:41:20] >> it's it's I'm not um when they start
+[0:41:22] translating it into the per pupil
+[0:41:24] allocation part in the budget book. I'm
+[0:41:27] just not sure where all that's pulling
+[0:41:28] from, but I can verify that. Thank you.
+[0:41:31] >> You just
+[0:41:32] >> Yeah. And I'm I'm not uh sure. I'll just
+[0:41:34] kind of add on to that just as a
+[0:41:37] reminder and and I may be repeating
+[0:41:39] information so forgive me. Um but the
+[0:41:42] the there pass through rate for charter
+[0:41:46] schools in Oregon for K through eight
+[0:41:49] the floor would be 80% pass through from
+[0:41:52] a sponsor um and um currently for our
+[0:41:55] >> and oh go ahead and 95 for for high
+[0:41:59] school. Yes, we don't have any high
+[0:42:00] schools currently, but it would be 95%
+[0:42:02] pass through rate for um our high
+[0:42:04] schools if we
+[0:42:05] >> and then in addition, previous
+[0:42:09] um charter school and alternative uh
+[0:42:11] programs committee has passed board
+[0:42:15] policy around um some additions to that
+[0:42:18] with regard to the PPS pass through
+[0:42:20] rate.
+[0:42:22] So that's what would be my understanding
+[0:42:24] is that's what would be reflected in the
+[0:42:26] board budget book on any given year. So
+[0:42:29] for right now for our um K5 and K8
+[0:42:33] schools that pass through rate is 90%
+[0:42:35] and Portland public is keeping the other
+[0:42:37] 10%. Uh and then for schools with
+[0:42:40] >> and provides the services other services
+[0:42:43] and staffing and oversight with that
+[0:42:45] that
+[0:42:45] >> and uh the other uh
+[0:42:49] >> that's it. I I was going to mention
+[0:42:51] Pyros or schools with 95% or more
+[0:42:54] historically underserved student
+[0:42:55] population. The pass through rate as
+[0:42:58] determined by the PPS board a number of
+[0:43:00] years ago is 95%.
+[0:43:03] >> That was my next question. I thought
+[0:43:04] that there was a differentiation there.
+[0:43:06] Thank you.
+[0:43:07] >> I'll probably send a couple follow-up
+[0:43:09] questions. So, thank you. Make sure I
+[0:43:11] understand it.
+[0:43:13] >> Um I have a quick question if there's
+[0:43:15] one.
+[0:43:16] um
+[0:43:18] how hard are we being on these schools
+[0:43:21] when they're not meeting our
+[0:43:22] expectations? like are we gentle
+[0:43:24] parenting or like sorry I can't come up
+[0:43:28] with a better phrase for it and I was
+[0:43:30] trying to think of like how to say this
+[0:43:32] but like I know that there's times
+[0:43:34] timelines and that kind of stuff and I
+[0:43:37] know how hard that is but I also do mock
+[0:43:39] trial so I'm trying to figure out how
+[0:43:41] the like how accountable are we holding
+[0:43:44] these schools
+[0:43:46] >> I think we're holding them accountable I
+[0:43:48] as I mentioned I meet with these leaders
+[0:43:50] on a weekly basis I'm in their schools
+[0:43:52] on a monthly basis I'm in their
+[0:43:53] classrooms. Um so why while we can look
+[0:43:56] at um OSAS data as one data point, I
+[0:44:02] also can speak to being in classrooms at
+[0:44:04] Chyros and seeing uh you know learning
+[0:44:07] targets, seeing students engaged,
+[0:44:10] watching a lesson unfold. Um, and they I
+[0:44:14] believe our charter schools I I myself
+[0:44:17] used to be the director of one of our
+[0:44:19] PPS charter schools and I understand I
+[0:44:23] think all our leaders understand the
+[0:44:26] relationship that they they they these
+[0:44:28] schools have with Portland public as an
+[0:44:30] authorizer. Um, we um they are
+[0:44:34] accountable to the district. Um, and I I
+[0:44:37] feel they have an incredible um level of
+[0:44:41] accountability required of them in terms
+[0:44:44] of Karina mentioned the deliverables
+[0:44:46] that they have to turn in throughout the
+[0:44:50] school year. Um, and not just um, as I
+[0:44:54] mentioned academics, but financial and
+[0:44:57] organizational and the the oversight
+[0:44:59] from our office is is um, fairly robust,
+[0:45:03] I would say. I yeah I don't I don't feel
+[0:45:07] um that gentle parenting is happening in
+[0:45:11] in our charter schools. I like your
+[0:45:12] analogy [laughter] but but I think that
+[0:45:15] was a good question. Yeah, thank you.
+[0:45:20] >> I I had a couple questions. I don't
+[0:45:22] know. We're trying to go in order now as
+[0:45:23] a board and I just forgot myself and
+[0:45:25] deferred next to me. Um I wasn't here in
+[0:45:28] December. I think I was in Florida or
+[0:45:30] something with my family. Oh yeah, I
+[0:45:32] was. Yes, I was with my family in
+[0:45:34] Florida and um so I missed our last
+[0:45:37] conversation and did watch it. So I'm
+[0:45:39] sorry if I'm not remembering if this
+[0:45:41] already came up with this group as a
+[0:45:42] bunch of newbies, but um what is the
+[0:45:45] difference between the do we have any
+[0:45:47] the state sponsored schools that are in
+[0:45:49] our district's catchment are mentioned a
+[0:45:52] couple of times but they're not our
+[0:45:55] they're not under our oversight. Is
+[0:45:57] there a reason why you include them in
+[0:46:00] discussion? Is there a relationship that
+[0:46:02] I'm not seeing between the state
+[0:46:03] sponsored ones and and us?
+[0:46:05] >> Yes, there's overlap in a number of
+[0:46:07] different ways. First of all, the pass
+[0:46:09] through of the dollars and the funds um
+[0:46:13] go through our office. Um special
+[0:46:15] education is another layer for for those
+[0:46:18] schools. Um and then there's been an
+[0:46:20] added layer of um oversight required
+[0:46:23] from our office because as OD has
+[0:46:27] streamlined their grant reporting um for
+[0:46:31] SIA and early literacy
+[0:46:34] um they have embedded the state
+[0:46:37] sponsored charter schools into our
+[0:46:39] district um application and reporting.
+[0:46:43] And so our office is also required to
+[0:46:48] work with those two schools to ensure
+[0:46:50] that their reporting for early literacy
+[0:46:53] for SIA etc. what's embedded in that
+[0:46:56] work app um with the district's
+[0:46:59] application and reporting happens and so
+[0:47:02] there is an that added layer now um from
+[0:47:05] our office in terms of oversight for
+[0:47:07] those two schools
+[0:47:09] >> and then just lastly I think we also
+[0:47:11] share that information just for
+[0:47:13] clarification sake because I think
+[0:47:16] community members don't always know
+[0:47:18] what's a state sponsored that that IV
+[0:47:20] and Cottonwood are not necessarily PPS
+[0:47:22] charter schools
+[0:47:23] >> okay Um, my next question, I think I
+[0:47:26] know the answer, but I could be wrong.
+[0:47:27] Are the teachers in those schools PAT
+[0:47:30] members and classified staff, right?
+[0:47:32] Okay, that's what I thought. That was a
+[0:47:34] no for those that are listening
+[0:47:35] >> with the exception of the special ed
+[0:47:37] >> specialized teachers. Okay, great. Thank
+[0:47:38] you. That might help explain the lower
+[0:47:41] cost per people. Um, and then the other
+[0:47:44] thing, by by the way, I'm not saying I
+[0:47:46] support lower pay. I'm just saying that
+[0:47:48] might be part of the reason for that.
+[0:47:50] And then the other thing that I wanted
+[0:47:52] to ask about was um Oh, it just fell out
+[0:47:55] of my head because I felt bad about the
+[0:47:56] way I said that. Um
+[0:48:00] this is a different Oh, okay. Um I know
+[0:48:03] we have a pass through rate and it funds
+[0:48:05] your work, your portion of this work,
+[0:48:07] etc. I'm assuming. And then also the
+[0:48:09] special ed, not the special ed, the
+[0:48:11] special ed's just separate. Okay. Um, do
+[0:48:14] we
+[0:48:17] exceed
+[0:48:19] if you were to take the let's say 95%
+[0:48:21] pass through rate to Chyros as an
+[0:48:23] example that goes they the 5% stays to
+[0:48:27] do the oversight and all the other work
+[0:48:29] does that cover it or are we exceeding?
+[0:48:31] So like the maintenance costs on that
+[0:48:33] building and stuff are all falling
+[0:48:34] within that 5%.
+[0:48:36] So if you're talking about um a lease
+[0:48:39] agreement, if you're talking about
+[0:48:41] Chyros in particular, then that's a
+[0:48:42] different department. That's that's our
+[0:48:45] um in O um OSM with regard to our our um
+[0:48:49] our a lease agreement. So that's not in
+[0:48:52] that that funding is not
+[0:48:54] >> but otherwise the connected
+[0:48:56] >> we did a cost analysis prior to when the
+[0:48:59] board requested it several years ago.
+[0:49:02] Um, so we did a cost analysis so to
+[0:49:04] ensure that the bor that the district
+[0:49:06] would retain enough [snorts] for that
+[0:49:08] exact question.
+[0:49:10] >> Okay, great. Okay, thanks. I might be
+[0:49:12] interested in learning more about the
+[0:49:14] maintenance cost too on the building
+[0:49:15] there. But thank you.
+[0:49:18] >> Thank you.
+[0:49:19] >> All right.
+[0:49:23] Our
+[0:49:28] next topic is to hear about the interim
+[0:49:30] assessment tool selection update. Chief
+[0:49:32] Buuna.
+[0:49:33] >> Yeah. So, presenting tonight uh on this
+[0:49:36] update is Dr. Renard Adams, our chief
+[0:49:38] accountability and equity officer.
+[0:49:43] >> Thank you so much. Good evening, uh,
+[0:49:45] committee members, student
+[0:49:46] representative Dr. Armstrong and Chief
+[0:49:49] Buuno. I'm pleased before you to share
+[0:49:52] an update on our interim assessment
+[0:49:54] selection.
+[0:49:58] Our this is our learning target and
+[0:49:59] success criteria. We're going to
+[0:50:01] continue to model that and model what we
+[0:50:03] expect to see in our classrooms when
+[0:50:04] we're working with uh board members. And
+[0:50:07] we're hoping that you'll learn about the
+[0:50:08] OD requirement that requires this
+[0:50:11] selection and that you can update you
+[0:50:13] can articulate our engagement process
+[0:50:15] and the rationale behind the choice.
+[0:50:19] Wanted to start by talking about our PPS
+[0:50:23] balance assessment system pre P preK to
+[0:50:26] 12. This graphic represents our balanced
+[0:50:29] assessment framework. We're working to
+[0:50:32] actualize all areas of the framework.
+[0:50:35] Assessment lives along a continuum of
+[0:50:38] more qualitative and formative to more
+[0:50:40] quantitative and summitative. This
+[0:50:42] graphic is intended to show the
+[0:50:43] continuum of assessments along with
+[0:50:46] included in our balanced assessment
+[0:50:48] system. The width of the rectangles are
+[0:50:51] intended to show the relative amount of
+[0:50:53] time educators and schools should spend
+[0:50:56] analyzing the results for next steps.
+[0:50:59] So, as you can see, our expectation is
+[0:51:02] that educators spend the bulk of their
+[0:51:03] time analyzing information gleaned from
+[0:51:06] the formative assessment process, daily
+[0:51:08] assignments, lessons, exit tickets,
+[0:51:11] and the curriculum embedded assessments
+[0:51:13] that are shown in yellow.
+[0:51:15] >> [snorts]
+[0:51:15] >> We want educators spending almost all of
+[0:51:17] their time in the green and yellow areas
+[0:51:19] of our balance system where the
+[0:51:21] assessment processes provide information
+[0:51:23] that can drive the analysis of student
+[0:51:25] learning because typically there's time
+[0:51:28] to respond in the moment whether that
+[0:51:30] moment is that day, the next day, the
+[0:51:32] next week.
+[0:51:36] So let's talk about the 2025 Education
+[0:51:39] Accountability Act.
+[0:51:41] I want to start off by sharing that this
+[0:51:43] act is yet another unfunded mandate. It
+[0:51:47] requires all Oregon districts to
+[0:51:49] annually assess students using one of
+[0:51:51] four approved assessments. It uh it
+[0:51:56] requires us to assess students in grades
+[0:51:58] K through 8 in reading and mathematics
+[0:52:02] three times a year, report that publicly
+[0:52:04] to the board, and it begins in the fall
+[0:52:07] of 2026. So, this is increasing the
+[0:52:11] number of students that are taking
+[0:52:13] digital assessments and increasing the
+[0:52:16] number of times students are taking
+[0:52:18] assessments throughout the school year.
+[0:52:23] The OD put out a list of approved
+[0:52:25] interim assessments over a two-month and
+[0:52:28] two meeting two board meeting period of
+[0:52:30] time. Those approved assessments
+[0:52:32] included the MAP growth assessment, the
+[0:52:35] I Ready assessment from Curriculum
+[0:52:37] Associates, the Cambium assessment,
+[0:52:39] which is commonly known as the OD
+[0:52:42] assessments, and then Renaissance's star
+[0:52:44] assessments.
+[0:52:49] We wanted our selection of an interim
+[0:52:51] assessment to be informed by stakeholder
+[0:52:53] feedback. To that end, we re we re we we
+[0:52:56] requested input and feedback from
+[0:52:58] building leaders, educators, and
+[0:53:01] families via a feedback form. And
+[0:53:03] additionally, we held separate
+[0:53:04] listening/feedback sessions with
+[0:53:07] building leaders, educators, and
+[0:53:09] families via the village table, which is
+[0:53:11] the superintendent's family site
+[0:53:13] council. And so, in all, we heard from
+[0:53:17] 23 building leaders, most of whom were
+[0:53:19] in K8. We heard from 90 educators, the
+[0:53:22] majority of which were K5 and K8. And we
+[0:53:24] heard from 488 families regarding uh
+[0:53:28] input into the interim selection tool
+[0:53:31] interim tool selection choice and
+[0:53:33] options.
+[0:53:36] All right, this is a lot of information
+[0:53:38] on a slide. I'm hoping that it makes
+[0:53:39] sense. We wanted to take a moment to
+[0:53:41] share some assessment tool comparisons
+[0:53:43] across some significant categories.
+[0:53:47] Where a tool meets a category that it's
+[0:53:49] highlighted in red and where a tool
+[0:53:51] misses that category it's highlighted
+[0:53:53] text is highlighted sorry highlighted in
+[0:53:55] green and where it misses it's
+[0:53:56] highlighted in red. First we wanted to
+[0:53:59] determine which assessments covered all
+[0:54:00] of the required OD grades of
+[0:54:02] kindergarten through 8th grade. You can
+[0:54:05] see that all save the OD cambium
+[0:54:07] assessments cover all of those grade
+[0:54:08] levels.
+[0:54:10] The next thing we considered was whether
+[0:54:12] the assessment was currently being used
+[0:54:14] by PPS educators. You will note that MAP
+[0:54:16] and I ready are currently in use.
+[0:54:19] We also examine whether or not the
+[0:54:21] assessment was computer adaptive, which
+[0:54:23] is the assessment experience students
+[0:54:25] are accustomed to having. You can see
+[0:54:27] that only one of the assessments is not
+[0:54:29] computer adaptive, and that's the OD
+[0:54:31] assessment.
+[0:54:33] Next, we wanted to understand if we
+[0:54:34] could use the assessment to identify and
+[0:54:36] track student growth via growth growth
+[0:54:39] scores and student proficiency against
+[0:54:41] standards using achievement scores.
+[0:54:44] Please notice that all but the OD
+[0:54:46] assessments provide both growth scores
+[0:54:49] um provide growth scores and all provide
+[0:54:51] some sort of achievement score.
+[0:54:54] Our final two categories were teacher
+[0:54:56] workload and cost. Teacher workload was
+[0:54:59] examined across the assessments and we
+[0:55:01] determined that teacher workload would
+[0:55:03] increase when using the OD assessments,
+[0:55:05] specifically in the mathematics portion
+[0:55:08] where the that assessment requires
+[0:55:10] teachers to handcore at um items off of
+[0:55:13] every assessment and then enter that
+[0:55:15] data manually into the system.
+[0:55:18] Additionally,
+[0:55:20] OD requires districts to screen students
+[0:55:22] for dyslexia in grades two and grades K
+[0:55:25] and two, which is also unfunded.
+[0:55:28] This is another unfunded mandate. In the
+[0:55:31] past, we've purchased a separate
+[0:55:32] dyslexia screener and saw this as a
+[0:55:35] possible opportunity to consolidate
+[0:55:37] assessment tools, reduce costs, and
+[0:55:39] build assessment coherence. Teachers are
+[0:55:43] constantly providing us feedback about
+[0:55:45] there being too many assessment tools.
+[0:55:47] Especially with us currently having map
+[0:55:50] fluency, map growth and I Ready.
+[0:55:54] In terms of cost, we identified that I
+[0:55:56] Ready, Cambian, and Renaissance Star
+[0:55:58] would result in a cost savings over what
+[0:56:01] we currently spend on map growth and map
+[0:56:03] fluency. This is because of two factors.
+[0:56:06] We would need to increase our MAP growth
+[0:56:09] uh expenditure and contract from grades
+[0:56:11] 3 through 8 to K through eight. and two,
+[0:56:14] the OD required fluency assessment is
+[0:56:17] built into I Ready and we therefore
+[0:56:19] would not need to continue paying for
+[0:56:21] MAP fluency which is an additional cost
+[0:56:23] on top of MAP growth. This lead us this
+[0:56:27] led us to our final cost comparison with
+[0:56:29] the Cambium assessments. Yes, these the
+[0:56:32] interim assessments are free to all
+[0:56:35] Oregon districts
+[0:56:36] and at the same time they do not require
+[0:56:40] they do not cover all the required grade
+[0:56:42] levels which means any district adopting
+[0:56:44] adopting the OD assessments would still
+[0:56:47] need to adopt one of the other three in
+[0:56:50] order to go to cover grades two K
+[0:56:52] through two. Additionally,
+[0:56:55] uh this scenario creates an unknown cost
+[0:56:57] because we don't um know most providers
+[0:57:00] sell their assessments in grade bands
+[0:57:03] and not necessarily in a few individual
+[0:57:05] grades. Additionally, we are trying and
+[0:57:09] saw an opportunity with this selection
+[0:57:11] process to bring clarity and coherence
+[0:57:13] to our balanced assessment system. And
+[0:57:15] having multiple assessments across
+[0:57:17] different grades is less than ideal when
+[0:57:20] we could have a single assessment across
+[0:57:22] all grades in K through 8.
+[0:57:28] Based on stakeholder input and district
+[0:57:30] uh district expertise, PPS has decided
+[0:57:34] to adopt the curriculum associates I
+[0:57:36] Ready assessment beginning in the fall
+[0:57:38] of 2026.
+[0:57:40] This is for a few reasons. I Ready, as
+[0:57:43] shown on the previous slide, met all of
+[0:57:45] the preferred feature categories and
+[0:57:47] aligned with the following stakeholder
+[0:57:49] feedback that we've received through our
+[0:57:51] engagement sessions. Stakeholders asked
+[0:57:53] us to have a single assessment across
+[0:57:55] all grades and subjects. They also asked
+[0:57:58] for us to have a system with robust
+[0:58:00] reporting that fe uh which could all
+[0:58:03] could report on both achievement and
+[0:58:05] growth. And finally, they asked us to
+[0:58:08] keep a primary focus on the usefulness
+[0:58:11] of the assessment results to inform
+[0:58:13] individualized student learning and
+[0:58:16] instruction.
+[0:58:19] I also wanted to take just a moment to
+[0:58:21] differentiate between and among the
+[0:58:23] components of I Ready as there have been
+[0:58:25] many recent conversations about the
+[0:58:27] product. I Ready has three components.
+[0:58:30] There is the readymath curriculum
+[0:58:32] component. Those are print materials
+[0:58:35] that students interact with on a daily
+[0:58:36] basis.
+[0:58:38] There's the my path digital academic
+[0:58:40] support component for students. Uh this
+[0:58:43] is a uh use of the my path digital
+[0:58:47] platform. It's recommended that students
+[0:58:50] who need it are on it 15 to 20 minutes
+[0:58:52] twice a week only. And then there is
+[0:58:56] their computer-based assessment
+[0:58:58] component which uh because of the OD
+[0:59:01] mandate will be required three times a
+[0:59:03] year. Those assessments take less time
+[0:59:06] in the primary grade. So, we're looking
+[0:59:08] at possibly 30 minutes in grades K
+[0:59:10] through two and then the time increases
+[0:59:13] up through the middle grades to where it
+[0:59:15] could take up to 60 minutes.
+[0:59:18] Uh, wanted to share this information to
+[0:59:20] make sure we're distinguishing among
+[0:59:21] these so we can understand when, where,
+[0:59:24] and for how long students are
+[0:59:26] interacting with textbased resources and
+[0:59:28] when they are interacting with digital
+[0:59:30] tools.
+[0:59:34] And so that concludes um my brief
+[0:59:36] update. I'm available for uh any
+[0:59:39] questions you may have and also have
+[0:59:40] some I Ready experts unexpectedly behind
+[0:59:43] me. Uh so I'm happy to have them here.
+[0:59:49] >> I guess I can go ahead this time. Um I'm
+[0:59:51] wondering to what extent you built that
+[0:59:53] entire slideshow being prepared for me
+[0:59:55] to wish that we were using the Cambia
+[0:59:57] one. Um, so, um, were you thinking of me
+[1:00:02] >> always? [laughter]
+[1:00:03] >> Anyway,
+[1:00:05] um, I want to know a little bit more
+[1:00:06] about how staff were engaged. So, I know
+[1:00:08] you mentioned you engaged staff. I
+[1:00:10] didn't even see I would have totally
+[1:00:11] loved to participate in the family input
+[1:00:14] because I'm a parent, not because I'm
+[1:00:15] trying to have like undue influence, but
+[1:00:16] I'm still a parent
+[1:00:17] >> in the schools. I didn't see anything
+[1:00:19] come over my email. So, I'm curious just
+[1:00:21] how the outreach worked.
+[1:00:22] >> Sure. Uh, we uh distributed a feedback
+[1:00:25] form to families. We also distributed
+[1:00:28] >> like on paper. [clears throat]
+[1:00:29] >> No, no, no. It was it was it was
+[1:00:30] digital.
+[1:00:31] >> Oh, that's I'm I'm very curious that you
+[1:00:34] didn't receive it. Okay.
+[1:00:35] >> Um so I can
+[1:00:36] >> I am also somewhat curious because I but
+[1:00:38] we get a lot of Is it through the Parent
+[1:00:41] Square, whatever that thing is.
+[1:00:43] >> Don't make me lie. Um let me let me find
+[1:00:46] out exactly how we distributed it. It
+[1:00:47] would have been likely through parent
+[1:00:49] square. Okay.
+[1:00:50] >> Because that's our communication
+[1:00:51] platform. We also sent out a feedback
+[1:00:54] form to our K5 and K8 educators and we
+[1:01:00] invited uh K5 and K8 educators to
+[1:01:03] feedback and input sessions.
+[1:01:04] >> Oh, great. Okay, cool. Thank you for
+[1:01:06] that.
+[1:01:07] >> Sure.
+[1:01:08] >> Um I'm curious if I Ready is norms based
+[1:01:11] or standardsbased.
+[1:01:13] >> It actually can do both.
+[1:01:15] >> Okay. And which one are we going to do?
+[1:01:17] >> Well, uh that's interesting. I am
+[1:01:20] looking and waiting for some
+[1:01:22] clarification from OD on their guidance.
+[1:01:25] Um part of their guidance that we saw
+[1:01:27] which was just like a slide so it wasn't
+[1:01:30] anything extensively written said that
+[1:01:32] they would said that we would be
+[1:01:34] required to report on growth. Um now
+[1:01:37] obviously I have questions about if
+[1:01:39] we're doing the assessment three times a
+[1:01:41] year. The second and the third time seem
+[1:01:43] like the times we can talk about growth
+[1:01:45] and the first time it seems like we
+[1:01:47] would need to talk about achievement. So
+[1:01:48] I still have some and the team and I
+[1:01:50] have some lingering questions that we
+[1:01:52] need uh responses from from OD.
+[1:01:54] >> Okay, cool. Um what is computer adaptive
+[1:01:58] mean?
+[1:01:59] >> Oh, great question. So a computer
+[1:02:02] adaptive assessment um so assessments
+[1:02:06] come in either fixed form which were
+[1:02:07] which we were used to taking when we
+[1:02:09] went to school where everyone gets like
+[1:02:11] the same questions
+[1:02:14] >> um no matter what right when you're in
+[1:02:16] fourth grade you get the fourth grade
+[1:02:17] test there might be two versions of the
+[1:02:19] test and I have version A and you have
+[1:02:21] version B and director Chase Miller has
+[1:02:24] version uh A right assessments also can
+[1:02:27] be computer adaptive now with technology
+[1:02:29] meaning the items you are presented are
+[1:02:33] are presented to you based on your
+[1:02:35] performance on the assessment to that
+[1:02:37] point. And so as you what typically
+[1:02:39] happens with a computer adaptive
+[1:02:40] assessment is it stretches below the
+[1:02:44] current grade level and above the
+[1:02:46] current grade level. So if a student is
+[1:02:48] performing really really well, it
+[1:02:50] continues to give them more rigorous
+[1:02:53] content items until they stop doing
+[1:02:56] well. And if a student is not doing so
+[1:02:58] well, it backs down a little bit.
+[1:03:01] uh to the prior grade level or below to
+[1:03:04] give the student some items that they
+[1:03:06] can then uh answer correctly and then
+[1:03:10] the next time the student takes the
+[1:03:12] assessment it typically picks up where
+[1:03:14] you left off at the last time.
+[1:03:16] >> Okay. All right. Interesting. Um you
+[1:03:19] have gone to pains
+[1:03:22] to explain
+[1:03:24] growth in the past. So, I am sorry to
+[1:03:29] ask again, [laughter]
+[1:03:31] but like if we're trying to figure out
+[1:03:34] if students are meeting the standards,
+[1:03:37] that to me seems like an achievement yes
+[1:03:39] or no question.
+[1:03:40] >> It is.
+[1:03:41] >> And growth. And so, I guess I still
+[1:03:44] don't understand why like my achievement
+[1:03:46] test at the end of third grade and my
+[1:03:49] achievement test at the end of fourth
+[1:03:51] grade, those can't demonstrate growth.
+[1:03:54] So, I don't understand what you have to
+[1:03:56] do differently rather than just look and
+[1:03:59] say Christy got an 82 got an 82 was the
+[1:04:03] 82nd percentile at the end of third
+[1:04:05] grade and is at the 84th percentile at
+[1:04:07] the end of fourth grade and therefore
+[1:04:09] grew. Yay. Go Christie.
+[1:04:11] >> So, what's the difference between that
+[1:04:14] and growth?
+[1:04:15] >> That's [snorts] a great question. So,
+[1:04:18] the endofyear OSAS assessments are what
+[1:04:20] we call criterion reference. You have to
+[1:04:22] meet a bar. It's like taking the bar for
+[1:04:25] example or uh the SAT where you meet a
+[1:04:28] threshold and either you meet it or you
+[1:04:31] don't. Um OD does provide some
+[1:04:33] information to building leaders about
+[1:04:36] which levels uh towards meeting or
+[1:04:39] exceeding the standard students meet. So
+[1:04:41] we can understand students that are
+[1:04:42] really close and students who are
+[1:04:44] further away. It doesn't tell us whether
+[1:04:46] a student is growing. However, it used
+[1:04:48] to they used to provide growth
+[1:04:50] percentiles is my understanding. they no
+[1:04:52] longer do that. One of the reasons we uh
+[1:04:58] like to celebrate growth is because the
+[1:05:01] end of the year assessment is a zero-
+[1:05:02] sum game. You meet it or you don't. Um,
+[1:05:05] when you're in a school that has lower
+[1:05:08] achievement or and or and or students
+[1:05:10] who are further from their grade level
+[1:05:12] expectation, you could have worked
+[1:05:15] really hard as a teacher and gotten that
+[1:05:16] student up a whole grade level, but if
+[1:05:18] they're two grade levels behind, the end
+[1:05:20] of the year assessment is still going to
+[1:05:21] show you that you didn't make it.
+[1:05:23] Whether where a growth assessment would
+[1:05:25] say, look how much progress you've been
+[1:05:27] made, you've been making, right? And so
+[1:05:30] we can look at growth in terms of growth
+[1:05:32] percentiles and I believe we will be
+[1:05:34] able to do that with the I Ready Cambium
+[1:05:36] assessments. Uh but we will still also
+[1:05:39] look at achievement as well because I am
+[1:05:41] also curious um to look at and this is
+[1:05:46] just my own morbid curiosity because I'm
+[1:05:47] a data nerd. How what percentage of
+[1:05:50] students are on grade level at the
+[1:05:52] beginning of the year? What percentage
+[1:05:54] are on grade level at the midpoint? what
+[1:05:56] percentage are on grade level at the
+[1:05:58] spring. I think that's a way we could
+[1:06:00] look at those data and I would hope that
+[1:06:01] we could look at those data in that way
+[1:06:03] and I'm just waiting for additional
+[1:06:05] clarifications from the OD about how we
+[1:06:08] need to report the data to them.
+[1:06:11] >> Um and then I'm just going to hold forth
+[1:06:13] quickly. We have a very important reason
+[1:06:14] to end as close to on time as possible.
+[1:06:17] >> I heard
+[1:06:18] >> um but um so I'll just say this. Um, I
+[1:06:22] wonder about making sure that kids
+[1:06:24] aren't on my path too much because then
+[1:06:27] this testing is also the same. And sorry
+[1:06:29] you're here. You're the I Ready guy. I'm
+[1:06:30] so sorry because what I'm about to say
+[1:06:31] is not going to like make it delight
+[1:06:33] you. My reasoning is that I'm at school
+[1:06:36] at an elementary school all the time and
+[1:06:39] [clears throat] or every Friday. And I
+[1:06:41] hear so much complaining about how much
+[1:06:43] kids hate I Ready. They hate math
+[1:06:46] because they hate I Ready. And so we're
+[1:06:48] asking them to do more I Ready. And so
+[1:06:51] it's like the only thing I hear kids
+[1:06:53] complain about that's like curriculum
+[1:06:54] based, at least in in my world for the
+[1:06:57] most part, other than my daughter
+[1:06:58] thinking we need to have more on women's
+[1:06:59] suffrage, but that's another story. But
+[1:07:02] um but I just worry about like if we do
+[1:07:04] have people that are like on my path too
+[1:07:07] much, then it's going to like perpetuate
+[1:07:10] that burnout that they have with the
+[1:07:11] system and could make them then just
+[1:07:13] like be like trying to just get through
+[1:07:15] the dang test because they hate I
+[1:07:16] already. So, I just think it would be
+[1:07:18] really helpful to keep just like keep
+[1:07:21] that in mind even though I know it's
+[1:07:23] anecdotal. My daughters are extremely
+[1:07:26] different and if you want to like get
+[1:07:27] them on the same page, just ask them how
+[1:07:29] they feel about math at at their
+[1:07:32] elementary school. They both do
+[1:07:33] extremely well in math. So,
+[1:07:35] congratulations already. My kids do
+[1:07:36] excellent on tests on OSAs and
+[1:07:38] everything, but they don't like it. And
+[1:07:41] so, I just have this fear in my mind
+[1:07:45] about it. Um, so I will just say it
+[1:07:47] because I think it's important that you
+[1:07:48] hear it from a parent. Um, and then the
+[1:07:51] other thing that I just want to put out
+[1:07:52] there is I thought it was so cool the
+[1:07:54] idea since OSAS is what we get judged on
+[1:07:57] by community and report cards and the
+[1:07:59] media to like have kids be preparing for
+[1:08:02] that test using the OD assessment. And
+[1:08:04] you know, I felt that way, which is why
+[1:08:06] I will continue to say that if the eye
+[1:08:08] on the prize for like what helps us to
+[1:08:11] look good and be a draw to community
+[1:08:13] deciding where to send their children,
+[1:08:15] um, helping them be prepared for that
+[1:08:17] OSAS is important to me. So, I hope that
+[1:08:19] as we're making this transition, we're
+[1:08:21] keeping an eye on OSAS and like maybe
+[1:08:24] randomly looking at kids or something to
+[1:08:26] see like is it does it seem like since
+[1:08:28] we've moved to these new assessments
+[1:08:30] that they're still hitting that OSAS
+[1:08:32] target? and maybe also be looking at
+[1:08:34] some of the districts that choose to go
+[1:08:36] with the state funded version, the
+[1:08:38] cambium or whatever it's called um to
+[1:08:41] see if they seem to be improving on the
+[1:08:43] OSAS. And I think that would just be
+[1:08:45] something to keep in mind going forward
+[1:08:46] in the future.
+[1:08:47] >> Sure. Thank you for listening.
+[1:08:48] >> Thank you for Thank you for sharing. I
+[1:08:51] can share a few things. I I'll try to be
+[1:08:52] really brief. One, we can um we can and
+[1:08:56] do receive reports on student usage of
+[1:08:59] the I Ready My Path. Um, and I'm not
+[1:09:01] saying that some students aren't on it
+[1:09:03] more than they should be. Our current
+[1:09:05] data suggests in the aggregate students
+[1:09:07] are not on it to the recommended time.
+[1:09:09] That's what our current data show us.
+[1:09:11] Um, and I also want to share that we did
+[1:09:14] I personally had conversation with
+[1:09:16] teachers from a different district that
+[1:09:18] use the cambium assess the OD
+[1:09:20] assessments to understand the workload
+[1:09:22] problem. As a former district negotiator
+[1:09:25] at the bargaining table and is someone
+[1:09:27] who meets with our teachers and
+[1:09:30] educators once a month, one of the
+[1:09:32] things we constantly hear is the
+[1:09:33] workload. And so it was really a
+[1:09:36] challenging decision to think about, oh,
+[1:09:39] we could save a couple hundred,000
+[1:09:43] or and or and by doing that, we're going
+[1:09:45] to increase workload on our teachers who
+[1:09:47] are telling us that they're uh very much
+[1:09:49] overloaded at the moment. So that was a
+[1:09:51] a very serious consideration that we
+[1:09:53] took into account as well.
+[1:09:57] >> Thanks. Makes sense.
+[1:09:58] >> Director Chase Miller, Director
+[1:10:00] Englesman has her hand raised.
+[1:10:03] Um just going to my kid likes path.
+[1:10:07] >> Oh, good.
+[1:10:08] >> I know. I don't know. Um, but just for
+[1:10:10] for the I Ready people out there,
+[1:10:12] >> kind of [laughter] reminds me of like
+[1:10:14] there was this thing where the kids kept
+[1:10:15] rejecting the school milk like two years
+[1:10:17] ago, and I swear it was cuz like one kid
+[1:10:20] said that it was bad, so it could just
+[1:10:21] be like the cool thing at my kids school
+[1:10:23] to like hate it. But yeah, good. Uh,
+[1:10:26] Director Englesman, go ahead.
+[1:10:29] >> Oh, thank you. Um, I didn't mean to butt
+[1:10:32] ahead of anybody else who has questions.
+[1:10:34] Um, so the first thing when I was
+[1:10:37] looking through this is, and I'm glad
+[1:10:38] that you started with this, Dr. Adams,
+[1:10:40] about it being another unfunded mandate,
+[1:10:42] and I had that question. Is that what it
+[1:10:44] is? Because it certainly looks that way.
+[1:10:46] Um, that's really disappointing because
+[1:10:49] am I am I right in saying that we cover
+[1:10:53] the cost for this and it comes out of
+[1:10:54] the general fund?
+[1:10:56] >> That is correct.
+[1:10:57] >> I'm sort of saying this for everybody
+[1:10:58] who's listening. Um, that's
+[1:11:01] disappointing. Okay. So, uh, I'm looking
+[1:11:03] at it and I had a question of how much
+[1:11:05] time, three, it looks like three times a
+[1:11:07] year, 30 to 60 minutes per um content
+[1:11:11] area. Are the content areas, math, ELA?
+[1:11:15] Is there a third one or is is it just
+[1:11:17] those two?
+[1:11:17] >> It's just those two.
+[1:11:19] >> Okay. So, then three times a year we're
+[1:11:21] looking at an hour or two um taken away
+[1:11:25] from otherwise would be instructional
+[1:11:27] time. Is that right?
+[1:11:28] >> That is correct. this uh requirement
+[1:11:31] increases assessment time across the
+[1:11:33] state.
+[1:11:34] >> Okay. And another sort of unfunded
+[1:11:38] unmandate is that there was no increase
+[1:11:40] in otherwise in instructional time
+[1:11:42] otherwise. Right. It just is slashing
+[1:11:44] another hour or two each year from our
+[1:11:48] kids.
+[1:11:48] >> That's correct.
+[1:11:50] >> Okay. Um I had a question about uh one
+[1:11:54] of the slides I read says it doesn't
+[1:11:55] replace and then I put it in quotations
+[1:11:57] curriculum embedded assessments. Are
+[1:11:59] those what are those?
+[1:12:02] >> Sure. So if you think about um I'm going
+[1:12:05] to go to a different content area
+[1:12:06] besides math. I'm going to go to English
+[1:12:08] language arts. Uh there are assessments
+[1:12:11] at the end of each unit or learning
+[1:12:13] cycle. Uh in some areas those are
+[1:12:17] written tasks because we want students
+[1:12:18] to demonstrate their knowledge through
+[1:12:21] writing. In some content areas and
+[1:12:23] subjects those are actually uh those are
+[1:12:26] actual multiplechoice selection
+[1:12:29] assessments as well. So they're directly
+[1:12:31] connected to the curriculum and aren't
+[1:12:33] and came with the curriculum as a way to
+[1:12:36] check for student understanding and
+[1:12:37] learning so that teachers don't
+[1:12:39] necessarily have to create things on
+[1:12:41] their own.
+[1:12:43] >> Wonderful. That's helpful. Thank you.
+[1:12:44] And back to my initial I'm going back
+[1:12:47] one question. Um we talked about taking
+[1:12:49] away 30 to 60 minutes three times a year
+[1:12:53] times 2. That's also
+[1:12:56] um 30 to 60 minutes times 2 times three
+[1:12:58] of more computer time that our kids are
+[1:13:00] going to be on for these assessments. Is
+[1:13:02] that right?
+[1:13:02] >> That is correct.
+[1:13:04] >> So the you know we've been hearing a lot
+[1:13:05] about families especially in the early
+[1:13:07] grades worrying about their kids being
+[1:13:09] on computers. said this is this unfunded
+[1:13:11] mandate is now pushing more computer
+[1:13:14] time on our kids, our young kids.
+[1:13:15] >> Yes, it does.
+[1:13:16] >> Okay. Um, thank you. Uh, one of the
+[1:13:20] things I talked about at the Tuesday
+[1:13:22] meeting and a year ago even is how many
+[1:13:25] assessments our kids are doing. Are we
+[1:13:26] going to be bowing out of MA maps
+[1:13:29] testing as well or will we still be
+[1:13:31] doing that?
+[1:13:31] >> We will be bowing out of that.
+[1:13:33] >> Okay, perfect. Thank you. It's probably
+[1:13:35] in the slide and I missed that. uh it
+[1:13:38] was not in the slide so that that's on
+[1:13:40] me and I can actually my team keeps
+[1:13:43] track of how much assessment time is
+[1:13:47] taken by the district required
+[1:13:49] assessments that are standardized and
+[1:13:51] how much assessment time is required by
+[1:13:54] the state standardized assessments and I
+[1:13:56] would be happy to share that with you
+[1:13:57] all because we we do have assessment
+[1:14:00] standardized assessment language in our
+[1:14:02] collective bargaining agreement with our
+[1:14:04] educators around how much time we won't
+[1:14:06] exceed need um and how much time we will
+[1:14:08] not lose um to assessment.
+[1:14:12] >> Perfect. Thank you. And I one more
+[1:14:14] question. Um and I should say I'm sorry
+[1:14:15] I'm off screen, but I'm um I don't I'm
+[1:14:18] not in a position that I could be on
+[1:14:20] screen, but I appreciate being able to
+[1:14:21] tune into this. My last question is
+[1:14:24] about the Cambium assessment costs. And
+[1:14:26] I understand that it's free for 3
+[1:14:28] through eight, but there isn't one for
+[1:14:30] K2. And so we would have to um look into
+[1:14:34] cost assessment for K2s. Um,
+[1:14:39] how can we do that? Is it worth figuring
+[1:14:41] out? Because if the cost of I Ready for
+[1:14:45] K to 8 is more significantly more than
+[1:14:50] the cost of something just for K2 and
+[1:14:53] then using Cambium for 3 through 8. Is
+[1:14:56] that not something we should be
+[1:14:57] exploring and at least have the
+[1:14:59] information in order to make an informed
+[1:15:02] decision? So, is that something that you
+[1:15:03] can explore? We we did talk to the
+[1:15:07] different
+[1:15:08] uh companies uh to understand what their
+[1:15:11] cost structure was and one of the
+[1:15:14] reasons uh it is highly likely I don't
+[1:15:17] have the numbers in front of me my
+[1:15:18] apologies it is very much the case that
+[1:15:21] our cost would go down using the cambian
+[1:15:24] the OD assessments along with one of the
+[1:15:26] other choices one of the things we heard
+[1:15:28] from our educators and our building
+[1:15:30] leaders is can we have one thing
+[1:15:33] >> I see Okay, thank you for letting me ask
+[1:15:36] questions. Um, that's all I've got.
+[1:15:41] >> Director Lefort, you have any questions?
+[1:15:42] >> One question you guys have all had
+[1:15:44] really great questions. Um,
+[1:15:47] for the Cambium assessments for the cost
+[1:15:50] is that is it that the state doesn't
+[1:15:53] provide K through2 or that Cambium
+[1:15:56] doesn't have K through2 assessments?
+[1:15:59] >> My understanding is Cambium does not
+[1:16:01] have K through2 assessments.
+[1:16:02] >> Got it.
+[1:16:06] Uh, student representative, do you have
+[1:16:08] any questions?
+[1:16:11] >> Not really. Um,
+[1:16:14] I was Well,
+[1:16:16] >> you know, I don't want to feel left out.
+[1:16:18] No, I just I went to elementary school
+[1:16:21] in David Douglas and so I remember I was
+[1:16:26] also a TAG student and I got tested
+[1:16:29] differently than everyone else um
+[1:16:32] because of that. So, I was just curious
+[1:16:36] about like if this is just a blanket
+[1:16:39] test for like all kids, even special
+[1:16:43] education, or if it's just like
+[1:16:47] targeted to one. And then you answered
+[1:16:49] my question about like
+[1:16:52] um if it was like the SAT cuz I'm in the
+[1:16:55] middle of SAT prep. So, yeah. So the uh
+[1:16:59] benefit or one of the pros of a computer
+[1:17:02] adaptive assessment is that it can go as
+[1:17:04] far as the student can go. And so
+[1:17:07] instead of um I was also a TAG student
+[1:17:10] instead of uh only you know zipping
+[1:17:13] through the 20 items and you're done
+[1:17:15] because you know you know the content
+[1:17:16] already it continues to challenge you
+[1:17:19] until you um reach content that you're
+[1:17:21] that you're not familiar with.
+[1:17:26] >> Okay. Thank you. That's how it was in my
+[1:17:28] middle school, but I don't remember it
+[1:17:30] being that way in my elementary school,
+[1:17:32] but I might have also been like it might
+[1:17:34] have also not been a thing then. So, I
+[1:17:36] don't know.
+[1:17:41] >> Okay, I think that's all. Thank you, Dr.
+[1:17:44] Adams.
+[1:17:47] >> Next, we have the 6 through 12 social
+[1:17:49] studies instructional resource
+[1:17:51] recommendation.
+[1:17:53] >> Thank you. I'm going to invite up Dr.
+[1:17:55] Phipe. He's heist teach and team I think
+[1:17:58] or he's going okay Dr. Heistache is
+[1:18:01] going to do it.
+[1:18:04] I'm going to get my timer going and
+[1:18:06] stick to my notes. Um good evening. Um
+[1:18:10] my name is Philip Pistach. I'm proud to
+[1:18:12] serve as the senior director for
+[1:18:14] secondary academics. Um committee chair
+[1:18:18] uh Chase Miller, esteemed um board
+[1:18:20] member, Superintendent Armstrong, Chief
+[1:18:22] Buuno. Thank you for the opportunity to
+[1:18:25] our student representative Thompson. Um
+[1:18:28] I apologize. Uh thank you for the
+[1:18:30] opportunity to present and thank you. Um
+[1:18:34] so I'm here to present the
+[1:18:35] recommendation for the 612 social
+[1:18:37] studies adoption.
+[1:18:39] Uh this recommendation is the result of
+[1:18:41] a comprehensive review and engagement
+[1:18:45] process.
+[1:18:51] Um, I would also like to acknowledge two
+[1:18:53] colleagues who helped lead this work.
+[1:18:56] Uh, Anjen Bryant, uh, assistant director
+[1:18:59] for 68, um, language arts and social
+[1:19:02] studies, and Morgan Halibbran, um,
+[1:19:04] assistant director for 912 ELA and
+[1:19:07] social studies. This recommendation
+[1:19:09] reflects uh their leadership, the work
+[1:19:12] of our teacher committee and the
+[1:19:14] thoughtful feedback we received from uh
+[1:19:16] students, families, and informed by
+[1:19:18] community members as well. So during
+[1:19:21] this presentation, you will learn how
+[1:19:23] this adoption process was organized,
+[1:19:26] which curricula we recommend for use,
+[1:19:29] and what our initial implementations uh
+[1:19:31] entail. By the end of the session, uh I
+[1:19:34] hope that you'll be able to explain how
+[1:19:36] the recommended uh instructional
+[1:19:38] materials were selected in alignment
+[1:19:41] with OD and PPS
+[1:19:44] um protocols.
+[1:19:46] A little bit of our agenda. We'll talk
+[1:19:48] about uh the background and the scope of
+[1:19:50] the adoption. We'll review the process
+[1:19:53] and implementation timeline. And we'll
+[1:19:55] examine the recommendation in more
+[1:19:57] depth.
+[1:19:59] So why do we have curriculum adoptions
+[1:20:01] in the first place? Um one of the
+[1:20:04] foundational reasons for this uh work
+[1:20:07] that we are engaged in is because we're
+[1:20:10] required by Oregon or DE to adopt
+[1:20:13] highquality researchbased instructional
+[1:20:16] materials.
+[1:20:18] This adoption cycle spans uh from 25 to
+[1:20:22] 2032
+[1:20:23] and it aligns uh perfectly with the
+[1:20:26] implementation of Oregon's newly adopted
+[1:20:29] social studies standards which districts
+[1:20:31] are expected to implement starting the
+[1:20:33] fall of 2026.
+[1:20:36] Second, our district has a clear set of
+[1:20:39] expectations uh with regards to how
+[1:20:43] curriculum adoption processes are
+[1:20:45] conducted.
+[1:20:46] uh our work was conducted in alignment
+[1:20:48] with the board policy and the PPS
+[1:20:52] adoption toolkit both both of which are
+[1:20:54] linked here. And lastly and perhaps most
+[1:20:58] importantly
+[1:20:59] uh this work is about uh ensuring that
+[1:21:04] high quality instructional materials um
+[1:21:07] are available to all of our teachers and
+[1:21:10] all of our students. And as such, this
+[1:21:12] is part of our uh educational equity
+[1:21:15] commitment and strategy. Uh we believe
+[1:21:18] that all students, regardless of what
+[1:21:20] school they go to, what grade level
+[1:21:22] they're in, uh have highquality,
+[1:21:25] culturally relevant, engaging uh
+[1:21:27] curricular resources.
+[1:21:31] So this is a little bit about the
+[1:21:32] timeline for both the selection and the
+[1:21:35] implementation phases.
+[1:21:38] The selection process for social studies
+[1:21:41] began in the fall of 2025
+[1:21:44] with the formation of the 612 social
+[1:21:47] studies curriculum adoption advisory
+[1:21:49] committee. This committee evaluated
+[1:21:52] curriculum materials using researchbased
+[1:21:55] criteria and district adoption guidance.
+[1:21:58] By December of 25 uh the committee had
+[1:22:02] identified materials that would move
+[1:22:04] forward into field testing. All of those
+[1:22:07] materials were approved uh by the state.
+[1:22:12] The field testing phase ran from
+[1:22:13] February through April. Uh during this
+[1:22:16] time, teachers participated in
+[1:22:18] professional learning, implemented
+[1:22:20] lessons, and provided feedback. We also
+[1:22:23] collected feedback from students and
+[1:22:25] community members. We're here tonight uh
+[1:22:28] to share our recommendation.
+[1:22:31] pending board approval. The
+[1:22:33] implementation work will begin really
+[1:22:36] this spring and summer uh with
+[1:22:38] development of contracts, ordering
+[1:22:40] materials uh and digital resource setup.
+[1:22:44] In August, uh social studies teachers
+[1:22:47] will participate in professional
+[1:22:49] learning focused on the new
+[1:22:51] instructional materials and
+[1:22:53] collaborative planning. We expect that
+[1:22:56] much of that work will also continue
+[1:22:59] into next school year. uh through
+[1:23:01] intentional organization of uh
+[1:23:03] collaborative opportunities for teachers
+[1:23:06] to both provide feedback um and continue
+[1:23:09] developing the curricular resources.
+[1:23:16] Here you can see uh both what the scope
+[1:23:18] and uh what the school participation uh
+[1:23:21] was for this work. Uh as you can see the
+[1:23:24] adoption scope included all grade levels
+[1:23:27] from 6 through 12 and the participation
+[1:23:30] included representatives from both uh
+[1:23:32] middle schools and high schools across
+[1:23:35] the uh district.
+[1:23:43] So our teacher participation was strong
+[1:23:46] uh during this process. It involved uh
+[1:23:48] about 40 educators from across the
+[1:23:51] district including educators from nine
+[1:23:53] high schools and six middle schools.
+[1:23:56] Participants brought a range of
+[1:23:58] expertise and engaged in vendor
+[1:24:01] professional learning prior to field
+[1:24:03] testing. Teachers also participated in
+[1:24:06] curriculum reviews, field testing and
+[1:24:09] provided uh feedback through surveys and
+[1:24:12] uh inerson discussions.
+[1:24:14] Student participation was obviously
+[1:24:17] central uh to this process with
+[1:24:19] approximately 950 students participating
+[1:24:23] across 612.
+[1:24:25] Their input included classroom
+[1:24:27] observations. Uh uh we um conducted a
+[1:24:31] discussion with a student action
+[1:24:33] committee at one of our high schools.
+[1:24:35] students engaged in um providing
+[1:24:38] feedback through surveys and our
+[1:24:40] teachers also um solicited feedback
+[1:24:43] through and an analyzing student work
+[1:24:45] samples.
+[1:24:47] Community engagement was also an
+[1:24:49] important aspect of this process. Uh we
+[1:24:51] hosted an in-person event where families
+[1:24:54] and community members were able to
+[1:24:56] review the materials, engage with
+[1:24:58] vendors, and provide feedback.
+[1:25:01] Asynchronous access to materials was
+[1:25:04] also provided to support uh deeper
+[1:25:06] review.
+[1:25:07] In addition, we conducted uh both
+[1:25:10] individual and group conversations to
+[1:25:12] better understand strengths, concerns,
+[1:25:14] and areas where the district developed
+[1:25:17] uh supple uh supplemental resources
+[1:25:20] needed to be um provided. This feedback
+[1:25:24] was particularly helpful in identifying
+[1:25:26] places where intentional support and
+[1:25:28] additional instructional resources may
+[1:25:31] be needed to strengthen and implement
+[1:25:34] the um textbooks provided by the
+[1:25:37] curriculum companies.
+[1:25:40] So these are our recommendations.
+[1:25:43] Um so for grades six through eight our
+[1:25:46] recommendation is TCI also known as
+[1:25:49] history alive. Uh the data strongly
+[1:25:52] supports this recommendation.
+[1:25:55] Student feedback was positive with uh
+[1:25:57] more than 80% uh favorable sentiment.
+[1:26:00] Overall, teacher feedback was also uh
+[1:26:03] strong with 55 indicating strong favor
+[1:26:06] or um 45% indicating favor with some
+[1:26:10] recommendations.
+[1:26:12] In addition, um 80% of students rated
+[1:26:15] the level of uh challenge as just right
+[1:26:19] um for this curriculum. In addition to
+[1:26:22] the data, I think we uh also saw some
+[1:26:25] real strengths in the curriculum itself.
+[1:26:27] TCI emphasizes active inquiry and moves
+[1:26:30] beyond memorization
+[1:26:33] toward investigation, discussion, and
+[1:26:35] application.
+[1:26:37] Uh the materials also include several
+[1:26:40] universal design features including
+[1:26:42] strong language support for multilingual
+[1:26:45] learners and students participating in
+[1:26:47] Spanish dual language immersion
+[1:26:49] programs.
+[1:26:51] Finally, teachers consistently
+[1:26:52] highlighted the intuitive digital
+[1:26:55] interface and extensive instructional
+[1:26:58] support available within uh this
+[1:27:00] platform
+[1:27:03] for grades 9 through 12. The
+[1:27:06] recommendation is a combination of Sgage
+[1:27:09] National Geographic and TCI materials
+[1:27:12] for our ECON class. Student feedback was
+[1:27:16] highly positive with 93% favorable
+[1:27:19] rating. Overall, students responded
+[1:27:21] particularly well to the literacy
+[1:27:23] supports embedded within Sage National
+[1:27:25] Geographic Resources and teachers
+[1:27:28] highlighted the curriculum's inclusive
+[1:27:31] uh inclusion of diverse perspectives.
+[1:27:34] Because of Sgage's partnership with
+[1:27:36] National Geographic, the materials
+[1:27:38] include uh strong visual resources,
+[1:27:40] engaging multimedia media content, and
+[1:27:43] broad representation of global
+[1:27:45] perspectives.
+[1:27:46] For economics courses specifically, TCI
+[1:27:49] offers highly engaging uh simulations
+[1:27:52] and interactive learning experiences
+[1:27:54] that support student engagement and
+[1:27:56] application of content. Both resources
+[1:27:59] include strong literacy scaffolds and
+[1:28:02] extensions to support access rigor and
+[1:28:05] differentiated instruction for a range
+[1:28:08] of learners.
+[1:28:10] Uh we believe these instructional
+[1:28:12] materials will be an important level
+[1:28:14] lever for advancing uh educational
+[1:28:17] success and equity in our school
+[1:28:19] district. Uh supporting implementation
+[1:28:22] of Oregon's new social studies
+[1:28:23] standards. uh and as I mentioned before,
+[1:28:26] ensuring that every student has access
+[1:28:28] to rigorous, engaging uh and relevant
+[1:28:31] instruction.
+[1:28:33] And I'd be happy to take your questions
+[1:28:36] um
+[1:28:38] or comments now.
+[1:28:44] Student representative, do you have any
+[1:28:45] questions?
+[1:28:47] >> I do actually.
+[1:28:48] >> Great. [laughter]
+[1:28:49] Um, my big question is I know that,
+[1:28:54] okay, I have to be completely honest.
+[1:28:56] I've only taken AP history,
+[1:28:58] >> okay?
+[1:28:59] um while in PPS.
+[1:29:02] But my
+[1:29:05] my what I'm worried about is that I've
+[1:29:08] heard from my friends that like
+[1:29:10] the big like this may be just at
+[1:29:14] Franklin, but that the big issues or
+[1:29:19] like current events or events that tie
+[1:29:21] back to current events aren't getting
+[1:29:24] covered as much. like um our in our
+[1:29:28] ethnic um studies class, they I've been
+[1:29:33] hearing like they're ma they're making
+[1:29:36] family trees instead of like reading
+[1:29:39] about what's happening currently and
+[1:29:43] that kind of worries me. How is this
+[1:29:45] curriculum going to help with that?
+[1:29:48] >> Great question. So we have not had a
+[1:29:53] comprehensive
+[1:29:55] social studies curriculum adoption uh in
+[1:29:58] PPS for for a very long time. Um so what
+[1:30:03] I guess three things that I wanted to to
+[1:30:05] highlight. one uh when we adopt a
+[1:30:09] curriculum, it gives us a shared
+[1:30:12] starting point to have the conversations
+[1:30:16] to engage in the learning that the state
+[1:30:19] has indicated
+[1:30:21] need to be prioritized in a classroom.
+[1:30:24] So the curriculum provides a starting
+[1:30:26] point. And then what we also recognized
+[1:30:29] and what we also heard through feedback
+[1:30:31] including students and families and
+[1:30:34] teachers is that there are portions of
+[1:30:36] the curriculum that will require us to
+[1:30:39] do some additional thinking about what
+[1:30:41] additional resources need to be included
+[1:30:44] because the textbook doesn't do a
+[1:30:47] sufficient job of addressing a complex
+[1:30:51] issue. um uh um a a region that requires
+[1:30:57] additional perspectives or or more
+[1:30:59] in-depth analysis.
+[1:31:01] Um these these curriculum offer u kind
+[1:31:06] of a survey of a time period that often
+[1:31:09] times spans hundreds of years, right?
+[1:31:11] And so what we will need to do with our
+[1:31:13] teachers and community partners is do
+[1:31:15] some additional planning for how to
+[1:31:18] address those gaps that need to be uh
+[1:31:20] that need to be uh taken taken into
+[1:31:23] account. But the curriculum should
+[1:31:25] provide us some common experiences so
+[1:31:27] that students at Franklin or at IDB
+[1:31:29] Wells or at Lincoln uh have experiences
+[1:31:32] that are more similar than different uh
+[1:31:35] when it comes to social studies.
+[1:31:39] >> Okay. Thank you. Thank you for the
+[1:31:41] question.
+[1:31:47] >> Um, the only thing I um don't I've the
+[1:31:50] only thing that I noticed was just that
+[1:31:51] the slideshow like had a percentage of
+[1:31:55] teachers that supported the history
+[1:31:57] alive one and putting it the person up
+[1:31:59] with middle school I guess. Um, but that
+[1:32:01] piece um but then it didn't have like a
+[1:32:03] commensurate number for the high school
+[1:32:05] one. It just said that people liked
+[1:32:07] Centage or whatever. So, what was the
+[1:32:11] teacher
+[1:32:12] [snorts] input for the high school one?
+[1:32:16] >> It was like n like 100% think they do a
+[1:32:18] better job of handling underrepresented
+[1:32:21] groups, but I didn't get the overall.
+[1:32:23] >> So, what you will receive uh prior to
+[1:32:27] the next board meeting is a memo that
+[1:32:29] provides a more detailed summary of
+[1:32:32] exactly what you're asking for. I I
+[1:32:34] can't remember off the top of my head.
+[1:32:35] the the the positive response was
+[1:32:38] definitely, you know, significantly more
+[1:32:40] favorable for Sgage than for the other
+[1:32:42] curricula, but we'll provide you the
+[1:32:43] specifics.
+[1:32:44] >> Thank you.
+[1:32:45] >> Yeah.
+[1:32:49] >> All right. Thank you so much.
+[1:32:51] >> Thank you so much.
+[1:32:53] >> All right. And our last topic tonight is
+[1:32:56] a presentation on artificial
+[1:32:57] intelligence in PPS.
+[1:33:01] >> Okay. We have a a team of folks coming
+[1:33:04] down. uh Dr. uh Kristen Moon, uh Dr.
+[1:33:07] Benjamin Samuels, and I believe Senior
+[1:33:11] Director Admonson.
+[1:33:27] Good evening, Superintendent Armstrong,
+[1:33:29] board of directors, student
+[1:33:31] representative, Chief Bruno, and members
+[1:33:34] of our community. My name is Loretta
+[1:33:37] Benjamin Samuels. I serve as the senior
+[1:33:39] director for professional learning and
+[1:33:42] also the project director for PPS's
+[1:33:45] racial equity centered pipeline
+[1:33:47] initiative, recipe.
+[1:33:49] Tonight I am joined by a few members of
+[1:33:52] our artificial intelligent AI planning
+[1:33:54] team which I will introduce him in a few
+[1:33:56] seconds.
+[1:33:58] This cross functional group represent a
+[1:34:00] collaborative effort between teaching
+[1:34:02] and learning,
+[1:34:04] information technology and professional
+[1:34:08] learning. We do this to ensure our
+[1:34:10] students and our district we taking this
+[1:34:13] approach to make sure AI initiatives are
+[1:34:16] innovative and equitable to all.
+[1:34:20] I'm going to take a step back in a
+[1:34:21] second but I want to introduce the team
+[1:34:23] members and I will ask them to introduce
+[1:34:26] theirelves and their role here on the
+[1:34:28] team.
+[1:34:30] I also asked Kristen Moon to facilitate
+[1:34:33] our presentation to you. So Melissa,
+[1:34:35] could you please come up?
+[1:34:40] [laughter]
+[1:34:45] What am I?
+[1:34:46] >> Uh, you get to introduce yourself,
+[1:34:48] Melissa.
+[1:34:49] >> Hi everybody. My name is Melissa Lim.
+[1:34:51] I'm a learning technologies program
+[1:34:53] administrator in teacher professional
+[1:34:55] learning.
+[1:34:56] >> Thank you. And then Ryan Hawky, would
+[1:34:58] you
+[1:35:03] >> uh hello Ryan Hawky uh IT training
+[1:35:06] consultant with the Office of Technology
+[1:35:07] and Information Services.
+[1:35:10] And then good evening again. My name is
+[1:35:12] Kristen Moon and then we're joined with
+[1:35:14] uh Russell from IT this evening. We just
+[1:35:18] want to take a moment to make sure that
+[1:35:19] we recognize all of our members of our
+[1:35:21] team because without the team that
+[1:35:23] includes additional members from our
+[1:35:25] information technologies um team, this
+[1:35:28] work would not be at the place it is at
+[1:35:30] this point. One of the pieces we want to
+[1:35:33] keep in mind as we do this is this team
+[1:35:35] and this work really started in
+[1:35:36] September of this school year and this
+[1:35:39] is a report on where we are at this
+[1:35:41] time. This does not mean that this is
+[1:35:43] the final place we are, but we wanted to
+[1:35:45] provide progress and and information
+[1:35:47] about what we're doing.
+[1:35:50] And again, because we are leaning into
+[1:35:52] what we expect for our educators, for
+[1:35:54] our students in our classrooms, we have
+[1:35:56] learning targets and success criteria.
+[1:35:58] Uh tonight we hope you are learning how
+[1:36:00] PPS is using the OD guidance and
+[1:36:02] national standards to create a plan so
+[1:36:05] that every student graduates with AI
+[1:36:06] literacy ski literacy skills that they
+[1:36:09] need to be successful in the modern
+[1:36:10] workforce. And tonight by the time uh we
+[1:36:14] all leave we're hoping that you can list
+[1:36:15] one way AI literacy is helping our
+[1:36:18] students meet the goals of the PPS
+[1:36:19] graduate portrait.
+[1:36:27] One of the sorry I was I wasn't
+[1:36:29] expecting that slide right at that
+[1:36:31] moment. Um one of the pieces as we were
+[1:36:34] uh diving into this work is we thought
+[1:36:36] it was really important to first ground
+[1:36:37] in the PPS graduate portrait and then
+[1:36:40] think about what this means for um in
+[1:36:43] what is a current world that has AI in
+[1:36:45] it. And so there's a lot of crossovers
+[1:36:48] as you look between the two. A few that
+[1:36:50] I want to point out is there's
+[1:36:52] commonality around problem solving
+[1:36:54] particularly for AI using AI as a
+[1:36:56] brainstorming partner to generate new
+[1:36:58] ideas and explore a wide range of
+[1:37:00] possibilities is but one idea of what
+[1:37:02] that could look like. There's also a
+[1:37:04] part about being a synthesizer, a
+[1:37:06] researcher, a storyteller, a connector,
+[1:37:08] and a learner that you can all see our
+[1:37:10] connections to our um graduate portrait
+[1:37:14] to be an inclusive and collaborative
+[1:37:17] problem solver to be um optimistic
+[1:37:19] future oriented graduates.
+[1:37:24] The other piece we started digging into
+[1:37:26] is there's two essential questions as we
+[1:37:28] really engage in this work around uh
+[1:37:31] what AI means for our school, our school
+[1:37:34] district and our students. First is a
+[1:37:37] systems question. How might we make sure
+[1:37:39] human expertise thrives in an AI enabled
+[1:37:42] classroom? And second for our students,
+[1:37:45] how might we evolve our instruction so
+[1:37:47] that students graduate with the AI
+[1:37:48] literacy required for the modern
+[1:37:50] workforce?
+[1:37:54] A piece around this that um our team
+[1:37:56] really talked about is that AI is the
+[1:37:59] lightning rod that's really um forcing
+[1:38:01] us to consider not only what we're doing
+[1:38:03] for AI, but what does educational
+[1:38:05] technology look like in PPS now and in
+[1:38:08] the future. And we really wanted to
+[1:38:10] ground ourselves around three ideas.
+[1:38:12] What does it look like to prosper,
+[1:38:13] prepare, and protect? And as we've been
+[1:38:15] creating our road map, we've been
+[1:38:17] keeping these things in mind and what we
+[1:38:18] need to do to move those pieces forward.
+[1:38:22] In this work, we are not alone and we
+[1:38:24] are so grateful we are not alone. PPS
+[1:38:27] has been partnering with the Education
+[1:38:29] Research and Development Institute, the
+[1:38:31] National Eds Safe AI Alliance Policy
+[1:38:34] Lab. We also work with our Multma ESD
+[1:38:36] and Clakamus ESD and we're collaborating
+[1:38:40] with uh the Portland metro area school
+[1:38:43] districts. In addition, we've been able
+[1:38:45] to work with and partner with Chicago
+[1:38:47] public schools and New York City public
+[1:38:49] schools. that has really been um on the
+[1:38:51] leading edge of what this um what AI
+[1:38:53] looks like in schools.
+[1:38:56] One of the really important pieces
+[1:38:59] around uh that we brought together is
+[1:39:02] this tool that is the um AI readiness
+[1:39:06] assessment and I know the colors can be
+[1:39:08] a little confusing so give me just a
+[1:39:10] minute or two to explain them to you.
+[1:39:12] What we did as a team is we looked at
+[1:39:14] where are we and this is in fall and
+[1:39:16] September and we realized that we were
+[1:39:18] in all of these categories uh that we
+[1:39:21] were really in the exploring phase and
+[1:39:24] we quickly realized that there are
+[1:39:25] categories that we need to make sure
+[1:39:27] that we are moving forward and making
+[1:39:30] progress on those. So by now the spring
+[1:39:32] of 2026 you can see that we've made
+[1:39:34] progress in leadership and vision policy
+[1:39:37] ethics and equity and instruction and
+[1:39:39] assessment.
+[1:39:41] And then the piece we want to talk about
+[1:39:43] is professional learning. We are going
+[1:39:44] to be be in the place where we have
+[1:39:46] moved to investigating in professional
+[1:39:48] learning um around some introductory PD
+[1:39:51] basics that are going to be required at
+[1:39:52] the pre of the required learning and
+[1:39:54] we'll talk more about that later in
+[1:39:56] this. This is a robust
+[1:40:00] um tool for us to assess where we are as
+[1:40:02] a district. And so there are additional
+[1:40:04] areas uh student use and literacy
+[1:40:08] operations and business functions uh
+[1:40:10] community engagement and IT data
+[1:40:13] technical and security. And what we're
+[1:40:14] hoping to see is that you see that the
+[1:40:16] the conversation around AI is not only
+[1:40:19] around our classrooms but around many
+[1:40:21] many aspects of what is happening in our
+[1:40:23] school district. Again, we've made some
+[1:40:25] progress in those areas. We've had some
+[1:40:27] pilots around operations and business
+[1:40:29] functions that we're doing. We've been
+[1:40:31] engaging in some community engagement
+[1:40:33] through their work with family and
+[1:40:35] community engagement in the village
+[1:40:37] table as well as we do have parents who
+[1:40:39] sit on our AI advisory committee. And
+[1:40:42] then we've been doing a lot of work
+[1:40:43] around our IT team. In addition, by the
+[1:40:46] fall, we will have some things in place
+[1:40:48] to strengthen our governance, our
+[1:40:49] student data privacy protections, our
+[1:40:52] technical infrastructure in a better way
+[1:40:54] to review our vendors who are um rapidly
+[1:40:58] um incorporating AI into the digital
+[1:41:01] tools that we have in PPS.
+[1:41:05] One of the pieces we did really work
+[1:41:07] around is to come up with an AI vision.
+[1:41:09] This is an engagement through our AI
+[1:41:11] advisory, our planning committee. We
+[1:41:13] involved parents. Um there are teachers
+[1:41:15] involved in this. And so I'm just going
+[1:41:17] to pause for a moment to allow you all
+[1:41:19] to read uh this AI vision.
+[1:41:34] There are a few key phrases that we'd
+[1:41:35] like to point out. One is that we're
+[1:41:37] really trying to center humans in this
+[1:41:39] work. There is a lot of fear out there
+[1:41:41] that AI is replacing the work of humans
+[1:41:43] and we really come from a position that
+[1:41:46] we deeply value the work of our
+[1:41:48] educators and their expertise in this
+[1:41:50] and we do not want to lose that human-
+[1:41:53] centered part that really is a vital
+[1:41:56] part for teaching and learning. We also
+[1:41:58] wanted to point out that we're looking
+[1:42:00] at where AI amplifies human potential
+[1:42:03] and strengthens but never replaces.
+[1:42:05] There's a lot of fear that we want to
+[1:42:06] replace humans and what they do in our
+[1:42:09] district with AI
+[1:42:11] and that relationships are at the heart.
+[1:42:13] We do not want students interacting
+[1:42:17] singularly with AI themselves. That
+[1:42:20] relationship between a teacher and a
+[1:42:22] student is critical.
+[1:42:25] One of the things we did recently uh put
+[1:42:27] out is an AI guide book. We were really
+[1:42:30] strategic in deciding about an AI guide
+[1:42:32] book. The guidance from OD required us
+[1:42:36] to update our administrative te uh
+[1:42:38] directive around technology use. But
+[1:42:40] what we quickly quickly realized is AI
+[1:42:42] is evolving at a rate that if we did all
+[1:42:45] of our guidance and our policy within
+[1:42:47] our board policies and administrative
+[1:42:49] directive, we would not be able to be
+[1:42:50] responsive to the rate that AI is
+[1:42:53] changing.
+[1:42:55] This is a living document which means
+[1:42:57] that we are actively taking feedback on
+[1:42:59] this and reiterating. So, at the point
+[1:43:02] of this being published two weeks ago,
+[1:43:04] we've had 21 people fill out our
+[1:43:06] feedback form, and we've engaged about
+[1:43:08] 10 others in in-person feedback, and
+[1:43:11] that is already informing our next
+[1:43:13] iteration of this.
+[1:43:18] We also wanted to share about our work
+[1:43:20] groups that we're moving forward. We
+[1:43:21] have the AI planning committee of which
+[1:43:22] you have learn met several of the
+[1:43:24] members tonight. We also have the AI
+[1:43:26] advisory committee that actually just
+[1:43:28] had our last meeting of the year last
+[1:43:30] night.
+[1:43:31] and that it meets quarterly and that has
+[1:43:34] uh building administrators, educators,
+[1:43:36] uh central office staff, there's
+[1:43:39] parents, there's professional learning,
+[1:43:40] there's IT um on that team. And then we
+[1:43:44] started uh at the beginning of the year
+[1:43:45] with an AI explorers club really
+[1:43:47] bringing in our educators and saying,
+[1:43:48] "Hey, what does this look like? What do
+[1:43:50] we want this to do? How could we do
+[1:43:51] this?" And moving forward with what
+[1:43:53] potentially a field test could um do.
+[1:43:55] Unfortunately, um, with the budget
+[1:43:58] situation that came during the midyear,
+[1:44:00] this is one of the pieces of work that
+[1:44:01] had to pause.
+[1:44:05] One of the pieces we were specifically
+[1:44:07] asked to talk about tonight is the
+[1:44:09] student is the perceptions AI perception
+[1:44:12] survey that we needed that we had
+[1:44:14] completed this winter. One of the things
+[1:44:17] that teams realized is there is a lot of
+[1:44:19] assumption made being uh about what
+[1:44:22] people thought about it, what families
+[1:44:24] knew, what the usage looked like and
+[1:44:26] what the priorities were. This is an AI
+[1:44:29] survey that we partnered with our
+[1:44:31] Panorama partners that also are our
+[1:44:33] partners with our successful school
+[1:44:34] survey. By partnering with them, this
+[1:44:37] allows us to be able to um have
+[1:44:39] comparative data because they also this
+[1:44:42] is a national test that's being used
+[1:44:44] with multiple school districts rather
+[1:44:45] than us creating our own and only having
+[1:44:47] that information.
+[1:44:51] We just wanted to share also that we
+[1:44:52] added some free response questions so
+[1:44:54] that we could learn more about the
+[1:44:56] perceptions from our stakeholders and
+[1:44:58] these are the response questions we have
+[1:45:00] posted. Tonight we are only sharing the
+[1:45:03] student piece because that was a
+[1:45:05] specific ask. But on the PPS artificial
+[1:45:07] intelligence website, we have released
+[1:45:09] this week all of the data from the
+[1:45:12] perception survey. So if you'd like to
+[1:45:13] dig further into what families and
+[1:45:16] teachers and staff has said, all of that
+[1:45:18] data is available.
+[1:45:21] This is our response rate from the
+[1:45:24] survey. One of the pieces that um I just
+[1:45:26] would like to point out is that our
+[1:45:29] survey no matter u which group we were
+[1:45:31] surveying was our response rate was
+[1:45:33] overwhelmingly white. So you can see
+[1:45:35] that we're 75% response rates for white
+[1:45:38] and we're very much low lower in every
+[1:45:40] category for our um families of color um
+[1:45:45] that are in our school district. This is
+[1:45:47] one of the growth areas we've named for
+[1:45:49] future work as we will be doing this
+[1:45:51] survey every year that we need to think
+[1:45:53] differently about how we're gaining this
+[1:45:56] information. So when we are presenting
+[1:45:58] this we are presenting what is majority
+[1:46:00] our white students perspective on this
+[1:46:04] work.
+[1:46:06] So the this um the survey really asks
+[1:46:10] questions around a couple of areas.
+[1:46:12] Student AI usage and student perception
+[1:46:15] of AI. There are two um questions around
+[1:46:18] this. How often do you use AI? And what
+[1:46:21] you can see right now is the majority of
+[1:46:22] our students are saying that they rarely
+[1:46:25] or once in a while are using AI. We also
+[1:46:28] asked about how often are teachers
+[1:46:30] asking you to use AI for academic
+[1:46:32] purposes. And again you can see that the
+[1:46:35] majority is once in a while and almost
+[1:46:37] never. Then we are asking about their
+[1:46:39] perception of AI around what how harmful
+[1:46:42] or helpful this is. And what you can see
+[1:46:44] right now is uh around a quarter of the
+[1:46:48] students who responded to this survey
+[1:46:50] are are reporting that they do not find
+[1:46:53] um AI helpful for student success when
+[1:46:56] your teachers ask you to use it or
+[1:46:58] helpful around the academic success when
+[1:47:00] you use this for school work. And in
+[1:47:02] those free response questions, a lot of
+[1:47:04] the response was about a fear of getting
+[1:47:07] in trouble for it and that they would
+[1:47:09] fail their classes for that around why
+[1:47:12] they are they are responding this way.
+[1:47:14] The other highest reason that they were
+[1:47:16] talking about is there was a real
+[1:47:18] concern around um this idea of not just
+[1:47:22] like cheating that your teacher thing
+[1:47:24] like is going to say you're cheating for
+[1:47:26] it but that it their perception is that
+[1:47:29] I'm cheating and I'm not doing the best
+[1:47:31] and if somebody else's uses AI they're
+[1:47:33] cheating and not doing those things.
+[1:47:38] So we're going to end just on some
+[1:47:40] further progress and achievements that
+[1:47:42] are going to be launching with this.
+[1:47:43] First of all, next year for our
+[1:47:45] mandatory training for all of our staff
+[1:47:47] in PPS, we um have added AI specific
+[1:47:51] slides to talk about the vision, the
+[1:47:54] non-negotiables and data stewardship as
+[1:47:56] part of our information security
+[1:47:58] training because what we realized um is
+[1:48:01] that a lot there was a lot of
+[1:48:02] misunderstandings about what it is
+[1:48:04] appropriate to have in an AI generative
+[1:48:07] AI platform versus not. We've also um
+[1:48:12] identified as some tool governance that
+[1:48:13] we are going to be using Google Gemini
+[1:48:15] and we have taken very seriously the
+[1:48:17] board policy around climate justice and
+[1:48:20] our need to reduce our impact on the
+[1:48:22] climate as well as our responsibility
+[1:48:25] for data security and those pieces. And
+[1:48:28] so we chose Google Gemini because that
+[1:48:30] is part of our um Google school uh
+[1:48:33] education for schools suite and a
+[1:48:36] platform that we have. We have Gmail,
+[1:48:38] Google Drive, Google Docs and this is
+[1:48:41] part of that and what we were able to
+[1:48:43] negotiate as part of that supported
+[1:48:45] platform is that the any use by any
+[1:48:48] staff member or a student of Google
+[1:48:49] Gemini will not be used to go back and
+[1:48:52] inform the large language model that is
+[1:48:54] used to uh that Google Gemini builds off
+[1:48:57] of that. What that means for us is we're
+[1:48:58] more able to keep information and that
+[1:49:01] knowledge secure. It also means that it
+[1:49:04] slightly well not significantly uh has
+[1:49:07] impact on reducing our impact and on um
+[1:49:10] energy use and uh the climate. The other
+[1:49:14] part is that we did present as part of
+[1:49:16] the village table to involve parents and
+[1:49:18] we did we have been working from the
+[1:49:20] beginning of this with our climate
+[1:49:21] crisis response committee to think about
+[1:49:23] this. So this is not work that we're
+[1:49:25] moving lightly forward. We are trying to
+[1:49:28] um also engage our students by
+[1:49:29] conducting interviews about AI in the
+[1:49:31] district. We've been connected with
+[1:49:33] several of the high school papers. We've
+[1:49:35] had lots of um classes, students
+[1:49:38] reaching out to us for this. And as a
+[1:49:40] matter of fact, tomorrow we're going to
+[1:49:41] be at Roosevelt in their civics class um
+[1:49:43] being interviewed and talking with them
+[1:49:45] around this work. And at this I'm going
+[1:49:47] to conclude and wait for some and let's
+[1:49:50] talk about some questions because I'm
+[1:49:52] sure there are a lot.
+[1:50:01] Um, thank you. Um, I have some comments.
+[1:50:06] Um, the me sorry I got up the wrong
+[1:50:09] screen here. The slide at the beginning,
+[1:50:11] the um
+[1:50:13] profile of an AI ready graduate. Where
+[1:50:16] did that come from?
+[1:50:17] >> Yeah, that came from an organization and
+[1:50:20] I always mix up the letters of what they
+[1:50:22] stand for, so I may not say that, but it
+[1:50:24] is referenced on the bottom of the slide
+[1:50:25] as well. it is our uh it is the group
+[1:50:30] that is the educators for uh around
+[1:50:32] technology and education. Okay.
+[1:50:34] >> Well, I'm looking forward to you know
+[1:50:37] this is the beginning of I assume what
+[1:50:38] will be many robust conversations around
+[1:50:40] absolutely AI and PPS. Um when I look at
+[1:50:43] something like this um profile of an AI
+[1:50:46] ready graduate, I do not believe that
+[1:50:48] students need AI for feedback. Um they
+[1:50:52] don't need AI to evaluate claims. They
+[1:50:54] don't need AI to synthesize information
+[1:50:56] to meet their needs and they certainly
+[1:50:58] don't need it in my opinion to generate
+[1:51:00] new ideas. These are tremendous red
+[1:51:02] flags for me when I see something like
+[1:51:04] this as a guiding document. Um they need
+[1:51:06] to use their own brains and with the
+[1:51:08] support and guidance of their educators.
+[1:51:10] So um
+[1:51:13] when I'm looking at this, you know, we
+[1:51:14] also know children developmentally can't
+[1:51:15] distinguish between fantasy and reality
+[1:51:18] until you know ages seven or eight. So I
+[1:51:21] already have cons, you know, significant
+[1:51:22] concerns about having it anywhere near
+[1:51:24] our K through three students. Um, so I
+[1:51:27] guess, [snorts]
+[1:51:29] you know, I work in marketing and so
+[1:51:31] when I sit here and hear a presentation
+[1:51:34] like this, I worry that sometimes the
+[1:51:37] adults are having trouble, you know,
+[1:51:39] differentiating between differentiating
+[1:51:40] between the two as well. Like I get
+[1:51:42] excited about new technology. I love it.
+[1:51:44] But we're being marketed to as well.
+[1:51:46] there is a tremendous amount of money to
+[1:51:48] be made um off of this technology and so
+[1:51:51] it's it it can be a bit painful for me
+[1:51:53] to listen to um and you know I'm someone
+[1:51:57] who walks through my house every day and
+[1:51:58] reminds my child that AI is not real um
+[1:52:04] I think it can help us you know when it
+[1:52:06] comes to you know adults you know sure
+[1:52:09] with tasks like you know Grammarly
+[1:52:10] things like that but when I see things
+[1:52:12] like this and we're talking about
+[1:52:13] curriculum integration uh it makes me
+[1:52:16] real nervous. So those are just my
+[1:52:17] initial thoughts.
+[1:52:19] >> One of the things I would just like to
+[1:52:21] share about our ongoing work that is
+[1:52:23] happening that has just recently been
+[1:52:25] released is um at the national level
+[1:52:27] they have released what it looks like
+[1:52:29] for digital for AI literacy for our
+[1:52:32] grade banded K2 35 68 and 912. And at
+[1:52:37] the K235 level it is not around using AI
+[1:52:40] itself. It's about being aware of that
+[1:52:43] and how to respond and understand like
+[1:52:45] you were talking about the AI is is not
+[1:52:50] a real person, right? That it isn't like
+[1:52:53] what are the problems with that? How can
+[1:52:54] you spot that? How can you know? Those
+[1:52:56] kinds of pieces. So, it's really focused
+[1:52:57] on that literacy piece of that rather
+[1:53:00] than the usage of the tool. And what
+[1:53:03] we're going to be doing is bringing
+[1:53:05] people together, parents and educators,
+[1:53:07] to really talk about because now it's on
+[1:53:09] our responsibility as a school district
+[1:53:11] to say, well, what does this mean
+[1:53:13] exactly for a kindergartener versus a
+[1:53:15] first grader, a second grader, and
+[1:53:16] really get clear on that. And so I want
+[1:53:19] to just share that we're not in the
+[1:53:20] place of saying, "Hey, we want our K5
+[1:53:22] students to be using the AI tools, but
+[1:53:25] we do need our our K5 students to be
+[1:53:30] aware of AI and how to be safe with it."
+[1:53:33] >> Yeah, I'd like to build on that for a
+[1:53:34] second. I think the key word they used
+[1:53:36] that Christian used was literacy. And to
+[1:53:39] your point, our kids are marketed
+[1:53:41] outside of the classroom 247, right, at
+[1:53:43] all grade levels. So, one of the things
+[1:53:45] that I'm super focused on as a
+[1:53:46] technologist is how are we um arming
+[1:53:52] them so that they can be continue to be
+[1:53:54] critical thinkers, right? So, in my
+[1:53:56] opinion, this is one of the things that
+[1:53:58] at all grades all kids can be critical
+[1:54:00] thinkers. How are we informing them?
+[1:54:02] Because we're not talking about so much
+[1:54:04] about the AI in the classroom. We're
+[1:54:06] talking about the AI that happens
+[1:54:07] outside of the classroom that we can't
+[1:54:08] control. So, I'm super interested in how
+[1:54:10] are we educating that educators in those
+[1:54:12] lower grades to help those kids at the
+[1:54:15] appropriate levels. To your point know
+[1:54:18] what is real and what is not real,
+[1:54:19] especially from an AI perspective. Yeah,
+[1:54:22] >> I'm just really not in love with this
+[1:54:24] profile of an AI ready graduate at all.
+[1:54:28] >> I hear that feedback and it sounds like
+[1:54:29] there's work we need to do to think
+[1:54:31] about what that profile would might look
+[1:54:32] like for us.
+[1:54:35] Can you share what um what OD is saying
+[1:54:39] about prepping for um schools and um
+[1:54:45] just all things district on artificial
+[1:54:47] intelligence?
+[1:54:49] >> Yeah, I can share a little bit about it.
+[1:54:51] I do want to be transparent that OD's
+[1:54:53] guidance when it comes to AI is not very
+[1:54:56] robust. Um and so what it is talking
+[1:54:59] about is that guidance really focuses on
+[1:55:01] data privacy and it focuses focuses on
+[1:55:05] um making sure that students are aware
+[1:55:08] and and know how to be safe with AI
+[1:55:12] versus like um knowing how to use like
+[1:55:15] being able to use that tool. They also
+[1:55:18] focus on the importance as we move into
+[1:55:22] um high middle school and then high
+[1:55:24] school about how AI is used in the
+[1:55:27] different workforces and those pieces.
+[1:55:29] We do need to keep in mind that
+[1:55:31] particularly when we're talking about
+[1:55:32] CTE courses that AI use may look very
+[1:55:35] very different than what we're talking
+[1:55:37] about for a sixth grader or for you know
+[1:55:39] that literacy use around our second
+[1:55:41] graders.
+[1:55:46] Um, I too had a very strong visceral
+[1:55:49] reaction in the negative to the profile
+[1:55:52] of an AI ready graduate from what it's
+[1:55:54] worth and it feels out of step to me
+[1:55:56] with the values that I think our
+[1:55:57] community [clears throat] holds. Um, so
+[1:55:59] I really want to make sure that we're
+[1:56:02] taking the results from that survey. I
+[1:56:04] look forward now that I know they're
+[1:56:05] there to looking at them and seeing how
+[1:56:07] that lines up. Um, right as you
+[1:56:09] [clears throat] got up, my daughter
+[1:56:10] texted me. She was out of screen time.
+[1:56:12] She gets two hours of screen time. She's
+[1:56:13] a fifth grader. She was on Roblox after
+[1:56:15] school. Hi, Mom. I just got back from a
+[1:56:18] walk. I need ideas of where to buy
+[1:56:19] things for an assignment for school. Can
+[1:56:21] I have some more time? And I said, "Not
+[1:56:23] on Roblox." And she says, "I know." And
+[1:56:25] I said, "And not chat GPT." Uh, fine.
+[1:56:29] Got to think for yourself, kid. Fine.
+[1:56:31] More time on Google then. So, anyway,
+[1:56:34] just saying that this is something that
+[1:56:36] we're dealing with in our own homes um
+[1:56:38] and having feelings about. Um, I opened
+[1:56:41] this computer when we sat down and the
+[1:56:44] most recent chat GPT was ideas for I
+[1:56:47] guess they call playing pretend roleplay
+[1:56:49] or something now. Um, and so it was like
+[1:56:52] literally my daughter chatting with chat
+[1:56:54] GPT to figure out ideas in order to play
+[1:56:56] pretend with her friends.
+[1:56:58] >> It's deeply concerning to me that she's
+[1:57:01] resting on this and going and using my
+[1:57:04] laptop because she can't use chat GPT
+[1:57:06] without permission on her own device. I
+[1:57:09] probably need to take my password away
+[1:57:10] from her and change my password, but I'm
+[1:57:12] very reticent to ever change my password
+[1:57:14] on my laptop. But um but she'll go and
+[1:57:17] find it wherever my laptop is and find a
+[1:57:20] way to use it. Um because and and I've
+[1:57:23] seen all sorts of things that she's
+[1:57:24] doing um that that make me nervous as a
+[1:57:28] parent. Um so I think that what you're
+[1:57:30] saying as a technologist about making
+[1:57:31] sure that kids in elementary school know
+[1:57:33] how to safely use it. Um, it is so
+[1:57:36] omnipresent, like you have to add minus
+[1:57:39] AI to just do a Google search without
+[1:57:41] getting the AI response. And I can't
+[1:57:43] even tell you how often I'm like, I'm
+[1:57:44] reading the AI response. Like, go away.
+[1:57:47] Like, um, even somebody like me who has
+[1:57:49] major concerns with it. Um, so I really
+[1:57:52] do, if I'm an outlier, cool. If the
+[1:57:54] community is saying this is not where we
+[1:57:56] are, then I want to make sure that we're
+[1:57:58] um, reflecting that. Um, I just think my
+[1:58:03] gut feeling, um, and I try to listen to
+[1:58:05] my gut because it, well, it's just how I
+[1:58:08] think I guide myself in life is just
+[1:58:09] that more screens are not helpful for
+[1:58:12] our development of kids as human beings.
+[1:58:14] And AI is certainly part of that and is
+[1:58:17] just intimidating. And so, I think it's
+[1:58:19] good that we're looking at it and diving
+[1:58:20] in, but I just really want to make sure
+[1:58:22] that the district office is not racing
+[1:58:25] ahead of our educators. I think we've
+[1:58:26] all seen feedback that our educators
+[1:58:28] have concerns. Um, and I want to make
+[1:58:30] sure we're not racing ahead of our
+[1:58:32] families and parents and caregivers. Um,
+[1:58:36] so I just have to say all of that. Um, I
+[1:58:39] did have questions. Um, like I know the
+[1:58:44] climate crisis response committee is
+[1:58:45] working on having input. They were here
+[1:58:48] the other night talking to us and that's
+[1:58:49] coming out soon. Whenever you present to
+[1:58:52] the board, I would like for that to be
+[1:58:54] something that is included. Um, I also
+[1:58:57] [clears throat] wonder if we need to
+[1:58:58] update the policy to be reflective of
+[1:59:01] the changes. Um, I also was really
+[1:59:05] grateful to hear you talk about the need
+[1:59:07] to get better participation from
+[1:59:09] underrepresented voices. Um, it's very
+[1:59:12] common across our survey work. We're
+[1:59:14] seeing it in other places, too. Um, so
+[1:59:16] thank you for doing that. I also um
+[1:59:21] really um
+[1:59:25] want to consider um and and again I need
+[1:59:29] to look at the survey because I think
+[1:59:30] that was like my biggest concern was
+[1:59:31] just that I feel like we might be out of
+[1:59:33] step with our community and I look
+[1:59:35] forward to seeing more about that. Um,
+[1:59:37] but I am curious how you plan to
+[1:59:38] integrate what you learned from the
+[1:59:40] survey into what the board has already
+[1:59:41] or the board the district has already
+[1:59:43] moved forward on or if the board the
+[1:59:45] district is like this is what we're
+[1:59:46] doing and just interesting to see what
+[1:59:48] the community thinks and I'll be done.
+[1:59:51] >> Yeah, I think uh one of the pieces from
+[1:59:54] the survey um when you look at that is
+[1:59:58] um there's a lot of information. And so
+[2:00:01] for example, in the survey, you can see
+[2:00:03] something where a parent will say, "I
+[2:00:05] don't want my student to um be engaged
+[2:00:09] and be using AI." And that's very
+[2:00:11] predominant in our K5 and very very
+[2:00:13] clear and we're hearing that versus it's
+[2:00:15] a little bit different when you um when
+[2:00:17] you talk uh to and hear from our high
+[2:00:20] school parents. Um but in the very next
+[2:00:23] question, is it important for educators
+[2:00:25] to receive professional development and
+[2:00:27] know how to use AI? And that's yes, that
+[2:00:29] is incredibly important. So, one of the
+[2:00:31] things we're seeing is just kind of like
+[2:00:33] these these responses that are sometimes
+[2:00:36] I won't say at odds of each other, but
+[2:00:38] we're trying to like uh make sense of
+[2:00:40] how those pieces go together and then
+[2:00:43] really think about what that means for
+[2:00:44] grade band. So, it is becoming part of
+[2:00:47] it. I also just want to say that
+[2:00:50] K5 students learning how to be safe with
+[2:00:54] AI does not mean necessarily screen
+[2:00:57] time. We're not talking one-on-one on a
+[2:00:59] tablet learning how to do that. It can
+[2:01:01] be very much a guided lesson with
+[2:01:04] teachers. It can be very much through
+[2:01:05] storytelling. It can be very much
+[2:01:07] through play. So, I want us to think
+[2:01:10] about all those pieces that again are so
+[2:01:13] great about our educators about the way
+[2:01:14] we teach things. That doesn't
+[2:01:16] necessarily mean we have to do it the
+[2:01:18] way the edte companies are saying in
+[2:01:20] marketing that we need to do it.
+[2:01:25] >> She needs more time on Google.
+[2:01:28] Yeah, I [laughter]
+[2:01:30] know.
+[2:01:31] >> I hear it. Yeah,
+[2:01:33] >> I need to get home. My husband's not
+[2:01:34] there, so she's just like in her screen.
+[2:01:38] >> Director Chase Miller, uh, Director
+[2:01:40] Englesman has her hand raised.
+[2:01:43] >> Yeah. Um,
+[2:01:45] go ahead. Go ahead, Stephanie.
+[2:01:50] >> Thank you. I know everyone's trying
+[2:01:52] [clears throat] to get out, so I'll be
+[2:01:53] very quick. Um, I want to say that I
+[2:01:56] even though I'm not on this committee, I
+[2:01:57] have joined because I'm really
+[2:01:59] interested in this and I too shared the
+[2:02:01] very visceral negative reactions to the
+[2:02:04] portrait but also to some of the
+[2:02:06] information and one of the questions
+[2:02:07] that I had was why are PK to5 academics
+[2:02:11] on the planning committee because I was
+[2:02:13] shocked at the idea that we would be
+[2:02:16] putting AI in our elementary schools and
+[2:02:18] certainly in our K to one to three year
+[2:02:19] old or three grades. Um,
+[2:02:23] I am, I think, also an outlier. My kids
+[2:02:25] don't get screen time, um, at all. And
+[2:02:28] they were bored when I was on this
+[2:02:30] meeting and they they were told to put
+[2:02:32] their roller skates on and go outside.
+[2:02:33] Um, I went to law school what feels like
+[2:02:37] a generation, many generations ago,
+[2:02:39] where we had to take books out from the
+[2:02:41] library and do research in the books and
+[2:02:43] then learn how to do that. And today's
+[2:02:45] law school kids get to do it online, but
+[2:02:48] they still have to, at least before AI
+[2:02:51] started popping up so much, they still
+[2:02:52] had to think in order to find the
+[2:02:55] answers. And
+[2:02:57] um I have a lot of concerns. I I
+[2:03:00] literally don't know whether it's chat
+[2:03:01] GBT or PT. I I think director Leffort
+[2:03:04] has laughed at me many a time when I
+[2:03:06] say, "How do you do it?" I've never used
+[2:03:08] it. Um I am also somewhat excited about
+[2:03:13] uh technology gains because they can be
+[2:03:14] very helpful. But I am ridiculously
+[2:03:17] worried that we are marching our way
+[2:03:19] towards what was that movie? Um
+[2:03:23] Idiocracy. Um there's a movie out there
+[2:03:25] where people don't think anymore and one
+[2:03:28] person is the only person who's thinking
+[2:03:30] in the whole wide world. Um and so I'm
+[2:03:33] I'm really worried. I also wondered
+[2:03:35] about the perception survey because as I
+[2:03:37] read it, it looked like we had 955
+[2:03:40] responses out of 44,000
+[2:03:43] >> odd students. And so that seemed like
+[2:03:45] it's not really a survey response. It's
+[2:03:47] like, you know, a very small it's not
+[2:03:50] it's it's not even um it doesn't even
+[2:03:52] count.
+[2:03:54] Anyway, um and the numbers of families
+[2:03:56] also responding out of our 44 odd
+[2:03:58] thousand students seemed very small. So
+[2:04:01] I'm not sure that it is actually
+[2:04:03] accurate of anything or telling us
+[2:04:05] anything. And then I was also confused
+[2:04:07] about the the harmful helpful slide. It
+[2:04:12] loo to me it looked like there was
+[2:04:13] information missing, but it seemed like
+[2:04:15] 24 and 28% said it was helpful. Meaning
+[2:04:19] 66
+[2:04:21] 76 and 72% said it's harmful. That seems
+[2:04:25] like a very very even though it's a slim
+[2:04:28] sliver of people responding
+[2:04:31] in the 70s is a very high percentage of
+[2:04:33] people saying for whatever reason it is
+[2:04:35] that they consider it harmful. Um I
+[2:04:38] don't I I missed what director split
+[2:04:40] said she would like
+[2:04:42] to work on for the policy. I would like
+[2:04:44] to talk about that. Um maybe it belongs
+[2:04:46] in policy committee. Maybe we can look
+[2:04:47] at that soon. But I missed which policy
+[2:04:50] it was. Um [snorts]
+[2:04:51] anyway, I just wanted to express similar
+[2:04:54] concerns to some of the others on there,
+[2:04:55] but I don't want to take more time.
+[2:04:56] Thank you.
+[2:04:59] >> Thank you. Um
+[2:05:02] I'm going to be the weirdo here who
+[2:05:04] doesn't have a problem with the policy
+[2:05:07] or with the profile of a graduate. It is
+[2:05:09] profile of a graduate. I think what I'm
+[2:05:12] interpret inter interpreting this to
+[2:05:13] mean is by the time our students are 18
+[2:05:15] and graduating and ready to go into the
+[2:05:17] workforce they know how to ethically
+[2:05:20] critically responsibly use this as a
+[2:05:22] tool and there are 13 years of education
+[2:05:25] from the beginning to the end for them
+[2:05:27] to do that in a developmentally
+[2:05:28] appropriate way across the continuum. Um
+[2:05:32] I am eager to see how we roll this out
+[2:05:36] uh appropriately beginning with
+[2:05:40] educating our youngest on um being
+[2:05:43] critical thinkers with their own brains
+[2:05:45] um and understanding how to recognize
+[2:05:48] and identify AI um all the way through
+[2:05:51] to our big kids learning how to use it
+[2:05:54] as a tool. I use AI in my work um as a
+[2:05:59] as a tool, but it doesn't replace my
+[2:06:01] thinking. Um and that's what I hope for
+[2:06:03] our students to be able to learn. So um
+[2:06:05] I appreciate that we're moving this work
+[2:06:07] forward. It is a new thing. New things
+[2:06:10] are scary. I don't think we should make
+[2:06:11] decisions out of fear. So um I
+[2:06:14] appreciate the work that y'all are doing
+[2:06:16] on this, engaging the community. I hope
+[2:06:17] we can do more of that. I'm going to
+[2:06:19] stop talking and see if our student
+[2:06:21] representative has anything to say.
+[2:06:24] Sorry, I'm trying to get out of here,
+[2:06:26] too. I'm in driver's ed right now. I'm
+[2:06:27] not looking like I'm not looking at my
+[2:06:29] phone to be like, I'm paying attention.
+[2:06:32] I just want to get marked as there.
+[2:06:34] >> Um cuz I paid a lot of money for that.
+[2:06:36] >> Yes, you did. No worries. No judgment
+[2:06:39] here.
+[2:06:40] >> Um okay. So, my I'm friends with a lot
+[2:06:44] of debate kids, which probably doesn't
+[2:06:46] mean anything to this room, but they're
+[2:06:49] very against AI. So, I hear a lot about
+[2:06:52] AI and the environment and all of that
+[2:06:56] stuff. And my biggest I have a few
+[2:06:59] questions, but to start um in my AP US
+[2:07:04] history class, I was shown a AI
+[2:07:06] generated video of the Stonewall riots
+[2:07:10] and I've seen teachers using chat GBT to
+[2:07:13] generate slideshows. how that does not
+[2:07:17] feel appropriate to me at all because
+[2:07:21] the Stonewall riots were very important
+[2:07:24] and to show a AI generated YouTube short
+[2:07:27] of one seems insane. So how are we
+[2:07:31] ensuring that curriculum that teachers
+[2:07:34] produce is not fully AI generated?
+[2:07:38] Um, right. Like, yes.
+[2:07:42] >> Yes. All the things.
+[2:07:43] >> Yes. All the things you said.
+[2:07:45] >> And it does mean a lot to me when you do
+[2:07:47] say some of my good friends are like in
+[2:07:49] debate club. I do understand what that
+[2:07:51] means.
+[2:07:51] >> I love the discussions you all are
+[2:07:54] having. Um,
+[2:07:55] >> the piece for us is that like this is
+[2:07:57] why we're first starting off with the
+[2:07:59] required training for every staff member
+[2:08:01] to really understand around uh data
+[2:08:04] safety about how to keep the humans in
+[2:08:06] the loop. uh how we are looking and
+[2:08:08] reviewing anything that if we do use AI
+[2:08:11] for and it's why in the guide book we
+[2:08:13] have some specific use cases that we do
+[2:08:15] talk about there professional
+[2:08:16] development is a real problem like a
+[2:08:18] real challenge and this is part of what
+[2:08:20] we're trying to figure out. We're in the
+[2:08:22] process of applying for a grant from the
+[2:08:24] AI uh policy lab the edafe AI policy lab
+[2:08:28] to continue to engage our educators
+[2:08:30] around this work and make a plan to
+[2:08:32] think about how this professional
+[2:08:34] learning can go forward. The challenge
+[2:08:36] in PPS with our school district and with
+[2:08:39] our calendar is of course we want our
+[2:08:42] students in school and learning as much
+[2:08:44] as possible. But we also with our um PAT
+[2:08:47] contract included in their contract is
+[2:08:50] the the time that we can have them and
+[2:08:53] require them to be in professional
+[2:08:54] learning and what that is and anything
+[2:08:56] outside of that requires additional
+[2:08:59] money for us to be able to do that. And
+[2:09:01] so when we have things like additional
+[2:09:03] adoptions and those things moving
+[2:09:05] forward, we're trying to think about how
+[2:09:06] we integrate AI literacy for our
+[2:09:09] educators into that as we're moving this
+[2:09:12] work forward because there just isn't
+[2:09:13] the space to say, "Hey, we're going to
+[2:09:15] do a full day or even an hour about AI
+[2:09:19] and what that looks like."
+[2:09:22] >> Okay. And then my next question is
+[2:09:25] switching it on to students and then
+[2:09:26] that's like the last thing I'm gonna
+[2:09:28] say, I promise. Sorry. Um, okay. Are we
+[2:09:31] like continuing to hold students
+[2:09:34] accountable
+[2:09:36] even with the AI? Like are we continuing
+[2:09:39] to hold students accountable for
+[2:09:41] plagiarism and for um making sure that
+[2:09:44] all coursework isn't fully dependent on
+[2:09:46] AI? Because that's also something I've
+[2:09:48] been seeing.
+[2:09:49] >> Yeah, I love that you're asking this
+[2:09:51] question. Um, one of the things we've
+[2:09:53] been working with the district student
+[2:09:54] council and some representatives from
+[2:09:56] there is about making our studentf
+[2:09:59] facing um, AI guidance that we can also
+[2:10:02] then train teachers around how to use
+[2:10:03] that to clearly communicate. AI is not
+[2:10:06] allowed to be used on this. AI can be
+[2:10:08] used in this way or you can um, you're
+[2:10:11] fully used to able to use AI but you
+[2:10:14] need to like name how you used it,
+[2:10:16] right? And so we've been really working
+[2:10:17] with them about what that looks like and
+[2:10:19] how to comm communicate those things.
+[2:10:21] And our plan is to print out those
+[2:10:23] pieces and have that available to them.
+[2:10:26] We also um have a tool through our um
+[2:10:31] ELA curriculum called Writable. and in
+[2:10:33] Writable that allows um teachers on the
+[2:10:38] kind of like the back end and quite
+[2:10:40] frankly it does use AI to do this um to
+[2:10:43] take those and compare that to what is
+[2:10:45] out there and look for those those
+[2:10:47] places where there may be some
+[2:10:49] plagiarism happening. What we do really
+[2:10:51] encourage our educators to do and our
+[2:10:53] building leaders is that needs to start
+[2:10:55] a conversation rather than jumping to um
+[2:10:59] absolutely this means that you've been
+[2:11:01] doing that because one of the things we
+[2:11:03] do know about these kind of AI checkers
+[2:11:06] is that they have um some real inherent
+[2:11:09] bias in them particularly if you're um a
+[2:11:12] student who's very advanced um that it
+[2:11:15] can really trigger that hey you you know
+[2:11:17] you've plagiarized this and it is also
+[2:11:19] very biased for are multilingual
+[2:11:21] learners as well. So, we really want to
+[2:11:23] have that be a tool to start a
+[2:11:25] conversation form rather than to be an
+[2:11:27] edict of what a child has made a
+[2:11:29] decision to do on how to do their work.
+[2:11:32] >> Okay, that's it. Thank you.
+[2:11:34] >> Absolutely. Can I can I add on I I would
+[2:11:37] say to your questions. Um my son's a
+[2:11:39] junior and I went to his back to school
+[2:11:41] night. I made a point to ask every
+[2:11:43] single one of his teachers what their
+[2:11:44] in-classroom AI policy was and I got as
+[2:11:48] many answers as there were teachers. And
+[2:11:50] one of the things I walked away from is
+[2:11:51] how are we arming these educators in
+[2:11:54] this? Their answers ranged from
+[2:11:56] absolutely no, they'll get an F if we
+[2:11:58] found it to uh his creative writing uh
+[2:12:01] teacher said AI writes [snorts] bad
+[2:12:02] poetry. All of which are true, right?
+[2:12:05] So, we need to make sure we're arming
+[2:12:07] the the folks that are helping you get
+[2:12:09] to graduation.
+[2:12:13] >> Thank you. We look forward to ongoing
+[2:12:15] discussions.
+[2:12:16] >> Thank you so much. So, do we and this
+[2:12:17] was really informative and it's hot
+[2:12:20] topic. So, appreciate the presentation.
+[2:12:23] >> Absolutely.
+[2:12:23] >> Thank you very much. Um, committee
+[2:12:26] members, I am going to ask that if you
+[2:12:28] have topics you'd like us to consider at
+[2:12:30] future meetings, you just email those to
+[2:12:32] me because I have a birthday dinner that
+[2:12:33] I am late to. And I am going to adjourn
+[2:12:36] this meeting. Our next meeting is on
+[2:12:39] June 11th. And at that time, we'll
+[2:12:40] receive an overview of the multiple
+[2:12:42] language learner services that we
+[2:12:44] provide in PPS. Thank you everybody.
