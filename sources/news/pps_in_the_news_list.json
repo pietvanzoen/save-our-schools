@@ -1,0 +1,636 @@
+{
+ "retrieved": "2026-10-11T08:07:31.493Z",
+ "source": "https://media.pps.net/ (PPS In The News list, element 214649)",
+ "in_the_news": [
+  {
+   "date": "2026-10-06T13:04:00-07:00",
+   "url": "https://www.youtube.com/watch?v=vRKUxqyWvYg",
+   "title": "Interview with Dr. Armstrong Discussing Rightsizing (opens in new window/tab)",
+   "summary": "Fox 12 Oregon"
+  },
+  {
+   "date": "2026-09-16T14:30:00-07:00",
+   "url": "https://www.kgw.com/video/entertainment/events/arts-in-education-week-kicks-off-at-portland-art-museum/283-4a0381ad-01aa-4b69-ac61-3766d2feb435",
+   "title": "Arts in Education Week kicks off at Portland Art Museum",
+   "summary": "KGW News"
+  },
+  {
+   "date": "2026-09-01T10:53:00-07:00",
+   "url": "https://www.wweek.com/arts/books/2026/09/01/portlands-public-school-librarians-are-getting-scrappy/",
+   "title": "Portland\u2019s Public School Librarians Are Getting Scrappy",
+   "summary": "Claire Coffey (Willamette Week)"
+  },
+  {
+   "date": "2026-09-01T10:48:00-07:00",
+   "url": "https://www.kptv.com/2026/09/02/grant-high-school-holds-ceremony-first-game-under-newly-installed-field-lights/",
+   "title": "Grant High School holds ceremony for first game under newly-installed field lights",
+   "summary": "Mariah Ross KPTV"
+  },
+  {
+   "date": "2026-08-26T14:48:00-07:00",
+   "url": "https://www.kptv.com/2026/08/26/only-fox-12-one-on-one-with-pps-superintendent-dr-kimberlee-armstrong/",
+   "title": "One-on-one with PPS superintendent Dr. Kimberlee Armstrong (opens in new window/tab)",
+   "summary": "by Spencer Schacht (KPTV)"
+  },
+  {
+   "date": "2026-08-26T14:46:00-07:00",
+   "url": "https://www.kptv.com/video/2026/08/26/first-day-class-portland-public-schools-students/",
+   "title": "First day of class for Portland Public Schools students (opens in new window/tab)",
+   "summary": "by KPTV"
+  },
+  {
+   "date": "2026-08-22T10:47:00-07:00",
+   "url": "https://www.kgw.com/video/news/local/volunteers-help-revitalize-school-playground-at-portland-elementary-school/283-22e02208-47bd-4264-81eb-0b73095247a5",
+   "title": "Volunteers help revitalize school playground at Portland elementary school (opens in new window/tab)",
+   "summary": "by KGW"
+  },
+  {
+   "date": "2026-08-18T14:44:00-07:00",
+   "url": "https://katu.com/sports/fire-wnba/epicenter-week-returns-to-portland-to-continue-the-incredible-momentum-in-womens-sports-oregon-sports-pacific-northwest-pnw-athletics-athletes-harriet-tubman-middle-school-fire-team-wnba-basketball",
+   "title": "Epicenter Week returns to Portland to continue the 'incredible momentum in women\u2019s sports' (opens in new window/tab)",
+   "summary": "by Guillermo Motta Perez (KATU)"
+  },
+  {
+   "date": "2026-08-18T10:44:00-07:00",
+   "url": "https://katu.com/news/project-education/portland-middle-schools-double-digit-gains-what-harriet-tubman-is-doing-differently-grades-proficiency-education-statistics-students-teachers-parents-local-community",
+   "title": "Portland middle school's double-digit gains: What Harriet Tubman is doing differently (opens in new window/tab)",
+   "summary": "by Deb Knapp (KATU)"
+  },
+  {
+   "date": "2026-08-10T15:50:00-07:00",
+   "url": "https://www.kptv.com/video/2026/08/10/portland-teacher-uses-donorschoose-fund-classroom-projects-beaumont-middle-school/",
+   "title": "Portland teacher uses DonorsChoose to fund classroom projects at Beaumont Middle School (opens in new window/tab)",
+   "summary": "by KPTV"
+  },
+  {
+   "date": "2026-07-23T19:04:00-07:00",
+   "url": "https://www.bdcnetwork.com/building-sector-reports/education-facilities/k-12-schools/article/55393290/a-high-school-in-portland-ore-will-be-replaced-with-a-300000-sf-school-on-the-same-site",
+   "title": "A high school in Portland, Ore., will be replaced with a 300,000-sf school on the same site (opens in new window/tab)",
+   "summary": "by\u00a0Novid Parsi (Building Design & Construction Network)"
+  },
+  {
+   "date": "2026-07-20T14:12:00-07:00",
+   "url": "https://www.oregonlive.com/education/2026/07/in-portland-summer-schools-high-schoolers-are-helping-kids-learn-to-read.html",
+   "title": "In Portland summer schools, high schoolers are helping kids learn to read (opens in new window/tab)",
+   "summary": "by Julia Silverman (Oregonian)"
+  },
+  {
+   "date": "2026-06-14T11:00:00-07:00",
+   "url": "https://www.wweek.com/news/schools/2026/06/14/local-high-school-debate-teams-win-big-eye-nationals/",
+   "title": "Local High School Debate Teams Win Big, Eye Nationals (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2026-06-13T10:58:00-07:00",
+   "url": "https://www.kptv.com/2026/06/14/cleveland-high-school-breaks-ground-modernization-project-se-portland/",
+   "title": "Cleveland High School breaks ground on modernization project in SE Portland (opens in new window/tab)",
+   "summary": "by KPTV"
+  },
+  {
+   "date": "2026-06-12T10:57:00-07:00",
+   "url": "https://www.oregonlive.com/education/2026/06/after-16-year-wait-portland-public-schools-breaks-ground-on-a-new-cleveland-high-school.html",
+   "title": "After 16-year wait, Portland Public Schools breaks ground on a new Cleveland High School (opens in new window/tab)",
+   "summary": "by Julia Silverman (Oregonian)"
+  },
+  {
+   "date": "2026-06-05T10:56:00-07:00",
+   "url": "https://portlandtribune.com/2026/06/05/lincoln-high-school-junior-anika-rigby-crowned-2026-rose-festival-queen/",
+   "title": "Lincoln High School junior Anika Rigby crowned 2026 Rose Festival Queen (opens in new window/tab)",
+   "summary": "by Hannah Seibold (Portland Tribune)"
+  },
+  {
+   "date": "2026-06-01T11:47:00-07:00",
+   "url": "https://www.kptv.com/2026/05/30/jefferson-high-school-breaks-ground-long-awaited-466-million-rebuild-north-portland/",
+   "title": "Jefferson High School breaks ground on long-awaited $466 million rebuild in north Portland (opens in new window/tab)",
+   "summary": "by Leslie Dominique (KPTV)"
+  },
+  {
+   "date": "2026-06-01T11:46:00-07:00",
+   "url": "https://www.oregonlive.com/education/2026/05/after-years-of-delays-jefferson-high-school-celebrates-breaking-ground-on-its-new-building.html",
+   "title": "After years of delays, Jefferson High School celebrates breaking ground on its new building (opens in new window/tab)",
+   "summary": "by Julia Silverman (Oregonian)"
+  },
+  {
+   "date": "2026-05-11T11:41:00-07:00",
+   "url": "https://portlandtribune.com/2026/05/07/this-roosevelt-senior-grew-up-in-homes-shaped-by-substance-abuse-now-shes-headed-to-barnard-college/",
+   "title": "This Roosevelt senior grew up in homes shaped by substance abuse. Now she\u2019s headed to Barnard College. (opens in new window/tab)",
+   "summary": "by Hannah Seibold (Portland Tribune)"
+  },
+  {
+   "date": "2026-04-29T12:16:00-07:00",
+   "url": "https://www.cgcs.org/resources/newsroom/urban-educator/digital-urban-educator-april-2026/portland-students-win-urban-debate-championship",
+   "title": "Portland Students Win Urban Debate Championship (opens in new window/tab)",
+   "summary": "by Council of Great City Schools"
+  },
+  {
+   "date": "2026-04-28T12:44:00-07:00",
+   "url": "https://www.kptv.com/2026/04/24/grant-high-school-students-donation-help-rebuild-youth-recovery-center-destroyed-by-arson/?utm_source=taboola&utm_medium=organicclicks&tbref=hp",
+   "title": "Grant High School students' donation to help rebuild youth recovery center destroyed by arson (opens in new window/tab)",
+   "summary": "by Spencer Schacht (KPTV)"
+  },
+  {
+   "date": "2026-04-28T12:43:00-07:00",
+   "url": "https://www.wweek.com/news/schools/2026/04/22/pps-seeks-big-emissions-reductions-with-new-high-school-buildings/",
+   "title": "PPS Seeks Big Emissions Reductions With New High School Buildings (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2026-04-27T10:54:00-07:00",
+   "url": "https://www.opb.org/article/2026/04/23/think-out-loud-author-book-london-falling-portland-oregon/",
+   "title": "Patrick Radden Keefe discusses his new book \u2018London Falling\u2019 at Lincoln High School in Portland (opens in new window/tab)",
+   "summary": "by\u00a0Rolando Hernandez\u00a0(OPB)"
+  },
+  {
+   "date": "2026-04-27T10:52:00-07:00",
+   "url": "https://www.kptv.com/2026/04/27/portland-art-museum-highlights-work-by-k-12-pps-students/",
+   "title": "Portland Art Museum highlights work by K-12 PPS students (opens in new window/tab)",
+   "summary": "by FOX 12 staff"
+  },
+  {
+   "date": "2026-04-20T11:32:00-07:00",
+   "url": "https://www.wweek.com/news/schools/2026/04/19/more-than-100-pps-student-art-pieces-are-on-display-at-the-portland-art-museum-this-summer/",
+   "title": "More Than 100 PPS Student Art Pieces Are on Display at the Portland Art Museum This Summer (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2026-04-20T11:29:00-07:00",
+   "url": "https://www.opb.org/article/2026/04/18/portland-high-schools-national-civics-competition/",
+   "title": "The Constitution is alive in Portland: Grant High School places 3rd, Lincoln reaches 6th at national civics competition (opens in new window/tab)",
+   "summary": "by Malya Fass (OPB)"
+  },
+  {
+   "date": "2026-04-20T11:28:00-07:00",
+   "url": "https://www.koin.com/am-extra/jefferson-dancers-strut-into-milestone-50th-season/",
+   "title": "Jefferson Dancers strut into milestone 50th season (opens in new window/tab)",
+   "summary": "by Emily Burris, Mia Villanueva (KOIN)"
+  },
+  {
+   "date": "2026-04-14T11:37:00-07:00",
+   "url": "https://www.opb.org/article/2026/04/14/north-portlands-jefferson-dancers-celebrate-a-major-milestone/",
+   "title": "50 years of tradition, talent and community: North Portland's Jefferson Dancers' celebrate a major milestone (opens in new window/tab)",
+   "summary": "by Elizabeth Miller and Emily Hamilton (OPB)"
+  },
+  {
+   "date": "2026-04-14T11:35:00-07:00",
+   "url": "https://www.koin.com/video/portlands-scott-elementary-students-principal-take-part-in-garden-cleanup-event/11692040/",
+   "title": "Portland's Scott Elementary students, principal take part in garden clean up event (opens in new window/tab)",
+   "summary": "by KOIN"
+  },
+  {
+   "date": "2026-04-08T15:17:00-07:00",
+   "url": "https://www.kgw.com/article/news/local/portland-jasmin-reyes-contreras-wins-stand-for-children-scholarship-ivy-league-acceptance/283-c3a9c6e5-1c19-4d3e-92b7-556904082e9f",
+   "title": "Portland high school senior overcomes adversity to win $20,000 scholarship, Ivy League acceptance",
+   "summary": "by\u00a0Libby Dowsett"
+  },
+  {
+   "date": "2026-04-01T11:40:00-07:00",
+   "url": "https://www.opb.org/article/2026/03/31/think-out-loud-grant-high-school-civics-championship/",
+   "title": "Grant High School constitution team to compete in national civics championship (opens in new window/tab)",
+   "summary": "by Malya Fass (OPB)"
+  },
+  {
+   "date": "2026-03-31T14:45:00-07:00",
+   "url": "https://www.kgw.com/video/features/hello-rose-city/nominate-an-educator-for-the-onpoint-prize-for-excellence-in-education/283-70bad912-c10c-45b5-ad51-37d0cf7862b4",
+   "title": "Nominate an educator for OnPoint Prize for Excellence in Education",
+   "summary": "by KGW"
+  },
+  {
+   "date": "2026-03-09T11:14:00-07:00",
+   "url": "https://www.kgw.com/video/news/local/portland-students-new-athletic-footwear/283-358e851a-b6e0-4562-b6dc-de884b6692fd",
+   "title": "Portland students get new athletic footwear for free (opens in new window/tab)",
+   "summary": "by KGW"
+  },
+  {
+   "date": "2026-03-09T11:11:00-07:00",
+   "url": "https://www.kgw.com/article/news/local/benson-polytechnic-high-school-newspaper-print-back-revive-student/283-ea19e6fa-d05e-487e-bbf1-32a77fb62ccc",
+   "title": "'Back From The Dead': Benson Polytechnic High School resurrects century-old print student newspaper",
+   "summary": "by Celine Stevens (KGW)"
+  },
+  {
+   "date": "2026-02-26T11:01:00-08:00",
+   "url": "https://portlandtribune.com/2026/02/26/jefferson-high-school-teacher-encourages-students-to-embrace-imperfection/",
+   "title": "Jefferson High School teacher encourages students to embrace imperfection",
+   "summary": "by Hannah Seibold (Portland Tribune)"
+  },
+  {
+   "date": "2026-02-25T11:45:00-08:00",
+   "url": "https://portlandtribune.com/2026/02/25/sitton-elementary-teacher-leads-with-safety-compassion-amid-immigration-fears/",
+   "title": "Sitton Elementary teacher leads with safety, compassion amid immigration fears",
+   "summary": "by Hannah Seibold (Portland Tribune)"
+  },
+  {
+   "date": "2026-02-24T13:51:00-08:00",
+   "url": "https://www.koin.com/news/portland/portland-public-schools-expands-wellness-support-for-latino-families-amid-immigration-fears/",
+   "title": "Portland Public Schools expands wellness support for Latino families amid immigration fears",
+   "summary": "by Mia Villanueva (KOIN)"
+  },
+  {
+   "date": "2026-02-24T10:50:00-08:00",
+   "url": "https://www.koin.com/hidden-history/black-history-month/black-educator-from-portland-named-oregons-teacher-of-the-year/#/questions/5294859",
+   "title": "Black educator from Portland named Oregon's Teacher of the Year",
+   "summary": "by Mia Villanueva (KOIN)"
+  },
+  {
+   "date": "2026-02-10T12:54:00-08:00",
+   "url": "https://www.kgw.com/article/news/education/parents-portland-elementary-rock-concert-money/283-76905a72-9f1f-4b5d-9dcb-2e6bf628c6f0",
+   "title": "Portland parents stage rock concert to raise money for elementary school (opens in new window/tab)",
+   "summary": "by John Adams (KGW)"
+  },
+  {
+   "date": "2026-02-10T12:52:00-08:00",
+   "url": "https://www.oregonlive.com/education/2026/02/broadway-in-portland-brings-the-wiz-workshop-to-jefferson-high-students.html",
+   "title": "Broadway in Portland brings 'The Wiz' workshop to Jefferson High students (opens in new window/tab)",
+   "summary": "by Julia Silverman (Oregonian)"
+  },
+  {
+   "date": "2026-02-10T12:49:00-08:00",
+   "url": "https://www.wweek.com/news/schools/2026/02/10/a-new-outdoor-courtyard-comes-to-vestal-elementary-school/",
+   "title": "A New Outdoor Courtyard Comes to Vestal Elementary School (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2026-02-04T14:39:00-08:00",
+   "url": "https://www.kgw.com/article/news/education/pps-outlines-2026-legislative-priorities-50-million-budget-gap/283-207e4110-0bf4-462d-9008-0ba2e7e568ef",
+   "title": "PPS outlines 2026 legislative priorities in the face of $50 million budget gap (opens in new window/tab)",
+   "summary": "by Anthony Macuk (KGW)"
+  },
+  {
+   "date": "2026-01-26T12:36:00-08:00",
+   "url": "https://www.wweek.com/news/schools/2026/01/26/more-portland-students-are-prepared-for-college-or-jobs-new-numbers-show/",
+   "title": "More Portland Students Are Prepared for College or Jobs, New Numbers Suggest (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2026-01-20T12:27:00-08:00",
+   "url": "https://www.koin.com/news/portland/new-policy-ensures-jefferson-high-school-has-a-future/",
+   "title": "New policy ensures Jefferson High School 'has a future' (opens in new window/tab)",
+   "summary": "by Mia Villanueva (KOIN)"
+  },
+  {
+   "date": "2026-01-20T12:22:00-08:00",
+   "url": "https://www.kgw.com/article/news/education/pps-board-votes-to-sunset-policy-that-allowed-students-to-opt-out-of-attending-jefferson-high-school/283-32857d15-1c92-480f-a386-a918c3ba8b5d",
+   "title": "PPS board votes to sunset policy that allowed students to opt out of attending Jefferson High School (opens in new window/tab)",
+   "summary": "by Jake Holter (KGW)"
+  },
+  {
+   "date": "2026-01-14T12:35:00-08:00",
+   "url": "https://www.wweek.com/news/schools/2026/01/13/school-board-approves-plan-to-fill-jefferson-high-school/",
+   "title": "School Board Approves Plan to Fill Jefferson High School (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2026-01-13T13:45:00-08:00",
+   "url": "https://katu.com/news/local/portland-school-board-ends-jefferson-high-school-dual-enrollment-roosevelt-mcdaniel-or-grant",
+   "title": "Portland school board ends Jefferson High School dual enrollment ahead of renovation (opens in new window/tab)",
+   "summary": "by Barry Mangold (KATU)"
+  },
+  {
+   "date": "2026-01-06T13:51:00-08:00",
+   "url": "https://www.kptv.com/page/classroom/",
+   "title": "FOX 12's Classroom of the Month (opens in new window/tab)",
+   "summary": "by FOX 12"
+  },
+  {
+   "date": "2026-01-05T13:45:00-08:00",
+   "url": "https://www.oregonlive.com/education/2026/01/portland-public-schools-is-trying-to-close-the-algebra-access-gap-early-evidence-suggests-its-working.html",
+   "title": "Portland Public Schools is trying to close the algebra access gap. Early evidence suggests it\u2019s working (opens in new window/tab)",
+   "summary": "by Julia Silverman (Oregonian)"
+  },
+  {
+   "date": "2026-01-03T13:41:00-08:00",
+   "url": "https://www.wweek.com/news/schools/2026/01/03/analysis-of-literacy-and-poverty-rates-shows-pps-finding-success/",
+   "title": "Analysis of Literacy and Poverty Rates Shows PPS Is Finding Success (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2025-12-15T13:54:00-08:00",
+   "url": "https://katu.com/news/local/portland-schools-address-absenteeism-with-new-attendance-initiatives-and-support-teams",
+   "title": "Portland schools address absenteeism with new attendance initiatives and support teams (opens in new window/tab)",
+   "summary": "by Deb Knapp (KATU)"
+  },
+  {
+   "date": "2025-12-15T13:51:00-08:00",
+   "url": "https://www.oregonlive.com/opinion/2025/12/opinion-a-more-accountable-approach-for-building-pps-next-generation-of-schools.html",
+   "title": "A more accountable approach for building PPS\u2019 next generation of schools (opens in new window/tab)",
+   "summary": "by Dr. Kimberlee Armstrong"
+  },
+  {
+   "date": "2025-12-04T13:48:00-08:00",
+   "url": "https://www.kgw.com/video/news/education/portland-school-board-approves-site-for-long-awaited-center-for-black-student-excellence/283-0d9f50a3-2c92-4e9c-86bb-58ab5ac04ec2",
+   "title": "Portland School Board approves site for long-awaited Center for Black Student Excellence (opens in new window/tab)",
+   "summary": "by KGW News"
+  },
+  {
+   "date": "2025-12-03T16:03:00-08:00",
+   "url": "https://www.koin.com/news/portland/pps-board-buy-property-center-for-black-student-excellence/",
+   "title": "PPS board unanimously votes to buy property for Center for Black Student Excellence (opens in new window/tab)",
+   "summary": "by Joelle Jones (KOIN)"
+  },
+  {
+   "date": "2025-11-28T14:27:00-08:00",
+   "url": "https://www.southeastexaminer.com/2025/11/abernethy-elementary-school-students-community-come-together-for-ruby-bridges-event/",
+   "title": "Abernathy Elementary School Students, Community Come Together For Ruby Bridges Event (opens in new window/tab)",
+   "summary": "by Ellen Spitaleri (The Southeast Examiner)"
+  },
+  {
+   "date": "2025-11-18T12:38:00-08:00",
+   "url": "https://www.koin.com/news/portland/portland-firefighters-hand-out-1000-coats-to-kids/",
+   "title": "Portland firefighters hand out 1000 coats to kids (opens in new window/tab)",
+   "summary": "by\u00a0Mia Villanueva\u00a0(KOIN)"
+  },
+  {
+   "date": "2025-11-18T12:36:00-08:00",
+   "url": "https://katu.com/news/local/portland-firefighters-give-nearly-1000-new-coats-to-kids-in-need",
+   "title": "Portland firefighters give nearly 1,000 new coats to kids in need (opens in new window/tab)",
+   "summary": "by\u00a0KATU News"
+  },
+  {
+   "date": "2025-11-18T12:34:00-08:00",
+   "url": "https://www.kptv.com/2025/11/19/portland-fire-rescue-gives-winter-coats-kids-need/",
+   "title": "Portland Fire & Rescue gives winter coats to kids in need (opens in new window/tab)",
+   "summary": "by\u00a0Makenna Marks (FOX)"
+  },
+  {
+   "date": "2025-11-17T08:00:00-08:00",
+   "url": "https://public-schools.educationinsidermagazine.com/cxoinsight/transforming-public-education-through-inclusive-equitydriven-leadership-nwid-737.html",
+   "title": "Transforming Public Education Through Inclusive, Equity-Driven Leadership (opens in new window/tab)",
+   "summary": "by Education Insider Magazine"
+  },
+  {
+   "date": "2025-10-30T22:30:00-07:00",
+   "url": "https://www.oregonlive.com/highschoolsports/2025/10/roosevelt-football-completes-a-mission-30-years-in-the-making.html",
+   "title": "Roosevelt football completes a mission 30 years in the making (opens in new window/tab)",
+   "summary": "by\u00a0Nik Streng (The Oregonian/OregonLive)"
+  },
+  {
+   "date": "2025-10-30T14:51:00-07:00",
+   "url": "https://www.opb.org/article/2025/10/30/pps-weighs-options-jefferson-high/",
+   "title": "Portland Public Schools weighs options as it pushes to make Jefferson High a neighborhood school again (opens in new window/tab)",
+   "summary": "By\u00a0Natalie Pate\u00a0(OPB)"
+  },
+  {
+   "date": "2025-10-29T08:11:00-07:00",
+   "url": "https://www.oklahoman.com/press-release/story/116876/four-winners-announced-for-the-2025-mass-timber-competition-building-sustainable-schools/",
+   "title": "Four Winners Announced for the 2025 Mass Timber Competition: Building Sustainable Schools (opens in new window/tab)",
+   "summary": "by Softwood Lumber Board (The Oklahoman)"
+  },
+  {
+   "date": "2025-10-15T12:19:00-07:00",
+   "url": "https://www.wweek.com/news/schools/2025/10/15/pps-students-are-flocking-to-their-school-libraries/",
+   "title": "PPS Students Are Flocking to Their School Libraries (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2025-10-02T12:21:00-07:00",
+   "url": "https://www.kptv.com/2025/10/02/live-portland-public-schools-talks-about-statewide-assessment-results/",
+   "title": "Oregon reports slight improvement in student performances statewide",
+   "summary": "by FOX 12 Staff (KPTV)"
+  },
+  {
+   "date": "2025-10-02T12:20:00-07:00",
+   "url": "https://www.opb.org/article/2025/10/02/test-scores-oregon-schools-takeaways/",
+   "title": "Test scores are out for Oregon schools: 4 takeaways on how students are doing (opens in new window/tab)",
+   "summary": "by Elizabeth Miller (OPB)"
+  },
+  {
+   "date": "2025-09-29T12:22:00-07:00",
+   "url": "https://www.wweek.com/news/schools/2025/09/29/the-fund-for-pps-raised-14-million-in-the-past-academic-year/",
+   "title": "The Fund for PPS Raised $593,324 in the Past Academic Year (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2025-09-20T12:22:00-07:00",
+   "url": "https://www.wweek.com/news/schools/2025/09/20/pps-begins-testing-waters-around-jefferson-dual-assignment-zone/",
+   "title": "PPS Tests Waters Around Jefferson Dual Assignment Zone (opens in new window/tab)",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2025-08-27T13:34:00-07:00",
+   "url": "https://media.pps.net/#",
+   "title": "Superintendent Armstrong talks cell phones, rebuilding Jefferson on Portland Public Schools first day back",
+   "summary": "by Riley Martinez (OPB)"
+  },
+  {
+   "date": "2025-08-26T13:53:00-07:00",
+   "url": "https://www.kptv.com/video/2025/08/26/first-day-class-portland-public-schools-students/",
+   "title": "First day of class for Portland Public Schools students",
+   "summary": "by FOX 12 Staff"
+  },
+  {
+   "date": "2025-08-26T13:52:00-07:00",
+   "url": "https://www.wweek.com/news/schools/2025/08/26/portland-public-schools-broaches-topic-of-consolidation/",
+   "title": "Portland Public Schools Broaches Topic of Consolidation",
+   "summary": "by Joanna Hou (Willamette Week)"
+  },
+  {
+   "date": "2025-08-26T13:52:00-07:00",
+   "url": "https://www.oregonlive.com/education/2025/08/portland-public-schools-ready-to-make-key-move-to-open-long-delayed-center-for-black-student-excellence.html",
+   "title": "Portland Public Schools ready to make key move to open long-delayed Center for Black Student Excellence",
+   "summary": "by Julia Silverman | The Oregonian/OregonLive"
+  },
+  {
+   "date": "2025-08-26T13:51:00-07:00",
+   "url": "https://www.oregonlive.com/education/2025/08/on-1st-day-of-school-in-portland-wary-eyes-are-on-the-weather.html",
+   "title": "On 1st day of school in Portland, wary eyes are on the weather",
+   "summary": "by Julia Silverman | The Oregonian/OregonLive"
+  },
+  {
+   "date": "2025-08-26T13:50:00-07:00",
+   "url": "https://www.koin.com/news/portland/different-levels-portland-metro-area-students-return-to-school/",
+   "title": "\u2018Different levels\u2019: Portland metro area students return to school",
+   "summary": "by Andrew Foran, Lisa Balick (KOIN)"
+  },
+  {
+   "date": "2025-08-06T14:21:00-07:00",
+   "url": "https://www.koin.com/news/portland/pps-superintendent-gives-address-kick-off-2025-26-school-year/",
+   "title": "PPS superintendent sets tone for new school year, talks AI with Colin Kaepernick",
+   "summary": "by Andrew Foran"
+  },
+  {
+   "date": "2025-08-06T13:58:00-07:00",
+   "url": "https://katu.com/news/local/portland-public-schools-kicksoff-2025-2026-school-year-with-address-by-dr-armstrong",
+   "title": "Portland Public Schools kicks off 2025-2026 school year with address by Dr. Armstrong",
+   "summary": "by Bobby Corser"
+  },
+  {
+   "date": "2025-08-06T13:57:00-07:00",
+   "url": "https://katu.com/news/local/colin-kaepernick-makes-surprise-appearance-at-pps-school-year-kickoff-kimberlee-armstrong",
+   "title": "Colin Kaepernick makes surprise appearance at PPS School Year Kickoff",
+   "summary": "by Bobby Corser"
+  },
+  {
+   "date": "2025-08-06T13:56:00-07:00",
+   "url": "https://www.opb.org/article/2025/08/06/colin-kaepernick-surprise-visit-pps-ai/",
+   "title": "Colin Kaepernick makes surprise visit to Portland Public Schools, a new partner with his AI company",
+   "summary": "by Natalie Pate"
+  },
+  {
+   "date": "2025-08-06T13:56:00-07:00",
+   "url": "https://www.oregonlive.com/education/2025/08/ai-platform-from-former-nfl-qb-colin-kaepernick-finds-playing-field-in-portland-schools.html",
+   "title": "AI platform from former NFL QB Colin Kaepernick finds playing field in Portland schools",
+   "summary": "by Julia Silverman"
+  },
+  {
+   "date": "2025-07-19T14:21:00-07:00",
+   "url": "https://www.kgw.com/video/news/local/former-nfl-player-alex-green-shares-dyslexia-journey-with-portland-students/283-0323198e-fe00-40be-a76a-d3e9ad708428",
+   "title": "Former NFL player Alex Green shares dyslexia journey with Portland students",
+   "summary": "by KGW.com"
+  },
+  {
+   "date": "2025-07-18T14:25:00-07:00",
+   "url": "https://www.wweek.com/news/schools/2025/07/18/a-summer-camp-at-pps-fills-a-unique-hole-in-oregons-literacy-conversation/",
+   "title": "A Summer Camp at PPS Fills a Unique Hole in Oregon\u2019s Literacy Conversation",
+   "summary": "by Joanna Hou, Willamette Week"
+  },
+  {
+   "date": "2025-07-18T14:22:00-07:00",
+   "url": "https://www.k12dive.com/news/portland-public-schools-tutoring-high-impact-united-conference/753388/",
+   "title": "How Portland Public Schools can afford to offer high-impact tutoring",
+   "summary": "by Anna Merod, K-12 Dive"
+  },
+  {
+   "date": "2025-07-16T14:23:00-07:00",
+   "url": "https://www.kptv.com/2025/07/17/barry-manilow-awards-10000-check-ida-b-wells-hs-music-teacher-portland-concert/",
+   "title": "Barry Manilow awards $10K check to Ida B. Wells HS music teacher at Portland concert",
+   "summary": "by Leslie Dominique, KPTV"
+  },
+  {
+   "date": "2025-06-05T14:23:00-07:00",
+   "url": "https://www.kptv.com/2025/06/05/students-create-mural-using-collected-recycled-material-ne-portland/",
+   "title": "Students create mural using collected recycled material in NE Portland",
+   "summary": "by FOX 12 Staff"
+  },
+  {
+   "date": "2025-06-04T14:42:00-07:00",
+   "url": "https://news.uoregon.edu/uo-child-behavioral-health-interns-are-learning-doing",
+   "title": "UO child behavioral health interns are learning by doing",
+   "summary": "by Sherri Buri McDonald, OregonNews"
+  },
+  {
+   "date": "2025-06-04T14:24:00-07:00",
+   "url": "http://climate-themed%20community%20mural%20to%20be%20unveiled%20at%20vernon%20elementary/",
+   "title": "Climate-themed community mural to be unveiled at Vernon Elementary",
+   "summary": "by Hannah Seibold, Portland Tribune"
+  },
+  {
+   "date": "2025-05-22T14:41:00-07:00",
+   "url": "https://www.kgw.com/article/news/education/onpoint-educators-of-year-2025-teachers-win-award-oregon-washington/283-f7a9cd5e-f6b7-48a3-81a1-f69818528f0b",
+   "title": "Teachers honored as OnPoint Educators of the Year for 2025",
+   "summary": "by KGW Staff"
+  },
+  {
+   "date": "2025-05-21T14:40:00-07:00",
+   "url": "https://www.oregonlive.com/education/2025/05/voters-appear-to-narrowly-approve-183-billion-portland-public-schools.html",
+   "title": "Voters approve $1.83 billion Portland Public Schools bond",
+   "summary": "by Julia Silverman"
+  },
+  {
+   "date": "2025-05-20T14:40:00-07:00",
+   "url": "https://www.kgw.com/article/news/politics/elections/portland-public-schools-bond-measure-results-update-26-259/283-8f40ff55-735d-4cc1-8ff9-d5bbff3298fb",
+   "title": "PPS declares victory on $1.83B bond measure after voters deliver strong lead",
+   "summary": "by Jamie Parfitt"
+  },
+  {
+   "date": "2025-05-20T14:39:00-07:00",
+   "url": "https://www.opb.org/article/2025/05/20/oregon-may-2025-special-election-results-voting-ballot-school-bond/",
+   "title": "Voters on track to approve Portland Public Schools construction bond, among many school measures on Tuesday\u2019s ballot",
+   "summary": "by Sarah Roth and Tiffany Camhi"
+  },
+  {
+   "date": "2025-04-22T14:39:00-07:00",
+   "url": "https://www.kgw.com/article/life/two-oregon-high-schools-national-co-champions-us-constitution-contest/283-8c7a9fc7-6c34-4ff3-bc08-f8b126763df7",
+   "title": "Two Oregon high schools named national co-champions in U.S. Constitution contest",
+   "summary": "by Tim Gordon"
+  },
+  {
+   "date": "2025-04-21T14:41:00-07:00",
+   "url": "https://www.koin.com/news/portland/dillon-t-pickle-bridger-elementary-portland-pickles-reading-challenge-05212025/",
+   "title": "Dillon T. Pickle visits Bridger Elementary after Portland Pickles Reading Challenge",
+   "summary": "by Aimee Plante, KOIN"
+  },
+  {
+   "date": "2025-04-21T14:38:00-07:00",
+   "url": "https://www.opb.org/article/2025/04/21/oregon-high-school-teams-share-first-place-honors-at-national-civics-competition/",
+   "title": "Oregon high school teams share first place honors at national civics competition",
+   "summary": "by Sheraz Sadiq"
+  },
+  {
+   "date": "2025-04-19T14:37:00-07:00",
+   "url": "https://www.wweek.com/news/schools/2025/04/19/benson-tech-show-spotlights-career-technical-education-in-new-building/",
+   "title": "Benson Tech Show Spotlights Career Technical Education in New Building",
+   "summary": "by Author Joanna Hou"
+  },
+  {
+   "date": "2025-04-17T14:38:00-07:00",
+   "url": "https://www.kptv.com/2025/04/17/preview-2025-benson-polytechnic-high-school-tech-show/",
+   "title": "Preview of the 2025 Benson Polytechnic High School Tech Show",
+   "summary": "by Ayo Elise"
+  },
+  {
+   "date": "2025-04-12T14:37:00-07:00",
+   "url": "https://www.opb.org/article/2025/04/12/portland-high-schoolers-schnitzer-cares-grantmaking-raise-money-awareness-youth-foster-care/",
+   "title": "Portland high schoolers raise money, awareness for youth aging out of foster care system",
+   "summary": "by Natalie Pate"
+  },
+  {
+   "date": "2025-03-21T14:36:00-07:00",
+   "url": "https://www.kgw.com/article/news/community/lincoln-high-school-club-memory-care-connections-seniors/283-3b69bcb1-9916-4d93-a50d-4411e53678f5",
+   "title": "Pen pal club at Lincoln High School connects students with seniors",
+   "summary": "by Tim Gordon"
+  },
+  {
+   "date": "2025-03-20T14:36:00-07:00",
+   "url": "https://www.kgw.com/article/news/community/pacific-storyland/portland-elementary-school-custodian-comedian-black-comedy-festival/283-f5aa375b-87c8-4bc8-bc60-a2fa1e73e4a7",
+   "title": "From the classroom to the comedy club, Portland school custodian keeps his community smiling",
+   "summary": "by Katherine Cook"
+  },
+  {
+   "date": "2025-03-18T14:35:00-07:00",
+   "url": "https://www.kptv.com/2025/03/19/hamilton-cast-members-visit-portland-high-school-theater-class/",
+   "title": "Hamilton cast members visit Portland high school theater class",
+   "summary": "by Karli Olson"
+  },
+  {
+   "date": "2025-03-14T14:35:00-07:00",
+   "url": "https://www.kgw.com/article/news/community/portland-black-girls-book-club-cesar-chavez-school/283-82162bc3-87eb-46ce-b8c6-8992f8b2cd0e",
+   "title": "Black Girls Book Club at North Portland school empowers with connections and confidence",
+   "summary": "by Christine Pitawanich"
+  },
+  {
+   "date": "2025-02-28T14:34:00-08:00",
+   "url": "https://www.oregonlive.com/education/2025/02/youth-voices-ida-b-wells-high-school-gets-a-visit-from-its-namesakes-great-granddaughter.html",
+   "title": "Youth Voices: Ida B. Wells High School gets a visit from its namesake\u2019s great-granddaughter",
+   "summary": "by Shara Coltoff"
+  },
+  {
+   "date": "2025-02-26T14:33:00-08:00",
+   "url": "https://katu.com/news/local/jefferson-high-school-portland-dancers-hit-the-national-stage-at-pittsburgh-dance-festival-performing-arts-arc-pdx",
+   "title": "Jefferson Dancers hit the national stage at Pittsburgh dance festival",
+   "summary": "by Deb Knapp"
+  },
+  {
+   "date": "2025-01-13T14:33:00-08:00",
+   "url": "https://www.oregonlive.com/highschoolsports/2025/01/with-a-new-coach-and-several-new-players-bensons-youthful-program-is-ahead-of-schedule.html",
+   "title": "With a new coach and several new players, Benson\u2019s youthful program is ahead of schedule",
+   "summary": "by Shane Hoffmann | For The Oregonian/OregonLive"
+  },
+  {
+   "date": "2025-01-13T14:32:00-08:00",
+   "url": "https://www.oregonlive.com/trending/2025/01/justin-timberlake-joins-portland-bike-bus-as-special-guest.html",
+   "title": "Justin Timberlake joins Portland Bike Bus as special guest",
+   "summary": "by Destiny Johnson | The Oregonian/OregonLive"
+  },
+  {
+   "date": "2025-01-13T14:31:00-08:00",
+   "url": "https://www.kgw.com/article/entertainment/pop-star-justin-timberlake-portland-students-bike-bus-social-media-campaign/283-ea17a860-fa03-439e-b856-d5821f8f17b0",
+   "title": "Justin Timberlake joins Portland kids on 'bike bus' ride after viral invitation",
+   "summary": "by Sabinna Pierre, Jared Cowley (KGW)"
+  },
+  {
+   "date": "2025-01-13T14:22:00-08:00",
+   "url": "https://www.kptv.com/2025/01/13/justin-timberlake-joins-kids-portland-bike-bus/",
+   "title": "Justin Timberlake joins kids on Portland Bike Bus",
+   "summary": "by FOX 12 Staff"
+  }
+ ]
+}
