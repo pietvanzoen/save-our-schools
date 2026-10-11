@@ -1,62 +1,93 @@
-# 2026-03-05 Board of Education Audit Committee
+# Audit Committee, 2026-03-05: Hardship transfer and contracts audit follow-ups; audit office budget; audit plan
 
-- **Date:** Thursday, March 5, 2026, 5:03–6:16 pm, Dr. Matthew Prophet Education Center [BB:3998073 p.1–2]
-- **BoardBook meeting:** 735121, https://meetings.boardbook.org/Public/Agenda/915?meeting=735121 [MTG:2026-03-05/735121]
-- **Minutes:** informal minutes, `sources/boardbook/meetings/2026-03-05_735121_audit-committee-meeting/minutes_3998073.pdf.txt` [BB:3998073]
-- **Video:** https://www.youtube.com/watch?v=ppbt9KnsTbk (duration 1:17:22)
-- **Caption caveat:** the only archived caption track is a **machine translation into Arabic** (`caption_kind: asr`, `caption_lang: ar`). The English wording is not available, so **no verbatim quotes were extracted** for this meeting. The notes below are my English paraphrases of the Arabic captions plus the minutes. Timestamps are reliable; wording is not.
-- **Attendees (minutes):**
-  - Committee: Committee Chair Patte Sullivan; Directors Stephanie Engelsman and Christy Splitt (Splitt virtual, home sick); community member Caroline Zavitkovski. Absent: Jennifer Samuels, DSC rep Eben Cole.
-  - Staff: Dr. Renard Adams; Judy Brennan (Director, Enrollment & Transfer); Andrea Schiers (Senior Legal Counsel); CFO Michelle Morrison; Janise Hansen (Internal Performance Auditor); Rosanne Powell; Kara Bradshaw [BB:3998073 p.1]. The captions also note **Margaret Calvert** present with Brennan for the transfer item [YT:ppbt9KnsTbk@0:06:56].
-- **Quotes:** none (see caveat). Noted in `analysis/people/quotes/batch05_notes.md`.
+- **Date:** Thursday, March 5, 2026, 5:00 pm
+- **BoardBook:** meeting 735121, https://meetings.boardbook.org/Public/Agenda/915?meeting=735121 [MTG:2026-03-05/735121]
+- **Video:** https://www.youtube.com/watch?v=ppbt9KnsTbk (about 1:17:22)
+- **Transcript:** English auto-captions, re-fetched 2026-10-11. This file replaces an earlier version based on Arabic machine-translated captions.
+- **Attendees** [BB:3998073 p.1] [YT:ppbt9KnsTbk@0:05:04] [YT:ppbt9KnsTbk@0:06:21]:
+  - Committee chair Patte Sullivan
+  - Stephanie Engelsman
+  - Christy Splitt (virtual; home sick)
+  - Community member Caroline Zavitkovski
+  - Absent: community member Jennifer Samuels and student representative Eben Cole
+  - Staff:
+    - Internal Auditor Janise Hansen
+    - Judy Brennan, Director of Enrollment and Transfer
+    - Margaret Calvert (present for the transfer item)
+    - Senior Legal Counsel Andrea Shears
+    - CFO Michelle Morrison
+    - Chief Accountability and Equity Officer Dr. Renard Adams
+    - Kara Bradshaw, board clerk
+    - Rosanne Powell
+- **Attachments** [BB:3997005] [BB:3997007] [BB:3997010] [BB:3997011] [BB:3997013] [BB:3997014]:
+  - Hardship Petition Transfer Audit implementation plan
+  - RESJ partner services evaluation framework
+  - OIPA budget benchmarking and FY2027 budget request
+  - Status of approved audits
+  - 2025-26 work plan
+- **Minutes:** informal minutes [BB:3998073]
 
 ## Summary
-
-- **Hardship petition transfer audit (2023) follow-up:** 3 of 5 recommendations are implemented. Two remain open [YT:ppbt9KnsTbk@0:07:43] [BB:3998073 p.1]:
-  - **#3, internal controls so that available space is determined from a standard set of criteria.** Analysis: this is a capacity-determination control relevant to rightsizing.
-  - **#5, data quality and feedback to neighborhood schools** on transfer impacts.
-- **Enrollment & Transfer data (Brennan, paraphrased from captions):**
-  - About **7,000 transfer requests a year** (lottery plus hardship) [YT:ppbt9KnsTbk@0:16:57].
-  - About **1,350 hardship requests** in this year's data set [YT:ppbt9KnsTbk@0:14:53].
-  - About **15%** of students offered hardship transfers this year declined and did not enroll [YT:ppbt9KnsTbk@0:12:02].
-  - "Return to neighborhood school" is one of the largest transfer-reason categories [YT:ppbt9KnsTbk@0:14:11].
-  - School-level transfer reports for principals are about 95% built and targeted for spring break [YT:ppbt9KnsTbk@0:11:19] [YT:ppbt9KnsTbk@0:21:09].
-- **Lottery demand (paraphrased):** most lottery schools have high demand and long waitlists, with exceptions. Two schools have very small kindergarten classes. Dual-language immersion programs face attrition, and later-grade seats cannot always be backfilled as families leave the district [YT:ppbt9KnsTbk@0:19:04] [YT:ppbt9KnsTbk@0:19:46]. Analysis: this is staff testimony that enrollment decline is thinning some focus and immersion programs.
-- **Contracts audit follow-up (RESJ partner services):** Adams presented a proposed evaluation framework for partner contracts. Most components are complete [YT:ppbt9KnsTbk@0:27:34] [BB:3998073 p.2] [BB:3997007].
-- **Office of Internal Performance Audit FY2027 budget:** the committee supported including the request in the budget process. Members noted the budget crisis and travel freeze [YT:ppbt9KnsTbk@0:44:33] [YT:ppbt9KnsTbk@0:57:59] [BB:3998073 p.2].
-- **Audit plan:** three candidate topics (teacher absence and substitute protocols, student performance metrics, principal support systems); two will be chosen in the fall. The CTE audit scope needs updating [YT:ppbt9KnsTbk@1:07:08].
-- **Bond audit follow-up:** outstanding bond performance-audit recommendations were referred to the Facilities (FIO) committee. **"Director La Forte, chair of the facilities committee"** will report at the May 7 Audit meeting [YT:ppbt9KnsTbk@1:13:29] [YT:ppbt9KnsTbk@1:14:11]. This confirms La Forte as FIO chair in 2025-26 and supports the attributions in `2026-02-10_s2BtyvEqG-o.md`.
+- **Hardship petition transfer audit (2023).** Three of five recommendations are implemented [YT:ppbt9KnsTbk@0:07:47]. Two remain open:
+  - #3: standard criteria for determining available space.
+  - #5: better transfer data, including feedback to neighborhood schools on transfers in and out. Brennan hopes to deliver school-level reports by spring break, after a 3-year rollout of the Synergy lottery module; PPS was the first large district to use it [YT:ppbt9KnsTbk@0:11:06] [YT:ppbt9KnsTbk@0:21:41].
+- **Transfer data** (Brennan):
+  - About 1,350 hardship transfer requests by student so far this year (partial) [YT:ppbt9KnsTbk@0:15:10].
+  - 15% of students offered hardship transfers declined them [YT:ppbt9KnsTbk@0:12:48].
+  - "nearly 7,000 transfer requests per year" across lottery and hardship [YT:ppbt9KnsTbk@0:17:02].
+  - "Return to neighborhood" is among the largest transfer-reason categories [YT:ppbt9KnsTbk@0:14:37].
+  - There is no post-transfer follow-up because capacity is limited [YT:ppbt9KnsTbk@0:16:28].
+- **Lottery and DLI enrollment.**
+  - Most lottery schools are heavily oversubscribed, but "a couple of schools" have "really small kindergartens".
+  - DLI classes shrink in upper grades because PPS cannot find enough students "to replace the students who leave the district" [YT:ppbt9KnsTbk@0:19:28] [YT:ppbt9KnsTbk@0:20:12]. Link: https://www.youtube.com/watch?v=ppbt9KnsTbk&t=1212s.
+- **Contracts audit (2020 request; RESJ partner contracts).**
+  - Sullivan framed the outstanding items as performance evaluation before renewal [YT:ppbt9KnsTbk@0:27:22].
+  - Adams proposed a common impact framework for each strategy (for example, belonging and family advocacy). Measures are to be given to partners at the start of 2026-27, with baseline data in the fall and end-of-year data in April or May. A confidential principal-rating tool is also used [YT:ppbt9KnsTbk@0:32:26] [YT:ppbt9KnsTbk@0:35:52] [YT:ppbt9KnsTbk@0:37:08].
+  - Hansen said the committee cannot pre-approve the framework under audit standards [YT:ppbt9KnsTbk@0:40:12].
+- **Office of Internal Performance Audit FY2027 budget.**
+  - Benchmarks from the Council of Great City Schools place PPS slightly below average [YT:ppbt9KnsTbk@0:45:36].
+  - The request restores Council of Great City Schools conference training, skipped this year because of a "spending freeze" [YT:ppbt9KnsTbk@0:48:38].
+  - Morrison cautioned that committee endorsement is not "an automatic", given "significant budget challenges the current year and in the upcoming year". The budget goes to the board April 28 [YT:ppbt9KnsTbk@0:51:02].
+  - The committee informally endorsed the request [YT:ppbt9KnsTbk@1:02:00].
+- **Audit plan** [YT:ppbt9KnsTbk@1:04:15]:
+  - The Measure 98 audit report is expected in June.
+  - The building security audit is in early planning, with student input.
+  - The CTE audit is being rescoped; the new scope is expected in September.
+  - Three candidate topics (teacher absences and sub protocols, student performance measures, principal support) come back in the fall.
+- **Bond audit follow-up.** Outstanding bond audit recommendations were referred to FIO. Its chair, La Forte, will report at the May 7 audit meeting [YT:ppbt9KnsTbk@1:13:33].
 
 ## Decisions & votes
+- **Informal committee endorsement** of the OIPA 2026-27 budget request, for inclusion in the budget process [YT:ppbt9KnsTbk@1:02:00] [YT:ppbt9KnsTbk@1:02:56].
+  - Sullivan polled members one by one; Engelsman, Zavitkovski and Splitt said yes.
+  - The minutes record "general support" [BB:3998073 p.2].
+- **May 7 meeting** to run two hours, start time to be confirmed (probably 4:30) [YT:ppbt9KnsTbk@1:11:20].
 
-- None formal. The committee informally supported the OIPA budget request and moved the next meeting (May 7) to a two-hour slot [BB:3998073 p.2] [YT:ppbt9KnsTbk@1:16:59].
+## Rightsizing / closures segment notes
+- Not on the agenda. **Analysis:** two data points feed rightsizing:
+  - DLI upper-grade attrition and small kindergartens at some lottery schools support later staff arguments for consolidating DLI [YT:ppbt9KnsTbk@0:19:28].
+  - Transfer volume (about 7,000 requests a year, with "return to neighborhood" a major reason) shows how much enrollment moves between schools independent of boundaries [YT:ppbt9KnsTbk@0:14:37] [YT:ppbt9KnsTbk@0:17:02].
 
-## Rightsizing / closures
+## Bond / seismic / facilities notes
+- Bond audit recommendation follow-up was referred to FIO, with a check-in planned for May 7 [YT:ppbt9KnsTbk@1:13:52].
 
-- Not discussed directly. Relevant context: the pending capacity-criteria control (#3) and the lottery/DLI attrition comments above.
-
-## Bond / seismic / facilities
-
-- Bond audit recommendations are routed to FIO (La Forte) for May 7 [YT:ppbt9KnsTbk@1:14:11].
-
-## Budget & enrollment
-
-- Transfer volume about 7,000 a year. Small kindergarten cohorts at two lottery schools. DLI attrition [YT:ppbt9KnsTbk@0:16:57] [YT:ppbt9KnsTbk@0:19:46].
+## Budget & enrollment notes
+- Morrison: "significant budget challenges" this year and next. Spending and travel freezes are in place [YT:ppbt9KnsTbk@0:51:02] [YT:ppbt9KnsTbk@0:58:05].
+- Splitt asked how the board's own budget is developed. Sullivan said she did not "have a clue" about it either [YT:ppbt9KnsTbk@0:52:16] [YT:ppbt9KnsTbk@0:53:00].
 
 ## Public comment themes
-
-- 1 speaker (Lisa Jackson, community advocate and former Southeast Guiding Coalition member): staff wellbeing and appreciation for Dr. Adams [BB:3998073 p.1] [YT:ppbt9KnsTbk@0:01:24].
+- One commenter, a Native community advocate who had served on SEGC, offered mental-health support for staff and board and thanked Dr. Adams [YT:ppbt9KnsTbk@0:01:59].
 
 ## Notable quotes
-
-- None extracted (Arabic machine-translated captions only).
+See `analysis/people/quotes/batch10_redo.jsonl` (video_id `ppbt9KnsTbk`, 8 quotes). Highlights:
+- Brennan (high): "even in Spanish programs, we don't always find enough students at say fourth grade or fifth grade to replace the students who leave the district." [YT:ppbt9KnsTbk@0:20:12]
+- Morrison (high): "as we're looking at some significant budget challenges the current year and in the upcoming year." [YT:ppbt9KnsTbk@0:51:13]
 
 ## Topics index
-
-- 0:00:01–0:01:24 Call to order, agenda (Sullivan)
-- 0:01:24–0:05:20 Public comment (Lisa Jackson); introductions 0:05:20–0:06:14
-- 0:06:14–0:27:34 Hardship Petition Transfer Audit implementation (Hansen, Brennan; Calvert present)
-- 0:27:34–about 0:44:33 Contracts audit implementation / RESJ partner evaluation framework (Morrison, Adams)
-- 0:44:33–about 1:03:35 OIPA FY2027 budget request (Hansen, Morrison)
-- 1:03:35–1:10:41 Status of approved audits and proposed audit plan
-- 1:10:41–1:17:22 Work plan, May 7 meeting, adjourn
+- 0:00:02–0:01:38 Call to order
+- 0:01:38–0:04:37 Public comment
+- 0:05:04–0:06:34 Introductions
+- 0:06:45–0:27:18 Hardship petition transfer audit follow-up (Hansen, Brennan)
+- 0:27:22–0:44:35 Contracts audit follow-up (Sullivan, Morrison, Adams)
+- 0:44:48–1:03:00 OIPA budget request and endorsement
+- 1:03:22–1:10:24 Status of approved audits and proposed topics
+- 1:10:24–1:17:20 Work plan and May 7 agenda (bond audit follow-up); adjourn
