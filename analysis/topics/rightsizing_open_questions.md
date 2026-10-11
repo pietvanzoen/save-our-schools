@@ -179,7 +179,7 @@ Companion files: `rightsizing.md`, `rightsizing_criteria_and_principles.md`, `..
 ## E. Documents missing from the archive / unreadable
 
 30. **Missing documents:**
-    - **Minutes.** Minutes adopted after April 14 (for April 28, May 12, May 26, July 7, August 4, September 1 and September 15, per Res. 7328/7349/7362/7370/7384) are not attached as text in the archive. Only the adopting resolutions are present [BB:14493475 p.1] [BB:14331642 p.1]. The May 26 `minutes.md` is a stub [MTG:2026-05-26/746944]. The 7307 vote tally is therefore unknown.
+    - **Minutes.** Minutes for April 28, May 12, May 26, June 9, June 23, July 7 and August 4, 2026 ARE in the archive as `minutes_<id>.pdf.txt` / `.pdf.ocr.txt` in each meeting folder (e.g. [BB:3998080] May 26; [BB:3998082] June 23; [BB:14305225] July 7; [BB:14440686] August 4); several have empty or garbled text layers and only the OCR file is readable. They record Res. 7307 passing 7-0 [BB:3998080 p.3]. Minutes for September 1 and September 15 are still not in the archive (only the adopting resolutions [BB:14493475 p.1] [BB:14331642 p.1]). (Corrected by verifier 2026-10-11.)
     - **Final adopted Res. 7296:** not in the archive.
     - **Enrollment Advisory Committee:** its membership and meeting record are not in the archive. It is shown in governance [BB:3997425 p.13] and met September 17 [BB:14357211 p.13].
     - **Engelsman drafts:** the draft "Rightsizing Resolution (Engelsman)" [BB:14383792 p.1] and the span-of-control draft [BB:14427961 p.1] were discussion items on September 15. No later version or vote is in the archive.

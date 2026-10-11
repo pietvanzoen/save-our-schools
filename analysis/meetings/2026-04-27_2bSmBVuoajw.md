@@ -20,7 +20,7 @@
   - the goal of consistently "well-resourced" schools, so that "Schools shouldn't have to be fighting for resources over and over again" [YT:2bSmBVuoajw@0:09:13] [YT:2bSmBVuoajw@0:10:42].
 - Board members each introduced themselves with a framing:
   - Splitt: not "school-by-school" decisions yet [YT:2bSmBVuoajw@0:13:59].
-  - Engelsman: "great schools, not less of what we have now" [YT:2bSmBVuoajw@0:16:00].
+  - Engelsman: relayed a parent's comment from the Benson session, "great schools, not less of what we have now" [YT:2bSmBVuoajw@0:16:00].
   - DePass: "articulate a future state" [YT:2bSmBVuoajw@0:17:55].
   - Chase-Miller: North Portland students must not be "further marginalized" [YT:2bSmBVuoajw@0:19:46].
 - **Academics lab (Glasgow).** An academics and activities work group is defining a "well-rounded" school for each grade band [YT:2bSmBVuoajw@0:23:03]. Participants stressed:

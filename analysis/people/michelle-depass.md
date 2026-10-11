@@ -34,7 +34,7 @@ Evidence base: 106 transcript quotes in `quotes_all.jsonl` (62 high, 43 medium, 
 
 ### Enrollment / boundaries
 - 2025: protected Jefferson's capacity, arguing against sizing on current enrollment "because if we do then again Jefferson suffers" [YT:zxaXALjzumk@2:12:18](https://www.youtube.com/watch?v=zxaXALjzumk&t=7938s); "Jefferson has been disinvested in for decades" [YT:XENAU3DUf5g@1:15:21](https://www.youtube.com/watch?v=XENAU3DUf5g&t=4521s).
-- Voted for both Jefferson resolutions (7228, 7229) [BB:3998053 p.3]. Expected "boundaries in Northeast" to be part of the seismic/rightsizing picture [YT:HGAs0lyZ6kw@4:12:12](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15132s).
+- Voted for both Jefferson resolutions (7228, 7229) [BB:3998053 p.3–4]. Expected "boundaries in Northeast" to be part of the seismic/rightsizing picture [YT:HGAs0lyZ6kw@4:12:12](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15132s).
 
 ### Focus options, dual language, K-8
 - Open to neighborhood/focus combinations [YT:j9PzUvPpSVA@4:41:01](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16861s); wants neighborhood schools centered but not "the first ones plucked off" [YT:OLAZDzvg3RM@4:37:34](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16654s) *(medium)*. No recorded position on K-8 vs. middle school.
@@ -74,7 +74,7 @@ Analysis: DePass has moved from a Jefferson-capacity defender (2025) to the boar
 | 2025-12-02 | Res. 7216: Procedeo bond program management contract | Passed 5–2 | **Yes** | [BB:3998035 p.4] [YT:F_TBjQYZTA8@2:35:16] |
 | 2025-12-02 | Res. 7215: acquire One North for the Center for Black Student Excellence (2020 bond) | Passed 7–0 | **Yes** | [BB:3998035 p.4–5] [YT:F_TBjQYZTA8@3:43:04] |
 | 2026-01-13 | Res. 7228: end Jefferson dual assignment; designate Jefferson a comprehensive high school | Passed 7–0 | **Yes** | [BB:3998053 p.3] [YT:BJMsF-90V6U@1:08:11] |
-| 2026-01-13 | Res. 7229: Jefferson-area attendance boundaries (Scenario C) | Passed 6–1 | **Yes** | [BB:3998053 p.3] [YT:BJMsF-90V6U@2:12:05] |
+| 2026-01-13 | Res. 7229: Jefferson-area attendance boundaries (Scenario C) | Passed 6–1 | **Yes** | [BB:3998053 p.4] [YT:BJMsF-90V6U@2:12:05] |
 | 2026-01-27 | Res. 7241 consent agenda incl. Vernon/Winterhaven seismic design contract (objections that seismic picks pre-decide closures) | Passed 7–0 | **Yes** | [BB:3998052 p.3] [YT:-NpJZaLR81U@2:02:58] |
 | 2026-04-14 | La Forte amendment to Res. 7296: add guardrails A–F (criteria first, equity analysis, engagement plan, timeline, financial transparency, policy alignment) | Failed 3–4 (minutes text says "passed 4-3" but its roll call and the video show 3–4) | **No** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:13:13] |
 | 2026-04-14 | Res. 7296 Recital E: change "will include school and program closures" to "may" | Failed 2–5 | **No** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:15:53] |

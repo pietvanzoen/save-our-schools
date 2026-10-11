@@ -126,9 +126,10 @@ Companion to `analysis/topics/budget_and_enrollment.md`. As of 2026-10-10. Citat
    [BB:14493920 p.3, p.15] that is not archived.
 5. **Where families went after past consolidations** (Marshall, Edwards, Bridger/Creative Science). PPS said it
    "would take significant effort" [BB:14493920 p.9].
-6. **Minutes for the 2026-27 budget votes** (May 26 and June 23, 2026) and the April 28 / May 12–13 budget
-   sessions are not in the archive. Vote tallies and the fate of the Engelsman ($13.12M school staffing), travel,
-   OIPA and AI-pause amendments are unknown [BB:3992230 p.1] [BB:3991431 p.1] [BB:3991747 p.1] [BB:3992122 p.1].
+6. **Minutes for the 2026-27 budget votes** (May 26 and June 23, 2026) are in the archive (OCR text layers):
+   Res 7308 passed 7-0 [BB:3998080 p.4]; Res 7326 passed 6-0-1 (Engelsman abstained) [BB:3998082 p.4]; travel
+   (7339) passed 7-0 [BB:3998082 p.4]; OIPA (7340) failed 3-4; AI pause (7341) passed 7-0; Engelsman's $13.12M
+   staffing amendment (7342) failed 1-6 [BB:3998082 p.5]. (Corrected by verifier 2026-10-11; the question is closed.)
 7. **Final FY26 (2025-26) General Fund results** (June 2026 report / FY26 ACFR) are not yet available. Staff said
    the result "will be very close" to 5% [BB:14493920 p.17].
 8. **2027-28 deficit detail.** The -$65.2M "reset" is a chart with an "illustrative" baseline [BB:3997181 p.50].

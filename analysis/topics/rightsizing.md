@@ -122,7 +122,7 @@ Conventions: "PPS states" = what a PPS document says; "minutes record" = adopted
 | 2026-04-14 | Res. 7296 adopted as amended, 5-2 (Engelsman, La Forte no) | [BB:3997322 p.3] [BB:3997322 p.4] |
 | 2026-04-28 | Board reflections on engagement (no attachment) | [MTG:2026-04-28/742316] |
 | 2026-05-12 | Draft guiding principles discussed | [BB:3997246 p.1] |
-| 2026-05-26 | Res. 7307 (guiding principles and workplan) on agenda for vote; adoption stated by later PPS memo | [BB:3997273 p.1] [BB:14509719 p.1] |
+| 2026-05-26 | Res. 7307 (guiding principles and workplan) adopted 7-0 | [BB:3997273 p.1] [BB:3998080 p.3] [BB:14509719 p.1] |
 | 2026-06-10 / 06-29 | Green & Hanson SEGC equity audit and school-by-school analysis submitted | [BB:3997427 p.1] [BB:3997428 p.3] |
 | 2026-06-11 | TLE: alternative & focus school overview | [BB:3997345 p.6] |
 | 2026-08-04 | Board: equity audit lessons; enrollment projections; project governance | [BB:3997426 p.1] [BB:3997425 p.13] |
@@ -176,7 +176,7 @@ How the schedule moved:
 - 7307 adopts four Guiding Principles (Well-Resourced Schools; Safe and Healthy Learning Environments; Educational Options; PPS Equity Lens) and a workplan (Approach & Analysis, Community Engagement, Implementation Plan) [BB:3997273 p.2] [BB:3997273 p.3].
 - It requires that "Each proposed scenario shall include a standardized equity impact analysis" [BB:3997273 p.2] and that "Staff will present the proposed implementation plan to the Board for final approval" [BB:3997273 p.3].
 - Recital C changed from "at least the next five years" (7296) to "at least the next nine years" [BB:3997273 p.1].
-- The October 5 memo states the Board "adopted four guiding principles and an overview of a workplan through Resolution 7307 on May 26, 2026" [BB:14509719 p.1]. The vote tally is not in the archive.
+- The October 5 memo states the Board "adopted four guiding principles and an overview of a workplan through Resolution 7307 on May 26, 2026" [BB:14509719 p.1]. The May 26 minutes record that 7307 passed 7-0 [BB:3998080 p.3] (text layer is in the OCR file).
 - Details and drafts are in `rightsizing_criteria_and_principles.md`.
 
 ### 3.4 Engagement
@@ -416,7 +416,7 @@ Source for figures: [BB:3997157 p.1]. Sellwood's utilization was cut off at the 
 | Sep 1 | "Magnitude" scenarios: 5/10/15 K-5 closures to reach 13/22/30 schools above 360; 1/2/3 MS closures to reach 3/4/8 above 500 | [BB:14357211 p.11] [BB:14357211 p.12] |
 | Sep 15 | KPI framework; scenario engagement moved from Summer to Fall | [BB:14430171 p.9] [BB:14430171 p.14] |
 | Oct 5 | Actual proposals: 14 (A) and 11 (B) closures, not the 5–15 K-5 and 1–3 MS range shown Sept 1. A closes 13 K-5 plus 1 MS; B closes 10 K-5 plus 1 MS | [BB:14505788 p.2] |
-| Oct 5 | MLC 9–12 closure (announced Feb 2026) now folded into both scenarios as "not counted as a school closure" | [BB:14505788 p.2] [BB:3996961 p.2] |
+| Oct 5 | MLC 9–12 closure (announced Feb 2026) now folded into both scenarios as "not counted as a school closure". News reported that PPS reversed the February closure plan around Feb 27, 2026 [NEWS:NEWS-20260227-wweek-1]; no BoardBook record of that reversal is in the archive | [BB:14505788 p.2] [BB:3996961 p.2] |
 
 **Analysis:** Scenario A's 13 K-5 closures sit between the 10- and 15-closure "magnitude" bars of September 1, and its single middle school closure (Sellwood) matches the "1 closure" bar [BB:14357211 p.11] [BB:14357211 p.12]. K-8 → K-5 conversions add middle-grades students to the remaining middle schools on top of that.
 
@@ -478,7 +478,7 @@ Source for figures: [BB:3997157 p.1]. Sellwood's utilization was cut off at the 
 
 ## 7. Board positions visible in the documents (votes and drafts only)
 - **April 14, 2026 (Res. 7296).** Engelsman and La Forte voted no on final adoption. Engelsman and Sullivan supported changing "will" to "may", which lost 2-5 [BB:3997322 p.3] [BB:3997322 p.4].
-- **June 23, 2026.** An Engelsman budget amendment directed reinstating "$13,120,000 for staffing in schools in student facing positions" [BB:3992230 p.1]. Its outcome is not in the archive.
+- **June 23, 2026.** An Engelsman budget amendment directed reinstating "$13,120,000 for staffing in schools in student facing positions" [BB:3992230 p.1]. The minutes record that it (Res. 7342) failed 1-6, with only Engelsman voting yes [BB:3998082 p.5].
 - **September 15, 2026.** A draft "Rightsizing Resolution (Engelsman)" lists nine alternative cost actions [BB:14383792 p.1]:
   - review prior set-aside resolutions;
   - a span-of-control assessment;

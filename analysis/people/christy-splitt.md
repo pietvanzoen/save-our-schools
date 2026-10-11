@@ -1,6 +1,6 @@
 # Christy Splitt — Zone 1 (SW Portland)
 
-Evidence base: 157 transcript quotes in `quotes_all.jsonl` (119 high, 34 medium, 4 low confidence; 2025-01-13 to 2026-10-06). Low-confidence quotes are excluded.
+Evidence base: 157 transcript quotes in `quotes_all.jsonl` (116 high, 37 medium, 4 low confidence; 2025-01-13 to 2026-10-06). Low-confidence quotes are excluded.
 
 ## Roles, tenure, committees
 
@@ -16,7 +16,7 @@ Evidence base: 157 transcript quotes in `quotes_all.jsonl` (119 high, 34 medium,
 - **Her criteria (most specific author on the board):** "consolidation over closure" [YT:SPc05NM0oYs@1:25:38](https://www.youtube.com/watch?v=SPc05NM0oYs&t=5138s); minimize fragmentation of closed-school communities [YT:OLAZDzvg3RM@4:18:58](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=15538s); compact boundaries [YT:OLAZDzvg3RM@4:20:23](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=15623s); retire the worst buildings ("let's have the best buildings left") [YT:uAf7l-ChjFo@4:14:47](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15287s); per-student cost [YT:SPc05NM0oYs@1:26:45](https://www.youtube.com/watch?v=SPc05NM0oYs&t=5205s); a resource "floor" for every school [YT:j9PzUvPpSVA@4:19:13](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=15553s).
 - **Equity concern about thresholds:** "the Dunaways and Alamas get protected just because they're big" [YT:5RMfvT-sAPU@2:04:44](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7484s) *(medium)*.
 - **Red line (Oct 2026):** "I will not vote for any package that includes any schools that are not on [slate]" [YT:zOUH2Jq7Owo@3:40:27](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13227s) *(medium-confidence attribution)*
-- **Conditional vote threat in May:** "I might vote no on the resolution at this point" without fragmentation and compact-boundary language [YT:OLAZDzvg3RM@4:51:42](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17502s); she then voted yes on Res. 7307 (7–0) [BB:3998080 p.3].
+- **Conditional vote threat in May:** "I might vote no on the resolution at this point" without fragmentation and compact-boundary language [YT:OLAZDzvg3RM@4:51:42](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17502s) *(medium)*; she then voted yes on Res. 7307 (7–0) [BB:3998080 p.3].
 - She co-sponsored Res. 7296, proposed the three-resolution sequence [YT:qiCQKmMdLr4@3:19:52](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11992s), moved the "will include ... closures, consolidations, or boundary changes" wording [BB:3998077 p.4], and voted no on the guardrail amendment.
 
 ### Bond / seismic
@@ -35,11 +35,11 @@ Evidence base: 157 transcript quotes in `quotes_all.jsonl` (119 high, 34 medium,
 - West-side lens: "it's kind of my job to think about the west side" [YT:gVtn7AYmhUU@0:50:57](https://www.youtube.com/watch?v=gVtn7AYmhUU&t=3057s); skeptical of forecasts ("all models are wrong some are useful") [YT:S-pk57P6f_o@0:42:22](https://www.youtube.com/watch?v=S-pk57P6f_o&t=2542s).
 
 ### Focus options, dual language, K-8
-- Include focus options "for closure as well" [YT:qiCQKmMdLr4@3:23:20](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12200s), especially where one "less than a mile away" draws from a neighborhood school [YT:SPc05NM0oYs@1:04:42](https://www.youtube.com/watch?v=SPc05NM0oYs&t=3882s); make them "more equitable" [YT:j9PzUvPpSVA@4:59:36](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17976s); open to neighborhood-plus-focus hybrids [YT:2bSmBVuoajw@1:16:20](https://www.youtube.com/watch?v=2bSmBVuoajw&t=4580s) *(medium)*.
+- Include focus options "for closure as well" [YT:qiCQKmMdLr4@3:23:20](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12200s), especially where one "less than a mile away" draws from a neighborhood school [YT:SPc05NM0oYs@1:04:42](https://www.youtube.com/watch?v=SPc05NM0oYs&t=3882s); make them "more equitable" [YT:j9PzUvPpSVA@4:59:36](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17976s) *(medium)*; open to neighborhood-plus-focus hybrids [YT:2bSmBVuoajw@1:16:20](https://www.youtube.com/watch?v=2bSmBVuoajw&t=4580s) *(medium)*.
 - Reported K-8 communities "wishing that they were not K8s" (2025) [YT:WPbTg28GB_o@0:28:18](https://www.youtube.com/watch?v=WPbTg28GB_o&t=1698s).
 
 ### Process / engagement
-- Notify affected schools before public announcement, with transition plans [YT:qiCQKmMdLr4@3:24:04](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12244s); engage educators "before the scenarios come out" [YT:uAf7l-ChjFo@4:11:55](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15115s); principles must reflect what engagement ranked first [YT:OLAZDzvg3RM@4:52:28](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17548s).
+- Notify affected schools before public announcement, with transition plans [YT:qiCQKmMdLr4@3:24:04](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=12244s); engage educators "before the scenarios come out" [YT:uAf7l-ChjFo@4:11:55](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15115s); principles must reflect what engagement ranked first [YT:OLAZDzvg3RM@4:52:28](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17548s) *(medium)*.
 - Against favoritism: "I'm not planning on in any way prioritizing one school over another" [YT:iY4k1Q8Y_yI@4:42:21](https://www.youtube.com/watch?v=iY4k1Q8Y_yI&t=16941s).
 
 ## How her thinking changed over time
@@ -70,7 +70,7 @@ Analysis: Splitt's general support for consolidation is constant from June 2025.
 | 2025-12-02 | Res. 7216: Procedeo bond program management contract | Passed 5–2 | **Yes** | [BB:3998035 p.4] [YT:F_TBjQYZTA8@2:35:16] |
 | 2025-12-02 | Res. 7215: acquire One North for the Center for Black Student Excellence (2020 bond) | Passed 7–0 | **Yes** | [BB:3998035 p.4–5] [YT:F_TBjQYZTA8@3:43:04] |
 | 2026-01-13 | Res. 7228: end Jefferson dual assignment; designate Jefferson a comprehensive high school | Passed 7–0 | **Yes** | [BB:3998053 p.3] [YT:BJMsF-90V6U@1:08:11] |
-| 2026-01-13 | Res. 7229: Jefferson-area attendance boundaries (Scenario C) | Passed 6–1 | **Yes** | [BB:3998053 p.3] [YT:BJMsF-90V6U@2:12:05] |
+| 2026-01-13 | Res. 7229: Jefferson-area attendance boundaries (Scenario C) | Passed 6–1 | **Yes** | [BB:3998053 p.4] [YT:BJMsF-90V6U@2:12:05] |
 | 2026-01-27 | Res. 7241 consent agenda incl. Vernon/Winterhaven seismic design contract (objections that seismic picks pre-decide closures) | Passed 7–0 | **Yes** | [BB:3998052 p.3] [YT:-NpJZaLR81U@2:02:58] |
 | 2026-04-14 | La Forte amendment to Res. 7296: add guardrails A–F (criteria first, equity analysis, engagement plan, timeline, financial transparency, policy alignment) | Failed 3–4 (minutes text says "passed 4-3" but its roll call and the video show 3–4) | **No** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:13:13] |
 | 2026-04-14 | Res. 7296 Recital E: change "will include school and program closures" to "may" | Failed 2–5 | **No** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:15:53] |
@@ -116,7 +116,7 @@ Codes: Y = yes, N = no, A = abstain, X = absent, U = not recorded in the archive
   _Context (from the quote record):_ set a guaranteed baseline for all schools
 - **2026-05-12** — "if we were to close a school and then just break those kids up into the nearest five or six or whatever whatever elementary schools that to me seems more um like harmful to those kids" [YT:OLAZDzvg3RM@4:18:58](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=15538s)  
   _Context (from the quote record):_ minimize fragmentation of school communities
-- **2026-05-12** — "I might vote no on the resolution at this point" [YT:OLAZDzvg3RM@4:51:42](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17502s)  
+- **2026-05-12** — "I might vote no on the resolution at this point" [YT:OLAZDzvg3RM@4:51:42](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=17502s) *(medium)*  
   _Context (from the quote record):_ conditional support for guiding-principles resolution
 - **2026-05-26** — "It's going to have fewer kids have a walkable route to school, but we're doing this so that they can have a full-time librarian." [YT:AAWpafO4vvQ@2:06:57](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=7617s) *(medium-confidence attribution)*  
   _Context (from the quote record):_ supports consolidation trade-offs for well-resourced schools

@@ -97,7 +97,7 @@ marked "Analysis:" are my reading of the conflict.
 1. **FIOC minutes are empty.** Every FIOC `minutes.md` (June 2025 – Sept 2026) is only a link to "Informal Minutes"
    with no content, e.g. [MTG:2025-08-12/703009], [MTG:2026-01-20/727712]. Committee discussion of seismic
    priorities and of consolidation (the stated purpose of Res 7110) cannot be reconstructed without video.
-2. **No vote tallies found for:** Res 7331 (BAC charter amendment, June 23, 2026); Res 7380 (Grice-Adair CMGC
+2. **No vote tallies found for:** Res 7380 (Grice-Adair CMGC
    exemption, Sept 15, 2026; reported approved [BB:14454647 p.12]); Res 7382 (bond audit responses, Sept 29, 2026).
    Draft minutes for those meetings were not in the archive.
 3. **Formal seismic prioritization document.** The Board requested one on Mar 10, 2026 [BB:3990212 p.3]. No

@@ -339,11 +339,13 @@ The adopted-budget deck adds a separate "Cumulative Reductions: Central Office $
 - **Adoption:**
   - Budget Committee approval (Res 7308, May 26, 2026) and adoption (Res 7326, June 23, 2026) were both for
     $2,768,590,878 [BB:3990562 p.1] [BB:3988878 p.1].
-  - Minutes for these meetings are not in the archive, so the votes are unknown [MTG:2026-05-26/746944]
-    [MTG:2026-06-23/751412].
+  - Minutes record Res 7308 passing 7-0 [BB:3998080 p.4] (the minutes label it "7307") and Res 7326 passing
+    6-0-1, with Engelsman abstaining [BB:3998082 p.4].
   - Floor amendments filed for June 23 included Director Engelsman's proposal to "reinstate funding ($13,120,000)
     for staffing in schools in student facing positions" [BB:3992230 p.1], plus travel, OIPA and AI-pause
-    amendments [BB:3991431 p.1] [BB:3991747 p.1] [BB:3992122 p.1]. Their outcomes are not in the archive.
+    amendments [BB:3991431 p.1] [BB:3991747 p.1] [BB:3992122 p.1]. Minutes record their outcomes: travel
+    (Res 7339) passed 7-0 [BB:3998082 p.4]; OIPA funding (Res 7340) failed 3-4; AI pause (Res 7341) passed 7-0;
+    the Engelsman staffing amendment (Res 7342) failed 1-6 [BB:3998082 p.5].
 
 ### 3.4 Reserves (General Fund ending balance, audited, $ thousands)
 

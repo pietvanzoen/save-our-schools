@@ -185,7 +185,7 @@ BB:3990445 p.2].
   Oct 14, 2025 [BB:3989403 p.3, p.86]. FIOC minutes in the archive are placeholders only (no content) — see open questions.
 - **BAC** quarterly reports: #47 (Apr 23, 2025) [BB:3996453], July 23, 2025 [BB:3996656], Oct 29, 2025
   [BB:3996761], Jan 28, 2026 [BB:3996976], Apr 29, 2026 [BB:3997319], #52 July 29, 2026 [BB:14498905]. BAC charter
-  amendment adopted via Res 7331 (June 23, 2026) [BB:3988634 p.1] (vote not in archive minutes).
+  amendment adopted via Res 7331 (June 23, 2026) [BB:3988634 p.1], passed 7-0 [BB:3998082 p.3].
 - **Year 6 performance audit** (Sjoberg Evashenk, June 2025): section heading "2020 Modernization, Technology & CBSE
   were Delayed or Expected Costs to be More than Budgeted" [BB:3996486 p.5]. The auditors judged the pause to cut
   roughly $100M per project unlikely to reach its goals and likely to add delay and cost [BB:3996486 p.5], and found
@@ -203,7 +203,7 @@ BB:3990445 p.2].
   [BB:3996787 p.10]; base compensation "approximately $55,066,000" = 4% of remaining budgets plus incentives
   [BB:3996768 p.2]. Vote **5-2** (Engelsman, La Forte no); motions to postpone (2-5) and to strip incentives/limit to
   1 year (2-5) failed [BB:3996787 p.4]. OSM is referred to as "RISE" in 2026 documents [BB:3997028 p.23].
-- Procedeo claimed $20,839,680 "Total Realized Savings" vs $6.4M fee paid by Sept 2026 [BB:14383796 p.34].
+- Procedeo claimed $20,839,680 "Total Realized Savings" vs $6.4M fee paid by Sept 2026 [BB:14383796 p.34]. At the Sept 15 meeting Franco said the packet slide had a typo and "The number is actually 19,839,680" [YT:uAf7l-ChjFo@1:49:53].
 
 ### 4.3 Finance and bond sales
 - Res 7223 (Dec 2, 2025) authorized sale of up to $343,055,000 remaining 2020 authority and up to $1.83B 2025

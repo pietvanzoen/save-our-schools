@@ -1,6 +1,6 @@
 # Stephanie Engelsman — Zone 6 (SE Portland)
 
-Evidence base: 113 transcript quotes in `quotes_all.jsonl` (92 high, 21 medium, 0 low confidence; 2025-07-22 to 2026-10-06). Low-confidence quotes are excluded.
+Evidence base: 113 transcript quotes in `quotes_all.jsonl` (91 high, 22 medium, 0 low confidence; 2025-07-22 to 2026-10-06). Low-confidence quotes are excluded.
 
 ## Roles, tenure, committees
 
@@ -30,7 +30,7 @@ Evidence base: 113 transcript quotes in `quotes_all.jsonl` (92 high, 21 medium, 
 
 ### Enrollment / boundaries
 - Ties enrollment loss to family dissatisfaction: "the hemorrhaging of students and families leaving our school district" [YT:XKKOGk4XJBo@1:17:32](https://www.youtube.com/watch?v=XKKOGk4XJBo&t=4652s); "we clearly have unhappy families" [YT:XKKOGk4XJBo@1:18:13](https://www.youtube.com/watch?v=XKKOGk4XJBo&t=4693s).
-- Only board member to vote no on Res. 7229 (Jefferson Scenario C) [BB:3998053 p.3]; wanted Jefferson's course portfolio timeline published first [YT:BJMsF-90V6U@1:42:41](https://www.youtube.com/watch?v=BJMsF-90V6U&t=6161s).
+- Only board member to vote no on Res. 7229 (Jefferson Scenario C) [BB:3998053 p.4]; wanted Jefferson's course portfolio timeline published first [YT:BJMsF-90V6U@1:42:41](https://www.youtube.com/watch?v=BJMsF-90V6U&t=6161s).
 - Split feeders: pushed the Creston/Hosford exception (failed 1–4–1) [YT:-qhL23TOZTs@1:54:33](https://www.youtube.com/watch?v=-qhL23TOZTs&t=6873s); highlighted SEGC fifth-graders "taken from their cohort" [YT:AAWpafO4vvQ@2:01:16](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=7276s) *(medium)*.
 
 ### Focus options, dual language, K-8
@@ -47,7 +47,7 @@ Evidence base: 113 transcript quotes in `quotes_all.jsonl` (92 high, 21 medium, 
 
 **Feb–Mar 2026: process objections harden.** On MLC: "if we are having a right sizing conversation and I learned today that we're going to start seeing the initial list sometime in the fall and that we'll be voting on that in December." [YT:3sggkeHNIVk@1:41:38](https://www.youtube.com/watch?v=3sggkeHNIVk&t=6098s) In March she supported doing it "all at once" for transparency [YT:qiCQKmMdLr4@2:55:49](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10549s) while asking for proof that blending schools helps [YT:qiCQKmMdLr4@2:50:01](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10201s).
 
-**Apr–May 2026: guardrails and "great schools, not less".** "we don't actually need a resolution today to start a right-sizing process. We have already started it." [YT:AH3wdS1A3sM@1:41:09](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6069s) "the goal is to end up with great schools, not less of what we have now." [YT:2bSmBVuoajw@0:16:00](https://www.youtube.com/watch?v=2bSmBVuoajw&t=960s)
+**Apr–May 2026: guardrails and "great schools, not less".** "we don't actually need a resolution today to start a right-sizing process. We have already started it." [YT:AH3wdS1A3sM@1:41:09](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6069s) On April 27 she relayed, approvingly, a parent's comment from the Benson listening session: "the goal is to end up with great schools, not less of what we have now." (the words are the parent's, quoted by Engelsman) [YT:2bSmBVuoajw@0:16:00](https://www.youtube.com/watch?v=2bSmBVuoajw&t=960s) *(medium)*
 
 **Sept 2026: alarm at scale.** "the conversation took a sharp turn last week from closing five to eight schools to closing 20 schools." [YT:5RMfvT-sAPU@3:27:55](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=12475s) "even with potentially closing 20 schools, that we're not going to have well resourced everywhere and right-sized everywhere" [YT:uAf7l-ChjFo@3:38:02](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13082s)
 
@@ -65,7 +65,7 @@ Analysis: Engelsman has never endorsed a magnitude. Her stance hardened from dat
 | 2025-12-02 | Res. 7216: Procedeo bond program management contract | Passed 5–2 | **No** | [BB:3998035 p.4] [YT:F_TBjQYZTA8@2:35:16] |
 | 2025-12-02 | Res. 7215: acquire One North for the Center for Black Student Excellence (2020 bond) | Passed 7–0 | **Yes** | [BB:3998035 p.4–5] [YT:F_TBjQYZTA8@3:43:04] |
 | 2026-01-13 | Res. 7228: end Jefferson dual assignment; designate Jefferson a comprehensive high school | Passed 7–0 | **Yes** | [BB:3998053 p.3] [YT:BJMsF-90V6U@1:08:11] |
-| 2026-01-13 | Res. 7229: Jefferson-area attendance boundaries (Scenario C) | Passed 6–1 | **No** | [BB:3998053 p.3] [YT:BJMsF-90V6U@2:12:05] |
+| 2026-01-13 | Res. 7229: Jefferson-area attendance boundaries (Scenario C) | Passed 6–1 | **No** | [BB:3998053 p.4] [YT:BJMsF-90V6U@2:12:05] |
 | 2026-01-27 | Res. 7241 consent agenda incl. Vernon/Winterhaven seismic design contract (objections that seismic picks pre-decide closures) | Passed 7–0 | **Yes** | [BB:3998052 p.3] [YT:-NpJZaLR81U@2:02:58] |
 | 2026-04-14 | La Forte amendment to Res. 7296: add guardrails A–F (criteria first, equity analysis, engagement plan, timeline, financial transparency, policy alignment) | Failed 3–4 (minutes text says "passed 4-3" but its roll call and the video show 3–4) | **Yes** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:13:13] |
 | 2026-04-14 | Res. 7296 Recital E: change "will include school and program closures" to "may" | Failed 2–5 | **Yes** | [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:15:53] |
@@ -101,8 +101,8 @@ Codes: Y = yes, N = no, A = abstain, X = absent, U = not recorded in the archive
   _Context (from the quote record):_ defends small neighborhood schools
 - **2026-04-14** — "Uh we could have an entirely different board because in 2027, there's an election." [YT:AH3wdS1A3sM@1:42:59](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6179s)  
   _Context (from the quote record):_ memorialize commitments in writing
-- **2026-04-27** — "the goal is to end up with great schools, not less of what we have now." [YT:2bSmBVuoajw@0:16:00](https://www.youtube.com/watch?v=2bSmBVuoajw&t=960s)  
-  _Context (from the quote record):_ supports rightsizing only if it yields better-resourced schools
+- **2026-04-27** — (relaying a parent's comment) "the goal is to end up with great schools, not less of what we have now." [YT:2bSmBVuoajw@0:16:00](https://www.youtube.com/watch?v=2bSmBVuoajw&t=960s) *(medium)*  
+  _Context (from the quote record):_ relays a parent's comment that rightsizing should yield better-resourced schools
 - **2026-04-28** — "people want to know that if and after we do this that we're going to end up with something a lot better than what we have instead of just less of what we already have." [YT:j9PzUvPpSVA@5:06:40](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=18400s) *(medium-confidence attribution)*  
   _Context (from the quote record):_ rightsizing must visibly improve schools or families will leave
 - **2026-05-12** — "I worry that the that the linguistics here suggest to neighborhood schools that those are the ones that are being looked at" [YT:OLAZDzvg3RM@4:30:21](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16221s)  

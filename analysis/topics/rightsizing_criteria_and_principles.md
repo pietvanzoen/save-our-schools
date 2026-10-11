@@ -12,7 +12,7 @@ Synthesis as of 2026-10-10. Companion to `analysis/topics/rightsizing.md` (proce
 | 2026-04-11 to 04-27 | Engagement decks | Six policy factors recast as "Right Pathways / Right Mix of Students / Right Boundaries / Right Use of Space / Right Balance / Right Impact" and ranked by participants | [BB:3997148 p.23] [BB:3997282 p.4] |
 | 2026-04-14 | Res. 7296 + La Forte amendment | Amendment would have required Board approval of "clear decision-making criteria prior to developing proposed scenarios" (amendment appears not adopted; see §2) | [BB:3990653 p.1] [BB:3997322 p.4] |
 | 2026-05-12 | Draft guiding principles | Four principles + workplan (draft) | [BB:3997246 p.2] [BB:3997246 p.3] |
-| 2026-05-26 | Res. 7307 (adopted per later memo) | Principles revised (safety/walkability, neighborhood schools "the foundation", named focal groups, cohort cohesion) | [BB:3997273 p.2] [BB:3997273 p.3] [BB:3997282 p.6] [BB:3997282 p.7] |
+| 2026-05-26 | Res. 7307 (adopted 7-0 [BB:3998080 p.3]) | Principles revised (safety/walkability, neighborhood schools "the foundation", named focal groups, cohort cohesion) | [BB:3997273 p.2] [BB:3997273 p.3] [BB:3997282 p.6] [BB:3997282 p.7] |
 | 2026-08-04 | Rightsizing memo | Sustainability thresholds 360 / 500 / 1,100 announced | [BB:3997426 p.2] |
 | 2026-09-01 / 09-08 | Well-resourced schools definition | Staffing / programming / supports / resources + per-grade-band descriptions | [BB:14357211 p.4] [BB:14374370 p.7] |
 | 2026-09-15 | Decision framework | KPI families; equity checkpoints; "Magnitude / Intensity / Complexity" | [BB:14430171 p.7] [BB:14430171 p.13] [BB:14430171 p.14] [BB:14430171 p.17] [BB:14430171 p.20] |
