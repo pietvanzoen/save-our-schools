@@ -123,7 +123,7 @@ From a web.archive.org tab, query `https://archive.org/wayback/available?url=<ur
 News articles are added by hand to `sources/news/index.jsonl`:
 - Each record holds metadata, a summary in your own words, `key_facts`, and at most short quotes (under 25 words, attributed).
 - Never store full article text.
-- The Oregonian blocks automated access. Record headline-only entries for it.
+- The Oregonian blocks automated fetching. Read it only in a logged-in subscriber browser, one page at a time with ~35 s between pages, and stop at any "Access is temporarily restricted" page or CAPTCHA (a fast crawl triggers a block). Then merge with `python3 tools/merge_news.py records.json --write` (keeps existing ids, checks quote length).
 
 ## 3. Full rebuild from scratch
 Run section 1 with `__bbFetch(idx)` (all meetings) and the full video list. Then run section 2 for pps.net, bond, Drive and

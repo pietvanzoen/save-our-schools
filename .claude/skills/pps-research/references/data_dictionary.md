@@ -49,7 +49,7 @@ Cite as `[PPS:<path under sources/>]`, e.g. `[PPS:pps_net/rightsizing/school_imp
 2012 seismic ratings, assessment), `pages/`, `_manifests/`. Some large files are split. See the `*.SPLIT.md` next to them.
 
 ### News: `sources/news/`
-`index.jsonl`, one record per article (233): `id, date, outlet, title, url, author, topics, schools_mentioned,
+`index.jsonl`, one record per article (390): `id, date, outlet, title, url, author, topics, schools_mentioned,
 people_quoted, summary, key_facts, short_quotes[{speaker, quote, context}]`. Summaries are the archive's own wording;
 there is no full text. Cite `[NEWS:<id>]`. Also `pps_in_the_news_list.json` (PPS's own press list).
 

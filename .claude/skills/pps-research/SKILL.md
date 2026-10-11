@@ -132,7 +132,7 @@ PDF text is `<file>.pdf.txt`, with pages separated by `\f`; `doc.py` prefers the
 - Sept–Oct 2026 minutes weren't posted at snapshot time.
 - No PPS savings or fiscal estimate per closure has been published (due Nov 17).
 - No per-scenario equity impact analysis has been published.
-- Oregonian article text, most KGW text, and 10 dead Google Drive links (BAC Q4 2025) are missing.
+- Most KGW text (Oregonian articles are summarized in `sources/news/index.jsonl`, not stored in full), and 10 dead Google Drive links (BAC Q4 2025) are missing.
 - The text of policy 6.10.030-P is missing.
 - Hardship-petition transfer counts per school are not published.
 - October 2026 community listening sessions are not archived.

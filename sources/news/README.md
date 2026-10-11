@@ -1,17 +1,17 @@
 # News coverage index: Portland Public Schools (PPS)
 
-`index.jsonl` holds one record per article, district release or advocacy item. Records were retrieved on two passes: 2026-10-10 (131 records) and 2026-10-11 (102 records, appended below the first set). Both passes used WebSearch and WebFetch; the shell had no web access. Each record's provenance is in its `url` and `retrieved` fields. Per CLAUDE.md rule 8, the index stores metadata, a summary in my own words, short numeric facts and quotes under 25 words. It never stores article text.
+`index.jsonl` holds one record per article, district release or advocacy item. Records were retrieved on three passes: 2026-10-10 (131 records) and 2026-10-11 (102 records, appended below the first set), both through WebSearch and WebFetch, and a third pass on 2026-10-11 that read 163 Oregonian/OregonLive articles through the user's own subscriber Chrome session (157 new records appended, 6 headline-only records upgraded in place with their ids kept). Each record's provenance is in its `url` and `retrieved` fields. Per CLAUDE.md rule 8, the index stores metadata, a summary in my own words, short numeric facts and quotes under 25 words. It never stores article text.
 
-- **Records:** 233 (131 from the first pass, 102 from the second)
-- **Date range:** 2024-09-12 to 2026-10-09. Two 2024 background items; everything else is 2025-01-01 or later.
+- **Records:** 390 (131 from the first pass, 102 from the second, 157 new from the Oregonian pass)
+- **Date range:** 2024-08-20 to 2026-10-11. A handful of 2024 background items; everything else is 2025-01-01 or later.
 - **Access** (field `access`; some second-pass records also carry `access_note`):
 
 | Access | All | 2nd pass | Meaning |
 |---|---|---|---|
-| `full` | 187 | 63 | Article text was read through WebFetch and summarized. Includes 2 mirrors (newsbeep.com copies of a WW and a KGW story), 3 secondary rewrites (Construction Owners Club ×2 and Hoodline, all relying on The Oregonian or DJC) and 1 advocacy-outlet summary (Heartlander). Each is flagged in `access_note` and the outlet name. |
+| `full` | 350 | 63 | Includes the 163 Oregonian records from the third pass (read in a subscriber browser session, one page at a time; `access_note` says so). Otherwise: Article text was read through WebFetch and summarized. Includes 2 mirrors (newsbeep.com copies of a WW and a KGW story), 3 secondary rewrites (Construction Owners Club ×2 and Hoodline, all relying on The Oregonian or DJC) and 1 advocacy-outlet summary (Heartlander). Each is flagged in `access_note` and the outlet name. |
 | `partial` | 2 | 0 | Only part of the page was readable. |
 | `search-snippet-only` | 33 | 28 | Headline and URL from WebSearch only, because the page returned an error. Dates are often estimated (see `date_precision`). |
-| `listing-only` | 11 | 11 | Known only from PPS's own "In The News" list (`pps_in_the_news_list.json`), and the outlet could not be fetched. |
+| `listing-only` | 5 | 11 | Known only from PPS's own "In The News" list (`pps_in_the_news_list.json`), and the outlet could not be fetched. |
 
 ## Count by outlet (all records)
 
@@ -23,7 +23,7 @@
 | KGW | 22 | +22 | KGW pages cannot be fetched (client errors, including AMP and Yahoo copies). 1 is `full` via a newsbeep mirror, 18 are `search-snippet-only` with estimated dates, and 3 are `listing-only`. |
 | OPB | 21 | +3 | |
 | KOIN | 20 | +10 | koin.com now errors. digital-release.koin.com mirrors and Yahoo copies work when they appear in search. |
-| The Oregonian/OregonLive | 7 direct | +6 | 1 via a Bend Bulletin reprint (first pass). 6 are `listing-only` from the PPS list. Also see the 3 rewrites below. |
+| The Oregonian/OregonLive | 163 direct | +6 | All `full` after the third pass: 130 news stories, 23 letters-to-the-editor pages and 10 editorials (2024-08 to 2026-10; 108 by Julia Silverman). The 6 former `listing-only` records were upgraded in place. Also 1 Bend Bulletin reprint (first pass) and the 3 rewrites below. |
 | Axios Portland | 5 | | |
 | PPS releases / media.pps.net | 4 | | |
 | Portland Mercury | 2 | +1 | |
@@ -39,7 +39,7 @@
 | Heartlander News (Herzog Foundation) | 1 | +1 | A secondary source with an advocacy mission. Used only because it relays the Oregonian report on the Secretary of State referral and the final audit response. |
 | Softwood Lumber Board press release | 1 | +1 | |
 
-## Count by topic (all records; records can carry several topics)
+## Count by topic (first two passes, 233 records; records can carry several topics)
 
 | Topic | Count | | Topic | Count |
 |---|---|---|---|---|
@@ -94,11 +94,12 @@ Other second-pass tags: `cbse` (Center for Black Student Excellence, 7), `recall
 
 ## Gaps and caveats
 
-- **The Oregonian/OregonLive remains blocked.** WebFetch is blocked for oregonlive.com and for web.archive.org, and archive.ph requires a permission that timed out. No Yahoo or MSN syndication of Oregonian education stories turned up. Oregonian coverage appears here only as `listing-only` records and through rewrites by Construction Owners Club, Hoodline and Heartlander. Key Oregonian stories known only secondhand:
-  - the Andersen memo (Jan. 2025)
-  - the Benson lawsuits (Sept. 2025)
-  - Procedeo's hiring of Hollands and Greene (~May 2026)
-  - the Secretary of State referral (Sept. 2026)
+- **The Oregonian/OregonLive (third pass, 2026-10-11).** WebFetch is still blocked for oregonlive.com, so 163 articles were read one at a time (about 35 seconds apart) in the user's logged-in subscriber Chrome session and summarized; no article text was stored.
+  - Coverage: the 162 PPS-relevant articles selected from the OregonLive sitemap (closures, rightsizing, bond, seismic, budget, labor, board, Jefferson, Procedeo, enrollment, elections; Aug. 2024 to Oct. 11, 2026), plus one older `listing-only` item.
+  - Conventions: parents, students (including the student board representative) and letter writers are described, not named; officials, staff, candidates and organization leaders are named. Letters pages use the author "Letters to the editor (…)"; editorials use "The Oregonian Editorial Board". Where an article has no direct quote, `short_quotes` may carry a short phrase labelled "Article text (reporter)".
+  - Spot check: quotes in 2 randomly chosen records were matched verbatim against the live page.
+  - Dates are Pacific-time publication dates from the page's JSON-LD; a few are a day earlier than the URL/UTC date.
+  - The stories earlier known only secondhand (Andersen memo, Benson lawsuits, Procedeo's hiring of Hollands and Greene, the Secretary of State referral) now have direct Oregonian records.
 - **KGW cannot be fetched** (client error on article, AMP and Yahoo URLs). Headlines exist for about 18 relevant 2025–26 stories, including MLC, furloughs, layoffs, closures and Title I. Their dates are estimates; check `date_precision`. Only one KGW story is `full`, via a newsbeep.com mirror.
 - **Willamette Week, Sept–Oct 2026:** many recent WW pages return server errors. That includes the audit story (Sept. 15), the recall petition (Sept. 17), the Secretary of State referral (Sept. 22), the board split (Sept. 30), PPS's response to the auditor (Oct. 2), PPS disputing the audit (Oct. 7), the Oct. 8 Murmurs and the Oct. 11 letters. Those are headline-only.
   - The Oct. 5 scenario story is now readable via a newsbeep mirror (NEWS-20261005-wweek-2). The first-pass snippet record NEWS-20261005-wweek-1 was left unchanged.
@@ -109,7 +110,7 @@ Other second-pass tags: `cbse` (Center for Black Student Excellence, 7), `recall
   - Portland Tribune: 2 items. Its older townnews URLs date from before 2025.
 - **Moody's downgrade (Aa2 to Aa3):** still no news coverage found. The Bond Buyer hit was a 2022 Sherwood SD story.
 - **Low-quality aggregators seen but not indexed:** karmactive.com (Oct. 7, 2026). It states a vote in "early 2027", which conflicts with every other source, and a "$171.8M cut since 2023-24" figure that is unverified. The K-12 Dive duplicate of the Facilities Dive Sept. 2026 story was also skipped.
-- **Quote reliability:** quotes were extracted through the WebFetch summarizer, which was told to copy quoted text exactly. Verify against the original before publishing. Quotes in the KPTV interview record come from the official caption track and carry `[YT:vRKUxqyWvYg@H:MM:SS]` references. "Mykola" in that transcript is a caption artifact for "COLA".
+- **Quote reliability:** first- and second-pass quotes were extracted through the WebFetch summarizer, which was told to copy quoted text exactly. Verify against the original before publishing. Quotes in the KPTV interview record come from the official caption track and carry `[YT:vRKUxqyWvYg@H:MM:SS]` references. "Mykola" in that transcript is a caption artifact for "COLA".
 - **Date notes:**
   - Several second-pass records have approximate or estimated dates (`date_precision`).
   - Where the URL date and the byline date differ (UTC vs Pacific), the Pacific/event date is used.

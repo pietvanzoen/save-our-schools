@@ -35,7 +35,7 @@ recorded in a manifest. Everything in `analysis/` is derived from `sources/` and
 | Video transcripts (`sources/youtube/`) | 145 transcripts (~288 hours) with millisecond timestamps: every board and committee meeting video linked from BoardBook, plus Bond Accountability Committee (2023–26), Community Budget Review Committee (2026), rightsizing explainer videos and the Oct 2026 Fox 12 superintendent interview |
 | pps.net (`sources/pps_net/`) | ~810 files: Data & Reporting datasets (enrollment, capture rates, class size, PSU forecasts, discipline, graduation), rightsizing pages, the **82 per-school "How could your school be impacted?" PDFs**, regional scenario summaries, budget volumes, Long-Range Facility Plan, Jefferson boundary-process documents, SE Guiding Coalition records (recovered via the Internet Archive) |
 | Bond program (`sources/bond/`) | ~184 files from bond.pps.net: 2025 bond, BAC reports and presentations, performance audits, seismic program pages |
-| News (`sources/news/`) | 233 article records (metadata, summaries, short quotes; no full text), plus PPS's own "In the News" list |
+| News (`sources/news/`) | 390 article records (metadata, summaries, short quotes; no full text), including 163 Oregonian/OregonLive articles, plus PPS's own "In the News" list |
 
 | Analysis (`analysis/`) | |
 |---|---|
@@ -72,7 +72,7 @@ Kinds: `transcript`, `boardbook`, `pps_net`, `bond`, `quote`, `news`, `analysis`
 - **Minutes** for Sept–Oct 2026 meetings weren't posted yet when this was collected. Many 2026 minutes are scanned
   images, so their text is in `.pdf.ocr.txt`. A text search that comes up empty isn't proof a record is missing.
 - **Not archived:**
-  - The Oregonian (blocked) and most KGW article text; those records are headline-only.
+  - Most KGW article text (those records are headline-only). Oregonian articles are summarized, not stored (copyright).
   - 10 dead Google Drive links (BAC Q4 2025 executive summaries).
   - Two large meeting recordings (as video files).
   - The text of board closure policy 6.10.030-P.

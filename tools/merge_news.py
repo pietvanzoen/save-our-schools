@@ -3,7 +3,7 @@
 
   python3 tools/merge_news.py records.json [more.json ...] [--outlet-slug oregonian] [--write]
 
-- Matches existing records by normalized URL; a match is replaced in place (keeps its id unless the date changed).
+- Matches existing records by normalized URL; a match is replaced in place and keeps its id.
 - New records get ids NEWS-YYYYMMDD-<slug>-N (next free N).
 - Checks CLAUDE.md rule 8: each short quote under 25 words; summary present; no long text fields.
 Dry run by default.
@@ -68,14 +68,10 @@ def main():
             if k in by_url:
                 i = by_url[k]
                 old = recs[i]
-                rid = old['id']
-                if (old.get('date') or '').replace('-', '') != (r.get('date') or '').replace('-', '') and rid.split('-')[1] != (r.get('date') or '').replace('-', ''):
-                    ids.discard(rid)
-                    rid = new_id(r.get('date'))
+                rid = old['id']  # always keep the existing id so citations keep resolving
                 r = {'id': rid, **{x: y for x, y in r.items() if x != 'id'}}
-                r['replaces'] = f"{old['id']} ({old.get('access')})" if old.get('access') != 'full' else old.get('replaces')
-                if r.get('replaces') is None:
-                    r.pop('replaces')
+                if old.get('access') != 'full':
+                    r['access_note'] = (r.get('access_note', '') + f" Upgraded from a {old.get('access')} record (id kept so existing references still resolve).").strip()
                 recs[i] = r
                 replaced += 1
             else:
