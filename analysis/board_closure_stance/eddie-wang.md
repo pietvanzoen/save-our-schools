@@ -1,0 +1,220 @@
+# Edward (Eddie) Wang: closure stance
+
+**Zone 7 director** (term "7/2023 - 6/2027", per the pps.net roster in `analysis/people/_roster_from_web.md`).
+- **Board Chair throughout 2025–26.** Elected Jan 7, 2025; re-elected July 2025, Jan 13, 2026 and July 7, 2026 (6–0) [BB:3998053 p.3] [BB:14305225 p.1].
+- **Background:**
+  - former PPS teacher;
+  - parent of a PPS middle schooler [YT:h_0YMlJnXPk@0:02:21](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=141s);
+  - parent representative on the Southeast Guiding Coalition (SEGC) in 2021 [YT:5RMfvT-sAPU@2:17:40](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8260s). He returns to the SEGC constantly (see Fixations).
+- **Sponsor of Res. 7296** (the rightsizing launch).
+- **Political exposure.** A prospective recall petition was filed against him in Sept 2026 over the Procedeo bond-management contract. It needs about 38,000 signatures in three months [NEWS:NEWS-20260918-katu-1].
+
+**Bottom line: current score +2 (range +1 to +2), high confidence.**
+- Wang is the board's most consistent and most explicit advocate of districtwide consolidation.
+- He has said "if it means this and to get there means 20 closures, I'm fine" [YT:5RMfvT-sAPU@2:24:37](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8677s).
+- He is all but certain to vote to adopt a closure package on Dec 15, whether Scenario A, Scenario B, or a staff-modeled amendment of either.
+- The only things that would pull him toward +1 are evidence that the package fails his own equity and "well-resourced" outcome tests, or a staff recommendation to scale back. He has given no sign he would vote for deferral.
+
+Evidence base:
+- 136 transcript quotes in `analysis/people/quotes_all.jsonl` (high/medium only used);
+- a fresh read of the transcripts around every 2026 rightsizing discussion;
+- the minutes of 4/14/26;
+- the news index.
+
+Medium-confidence attributions are marked *(medium)*. All quotes were checked against the transcript text.
+
+---
+
+## Timeline
+
+Score = likelihood of voting to ADOPT a closure package if the vote were held that day (+2 strongly for … −2 strongly against). Full rows with rationale: `eddie-wang_scores.csv`.
+
+| Date | What he said / did | Score | Note |
+|---|---|---|---|
+| 2025-02-04 | "if we enrolled all our high schools equally right even including all the new high schools we wouldn't even be able to fill up our high schools to maybe about a little less than 1,200 each" [YT:zxaXALjzumk@2:37:56](https://www.youtube.com/watch?v=zxaXALjzumk&t=9476s) | +1 (low) | Excess-capacity framing (HS square footage), not closures |
+| 2025-05-06 | **Vote:** yes on Res 7109 and 7110. 7110, which he authored, makes the facilities committee the venue for "potential school enrollment or consolidations changes related to seismic plans" [BB:3997998 p.4] [BB:3996391 p.2] | +1 (low) | Builds consolidation into seismic oversight |
+| 2025-05-19 | "something to also throw out to the board as well in terms of future discussion about uh equitable experiences throughout all our middle schools" [YT:WPbTg28GB_o@0:29:43](https://www.youtube.com/watch?v=WPbTg28GB_o&t=1783s) *(medium)* | +1 (low) | First flag of the K-8 vs middle-school issue |
+| 2025-06-10 | "It's it's better to just do one change, right? Instead of having some families have to go through two changes." [YT:mb9SnIfcbZY@3:12:53](https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11573s) *(medium)* | +1 | Jefferson context: "doing this once doing it right … and soon" |
+| 2025-07-22 | "lastly and probably the most difficult one is um talking about school boundary and enrollment and ensuring that the way we do it is done equitably" [YT:BZdKSNeHDaU@0:03:13](https://www.youtube.com/watch?v=BZdKSNeHDaU&t=193s) | +1 (low) | Sets the board priority |
+| 2025-09-09 | "if anyone knows which schools are definitely safe from any consolidation or whatever you would know and also how that overlaps with the ones with the most seismic needs." [YT:HGAs0lyZ6kw@4:22:03](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15723s) | +1 | Treats consolidation as a given and wants seismic money kept off likely closures |
+| 2025-09-30 | Board town halls: "yes, it's about eventually right sizing" [YT:dVcyfTroSSI@2:19:39](https://www.youtube.com/watch?v=dVcyfTroSSI&t=8379s); "consolidating our resources where they're needed and that that's students focused" [YT:dVcyfTroSSI@2:48:40](https://www.youtube.com/watch?v=dVcyfTroSSI&t=10120s) | +1 | Links the boundary work plan to rightsizing |
+| 2026-01-13 | **Votes:** yes on Res 7228 and 7229 (Jefferson, Scenario C) [BB:3998053 p.3–4]. "a lot of times the perception of the hurt is a lot bigger than the reality" [YT:BJMsF-90V6U@1:07:20](https://www.youtube.com/watch?v=BJMsF-90V6U&t=4040s) | +1 | Accepts disruptive boundary change |
+| 2026-01-13 | "scenario C allows the flexibility so that our other high schools don't have as much danger of being underenrolled." [YT:BJMsF-90V6U@1:59:40](https://www.youtube.com/watch?v=BJMsF-90V6U&t=7180s) | +1 | Switched from B to C for the sake of future redistricting |
+| 2026-01-27 | Defending the staff seismic ranking: "sometimes the loudest voices win instead of the right places to put the money in." [YT:-NpJZaLR81U@1:40:00](https://www.youtube.com/watch?v=-NpJZaLR81U&t=6000s). Voted yes on the consent agenda, which included Vernon/Winterhaven seismic design [BB:3998052 p.3] | +1 (medium) | Defers to staff while critics argue that seismic picks pre-decide closures |
+| 2026-02-24 | MLC 9–12: "This is a zero sum game which means saving some here is going to take from somewhere else." [YT:3sggkeHNIVk@1:46:51](https://www.youtube.com/watch?v=3sggkeHNIVk&t=6411s). He also warned of "bends in rules" when communities "come out in full force" [YT:3sggkeHNIVk@1:45:44](https://www.youtube.com/watch?v=3sggkeHNIVk&t=6344s) | **+2** | Backs the first program cut of the rightsizing era and opposes reopening it |
+| 2026-02-24 | Asks for "a list of all the schools have gone through programming or enrollment changes or boundary changes" over 10–15 years [YT:3sggkeHNIVk@1:52:52](https://www.youtube.com/watch?v=3sggkeHNIVk&t=6772s) | +1 | Cumulative-impact guardrail |
+| 2026-03-10 | "What is would be new is if we have a board that's willing to make hard decisions." [YT:qiCQKmMdLr4@3:01:49](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10909s) | **+2** | DBRAC and SEGC failed for lack of will |
+| 2026-03-10 | "In order to do it equitably, it needs to be a whole district. And I hope that we have the courage to make hard decisions" [YT:qiCQKmMdLr4@3:04:09](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11049s); "So timeliness is very important to me. So sooner the better." [YT:qiCQKmMdLr4@3:04:41](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11081s) | **+2** | Districtwide scope, December decision |
+| 2026-03-12 | "I think if there's opportunities for K through eights to be turned into middle school and elementary school, I think this is a great time to do it." [YT:SPc05NM0oYs@1:11:23](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4283s); "I also 100% agree that everything needs to be on the table." [YT:SPc05NM0oYs@1:13:35](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4415s) | **+2** | K-8 conversions; no exemptions |
+| 2026-03-12 | Some focus options are "I'm just going to be blunt whiter than their neighborhood." [YT:SPc05NM0oYs@1:12:49](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4369s) | +1 | On focus options he says he is "kind of undecided" |
+| 2026-03-18 | "The basis of having everything on the table is already the start of equity in the process," [NEWS:NEWS-20260318-wweek-1] | **+2** | Press account |
+| 2026-03-31 | "put some weight to communities that have suffered a lot of change in the last decade or two." [YT:QIfmGcbkkLE@1:46:45](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6405s) | +1 | An equity condition staff can meet |
+| 2026-04-14 | Introduces Res 7296 as co-sponsor: "the board has never really officially voted on this direction." [YT:AH3wdS1A3sM@0:58:20](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=3500s); "a timeline about 7 to 12 months is is considered best practice" [YT:AH3wdS1A3sM@0:59:00](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=3540s) | **+2** | Sponsor |
+| 2026-04-14 | "those areas got excluded from the process because the board caved." [YT:AH3wdS1A3sM@1:46:22](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6382s); "maybe one of us are going to get cold feet because we heard a lot from one community" [YT:AH3wdS1A3sM@1:46:49](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6409s) | **+2** | Resolution as a commitment device |
+| 2026-04-14 | **Vote:** no on the La Forte/Engelsman guardrail amendment, which failed 3–4 [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:13:13](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7993s). He said he liked the content but it needed staff vetting and should follow engagement [YT:AH3wdS1A3sM@1:29:43](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=5383s) | +1 | A procedural no. Most of the content returned in Res 7307 |
+| 2026-04-14 | **Vote:** no on "will" → "may" for closures, which failed 2–5 [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:15:53](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=8153s). He abstained without explanation on adding "consolidations, or boundary changes" | **+2** | Closures stay an expected outcome |
+| 2026-04-14 | **Vote:** yes on Res 7296 as amended, which passed 5–2 [BB:3998077 p.3] [YT:AH3wdS1A3sM@2:17:59](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=8279s) | **+2** | Launches rightsizing |
+| 2026-04-14 | "I'm afraid a little bit about the tail wagging the dog" [YT:AH3wdS1A3sM@3:37:08](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=13028s) | +1 | The board should not redesign the staff process |
+| 2026-04-20 | "We have 6,000 less kids than we did back in 2016, but we have the same number of schools." [YT:jBUIkfQZu-k@1:24:00](https://www.youtube.com/watch?v=jBUIkfQZu-k&t=5040s); "these are kind of what what the goals are for consolidation" [YT:jBUIkfQZu-k@1:24:53](https://www.youtube.com/watch?v=jBUIkfQZu-k&t=5093s) | **+2** | Public listening session |
+| 2026-04-22 | "bigger schools don't necessarily mean bigger class sizes it often means the opposite" [YT:h_0YMlJnXPk@1:48:47](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=6527s). High schools are about feeder patterns, "not necessarily closing a [high school]" [YT:h_0YMlJnXPk@0:39:36](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=2376s) [NEWS:NEWS-20260423-opb-1] | **+2** | Makes the case for consolidation to parents |
+| 2026-04-28 | Focus options: "not a closure solution but potentially maybe a um how the lottery is done or a policy solution to mitigate the impact that um that our neighborhood schools are concerned about." [YT:j9PzUvPpSVA@4:35:56](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16556s) *(medium)* | +1 | Narrows the target; says engagement "changed my mind" |
+| 2026-05-12 | "is this choice coming from a place of courage or is this choice coming from a position of fear" [YT:OLAZDzvg3RM@4:33:45](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16425s); "It's going to take some bold moves to make sure the plan is equitable" [YT:OLAZDzvg3RM@4:34:18](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16458s) | **+2** | Resists principles that would constrain the plan |
+| 2026-05-12 | On splitting a community between receiving schools: "they become new communities." [YT:OLAZDzvg3RM@5:09:51](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=18591s) | **+2** | Accepts the main costs of consolidation |
+| 2026-05-26 | "If we prioritize walkability as number one, then that means keeping the maximum amount of schools open, which means that we don't do anything." [YT:AAWpafO4vvQ@1:51:24](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6684s) | **+2** | Guards against a do-nothing reading of the principles |
+| 2026-05-26 | **Vote:** yes on Res 7307 guiding principles and work plan (7–0) [BB:3998080 p.3] [YT:AAWpafO4vvQ@2:22:50](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=8570s). He praised the clause requiring each scenario to assess "recently impacted" and Title I communities [YT:AAWpafO4vvQ@1:50:38](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6638s) [BB:3997273 p.2] | +1 | Unanimous vote |
+| 2026-05-26 | Budget: "after consolidations our school system is much more robust to take changes and cuts" [YT:AAWpafO4vvQ@2:54:51](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=10491s) | **+2** | Ties his 2026-27 budget logic to closures happening |
+| 2026-06-23 | "we kept kicking the can down the road um because we were hoping that the the longer we can delay it the more likely there was chance that Salem would change something." [YT:yinJ7KK-Bqc@4:53:15](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=17595s). No on the $13.12M restoration [BB:3998082 p.5] | +1 (medium) | Argues against deferral |
+| 2026-07-07 | "picking up the can that we've kicked down the road." [YT:r0e1Cx8ujLs@1:44:03](https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=6243s). Next year's $65M "is going to hurt doubly" | +1 (medium) | Structural-deficit frame |
+| 2026-08-04 | **Vote:** no on the Creston split-feeder exception, Res 7365, which failed 1–4–1 [BB:14440686 p.2–4]. "the right sizing process is where we make those those fixes" [YT:-qhL23TOZTs@2:27:31](https://www.youtube.com/watch?v=-qhL23TOZTs&t=8851s) *(medium)* | +1 (medium) | Treats rightsizing as the vehicle for fixes |
+| 2026-09-01 | "one of the big misisconception is that larger enrolled schools means larger class sizes. And that's not true." [YT:5RMfvT-sAPU@2:18:43](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8323s); "we're looking at $65 million budget gap for next year, which means cuts are need to happen, period." [YT:5RMfvT-sAPU@2:20:07](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8407s) | **+2** | Each closure saves "one less admin team" |
+| 2026-09-01 | "I'm not afraid of bigger numbers I'm not afraid of smaller numbers" [YT:5RMfvT-sAPU@2:23:32](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8612s); "if it means this and to get there means 20 closures, I'm fine." [YT:5RMfvT-sAPU@2:24:37](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8677s); "equity must be the outcome and not just the intention." [YT:5RMfvT-sAPU@2:23:45](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8625s) | **+2** | Open about magnitude; his conditions are outcomes and equity |
+| 2026-09-01 | **Vote:** yes on the superintendent contract extension, Res 7371 (5–2) [YT:5RMfvT-sAPU@3:32:04](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=12724s) [MTG:2026-09-01/761703]: "we have someone who's willing to make the the right decision even if it's not the most politically expedient" [YT:5RMfvT-sAPU@3:17:27](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=11847s) *(medium)* | +1 (medium) | Backs continuity for the person who will recommend closures |
+| 2026-09-03 | "The bottom line is that if it means that we have a better system," [NEWS:NEWS-20260903-wweek-1] | **+2** | WW calls him the most open to dramatic change if equity is central |
+| 2026-09-15 | "if we do nothing our title one schools are going to be even a in a worse position than they are today" [YT:uAf7l-ChjFo@3:37:03](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13023s); consolidation "is also an opportunity" [YT:uAf7l-ChjFo@3:37:28](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13048s) *(medium)* | **+2** (medium) | Equity case for acting |
+| 2026-09-15 | On Engelsman's cost-alternatives resolution: "board members do not manage the day-to-day operations." [YT:uAf7l-ChjFo@5:03:10](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=18190s); "it's a no for me for any potential vote on this resolution" [YT:uAf7l-ChjFo@5:04:13](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=18253s) | +1 | Rejects an alternative path run by the board |
+| 2026-10-06 | At scenario release: "every change had a cascading list of consequences that um many of them led to really unintended consequences or actually negative effects for many other people." [YT:zOUH2Jq7Owo@3:18:16](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11896s); "If we remain keep too many middle schools open and then they all fall low under enrollment, then we're talking about three schools that are suffering from programmatic uh cuts over time" [YT:zOUH2Jq7Owo@3:21:57](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12117s) | **+2** | Defends consolidating middle schools; any tweaks must go through staff modeling |
+
+**Trajectory.**
+- **2025:** steady +1. Consolidation is assumed and folded into seismic and boundary work.
+- **Feb–Mar 2026:** rises to +2, triggered by the MLC fight and the launch planning.
+- **Since then:** flat at +2. The only narrowing is focus options (Apr 2026).
+- Mean of the 30 dated points since 3/1/26: +1.63. The +1s are mostly procedural or unanimous items, not hesitation.
+
+**Unconfirmed (not scored; speaker not identified on caption):**
+- 9/16/26: engagement should sit closer to "inform and consult" [YT:gw0gfK9RiDQ@2:51:56](https://www.youtube.com/watch?v=gw0gfK9RiDQ&t=10316s).
+- 10/6/26: a director said PPS has "a relatively strong policy" on surplus property and is exploring strengthening it [YT:zOUH2Jq7Owo@4:26:38](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15998s).
+- 10/6/26: a director defended building three high schools at once [YT:zOUH2Jq7Owo@1:09:31](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=4171s).
+
+---
+
+## Contradictions & shifts
+
+1. **High-school size (2025): a refinement, conditioned on new information.**
+   - Feb 4, 2025: balanced enrollment would fill high schools to "a little less than 1,200 each" [YT:zxaXALjzumk@2:37:56](https://www.youtube.com/watch?v=zxaXALjzumk&t=9476s).
+   - Oct 14, 2025: "1700 is not actually what is educationally the best max. It should be at 85% should be the max." He also opposed downsizing only the last three schools [YT:p6iGaRklgp0@1:51:54](https://www.youtube.com/watch?v=p6iGaRklgp0&t=6714s) [YT:p6iGaRklgp0@1:52:35](https://www.youtube.com/watch?v=p6iGaRklgp0&t=6755s) *(medium)*.
+   - Analysis: the change followed the board's square-footage framework (Res 7051), not a new enrollment view. Elsewhere he still assumes high schools will be under-filled. The tension matters now because high schools are explicitly off the closure table [YT:h_0YMlJnXPk@0:39:36](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=2376s) while elementary schools close.
+2. **Jefferson, Scenario B to C (Jan 2026): a shift conditioned on new information, which he disclosed himself.**
+   - "Before, you know, the decision was made, I was actually a big fan of scenario B." [YT:BJMsF-90V6U@1:59:24](https://www.youtube.com/watch?v=BJMsF-90V6U&t=7164s)
+   - He voted for C for future redistricting flexibility [YT:BJMsF-90V6U@1:59:40](https://www.youtube.com/watch?v=BJMsF-90V6U&t=7180s).
+3. **Focus options (Mar → Apr 2026): a true shift, self-described, medium attribution.**
+   - Mar 12: "everything needs to be on the table", and some focus options are "whiter than their neighborhood" [YT:SPc05NM0oYs@1:13:35](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4415s) [YT:SPc05NM0oYs@1:12:49](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4369s).
+   - Apr 28: "these engagement sessions have changed my mind … I have been someone who has been very adamant and vocal about um supporting our neighborhood schools" [YT:j9PzUvPpSVA@4:35:09](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16509s). He now prefers "not a closure solution" for focus options [YT:j9PzUvPpSVA@4:35:56](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=16556s) *(medium)*.
+   - Analysis: this does not weaken his overall stance. The 10/5 scenarios close no focus or alternative school (only Sunnyside's focus designation ends) [BB:14509719 p.2], so the staff package already matches his revised view.
+4. **Protecting repeatedly impacted communities: principle vs. binding rule (a refinement).**
+   - Mar 31: "put some weight to communities that have suffered a lot of change" [YT:QIfmGcbkkLE@1:46:45](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6405s).
+   - May 12: he "almost" seconded Splitt's proposal to keep clusters together and consider "those that have been recently affected". He declined because "you need some flexibility" and principles "from a position of fear" constrain the plan [YT:OLAZDzvg3RM@4:32:52](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16372s) [YT:OLAZDzvg3RM@4:33:45](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16425s).
+   - May 26: he thanked staff for putting exactly that test into the work plan as an analysis requirement [YT:AAWpafO4vvQ@1:50:38](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6638s) [BB:3997273 p.2].
+   - Analysis: he wants it weighed, not made binding. On 10/6 Engelsman said SEGC-affected schools are "being affected again" [YT:zOUH2Jq7Owo@2:58:58](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10738s), and Wang did not raise this himself.
+5. **Split feeders vs. splitting communities: a tension, not a reversal.**
+   - Split feeders are "my one big concern" [YT:SPc05NM0oYs@1:12:02](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4322s). He was "very sad" Harrison Park kept its three splits [YT:zOUH2Jq7Owo@3:19:33](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11973s).
+   - Yet he resists barring splits of elementary communities: "they become new communities." [YT:OLAZDzvg3RM@5:09:51](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=18591s)
+   - Analysis: he cares about cohorts staying together at the middle and high school transition, and accepts splitting at the elementary level.
+6. **Speed vs. hearing the unheard: a tension he has managed by sequencing.**
+   - He wants "sooner the better" and 7–12 months [YT:qiCQKmMdLr4@3:04:41](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11081s) [YT:AH3wdS1A3sM@0:59:00](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=3540s).
+   - He also argues engagement over-hears "the people who can show up" [YT:HGAs0lyZ6kw@4:21:34](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15694s), and cited Kellogg being "97% white" as a reason to delay the La Forte amendment [YT:AH3wdS1A3sM@1:30:50](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=5450s).
+   - Analysis: he uses the representativeness argument to delay process constraints, never to delay the decision itself.
+7. **His own past deferral (June 2026): an acknowledged shift.**
+   - "we kept kicking the can down the road" hoping "Salem would change something" [YT:yinJ7KK-Bqc@4:53:15](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=17595s).
+   - He frames 2026 as "the end of the road", which explains his hostility to deferral now.
+
+---
+
+## Fixations / recurring themes
+
+1. **SEGC lessons: whole district, one change, no carve-outs.** About 15 explicit references from Jun 2025 to Oct 2026.
+   - "It's better to just do one change" [YT:mb9SnIfcbZY@3:12:53](https://www.youtube.com/watch?v=mb9SnIfcbZY&t=11573s).
+   - "those areas got excluded from the process because the board caved." [YT:AH3wdS1A3sM@1:46:22](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6382s)
+   - "if we do boundaries first … and then we have to come back and do three years later do another change … that to me that's unacceptable" [YT:5RMfvT-sAPU@2:18:15](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8295s).
+   - "as a veteran of the Southeast Guiding Coalition" [YT:zOUH2Jq7Owo@3:17:52](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11872s).
+2. **Equity of voice: loud or privileged communities win when the board bends.** About 9 times.
+   - "it's often the people who can show up that we hear from the most" [YT:HGAs0lyZ6kw@4:21:34](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15694s).
+   - "sometimes the loudest voices win" [YT:-NpJZaLR81U@1:40:00](https://www.youtube.com/watch?v=-NpJZaLR81U&t=6000s).
+   - "bends in rules … when certain communities come out in full force" [YT:3sggkeHNIVk@1:45:44](https://www.youtube.com/watch?v=3sggkeHNIVk&t=6344s).
+   - Kellogg "97% white" [YT:AH3wdS1A3sM@1:30:50](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=5450s).
+   - Exceptions favor "people who have more access to … political figures" [YT:-qhL23TOZTs@2:26:57](https://www.youtube.com/watch?v=-qhL23TOZTs&t=8817s) *(medium)*.
+3. **The "well-resourced school" defined concretely, with consolidation as the tool.** About 7 times.
+   - The examples he returns to are a full-time librarian and SPED teacher in every K-5, and band, art and compacted math in every middle school [YT:qiCQKmMdLr4@3:04:23](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=11063s) [YT:jBUIkfQZu-k@1:24:24](https://www.youtube.com/watch?v=jBUIkfQZu-k&t=5064s) [YT:h_0YMlJnXPk@0:02:51](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=171s) [YT:5RMfvT-sAPU@2:21:47](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8507s).
+   - Related claims: art teachers cut first [YT:3sggkeHNIVk@1:47:16](https://www.youtube.com/watch?v=3sggkeHNIVk&t=6436s); middle-school sports [YT:zOUH2Jq7Owo@3:22:07](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12127s).
+4. **Bigger schools are more resilient to cuts and don't mean bigger classes; closures help the budget.** About 5 times.
+   - [YT:h_0YMlJnXPk@1:48:47](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=6527s) [YT:AAWpafO4vvQ@2:54:51](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=10491s) [YT:5RMfvT-sAPU@2:18:43](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8323s) [YT:5RMfvT-sAPU@2:20:07](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8407s) [YT:r0e1Cx8ujLs@1:44:03](https://www.youtube.com/watch?v=r0e1Cx8ujLs&t=6243s).
+5. **Board stays in its lane; tweaks must go through staff modeling.** About 9 times.
+   - "unintended consequences that could happen that we may not have time to foresee" [YT:LZ101PSh6H0@3:23:34](https://www.youtube.com/watch?v=LZ101PSh6H0&t=12214s).
+   - "tail wagging the dog" [YT:AH3wdS1A3sM@3:37:08](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=13028s).
+   - "board members do not manage the day-to-day operations." [YT:uAf7l-ChjFo@5:03:10](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=18190s)
+   - "it does have to go through the team" [YT:zOUH2Jq7Owo@3:18:54](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11934s).
+6. **Title I and repeatedly impacted communities as the equity test.** About 6 times.
+   - [YT:QIfmGcbkkLE@1:46:45](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6405s) [YT:AAWpafO4vvQ@1:50:38](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6638s) [YT:OLAZDzvg3RM@5:10:47](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=18647s) [YT:5RMfvT-sAPU@2:23:45](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8625s) [YT:uAf7l-ChjFo@3:37:03](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13023s).
+
+---
+
+## Weak points (Analysis)
+
+1. **Class size and economies of scale (theme 4).**
+   - Analysis: PPS's own 10/6 table cuts against the class-size claim as stated.
+     - Under current formulas the small schools have *smaller* average classes and lower student:staff ratios: Rosa Parks (161 students) 23.0 average class and 12.4 students per FTE.
+     - The large schools run larger classes: Richmond (505) 28.1 and 19.5; Ainsworth (554) 25.2 and 17.3 [BB:14511742 p.7].
+   - Consolidation saves money precisely because larger schools carry more students per staff member [BB:14511742 p.6]. The source of the saving is the same thing families fear.
+   - His defensible claim is narrower: larger schools absorb a *marginal* cut with less damage (his "math experiment" [YT:5RMfvT-sAPU@2:19:03](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8343s)).
+   - Staff's dashboard found "no relationship" between school size and state test results [BB:14421589 p.2]. That undercuts any claim that consolidation alone produces "a better system" academically.
+2. **The budget rationale vs. staff's own savings story (themes 3–4).**
+   - He ties closures to the $65M gap: "cuts are need to happen, period", with each closure worth "one less admin team" [YT:5RMfvT-sAPU@2:20:07](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8407s).
+   - In May 2026 he accepted a "risky" budget because the system will be "more robust" after consolidation [YT:AAWpafO4vvQ@2:54:51](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=10491s).
+   - Analysis: staff are not promising that money.
+     - Armstrong said the district is "not um exclaiming some you know huge dollar amount from closures and savings" because staff move with students [YT:zOUH2Jq7Owo@3:44:23](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13463s) *(medium)*.
+     - In a KPTV interview she said closures will not by themselves fix the deficit [NEWS:NEWS-20261005-kptv-2].
+     - Staff could not yet estimate layoffs per closure; the positions most affected are "one per building, such as a principal, custodian" [BB:14421589 p.4].
+   - If the 11/17 fiscal impact statement shows small net savings, his budget argument weakens. His program-stability argument does not.
+3. **"Equity must be the outcome" vs. where the closures land (themes 2 and 6).**
+   - Staff data he championed shows Title I schools are the most fragile. Projected for 2031-32: 9% of Title I K-5s and 0% of Title I middle schools above threshold [BB:14430171 p.14].
+   - Analysis: that is a real equity argument for acting. But it is also why the closures concentrate on those schools.
+     - Six of the 10 schools on both lists are Title I [NEWS:NEWS-20261005-wweek-2].
+     - Title I schools are 43% of closures under A and 55% under B [NEWS:NEWS-20261006-katu-2].
+     - SEGC-affected Southeast schools such as Bridger and Marysville are hit again [BB:14509719 p.3] [YT:zOUH2Jq7Owo@2:58:58](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10738s).
+   - Students who move are roughly proportional across groups (27% overall, 27% in poverty, 28% historically underserved by race under A) [BB:14511742 p.44]. So the burden is defensible in rates, but not in which school communities lose their building.
+   - His own rule was to "put some weight to communities that have suffered a lot of change" [YT:QIfmGcbkkLE@1:46:45](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6405s). He has not yet said how the scenarios honor it.
+4. **Seismic sequencing (the 9/9/25 premise).**
+   - He wanted seismic money aimed at schools "definitely safe from any consolidation" [YT:HGAs0lyZ6kw@4:22:03](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=15723s).
+   - In Jan 2026 he defended the staff ranking against loud voices [YT:-NpJZaLR81U@1:40:00](https://www.youtube.com/watch?v=-NpJZaLR81U&t=6000s).
+   - Analysis: execution broke his premise.
+     - About $18M of completed seismic work sits at closure-list schools, including Marysville's roughly $7M full retrofit finished in Sept 2026 [NEWS:NEWS-20261009-kgw-1] [YT:uAf7l-ChjFo@1:43:52](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=6232s).
+     - Rose City Park, with a planned full retrofit, closes under Scenario A [BB:14509719 p.1].
+     - A state representative called it a broken promise [YT:zOUH2Jq7Owo@0:14:37](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=877s).
+   - Res 7109 said consolidation decisions would follow closure policy [BB:3988254 p.4]. His own Res 7110 named the facilities committee as the venue for exactly this overlap [BB:3996391 p.2]. This is a credibility exposure for the chair.
+5. **No carve-outs, all tweaks through staff (themes 1 and 5) vs. the board's duty to decide.**
+   - Analysis: his commitment-device framing ("cold feet" [YT:AH3wdS1A3sM@1:46:49](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6409s)) and his insistence that ideas "go through the team" [YT:zOUH2Jq7Owo@3:18:54](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11934s) reduce the 12/15 vote to near-ratification.
+   - Yet his own mind changed through engagement (focus options), which is evidence that board-level judgment adds value.
+   - "All schools, all programs" [YT:AH3wdS1A3sM@0:59:38](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=3578s) produced scenarios that close no focus or alternative school [BB:14509719 p.2]. Critics can call that the very carve-out he warned about. The difference is that staff, not the board, made it.
+   - The timeline gives about 10 weeks from scenario release (10/5) to vote (12/15) [BB:14511742 p.45]. That is consistent with his 7–12-month total, but thin for scenario-specific feedback.
+6. **His own outcome metrics are not in the KPI set (theme 3).**
+   - He said the number of closures should follow outcomes and asked for figures such as the share of SPED teachers split between buildings and multi-year art FTE stability [YT:5RMfvT-sAPU@2:21:47](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8507s) [YT:5RMfvT-sAPU@2:22:23](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8543s).
+   - Analysis: the KPIs are percent of schools above enrollment thresholds, focal students in such schools, enrollment range, utilization, split feeders and students moved [BB:14430171 p.14–20] [BB:14511742 p.15]. Staff say the thresholds are a "bridge", not an ideal [YT:zOUH2Jq7Owo@1:38:03](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=5883s). Even Scenario A leaves 33% of schools below threshold [BB:14509719 p.2].
+   - As of 10/6 the record does not show that Scenario A or B delivers his librarian, SPED or art standard.
+7. **The K-8 → middle-school premise.**
+   - He cites "compelling data that showed that K8s were not preparing students as well for high school as middle schools", from memory, around 2017 [YT:5RMfvT-sAPU@2:43:18](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9798s).
+   - Analysis: no such study is in this archive. A colleague replied that she had been "surprised to not find a truly compelling case for the middle school model" [YT:5RMfvT-sAPU@2:44:06](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=9846s) *(medium; probably La Forte)*.
+   - Consolidating middle schools also produces 700+ student middle schools such as Hosford and Brentwood, well above the 500 threshold [YT:zOUH2Jq7Owo@3:00:22](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10822s) [BB:14511742 p.10]. That sits uneasily with his small-school-feel concern [YT:h_0YMlJnXPk@1:49:11](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=6551s).
+
+---
+
+## What would move him
+
+His own words name the conditions:
+- **Outcome evidence.** "I just need to see the work and um what it means for our students" [YT:5RMfvT-sAPU@2:24:43](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8683s). If the recommendation cannot show that closures reach the well-resourced standard, he is likelier to back a smaller version (B) than to defer. "I'm not afraid of smaller numbers" [YT:5RMfvT-sAPU@2:23:32](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8612s).
+- **Equity shown, not asserted.** "show the work … the more guard rails we have around u minimizing the impact for those especially those populations that have been through already plenty of changes" [YT:5RMfvT-sAPU@2:24:15](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=8655s). A strong equity-impact finding against a specific closure would move him on that school, not on the package.
+- **Receiving-school readiness.** He flagged Dr. Green's finding that outcomes depend on whether the receiving school is "well resourced or strong culturally" [YT:uAf7l-ChjFo@3:29:05](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=12545s) *(medium)*. Evidence that receiving schools are unready could slow phasing.
+- **Staff modeling.** He will accept amendments only if they are modeled by staff [YT:zOUH2Jq7Owo@3:18:54](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11934s). A floor amendment without modeling is likely to draw a no.
+- **Unlikely to move him:** turnout, protests or petitions. He has framed these as the "loud voices" problem repeatedly. Analysis: the recall effort [NEWS:NEWS-20260918-katu-1] is more likely to harden him than soften him, but this is inference.
+
+---
+
+## Watch items before 12/15
+
+- **10/13 TLE (DLI and middle grades)** and the **10/20 board meeting.** Does he press for the split-feeder list he requested on 10/6 [YT:zOUH2Jq7Owo@3:19:12](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11952s)? Does he defend the middle-school consolidations (Sellwood → Hosford/Brentwood) against Engelsman's size objections?
+- **10/20 executive session on real estate** [YT:zOUH2Jq7Owo@4:20:44](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15644s) and any **surplus-property policy** move. Listen for whether he backs a charter or privatization bar, which is a cheap way to answer opponents.
+- **11/4 board meeting, 11/9 FIO, 11/10 TLE** [BB:14511742 p.45]. On FIO he may face the Rose City Park and Marysville seismic questions tied to his 9/9/25 premise.
+- **11/17 superintendent recommendation and fiscal impact statement** [BB:14511742 p.45].
+  - Listen for whether he keeps linking closures to the $65M gap once the net savings are on paper.
+  - Watch whether the recommendation reports his metrics (SPED split time, art FTE).
+- **How he runs the 12/15 meeting as chair.** He controls the order of amendments and has twice opposed late-posted amendments (3/4/25 [YT:GM0ozDVDOQ4@3:31:21](https://www.youtube.com/watch?v=GM0ozDVDOQ4&t=12681s); 4/14/26 [YT:AH3wdS1A3sM@2:08:34](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7714s)). Expect him to require that amendments are posted and vetted by staff in advance.
+- **Recall petition timeline.** About three months from mid-September puts the signature deadline close to the vote [NEWS:NEWS-20260918-katu-1]. Watch whether this affects his tone or the coalition (Chase-Miller, DePass and Sullivan with him) [MTG:2026-10-06/769955] (see `analysis/meetings/2026-10-06_zOUH2Jq7Owo.md`).
+- **Title I framing.** On 9/15 he called the Title I data "one of the things I will be paying attention to" [YT:uAf7l-ChjFo@3:37:37](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13057s). Watch whether he asks for changes to the six Title I closures named in both scenarios, or defends them on the 9/15 fragility data.

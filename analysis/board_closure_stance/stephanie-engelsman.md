@@ -1,0 +1,212 @@
+# Stephanie Engelsman: closure stance (Jan 2025 to Oct 2026)
+
+- **Seat:** Zone 6 (SE Portland). Elected May 2025 with about 79–82% [NEWS:NEWS-20250520-wweek-2] [NEWS:NEWS-20250522-mercury-1]; PAT-endorsed [NEWS:NEWS-20250324-wweek-1]. Term 7/2025–6/2029.
+- **Background:** public defender. Parent of three PPS children: a fifth grader at Abernethy and two sixth graders at Hosford in April 2026 [YT:QV-at-0Mjzc@0:08:39](https://www.youtube.com/watch?v=QV-at-0Mjzc&t=519s).
+- **Roles:** Audit and Policy committees in 2025-26; Policy Committee chair in 2026-27 [MTG:2026-09-22/767981]. Withdrew from the July 2026 chair race [MTG:2026-07-07/753974].
+- Sources: verified against transcripts, minutes and PPS documents; the profile `analysis/people/stephanie-engelsman.md` was used only as a starting point. Scores are in `stephanie-engelsman_scores.csv` (37 points).
+
+## Bottom line
+
+**Current score (Oct 2026): −2. Range −2 to −1.**
+
+On Oct 6 she called the draft scenarios "mayhem". She has voted against the one resolution that committed PPS to closures (Res. 7296), and she has made lower class sizes a condition of support, which staff say is outside the rightsizing scope. Analysis: a yes vote on Dec 15 is unlikely (roughly 15–20%). The only route her own words leave open is a heavily amended, smaller package. Her Oct 6 remark that she would be "flustered" if the board adopted the plan "without any changes" points the same way.
+
+**Trajectory:**
+- Through 2025 she treated closures as a likely fiscal fact (0).
+- From Feb to Aug 2026 she was a process-focused skeptic (mostly −1). She engaged on guiding principles and voted for Res. 7307.
+- She hardened when the scale jumped to about 20 closures (Sept 1–15) and when the scenarios were released (Oct 6: −2).
+
+> Verification note: an April 27, 2026 line sometimes attributed to her, "the goal is to end up with great schools, not less of what we have now", is a **parent's comment that she quoted** at a listening session [YT:2bSmBVuoajw@0:16:00](https://www.youtube.com/watch?v=2bSmBVuoajw&t=960s). It is not scored as her own stance. Her own words in that turn were a request to staff: "so I would ask you to tell us what we should be shooting for if we do this" [YT:2bSmBVuoajw@0:16:23](https://www.youtube.com/watch?v=2bSmBVuoajw&t=983s).
+
+## Timeline
+
+Scores answer: "If the Dec 15 vote were held on that date, how likely is she to vote to adopt a closure package?" (+2 strongly for, −2 strongly against). Quote attributions are high confidence unless marked *(medium)*.
+
+| Date | What she said or did | Score | Note |
+|---|---|---|---|
+| 2025-09-09 | "PPS doesn't have a penny to spend on this. We're going to be having conversations about closing schools." [YT:HGAs0lyZ6kw@1:43:57](https://www.youtube.com/watch?v=HGAs0lyZ6kw&t=6237s) | 0 | Closures cited as a fiscal fact, in an argument against new facility costs (CBSE) |
+| 2025-10-20 | "...because we clearly have unhappy families, as well as lowering birth rates..." [YT:XKKOGk4XJBo@1:18:13](https://www.youtube.com/watch?v=XKKOGk4XJBo&t=4693s) | −1 (low) | Treats decline as partly fixable dissatisfaction. Said during a contracting-threshold debate |
+| 2026-01-13 | Only **no** on Res. 7229 (Jefferson boundaries, 6–1). Statement: "Reducing enrollment at Roosevelt might be a significant step back for that school." [BB:3998053 p.4] [BB:3998053 p.6] | −1 | Resists rebalancing that shrinks another school |
+| 2026-01-27 | "The self-fulfilling prophecy of it is that people would come to our schools and so our enrollment would go up and so funding would go up" [YT:-NpJZaLR81U@1:23:49](https://www.youtube.com/watch?v=-NpJZaLR81U&t=5029s) | −1 | Investment, not contraction |
+| 2026-02-10 | "We have buildings with extra space in them." (pre-K proposal) [YT:s2BtyvEqG-o@3:50:50](https://www.youtube.com/watch?v=s2BtyvEqG-o&t=13850s) | −1 (low) | Fill space rather than shed it |
+| 2026-02-24 | MLC 9-12: "Yes, I think we did it wrong. We should acknowledge that. Move all the way back and then start again." [YT:3sggkeHNIVk@1:42:45](https://www.youtube.com/watch?v=3sggkeHNIVk&t=6165s). Also: "the outcome is not what is my focus right now. My focus is the process." [YT:3sggkeHNIVk@1:19:34](https://www.youtube.com/watch?v=3sggkeHNIVk&t=4774s) | −1 | Wants the closure reversed and folded into the fall process; she said "the result may end up being the same" [YT:3sggkeHNIVk@1:20:55](https://www.youtube.com/watch?v=3sggkeHNIVk&t=4855s) |
+| 2026-03-10 | "to convince me that right sizing and blending schools is in our best interest with enrollment decline, I want to make sure that we are not compounding our problems" [YT:qiCQKmMdLr4@2:50:01](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10201s) | −1 | Cites Bridger's post-merger shrinkage; burden of proof on staff |
+| 2026-03-10 | "So for me, I think just doing it all at once, it gives more um transparency, more um people know it's coming" [YT:qiCQKmMdLr4@2:55:49](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10549s) | 0 | Backs districtwide *scope*; also asked that the recommendation come by October [YT:qiCQKmMdLr4@2:56:21](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10581s) |
+| 2026-03-12 | "I would love to know what happened if we just let everyone who wanted to get in in." [YT:SPc05NM0oYs@1:18:44](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4724s). Small schools "are desperately trying to grow their enrollment." [YT:SPc05NM0oYs@1:20:46](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4846s) | −1 | Expand popular programs; grow small schools |
+| 2026-03-31 | "it feels easier, not easy, but easier to put middle schoolers and high schoolers on a longer commute than our littles" [YT:QIfmGcbkkLE@1:49:03](https://www.youtube.com/watch?v=QIfmGcbkkLE&t=6543s) *(medium)* | 0 | Design condition; implicitly accepts longer commutes for older students |
+| 2026-04-11 | "our community schools, our DLI, our lottery schools are all amazing places where people should send their kids." [YT:QV-at-0Mjzc@0:09:32](https://www.youtube.com/watch?v=QV-at-0Mjzc&t=572s) | −1 | Grow enrollment everywhere; praised Creston's kindergarten gain |
+| 2026-04-14 | "we don't actually need a resolution today to start a right-sizing process. We have already started it." [YT:AH3wdS1A3sM@1:41:09](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6069s) | −1 | Procedural: postpone and combine the resolutions |
+| 2026-04-14 | Co-authored the La Forte guardrail amendment and voted **yes** (failed 3–4) [BB:3990653] [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:13:13](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=7993s) | 0 | Guardrails are conditions staff can meet. The minutes text says "passed (4-yes, 3-no)" but lists 3 yes; the video says 3–4 |
+| 2026-04-14 | Seconded and voted **yes** on Splitt's wording: "will include school and program closures, consolidations, or boundary changes" (6–0–1) [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:15:02](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=8102s) | 0 | The "or" makes closures non-mandatory |
+| 2026-04-14 | Moved "will"→"may" (failed 2–5; Engelsman and Sullivan yes) [BB:3998077 p.4] [YT:AH3wdS1A3sM@2:15:48](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=8148s) | −1 | Wanted closures explicitly optional |
+| 2026-04-14 | **No** on Res. 7296, the rightsizing launch (passed 5–2; Engelsman and La Forte no) [BB:3998077 p.3] [YT:AH3wdS1A3sM@2:17:59](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=8279s) | −1 | The key vote. Her stated reasons were process and guardrails, not "no closures" |
+| 2026-04-20 | "try to step away from um an allegiance you may have to your beloved school and think bigger picture" [YT:jBUIkfQZu-k@0:07:06](https://www.youtube.com/watch?v=jBUIkfQZu-k&t=426s). Also: "If we're going to do this, how do we do it so at the end everybody feels like they were heard" [YT:jBUIkfQZu-k@0:07:13](https://www.youtube.com/watch?v=jBUIkfQZu-k&t=433s) | 0 | Conditional acceptance; system-wide framing |
+| 2026-04-27 | Relayed a parent's comment (see verification note), then: "so I would ask you to tell us what we should be shooting for if we do this" [YT:2bSmBVuoajw@0:16:23](https://www.youtube.com/watch?v=2bSmBVuoajw&t=983s) | 0 | Not her own goal statement |
+| 2026-04-28 | "people want to know that if and after we do this that we're going to end up with something a lot better than what we have instead of just less of what we already have." [YT:j9PzUvPpSVA@5:06:40](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=18400s) *(medium)* | 0 | Condition: better-resourced schools. Attribution evidence: she refers to her own post-Kellogg email, which she described on 4/14 [YT:AH3wdS1A3sM@1:40:43](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6043s) |
+| 2026-05-12 | "I worry that the that the linguistics here suggest to neighborhood schools that those are the ones that are being looked at" [YT:OLAZDzvg3RM@4:30:21](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16221s). Asked that the fourth-ranked community priority (walkability/proximity) be added [YT:OLAZDzvg3RM@4:31:48](https://www.youtube.com/watch?v=OLAZDzvg3RM&t=16308s) | 0 | Constructive work on the principles |
+| 2026-05-26 | "So there is an actual board policy requiring school closure report that includes a financial impact plus or minus because it's not just what we save, it's also what we then spend on transportation." [YT:AAWpafO4vvQ@1:55:47](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6947s) *(medium)* | 0 | Policy 6.10.030 fiscal report; staff can meet this |
+| 2026-05-26 | **Yes** on Res. 7307, guiding principles and work plan (7–0) [BB:3998080 p.3] [YT:AAWpafO4vvQ@2:22:46](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=8566s) | 0 | Buy-in to the framework (includes "prioritize walkability" [BB:3998080 p.9]); not a magnitude vote |
+| 2026-06-23 | Res. 7342 to restore $13.12M in school staffing failed 1–6; she was the lone abstention on the budget [BB:3998082 p.4–5]. Said: "why are we even looking for money to fund staff interacting with our students?" [YT:yinJ7KK-Bqc@4:12:07](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15127s) | −1 | Argued that cuts lose students: "So if we lose 1,822 students or 1,823" [YT:yinJ7KK-Bqc@4:13:24](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15204s) |
+| 2026-08-04 | "How many families did PPS lose as a result of school closure boundary change?" [YT:-qhL23TOZTs@1:10:55](https://www.youtube.com/watch?v=-qhL23TOZTs&t=4255s) | −1 | Fears family flight |
+| 2026-08-04 | "I would like to hear a commitment that the district, we the district are going to follow the all of the QEM suggestions or prototypes." [YT:-qhL23TOZTs@1:46:49](https://www.youtube.com/watch?v=-qhL23TOZTs&t=6409s) *(medium)* | −1 | QEM class sizes as a condition. Speaker unnamed; she repeats the same Green p.144 argument on 9/1 [YT:5RMfvT-sAPU@1:51:59](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6719s) |
+| 2026-09-01 | "if drawing boundaries and re realigning boundaries is sufficient, then I think that's a great place to start." [YT:5RMfvT-sAPU@1:56:46](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7006s). Also: "I can't say I want to move forward with this process without some of these answers" [YT:5RMfvT-sAPU@1:57:06](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7026s) | −1 | Answer to Armstrong's magnitude question; reported in [NEWS:NEWS-20260903-wweek-1] |
+| 2026-09-01 | "bigger schools cannot unless we are legitimately looking at keeping class sizes small and giving the kids what they need to learn are not always better." [YT:5RMfvT-sAPU@1:47:15](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6435s) | −1 | Rejects the premise that bigger is better |
+| 2026-09-01 | "I was a little unhappy with that honestly when I thought we were closing 8 to 10 schools, but now that we're talking about potentially closing 20" [YT:5RMfvT-sAPU@1:54:45](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6885s) | −1 | Scale alarm; implies about 8–10 had been her working baseline |
+| 2026-09-01 | **No (inferred)** on the superintendent contract (5–2). Said: "the conversation took a sharp turn last week from closing five to eight schools to closing 20 schools." [YT:5RMfvT-sAPU@3:27:55](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=12475s) [YT:5RMfvT-sAPU@3:32:22](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=12742s) [NEWS:NEWS-20260902-wweek-1] | −1 (medium) | Budget vote framed around closure scale |
+| 2026-09-15 | "even with potentially closing 20 schools, that we're not going to have well resourced everywhere and right-sized everywhere" [YT:uAf7l-ChjFo@3:38:02](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13082s). Also: "what feels like another 90 degree change" [YT:uAf7l-ChjFo@3:38:41](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13121s) | −1 | The promised payoff shrank |
+| 2026-09-15 | "If we're closing 20 schools and we're not, we're still going to have the same um medium median median of class sizes. To me, that's just not acceptable." [YT:uAf7l-ChjFo@3:45:20](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13520s). Also: "We're just ending up with the same schools, just less buildings." [YT:uAf7l-ChjFo@3:45:54](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13554s) | −1 | Hard condition; PPS says class-size capping is outside rightsizing [BB:14493920 p.33] |
+| 2026-09-15 | Her draft "Rightsizing Resolution" (hiring freeze, COLA freeze over $200K, 10% contract cut, property review, city money) [BB:14383792] got no board direction [YT:uAf7l-ChjFo@5:04:17](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=18257s). She said: "these will be things that I need to know have been looked at." [YT:uAf7l-ChjFo@5:04:34](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=18274s) | −1 | Wants non-school savings exhausted first |
+| 2026-09-23 | "...I would love to have a presentation on the buildings that we own, how long they've sat, what we're doing with those" [YT:zfvbTie4mpE@0:33:27](https://www.youtube.com/watch?v=zfvbTie4mpE&t=2007s) | 0 | Data request staff can meet |
+| 2026-10-06 | "to me this plan is mayhem." [YT:zOUH2Jq7Owo@2:56:43](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10603s). Also: "There are over 40 of our sites are touched." [YT:zOUH2Jq7Owo@2:56:54](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10614s) | **−2** | Opposes Scenarios A and B as drafted; also in [NEWS:NEWS-20261006-opb-1] |
+| 2026-10-06 | "I am alarmed by the school deserts that are being created around the city where there's not going to be an elementary school that children can walk and bike to." [YT:zOUH2Jq7Owo@2:57:27](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10647s). Also: "It's going to take these kids a very long time to get home, which is frankly widening an equity gap" [YT:zOUH2Jq7Owo@2:58:40](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10720s) | **−2** | Substantive, not procedural; also in [NEWS:NEWS-20261006-katu-1] |
+| 2026-10-06 | Asked whether Clark should be consolidated: "I don't know. Oh, I'm recommending that you do the work" [YT:zOUH2Jq7Owo@3:08:49](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11329s). Also: "I don't want to leave an elementary school lower than we start at" [YT:zOUH2Jq7Owo@3:08:54](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11334s) | 0 | Mixed: she objects to keeping a sub-300 school open and smaller |
+| 2026-10-06 | "I would be flustered if the seven of us up here just were to accept the best but not final thinking without any changes." [YT:zOUH2Jq7Owo@3:12:17](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11537s) | −1 | Expects amendments rather than a straight rejection |
+
+**Unconfirmed (low or unclear attribution; not scored):**
+- 4/22: an unnamed member said reserves are at the 5% floor [YT:h_0YMlJnXPk@0:55:27](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=3327s) and explained PERS and benefits costs [YT:h_0YMlJnXPk@1:20:40](https://www.youtube.com/watch?v=h_0YMlJnXPk&t=4840s). The summary records Engelsman or Splitt, low confidence.
+- 5/5 retreat: a proposal to move board elections to November [YT:QaqhAhHyy7M@1:17:39](https://www.youtube.com/watch?v=QaqhAhHyy7M&t=4659s), Engelsman or DePass.
+
+## Contradictions and shifts
+
+**1. From "process, not outcome" to outcome-based objections.** *Shift, conditioned on new information.*
+- Feb 24: "the outcome is not what is my focus right now. My focus is the process." [YT:3sggkeHNIVk@1:19:34](https://www.youtube.com/watch?v=3sggkeHNIVk&t=4774s) She added that "the result may end up being the same" [YT:3sggkeHNIVk@1:20:55](https://www.youtube.com/watch?v=3sggkeHNIVk&t=4855s).
+- Oct 6: "I am alarmed by the school deserts..." [YT:zOUH2Jq7Owo@2:57:27](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10647s). "to me this plan is mayhem." [YT:zOUH2Jq7Owo@2:56:43](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10603s)
+- Analysis: once named schools appeared, her objections moved from procedure to substance: walkability, bus times, middle schools of 700+. She still makes process complaints ("I got briefed yesterday at 3:00..." [YT:zOUH2Jq7Owo@2:56:04](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10564s)), but these are no longer her main objection.
+
+**2. District-wide scope vs. district-wide disruption.** *Refinement, with real tension.*
+- Mar 10: "just doing it all at once, it gives more um transparency" [YT:qiCQKmMdLr4@2:55:49](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10549s).
+- Oct 6: "There are over 40 of our sites are touched." [YT:zOUH2Jq7Owo@2:56:54](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10614s)
+- Analysis: she backed doing the whole district at once, which almost guarantees that many sites change. Her later objection is to how many sites change and to closures specifically. She has not said which closures, if any, she would accept.
+
+**3. Implicit magnitude baseline vs. "not ready to move forward."** *Conditioned on new information.*
+- Sept 1: "I was a little unhappy with that honestly when I thought we were closing 8 to 10 schools, but now that we're talking about potentially closing 20" [YT:5RMfvT-sAPU@1:54:45](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6885s). Same day: "a sharp turn last week from closing five to eight schools to closing 20 schools" [YT:5RMfvT-sAPU@3:27:55](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=12475s).
+- Same session: "I can't say I want to move forward with this process without some of these answers" [YT:5RMfvT-sAPU@1:57:06](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7026s).
+- Analysis: the first remarks suggest she had been working with a single-digit closure count. The Oct scenarios (11 or 14 closures [BB:14509719 p.1]) are closer to that baseline than to 20. Even so, she called the plan "mayhem". Her objection is therefore not only about the count.
+
+**4. "Will" vs. "may" on Res. 7296.** *Consistent, not a reversal.*
+- Apr 14: she seconded and voted for "will include school and program closures, consolidations, or boundary changes" [BB:3998077 p.4].
+- Minutes later she moved "may" [YT:AH3wdS1A3sM@2:15:48](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=8148s), then voted no on the final resolution [BB:3998077 p.3].
+- Analysis: the "or" made closures non-mandatory, so the two votes are compatible. Both show she wanted to avoid committing to closures in advance.
+
+**5. School size: neither too small nor too big.** *Internal tension.*
+- Mar 12, on keeping cohorts together: "so if 60 kids are going into a school of um 500 to see each other could be really positive" [YT:SPc05NM0oYs@1:17:03](https://www.youtube.com/watch?v=SPc05NM0oYs&t=4623s).
+- Sept 1: "bigger schools ... are not always better" [YT:5RMfvT-sAPU@1:47:15](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6435s).
+- Oct 6, on Whitman: "if it makes it a school of 500, that's really big and it's much bigger than our targeted value of 360" [YT:zOUH2Jq7Owo@3:00:06](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10806s). On Clark: "I don't want to leave an elementary school lower than we start at" [YT:zOUH2Jq7Owo@3:08:54](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11334s).
+- Analysis: her consistent variable is class size, not school size. But in specific cases she objects both to consolidating up (Whitman to about 500) and to leaving a school small (Clark under 300). That narrows the set of options she can support.
+
+**6. "Think bigger picture" vs. a regional focus.** *Tension, not a reversal.*
+- Apr 20: "try to step away from um an allegiance you may have to your beloved school and think bigger picture" [YT:jBUIkfQZu-k@0:07:06](https://www.youtube.com/watch?v=jBUIkfQZu-k&t=426s).
+- Oct 6: most of her objections concerned Southeast schools (Sellwood, Hosford, Brentwood, Bridger, Buckman, Sunnyside, Clark), with Maplewood and Skyline as exceptions. She said "my kids schools are not really affected, though I will talk about that" [YT:zOUH2Jq7Owo@2:57:16](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10636s), then raised Hosford, where her children attend [YT:QV-at-0Mjzc@0:08:39](https://www.youtube.com/watch?v=QV-at-0Mjzc&t=519s), absorbing Sellwood students [YT:zOUH2Jq7Owo@3:00:26](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10826s).
+- Analysis: this is her home region and she knows it best. Still, her detailed objections are concentrated where she lives.
+
+**7. Where the money comes from.** *Asymmetric evidentiary standard (Analysis).*
+- Jun 23, on restoring $13.12M: "First, it's not my job or our job to come up with finding the money. It's our job to protect the students." [YT:yinJ7KK-Bqc@4:11:41](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15101s)
+- On closures she demands a net-savings figure first: "how much are we going to save by closing and laying off?" [YT:5RMfvT-sAPU@1:45:39](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6339s) She also filed a resolution to "turn every stone" for savings [YT:uAf7l-ChjFo@4:45:29](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=17129s).
+- Analysis: the two positions are consistent with one priority (protect student-facing spending). But she asks for proof of savings when PPS cuts and does not apply that standard when she proposes spending.
+
+**8. Seismic speed vs. consolidation coordination.** *Refinement.*
+- Jan 27: "so we can say yes to the next 2, 5, 10, 12 schools" [YT:-NpJZaLR81U@2:02:51](https://www.youtube.com/watch?v=-NpJZaLR81U&t=7371s).
+- Mar 10: "I am worried that there may be a school that is currently sub 300 that in the right sizing conversation ends up being 550 because we collect schools and put them together" [YT:qiCQKmMdLr4@1:31:34](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=5494s).
+- Analysis: she remains pro-seismic. She now wants seismic work sequenced with closure decisions.
+
+## Fixations and recurring themes
+
+**1. Class size and "well-resourced, not just fewer buildings" (about 11 times).** Dec 16 '25 (class caps), Feb 10, Apr 28 (twice), Aug 4, Sept 1 (QEM; a 36-student math class), Sept 15 (twice), Oct 6 (Whitman 500; a 37-student sixth-grade math class), plus written questions [BB:14493920 p.33].
+- "If we're closing 20 schools and we're not, we're still going to have the same um medium median median of class sizes. To me, that's just not acceptable." [YT:uAf7l-ChjFo@3:45:20](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13520s)
+- "We're just ending up with the same schools, just less buildings." [YT:uAf7l-ChjFo@3:45:54](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13554s)
+
+**2. Family flight caused by district decisions (about 10 times).**
+- 2025: Oct 20.
+- 2026: Jan 27; Mar 10 (Bridger); Mar 12 (lottery losers); Apr 28; Jun 23 (1,822 students); Aug 4; Sept 1 (Marshall/Edwards/Bridger); Sept 15 (her own class shrank from 34 to 27); Oct 6 ("our own future um university study").
+- "to convince me that right sizing and blending schools is in our best interest with enrollment decline, I want to make sure that we are not compounding our problems" [YT:qiCQKmMdLr4@2:50:01](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10201s)
+- "they left because we made it too big and we didn't give them what they needed." [YT:uAf7l-ChjFo@3:53:52](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=14032s)
+
+**3. Neighborhood schools, walkability and short commutes for young children (about 9 times).** Mar 10, Mar 12, Mar 31, Apr 22, May 12 (twice), Sept 1 (one-mile radius), Oct 6 (school deserts; bus routes; Maplewood→Rieke).
+- "let's focus on these neighborhood schools because wonderful things happen in our neighborhood schools." [YT:qiCQKmMdLr4@2:51:39](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=10299s)
+- "I am alarmed by the school deserts..." [YT:zOUH2Jq7Owo@2:57:27](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10647s)
+
+**4. Show the numbers first (about 9 times).** Savings per closure, layoffs, transportation cost, empty buildings, closure fiscal report.
+- 2025: Nov 18 (operating costs).
+- 2026: Mar 10 (merger data), May 26 (Policy 6.10.030), Aug 4, Sept 1, Sept 15 (resolution), Sept 23 (building inventory), Oct 6 (net savings; bus-route testing).
+- "I am curious what the estimated cost savings is to closing a school. Um, how many layoffs are anticipated with each school closing?" [YT:5RMfvT-sAPU@1:45:09](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6309s)
+
+**5. Process, transparency and memorializing commitments (about 9 times).**
+- Feb 24.
+- Mar 10 (full board, not TLE; October recommendation; engagement in "every single school").
+- Apr 14 (election-proof written commitments; how resolutions are handled).
+- May 12 and May 26 (timeline and FAQs).
+- Sept 1 (more than three engagement sessions per board member).
+- Oct 6 (late briefing).
+- "Uh we could have an entirely different board because in 2027, there's an election." [YT:AH3wdS1A3sM@1:42:59](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6179s)
+
+**6. SEGC communities hit twice; split feeders (about 6 times).** Feb 24 (SEGC took about two years of engagement), Mar 10 (Bridger), May 26 (fifth graders "taken from their cohort"), Aug 4 (Creston resolution, failed 1–4–1 [BB:14440686 p.2–4]), Oct 6 (schools marked pink for SEGC and green for rightsizing).
+- "the damage that is being done to this very, very small sliver of fifth graders taken from their cohort" [YT:AAWpafO4vvQ@2:01:16](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=7276s) *(medium)*
+
+## Weak points (checked against PPS data)
+
+**Theme 1, class size.**
+- Analysis: her factual reading is correct. Dr. Green's report says the QEM 360-student prototype equals "three classrooms per grade at about 20 students per class" [BB:3997427 p.144]. PPS's own 10/6 data supports her: Richmond (505 students) averages 28.1 per class and Rosa Parks (161) averages 23.0 [BB:14511742 p.7]. The per-pupil savings of large schools come partly from larger classes.
+- The weakness is that her condition is outside what is on the table. PPS answered her directly: "Class size capping is not a part of the rightsizing conversation." [BB:14493920 p.33] Green calls the QEM an adequacy benchmark that Oregon "has not consistently funded" [BB:3997427 p.136].
+- Her alternative also costs more. Keeping small schools open means higher per-pupil cost: Rosa Parks $12,870 vs. Richmond $8,222 [BB:14511742 p.7]. That comes on top of a $65M deficit [YT:zOUH2Jq7Owo@3:45:42](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13542s).
+- She has not said how to fund both smaller classes and more buildings. On June 23 she said finding the money is "not my job or our job" [YT:yinJ7KK-Bqc@4:11:41](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=15101s).
+
+**Theme 2, family flight.**
+- Analysis: PPS's answer to her own question does not support the strong version of her claim. "while building retention dropped during consolidation, district retention remained stable at over 93%" [BB:14493920 p.22].
+- Green found that families in relocated DLI programs largely stayed in PPS [BB:3997427 p.122]. On Aug 4 he told her "families tended to typically stay even when their program got relocated to another school." [YT:-qhL23TOZTs@1:11:53](https://www.youtube.com/watch?v=-qhL23TOZTs&t=4313s)
+- Her concern is not baseless. Green's executive summary reports SEGC elementary enrollment fell 20% vs. 14% at non-SEGC schools [BB:3997427 p.6]. Bridger Creative Science fell from 515 to 446 in two years [PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf]. The staff Q&A, however, says the SE decline "was not significantly different from the district overall" [BB:14493920 p.29]. The evidence is mixed, and it does not show large district exits.
+- Her own school is a counterexample to "closure causes flight". Abernethy fell from 520 (2018-19) to 269 (2025-26) without any closure [PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf]. Her "over 550" figure for 2019-20 [BB:14493920 p.23] is higher than the 507 PPS reports for that year.
+
+**Theme 2a, enrollment recovery.**
+- Analysis: she asked whether kindergarten was rising for a second year [YT:uAf7l-ChjFo@3:42:03](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13323s). PPS reported kindergarten at 115 below baseline and 65 below last year, with total K-12 about 700 below last October [BB:14493920 p.32] [YT:uAf7l-ChjFo@3:42:34](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13354s).
+- She asked for test data to "debunk this idea that small schools aren't working" [YT:5RMfvT-sAPU@1:51:36](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6696s). PPS replied that its dashboard shows "no data supporting that smaller schools have higher test scores", with scores "better predicted by socio-economic status" [BB:14493920 p.27]. To be fair, the same answer gives no evidence that larger schools do better either.
+- Her "grow instead of close" case (Jan 27, Mar 12, Apr 11) has no supporting enrollment data in this archive. Res. 7296 recites a decline forecast for at least five more years [BB:3998077 p.13].
+
+**Theme 3, walkability and school deserts.**
+- Analysis: this is her strongest ground. Res. 7307, which she voted for, says PPS will "prioritize walkability and safe routes to schools" [BB:3998080 p.9]. Staff's memo concedes that consolidation "may lengthen some students' trips" and that transportation "will require further implementation planning" [BB:14509719 p.1–2].
+- The weakness is that the status quo is not walkable for many families either. By her own account, PPS bused her children 1.1 miles past two closer schools, and a family across from Richmond cannot attend it [YT:5RMfvT-sAPU@1:50:14](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6614s) [BB:14493920 p.25]. Choice programs, not closures, drive much of that. The fix she proposes (boundaries drawn about one mile around schools) is itself a large redesign.
+
+**Theme 4, show the numbers.**
+- Analysis: her core request is legitimate and not yet met. Staff said they are "not um exclaiming some you know huge dollar amount from closures and savings" [YT:zOUH2Jq7Owo@3:44:19](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13459s), said layoffs "can not be determined at this time" [BB:14493920 p.7], and promised a fiscal statement only with the Nov 17 recommendation [YT:zOUH2Jq7Owo@3:52:57](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13977s).
+- Part of her framing is overstated. She described a "growing portfolio of closed buildings" [YT:5RMfvT-sAPU@1:47:35](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6455s). PPS says it has two vacant buildings: Kenton, which is leased, and Smith, at about $70K a year [BB:14493920 p.23].
+- The equity audit backs her underlying point that building disposition should be decided "before closure votes, not after" [BB:14493920 p.29].
+
+**Theme 4a, size thresholds.**
+- Analysis: on Oct 6 she treated 360 as a "targeted value" and a 500-student school as too big [YT:zOUH2Jq7Owo@3:00:06](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10806s). PPS defines 360 as a floor ("stable enrollment of 360 or more"; 500 or more also counts as stable) [BB:14493920 p.23].
+- Green suggested 450 as a "practical elementary planning floor" [BB:3997427 p.144], and he calls the thresholds "planning floors", not targets [BB:3997427 p.141].
+- Her middle-school figures check out: Hosford had 528 and Sellwood 564 in 2025-26 [PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf]. Her warning that Hosford would pass 700 is plausible.
+
+**Theme 5, process.**
+- Analysis: her complaints have a factual basis. She was briefed the day before the release [YT:zOUH2Jq7Owo@2:56:04](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10564s), and the FAQ was thin until September [BB:14493920 p.27].
+- But on Apr 14 she argued the board did not need a resolution to proceed [YT:AH3wdS1A3sM@1:41:09](https://www.youtube.com/watch?v=AH3wdS1A3sM&t=6069s), and then voted no on the one that set the calendar she now says is too compressed. The board also adopted the guardrails she wanted (an equity analysis per scenario; operational and financial feasibility) in Res. 7307 [BB:3998080 p.9], which she voted for.
+- Process objections are therefore a weaker basis for a December no than her substantive ones.
+
+**Theme 6, SEGC harms.**
+- Analysis: the scenario memo says boundary changes "address split feeders, with facility conditions and prior student transitions informing implementation planning" [BB:14509719 p.3]. Green's audit reports "no evidence of differences in student outcomes" for students moved under SEGC, as summarized by staff [BB:14493920 p.29].
+- Her strongest version of this point is about cumulative disruption to the same communities (Bridger, Creston), which Res. 7307 already lists as an equity criterion [BB:3998080 p.9]. Her argument is that PPS is not applying a criterion it already adopted.
+
+## What would move her
+
+Her own words suggest these conditions:
+1. **A fiscal impact statement for each closure, net of transportation, building carrying costs and transition staffing** (Policy 6.10.030; Sept 1 questions) [YT:AAWpafO4vvQ@1:55:47](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6947s) [YT:5RMfvT-sAPU@1:45:09](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=6309s).
+2. **A class-size commitment written into the package** ("I need to hear that there's at least appetite, interest, willingness to discuss class sizes") [YT:uAf7l-ChjFo@3:45:39](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=13539s), plus published descriptions of well-resourced schools [BB:3998080 p.9].
+3. **A boundaries-first alternative**, showing what realignment alone achieves [YT:5RMfvT-sAPU@1:56:46](https://www.youtube.com/watch?v=5RMfvT-sAPU&t=7006s).
+4. **Changes to the Southeast specifics she raised.** These include Sellwood's split into Hosford and Brentwood, middle-school size caps, Sunnyside and Laurelhurst losing grades 6–8, Buckman arts, Clark, Maplewood→Rieke vs. Capitol Hill/Markham, Skyline across the St. Johns Bridge, and sports teams for merged middle schools [YT:zOUH2Jq7Owo@2:59:44–3:08:00](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10784s).
+5. **Tested bus routes and an elementary school within walking or biking distance of each neighborhood** [YT:zOUH2Jq7Owo@3:04:02](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11042s).
+6. Analysis: evidence that past consolidations did not push families out did **not** move her when PPS supplied it (93% district retention [BB:14493920 p.22]). Further retention data is unlikely to be decisive.
+
+## Watch items before Dec 15
+
+- **10/13 TLE (dual language and middle grades).** She said she plans to attend TLEs virtually [YT:qiCQKmMdLr4@2:46:21](https://www.youtube.com/watch?v=qiCQKmMdLr4&t=9981s). Listen for her on middle-school size caps (Hosford, Brentwood) and on the Clark/DLI split.
+- **10/20 board meeting.** There will be an executive session on the real-estate portfolio [YT:zOUH2Jq7Owo@4:20:39](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15639s) and the deferred Cleveland/Marshall transportation item [MTG:2026-10-06/769955]. Listen for whether she treats the building inventory as answered, and whether she ties the Marshall swing-site bus problems to the scenarios.
+- **11/4 FIO and 11/10 TLE.** Do her roughly 20 written questions [YT:zOUH2Jq7Owo@2:56:33](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=10593s) appear in the board question tracker, and are they answered?
+- **11/17 superintendent recommendation, fiscal impact statement and staffing plan.** This is pivotal [YT:zOUH2Jq7Owo@3:52:57](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13977s) [YT:zOUH2Jq7Owo@3:45:42](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=13542s). Listen for:
+  - a net-savings figure per closure, including transport;
+  - any class-size language;
+  - whether Sellwood, Creston, Buckman and the SE middle-school plan change.
+  - If the recommendation is "exactly the same", expect a firm no ("I'm I'm hoping it's not exactly the same" [YT:zOUH2Jq7Owo@3:12:15](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11535s)).
+- **Amendments vs. deferral.** School-specific amendments from her would signal movement toward a conditional yes (−1 or 0). A motion to defer would confirm −2 (the superintendent listed deferral as an option [YT:zOUH2Jq7Owo@3:11:30](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11490s)).
+- **Coalition.**
+  - Analysis: on 10/6 Splitt said the plan is too big and La Forte said she cannot decide without cost data [MTG:2026-10-06/769955]. With Engelsman that makes three skeptics.
+  - Sullivan joined her on the guardrails and on "may" (Apr 14), but on Oct 6 she said "something needs to be done" [YT:zOUH2Jq7Owo@3:16:09](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11769s).
+  - Watch Sullivan to judge whether Engelsman is part of a blocking group or an isolated no.
+- **First December board meeting.** The span-of-control analysis is due [MTG:2026-09-15/766050]. Watch whether she links central-office savings to her closure vote, as her draft resolution did [BB:14383792].
