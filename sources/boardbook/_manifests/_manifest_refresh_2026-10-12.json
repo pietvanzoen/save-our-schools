@@ -7,7 +7,7 @@
   "bytes": 1684544,
   "pages": 14,
   "fetched_at": "2026-10-12T23:10:00Z",
-  "note": "TEXT ONLY: extracted in the browser with pdf.js 3.11.174 (pages separated by form feed). The PDF itself did not reach the archive (browser download failed); fetch it on the next refresh and re-run extract_pdf_text.py."
+  "note": "SUPERSEDED same day: the original files arrived (see _manifest_bb_771664.json / _manifest_bb_771676.json) and replaced this stopgap; .pdf.txt regenerated with extract_pdf_text.py. Original note: TEXT ONLY: extracted in the browser with pdf.js 3.11.174 (pages separated by form feed). The PDF itself did not reach the archive (browser download failed); fetch it on the next refresh and re-run extract_pdf_text.py."
  },
  {
   "path": "boardbook/meetings/2026-10-13_771664_teaching-learning-and-enrollment-committee-meeting/attachments/14535647_TLE_Presentation_Middle_Grades.pdf.txt",
@@ -17,7 +17,7 @@
   "bytes": 880582,
   "pages": 14,
   "fetched_at": "2026-10-12T23:10:00Z",
-  "note": "TEXT ONLY: extracted in the browser with pdf.js 3.11.174 (pages separated by form feed). PDF not yet archived."
+  "note": "SUPERSEDED same day: the original files arrived (see _manifest_bb_771664.json / _manifest_bb_771676.json) and replaced this stopgap; .pdf.txt regenerated with extract_pdf_text.py. Original note: TEXT ONLY: extracted in the browser with pdf.js 3.11.174 (pages separated by form feed). PDF not yet archived."
  },
  {
   "path": "boardbook/meetings/2026-10-13_771664_teaching-learning-and-enrollment-committee-meeting/agenda.html",
@@ -25,7 +25,7 @@
   "status": 200,
   "content_type": "text/html",
   "fetched_at": "2026-10-12T23:12:00Z",
-  "note": "REDUCED SNAPSHOT: agenda rows only, rebuilt from the live page. Public notice PDF 14533563 (3 pages, 207,956 bytes) not archived; its agenda matches."
+  "note": "SUPERSEDED same day: the original files arrived (see _manifest_bb_771664.json / _manifest_bb_771676.json) and replaced this stopgap; .pdf.txt regenerated with extract_pdf_text.py. Original note: REDUCED SNAPSHOT: agenda rows only, rebuilt from the live page. Public notice PDF 14533563 (3 pages, 207,956 bytes) not archived; its agenda matches."
  },
  {
   "path": "boardbook/meetings/2026-10-13_771676_intergovernmental-affairs-committee-meeting/agenda.html",
@@ -33,7 +33,7 @@
   "status": 200,
   "content_type": "text/html",
   "fetched_at": "2026-10-12T23:12:00Z",
-  "note": "REDUCED SNAPSHOT: agenda rows only. Public notice PDF 14533614 not archived."
+  "note": "SUPERSEDED same day: the original files arrived (see _manifest_bb_771664.json / _manifest_bb_771676.json) and replaced this stopgap; .pdf.txt regenerated with extract_pdf_text.py. Original note: REDUCED SNAPSHOT: agenda rows only. Public notice PDF 14533614 not archived."
  },
  {
   "path": "boardbook/boardbook_index_2025_2026.json",
