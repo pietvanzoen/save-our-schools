@@ -1,14 +1,14 @@
 # News coverage index: Portland Public Schools (PPS)
 
-`index.jsonl` holds one record per article, district release or advocacy item. Records were retrieved on three passes: 2026-10-10 (131 records) and 2026-10-11 (102 records, appended below the first set), both through WebSearch and WebFetch, and a third pass on 2026-10-11 that read 163 Oregonian/OregonLive articles through the user's own subscriber Chrome session (157 new records appended, 6 headline-only records upgraded in place with their ids kept). Each record's provenance is in its `url` and `retrieved` fields. Per CLAUDE.md rule 8, the index stores metadata, a summary in my own words, short numeric facts and quotes under 25 words. It never stores article text.
+`index.jsonl` holds one record per article, district release or advocacy item. Records were retrieved on three passes: 2026-10-10 (131 records) and 2026-10-11 (102 records, appended below the first set), both through WebSearch and WebFetch, and a third pass on 2026-10-11 that read 163 Oregonian/OregonLive articles through the user's own subscriber Chrome session (157 new records appended, 6 headline-only records upgraded in place with their ids kept). A fourth pass on 2026-10-12 (refresh for Oct. 10–12) added 10 records: 3 KOIN and 1 WW read in the user's Chrome (koin.com and wweek.com pages that WebFetch cannot reach), 2 OregonLive pages read the same slow, subscriber way, and 4 regional/aggregator items via WebFetch (Portland Observer, 106.7 The Eagle, Seattle Red/KTTH, The Cool Down). Some are backfill from Sept. 19–Oct. 9 that earlier passes missed. Each record's provenance is in its `url` and `retrieved` fields. Per CLAUDE.md rule 8, the index stores metadata, a summary in my own words, short numeric facts and quotes under 25 words. It never stores article text.
 
-- **Records:** 390 (131 from the first pass, 102 from the second, 157 new from the Oregonian pass)
-- **Date range:** 2024-08-20 to 2026-10-11. A handful of 2024 background items; everything else is 2025-01-01 or later.
+- **Records:** 400 (131 from the first pass, 102 from the second, 157 new from the Oregonian pass, 10 from the 2026-10-12 refresh)
+- **Date range:** 2024-08-20 to 2026-10-12. A handful of 2024 background items; everything else is 2025-01-01 or later.
 - **Access** (field `access`; some second-pass records also carry `access_note`):
 
 | Access | All | 2nd pass | Meaning |
 |---|---|---|---|
-| `full` | 350 | 63 | Includes the 163 Oregonian records from the third pass (read in a subscriber browser session, one page at a time; `access_note` says so). Otherwise: Article text was read through WebFetch and summarized. Includes 2 mirrors (newsbeep.com copies of a WW and a KGW story), 3 secondary rewrites (Construction Owners Club ×2 and Hoodline, all relying on The Oregonian or DJC) and 1 advocacy-outlet summary (Heartlander). Each is flagged in `access_note` and the outlet name. |
+| `full` | 360 | 63 | Includes the 163 Oregonian records from the third pass (read in a subscriber browser session, one page at a time; `access_note` says so). Otherwise: Article text was read through WebFetch and summarized. Includes 2 mirrors (newsbeep.com copies of a WW and a KGW story), 3 secondary rewrites (Construction Owners Club ×2 and Hoodline, all relying on The Oregonian or DJC) and 1 advocacy-outlet summary (Heartlander). Each is flagged in `access_note` and the outlet name. |
 | `partial` | 2 | 0 | Only part of the page was readable. |
 | `search-snippet-only` | 33 | 28 | Headline and URL from WebSearch only, because the page returned an error. Dates are often estimated (see `date_precision`). |
 | `listing-only` | 5 | 11 | Known only from PPS's own "In The News" list (`pps_in_the_news_list.json`), and the outlet could not be fetched. |
@@ -17,13 +17,13 @@
 
 | Outlet | Records | 2nd pass | Notes |
 |---|---|---|---|
-| Willamette Week | 85 | +30 | Includes 1 letters page and 1 newsbeep mirror. 9 Sept–Oct 2026 WW pages returned server errors and are `search-snippet-only`: 6 from this pass and 3 from the first. |
+| Willamette Week | 86 | +30 | Includes the Oct. 8, 2026 Murmurs item (added 2026-10-12). Includes 1 letters page and 1 newsbeep mirror. 9 Sept–Oct 2026 WW pages returned server errors and are `search-snippet-only`: 6 from this pass and 3 from the first. |
 | KATU | 28 | +11 | |
 | KPTV / FOX 12 | 23 | +8 | Includes the full Armstrong interview of Oct. 5, 2026 (YouTube `vRKUxqyWvYg`, transcript in `sources/youtube/transcripts/`). |
 | KGW | 22 | +22 | KGW pages cannot be fetched (client errors, including AMP and Yahoo copies). 1 is `full` via a newsbeep mirror, 18 are `search-snippet-only` with estimated dates, and 3 are `listing-only`. |
 | OPB | 21 | +3 | |
-| KOIN | 20 | +10 | koin.com now errors. digital-release.koin.com mirrors and Yahoo copies work when they appear in search. |
-| The Oregonian/OregonLive | 163 direct | +6 | All `full` after the third pass: 130 news stories, 23 letters-to-the-editor pages and 10 editorials (2024-08 to 2026-10; 108 by Julia Silverman). The 6 former `listing-only` records were upgraded in place. Also 1 Bend Bulletin reprint (first pass) and the 3 rewrites below. |
+| KOIN | 23 | +10 | 3 added 2026-10-12 by reading koin.com in the user's Chrome. koin.com errors for WebFetch. digital-release.koin.com mirrors and Yahoo copies work when they appear in search. |
+| The Oregonian/OregonLive | 165 direct | +6 | All `full` after the third pass: 130 news stories, 23 letters-to-the-editor pages and 10 editorials (2024-08 to 2026-10; 108 by Julia Silverman). The 6 former `listing-only` records were upgraded in place. Also 1 Bend Bulletin reprint (first pass) and the 3 rewrites below. |
 | Axios Portland | 5 | | |
 | PPS releases / media.pps.net | 4 | | |
 | Portland Mercury | 2 | +1 | |

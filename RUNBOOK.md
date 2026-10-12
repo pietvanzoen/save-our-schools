@@ -138,3 +138,10 @@ zip batches (about 4 GB). The original run is described in `README.md` under "Co
 - **Keep each tool output under ~300k characters.** Browser-automation tools truncate larger results, so export one record per call.
 - **Large zips are a problem.** A 446 MB zip exceeded one transfer limit; fetch big files individually.
 - **Data & Reporting PDFs have space-aligned columns.** Check column positions against the rendered page before quoting a number.
+- **If browser downloads stop arriving** (Chrome reports a saved zip but nothing lands in the folder), don't hand-copy page HTML. As a stopgap:
+  - extract PDF text in the page with pdf.js and save it as `<id>_<name>.pdf.txt`;
+  - rebuild a reduced `agenda.html` holding only the agenda rows;
+  - log both as TEXT ONLY / REDUCED in a `_manifests/_manifest_refresh_<date>.json`.
+
+  Fetch the real files on the next refresh. The 2026-10-12 refresh did this for meetings 771664 and 771676.
+- **OregonLive pages carry a reCAPTCHA notice** in a poll footer, so a bare `/captcha/` test gives a false alarm. Test for "Access is temporarily restricted", or check whether the article body is missing.

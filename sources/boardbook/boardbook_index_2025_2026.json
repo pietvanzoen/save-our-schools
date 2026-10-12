@@ -1,7 +1,54 @@
 {
- "generated": "2026-10-10T22:22:56.737Z",
+ "generated": "2026-10-12T23:04:09.005Z",
  "source": "https://meetings.boardbook.org/public/Organization/915",
  "meetings": [
+  {
+   "id": "771664",
+   "head": "October 13, 2026 at 4:30 PM - Teaching, Learning, and Enrollment Committee Meeting",
+   "type": "Committee (Teaching, Learning, and Enrollment Committee)",
+   "loc": "Dr. Matthew Prophet Education Center",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=771664"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=771664"
+    }
+   ],
+   "items": [
+    {
+     "file": "14540954",
+     "name": "TLE Presentation: DLI Programs",
+     "item": "3. Rightsizing: Dual Language Immersion Design"
+    },
+    {
+     "file": "14535647",
+     "name": "TLE Presentation: Middle Grades",
+     "item": "4. Rightsizing: Middle Grades Learning"
+    }
+   ]
+  },
+  {
+   "id": "771676",
+   "head": "October 13, 2026 at 12:00 PM - Intergovernmental Affairs Committee Meeting",
+   "type": "Committee (Intergovernmental Affairs Committee)",
+   "loc": "Virtual",
+   "vids": [],
+   "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=771676"
+    },
+    {
+     "t": "Agenda",
+     "h": "/Public/Agenda/915?meeting=771676"
+    }
+   ],
+   "items": []
+  },
   {
    "id": "769094",
    "head": "September 29, 2026 at 6:00 PM - Special Meeting",
@@ -10833,5 +10880,6 @@
    "supp": [],
    "minutesFiles": []
   }
- ]
+ ],
+ "note": "2026-10-12 refresh: full crawl ran in the browser (156 meetings) but the zip download did not reach the archive; the 2 new meetings were copied from the in-browser index. Other meetings were compared and unchanged."
 }
