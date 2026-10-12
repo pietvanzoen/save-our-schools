@@ -26,11 +26,11 @@ Fetch a single binary later when needed, e.g. to look at a page image: `git spar
 Everything in `sources/` is a copy of something published by PPS or another public body, with its original URL and fetch time
 recorded in a manifest. Everything in `analysis/` is derived from `sources/` and cites back to it.
 
-## What's here (as of 2026-10-11)
+## What's here (as of 2026-10-12)
 
 | Collection | Contents |
 |---|---|
-| BoardBook (`sources/boardbook/`) | 154 meetings since 2025-01-01: agendas, 1,372 agenda/supplemental attachments, 120 minutes PDFs, 153 public notices; text extracted, plus OCR for 108 scanned PDFs |
+| BoardBook (`sources/boardbook/`) | 156 meetings since 2025-01-01: agendas, 1,374 agenda/supplemental attachments, 120 minutes PDFs, 155 public notices; text extracted, plus OCR for 108 scanned PDFs |
 | Corrected transcripts (`analysis/transcripts_corrected/`) | The same 145 transcripts with ~2,800 caption mis-hearings of names fixed and shown in [brackets] (e.g. "Ricky" → "[Rieke]"), with a log of every change |
 | Video transcripts (`sources/youtube/`) | 145 transcripts (~288 hours) with millisecond timestamps: every board and committee meeting video linked from BoardBook, plus Bond Accountability Committee (2023–26), Community Budget Review Committee (2026), rightsizing explainer videos and the Oct 2026 Fox 12 superintendent interview |
 | pps.net (`sources/pps_net/`) | ~810 files: Data & Reporting datasets (enrollment, capture rates, class size, PSU forecasts, discipline, graduation), rightsizing pages, the **82 per-school "How could your school be impacted?" PDFs**, regional scenario summaries, budget volumes, Long-Range Facility Plan, Jefferson boundary-process documents, SE Guiding Coalition records (recovered via the Internet Archive) |
@@ -46,6 +46,10 @@ recorded in a manifest. Everything in `analysis/` is derived from `sources/` and
 | `meetings/` | 106 per-meeting summaries with decisions, votes and a timestamped topic index |
 | `data/` | Scenario, school-metric, enrollment, budget, bond-project and seismic tables, each row cited |
 | `_verification_report.md` | Independent fact-check: 1,443 of 1,443 quotes verbatim, 156 of 156 votes correct, 25 corrections applied |
+
+## Changelog
+
+What each refresh added is in [`changelog/`](changelog/README.md); the latest is [2026-10-12](changelog/2026-10-12.md).
 
 ## Search
 
