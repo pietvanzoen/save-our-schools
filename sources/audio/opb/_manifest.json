@@ -14,6 +14,13 @@
   "file_metadata": "Exported from Adobe Audition; XMP CreateDate 2026-10-13T11:21:44-07:00, ModifyDate 2026-10-13T13:18:47-07:00",
   "provenance": "Recording supplied by the repository owner on 2026-10-13, who sourced it from OPB's Think Out Loud (https://www.opb.org/show/thinkoutloud/). Not downloaded by an agent.",
   "rights": "OPB broadcast audio, archived for research. Do not redistribute outside the archive; quote briefly with attribution.",
-  "transcript": "None yet. Machine transcription with speaker labels could not be run in the cloud workspace (speech-model downloads are blocked). See README.md in this folder."
+  "transcript": {
+   "raw_export": "audio/opb/2026-10-13_think-out-loud_pps-closures_eddie-wang.transcript.json",
+   "raw_sha256": "e9edde8e53747dabe0f39d1b5efd73b61fbcdc1c7f2a672ab048ea10e3468e59",
+   "raw_provenance": "Speech-to-text export with automatic speaker separation (208 segments, 12 speaker ids, word-level timestamps), produced by the repository owner with a third-party transcription service and supplied 2026-10-13. Machine output: not verified word for word against the audio.",
+   "corrected": "analysis/audio_transcripts/2026-10-13_opb-think-out-loud_eddie-wang.txt",
+   "speakers": "analysis/audio_transcripts/speakers_2026-10-13_opb-think-out-loud.csv",
+   "corrections_log": "analysis/audio_transcripts/corrections_2026-10-13_opb-think-out-loud.csv"
+  }
  }
 ]

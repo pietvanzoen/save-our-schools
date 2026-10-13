@@ -44,6 +44,16 @@ def rows():
                 win, start = [], None
         if win:
             yield ("transcript", date, title, f"https://www.youtube.com/watch?v={vid}&t={start//1000}s", f"[YT:{vid}@{hms(start/1000)}]", " ".join(win), "")
+    # audio transcripts (speaker-labeled turns), cite [AUDIO:<folder>/<audio stem>@H:MM:SS]
+    for txt in sorted((ROOT / "analysis/audio_transcripts").glob("*.txt")):
+        head = [l for l in txt.read_text().splitlines() if l.startswith("# ")]
+        title = head[0][2:] if head else txt.stem
+        audio = next((l.split("Audio: ", 1)[1] for l in head if l.startswith("# Audio: ")), "")
+        cite_base = re.sub(r"^sources/audio/|\.mp3$", "", audio) or txt.stem
+        for line in txt.read_text().splitlines():
+            m = re.match(r"^\[(\d+:\d\d:\d\d)\] ([^:]+): (.*)$", line)
+            if m:
+                yield ("transcript", txt.name[:10], title, audio, f"[AUDIO:{cite_base}@{m.group(1)}]", f"{m.group(2)}: {m.group(3)}", m.group(2))
     # PDFs (page level)
     for kind, base in [("boardbook", "sources/boardbook"), ("pps_net", "sources/pps_net"), ("bond", "sources/bond")]:
         for txt in sorted((ROOT / base).rglob("*.pdf.txt")):

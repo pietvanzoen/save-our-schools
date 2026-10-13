@@ -17,6 +17,7 @@ and how board members and senior staff think and change positions over time. Rou
 2. `analysis/` is derived. Every factual claim carries a citation:
    - BoardBook doc: `[BB:<docId> p.<page>]` (page = PDF page; text files separate pages with \f)
    - Video: `[YT:<videoId>@H:MM:SS]` (timestamp from the transcript line)
+   - Audio: `[AUDIO:<path under sources/audio/ without .mp3>@H:MM:SS]` (turn start in `analysis/audio_transcripts/`)
    - Meeting: `[MTG:<YYYY-MM-DD>/<meetingId>]`
    - pps.net / bond.pps.net files: `[PPS:<path under sources/>]` or full URL
    - News: `[NEWS:<id from sources/news/index.jsonl>]`
@@ -41,6 +42,7 @@ and how board members and senior staff think and change positions over time. Rou
 - `sources/youtube/transcripts/`: per-video raw auto-captions (primary source; never edit)
 - `analysis/transcripts_corrected/`: same transcripts with caption name mis-hearings fixed in [brackets]; read and
   quote from these (`tools/caption_fixes.py` regenerates them; `corrections.csv` logs every change)
+- `sources/audio/` + `analysis/audio_transcripts/`: radio interviews with speaker-labeled corrected transcripts
 - PDF text: `<file>.pdf.txt` next to each PDF (pages separated by form feed \f). Scanned PDFs also have
   `<file>.pdf.ocr.txt` (tesseract OCR of image-only pages; may contain recognition errors; verify against the PDF)
 - pps.net / bond.pps.net archives: `sources/pps_net/`, `sources/bond/` with `_manifests/` (URL, final URL, fetch time)

@@ -36,7 +36,7 @@ recorded in a manifest. Everything in `analysis/` is derived from `sources/` and
 | pps.net (`sources/pps_net/`) | ~810 files: Data & Reporting datasets (enrollment, capture rates, class size, PSU forecasts, discipline, graduation), rightsizing pages, the **82 per-school "How could your school be impacted?" PDFs**, regional scenario summaries, budget volumes, Long-Range Facility Plan, Jefferson boundary-process documents, SE Guiding Coalition records (recovered via the Internet Archive) |
 | Bond program (`sources/bond/`) | ~184 files from bond.pps.net: 2025 bond, BAC reports and presentations, performance audits, seismic program pages |
 | News (`sources/news/`) | 401 article records (metadata, summaries, short quotes; no full text), including 165 Oregonian/OregonLive articles, plus PPS's own "In the News" list |
-| Audio (`sources/audio/`) | OPB Think Out Loud, Oct 13, 2026 (50:51): PPS Board Chair Eddie Wang on the closure proposals, with listener calls. No transcript yet (see `sources/audio/opb/README.md`) |
+| Audio (`sources/audio/`) | OPB Think Out Loud, Oct 13, 2026 (50:51): PPS Board Chair Eddie Wang on the closure proposals, with listener calls. Speaker-labeled corrected transcript in `analysis/audio_transcripts/` |
 
 | Analysis (`analysis/`) | |
 |---|---|

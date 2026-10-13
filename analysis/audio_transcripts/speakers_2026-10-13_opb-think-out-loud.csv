@@ -1,0 +1,13 @@
+speaker_id,label,role,evidence,confidence
+speaker_0,Dave Miller (host),"Host, OPB Think Out Loud","Self-identifies at 0:00:04 (""I'm Dave Miller"") and in the sign-off at 0:50:35; introduces every caller",high
+speaker_1,Eddie Wang (PPS Board chair),"Chair, Portland Public Schools Board of Education (guest; says at 0:22:18 he speaks for himself, not the full board)","Introduced by the host at 0:01:30 and answers ""Thank you""; host repeatedly hands him the floor (""Eddie [Wang], your response""); describes his own board service and his daughter's PPS experience",high
+speaker_2,Caller 1 (Mount Tabor MS parent),"Member of the public: parent of an eighth grader at Mount Tabor Middle School",Introduced by the host at 0:05:27; self-describes,high
+speaker_3,Caller 2 (question on closure policy),"Member of the public: asks how community impacts were analyzed under the closure policy",Introduced by the host at 0:11:43,high
+speaker_4,Voicemail 1 (listener),"Member of the public: pre-recorded voicemail urging no closure vote until impact information is provided",Host introduces the voicemail at 0:13:53,high
+speaker_5,Caller 3 (future Lewis family),"Member of the public: parent of a two-year-old who would attend Lewis; asks about vacant buildings",Introduced by the host at 0:21:21,high
+speaker_6,Caller 4 (Sellwood MS parent),"Member of the public: Sellwood neighborhood parent of a Sellwood Middle School student; asks for a slower, phased approach",Introduced by the host at 0:25:11,high
+speaker_7,Caller 5 (King Mandarin immersion parent),"Member of the public: King neighborhood parent in the Mandarin immersion program",Introduced by the host at 0:32:40,high
+speaker_8,Caller 6 (listener),"Member of the public: asks why PPS is closing schools instead of investing (e.g., AI) to win back families",Introduced by the host at 0:36:40,high
+speaker_9,Caller 7 (Sunnyside parent),"Member of the public: parent of a current and a former Sunnyside Environmental School student",Introduced by the host at 0:39:14,high
+speaker_10,Voicemail 2 (Rose City Park parent),"Member of the public: pre-recorded voicemail from a parent in the Vietnamese immersion program at Rose City Park",Host introduces the voicemail at 0:42:17,high
+speaker_11,OPB announcer,"Program underwriting credits after the show",Reads funder credits at 0:50:38,medium
