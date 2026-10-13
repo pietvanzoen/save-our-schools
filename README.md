@@ -18,7 +18,7 @@ It also covers the 2025 bond and seismic retrofits, enrollment, budget, and boar
 to it as `.pdf.txt`, so a question-answering copy can skip the binaries:
 ```bash
 git clone --filter=blob:none --no-checkout https://github.com/timaelliott/save-our-schools.git && cd save-our-schools
-git sparse-checkout set --no-cone '/*' '!*.pdf' '!*.mp4' '!*.zip' '!*.xlsx' '!*.xls' '!*.docx' '!*.pptx' '!*.png' '!*.jpg' '!*.part0[0-9]'
+git sparse-checkout set --no-cone '/*' '!*.pdf' '!*.mp4' '!*.zip' '!*.xlsx' '!*.xls' '!*.docx' '!*.pptx' '!*.png' '!*.jpg' '!*.part0[0-9]' '!*.mp3'
 git checkout main
 ```
 Fetch a single binary later when needed, e.g. to look at a page image: `git sparse-checkout add '<path>.pdf'`.
@@ -35,7 +35,8 @@ recorded in a manifest. Everything in `analysis/` is derived from `sources/` and
 | Video transcripts (`sources/youtube/`) | 145 transcripts (~288 hours) with millisecond timestamps: every board and committee meeting video linked from BoardBook, plus Bond Accountability Committee (2023–26), Community Budget Review Committee (2026), rightsizing explainer videos and the Oct 2026 Fox 12 superintendent interview |
 | pps.net (`sources/pps_net/`) | ~810 files: Data & Reporting datasets (enrollment, capture rates, class size, PSU forecasts, discipline, graduation), rightsizing pages, the **82 per-school "How could your school be impacted?" PDFs**, regional scenario summaries, budget volumes, Long-Range Facility Plan, Jefferson boundary-process documents, SE Guiding Coalition records (recovered via the Internet Archive) |
 | Bond program (`sources/bond/`) | ~184 files from bond.pps.net: 2025 bond, BAC reports and presentations, performance audits, seismic program pages |
-| News (`sources/news/`) | 400 article records (metadata, summaries, short quotes; no full text), including 165 Oregonian/OregonLive articles, plus PPS's own "In the News" list |
+| News (`sources/news/`) | 401 article records (metadata, summaries, short quotes; no full text), including 165 Oregonian/OregonLive articles, plus PPS's own "In the News" list |
+| Audio (`sources/audio/`) | OPB Think Out Loud, Oct 13, 2026 (50:51): PPS Board Chair Eddie Wang on the closure proposals, with listener calls. No transcript yet (see `sources/audio/opb/README.md`) |
 
 | Analysis (`analysis/`) | |
 |---|---|
