@@ -20,6 +20,7 @@ and how board members and senior staff think and change positions over time. Rou
    - Audio: `[AUDIO:<path under sources/audio/ without .mp3>@H:MM:SS]` (turn start in `analysis/audio_transcripts/`)
    - Meeting: `[MTG:<YYYY-MM-DD>/<meetingId>]`
    - pps.net / bond.pps.net files: `[PPS:<path under sources/>]` or full URL
+   - Spreadsheet cells: `[PPS:<path under sources/>#<tab>!R<row>]` (row as in the xlsx; tab name as in the xlsx)
    - News: `[NEWS:<id from sources/news/index.jsonl>]`
    - Correspondence (letters to the Board): `[LTR:<file stem under sources/correspondence/> L<line>]`
 3. Quotes must be verbatim from the source text. Transcripts are auto-captions: fix nothing inside the
@@ -45,6 +46,7 @@ and how board members and senior staff think and change positions over time. Rou
   quote from these (`tools/caption_fixes.py` regenerates them; `corrections.csv` logs every change)
 - `sources/audio/` + `analysis/audio_transcripts/`: radio interviews with speaker-labeled corrected transcripts
 - `sources/correspondence/`: letters/emails to the Board from public officials, verbatim, with `_manifest.json`
+- `sources/staffing/`: PPS staffing/enrollment workbooks (Sept 2026 "Board Request": fall 2026 K-8 counts by school and grade) with tab CSVs
 - PDF text: `<file>.pdf.txt` next to each PDF (pages separated by form feed \f). Scanned PDFs also have
   `<file>.pdf.ocr.txt` (tesseract OCR of image-only pages; may contain recognition errors; verify against the PDF)
 - pps.net / bond.pps.net archives: `sources/pps_net/`, `sources/bond/` with `_manifests/` (URL, final URL, fetch time)

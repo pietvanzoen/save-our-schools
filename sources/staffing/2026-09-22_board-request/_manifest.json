@@ -1,0 +1,114 @@
+[
+ {
+  "path": "staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx",
+  "title": "Copy of Board Request as of 9/22",
+  "google_sheet_url": "https://docs.google.com/spreadsheets/d/1M4Ak-pVMBX9NrP2UTpH0roztf1C8Dlf5b96DMbu9z0c/edit?gid=1660700124#gid=1660700124",
+  "bytes": 475709,
+  "sha256": "594ada7fab9052fee973a96f7f13c7fd6d0c1b31d077b7987bf7486419725781",
+  "provenance": "Excel export of a Google Sheet titled 'Copy of Board Request as of 9/22' (a copy of the sheet, owner not identified), supplied by the repository owner on 2026-10-13 together with the link above. The repository owner says it was shared on 2026-09-22. Not downloaded by an agent; not checked against a PPS-published copy. On 2026-10-13 the agent opened the Google Sheet in the owner's browser: the title, the tab list and the size of the '26-27 As of 9/23 Counts' tab (461 data rows) matched this file.",
+  "context": "Appears to be the staff spreadsheet answering a Board question dated 9/21/26 in the Oct 1, 2026 Q&A tracker: 'a large spreadsheet' with current K-5 enrollment by school, program and grade, current 6-8 class counts, spring staffing allocations, a 'School Detail for ISR' tab and SPED supports on a 'SPED' tab [BB:14493920 p.35].",
+  "tabs": [
+   {
+    "index": 0,
+    "title_in_xlsx": "School Detail wo ESL or SPED or",
+    "state": "hidden",
+    "rows": 94,
+    "cols": 172,
+    "title_in_google_sheet": "School Detail wo ESL or SPED or M98 or T1"
+   },
+   {
+    "index": 1,
+    "title_in_xlsx": "26-27 As of 923 Counts",
+    "state": "visible",
+    "rows": 462,
+    "cols": 9,
+    "title_in_google_sheet": "26-27 As of 9/23 Counts",
+    "google_gid": "1660700124"
+   },
+   {
+    "index": 2,
+    "title_in_xlsx": "6-8 Course Loads 26-27",
+    "state": "visible",
+    "rows": 4188,
+    "cols": 13
+   },
+   {
+    "index": 3,
+    "title_in_xlsx": "School detail for ISR",
+    "state": "visible",
+    "rows": 77,
+    "cols": 20
+   },
+   {
+    "index": 4,
+    "title_in_xlsx": "Resolve",
+    "state": "hidden",
+    "rows": 60,
+    "cols": 20
+   },
+   {
+    "index": 5,
+    "title_in_xlsx": "Sheet12",
+    "state": "hidden",
+    "rows": 82,
+    "cols": 30
+   },
+   {
+    "index": 6,
+    "title_in_xlsx": "M98",
+    "state": "hidden",
+    "rows": 101,
+    "cols": 24
+   },
+   {
+    "index": 7,
+    "title_in_xlsx": "ELD",
+    "state": "hidden",
+    "rows": 1008,
+    "cols": 27
+   },
+   {
+    "index": 8,
+    "title_in_xlsx": "SPED",
+    "state": "visible",
+    "rows": 76,
+    "cols": 13
+   },
+   {
+    "index": 9,
+    "title_in_xlsx": "ELD Summary",
+    "state": "hidden",
+    "rows": 7,
+    "cols": 4
+   },
+   {
+    "index": 10,
+    "title_in_xlsx": "Title 1 Gen Fund Analysis",
+    "state": "hidden",
+    "rows": 16,
+    "cols": 10
+   },
+   {
+    "index": 11,
+    "title_in_xlsx": "Readme",
+    "state": "hidden",
+    "rows": 1,
+    "cols": 1
+   }
+  ],
+  "notes": [
+   "Cell values are the cached values saved in the export; formulas were not recalculated.",
+   "Excel converted grade spans such as '6-8', '9-12' and '1-8' to dates (2026-06-08, 2026-09-12, 2026-01-08). tabs/*.csv keep them as exported; analysis/data/enrollment_2026-27_sept_by_school.csv converts them back.",
+   "xlsx sheet names drop '/' and are cut to 31 characters, so they differ slightly from the Google Sheet tab names (see tabs[].title_in_google_sheet).",
+   "The Readme tab holds only a link to a Google Doc, which has not been archived."
+  ],
+  "derived": {
+   "tab_dumps": "staffing/2026-09-22_board-request/tabs/NN_<tab>.csv (mechanical cell dumps by tools/staffing_workbook_2026.py)",
+   "analysis": [
+    "analysis/data/enrollment_2026-27_sept_by_grade.csv",
+    "analysis/data/enrollment_2026-27_sept_by_school.csv"
+   ]
+  },
+  "cite_as": "[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#<tab as in xlsx>!R<row>]"
+ }
+]

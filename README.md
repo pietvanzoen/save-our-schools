@@ -38,6 +38,7 @@ recorded in a manifest. Everything in `analysis/` is derived from `sources/` and
 | News (`sources/news/`) | 401 article records (metadata, summaries, short quotes; no full text), including 165 Oregonian/OregonLive articles, plus PPS's own "In the News" list |
 | Audio (`sources/audio/`) | OPB Think Out Loud, Oct 13, 2026 (50:51): PPS Board Chair Eddie Wang on the closure proposals, with listener calls. Speaker-labeled corrected transcript in `analysis/audio_transcripts/` |
 | Correspondence (`sources/correspondence/`) | Letters to the Board from public officials, verbatim: Rep. Dacia Grayber (HD 28) on Maplewood, Oct 13, 2026 |
+| Staffing (`sources/staffing/`) | Sept 2026 staff workbook for the Board ("Board Request as of 9/22"): fall 2026-27 enrollment counts by school and grade for 58 K-5/K-8 schools, staffing counts and FTE for every school |
 
 | Analysis (`analysis/`) | |
 |---|---|

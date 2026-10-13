@@ -39,6 +39,7 @@ Everything here is derived from `sources/` and cites back to it. The citation fo
 | `school_impact.csv` | school × scenario (StatusQuo/A/B), 82 schools | From the PPS per-school family guides (Oct 2026). Includes action, destinations, 2027-28 to 2031-32 projections, size goal met, demographics, 2025-26 enrollment and capacity, seismic score, $/student. **Use this for per-school questions.** |
 | `rightsizing_scenarios.csv` | school × scenario | Earlier build from the memo, deck and regional summaries; corrected against the family guides (`schools/_discrepancies.md` Part 2) |
 | `school_metrics.csv` | school × metric (long format) | 2025-26 enrollment, capacity, utilization, Title I, etc. |
+| `enrollment_2026-27_sept_by_school.csv` / `enrollment_2026-27_sept_by_grade.csv` | school; school × program × grade | Fall 2026 K-8 counts from the Sept 2026 staffing workbook (`sources/staffing/`), with the spring projection, Oct 2025 count, family-guide 2027-28 status quo and staffing counts for all schools |
 | `enrollment_history_and_forecast.csv` | year × level/school × measure | ACFR history 2015-16 to 2024-25, school reports, PPS projections (Apr 2025, Apr 2026), PRC forecasts, ADM, capture, charters |
 | `budget_figures.csv` | fiscal year × item | Budget totals, reductions, FTE, reserves, PERS, ratings, per-pupil figures |
 | `bond_projects.csv` | project | 2025/2020/2017 bond projects, budgets, schedules, rightsizing relevance |

@@ -41,6 +41,7 @@ Student groups [PPS:pps_net/rightsizing/school_impact/maplewood.pdf p.4]:
 | A | school would close | | | | |
 | B | school would close | | | | |
 
+2026-27 (Sept 2026 staff count, grades K-5): **303**; the spring staffing projection was 300 [PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R270-R275]. See `analysis/data/enrollment_2026-27_sept_by_school.csv`.
 2025-26 (Oct 1, 2025 count): enrollment 287, functional capacity 465, utilization 62% [BB:3997157 p.1].
 Capacity stated in the PDF: 465 ("against a building space of 465") [PPS:pps_net/rightsizing/school_impact/maplewood.pdf p.3].
 
@@ -78,7 +79,7 @@ What the letter says (summary; the letter's own claims, not checked unless noted
 - She says she supports more state school funding in 2027 [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L36]. She also says change must happen and "bold action is needed", but based on "vetted and accurate data" [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L40] [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L44].
 
 Analysis: how the letter's figures compare with the archive.
-- **Enrollment.** The archive's latest official count is 287 (Oct 1, 2025) [BB:3997157 p.1]. The family guide projects 278 for 2027-28 [PPS:pps_net/rightsizing/school_impact/maplewood.pdf p.4]. The archive has no fall 2026 count and no presentation slide giving 288, so neither 310 nor 288 can be checked here.
+- **Enrollment.** Before Oct 13 the archive's latest official count was 287 (Oct 1, 2025) [BB:3997157 p.1]. The family guide projects 278 for 2027-28 [PPS:pps_net/rightsizing/school_impact/maplewood.pdf p.4]. The Sept 2026 staffing workbook later added to the archive counts **303** students in grades K-5 (spring projection 300) [PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R270-R275]. That is closer to the letter's 310 than to 288. The archive still has no slide giving 288.
 - **$1.5M seismic.** This matches KGW's report of about $1.5M of roof-level seismic work at Maplewood [NEWS:NEWS-20261009-kgw-1]. The 2024 Holmes assessment lists "2015 roof-only seismic upgrades" [BB:3991109 p.108]. Maplewood's highest building-part risk score is 7.5 [BB:3991109 p.221].
 - **"Major structural seismic improvements are complete… gym and cafeteria."** In the archived bond pages, this September 2026 wording is the update for **Vernon**, not Maplewood [PPS:sources/bond/pages/seismic_improvements.html]. The letter may have mixed up the two schools.
 - **"Second-lowest outstanding retrofit cost."** In the Holmes cost summary, Maplewood's estimated complete retrofit is $3,435,000. Eight other sites on that table are lower, though some are not elementary or K-8 schools [BB:3991109 p.13]. The archive has no other ranking of 48 schools, so this claim cannot be confirmed from what is here.
