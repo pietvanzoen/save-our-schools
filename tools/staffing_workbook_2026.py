@@ -7,7 +7,7 @@ Reads  sources/staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.
 Writes sources/staffing/2026-09-22_board-request/tabs/NN_<tab>.csv   (mechanical cell dump of every tab, cached values)
        analysis/data/enrollment_2026-27_sept_by_grade.csv         (the "26-27 As of 9/23 Counts" tab, one row per school/program/grade)
        analysis/data/enrollment_2026-27_sept_by_school.csv        (per-school totals joined to staffing counts, Oct 2025 counts
-                                                                    and the family-guide status-quo projection)
+                                                                    the PSU July 2026 forecast for 2026-27 and the family-guide status-quo projection)
 Citations: [PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#<tab>!R<row>]
 """
 import csv, re, datetime, warnings
@@ -51,6 +51,23 @@ def slug_and_metric_name(name):
         s, m = ALIAS[name]; return s, (m or name)
     s = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
     return s, (f"{name} MS" if name in MS else f"{name} HS" if name in HS else name)
+
+PSU = "pps_net/data-and-reporting/2026-27/psu_prc_enrollment_forecast_2026-27_to_2035-36.pdf"
+PSU_ALIAS = {"Access": "ACCESS", "Metro. Learning Center": "MLC", "Ida B. Wells-Barnett": "Ida B Wells-Barnett",
+             "Benson": "Benson Polytechnic", "Sunrise": "Lee"}
+
+def psu_2026_27():
+    """School 'Total' rows of PSU Table 5.5 (July 2026 forecast): {name: (grades, 2025-26, 2026-27 forecast, page)}."""
+    rx = re.compile(r"^\s*(\S.*?)\s{2,}(\S+)\s+(\S.*?)\s{2,}(\S+)\s+((?:[\d,]+\s+){12}[\d,]+)\s*$")
+    out = {}
+    for i, page in enumerate((ROOT / "sources" / (PSU + ".txt")).read_text().split("\f"), 1):
+        if "Table 5.5" not in page: continue
+        for line in page.splitlines():
+            m = rx.match(line)
+            if m and m.group(3) == "Total":
+                n = [int(x.replace(",", "")) for x in m.group(5).split()]
+                out[m.group(1)] = (m.group(4), n[2], n[3], i)
+    return out
 
 def main():
     wb = openpyxl.load_workbook(XLSX, data_only=True)
@@ -98,6 +115,7 @@ def main():
 
     metrics = {(m["school"]): m for m in csv.DictReader(open(ROOT / "analysis/data/school_metrics.csv"))
                if m["metric"] == "enrollment" and m["as_of"].startswith("2025-10-01")}
+    psu = psu_2026_27()
     impact = {(x["slug"], x["scenario"]): x for x in csv.DictReader(open(ROOT / "analysis/data/school_impact.csv"))}
 
     names = list(det) + [n for n in agg if n not in det and not (n == "Sunrise" and "Lee" in det)]
@@ -122,11 +140,14 @@ def main():
             "staffing_count_2025_26": d.get("staff_2025_26", ""), "staffing_count_2026_27": d.get("staff_2026_27", ""),
             "enrollment_2025_10_01": m["value"] if m else "",
             "change_vs_2025_10_01": (sept - int(m["value"])) if comparable else "",
+            "psu_forecast_2026_27": (f := psu.get(PSU_ALIAS.get(name, name))) and f[2] or "",
+            "psu_forecast_grades": f[0] if f else "",
+            "sept_minus_psu_forecast": (sept - f[2]) if (f and sept is not None and f[0] != "K-12") else "",
             "guide_status_quo_2027_28": sq["proj_enr_2027_28"] if sq else "",
             "scenario_A": A["proposed_action"] if A else "", "scenario_B": B["proposed_action"] if B else "",
-            "note": ("K-8 grades only; Oct 2025 figure includes grades 9-12, so no change is computed" if d.get("grade_span") == "K-12" else
+            "note": ("K-8 grades only; the Oct 2025 count and PSU forecast include grades 9-12, so no difference is computed" if d.get("grade_span") == "K-12" else
                      "No Sept 2026 actuals in the workbook (middle and high schools only have staffing counts)" if not a else ""),
-            "source": " ".join(cites + ([m["source"]] if m else []) +
+            "source": " ".join(cites + ([m["source"]] if m else []) + ([f"[PPS:{PSU} p.{f[3]}]"] if f else []) +
                                ([f"[PPS:pps_net/rightsizing/school_impact/{slug.replace('-', '_')}.pdf p.4]"] if sq else [])),
         })
     with (ROOT / "analysis/data/enrollment_2026-27_sept_by_school.csv").open("w", newline="") as f:
