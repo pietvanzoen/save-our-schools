@@ -294,6 +294,9 @@ Llewellyn,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
 Llewellyn,K-5,title_I,N,Y/N,2025-26,[BB:3997157 p.1],
 Llewellyn,K-5,region_hs_pattern,Cleveland/Franklin (SE),,2026-10,[BB:14511742 p.19],region assignment: named in 10/06 regional materials
 Maplewood,K-5,enrollment,287,students,2025-10-01 (2025-26),[BB:3997157 p.1],"Map table ""Schools By Enrollment & Capacity""; source name: Maplewood E.S."
+Maplewood,K-5,enrollment,303,students,2026-09-22/23 (2026-27),[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R270-R275],"Sept staff count, grades K-5; superseded by the 2026-10-13 figure"
+Maplewood,K-5,enrollment,306,students,2026-10-13 (2026-27),"reported: Dr. Roberti via repository owner, 2026-10-13 (no archived document)",Current total; Kindergarten 48 (matches Sept count); other grades not broken out
+Maplewood,K-5,enrollment_kindergarten,48,students,2026-10-13 (2026-27),[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R270],"Confirmed as current by Dr. Roberti via repository owner, 2026-10-13"
 Maplewood,K-5,functional_capacity,465,students,2025-26,[BB:3997157 p.1],"""Utilization = enrollment/capacity"" (4/20 deck); 4/11 deck says ""enrollment/functional capacity"""
 Maplewood,K-5,utilization,62,percent,2025-26,[BB:3997157 p.1],
 Maplewood,K-5,program_type,Neighborhood,,2025-26,[BB:3997157 p.1],
