@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Full-text search over the PPS archive (sources + analysis) using SQLite FTS5.
 
-  python3 tools/search.py "school closure" [--kind transcript|boardbook|pps_net|bond|news|analysis|quote]
+  python3 tools/search.py "school closure" [--kind transcript|boardbook|pps_net|bond|news|correspondence|analysis|quote]
                                          [--from 2026-01-01] [--to 2026-12-31] [--person "La Forte"] [-n 20]
   python3 tools/search.py --rebuild        # (re)build the index (done automatically on first use)
 
@@ -10,6 +10,7 @@ Index is stored at .cache/search.sqlite (not committed). Units indexed:
 - boardbook / pps_net / bond: one row per PDF page (from .pdf.txt, or .pdf.ocr.txt when present), plus .md/.html text
 - quote: each line of analysis/people/quotes_all.jsonl (person, date, link)
 - news: each record of sources/news/index.jsonl (summary + facts + short quotes)
+- correspondence: each non-empty line of sources/correspondence/*.txt (letters to the Board), cited by line number
 - analysis: each Markdown section of analysis/**.md
 FTS5 query syntax applies: "exact phrase", AND/OR/NOT, prefix*, NEAR(a b, 10).
 """
@@ -88,6 +89,14 @@ def rows():
             body = " ".join([n.get("summary", ""), " ".join(n.get("key_facts", [])), " ".join(q.get("quote", "") for q in n.get("short_quotes", []))])
             yield ("news", n.get("date", ""), f"{n.get('outlet')}: {n.get('title')}", n.get("url", ""), f"[NEWS:{n.get('id')}]", body,
                    " ".join(p.get("name", "") for p in n.get("people_quoted", [])))
+    # correspondence (letters/emails to the Board), one row per non-empty line, cite [LTR:<stem> L<line>]
+    man = ROOT / "sources/correspondence/_manifest.json"
+    meta = {Path(m["path"]).name: m for m in json.loads(man.read_text())} if man.exists() else {}
+    for txt in sorted((ROOT / "sources/correspondence").glob("*.txt")):
+        m = meta.get(txt.name, {}); title = f"{m.get('from', '')}: {m.get('subject', txt.stem)}"
+        for i, line in enumerate(txt.read_text(errors="ignore").splitlines(), 1):
+            if line.strip():
+                yield ("correspondence", txt.name[:10], title, str(txt.relative_to(ROOT)), f"[LTR:{txt.stem} L{i}]", line, m.get("from", ""))
     # analysis markdown, split by heading
     for md in sorted((ROOT / "analysis").rglob("*.md")):
         rel = str(md.relative_to(ROOT)); date = (re.search(r"(20\d\d-\d\d-\d\d)", md.name) or [None, ""])[1]

@@ -1,0 +1,17 @@
+[
+ {
+  "path": "correspondence/2026-10-13_rep-dacia-grayber_maplewood-closure.txt",
+  "type": "email letter",
+  "date_sent": "2026-10-13T09:25:00-07:00",
+  "from": "Rep. Dacia Grayber (Oregon House District 28, per the letter)",
+  "to": "PPS School Board (schoolboard@pps.net); Directors Splitt, DePass, Sullivan, Chase-Miller, La Forte, Engelsman, Wang; Ben Gurewitz (PPS)",
+  "cc": "Sen. Kate Lieber",
+  "addressed_to": "Dr. Armstrong, Portland Public Schools Board Members, and Staff",
+  "subject": "The proposed closure of Maplewood Elementary",
+  "bytes": 7121,
+  "sha256": "cfe21540efb2ff5afee9b972d69cbc9788f20fb856ad7d7e51274d7cdb11ff62",
+  "provenance": "Plain-text copy of the email (header plus body) supplied by the repository owner on 2026-10-13. Stored byte-for-byte as received. Not checked against the original message or any published copy; no public URL known as of 2026-10-13.",
+  "rights": "Correspondence from a state legislator to a public body, archived for research.",
+  "cite_as": "[LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L<line>]"
+ }
+]

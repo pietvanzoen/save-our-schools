@@ -64,6 +64,26 @@ Mentions in meeting notes (`analysis/meetings/`, 2026; 4 of 4 shown; citations a
 - `2026-10-06_zOUH2Jq7Owo.md`: Maplewood 247; Stephenson 261; Irvington 223; Creston 187; Buckman 239; Woodmere 225; Whitman 223.
 - `2026-10-06_zOUH2Jq7Owo.md`: **Maplewood parent:** asked to defer. Cited a PPS estimate that "about 7% of affected families will leave the district. That's roughly 300 children" [YT:zOUH2Jq7Owo@0:44:56].
 
+## Letters from public officials
+**Rep. Dacia Grayber (HD 28), email to the superintendent, Board and staff, Oct 13, 2026** (cc Sen. Kate Lieber); full text in `sources/correspondence/` [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L1] [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L3] [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L4].
+
+What the letter says (summary; the letter's own claims, not checked unless noted):
+- She opposes closing Maplewood and says every constituent who contacted her office agrees: "don’t close our school" [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L11] [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L13].
+- She asks the Board to defer any vote until revised PSU enrollment and housing numbers are published and independently verified. She says Maplewood has 310 students, not the 288 used in the presentation, and that rejected transfers and new housing were not counted [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L14].
+- She asks PPS to publish the study methodology and the full equity impact analysis before the vote, with a service continuity plan for ISC and special education students [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L17].
+- She raises transit safety and the cumulative effect of the 2006 Smith closure. She says under 30% of roads in that part of SW Portland have sidewalks [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L20].
+- Housing: Raleigh Crest (the Alpenrose development) adds 263 homes, and she disputes the staff claim of a net gain of 12 PPS students. She says 246 units have been permitted within a mile of Maplewood since 2022 [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L23].
+- Seismic: she says Maplewood has had $1.5 million of seismic retrofitting, that PPS's September report says major structural work is complete, and that the remaining gym and cafeteria work is the second-lowest outstanding retrofit cost of 48 elementary and K-8 schools [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L26].
+- She asks whether PPS has modeled how many families would leave the district if Maplewood closes [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L29]. She relays parent requests for school-by-school projections with ranges, results if enrollment runs 5%, 10% or 15% above forecast, the effect of each closure on its own, and the cutoffs, capacity figures and housing assumptions [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L32].
+- She says she supports more state school funding in 2027 [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L36]. She also says change must happen and "bold action is needed", but based on "vetted and accurate data" [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L40] [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L44].
+
+Analysis: how the letter's figures compare with the archive.
+- **Enrollment.** The archive's latest official count is 287 (Oct 1, 2025) [BB:3997157 p.1]. The family guide projects 278 for 2027-28 [PPS:pps_net/rightsizing/school_impact/maplewood.pdf p.4]. The archive has no fall 2026 count and no presentation slide giving 288, so neither 310 nor 288 can be checked here.
+- **$1.5M seismic.** This matches KGW's report of about $1.5M of roof-level seismic work at Maplewood [NEWS:NEWS-20261009-kgw-1]. The 2024 Holmes assessment lists "2015 roof-only seismic upgrades" [BB:3991109 p.108]. Maplewood's highest building-part risk score is 7.5 [BB:3991109 p.221].
+- **"Major structural seismic improvements are complete… gym and cafeteria."** In the archived bond pages, this September 2026 wording is the update for **Vernon**, not Maplewood [PPS:sources/bond/pages/seismic_improvements.html]. The letter may have mixed up the two schools.
+- **"Second-lowest outstanding retrofit cost."** In the Holmes cost summary, Maplewood's estimated complete retrofit is $3,435,000. Eight other sites on that table are lower, though some are not elementary or K-8 schools [BB:3991109 p.13]. The archive has no other ranking of 48 schools, so this claim cannot be confirmed from what is here.
+- **Housing.** At the Oct 6 meeting, staff said Rieke rises to 311 "thanks to some housing that's being developed" [YT:zOUH2Jq7Owo@2:22:55]. The "net gain of 12 students" figure for Raleigh Crest does not appear in the archive.
+
 ## News
 6 of 8 matching items in `sources/news/index.jsonl` (items that tag this school first; summaries are the archive's own):
 

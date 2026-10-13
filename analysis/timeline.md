@@ -136,6 +136,7 @@ Corrections from `_verification_report.md` are applied. In particular:
 - 2026-10-07 — The final bond audit is released, largely unchanged. KATU details bond-funded work at closure candidates (news) — [NEWS:NEWS-20261007-wweek-1] [NEWS:NEWS-20261007-katu-1]
 - 2026-10-08 — Three per-school guides are re-issued as "Version 1.12 10082026" (Ockley Green, Scott, Sunnyside) — [PPS:pps_net/rightsizing/school_impact/sunnyside.pdf p.4]
 - 2026-10-09 — Board Community Connection at Roosevelt. KGW tallies about $18M of completed seismic work at closure-list schools (news) — [BB:14511742 p.46] [NEWS:NEWS-20261009-kgw-1]
+- 2026-10-13 — Rep. Dacia Grayber (HD 28) emails the Board opposing Maplewood's closure. She asks for the vote to be deferred until revised PSU enrollment and housing figures are published and verified — [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L5] [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L14] [LTR:2026-10-13_rep-dacia-grayber_maplewood-closure L40]
 
 ## Scheduled (as of 2026-10-11)
 
