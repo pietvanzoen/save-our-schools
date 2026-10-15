@@ -26,6 +26,7 @@ Everything here is derived from `sources/` and cites back to it. The citation fo
 |---|---|
 | `rightsizing.md` | The 2026 rightsizing process end to end: origin, Res. 7296 and 7307, engagement, the Oct 5–6 scenarios by region, equity, transportation, facilities, how proposals changed, related Jefferson and SEGC work, Board positions in documents |
 | `rightsizing_criteria_and_principles.md` | Policy factors, guiding principles (draft vs adopted), workplan, the "well-resourced school" definition, thresholds (360/500/1,100) and their basis, the KPI framework, and the criteria actually applied |
+| `segc_equity_audit.md` | Digest of PPS's commissioned SEGC equity audit (Green & Hanson, June 2026, [BB:3997427]): projection misses and the call for ranges, QEM and "well-resourced" floors (450/600/650, not closure thresholds), closure savings research, family and staff impacts, trust, cumulative disruption, and its pre-decision recommendations |
 | `rightsizing_open_questions.md` | Numbers that don't reconcile, internal contradictions, promised items not delivered, unexplained selections, missing documents |
 | `bond_and_seismic.md` | The 2025 bond (Measure 26-259), high school cost history, program management (Procedeo), Holmes seismic scores, first seismic tranche, and every intersection with closures |
 | `bond_seismic_open_questions.md` | Conflicting bond and seismic figures and archive gaps |
