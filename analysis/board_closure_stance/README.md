@@ -64,7 +64,7 @@ contest is **scale and amendments**, not whether to close.
    concentrated on Title I schools than B. DePass's "don't re-harm recently disrupted communities" conflicts with closing Marysville and Creston.
    Res 7307 requires a per-scenario equity impact analysis, and none has been released.
 3. **"Well-resourced" guarantees aren't on the table.** Wang, Chase-Miller and Sullivan condition support on staffing (librarians, arts, class size).
-   Staff have said they "can't commit to the same amount of resources", and class-size caps are "not a part of the rightsizing conversation" [BB:14493920 p.33].
+   Staff have said they "can't commit to the same amount of resources", and class-size caps are "not a part of the rightsizing conversation" [BB:14493920 p.33](https://meetings.boardbook.org/Documents/DownloadPDF/14493920?org=915#page=33).
 4. **Thresholds vs. "scalpel".** Splitt and La Forte accept the 360 / 500 / 1,100 floors but resist the closure counts those floors imply.
    Staff modeling shows 5–10 closures leave about half of K-5 schools below 360.
 5. **Bond and seismic money at closure schools.** Several members (Wang 9/9/25, DePass, Chase-Miller, La Forte) said seismic money should go only to
