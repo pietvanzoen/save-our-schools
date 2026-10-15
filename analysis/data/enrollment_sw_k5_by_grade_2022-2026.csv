@@ -1,0 +1,41 @@
+school,year,measure,K,1,2,3,4,5,total,source,oct1_total,oct1_total_source
+Ainsworth,2022-23,"ADM (average daily membership, by grade)",85.6,87.5,103.2,106.6,89.8,104.9,577.7,[PPS:pps_net/data-archives/2022-23/adm_membership_2022-23.pdf p.1],563,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Ainsworth,2023-24,"ADM (average daily membership, by grade)",100.1,92.9,90.4,110.0,106.1,86.5,586.1,[PPS:pps_net/data-archives/2023-24/adm_membership_2023-24.pdf p.1],585,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Ainsworth,2024-25,October 1 headcount,87,107,89,92,102,107,584,[PPS:pps_net/data-and-reporting/2024-25/enrollment_by_grade_and_program_type.pdf p.1],584,
+Ainsworth,2025-26,October 1 headcount,78,91,107,87,97,100,560,[PPS:pps_net/data-and-reporting/2025-26/enrollment_by_grade_and_program_type.pdf p.1],560,
+Ainsworth,2026-27,"Sept 22, 2026 count (staffing workbook)",69,84,94,99,85,96,527,[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R15-R26],,
+Bridlemile,2022-23,"ADM (average daily membership, by grade)",77.5,79.3,73.1,73.5,71.3,76.0,450.8,[PPS:pps_net/data-archives/2022-23/adm_membership_2022-23.pdf p.1],458,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Bridlemile,2023-24,"ADM (average daily membership, by grade)",76.8,75.4,76.2,74.1,71.7,66.6,440.9,[PPS:pps_net/data-archives/2023-24/adm_membership_2023-24.pdf p.1],446,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Bridlemile,2024-25,October 1 headcount,50,75,75,74,75,70,419,[PPS:pps_net/data-and-reporting/2024-25/enrollment_by_grade_and_program_type.pdf p.1],419,
+Bridlemile,2025-26,October 1 headcount,78,58,71,75,68,73,423,[PPS:pps_net/data-and-reporting/2025-26/enrollment_by_grade_and_program_type.pdf p.1],423,
+Bridlemile,2026-27,"Sept 22, 2026 count (staffing workbook)",41,71,55,73,74,67,381,[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R96-R101],,
+Capitol Hill,2022-23,"ADM (average daily membership, by grade)",62.8,56.1,48.9,62.1,62.5,44.3,336.7,[PPS:pps_net/data-archives/2022-23/adm_membership_2022-23.pdf p.1],333,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Capitol Hill,2023-24,"ADM (average daily membership, by grade)",55.9,66.0,58.5,55.4,58.8,67.7,362.4,[PPS:pps_net/data-archives/2023-24/adm_membership_2023-24.pdf p.1],361,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Capitol Hill,2024-25,October 1 headcount,38,47,66,58,52,57,318,[PPS:pps_net/data-and-reporting/2024-25/enrollment_by_grade_and_program_type.pdf p.1],318,
+Capitol Hill,2025-26,October 1 headcount,58,39,45,66,62,55,325,[PPS:pps_net/data-and-reporting/2025-26/enrollment_by_grade_and_program_type.pdf p.1],325,
+Capitol Hill,2026-27,"Sept 22, 2026 count (staffing workbook)",48,51,38,40,55,58,290,[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R108-R113],,
+Hayhurst,2022-23,"ADM (average daily membership, by grade)",49.9,55.4,56.6,73.1,55.6,56.4,347.0,[PPS:pps_net/data-archives/2022-23/adm_membership_2022-23.pdf p.1],350,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Hayhurst,2023-24,"ADM (average daily membership, by grade)",50.0,50.2,55.2,51.1,72.8,54.7,333.9,[PPS:pps_net/data-archives/2023-24/adm_membership_2023-24.pdf p.1],335,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Hayhurst,2024-25,October 1 headcount,40,52,50,53,51,68,314,[PPS:pps_net/data-and-reporting/2024-25/enrollment_by_grade_and_program_type.pdf p.1],314,
+Hayhurst,2025-26,October 1 headcount,41,45,48,50,54,52,290,[PPS:pps_net/data-and-reporting/2025-26/enrollment_by_grade_and_program_type.pdf p.1],290,
+Hayhurst,2026-27,"Sept 22, 2026 count (staffing workbook)",48,41,42,47,54,58,290,[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R195-R200],,
+Maplewood,2022-23,"ADM (average daily membership, by grade)",58.5,45.8,46.0,53.4,51.4,51.4,306.4,[PPS:pps_net/data-archives/2022-23/adm_membership_2022-23.pdf p.2],310,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Maplewood,2023-24,"ADM (average daily membership, by grade)",39.1,56.4,48.8,46.9,60.1,52.0,303.2,[PPS:pps_net/data-archives/2023-24/adm_membership_2023-24.pdf p.1],301,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Maplewood,2024-25,October 1 headcount,36,48,57,51,42,61,295,[PPS:pps_net/data-and-reporting/2024-25/enrollment_by_grade_and_program_type.pdf p.2],295,
+Maplewood,2025-26,October 1 headcount,52,36,47,57,51,44,287,[PPS:pps_net/data-and-reporting/2025-26/enrollment_by_grade_and_program_type.pdf p.2],287,
+Maplewood,2026-27,"Sept 22, 2026 count (staffing workbook)",48,55,40,45,64,51,303,[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R270-R275],,
+Markham,2022-23,"ADM (average daily membership, by grade)",67.8,78.8,77.2,70.8,59.8,67.4,421.9,[PPS:pps_net/data-archives/2022-23/adm_membership_2022-23.pdf p.2],426,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Markham,2023-24,"ADM (average daily membership, by grade)",63.2,58.2,69.0,68.8,61.3,62.9,383.4,[PPS:pps_net/data-archives/2023-24/adm_membership_2023-24.pdf p.2],402,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Markham,2024-25,October 1 headcount,48,53,44,68,68,60,341,[PPS:pps_net/data-and-reporting/2024-25/enrollment_by_grade_and_program_type.pdf p.2],341,
+Markham,2025-26,October 1 headcount,60,50,50,50,65,64,339,[PPS:pps_net/data-and-reporting/2025-26/enrollment_by_grade_and_program_type.pdf p.2],339,
+Markham,2026-27,"Sept 22, 2026 count (staffing workbook)",50,57,46,57,49,68,327,[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R276-R281],,
+Rieke,2022-23,"ADM (average daily membership, by grade)",39.1,53.0,51.9,52.0,51.9,55.6,303.4,[PPS:pps_net/data-archives/2022-23/adm_membership_2022-23.pdf p.2],300,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Rieke,2023-24,"ADM (average daily membership, by grade)",42.9,37.2,51.9,51.9,51.2,51.6,286.6,[PPS:pps_net/data-archives/2023-24/adm_membership_2023-24.pdf p.2],288,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Rieke,2024-25,October 1 headcount,38,49,40,46,55,50,278,[PPS:pps_net/data-and-reporting/2024-25/enrollment_by_grade_and_program_type.pdf p.2],278,
+Rieke,2025-26,October 1 headcount,43,40,43,40,46,52,264,[PPS:pps_net/data-and-reporting/2025-26/enrollment_by_grade_and_program_type.pdf p.2],264,
+Rieke,2026-27,"Sept 22, 2026 count (staffing workbook)",35,45,47,41,38,48,254,[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R319-R324],,
+Stephenson,2022-23,"ADM (average daily membership, by grade)",48.7,43.9,56.0,46.5,63.0,51.3,309.3,[PPS:pps_net/data-archives/2022-23/adm_membership_2022-23.pdf p.2],307,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Stephenson,2023-24,"ADM (average daily membership, by grade)",51.5,51.7,42.4,53.2,48.0,60.9,307.5,[PPS:pps_net/data-archives/2023-24/adm_membership_2023-24.pdf p.2],310,[PPS:pps_net/data-and-reporting/2025-26/10yr_enrollment_history_detail.pdf p.1]
+Stephenson,2024-25,October 1 headcount,30,54,53,41,57,50,285,[PPS:pps_net/data-and-reporting/2024-25/enrollment_by_grade_and_program_type.pdf p.2],285,
+Stephenson,2025-26,October 1 headcount,41,33,57,53,41,56,281,[PPS:pps_net/data-and-reporting/2025-26/enrollment_by_grade_and_program_type.pdf p.2],281,
+Stephenson,2026-27,"Sept 22, 2026 count (staffing workbook)",50,39,36,57,55,44,281,[PPS:staffing/2026-09-22_board-request/board_request_as_of_2026-09-22.xlsx#26-27 As of 923 Counts!R388-R393],,
