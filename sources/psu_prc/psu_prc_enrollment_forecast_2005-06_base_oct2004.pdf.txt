@@ -1,0 +1,2397 @@
+Portland State University
+PDXScholar
+
+School District Enrollment Forecast Reports                                       Population Research Center
+
+
+8-2005
+
+
+Portland Public Schools Enrollment Forecast,
+2005-2015, Based on October 2004 Enrollments
+Portland State University. Population Research Center
+
+Barry Edmonston
+Portland State University
+
+Risa S. Proehl
+Portland State University
+
+Sonoko Endo
+Portland State University
+
+Richard Lycan
+Portland State University
+
+
+
+
+Follow this and additional works at: https://pdxscholar.library.pdx.edu/enrollmentforecasts
+
+   Part of the Urban Studies and Planning Commons
+Let us know how access to this document benefits you.
+
+Recommended Citation
+Portland State University. Population Research Center; Edmonston, Barry; Proehl, Risa S.; Endo, Sonoko;
+and Lycan, Richard, "Portland Public Schools Enrollment Forecast, 2005-2015, Based on October 2004
+Enrollments" (2005). School District Enrollment Forecast Reports. 76.
+https://pdxscholar.library.pdx.edu/enrollmentforecasts/76
+
+
+This Technical Report is brought to you for free and open access. It has been accepted for inclusion in School
+District Enrollment Forecast Reports by an authorized administrator of PDXScholar. Please contact us if we can
+make this document more accessible: pdxscholar@pdx.edu.
+ Portland Public Schools
+    Enrollment Forecast
+          2004-2015
+   Portland    Public Schools
+      Enrollment Forecast
+Based on October 2003 Enrollments
+            2005-2015
+ Based on October 2004 Enrollments
+               Prepared by:
+       Population Research Center
+   College of Urban and Public Affairs
+        Portland State University
+                 Prepared by:
+         Population Research Center
+     College of Urban and Public Affairs
+              MarchState
+           Portland   2004
+                         University
+
+
+                August 2005
+ Portland Public Schools
+  Enrollment Forecast
+        2005-2015
+Based on October 2004 Enrollments
+
+
+
+
+                   Project Staff:
+            Barry Edmonston, Director
+  Risa Proehl, Demographic Analysis Coordinator
+    Sonoko Endo, Graduate Research Assistant
+                in consultation with
+     Richard Lycan, Senior Research Associate
+                                                TABLE OF CONTENTS
+
+
+Executive Summary .......................................................................................................... 1
+
+
+Introduction ....................................................................................................................... 5
+Overview of the Report. .................................................................................................... 8
+Demographic Trends Affecting PPS Enrollments. ......................................................... 10
+Specific Demographic Assumptions for the Forecasts ................................................... 18
+District-Wide Enrollment Forecast. ................................................................................ 20
+High School Cluster Demographic and Enrollment Trends ........................................... 25
+Methods and Data Sources for Enrollment Forecasts ............................ …………..…...35
+
+APPENDIX 1 Detailed Results for District-Wide Enrollment Forecasts. ................... 43
+APPENDIX 2               Enrollment Forecasts for Individuals Schools. .................................... 47
+APPENDIX 3 Summary of Boundary and School Changes................................................ 56
+APPENDIX 4               Map of Vacant Residential Taxlots. ..................................................... 59
+APPENDIX 5               Data Sources…......................................................................................60
+     Portland Public Schools Enrollment Forecast: 2005-2015
+                                EXECUTIVE SUMMARY
+
+The Population Research Center has prepared district-wide and individual school
+enrollment forecasts for the Portland Public Schools (PPS) for the past 6 years. This year’s
+forecast relies on October 2004 PPS enrollment figures. It considers several factors that
+are likely to affect the school district's enrollments between the October 2004 and 2015,
+including the future number of births, net migrants, and the proportion of school-age
+children and youth enrolled in the public schools. The forecasts do not take into account
+local factors such as changing school programs or future school reorganizations that may
+have a significant effect on an individual school’s enrollment.
+
+Forecasts were initially prepared for the District as a whole and for the students residing in
+the high school clusters and elementary school attendance areas. The students were then
+assigned to the schools they were predicted to attend. A longer, more detailed report
+describes the data sources and methods and presents enrollment forecasts for each school,
+by grade.
+
+For the district-wide forecast, three scenarios of population and enrollment changes were
+developed to account for different demographic assumptions: a most-likely, or medium,
+growth scenario; a scenario for lower growth; and a higher growth scenario. The individual
+school forecasts are based on the most-likely growth scenario. All three growth scenarios
+for the PPS district-wide enrollment forecasts assume that current mortality, fertility, and
+capture rates will not change much during the next 11 years. Migration rates, a more
+difficult demographic factor to estimate than the other factors, are assumed to be a main
+factor affecting PPS enrollment changes. In each of the three scenarios, net migration in
+PPS during 2005 to 2015 is predicted to differ slightly.
+
+Recent Enrollment Trends.
+
+Beginning in 1997 PPS began to see constant yearly decreases in enrollments with the
+highest declines occurring during 2001-2004. The average annual decrease from 1997 to
+2001 was about 600 students (-1.1 percent), and from 2001 to 2004, the annual enrollment
+decreased by an average of 1,600 students (-3.3 percent).
+
+Between 1998 and 2002, the greatest annual losses were at the elementary grade levels. In
+2003, however, the greatest decrease was experienced at the middle school and high school
+levels. Because previously ungraded students were assigned to a grade in 2004 and despite
+a 1,200 decrease in total enrollment from 2003 to 2004, all grades levels except grades 3-5
+experienced an increase in 2004. Middle and high school enrollment increased by about
+300 students, and enrollment in grades K-2 increased by 30 students. There were 90 fewer
+students in grades 3-5.
+
+
+
+
+                                              Page 1
+In the past, the largest share of PPS students resided in Jefferson High School area.
+However, since 2003, Marshall High School area has been home to the largest number of
+PPS students. The smallest share of PPS students resides in the Lincoln and Cleveland
+High School areas.
+
+The number of students residing in Lincoln and Marshall High School areas increased
+from 1998 to 2004. Students residing in the remaining High School areas have decreased
+during the same period. Jefferson and Grant High School areas have seen the largest loss
+of students. They lost over 1,900 and 1,000 students respectively during 1998 and 2004.
+
+Recent Demographic Trends
+
+The school-age population in PPS has been increasing more slowly than the total
+population in recent years because there have been fewer births and school-age children
+have been leaving the PPS residential area. The other main demographic trends are:
+   o The annual number of births decreased from about 6,500 in the early 1990s to
+       about 5,500 in the late 1990s. More births now occur in the Jefferson and Marshall
+       High School areas than other areas.
+   o Housing and Households. Since 2000, about 2,400 new housing units have been
+       added within the PPS district boundary annually. The addition of multi-family
+       units, such as apartments and condominiums, outnumbered the increase of single-
+       family dwellings during this period. Recent new housing developments, including
+       rental and condominium units, have not attracted substantial numbers of families
+       with children. Most of the housing growth during the 2000-2004 period occurred
+       in Lincoln and Marshall High School areas
+   o Migration. In recent years there has been a decline in the numbers of students
+       moving into the District, but the numbers moving out have been more constant.
+       This has produced a greater net loss of students.
+   o PPS Capture Rates, and Private and Home School Enrollment. From available data,
+       the numbers of children attending private or home school does not significantly
+       affect PPS enrollments, nor do the small number of PPS students residing outside
+       of the District influence PPS enrollment trends. It is estimated that the PPS capture
+       rates have not changed much since 2000. About 84 out of 100 school age children
+       residing in the District attend PPS schools. PPS students residing in Lincoln and
+       Wilson High School areas are more likely attend their neighborhood school than
+       those who live in other areas.
+
+District-wide Forecast
+
+The different growth assumptions about recent trends each suggest a forecast that there
+will be continuing decreases in school enrollments before stabilizing in about 5 to 8 years.
+There are variations in the forecasts for the size of the declines and the timing at which
+enrollments might stabilize (see Figure 1).
+
+
+
+
+                                             Page 2
+          Figure 1. Current and Projected Enrollment: Three Growth Scenarios
+                                PPS Total Enrollment, 3 Forecast Scenarios
+                                          High      Medium     Low
+              48,000
+              47,000
+              46,000
+
+              45,000
+              44,000
+              43,000
+              42,000
+
+              41,000
+              40,000
+              39,000
+              38,000
+                         2004                2005               2010         2015
+
+
+
+Under all three growth assumptions, enrollment in the elementary grade level is anticipated
+to stabilize in 5 to 6 years, and middle school enrollment will stabilize in about 6 to 8
+years. The number of students in high school is anticipated to continue to decrease
+throughout the forecast period, and high school enrollment will account for most of the
+losses seen at the District-wide level. However, the size of decreases will become smaller
+in the 2010 to 2015 period.
+
+The three enrollment forecasts have the following results:
+   o Low Growth. Under the low growth assumption, the decline in total enrollment
+       from 2004 to 2015 is 12.3 percent, at an average annual rate of -1.2 percent. This
+       decrease represents a loss of 5,738 students or an average loss of 522 students
+       annually.
+   o Medium Growth. In the most-likely growth scenario, it is assumed that the
+       economy will continue to recover moderately and net in-migration of families with
+       children will increase somewhat. Enrollments in PPS are forecast to continue to
+       decrease, but at a slower rate during the 2005 to 2011 period. A slight increase in
+       enrollment is expected during 2011-2015. During the entire forecast period,
+       however, there will be an overall decrease in public school enrollment averaging
+       about 300 students each year between October 2004 and 2015. These annual
+       decreases will reduce total enrollments from 46,823 students in the 2004-05 school
+       year to about 43,601 in the 2015-2016 school year. This represents a decrease of
+       about 7 percent in Portland Public Schools enrollments over the span of 11 years.
+   o High Growth. In the high growth scenario, only 971 fewer students are predicted
+       to be enrolled in PPS in 2015 than in 2004. This minor loss of students over the 11-
+       year period represents a 2.1 percent decline, with an average annual rate of only
+       about -0.2 percent. Total enrollment begins to increase in 2012 and enrollment in
+       2015 is higher than in 2007.
+
+
+
+
+                                                    Page 3
+High School Areas Forecasts
+
+Separate enrollment forecasts are available for each school attendance area and for high
+school attendance areas. Most High School areas will experience a decrease in the number
+of PPS students from 2004 to 2015. However, after an initial continued loss of students,
+Jefferson, Madison, and Franklin High School areas are expected to see an increase in the
+number of PPS students toward the end of the forecast period. Overall, between 2004 and
+2015:
+    o Lincoln, Marshall, and Roosevelt High School areas are likely to experience
+        modest enrollment increases, with about 20 to 40 more K-12 students each year.
+    o Franklin, Madison, and Wilson High School areas are likely to witness modest
+        enrollment decreases, with about 20 to 60 fewer K-12 students each year.
+    o Cleveland, Grant, and Jefferson are likely to see moderate enrollment declines, with
+        about 70 to 80 fewer K-12 students each year.
+
+
+Project Staff:
+
+Barry Edmonston, Director
+Risa Proehl, Demographic Analysis Coordinator
+Sonoko Endo, Graduate Research Assistant
+in consultation with Richard Lycan, Senior Research Associate
+Population Research Center, Portland State University
+
+For further information, contact:
+Barry Edmonston
+edmonstonb@pdx.edu
+503-725-5101
+
+
+
+
+                                           Page 4
+                                     INTRODUCTION
+
+This is the sixth annual report prepared by the Population Research Center (PRC)
+forecasting future enrollments for the Portland Public Schools (PPS). Previous annual
+reports were based on October 1999, 2000, 2001, 2002, and 2003 enrollments; this report
+relies on October 2004 PPS enrollment figures.
+
+
+This report provides a district-wide enrollment forecast, enrollment forecasts for individual
+schools, and demographic information for the Portland Public Schools area. The report
+considers several factors that are likely to affect the school district's enrollments between
+the October 2004 and 2015, including the future number of births, net migrants, and the
+proportion of school-age children and youth enrolled in the public schools.
+
+
+For the district-wide forecast, three scenarios of population and enrollment changes were
+developed to account for different probabilities of demographic events. Forecasted
+enrollments were developed for a most-likely, or medium, growth scenario, and for lower
+growth and higher growth situations. The individual school forecasts are based on the
+most-likely growth scenario.
+
+
+The different growth assumptions about recent trends each suggest a forecast that there
+will be continuing decreases in school enrollments before stabilizing in about 5 to 8 years.
+There are variations in the forecasts for the size of the declines and the timing at which
+enrollments might stabilize.
+
+
+Changes in enrollment for all grade levels - Kindergarten through 2nd, 3rd through 5th, 6th
+through 8th, and 9th through 12th - are expected to follow a similar pattern as total
+enrollment. The magnitude of change and occurrence of change will vary, however.
+Enrollments in the lower grades will eventually rebound at a faster pace than enrollments
+in the higher grades. Enrollments in K-8 grades levels will see modest increases by the end
+of the forecast period. Enrollments in grades 9-12 will fluctuate throughout the period, and
+are expected to start to stabilize near the end of the period.
+
+
+                                               Page 5
+In the most-likely growth scenario, it is assumed that the severity of the recent downward
+trend in the local economy is temporary. The economy is predicted to continue to
+moderately recover and net in-migration of families with children will increase somewhat.
+Additionally, rates at which public school enrollments have been decreasing will lessen
+and eventually stabilize.
+
+
+If recent trends continue, enrollments in PPS are forecasted to continue to decrease, but at
+a slower rate during the 2005 to 2011 period. A slight increase in enrollment is expected
+during 2011-2015. During the entire forecast period, however, there will be an overall
+decrease in public school enrollment averaging about 300 students each year between
+October 2004 and 2015. These annual decreases will reduce total enrollments from 46,823
+students in the 2004-05 school-year to about 43,601 in the 2015-2016 school year. This
+represents a decrease of about 7 percent in Portland Public Schools enrollments over the
+span of 11 years.
+
+
+A Note of Caution
+
+
+Given the severity of recent PPS enrollment declines, several caveats should be kept in
+mind when interpreting the enrollment forecasts in this report.
+
+
+First, the PPS enrollment projections represent a forecast derived from assumptions
+representing our best judgment as to the possibilities for future conditions. It is not possible
+to judge at this time which of the assumptions or combinations of assumptions may best
+forecast future enrollments. The next three or four years will reveal better whether the
+modeled demographic trends are likely to occur. If different conditions arise, then it would
+be appropriate to revise the enrollment projections, taking into account new assumptions.
+
+
+Second, variations in forecasts become larger in the long run. Most of the students who
+will enroll in Portland Public Schools next year are currently enrolled in schools this year.
+This helps to make a more accurate forecast in the short term. But, as years go by,
+
+
+
+                                              Page 6
+enrollments depend increasingly on assumptions about the numbers of school-age children
+and youth that move into and out of the school district and the number of births that occur
+in the district. Enrollment forecasts become less certain over longer periods of time.
+
+
+Finally, there is a temptation in interpreting forecasts to ask: "Which is the correct
+forecast?" Asking such a question implies that there is need to pick one forecast at present
+and then base future plans on it. The more appropriate use of this report is to consider that
+there is likely to be some variation around the most-likely forecast and that we will want to
+update them as conditions evolve. Instead of "picking and planning" right now for one
+outcome over the next eleven years, we urge school officials and the public to "monitor
+and manage" the changing conditions that will affect future school enrollments. The most-
+likely enrollment forecast presented in this report can best serve as a guideline in this
+process of monitoring and managing.
+
+
+
+
+                                              Page 7
+                            OVERVIEW OF THE REPORT
+
+This report presents the results of a study conducted by the Population Research Center
+(PRC) to address the long-range planning needs of the Portland Public Schools (PPS).
+This report considers recent demographic changes experienced in the District and provides
+annual district-wide enrollment forecasts by grade for the PPS from 2005 to 2015. Also
+included are enrollment forecasts for selected grade levels (K-2, 3-5, 6-8, and 9-12) for
+each year from 2004 to 2015 for PPS individual schools.
+
+
+For the district-wide forecasting, three scenarios of population, housing, and enrollment
+changes were developed to account for different probabilities of demographic events.
+Expected future enrollments that result from the most likely population trends in the
+District are presented in this report along with two additional district-wide enrollment
+forecasts based on lower and higher growth scenarios. The three scenarios presented here
+differ from those developed for earlier forecast reports. Each scenario is based on alternate
+future population growth assumptions predicted for the area in and around Portland Public
+Schools.
+
+
+The report covers the following topics:
+
+
+District Demographic Trends. A description of recent demographic trends and factors that
+influence population and enrollment changes in the District, including fertility, migration,
+and housing growth. Also included in this section is a description of some additional
+factors that influence enrollment changes – capture rates, and private and home schooling
+trends.
+
+
+District Enrollment Trends. A brief description of historical and current enrollment
+patterns in the District.
+
+
+Population Growth Assumptions. A description of the assumptions used in the low,
+medium, and high growth District forecasts.
+
+
+                                              Page 8
+The Most-Likely, and Low and High District Enrollment Forecasts (District-Wide
+Results). The results and analysis of the predicted enrollment changes.
+
+
+Demographic and Enrollment Trends in High School Cluster Areas. A description of the
+significant population, housing, and enrollment trends that are specific to the individual
+geographic areas of the high school clusters.
+
+
+Methods and Data Employed for District Forecast. A description of the population and
+enrollment model and data sources used for the district-wide forecast.
+
+
+Methods and Data Employed for Individual School Forecasts. A description of the model
+and data used for these forecasts.
+
+
+Several Appendices provide more detailed information, including:
+
+
+Appendices 1 and 2. Detailed District-wide and school forecast tables.
+
+
+Appendix 3. A summary of PPS school and boundary changes.
+
+
+Appendix 4. Map vacant residential tax lots with PPS boundary.
+
+
+Appendix 5. Detailed data sources.
+
+
+
+
+                                                Page 9
+          DEMOGRAPHIC TRENDS AFFECTING PPS ENROLLMENTS
+
+Population
+
+
+It is estimated that the total population in PPS reached approximately 443,500 in 2004.
+PPS, by nature of its location within Multnomah County and the City of Portland, follows
+similar trends as the two larger areas. The population in PPS represents about 81 percent of
+Portland’s population and 65 percent of Multnomah County’s.
+
+
+Since at least 2000, it is estimated that Portland’s population has been increasing by about
+an average of 5,400 persons annually, providing most of the total population growth in
+Multnomah County. The average annual growth rate of the total population in Portland is
+estimated to be about 1 percent since 2000. The rate of increase of the school-age
+population in Multnomah County during recent years had typically been lower than the
+rate for the total population, and often lower than the rates in surrounding counties.
+However, Multnomah County has recovered a slightly higher growth rate of the school-age
+population in the past year. There was a 1.5 percent increase in the number school age
+children in Multnomah County, which was higher than any of the previous five years, and
+about the same rate as the total population. This level of increase was lower than in
+Washington County, but higher than Clackamas County and the State.
+
+
+While both Multnomah County and the State of Oregon have seen similar trends for
+children’s population age groups during 1999-2004, growth rates in Multnomah County
+slightly outpaced the State during the past year in the age groups between 5 and 17 years.
+The population growth rate of children ages 0-4, however, has declined in both Multnomah
+County and the State.
+
+
+The population of whites in both Portland and Multnomah County has been decreasing in
+the last several years, while the ethnic minority population has been increasing. Since at
+least 1999, Hispanics and Asians have been increasing in both areas, while the black
+population has been decreasing in the city and increasing in the County. The Hispanic
+
+
+                                              Page 10
+population is increasing at the fastest rate. The Asian population has been increasing at a
+faster pace in the city than in the County, and the Native American population has
+remained stable in both areas.
+
+
+Fertility and Births
+
+
+The total fertility rate in PPS was about 1.75 in 2000, meaning that the average woman
+would bear 1.75 children by the end of her child-bearing years. This rate is considerably
+below the State average of about 2 children. Age-specific fertility rates in the District are
+assumed to have remained stable and there has been no significant change in the annual
+number of births. Since 1998, there have been between 5,400 and 5,700 births in the
+District annually. Thus far, any increases in fertility from women in racial/ethnic groups
+associated with higher fertility moving into the District have been offset by others
+postponing child-bearing or deciding not to have children.
+
+
+In 2003, the most recent year for which data are available, 68 percent of all births in the
+District were white, 13 percent were Hispanic, 9 percent were black, 9 percent were
+Asian/Pacific Islander, and 1 percent were Native American. Since 1998, the numbers of
+births to whites and blacks have decreased slightly, while the numbers of Hispanic and
+Asian births have increased. The number of Native American births has been stable.
+
+
+Housing and Households
+
+
+Since 2000, about 2,400 new housing units have been added within the PPS district
+boundary annually. The addition of multi-family units, such as apartments and
+condominiums, has outnumbered the increase of single-family dwellings during this period
+Despite continued housing growth in the District, it appears that fewer families with
+school-age children are moving into the Portland area. Recent new housing developments,
+including rental and condominium units, have not attracted substantial numbers of families
+with children.
+
+
+
+                                              Page 11
+Most of the land area within the Portland Public Schools area has been developed. Most
+new residential construction has been “in-fill” developments as well as some conversions
+of commercial structures to residential housing. As of April 2004, the number of vacant
+developable tax lots in PPS that are zoned as residential is approximately 7,100. This
+number represents about 5.0 percent of all tax lots that are zoned residential within the
+District boundary. The number of possible housing units that may built on this land in the
+future will be larger than the number of tax lots as multi-family structures may be built on
+one taxlot (see map in Appendix 4 for location of vacant residential lots).
+
+
+Portland’s average number of persons per housing unit is estimated to be 2.47 for single-
+family housing units (the lowest of all surrounding sizable cities in the metropolitan area)
+and 1.64 for multi-family units (the lowest after Lake Oswego and West Linn). Portland’s
+low average number of persons per housing unit is another indication of the presence of
+large numbers of households with few or no children.
+
+
+Migration
+
+
+In recent years there has been a decline in the numbers of students moving into the District,
+but the numbers moving out have been more constant. While an overall increase in the
+numbers of students moving out has not been observed, the result is still a net loss of
+students because the students who have been leaving the District are not being replaced by
+newcomers as they were in previous years.
+
+
+The majority of students moving out of the District are white. The number of minority
+students (mostly Hispanic) that had been moving into the District to offset student losses in
+previous years has declined. Additionally, there has been an increase in the number of
+minority students (mostly blacks) moving out of the district.
+
+
+
+
+                                              Page 12
+Most of the students transferring in and out of the District reside in rental housing. Due to
+the lack of permanency associated with apartments and other rental housing, in times when
+the economy is in recession and unemployment rates are especially high in the city, more
+renters than home-owners seek better-value housing and jobs elsewhere.
+
+
+For a more detailed description of the results from an analysis of the student enrollment
+data and an explanation of possible causes for the recent accelerated decline of PPS
+enrollments, please refer to the report entitled Anatomy of the Losses in Portland Public
+Schools Enrollment prepared by Richard Lycan for PPS, dated February 2004.
+
+
+PPS Capture Rates, and Private and Home School Enrollment
+
+
+Capture rates, the rates that reflect the percentage of children who attend local public
+schools, was about .84 in PPS in 2000. It is estimated that the capture rates in 2004 have
+not changed much since 2000. This means that 84 out of 100 school age children residing
+in the District attend PPS schools. In 2000, the capture rate for grades 3-5 was the highest
+at .87, followed by grades 6-8 with a rate of .85. The capture rate for high schoolers is
+about .84. The lowest rate characterizes K-2 students at .82.
+
+
+The number of students that reside outside of the District and attend PPS schools
+fluctuated between approximately 800 and 1,200 students during 1998 to 2004. In 2004,
+there were 1,191 out-of-district students attending PPS schools. About 40 percent of these
+students attended high school, 20 percent were enrolled in middle school, and 40 percent
+were in elementary school.
+
+
+About 30 private schools were surveyed in the Portland metropolitan area to evaluate
+overall trends of private school attendance. Based on the survey responses, no significant
+changes were found in the number of students residing within the PPS boundary attending
+private school in recent years.
+
+
+
+
+                                              Page 13
+Analysis of data from the Oregon Department of Education suggests that growth rates of
+private school enrollment in the Portland metropolitan area are not as high now as they
+were in the mid-1990s, when there were more increases in private school enrollments, and
+no substantial changes were noted during the past year.
+
+
+It appears that the percentage of home schooled students has increased slightly in
+Multnomah County during the past 2-3 years. However, the annual rate of growth of
+students in home school has fluctuated historically and it is not certain whether the
+increase in the percentage of home school students will continue.
+
+
+The percentage of school-age children in home school in Multnomah County during 1998
+to 2000 was around 1.5 percent and increased to 2.3 percent during the 2002-2003 and
+2003-2004 school years. Approximately 2,500 children were reported to be home schooled
+in Multnomah County in the 2003-2004 school year. During the same period
+approximately 1,400 students residing in PPS are estimated to have been attending home
+school, an increase of about 400 students since 2000.
+
+
+From available data, the numbers of children attending private or home school do not
+significantly impact changes in PPS enrollment, nor do the small number of PPS students
+residing outside of the District influence PPS enrollment trends.
+
+
+PPS Enrollment Trends
+
+
+In the 2004-2005 school year, the school district included 59 elementary schools, 17
+middle schools, 10 high schools, and a variety of special schools and programs. Since the
+development of last year’s enrollment forecasts, 3 of the 10 high schools have created
+multiple smaller high schools located within each of the original high school campuses. In
+addition, at the end of the 2004-2005 school-year, five neighborhood elementary schools
+and one middle school closed.
+
+
+
+
+                                             Page 14
+The configuration of the grade levels for most elementary schools is kindergarten to grade
+5; however, seven elementary schools offer pre-kindergarten programs and three include
+middle school grade levels. Middle schools consist of grades 6 to 8. High schools include
+grades 9 to 12. Several PPS schools include special programs, or focus options, and are
+included in this study.
+
+
+During 1990 to 1996, PPS experienced enrollment increases during most years with an
+average annual increase of about 400 students. Beginning in 1997 PPS began to see
+constant yearly decreases in enrollments with the highest declines occurring during 2001-
+2004. The average annual decrease from 1997 to 2001 was about 600 students (-1.1
+percent), and from 2001 to 2004, the annual enrollment decreased by an average of 1,600
+students (-3.3 percent).
+
+
+Historically, about 2 to 3 percent of PPS students in special education programs were not
+assigned a grade level, or were ungraded. The number of ungraded students increased from
+at least 1998 to 2003. In the 2003-2004 school year, ungraded students represented almost
+4 percent of the PPS total enrollment, or 1,769 students. The highest percentage of
+ungraded students attended high school (44 percent), 31 percent attended middle school,
+and 25 percent were enrolled in elementary school. In the 2004-2005 school year, a new
+assignment of grades occurred, and except for 4 students, all students were integrated and
+were assigned a grade level.
+
+
+Between 1998 and 2002, the greatest annual losses consistently were at the elementary
+grade levels. In 2003, however, the greatest decrease was experienced at the middle school
+and high school levels. Because the previously ungraded students were assigned to a grade
+in 2004 and despite a 1,200 decrease in total enrollment from 2003 to 2004, all grades
+levels except grades 3-5 experienced an increase in 2004. Middle and high school
+enrollment increased by about 300 students, and enrollment in grades K-2 increased by 30
+students. There were 90 fewer students in grades 3-5.
+
+
+
+
+                                            Page 15
+The explanation for the overall enrollment declines which began in 1997 is detailed in a
+report prepared by the Population Research Center entitled Changing Times, Changing
+Enrollments: How Recent Demographic Trends are Affecting Enrollments in Portland
+Public Schools. Causes of the accelerated enrollment in 2002 and in 2003 are analyzed in
+the report entitled Anatomy of the Losses of Portland Public Schools Enrollment by
+Richard Lycan. The main conclusions about the possible factors contributing to the
+declining enrollments in PPS as outlined in the reports are:
+
+
+      First and foremost, public school enrollments have declined in recent years
+       primarily because there have been sizeable decreases in the number of students
+       entering kindergarten and the early elementary school grades. Smaller numbers of
+       entering students are, in turn, the result of substantial reductions in the number of
+       births -- reductions that began in 1991. Because there were fewer births in the early
+       1990s, fewer students enrolled in school in the late 1990s.
+
+
+      The number of births continued to decline throughout the 1990s. Declines in school
+       enrollments starting after about 2002 are partly attributed to the lower number of
+       births in the second half of the 1990s than in the early 1990s. But, with greater net
+       out-migration of school-age children and the decline in births in recent years, PPS
+       enrollment declines became larger in 2002 and 2003.
+
+
+      Net out-migration of school-age children appears to have increased in the late
+       1990s, further reducing enrollments.
+
+
+      There is conflicting evidence from public, private, and home schooling data on
+       changes in public school capture rates (the proportion of school age children
+       enrolled in Portland Public Schools). Available data, however, suggest that
+       decreases in public school capture rates have been slight and have not been a major
+       determinant of public school enrollment trends.
+
+
+
+
+                                              Page 16
+      Increased international migration into the Portland metropolitan area has
+       ameliorated the decline in enrollments by adding several thousand foreign-born
+       students to the Portland Public Schools. Immigrant couples are contributing an
+       increasing number of births to the population. Births to immigrants partially
+       counterbalance fertility declines among native-born residents.
+
+
+      More recently, there has been a decrease in the numbers of minority students in
+       PPS.
+
+
+      Recently there has been a decrease of in-migration to PPS rather than an increase of
+       out-migration from PPS.
+
+
+Enrollment by race/ethnicity
+
+
+Based on 2004 enrollments, white students represent about 59 percent of the total PPS
+enrollment. Blacks represent 16 percent, Hispanics, 12 percent, Asians 10 percent, and
+Native Americans about 2 percent. White enrollment has decreased in recent years. Of the
+ethnic minority groups, the shares that Hispanics and Asians represent have increased.
+Hispanic students in PPS are growing at the fastest pace of all ethnic minority groups. The
+share that black and Native American students represent has decreased slightly.
+
+
+
+
+                                             Page 17
+                      SPECIFIC DEMOGRAPHIC ASSUMPTIONS
+                        FOR THE ENROLLMENT FORECASTS
+
+The population of an area is determined by the number of births and deaths that occur in
+the same area, and number of net migrants moving in or out. The population in a given
+time period is illustrated in the following equation:
+
+       Population in 2000 = Population in 1990 + Births during 1990 to 2000 – Deaths during 1990 to
+       2000 +/- Net Migration during 1990 to 2000
+
+
+The number of net migrants is influenced by factors such as housing availability and the
+economy. In addition to an area’s population characteristics, capture rates also determine
+public school enrollment.
+
+
+Three growth scenarios (low, medium, and high) were developed for the district-wide
+enrollment forecasts. The different scenarios are based on predictions of demographic
+trends in the PPS area and how quickly the economy will recover. The rate at which the
+population is predicted to increase is dependent on the extent at which the economy will
+recover. All three growth scenarios assume that current mortality, fertility, and capture
+rates will not change much during the forecast period. Migration rates, a more difficult
+demographic factor to estimate than the other factors, are assumed to be a main factor
+affecting PPS enrollment changes. In each of the three scenarios, net migration in PPS
+during 2005 to 2015 is predicted to differ slightly.
+
+
+The economy is a major force influencing in and out-migration of population. Local and
+regional economists concur that the economic climate in the Portland metropolitan area
+will continue to improve, but the extent and pace of improvements is not certain.
+
+
+The population growth assumptions in all three scenarios developed for this forecast have a
+milder impact on future PPS enrollments than have been observed in the past three years.
+The demographic trends that have led to decreasing enrollments are expected to lessen in
+magnitude and the recent dramatic enrollment declines that have occurred in PPS are not
+
+
+
+                                                  Page 18
+anticipated to continue in the future. The differences between the scenarios’ assumptions
+represent varying magnitudes curbing the recent trends of high net out-migration of PPS
+students.
+
+
+The medium growth scenario assumes that the current economic situation will
+moderately rebound and reduce the downward net out-migration trends of families with
+children recently experienced by the District. Although decreases in total enrollment are
+still expected during the next several years, the annual loss of students will not be as great
+as in the recent past. Net out-migration rates will decrease, and toward the end of the
+forecast period net migration rates will stabilize and thereby stabilize total enrollment.
+
+
+The demographic trends of the past five years (1999 to 2004) are assumed to have more
+bearing on future enrollments in the low growth scenario. In this scenario, a slower
+recovery of the economy is implied and a net out-migration of families with children is
+continued. But because the annual rates of decline during 1999-2001 were not as
+pronounced as during 2001-2004, the higher rates of the loss of students seen during the
+past three years are tempered and the change in annual enrollment is less dramatic during
+2005 to 2015.
+
+
+Under the high growth assumption, the downward trends of recent years are assumed to
+rebound at a quicker pace than in the medium scenario, and a stronger recovery of the
+economy leading to in-migration of families with children is anticipated. In this case,
+smaller enrollment decreases are forecast for the District from 2004 to 2011. By 2012, in
+this scenario, increases in enrollment are seen.
+
+
+
+
+                                              Page 19
+                   DISTRICT-WIDE ENROLLMENT FORECAST
+
+Under the assumptions for population growth considered for the district-wide forecasts
+under all 3 growth scenarios, decreases in PPS school enrollment will continue but will
+stabilize during the forecast period. The rate and timing at which enrollments will begin to
+recover and the magnitude of the recovery differ in each of the three forecast scenarios.
+
+
+Under all three growth assumptions, enrollment in the elementary grade level is anticipated
+to rebound in 5 to 6 years, and middle school enrollment will rebound in about 6 to 8
+years. The number of students in high school is anticipated to continue to decrease
+throughout the forecast period, and high school enrollment will account for most of the
+losses seen at the District-wide level. However, the amount of decreases will become
+smaller as the end of the forecast period approaches.
+
+
+Since 2000, the greatest average losses were seen in elementary school. Because relatively
+small cohorts of these age groups are moving through the system and progressing through
+the grade levels over time, changes in high school enrollment will be restrained during the
+forecast period. The increases of younger students expected in the District will affect high
+school enrollment after the forecast period.
+
+
+Results
+
+
+PPS enrollments in all three scenarios are predicted to decrease until at least 2012. As 2015
+approaches, increases in enrollment will be seen under the medium and high growth
+assumptions, but enrollment will continue to decrease throughout the forecast period in the
+low growth scenario.
+
+
+The differences between the scenarios’ assumptions are in the magnitude of curbing the
+recent trends of net out-migration and recovery of higher in-migration. The difference
+between the low, medium, and high assumptions becomes more pronounced after a few
+
+
+
+
+                                               Page 20
+years. In the immediate two or three years, there are relatively smaller differences between
+the three assumptions. By 2015, the differences are greater (see Figure 1).
+
+
+Figure 1. Current and Projected Enrollment: Three Growth Scenarios
+
+                        PPS Total Enrollment, 3 Forecast Scenarios
+                                   High     Medium       Low
+  48,000
+
+  47,000
+  46,000
+
+  45,000
+
+  44,000
+
+  43,000
+  42,000
+
+  41,000
+
+  40,000
+
+  39,000
+  38,000
+                 2004                2005                2010                 2015
+
+
+
+
+Tables 1, 2, and 3 below display the enrollment forecasts for summarized grade levels for
+each of the three scenarios. More detailed tables are located at the end of this report in
+Appendix 1. The enrollment forecast developed for each scenario is discussed below.
+
+
+Medium Growth (most-likely)
+
+
+The medium growth assumption indicates that overall school enrollments will decrease
+slightly from present levels of 46,823 in 2004 to 43,601 in 2015, a decline of 3,222
+students. The decrease in enrollment for the district represents a 6.9 percent change
+distributed over 11 years. On average, total enrollment will decrease by 293 students per
+year, which is less than a one percent yearly decline.
+
+
+
+                                              Page 21
+Enrollments in all grade levels continue to decrease in the immediate years. Recovery of
+students is eventually seen at all grade levels except high school. Students in the grade
+levels that do recover will be at different rates. Recovery time is faster for the lower grades
+than for higher grades.
+
+
+Decreases in K-2 enrollments will be seen in the next couple of years. However, under the
+medium growth assumption, beginning in 2007, students enrolled in the lower elementary
+grades will see annual increases that will continue throughout the rest of the forecast
+period. Overall, from 2004 to 2015, enrollment in grades k-2 will increase by 7.0 percent,
+or by 766 students.
+
+
+Students in higher grade levels will take longer to stabilize. Enrollment in grades 3-5 will
+begin to see slight increases starting in 2010 so that by 2015 there will be only 23 fewer
+students than in 2004. By 2012, middle school enrollment is predicted to increase, but in
+2015 there will be an overall loss of almost 1,200 middle school students from 2004. High
+school enrollment will see the greatest declines – about 2,800 fewer students are expected
+to attend PPS high school in 2015 than in 2004.
+
+
+Table 1. Medium Growth District Enrollment Forecast
+Medium Growth                                                  2004-2015           Average Annual
+
+Scenario                  2004       2005        2015            Change                   Change
+                                                          Number       Percent    Number       Percent
+Elementary, K-2           10,939    10,795      11,705       766        7.0%         70           0.6%
+Elementary, 3-5           10,695    10,507      10,672       -23        -0.2%        -2           0.0%
+Middle School, 6-8        10,656    10,218      9,486       -1,170     -11.0%       -106          -1.1%
+High School, 9-12         14,528    14,354      11,738      -2,790     -19.2%       -254          -1.9%
+Total                 46,823*       45,875      43,601      -3,222      -6.9%       -293          -0.6%
+* Includes 5 ungraded students.
+
+
+
+
+                                              Page 22
+Low Growth
+
+
+Under the low growth assumption, the decline in total enrollment from 2004 to 2015 is
+12.3 percent, at an average annual rate of -1.2 percent. This decrease represents a loss of
+5,738 students, or an average loss of 522 students annually.
+
+
+Enrollment in grades K-2 is expected to increase slightly during the forecast period with 95
+additional students in 2015 than in 2004. Enrollments in all other grades are predicted to
+decrease during the period. There will be 647 fewer students in grades 3-5 than in 2004,
+and represents a change of about 6 percent. Middle school will see more dramatic losses
+with 1,731 fewer students (-16.2 percent) at the end of the forecast period. Even greater
+declines are expected at the high school level with a decline of 23.7 percent, or 3,449 fewer
+high school students in 2015 than in 2004.
+
+
+Table 2. Preliminary Low Growth District Enrollment Forecast
+                                                         2004-2015                Average Annual
+Low Growth
+                         2004        2005       2015                Change               Change
+Scenario
+                                                          Number        Percent   Number      Percent
+Elementary, K-2         10,939      10,723     11,034          95        0.9%        9          0.1%
+Elementary, 3-5         10,695      10,454     10,048       -647        -6.1%       -59         -0.6%
+Middle School, 6-8      10,656      10,167      8,925      -1,731       -16.2%     -157         -1.6%
+High School, 9-12       14,528      14,288     11,079      -3,449       -23.7%     -314         -2.5%
+Total                 46,823*       45,631     41,085      -5,738       -12.3%     -522         -1.2%
+* Includes 5 ungraded students.
+
+
+High Growth
+
+
+In the high growth scenario, only 971 fewer students are predicted to be enrolled in PPS in
+2015 than in 2004. This minor loss of students over the 11-year period represents a 2.1
+percent decline, with an average annual rate of only about -0.2 percent. Total enrollment
+begins to increase in 2012 and enrollment in 2015 is higher than in 2007.
+
+
+                                              Page 23
+Over 1,300 additional students are expected to attend PPS in grades K-2 in 2015. More
+students in grades 3-5 are also anticipated to be enrolled in PPS in 2015 than in 2004; 532
+more students in grades 3-5 are predicted to attend PPS elementary schools in 2015.
+Overall decreases for middle school and high school of 655 and 2,191 respectively, are
+foreseen from 2004 to 2015 under the high growth scenario.
+
+
+Table 3. Preliminary High Growth District Enrollment Forecast
+                                                             2004-2015           Average Annual
+High Growth
+                        2004      2005       2015               Change                  Change
+Scenario
+                                                       Number       Percent    Number         Percent
+Elementary, K-2        10,939    10,893     12,286       1347        12.3%        122          1.1%
+Elementary, 3-5        10,695    10,574     11,227        532        5.0%          48          0.4%
+Middle School, 6-8     10,656    10,284     10,001       -655        -6.1%        -60         -0.6%
+High School, 9-12      14,528    14,438     12,337      -2,191      -15.1%        -199        -1.5%
+Total                46,823* 46,188         45,852       -971        -2.1%        -88         -0.2%
+* Includes 5 ungraded students.
+
+
+
+
+                                             Page 24
+  HIGH SCHOOL CLUSTER DEMOGRAPHIC AND ENROLLMENT TRENDS
+
+As a result of school closures in PPS, several attendance area boundary changes will affect
+2005 and future school enrollments. Historical and current student enrollment data were
+compiled in this study to represent the new attendance areas boundaries. Previous
+enrollment forecasts were based on data compiled for earlier and different attendance area
+boundaries.
+
+
+Another change that has occurred in PPS is in the configuration of grades that some
+schools offer. The elementary schools in the Jefferson high school cluster will convert
+from grades K-5 to grades K-6, and one middle school (also in Jefferson high school
+cluster) will offer grades K-8 instead of grades 6-8. These changes are scheduled to take
+place in fall of 2005 and 2006. For a summary of the changes that will take place starting
+in school-year 2005-2006 or 2006-2007, see Appendix 3 at the end of this document.
+
+
+Different growth patterns occur in different parts of the District. Each of the nine high
+school clusters (HSCL) was examined for any significant demographic characteristics or
+changes in population or housing growth that might influence individual school forecasts.
+Factors that were analyzed are births, racial/ethnic composition, building activity
+(including the amount of available buildable vacant land that is zoned residential and
+future planned developments), school enrollment trends, and drop-out rates. It should be
+noted that enrollment trends of individual elementary school attendance areas may
+sometimes differ from the demographic trends of the surrounding HSCL area.
+
+
+Population
+
+
+In 2000, Lincoln High School Cluster captured the largest share of the District’s total
+population, followed by Jefferson and Cleveland, while Roosevelt, Grant and Madison had
+the smallest share. Of the school-age population, however, most children resided in
+Jefferson and Marshall, and the fewest lived in Lincoln and Grant. HSCLs with a higher
+
+
+
+
+                                              Page 25
+share of the District’s total population than school-age population indicate that there is a
+larger share of persons without children than in other HSCLs.
+
+
+Table 4. HSCL Share of PPS Population
+                    Proportion of       Proportion of
+High School           District           Population,
+Cluster             Population in       Ages 5-19 in
+                        2000                2000
+Cleveland               13.0%               10.5%
+Franklin                11.1%               9.8%
+Grant                    9.4%               9.7%
+Jefferson               12.8%               15.0%
+Lincoln                 13.8%               8.8%
+Madison                 10.0%               11.5%
+Marshall                10.2%               12.4%
+Roosevelt                7.7%               10.7%
+Wilson               11.9%                  11.5%
+Source: US Census 2000
+
+
+Housing
+
+
+Most of the housing growth during the 2000-2004 period occurred in Lincoln and Marshall
+HSCLs. The fewest number of units were added in Grant HSCL (see Table 5). More than
+half of the new housing constructed in all the high school clusters, except Jefferson,
+Roosevelt and Marshall, were multi-family units. In Cleveland, new multi-family
+dwellings accounted for 84 percent of the new residential units.
+
+
+
+
+                                              Page 26
+Table 5.   Housing Units Added By HSCL
+
+                                        Percent of New        Percent
+       Total Units
+                          2000-2004     Construction in    Multi-family
+       Added
+                                              PPS             Units*
+       Cleveland             790              7%               84%
+       Franklin              378              3%               53%
+       Grant                 306              3%               76%
+       Jefferson             846              7%               48%
+       Lincoln              5,892            49%               86%
+       Madison               838              7%               75%
+       Marshall             1,223            10%               42%
+       Roosevelt             963              8%               47%
+       Wilson                802              7%               51%
+       District Total      12,038
+       *includes condos and row houses.
+       Source: Building Permit Data, City of Portland, 2004
+
+As of April 2004, Wilson and Lincoln HSCLs have the largest numbers of vacant
+developable tax lots that are zoned residential. Grant and Madison HSCLs have the fewest
+number of vacant residential tax lots (see Table 6 and map in Appendix 4).
+
+
+Table 6. Vacant Tax lots that are Zoned Residential by HSCL
+                Number of Vacant           Percent of All          Percent of Vacant
+HSCL              Residential Tax       Residential Tax Lots      Residential Tax Lots
+                        Lots                in the HSCL                 in PPS
+Cleveland               759                     4.5%                     10.7%
+Franklin                589                     3.6%                     8.3%
+Grant                   407                     2.8%                     5.7%
+Jefferson               861                     4.5%                     12.1%
+Lincoln                1,257                    8.1%                     17.7%
+Madison                 441                     3.0%                     6.2%
+Marshall                838                     6.1%                     11.8%
+Roosevelt               675                     6.2%                     9.5%
+Wilson                 1,281                    6.3%                     18.0%
+District Total         7,108                    5.0%                    100.0%
+Source: Metro RLIS Lite 2004
+
+
+
+
+                                            Page 27
+Births
+
+
+Of the total number of births in the District during 1998-2003, most occurred in the
+Jefferson, and Marshall HSCLs. They represented about 15 percent and 13 percent of all
+births in the District respectively. The fewest number of births, less than 10 percent of
+District births, occurred in Lincoln, Wilson, and Grant HSCLs (see Table 8).
+
+
+Lincoln, Madison, Marshall, and Wilson were the only HSCLs in the District to experience
+an increase in births between 1998 and 2003 (see Table 8). Amongst these HSCLs, Lincoln
+had a 19 percent increase, and the other three HSCLs had less than 5 percent increases.
+Grant and Roosevelt HSCLs saw the greatest percentage decline in births during the same
+period (12 percent each).
+
+
+The number of births fluctuates from year to year. An HSCL with an increase in births
+between two years could easily show a decrease for a different two years during a similar
+time period.
+
+
+Table 8.   Births, 1998-2003
+
+                                                                                         1998-
+                             1998                   2000                   2003
+                                                                                         2003
+ HSCL
+                                Share                  Share                  Share       1998-
+                    Births         of      Births         of      Births         of        2003
+                                District               District               District   Change
+ Cleveland            692       12.3%        654       11.6%        647       11.8%       -6.5%
+ Franklin             613       10.9%        627       11.1%        606       10.9%       -1.1%
+ Grant                583       10.3%        550        9.8%        514        9.6%      -11.8%
+ Jefferson            844       15.0%        886       15.7%        838       15.0%       -0.7%
+ Lincoln              415        7.4%        447        7.9%        493        8.1%      18.8%
+ Madison              617       11.0%        675       12.0%        642       11.3%       4.1%
+ Marshall             707       12.6%        740       13.1%        715       12.8%       1.1%
+ Roosevelt            604       10.7%        526        9.3%        532       10.0%      -11.9%
+ Wilson               558        9.9%        530        9.4%        564       10.1%       1.1%
+ District Total      5,633                  5,635                  5,551                  -1.5%
+
+
+
+
+                                               Page 28
+Students Attending their Neighborhood Schools
+
+
+PPS students in grades K through 12 that reside in Lincoln and Wilson HSCLs are most
+likely to attend their neighborhood school than those who live in other HSCLs in the
+District.
+The percentage of PPS students that attend their neighborhood schools and reside in
+Jefferson HSCL is the lowest in the District, followed by those who reside in Madison
+HSCL.
+
+
+A higher percentage of students in the elementary grade levels are enrolled in their
+neighborhood schools than in the other grades. High school students attending the schools
+in the neighborhood they reside in represent the lowest percentage.
+
+
+
+
+Table 9. Percentage of PPS Students Attending Schools in their HSCL
+
+  HSCL        K-2       3-5       6-8      9-12
+Cleveland     77%       78%       67%      63%
+Franklin      75%       73%       78%      59%
+Grant         70%       71%       67%      70%
+Jefferson     72%       73%       36%      26%
+Lincoln       93%       93%       87%      83%
+Madison       74%       76%       61%      48%
+Marshall      81%       80%       69%      39%
+Roosevelt     80%       81%       80%      53%
+Wilson        88%       88%       90%      84%
+
+
+
+PPS Students Residing Outside of the District
+
+
+Currently, in 2004, 1,191 PPS students reside outside of the District. Since 1998, the
+number of PPS students residing outside of the District had fluctuated between 780 and
+
+
+
+                                             Page 29
+900 students and represented about 1.5 to 1.7 percent of the PPS total enrollment each
+year. In the 2004-2005 school year, the percentage increased to 2.5 percent. Currently 40
+percent of PPS students residing outside of the District, or 480 students, attend high school,
+19 percent or 222 students attend middle school, and 489 students (41 percent) are enrolled
+in elementary school.
+
+
+During 2004-2005, about 15 percent of PPS students residing outside the District attended
+special programs. Of students attending neighborhood schools, most elementary level
+students living outside the District attended Woodstock, Richmond, and King elementary
+schools or were enrolled in special programs. Mt. Tabor and Binnsmead Middle Schools
+attract most students outside of the district, while Benson and the Marshall Campus are
+high schools of choice for outside students.
+
+
+Historical Enrollments of PPS Students Residing in HSCLs
+
+
+In the past, the largest share of PPS students resided in Jefferson HSCL. However, since
+2003, Marshall HSCL has been home to the largest number of PPS students. The smallest
+share of PPS students reside in Lincoln HSCL followed by Cleveland HSCL. (see Table
+10).
+
+
+The number of students residing in Lincoln and Marshall HSCLs increased from 1998 to
+2004. Students residing in the remaining HSCLs have decreased during the same period.
+Jefferson and Grant HSCLs have seen the largest loss of students. They lost over 1,900 and
+1,000 students respectively.
+
+
+
+
+                                               Page 30
+      Table 10. Historical PPS Enrollment by Area of Residence*
+                                                                                                               1998-2004
+                                                                                          1998-2004
+                             PPS Students Residing In HSCL                                                   Average Annual
+                                                                                           Change
+                                                                                                                Change
+HSCL           1998       1999      2000      2001      2002      2003       2004     Number      Percent    Number   Percent
+
+Cleveland      5,056     4,808     4,875     4,700     4,608      4,423      4,440      -616      -12.2%      -103    -2.2%
+Franklin       5,213     5,003     4,878     4,832     4,748      4,505      4,483      -730      -14.0%      -122    -2.5%
+Grant          5,774     5,464     5,204     5,023     4,864      4,600      4,761     -1,013     -17.5%      -169    -3.2%
+Jefferson      8,444     8,146     7,906     7,658     7,258      6,602      6,484     -1,960     -23.2%      -327    -4.4%
+Lincoln        3,703     3,787     3,807     3,902     3,935      3,904      4,009      306        8.3%        51      1.3%
+Madison        5,553     5,470     5,572     5,506     5,437      5,214      4,909      -644      -11.6%      -107    -2.1%
+Marshall       6,671     6,673     6,801     6,913     6,915      6,648      6,845      174        2.6%        29      0.4%
+Roosevelt      5,345     5,347     5,272     5,265     5,074      4,573      4,633      -712      -13.3%      -119    -2.4%
+Wilson         5,454     5,363     5,255     5,386     5,258      5,010      5,064      -390       -7.2%      -65     -1.2%
+District      51,213 50,061 49,570 49,185 48,097 45,479 45,628                          -5,585      -10.9%    -931    -1.9%
+      *This table does not include ungraded students nor students residing outside of the district.
+
+
+
+
+      Race/Ethnicity of Students Residing in High School Clusters
+
+
+      In the District, enrollment of white students has been decreasing over the last several years.
+      The share that whites represented of all PPS students declined from 62 percent in 2000 to
+      59 percent 2004. The same pattern holds true in all HSCLs except Grant and Jefferson. The
+      share of white students residing in Grant HSCL increased slightly, and in Jefferson HSCL
+      the share has remained stable. The HSCLs that have seen the greatest change during the
+      same period are Marshall and Madison. The number of white students residing in these
+      HSCLs decreased by 13 percentage points and 7 points respectively.
+
+
+      Lincoln and Wilson HSCLs capture the largest shares of white student residents, and
+      Jefferson and Roosevelt the smallest.
+
+
+                                                            Page 31
+               Figure 2. White Student Enrollment in PPS
+
+                                                        2000                  2004
+                90%
+                80%
+                70%
+                60%
+                50%
+                40%
+                30%
+                20%
+                10%
+                 0%
+
+
+
+
+                                                                                         Marshall
+                                                      Jefferson
+
+
+
+
+                                                                               Madison
+                                              Grant
+
+
+
+
+                                                                                                    Roosevelt
+                       Cleveland
+
+
+                                   Franklin
+
+
+
+
+                                                                    Lincoln
+
+
+
+
+                                                                                                                Wilson
+From at least 2000, the numbers of black PPS students residing in Jefferson, Cleveland,
+and Grant, and Roosevelt HSCLs have decreased. However, Jefferson HSCL accounted
+for 94 percent of the District’s loss of black students with over 1,000 fewer black students
+residing there in 2004 than in 2000. The numbers of black students increased in Madison,
+Marshall, and Wilson HSCLs during the same period, and the numbers of black PPS
+students residing in Franklin and Lincoln HSCLs remained stable.
+
+
+All HSCLs have seen an increase in the number Hispanic students during the past few
+years. Marshall, Roosevelt, and Franklin HSCLs experienced the greatest increase in their
+Hispanic PPS student population during 2000 to 2004. They increased by 384, 291 and 107
+Hispanic students, respectively. The remaining HSCLs saw increases of under 100
+Hispanic students during the time period.
+
+
+The number of Asian students residing in PPS increased from 2000 to 2004 in Lincoln and
+Marshall HSCLs while they decreased in Jefferson, Madison, and Roosevelt HSCLs. The
+remaining HSCLs saw only slight changes in the number of Asian students.
+
+
+
+                                                                  Page 32
+The number of Native American students has decreased slightly in most of the HSCLs
+except for Marshall HSCL, which has seen only a slight increase in recent years.
+
+
+Based on 2004 enrollments, most ethnic minority PPS students reside in Jefferson,
+Madison, Roosevelt, and Marshall. Fifty-three percent of PPS students residing outside of
+the district are minority students, most of which are black, Asian, or Hispanic.
+
+
+Blacks represent the greatest proportion of all minority students enrolled in PPS (16.1%),
+followed by Hispanics (12.4%) and Asians (10.1%). The largest number of black students
+reside in Jefferson and Grant HSCLs. The largest share of the District’s Hispanic students
+reside in Roosevelt, Marshall, and Madison HSCLs. Marshall, Madison, and Franklin are
+the HSCLs where most Asian PPS students reside.
+
+
+Table 11. Share of PPS Enrollment by Residence of High School Cluster and
+Race/Ethnicity, 2004
+ HSCL                                            Native                     Other
+               White       Black      Asian                   Hispanic
+                                                American                    Race
+Cleveland      75.8%       5.6%        8.5%       6.8%         2.1%         1.1%
+Franklin       68.9%       6.6%       13.2%       8.7%         2.1%         0.4%
+Grant          63.7%       23.1%       5.1%       6.3%         1.3%         0.5%
+Jefferson      30.4%       45.9%       6.5%      14.0%         2.7%         0.6%
+Lincoln        82.7%       2.7%        9.1%       4.1%         0.9%         0.5%
+Madison        49.2%       16.4%      14.9%      16.7%         2.5%         0.3%
+Marshall       54.1%       8.0%       16.1%      18.6%         2.8%         0.4%
+Roosevelt      41.7%       20.2%       9.2%      25.2%         3.4%         0.3%
+Wilson         79.9%       5.2%        6.4%       6.2%         1.4%         1.0%
+Out            46.7%       22.3%      14.4%      12.0%         2.3%         2.3%
+District       58.6%       16.1%      10.1%      12.4%         2.2%         0.6%
+
+
+
+
+Forecasted PPS Students Residing in HSCLs
+
+
+Most HSCLs will experience a decrease in the number of student residents from 2004 to
+2015. After an initial continued loss of students, Jefferson, Madison, and Franklin HSCLs
+are expected to see modest increases in the number of PPS students toward the end of the
+
+
+                                              Page 33
+forecast period; the increases in later years are not large, however, and enrollments in
+Jefferson, Madison, and Franklin HSCLs experience overall declines from 2004 to 2015.
+The number of students residing in Roosevelt, Lincoln, and Marshall HSCLs are
+anticipated to increase during the period.
+
+
+Table 12. PPS Enrollment by Area of Residence*
+
+                 PPS Students Residing In HSCL
+                                                                              2004-2015 Average
+                                                        2004-2015 Change
+                                                                               Annual Change
+              Actual             Projected
+
+
+ HSCL          2004      2005       2010      2015     Number      Percent    Number     Percent
+
+ Cleveland    4,440      4,373     3,837     3,642       -798      -18.0%       -73       -1.8%
+
+ Franklin     4,483      4,355     3,954     4,032       -451      -10.1%       -41       -1.0%
+
+ Grant        4,761      4,698     4,098     3,827       -934      -19.6%       -85       -2.0%
+
+ Jefferson    6,484      6,139     5,362     5,576       -908      -14.0%       -83       -1.4%
+
+ Lincoln      4,009      4,045     4,237     4,283       274        6.8%         25       0.6%
+
+ Madison      4,909      4,765     4,217     4,282       -627      -12.8%       -57       -1.2%
+
+ Marshall     6,845      6,830     6,885     7,038       193        2.8%         18       0.3%
+
+ Roosevelt    4,633      4,723     4,978     5,054       421        9.1%         38       0.8%
+
+ Wilson       5,064      5,044     4,892     4,854       -210      -4.2%        -19       -0.4%
+
+ District     45,628    44,971    42,458     42,587     -3,041     -6.7%       -276       -0.6%
+*This table does not include ungraded students nor students residing outside of the District.
+
+
+
+
+                                                      Page 34
+      METHODS AND DATA SOURCES FOR ENROLLMENT FORECASTS
+
+Long-term forecasting of PPS school enrollments required two main stages: 1) forecasting
+the number of students residing in the district and its sub-areas (high school clusters and
+elementary school attendance areas), and 2) allocating the students to the schools they are
+predicted to attend. Two types of forecasting models were utilized to prepare the district-
+wide and attendance area forecasts, described in more detail below. The cohort-component
+model was used for the district and each of its high school clusters. The grade progression
+model was utilized for each elementary school attendance area. The cohort-component
+model best predicts student population over the 11-year forecast period. The grade
+progression model is better suited to account for annual fluctuations in enrollment over the
+forecasting period.
+
+
+Cohort-Component Model
+
+
+A demographic projection model called the Cohort-Component Model was used to forecast
+school-age children residing and enrolled in PPS. It models future populations and school
+enrollments as outcomes of the life events that occur in populations over time. These
+events are comprised of births, deaths, and relocations (migrations) into or out of the
+area. Thus, the District population grows when births outnumber deaths and more people
+move into the District than leave it. These events occur more often in certain age groups, or
+cohorts, than in others. For example, people tend to move around the most when they are
+in their 20s and the elderly have lower chances than people in their 40s to survive over the
+next 5 years. Applying appropriate age- and gender-specific rates of birth, death and
+migration to the existing population cohorts of the District would produce its future
+population including school-age children. Most of these children would attend the area’s
+public schools, however, some of them would not be “captured” by the system: some
+might attend private schools, be home-schooled, or attend schools outside of the local
+school district. To address this phenomenon, capture rates have to be applied to derive
+figures of future public school enrollment.
+
+
+
+
+                                              Page 35
+The cohort-component method of forecasting enrollment depends on the availability of
+accurate data on age and sex composition of the District’s population. The most precise
+information about population age structure in an area is usually provided by the most
+recent U.S. Census of Population. The cohort-component model is also sensitive to the
+rates of life events that are applied to the known population cohorts. These rates are usually
+derived from known data such as those provided by the U.S. Census, and then modified to
+account for the most recent trends as well as for future ones. Examples of such trends that
+may affect the future population of an area include the recent tendency among women of
+childbearing ages to delay having their first child, or a predisposition of young men (ages
+20 to 24) to be more mobile than women in the same age cohort. After a decision is made
+about the plausibility of these trends to evolve in the study area, a set of assumptions is
+developed to address likely changes in the initial rates of life events. Since the existing
+population structure defines future population composition of the area, the method works
+best in the short and medium range.
+
+
+The population and housing data came from the 1990 and 2000 Censuses of Population
+and Housing; additional housing information and building permit data were obtained from
+the Metro Data Resource Center and the Portland Bureau of Planning; the Oregon Health
+Division provided information on fertility and mortality; the Department of Education and
+the Portland Public Schools furnished past and current enrollment data and information
+about home schooling; and PRC conducted a survey of local private schools.
+
+
+The 1990 and 2000 population of PPS was derived from the 1990 and 2000 Census at the
+census-block level by age group and sex. The census blocks were allocated into the
+District’s boundaries using Geographic Information Systems (GIS); the allocation was
+required since the census blocks did not match the District’s boundaries. The 1990
+population data were then organized into five-year age cohorts, such as 0 to 4 years, 5 to 9
+years, and so on. Each of these cohorts was then “survived”, or aged into the next cohort
+by the year 1995. “Surviving” the cohorts is accomplished by applying age- and sex-
+specific survival rates. These rates represent the proportion of population in each younger
+
+
+
+                                              Page 36
+cohort that would survive during a given time period (such as the 5 years between 1990
+and 1995) to become the next older cohort. This process is repeated for each five-year age
+and time interval between 1990 and 2015. Forecasting a known population and its age
+distribution enables appropriate adjustments to be made to the model so that the forecasted
+population becomes aligned with the actual population and ensures the accuracy of the
+model’s projections.
+
+
+During each five-year interval, a certain number of live births occur to the women in
+childbearing ages. To calculate the number of newly born residents of the District, age-
+specific fertility rates were applied to the numbers of women in childbearing cohorts (10-
+14, 15 to 19, 20 to 24, and so on up to 45 years and over). Fertility rates indicate how many
+children women in a given age group are likely to produce during each five-year period.
+Once developed, the data on new children become subject to survival rates and is “moved”,
+or “aged”, through the system like all the other cohorts.
+
+
+The most difficult part is to estimate the in- and out-migration of an area. In reality, since
+little reliable data are available to study in- and out-migration, one works with net
+migration rates, or the balance between in- and out-migration. Net migration can be
+calculated if the population is known at the beginning and the end of a time period, as well
+as the number of births and deaths. Net migration is positive when more people move into
+the area than leave it; it is negative if the opposite is true. Net migration rates used in the
+cohort-component model can be interpreted as the number of people who are added to (or
+subtracted from) a given cohort per each 100 persons due to migration over a given period
+of time (in this case, five years). The initial net migration rates for the cohort-component
+model were derived from the 1990 and 2000 population cohorts for the census tracts that
+are located within the school district boundaries as well as births and deaths that occurred
+in the same area during 1990-2000. The rates were adjusted so that the forecasted
+population for the year 2000 fit the actual population obtained from the 2000 Census. The
+net migration rates used to forecast the District’s population in 2002-2010 were further
+modified to reflect the most likely future migration patterns; these migration patterns are
+
+
+
+                                                Page 37
+greatly influenced by housing growth in the area, both current and forecasted. When
+making the final adjustments to the net migration rates, consideration was given to what
+local planners predict will happen in the area. This study assumes that migration is and will
+remain the major force behind the rates of population and enrollment growth in the
+District.
+
+
+High School Clusters. The development of the forecasts of students residing in each of
+the nine PPS high school clusters (HSCLs) utilized the same methodology as the district-
+wide forecasting described in the section above. A unique set of demographic data were
+compiled for each of the district’s high school clusters. Trends specific to each high school
+cluster were considered when making adjustments to the cohort component models.
+
+
+Forecasting PPS Students Residing Outside of the District. The small percentage of PPS
+students do not reside within the district were forecasted by a different method. Students residing
+outside the district were projected by extrapolation of numbers based on recent 4-year trends.
+These students were then allocated to particular schools in the same manner as the other students.
+
+
+Grade Progression Model
+
+
+To prepare the small area forecasts of students a grade progression model was created for
+each elementary school attendance area (ESAA). The grade progression models are
+comprised of recent grade progression ratios (GPR) for PPS students residing in each
+attendance area by grade level. The GPR is the proportion of students enrolled in one grade
+level divided by the number of students enrolled in the preceding grade level in the
+previous year. One ratio is associated with each grade level for students entering grades 1
+through 12. Recent local trends are captured in the construction of the GPR model. The
+model accounts for the effects of migration, changes in population, housing growth due to
+new construction, dropout rates, and the percentage of students residing within the
+attendance area that are attending private schools or being home-schooled.
+
+
+
+
+                                             Page 38
+In order to determine the GPRs for the future, weighted averages of the ratios for each
+grade level from the past four years were calculated. A heavier weight is applied to the
+years that are assumed to have more bearing on future enrollments, allowing the trends of
+those to dominate over the other years.
+
+
+The 2004 enrollments were multiplied by the GPR weighted averages to forecast 2005
+enrollments. The same GPRs were then applied to the 2005 enrollments to calculate the
+forecasted 2006 enrollments and so on until the 2015 enrollments were calculated. To
+account for predicted changes in the demographic factors that influence school
+enrollments, adjustments were made to the weighted average GPRs on an individual year
+basis for each grade level by applying a multiplier to accelerate or hinder growth. The
+factors that were considered for every attendance area are the annual number of births,
+residential building activity, racial/ethnic composition of student population, and
+enrollment trends. The adjustments were based on findings from the analysis of data on
+student enrollment and geocoded student addresses, birth, building permit, and land
+division records.
+
+
+Kindergarten Forecasts for Attendance Areas. The numbers of students entering
+kindergarten from 2005 to 2015 were forecasted by another method. To predict the number
+of kindergartners that will attend PPS, a “kindergarten capture rate”, the ratio of the actual
+number of PPS kindergarten students in an attendance area to the number of births in the
+same attendance area five years earlier, was calculated for four separate years. A weighted
+average of the “kindergarten capture rates” for each attendance area was multiplied by the
+number of births in the corresponding area to forecast the number of kindergartners that
+will attend PPS schools in 2005 to 2015. Birth data are only available up to 2002,
+therefore, to predict PPS kindergartners after 2007, the number of annual births during
+2003 through 2010 had to be predicted. The births were projected based on four-year
+historical trends from 1998 to 2002. After the births were predicted, the kindergarten
+capture rate was applied to forecast the number of kindergartners 5 years later.
+
+
+
+
+                                              Page 39
+New Columbia Housing Development
+Adjustments were made to the forecast of students residing in the ESAAs to account for
+the construction of the New Columbia Housing Community located in Ball and Clarendon
+ESAAs in the Roosevelt HSCL. The first housing units will become available in 2005 with
+construction ending in 2007. The number of PPS students expected to reside in New
+Columbia are assumed to be moving from other areas in the District. PPS students were
+added to Ball and Clarendon ESAAs and subtracted from other ESAAs during the first 3
+years of the forecast period. A detailed description of the methods used to estimate the
+number of PPS students that are expected to reside in New Columbia and the impact that
+the new housing is predicted to have on PPS enrollments are described in the Addendum to
+the Portland Public Schools Enrollment Forecast 2004-2015 prepared by PRC in August
+2004.
+
+
+Reconciliation of Small-area Forecasts and the District-wide Forecast
+The sum of the HSCL forecasts served as a control to which the district-wide forecast
+under the most-likely scenario would reconcile. The forecast for the district was adjusted
+by grade level to equal the sum of enrollments in the HSCL for each year of the forecast
+period. The adjustment produced minor changes in the enrollment numbers
+
+
+The forecasts for the ESAAs were adjusted so that their sum would be equal to the forecast
+of the HSCL in which the ESAAs are located. In the end, the sum of the ESAA forecasts
+add up to the sum of the HSCL forecasts, and District-wide forecast equals the sum of the
+HSCL forecasts.
+
+
+
+
+                                             Page 40
+Allocating the Forecasted Students Residing in ESAAs to Individual Schools
+After the forecasts of students residing in the ESAAs were reconciled to the HSCL and
+district-wide forecasts, the students residing in the ESAAs were then allocated to the
+school they were predicted to attend based on past patterns of where students live and
+which schools they attend. Cross-tabulations were made of students by the school they
+attend and by the ESAA where they reside. A cross-tabulation was created for each grade
+level, K-2, 3-5, 6-8, and 9-12. Adjustments were made to each of the cross-tabulations to
+account for school closures, new feeder patterns, and new grade configuration of schools
+that will take effect in the 2005-2006 school year and beyond. Probabilities for how many
+students residing in each ESAA to attend which schools were calculated and utilized to
+assign students to the appropriate schools each year in the forecast period.
+
+
+General Comments About PPS Enrollment Forecasts
+
+
+As the longer the time span of the forecast, the more likely it is that conditions change, and
+thus increase the uncertainty in rates and assumptions. It is crucial to have recent data that
+would allow testing, or calibrating, the assumptions used in the model. The District’s
+historical enrollment helps to calibrate and adjust original migration rates so that a better
+fit between actual and predicted enrollment figures could be achieved. In the long-run,
+however, the local economy and conditions affecting school enrollments is likely to change
+in ways not currently anticipated.
+
+
+All population and enrollment forecasts are based on a combination of a beginning
+population, various rates, and the forecasters’ judgment about future trends. They may err
+through imprecise data or unexpected shifts in demographic trends. Generally forecasts for
+larger geographical areas, such as the entire school district, are more reliable than those for
+small areas, such as for an individual elementary school. The forecasts for the individual
+schools are based mainly on births and enrollment trends in the ESAAs over the past 4
+years. Although they are adjusted to conform to the longer- term forecasts for the high
+school clusters and the district as a whole, this does not take into account local factors such
+
+
+
+                                              Page 41
+as changing school programs that may have a significant effect on an individual school’s
+enrollment. These forecasts may be used as a guide to enrollments for individual schools
+over the next few years. But changes in local areas will surely affect enrollments in some
+areas and actual enrollments will deviate from those shown here. Given the large number
+of schools and the complexity of changing urban neighborhoods, some differences
+between the forecasted and actual enrollments will vary in magnitude and perhaps
+direction.
+
+
+In the tables accompanying the report, the original calculations for the enrollment forecasts
+use decimal fractions. Because the fractions are rounded to show whole numbers, the
+numbers may not add exactly to the totals.
+
+
+
+
+                                             Page 42
+                      APPENDIX 1
+Portland Public Schools District-wide Enrollment Forecasts
+               Detailed Results, 2004-2015
+
+
+
+
+                            Page 43
+Medium Growth Scenario, District Enrollment by Grade and Year
+                                                            Actual >     Projected >
+Grade
+Level             2000       2001       2002       2003       2004        2005      2006   2007   2008   2009   2010   2011   2012   2013   2014   2015
+K                 3,748     3,715      3,723      3,548      3,589       3,566     3,605   3,644  3,685  3,727  3,774  3,794  3,812  3,828  3,849  3,869
+1                 3,861     3,951      3,811      3,702      3,742       3,643     3,628   3,661  3,702  3,745  3,791  3,834  3,860  3,893  3,939  3,981
+2                 4,062     3,879      3,838      3,662      3,608       3,585     3,543   3,546  3,580  3,614  3,651  3,691  3,734  3,761  3,808  3,855
+3                 4,122     3,999      3,696      3,665      3,600       3,501     3,517   3,484  3,480  3,505  3,531  3,566  3,605  3,643  3,673  3,713
+4                 4,131     3,976      3,793      3,488      3,653       3,554     3,499   3,520  3,472  3,448  3,456  3,478  3,512  3,546  3,581  3,604
+5                 4,037     4,029      3,817      3,639      3,442       3,451     3,347   3,285  3,296  3,234  3,205  3,223  3,254  3,286  3,324  3,356
+6                 3,898     3,866      3,804      3,342      3,547       3,325     3,407   3,298  3,210  3,208  3,135  3,130  3,161  3,189  3,226  3,256
+7                 3,734     3,737      3,785      3,512      3,501       3,445     3,249   3,301  3,183  3,090  3,083  3,033  3,044  3,072  3,100  3,122
+8                 3,637     3,712      3,639      3,524      3,608       3,448     3,435   3,224  3,274  3,157  3,058  3,083  3,058  3,067  3,092  3,107
+9                 4,291     4,095      4,051      3,560      3,753       3,718     3,602   3,577  3,352  3,391  3,259  3,184  3,218  3,170  3,162  3,161
+10                4,011     4,067      3,750      3,579      3,654       3,642     3,608   3,460  3,439  3,228  3,271  3,159  3,084  3,090  3,011  2,977
+11                3,677     3,726      3,860      3,400      3,548       3,459     3,442   3,373  3,239  3,215  3,032  3,080  2,964  2,875  2,863  2,763
+12                3,409     3,437      3,450      3,668      3,574       3,537     3,423   3,381  3,317  3,190  3,182  2,997  3,044  2,931  2,843  2,837
+Other             1,308     1,462      1,423      1,739        4           0         0       0      0      0      0      0      0      0      0      0
+K-2              11,671     11,545     11,372     10,911     10,939      10,795    10,776 10,851 10,967 11,086 11,216 11,318 11,406 11,482 11,595 11,705
+3-5              12,290     12,003     11,306     10,792     10,695      10,507    10,363 10,289 10,248 10,188 10,192 10,267 10,371 10,475 10,578 10,672
+6-8              11,268     11,314     11,228     10,379     10,656      10,218    10,091  9,823  9,667  9,455  9,277  9,246  9,263  9,328  9,418  9,486
+9-12             15,389     15,326     15,110     14,208     14,529      14,354    14,075 13,791 13,347 13,025 12,744 12,420 12,310 12,066 11,879 11,738
+Total            51,926     51,650     50,439     48,029      46,823      45,875    45,304 44,754 44,229 43,753 43,429 43,252 43,350 43,350 43,470 43,601
+
+The enrollment figures do not include students enrolled in the Columbia Regional programs.
+
+
+
+
+                                                                       Page 44
+Low Growth Scenario, District Enrollment by Grade and Year
+                                                    Actual >   Projected >
+Grade
+Level       2000       2001      2002      2003       2004      2005       2006      2007      2008      2009      2010      2011      2012      2013      2014      2015
+K          3,743      3,711      3,720     3,546     3,506     3,467      3,487      3,506     3,526     3,546    3,566     3,588      3,611     3,634    3,657     3,680
+1          3,859      3,947      3,808     3,700     3,559     3,513      3,480      3,505     3,527     3,544    3,562     3,585      3,612     3,640    3,668     3,696
+2          4,055      3,876      3,835     3,660     3,600     3,504      3,504      3,495     3,521     3,533    3,545     3,564      3,590     3,619    3,647     3,675
+3          4,118      3,995      3,694     3,663     3,543     3,510      3,434      3,435     3,416     3,424    3,426     3,437      3,459     3,482    3,506     3,530
+4          4,127      3,972      3,790     3,486     3,506     3,433      3,431      3,359     3,342     3,300    3,294     3,299      3,317     3,336    3,354     3,373
+5          4,036      4,026      3,815     3,637     3,398     3,393      3,276      3,230     3,132     3,091    3,037     3,044      3,066     3,087    3,104     3,120
+6          3,896      3,863      3,802     3,341     3,366     3,213      3,259      3,152     3,091     2,976    2,925     2,899      2,932     2,958    2,976     2,991
+7          3,732      3,734      3,783     3,511     3,274     3,299      3,117      3,124     3,007     2,942    2,830     2,817      2,819     2,849    2,865     2,872
+8          3,634      3,709      3,637     3,523     3,385     3,177      3,209      3,027     3,027     2,908     2,842    2,763      2,769     2,762    2,774     2,772
+9          4,286      4,089      4,047     3,558     3,622     3,522      3,347      3,394     3,204     3,207     3,083    3,042      2,970     2,960    2,929     2,919
+10         4,005      4,060      3,744     3,577     3,435     3,555      3,445      3,239     3,270     3,085     3,086    2,979      2,939     2,850    2,818     2,766
+11         3,671      3,717      3,852     3,396     3,291     3,121      3,182      3,049     2,853     2,878     2,712    2,717      2,617     2,567    2,473     2,429
+12         3,400      3,427      3,440     3,662     3,286     3,167      2,967      3,003     2,876     2,695     2,720    2,567      2,568     2,466    2,411     2,314
+K-2        11,657     11,534    11,363    10,906     10,665    10,484     10,471    10,506    10,574    10,623    10,673    10,736    10,813    10,893    10,971    11,051
+3-5        12,281     11,993    11,299    10,786     10,447    10,336     10,141    10,025     9,889     9,815    9,757     9,780      9,842     9,905    9,965     10,022
+6-8        11,262     11,301    11,222    10,375     10,025    9,689      9,585      9,303     9,124    8,826     8,597     8,479     8,521     8,570     8,615     8,635
+9-12       15,362     15,293    15,089    14,193     13,634    13,366     12,941    12,684    12,203    11,865    11,602    11,305    11,094    10,844    10,631    10,429
+UN         1,326      1,474      1,421     1,769     1,486     1,457      1,431      1,406     1,382     1,358     1,335    1,331      1,327     1,323    1,319     1,315
+Total      51,888     51,595    50,394    48,029      46,258    45,330     44,570    43,923    43,173    42,488    41,963    41,631    41,596    41,534    41,502    41,453
+
+The enrollment figures do not include students enrolled in the Columbia Regional programs.
+
+
+
+
+                                                               Page 45
+High Growth Scenario, District Enrollment by Grade and Year
+                                                    Actual >   Projected >
+Grade
+Level       2000       2001      2002      2003       2004      2005       2006      2007      2008      2009      2010      2011      2012      2013      2014      2015
+K          3,743      3,711      3,720     3,546     3,545     3,544      3,592      3,641     3,690     3,739    3,790     3,842      3,896     3,950    4,004     4,060
+1          3,859      3,947      3,808     3,700     3,580     3,576      3,578      3,625     3,671     3,714    3,760     3,820      3,894     3,971    4,051     4,131
+2          4,055      3,876      3,835     3,660     3,628     3,560      3,602      3,623     3,668     3,702    3,738     3,797      3,877     3,964    4,052     4,142
+3          4,118      3,995      3,694     3,663     3,582     3,589      3,540      3,579     3,586     3,612    3,634     3,683      3,755     3,832    3,910     3,989
+4          4,127      3,972      3,790     3,486     3,560     3,541      3,579      3,527     3,543     3,526    3,536     3,570      3,628     3,689    3,748     3,808
+5          4,036      4,026      3,815     3,637     3,466     3,532      3,460      3,439     3,350     3,337    3,303     3,330      3,380     3,432    3,481     3,527
+6          3,896      3,863      3,802     3,341     3,441     3,363      3,468      3,386     3,339     3,230    3,204     3,202      3,257     3,308    3,353     3,395
+7          3,732      3,734      3,783     3,511     3,345     3,452      3,321      3,364     3,262     3,213    3,106     3,123      3,152     3,203    3,240     3,270
+8          3,634      3,709      3,637     3,523     3,447     3,307      3,401      3,247     3,279     3,178     3,129    3,060      3,099     3,117    3,147     3,164
+9          4,286      4,089      4,047     3,558     3,678     3,643      3,520      3,620     3,461     3,506     3,405    3,385      3,322     3,345    3,338     3,344
+10         4,005      4,060      3,744     3,577     3,488     3,672      3,615      3,449     3,535     3,385     3,433    3,345      3,317     3,231    3,224     3,189
+11         3,671      3,717      3,852     3,396     3,338     3,224      3,339      3,245     3,084     3,163     3,030    3,067      2,972     2,928    2,832     2,807
+12         3,400      3,427      3,440     3,662     3,328     3,260      3,104      3,183     3,090     2,941     3,018    2,882      2,905     2,807    2,758     2,661
+K-2        11,657     11,534    11,363    10,906     10,753    10,681     10,772    10,889    11,029    11,156    11,287    11,459    11,667    11,885    12,107    12,333
+3-5        12,281     11,993    11,299    10,786     10,608    10,662     10,579    10,545    10,479    10,476    10,474    10,583    10,763    10,953    11,139    11,324
+6-8        11,262     11,301    11,222    10,375     10,234    10,122     10,190     9,997     9,880     9,621    9,439     9,385      9,508     9,628    9,740     9,829
+9-12       15,362     15,293    15,089    14,193     13,832    13,799     13,579    13,497    13,170    12,995    12,886    12,678    12,516    12,311    12,152    12,000
+UN         1,326      1,474      1,421     1,769     1,520     1,524      1,509      1,494     1,480     1,467     1,453    1,460      1,468     1,476    1,484     1,493
+Total      51,888     51,595    50,394    48,029      46,947    46,788     46,629    46,422    46,039    45,714    45,539    45,566    45,922    46,253    46,623    46,979
+
+The enrollment figures do not include students enrolled in the Columbia Regional programs.
+
+
+
+
+                                                               Page 46
+               APPENDIX 2
+Portland Public Schools Enrollment Forecasts
+      for Individual Schools, 2004-2015
+
+
+
+
+                     Page 47
+K-2 Enrollment by School and Year                                                                     Actual > Projected >
+  School          Elementary, K-2
+   No.              School Name                2000        2001       2002       2003       2004      2005       2006       2007     2008     2009     2010     2011     2012     2013     2014     2015
+   822      Abernethy                           99         107         110       101          98      142         142       137       137     137       136     139       142     145       148     151
+   823      Ainsworth                           279        270         258       240         219      230         228       236       238     243       248     250       252     252       253     256
+   824      Alameda                             295        294         315       310         313      312         295       302       303     304       306     310       315     320       324     329
+   825      Applegate                           94         106         102       102         56      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   826      Arleta                              150        162         167       180         158      156         163       164       162     158       153     150       149     147       144     141
+   827      Astor                              154         134         125       113         138      134         136       135       147     161       173     177       177     177       179     181
+   828      Atkinson                            270        257         271       288         319      312         311       305       303     307       311     316       318     321       326     331
+   829      Ball                                158        161         157       127         124      134         137       141       147     151       156     155       153     150       149     147
+   830      Beach**                             253        220         208       197         208      192         184       184       192     197       201     202       202     202       202     204
+   833      Boise-Eliot                         333         329        312        275        260       253        256        254      258      258      259      258      258      256      256     253
+   834      Bridger                             133        147         198       153         177      180         184       173       170     168       166     164       160     157       154     151
+   835      Bridlemile                          205        195         199       206         212      219         220       216       208     205       204     201       197     193       190     186
+   837      Buckman                             251        262         273       273         272      264         262       255       256     255       256     257       261     264       271     277
+   838      Capitol Hill                        122         140        156        131        129       153        163       160       163     165       165     164       166     167       171     173
+   839      Chapman                            215         238         235       217         207      202         191       199       205     217       228     237       243     251       258     265
+   840      Chief Joseph**                      137        134         135       124         110      158         158       158       159     161       162     161       155     151       147     144
+   841      Clarendon                           215        195         212       191         182      215         271       309       323     338       350     354       352     348       345     342
+   842      Clark                               279        292         289       259         244      230         229       239       244     247       252     255       258     260       262     266
+   843      Creston                             166         162        135        134        116       127        126        124      122     117       112     108       106     104       101      97
+   844      Duniway                             201        203         209       230         213      208         204       207       207     206       205     207       212     217       221     226
+   845      Edwards                            110         105         97         93         89      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   847      Faubion*                           127         123         137       135         137      136         130       129       135     143       149     154       157     161       164     169
+   850      Glencoe                             197        208         213       216         233      248         251       249       252     256       259     267       275     285       294     304
+   854      Grout                              160         138         113       156         170      182         173       172       167     165       162     161       158     157       154     150
+   855      Hayhurst                           130         139         113        85         139      152         154       156       154     151       148     147       149     150       151     152
+   857      Hollyrood                           142        140         165       170         159      161         156       153       150     145       141     140       139     139       138     138
+   860      Humboldt*                          146         132         133       124         122      112         110       108       114     120       125     129       133     137       141     146
+   861      Irvington                           274        271         270       263         259      247         235       237       239     241       243     246       249     253       256     261
+   862      James John                         274         259         258       242         240      239         239       241       253     267       281     286       283     278       277     275
+   864      Kelly                               266        226         234       239         267      261         256       250       252     261       269     274       275     277       282     285
+   865      Kenton                              95          90          88        93         74      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   866      King*                              345         357         290       257         239      228         227       232       243     254       265     271       278     284       289     295
+   868      Laurelhurst                         191        198         244       242         241      241         235       232       231     228       225     225       229     232       235     239
+   869      Lee                                 187        189         204       187         159      149         142       147       143     142       142     141       137     134       132     131
+   870      Lent                                194        189         184       155         176      168         171       183       185     188       193     197       199     201       204     207
+   871      Lewis                              145         136         146       140         126      131         128       128       124     120       116     114       111     108       105     104
+   872      Llewellyn                           162        133         151       148         161      160         152       150       152     154       155     158       164     169       174     179
+   873      Maplewood                           151        142         138       141         146      157         160       161       163     163       163     165       171     175       178     182
+   875      Marysville                          191         198        204        187        178      174         157       158       167     179       189     195       202     210       218     226
+   879      Peninsula                           171        164         152       132         135      140         146       140       143     144       146     144       138     135       131     133
+   883      Richmond***                         236        226         213       201         194      158         156       155       156     158       159     161       163     164       166     168
+continued on next page
+* Grades K-6 beginning in 2007.
+** Grades K-6 beginning in 2006
+The enrollment figures do not include students enrolled in the Columbia Regional programs, and do include ungraded students.
+
+
+
+
+                                                                                     Page 48
+K-2 Enrollment by School and Year, continued
+                                                                                                      Actual > Projected >
+ School         Elementary, K-2
+   No.           School Name           2000               2001       2002       2003       2004       2005       2006       2007     2008     2009     2010     2011     2012     2013     2014     2015
+   884    Rigler                        249               224        221         225       222        221         223       226      234       242     250      257       264     271      277       283
+   885    Rose City Park               206                227        237        193        217        219        221        229      232      231      230      233       237     241      244       247
+   886    Sabin                         182                163       142         143        160       158         157       152      147       148      148     149       146     146      145       145
+   887    Scott                         219                209       209         202        211       199         196        189     182       177      174     176       178     183      187       194
+   889    Sitton                        216                204       180         170        163       169         172        185     190       193      198     199       198     193      191       186
+   890    Skyline                       97                  92        94         106        105       102         100        109     111       111      110     107       109     109      109       109
+   891    Smith                         104                116       120         118        100      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   892    Stephenson                   165                173        167        159        144        155        154        139      133      133      133      134      133      133      133       132
+   893    Sunnyside                     128                125        89         92         106       113         108        100     102       107      112     116       121     127      133       139
+   895    Vernon*                       217                201       175         194        190       181         178        183     189       194      198     200       200     200      200       202
+   896    Vestal                       114                109        188        161        160        161         157       157      158       161     164      166       168     170      172       173
+   900    Whitman                       204                215       201         216        232       230         236        228     235       242      251     258       262     264      268       270
+   902    Woodlawn*                     271                228       202         204        184       222         226        231     234       235      241     246       255     260      272       276
+   903    Woodmere                      215               248        246         255       230        224         235       257      273       274     271      271       278     282      286       291
+   904    Woodstock                    179                196        183        179        178        173         175       177      179       179     179      180       183     184      187       190
+  1278 Markham                          165               162        152         159       165        219         210       212      210       214     218      223       228     235      239       244
+  1299 Rieke                            129               141        128         134       125        132         132       135      127       121      116     113       108     105      101        97
+  2413 Forest Park                      152                176       206         206        239       253         267        274     268       256      246     244       242     242      241       240
+    -     Brooklyn                      75                  72        69       Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+    -     Meek                          87                  86        92       Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+    -     Wilcox                        100                101      Closed     Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+    -     Youngson                       90                 92      Closed     Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   916    Metropolitan Learning Cente    68                 66        70          71         76        73          73         73      73        73       74      74        75      76       77        78
+  1364 Winterhaven (at Brooklyn)         37                 39        39          70         80        79          77         76      76        75       75      75        76      77       77        78
+  Spec. Other Special Programs          85                  98       140         192       257        244         242       242      245       248     252      255       258     260      264       268
+K-2 Total Total                       11,657             11,534     11,363     10,906     10,943     10,795     10,776     10,851   10,967   11,086   11,216   11,318   11,406   11,482   11,595   11,705
+* Grades K-6 beginning in 2005.
+*** Neighborhood School is closed, and the figure is for Japanese immersion program only beginning in 2005.
+The enrollment figures do not include students enrolled in the Columbia Regional programs, and do include ungraded students.
+
+
+
+
+                                                                               Page 49
+3-5 Enrollment by School and Year                                                                     Actual > Projected >
+ School           Elementary, 3-5
+  No.               School Name                2000        2001       2002       2003       2004      2005       2006       2007     2008     2009     2010     2011     2012     2013     2014     2015
+  822       Abernethy                            84          97        103         98        105       171        160       156      144       144      139      139      140      141     143      145
+  823       Ainsworth                           273        279        299        282        280        248        253       240      250      248      257      260      265       270     273      275
+  824       Alameda                             330         311        316        300        317       298        295       276      274       258      262      263      266      270     275      278
+  825       Applegate                           100          92        94         96         82      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+  826       Arleta                              201        173        152        137        174        171        162       151      153      156      157      156      155       153     150      149
+  827       Astor                               174         174        161        150        149       158        157       166      161       161      159      169      179      186      188      192
+  828       Atkinson                            288        278        259        242        234        238        232       234      230      228      221      219      224       229     233      233
+  829       Ball                                131         118        115         99        104       108        108       109      110       110      110      113      114      114     113      113
+  830       Beach**                             263         246        219        177        174       175        181       172      162       155      155      160      164      166     168      170
+  833       Boise-Eliot                         249         245        245        231        213       203        190       189      185       190      187      188      188      188     187      188
+  834       Bridger                             133         134        213        200        210       202        186       194       198      199      187      183      181      179      177      173
+  835       Bridlemile                          254         230        214        242        238       237        231       234      238       238      234      226      225      223     220      215
+  837       Buckman                             285         268        261        253        257       255        245        242      237      234      229      230      231      232     234      236
+  838       Capitol Hill                        155        157        141        140        126        159        148       157      155       162      160      163      166      167     166      167
+  839       Chapman                             272        256        229        213        207        206        197       180      177       169      176      182      192      200     208      214
+  840       Chief Joseph**                      162        146        133        126        124        172        180       185      188      190      188       187      187      187     186      180
+  841       Clarendon                           202         198        204        147        157       204        275       303      298       297      307      315      321      324     327      331
+  842       Clark                               252        240        267        256        255        249        241       226      217      215      221      225      227       230     233      236
+  843       Creston                             164         173        161        147        130       137        131       131      131       130      127      125      122      118     114      112
+  844       Duniway                             208        217        211        223        230        224        211       206      201      198      200      202      202       203     204      207
+  845       Edwards                             108        107        105         96        110      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+  847       Faubion*                            192         164        153        128        132       146        142       146      144       141      139      145      153      160     166      170
+  850       Glencoe                             233         241        211        214        209       230        219       221      219       220      216      220      226      231     239      245
+  854       Grout                               163        157        135        158        150        152        155       143      148      143      143      141      141       141     140      137
+  855       Hayhurst                            129        132        146        127        166        162        171       174      181      181      182      180      178       175     174      176
+  857       Hollyrood                            54          51        43          55         52        54         55         55       55      53        52       51       51       50      50       50
+  860       Humboldt*                           162         175        135        113        115       125        112       111      103       106      104      110      115      120     125      130
+  861       Irvington                           237         239        236        228        214       216        215       212      204       194      195      195      197      199     202      204
+  862       James John                          318        305        293        272        241        234        232       236      241      247      252      258      264       270     273      275
+  864       Kelly                               260         255        257        252        211       213        224       237      233       228      222      223      229      233     236      237
+  865       Kenton                              115        105        119        105         92      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+  866       King*                               307        273        222        213        226        209        193       185      183      185      189      198      207       215     222      229
+  868       Laurelhurst                         329         319        306        308        317       320        316       311      307       297      290      288      286      284     284      285
+  869       Lee                                 211         205        200        188        174       160        163       146      141       136      141      138      139      140     139      136
+  870       Lent                                199         199        192        172        179       176        172       161      156       158      167      168      170      173     177      178
+  871       Lewis                               147         158        148        149        145       137        138       134      139       136      134      130      127      123     120      117
+  872       Llewellyn                           174         172        158        148        137       147        150       153      152       145      144      147      150      152     155      159
+  873       Maplewood                           154         167        141        147        139       161        164       172      169       170      171      174      175      176     179      183
+  875       Marysville                          209         197        190        180        171       166        181        183      179      161      161      168      180      188     194      200
+  879       Peninsula                           152        164        171        154        136        138        135       140      145       151      146      146      143      141     138      134
+  883       Richmond                            241         244        230        214        199       157        153        153      152      151      149      150      152      153     156      157
+continued on next page
+* Grades K-6 beginning in 2005.
+**Grades K-6 beginning in 2006.
+The enrollment figures do not include students enrolled in the Columbia Regional programs, and do include ungraded students.
+
+
+
+
+                                                                                      Page 50
+3-5 Enrollment by School and Year, continued                                                          Actual > Projected >
+ School         Elementary, 3-5
+   No.           School Name           2000               2001       2002       2003       2004       2005       2006       2007     2008     2009     2010     2011     2012     2013     2014     2015
+   884    Rigler                        269               239        231         254       244        229         220       226      228       230     232      239       248     257      264       272
+   885    Rose City Park               252                232        240        228        216        194        194        194      198      199      205      207       207     209      212       216
+   886    Sabin                         157               147        105         110        166       155         145       143      143       142      139     137       137     138      139       138
+   887    Scott                         248                261       218         218        166       170         162        166     161       157      150     145       142     140      142       144
+   889    Sitton                        201                204       164         163        175       178         170        162     175       183      197     198       195     195      195       197
+   890    Skyline                       106                117       107         108         92        98         104        102      99       97       106     109       108     107      104       107
+   891    Smith                         130                136       131         120        119      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   892    Stephenson                   204                220        186        193        204        192        181        173      181      180      164      160      162      164      166       164
+   893    Sunnyside                     139                127       102         75         109       114         109        107     107       103       98     100       105     109      113       117
+   895    Vernon*                       223                184       174         191        161       169         155        154     150       149      152     156       159     162      165       167
+   896    Vestal                       127                118        179        183        162        155         138       134      136       132     130      130       133     136      138       140
+   900    Whitman                       214                221       195         187        189       193         193        212     213       215      205     209       215     221      226       230
+   902    Woodlawn*                     229                243       221         188        187       256         246        235     233       241      243     243       245     251      256       269
+   903    Woodmere                      259               255        244         222       228        224         228       221      218       225     243      254       253     250      249       256
+   904    Woodstock                    138                158        162        150        165        157         154       154      158       159     161      163       164     165      167       169
+  1278 Markham                          190               180        163         156       136        207         199       191      190       180     182      181       186     191      195       198
+  1299 Rieke                            159               166        138         142       141        138         142       133      138       137      139     132       127     122      118       113
+  2413 Forest Park                      132                158       171         201        217       239         235        242     250       262      265     258       245     235      233       231
+    -     Brooklyn                      72                  58        52       Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+    -     Meek                          111                103        86       Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+    -     Wilcox                         95                 96      Closed     Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+    -     Youngson                       95                 85      Closed     Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   916    Metropolitan Learning Cente    87                 77        86          75         72        69          66         66      65        65       65      65        66      67       67        68
+  1364 Winterhaven (at Brooklyn)         44                 43        44          66         84        82          82         81      81        80       79      79        80      80       81        81
+  Spec. Other Special Programs          126               104        112         176       182        172         168       165      166       164     164      166       169     170      174       176
+3-5 Total Total                       12,281             11,993     11,299     10,786     10,696     10,507     10,363     10,289   10,248   10,188   10,192   10,267   10,371   10,475   10,578   10,672
+*Grades K-6 beginning in 2005.
+The enrollment figures do not include students enrolled in the Columbia Regional programs, and do include ungraded students.
+
+
+
+
+                                                                               Page 51
+K-5 Total Enrollment by School and Year                                                               Actual > Projected >
+ School          Total Elementary
+   No.              School Name                2000        2001       2002       2003       2004      2005       2006       2007     2008     2009     2010     2011     2012     2013     2014     2015
+   822      Abernethy                           198         204        213        199        203       313        302       293       281      281      275      278      281      286      291      296
+   823      Ainsworth                           552        549        557        522        499        478        480       476      489      491      505      510      517       522     526      531
+   824      Alameda                             641         622        648        631        630       610        590       578      578       563      568      573      582      590     598      607
+   825      Applegate                           203        212        209        198        138      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   826      Arleta                              369        352        339        330        332        327        325       315      315      314      310      306      304       299     294      291
+   827      Astor                               352         337        311        283        287       292        294       302      308       322      332      345      355      363      367      372
+   828      Atkinson                            566        543        536        537        553        550        543       539      533      535      533      535      542       550     559      564
+   829      Ball                                289         279        272        226        228       241        245       251      257       262      266      268      267      264     262      260
+   830      Beach**                             516         466        427        374        382       367        365       356      353       352      356      362      366      369     371      374
+   833      Boise-Eliot                         607         600        578        527        473       456        446       443      443       448      446      446      446      444     443      442
+   834      Bridger                             284         309        431        378        387       382        370       367       368      367      353      347      341      336      331      324
+   835      Bridlemile                          477         449        436        460        450       456        451       450      446       443      438      428      421      416     410      401
+   837      Buckman                             536         530        534        526        529       519        507        497      493      490      484      487      492      497     504      513
+   838      Capitol Hill                        285        310        308        282        255        312        311       317      318       327      325      328      331      334     337      340
+   839      Chapman                             513        527        484        449        414        408        388       379      383       386      405      419      435      451     466      479
+   840      Chief Joseph**                      320        298        287        266        234        330        338       343      347      351      350       347      343      338     332      324
+   841      Clarendon                           417         393        416        338        339       419        545       612      622       635      656      669      673      672     673      673
+   842      Clark                               531        532        556        515        499        479        470       465      461      462      473      480      484       489     495      501
+   843      Creston                             361         353        327        301        246       264        257       255      252       246      239      233      228      222     215      209
+   844      Duniway                             419        431        432        453        443        432        414       413      409      404      405      408      413       419     425      433
+   845      Edwards                             218        212        202        189        199      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   847      Faubion*                            334         302        299        272        269       282        273       275      280       283      288      299      310      320     330      339
+   850      Glencoe                             430         449        424        430        442       478        470       470      471       476      476      487      501      516     533      549
+   854      Grout                               323        295        248        314        320        334        328       315      314      307      305      302      300       298     294      287
+   855      Hayhurst                            259        271        259        212        305        314        325       329      335      332      330      327      327       325     325      328
+   857      Hollyrood                           196         191        208        225        211       215        211       209       205      198      193      191      190      189      188      187
+   860      Humboldt*                           308         307        268        237        237       237        223       219      218       226      229      239      248      257     266      276
+   861      Irvington                           511         510        506        491        473       463        449       448      443       434      438      441      446      452     458      465
+   862      James John                          592        564        551        514        481        474        471       477      494      515      533      544      547       547     550      549
+   864      Kelly                               526         481        491        491        478       474        481       488      486       489      491      496      503      511     518      522
+   865      Kenton                              249        233        252        225        166      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   866      King*                               652        630        512        470        465        437        420       417      426      439      454      469      485       499     511      525
+   868      Laurelhurst                         526         526        561        561        558       560        551       542      537       524      516      513      515      517     520      524
+   869      Lee                                 409         408        419        387        333       310        304       292      284       278      282      279      277      274     271      268
+   870      Lent                                401         400        383        335        355       344        343       344      341       347      360      365      369      373     381      385
+   871      Lewis                               292         294        294        289        271       268        266       262      263       256      250      244      237      231     225      220
+   872      Llewellyn                           336         311        315        302        298       307        302       303      305       299      299      306      314      321     329      338
+   873      Maplewood                           305         309        279        288        285       318        323       333      332       332      334      339      346      351     357      365
+   875      Marysville                          400         395        394        367        349       340        338        341      345      340      350      364      381      398     412      427
+   879      Peninsula                           323        328        333        293        271        277        281       280      288       296      292      290      281      275     269      268
+   883      Richmond                            477         470        443        415        393       315        309        308      308      309      309      311      314      317     322      326
+continued on next page
+* Grades K-6 beginning in 2005.
+** Grades K-6 beginning in 2006.
+The enrollment figures do not include students enrolled in the Columbia Regional programs, and do include ungraded students.
+
+
+
+
+                                                                                      Page 52
+K-5 Total Enrollment by School and Year, continued
+                                                                                                      Actual > Projected >
+ School        Elementary, K-5
+   No.          School Name           2000                2001       2002       2003       2004       2005       2006       2007     2008     2009     2010     2011     2012     2013     2014     2015
+   884   Rigler                        525                492        474         489       466        450         442       452      462       472     482      495       512     527      542       555
+   885   Rose City Park               467                 470        489        446        433        413        415        423      429      430      435      439       445     450      456       463
+   886   Sabin                         352                324        257         265        326       314         302       295      290       291      288     285       284     284      284       283
+   887   Scott                         492                 512       457         442        377       369         359        355     343       334      325     321       320     323      330       338
+   889   Sitton                        436                 421       371         359        338       347         342        347     365       376      395     397       393     388      386       383
+   890   Skyline                       203                 209       201         214        197       200         204        210     210       208      217     216       218     217      213       215
+   891   Smith                         234                 252       251         238        219      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   892   Stephenson                   369                 393        353        352        348        348        335        312      314      312      297      294      295      297      299       297
+   893   Sunnyside                     297                 281       229         167        215       227         218        207     209       210      210     217       226     236      246       256
+   895   Vernon*                       462                 405       366         405        351       350         333        337     340       343      350     356       359     362      365       369
+   896   Vestal                       241                 227        367        344        322        316         296       291      294       293     294      296       301     306      310       313
+   900   Whitman                       453                 475       433         431        421       424         428        441     448       458      456     467       477     485      494       501
+   902   Woodlawn*                     509                 482       423         402        371       478         472        466     467       476      484     489       499     510      528       545
+   903   Woodmere                      474                503        490         477       458        448         463       479      491       499     514      525       531     532      535       547
+   904   Woodstock                    337                 372        364        345        343        330         329       332      337       338     340      343       347     350      355       359
+  1278 Markham                         370                358        333         330       301        426         409       402      400       394     400      405       414     425      435       443
+  1299 Rieke                           288                307        266         276       266        270         274       268      265       258      256     245       235     227      219       210
+  2413 Forest Park                     284                 334       377         407        456       492         502        517     519       518      512     502       487     477      474       470
+    -    Brooklyn                      156                 140        121      Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+    -    Meek                          198                 198        189      Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+    -    Wilcox                        195                 197      Closed     Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+    -    Youngson                      185                 177      Closed     Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   916   Metropolitan Learning Cente 155                  143        156         146        148       142         139        138     138       139      139     140       141     142      144       146
+  1364 Winterhaven (at Brooklyn)       81                   82        83         136        164       161         158        156     156       155      154     154       156     157      158       158
+  Spec. Other Special Programs         211                202        252         368       439        416         410       408      411       412     416      421       427     430      438       444
+ES Total Elementary Total            24,477              24,138     23,244     22,141     21,639     21,302     21,139     21,139   21,216   21,273   21,408   21,585   21,777   21,956   22,173   22,377
+* Grades K-6 beginning in 2005.
+The enrollment figures do not include students enrolled in the Columbia Regional programs, and do include ungraded students.
+
+
+
+
+                                                                               Page 53
+6-8 Total Enrollment by School and Year
+                                                                                                      Actual > Projected >
+ School Total Mid Schl or Gr. 6-8
+   No.          School Name           2000                 2001       2002       2003      2004       2005       2006       2007     2008     2009     2010     2011     2012     2013     2014     2015
+   831   Beaumont                      631                 670        610         577      542        587         560       529      502       476     458      455       452     455      456       459
+   832   Binnsmead                     699                 735        769         687      687        685         710       703      686       669     640      627       621     640      655       668
+   848   Fernwood                      575                  608       632         644       582       551         548        535     537       527      519     508       494     492      490       486
+   849   George                        549                  558       546         467       473       444         432        398     390       382      370     383       404     428      445       459
+   852   Gray                          508                  526       533         497       520       553         558        540     530       547      551     559       558     562      552       539
+   853   Gregory Heights               812                  821       740         718       630       705         675        644     625       611      594     589       592     602      604       606
+   855   Hayhurst                                                                            48        47         46          46      45       45        44      44        44      44       44        44
+   858   Hosford                       426                 374        386        377       405        402         387       382      373       362     349      341       339     334      334       333
+   863   Kellogg                       645                 667        671        633       591        550         540        534     522       502      497     501       505     496      492       486
+   877   Mt. Tabor                     670                 700        707        729       696        637         637       627      622       597     597      590       591     580      585       591
+   878   Ockley Green**                408                 490        475        427       385        348         327       310      301       288     274      269       281     290      299       303
+   881   Portsmouth                    434                 489        522        466        460       493         515        512     493       476      471     466       483     490      514       533
+   886   Sabin                                                                               47        45         45          43      43       41        41      40       40       41       42       42
+   888   Sellwood                      584                602        619        593        603        584         561       537      530       521     509      506       491     489      486       479
+   893   Sunnyside                     218                271        272        269         244       239         233        228     224       216      210     206       203     201      204       206
+   894   Tubman                        541                517        463        373         294       284         261        243     233       217      209     204       212     219      233       244
+   898   West Sylvan                  907                 915        947        897        884        896         935       930      937       944     923      941       934     956      952       951
+   899   Whitaker                      675                482        441        357         289      Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+   916   Metropolitan Learning Cente 131                  135        126        146         153       150         148        143     141       138      135     134       133     135      137       139
+  1243 Lane                            678                696        652        638         592       567         531        521     522       529      546     544       554     560      577       586
+  1277 Jackson                        796                 807        823        768        773        714        729        732      737      710      701      706      698      677      673       679
+  1363 Da Vinci                        316                319        320        327        350        343         332        324     318       307      299     294       293     293      296       298
+  1364 Winterhaven (at Brooklyn)        78                 87         84        118         132       125         121        118     116       115      113     112       111     111      112       112
+    -    Meek                           0                  9          30       Closed     Closed     Closed     Closed     Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed   Closed
+  Spec. Other Special Programs         344                232        243        216        276        269         257       246      241       233     229      226       229     232      238       242
+MS Total Middle School Total         11,625              11,710     11,611     10,561     10,656     10,218     10,091     9,823    9,667    9,455    9,277    9,246    9,263    9,328    9,418    9,486
+** Grades K-8 beginning in 2006.
+The enrollment figures do not include students enrolled in the Columbia Regional programs, and do include ungraded students.
+
+
+
+
+                                                                               Page 54
+9-12 Total Enrollment by School and Year
+                                                                                                      Actual > Projected >
+ School Total High School, gr. 9-12
+   No.           School Name             2000   2001                 2002       2003       2004       2005       2006       2007     2008     2009     2010     2011     2012     2013     2014     2015
+   906   Benson                          1,475  1,479                1,502      1,498      1,501     1,464      1,430       1,389   1,336    1,286     1,243    1,209    1,184    1,163   1,140    1,119
+   909   Cleveland                       1,322  1,366                1,381      1,388      1,332     1,318      1,301       1,268   1,224    1,190     1,153    1,113    1,112    1,081   1,054    1,039
+   911   Franklin                        1,488  1,470                1,460      1,528      1,547     1,530      1,490       1,450   1,390    1,359     1,329    1,299    1,277    1,265   1,240    1,230
+   912   Grant                           1,794  1,798                1,848      1,835      1,848      1,835     1,781       1,736   1,636    1,583     1,520    1,471    1,469    1,415   1,388    1,362
+   914   Lincoln                         1,374  1,469                1,429      1,483      1,444     1,436      1,430       1,453   1,446    1,465     1,497    1,469    1,486    1,455   1,452    1,462
+   915   Madison                         1,241  1,204                1,262      1,194      1,063     1,036       986         948     902      871       835      812      799      773     764      747
+   916   Metropolitan Learning Cente 133         140                  138        140        138        135        132        129     124       120      116      114      112      110     108       106
+   920   Vocational Village               192    160                  188        158        146        143        140        136     130       126      122      119      117      114     112       110
+   922   Wilson                          1,614  1,644                1,631      1,580      1,531     1,520      1,497       1,473   1,457    1,429     1,429    1,395   1,397     1,398   1,391    1,393
+    -    Marshall Campus*                1,278  1,222                1,103       949        906        914       933         927     930      922       909      914      900      884     872      853
+  2175     Marshall Night School                                                             98         98        100         99      98        96       93       93       93       91      90        89
+  4,153    BizTech High                                                                     217        220        225        223     224       221      217      218      216      213     210       206
+  4,154    Linus Pauling Academy                                                            200        202        206        206     208       208      206      208      204      199     196       191
+  4,155    PDX Academy of International Studies                                             198        200        203        202     203       201      198      199      196      192     190       185
+  4,156    Renaissance Arts Academy                                                         193        194       198         197     198      196       194      195      192      189     186       182
+    -    Jefferson Campus*                892    855                  826        702        661        629       602         575     549       520      495      476      457      446     432       420
+  4160     School of Champions                                                              347        330        316        302     287       272      258      248      239      233     225       219
+  4161     School of Pride                                                                  314        299        286        274     262       248      237      228      219      214     207       201
+    -    Roosevelt Campus*               1,131  1,141                 989        825        850        851        843        839     809       783      767      733      719      707     695       688
+  4162     A.C.T. School                                                                    303        304       304         302     291      281       274      263      257      253     248      244
+  4163     P.O.W.E.R. School                                                                 46        259       254         252     243      236       232      222      217      214     210       208
+  4164     Spanish-English International                                                    240        242       241         241     232       225      220      210      206      203     200       198
+  4165     Two Rivers Community School                                                      261         46        44          44      43       41        41       38       38       37      37       37
+  Spec. Other Special Programs           1,852  1,799               1,780       1,684      1,561      1,544     1,509       1,468   1,414    1,371     1,329    1,296   1,280     1,254   1,231    1,209
+HS Total High School Total              15,786 15,747               15,539     14,964     14,528     14,354     14,075     13,791   13,347   13,025   12,744   12,420   12,310   12,066   11,879   11,738
+* Divided into multiple small schools.
+The enrollment figures do not include students enrolled in the Columbia Regional programs, and do include ungraded students.
+
+
+
+
+                                                                               Page 55
+                                    APPENDIX 3
+
+                     Summary of PPS Boundary and School Changes
+
+Board Approved during 2004-2005 School Year:
+
+Southeast Portland
+
+   1. Richmond ES
+          close neighborhood school in 2005 and convert to an all-school Japanese
+            Immersion Program
+          boundary for Richmond ESAA dissolved and merged into Creston, Glencoe
+            and Abernathy ESAAs.
+                                     th
+          Fall 2005, previous year 5 graders go to Mt. Tabor MS
+                                     th
+          Fall 2006, previous year 5 graders go to Kellog MS
+
+   2. Edwards ES
+          close school in 2005
+          boundary for Edwards ESAA dissolved and merged with Abernathy ESAA.
+
+   3. Glencoe ESAA
+           absorbs sliver of Atkinson ESAA and part of Richmond ESAA in 2005.
+
+   4. Laurelhurst ESAA
+           absorbs a sliver of Glencoe ESAA in 2005.
+
+Southwest Portland
+
+   1. Smith ES
+          close school in 2005.
+          boundary for Smith ESAA merged with Markham, Maplewood, and Capitol
+             Hill ESAAs.
+                                     th
+          Fall 2005, previous year 5 graders in Maplewood section of Smith ESAA
+             go to Jackson MS.
+                                     th
+          Fall 2006, previous year 5 graders in Maplewood section of Smith ESAA
+             go to Grey MS.
+
+North Portland
+
+   1. Woodlawn ES
+         convert to K-6 in 2005
+                                    th
+         Fall 2005, previous year 5 graders go to Woodlawn except Applegate
+            students.
+                                    th
+         Fall 2006, previous year 5 graders go to Woodlawn ES.
+                                    th
+         Fall 2006, previous year 6 graders go to Ockley Green (as in past feeder
+            pattern).
+
+
+                                         Page 56
+   2. Applegate ES
+          close school in 2005.
+          boundary for Applegate ESAA merges with Woodlawn ESAA.
+                                     th
+          Fall 2005, previous year 5 graders go to Ockley Green.
+
+   3. Kenton ES
+          close school in 2005.
+          boundary for Kenton ESAA merges with Chief Joseph ESAA.
+
+   4. Chief Joseph ES
+          convert to K-6 in 2006.
+                                     th
+          Fall 2005, previous year 5 graders go to Ockley Green MS.
+
+   5. Beach ES
+          convert to K-6 in 2006.
+                                                  th                           th
+          but Spanish Immersion previous year 5 graders will stay and attend 6
+            grade at Beach and not move on to Ockley Green.
+                                         th                 th
+          Fall 2006, all previous year 5 graders stay for 6 grade.
+
+6-9.   Faubion, Humboldt, King, and Vernon ES
+           convert to K-6 in 2005.
+                                      th                    th
+           Fall 2005, previous year 5 graders stay on for 6 grade.
+
+   10. Ockley Green MS
+          covert to K-8 Option School in 2006.
+
+   11. Rigler ES
+           feeds into Gregory Heights beginning in 2005.
+           switch Rigler ESAA from Whitaker MSAA to Gregory Heights MSAA.
+           keep Rigler ES in Madison Cluster and Rigler ESAA in Madison HSAA.
+
+   12. Boise-Eliot ES
+                                                th
+           Fall 2005 and later, previous year 5 graders go to Beaumont MS.
+
+   13. Vernon ES
+           Vernon ESAA becomes part of Jefferson HSAA (used to be in Madison
+             HSAA) in 2005.
+
+   14. Whitaker MS
+          close school in 2005.
+          merge Whitaker ESAA (without Rigler ESAA) with Tubman MSAA.
+          Fall 2005, students in grades 7-8 go to Tubman MS.
+
+   15. MSAA and HSAA boundary changes to align with nested ESAA changes
+
+
+
+                                         Page 57
+              Hosford, Mt. Tabor, Grey and Jackson, Gregory Heights and Tubman
+               MSAAs
+              Franklin and Cleveland HSAAs.
+
+   16. Tubman MS convert to grades 7-8.
+
+Notes
+*5 neighborhood ES closings (Richmond building to remain open to Japanese immersion
+only).
+*7 ES schools in NE (Jefferson HSCL) converting to K-6: 5 in 2005, 2 in 2006.
+*1 MS closing (Whitaker) – students go to Tubman.
+*1 MS converting to K-8 in 2006 (Ockley Green).
+*Feeder changes in 2005: Boise-Eliot to Beaumont and Rigler to Gregory Heights.
+
+
+Pending Proposals
+
+   1.   Jefferson Campus
+             expand to include grades 7-8 in Fall 2006.
+             if approved, students from all ES in high school cluster will feed into
+                Jefferson Campus 7-8 schools.
+             Board will vote for resolution in 2006.
+
+   2. Tubman MS
+          if Jefferson expansion is approved, students go to Jefferson Campus for
+            grades 7-8 (ES in old Whitaker MSAA converted to K-6) in 2006.
+
+   3. Ockley Green MS
+          School Board will decide next year if students living in current Ockley
+             Green MSAA will have preference in attending Ockley Green K-8 school.
+
+   4. Reike/Hayhurst ES
+           boundary change to redistribute students from 2 housing centers.
+           Board will vote for resolution in 2006.
+
+
+
+
+                                            Page 58
+                    APPENDIX 4
+
+Map of Vacant Residential Taxlots within PPS Boundary
+
+
+
+
+                       Page 59
+                                       APPENDIX 5
+                                        Data Sources
+
+This enrollment forecast report is based on data obtained from several sources, including:
+
+
+   Decennial Census. The decennial census is the only source of data collected for small
+    areas across the nation. We used 1990 and 2000 census data to calculate the
+    population, by age and sex, residing in the Portland Public School District. We
+    compared the changes from 1990 to 2000 to develop an estimate of the age-sex profile
+    for net migrants.
+
+
+   American Community Survey. This is a new U.S. Census Bureau survey that is being
+    tested in Multnomah County and several other sites in the United States. It was begun
+    in 1996, with a large survey of households in Multnomah County, followed by smaller
+    surveys in 1997 and following years. The American Community Survey asks the same
+    questions as the 1990 census. We used the 1990 and 2000 Censuses and 1996
+    American Community Survey data to develop estimates of household and population
+    change, including estimates of net migration for the Portland Public School District.
+
+
+   Annual Population Estimates. Annual population estimates for cities and counties of
+    Oregon are prepared by the Population Research Center at Portland State University.
+    Records on State income tax returns, births, deaths, and Medicare enrollment, and
+    information about changes in housing stock are utilized in developing the population
+    estimates. We used population estimates of Multnomah County and the City of
+    Portland from 1990 to 2004 in this study to help to approximate area growth trends in
+    and around Portland Public School District.
+
+
+   Portland Public School Enrollment and Student Record Data. Portland Public School
+    staff furnished information on school enrollments by grade for 1990 through 2004 and
+    data files on all students in 1996 through 2004. The student data records include the
+    students’ race and ethnicity in addition to the location of student residences. These data
+
+
+                                           Page 60
+    are valuable for examining the racial and ethnic composition and the in and out-flows
+    of students in elementary school attendance areas. We did not request nor obtain any
+    student data with personal information.
+
+
+   Building Permit Data. Information about building permits issued for construction of
+    residential housing during 1990 to 2003 was obtained from Metro’s Regional Land
+    Information System. Additional building permit data were furnished by the City of
+    Portland, Bureau of Planning for years 1995-2005.
+
+
+   Land Division Records. These data were obtained from the City of Portland,
+    Development Services Department for years 2002-2005. The data provide information
+    about where in Portland new residential development is planned to occur.
+
+
+   Birth and Death Data. Information on births and deaths reported for the Portland
+    Public School area were obtained from the Oregon Health Division for years 1989 to
+    2003. The data were used for two purposes. One use was for calculating overall
+    fertility and mortality rates for the School District. These rates were used in the
+    demographic models. The second use was to note the residence of the births in order to
+    examine the correspondence between births and enrollment changes.
+
+
+   Private School Data. We monitor these data to detect any changes in private school
+    enrollment trends in the Portland area. We rely on two sources of information on
+    private schooling for this report. One source is from the Oregon Department of
+    Education. These data originate from reports at the local level about the number of
+    students who attend private schools. A second source was obtained through a survey
+    that we conducted in October 2004. We surveyed all known private schools in the
+    Portland area, requesting information about their enrollments and the places of
+    residence for their students.
+
+
+
+
+                                            Page 61
+   Home School Data. Information on the number of students in home schooling was
+    obtained from the Oregon Department of Education.
+
+
+   PPS Attendance Area Boundary Files. Portland Public School staff supplied the
+    attendance area boundary files for PPS elementary, middle, and high schools. These
+    files are used for mapping and for aggregating student, demographic and other data by
+    attendance areas to determine trends and to enter into the forecasting models.
+
+
+
+
+                                           Page 62
+

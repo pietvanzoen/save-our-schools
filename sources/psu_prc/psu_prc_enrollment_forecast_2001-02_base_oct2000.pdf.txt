@@ -1,0 +1,928 @@
+Portland State University
+PDXScholar
+
+School District Enrollment Forecast Reports                                       Population Research Center
+
+
+12-2000
+
+
+The Path Ahead: Future Enrollments in Portland
+Public Schools, 2000-2010, Based on October 2000
+Enrollments
+Portland State University. Population Research Center
+
+Barry Edmonston
+Portland State University
+
+Richard Lycan
+Portland State University
+
+Risa Proehl
+Portland State University
+
+
+
+
+Follow this and additional works at: https://pdxscholar.library.pdx.edu/enrollmentforecasts
+
+   Part of the Urban Studies and Planning Commons
+Let us know how access to this document benefits you.
+
+Recommended Citation
+Portland State University. Population Research Center; Edmonston, Barry; Lycan, Richard; and Proehl, Risa,
+"The Path Ahead: Future Enrollments in Portland Public Schools, 2000-2010, Based on October 2000
+Enrollments" (2000). School District Enrollment Forecast Reports. 74.
+https://pdxscholar.library.pdx.edu/enrollmentforecasts/74
+
+
+This Technical Report is brought to you for free and open access. It has been accepted for inclusion in School
+District Enrollment Forecast Reports by an authorized administrator of PDXScholar. Please contact us if we can
+make this document more accessible: pdxscholar@pdx.edu.
+            THE PATH AHEAD:
+
+       FUTURE ENROLLMENTS IN
+
+PORTLAND PUBLIC SCHOOLS, 2000 T0 2010
+
+    Based on October 2000 Enrollments
+
+
+    Prepared by the Population Research Center
+        College of Urban and Public Affairs
+             Portland State University
+
+
+
+
+           Barry Edmonston, Director
+
+           Population Research Center
+                The Urban Center
+            Portland State University
+            Portland, OR 97207-0751
+
+              December 27, 2000
+                                                                   Table of Contents
+
+EXECUTIVE SUMMARY ............................................................................................................................ 1
+  Main Findings............................................................................................................................................. 1
+  Caveats ....................................................................................................................................................... 2
+
+INTRODUCTION .......................................................................................................................................... 3
+RECENT ENROLLMENT AND POPULATION TRENDS......................................................................... 3
+METHODS AND DATA ............................................................................................................................... 4
+  Cohort-Component Method ........................................................................................................................ 4
+  Housing Unit Method ................................................................................................................................. 5
+SPECIFIC DEMOGRAPHIC ASSUMPTIONS UNDER FIVE FORECAST SCENARIOS ....................... 6
+  Assumptions for Demographic Rates ......................................................................................................... 6
+  Forecast Scenarios ...................................................................................................................................... 7
+OVERALL ENROLLMENT FORECASTS .................................................................................................. 8
+ENROLLMENT FORECASTS BY GRADE ................................................................................................ 9
+  Kindergarten to grade 2 .............................................................................................................................. 9
+  Grades 3 to 5............................................................................................................................................... 9
+  Grades 6 to 8............................................................................................................................................. 10
+  Grades 9 to 12........................................................................................................................................... 10
+
+APPENDIX A .............................................................................................................................................. 11
+ Data Sources ............................................................................................................................................. 11
+ Demographic Model ................................................................................................................................. 11
+ Project Staff .............................................................................................................................................. 12
+APPENDIX B............................................................................................................................................... 13
+ Five Supporting Tables............................................................................................................................. 13
+                                     THE PATH AHEAD:
+                                FUTURE SCHOOL ENROLLMENTS
+                           IN PORTLAND PUBLIC SCHOOLS, 2000 to 2010
+
+
+                                        EXECUTIVE SUMMARY
+
+
+This report provides a school enrollment forecast, including demographic information, for Portland Public
+Schools. The report considers several factors that are likely to affect the school district's enrollments
+between the present and 2010, including the future number of births, net migrants, and the proportion of
+school-age children and youth enrolled in the public schools.
+
+This is the second report that forecasts future enrollments for the Portland Public Schools. The first report
+(dated July 2000) was based on October 1999 enrollments; this report relies on October 2000 enrollments.
+
+To take into account a variety of demographic and enrollment possibilities, this report describes five
+different scenarios of housing, population, and enrollment changes for the ten years between 2000 to 2010.
+
+The five scenarios are as follows:
+
+(1) Recession. This scenario assumes that a prolonged weakening in employment opportunities in the
+    local area reduces net in-migration into the Portland Public Schools area.
+(2) Current Trends. This scenario reflects the continuation of birth, death, and migration rates at current
+    levels. It also assumes that the proportion of school-age children and youth, at each age, enrolled in
+    the public schools remains at current levels.
+(3) Gentrification. This scenario assumes that the volume of net in-migration continues at present levels,
+    but that the age profile of migration includes a greater number of younger couples with children and
+    fewer older adults. Based on current evidence, this scenario assumes that there will be modest declines
+    in the proportion of school-age children and youth that enroll in public schools.
+(4) Housing Turnover. This scenario assumes, like the Gentrification assumptions, that migrants will
+    include a greater number of younger couples with children and fewer older adults. Unlike the
+    Gentrification scenario, however, the Housing Turnover scenario assumes that current public school
+    enrollment rates, by age, will continue at current levels.
+(5) Immigration. This scenario assumes that the volume of net in-migration will increase in the future and
+    that the in-migrants will include a greater number of younger adults with children. This scenario also
+    assumes that there will be increases in fertility rates and the proportion of school-age children and
+    youth that enroll in public schools.
+
+The Recession and Immigration scenarios represent the most extreme set of assumptions for the Portland
+Public Schools. At this moment, it is unlikely that either economic recession and or a large influx of
+immigrants would occur immediately and continue for the next decade. The Current Trends,
+Gentrification, and Housing Turnover scenarios, however, present a range of more reasonable possibilities
+for the next decade.
+
+
+Main Findings
+
+The main findings from the enrollment forecasts, presented in greater detail in this report, are as follows:
+
+   If the Current Trends, Gentrification, or Housing Turnover scenarios are taken for the range of
+    possibilites for the next decade, overall public school enrollments will decrease by about 500 to 800
+    students each year between 2000 and 2010. These annual decreases will reduce total enrollments from
+    51,900 students in the 2000-01 school year to between 45,600 and 46,600 in the 2010-2011 school
+    year. This represents a decrease of about 10 to 12 percent in Portland Public Schools enrollments.
+
+
+
+
+                                                      1
+   Taking the five scenarios into account, overall public school enrollments are likely to decline in the
+    coming decade, decreasing by 400 to 10,100 students -- depending upon scenario assumptions -- to
+    41,900 to 51,500 students in 2010. The wide variation in 2010 enrollments is due to the assumption
+    that each scenario begins immediately and continues throughout the ten-year period of the forecast.
+   Enrollment decreases are likely to occur at all grade levels. If current trends continue, the heaviest
+    declines will occur in grades 3 to 5 and 6 to 8, with reductions of 20 to 25 percent from current levels
+    between the present and 2010. Grades 9 to 12 enrollments would decline by about 15 percent in the
+    same period. Kindergarten to grade 2 enrollments would decrease by about 10 percent over the
+    coming decade. Under different scenarios, however, the patterns of future change by grade level
+    would vary.
+   The immediate outlook is for continued declines, on the order of 500 to 800 students annually, for
+    several years. The next three or four years will make apparent whether the Current Trends scenario is
+    appropriate. If different conditions appear, then enrollments in 2010 may vary as much as several
+    thousand students from the enrollment forecast derived under the Current Trends scenario.
+
+
+Caveats
+
+Forecasting school enrollments, like forecasting anything else, is difficult because it is impossible to know
+all the conditions that will affect enrollments in the future. However, we all rely on forecasting to some
+extent: to decide what to wear by judging the look of the weather or how many schools are needed by
+fathoming the future course of school enrollments. When it comes down to it, we must rely on a forecast in
+order to make decisions today for future planning. Toward the goal of making plans for future enrollments
+in the Portland Public Schools, this report presents a demographic analysis to help make informed
+judgments.
+
+Several cautions should be kept in mind in interpreting the enrollment forecasts in this report.
+
+First, the enrollments presented within each of the scenarios are derived from the assumptions themselves.
+But it is not possible to judge, at this time, which of the assumptions or combinations of assumptions may
+be closer to future events. For example, fertility rates are currently fairly low for the population residing in
+the Portland Public Schools area. Fertility rates are likely to change somewhat in the future, perhaps
+becoming a little higher or lower. Based on past trends, fertility rates are unlikely to change dramatically in
+the future. But even modest changes in fertility will influence future enrollments and would make a
+difference from an enrollment based exclusively on the continuation of current trends.
+
+Second, variations in forecasts become larger as time goes on. Most of the students who will enroll in
+Portland Public Schools next year are currently enrolled in the schools this year. This helps to make a more
+accurate forecast for enrollments next year. But, as years progress, enrollments depend increasingly on
+assumptions about the numbers of school-age children and youth that move into and out of the school
+district. We therefore become less confident about enrollment forecasts for longer periods of time.
+
+Finally, there is a temptation in interpreting several forecasts to ask: "Which is the correct forecast?"
+Asking such a question implies that there is need to pick one forecast at present and then base future plans
+on it. The more appropriate use of this report is to consider each of the five scenarios in this report and
+update them as future conditions evolve. Instead of "picking and planning" right now for one outcome over
+the next ten years, we urge school officials and the public to "monitor and manage" the changing conditions
+that will affect future school enrollments. The five different scenarios presented in this report can best
+serve as guidelines in this process of monitoring and managing.
+
+
+
+
+                                                       2
+                                              INTRODUCTION
+
+This report presents the results of a study conducted by the Population Research Center to address the long-
+range planning needs of the Portland Public Schools. It provides annual enrollment forecasts by grade for
+the Portland Public School district from 2000 to 2010. In addition to the future enrollments that are
+expected from the continuation of current trends, four additional scenarios are presented. The study also
+provides enrollment forecasts for selected grades (K-2, 3-5, 6-8, and 9-12) for each year from 2000 to 2010.
+
+The report is divided into five parts. The first part describes recent enrollment and population trends. This
+is followed in part two by a description of the methods and data used in the development of the population
+and enrollment forecasts. Part three describes the specific demographic assumptions used, the
+circumstances that may change the assumptions, their effect on the forecasts, and the five different
+scenarios for which forecasts are made. Part four presents enrollment forecasts, for all grade combined, for
+the school district. Finally, the fifth part shows enrollment forecasts for selected grades.
+
+There are also two appendices at the end of the report. Appendix A provides information on data sources,
+the demographic model, and project staff. Appendix B has five supporting tables that show observed
+enrollment by grade for the 1990-1991 to 2000-2001 school years and the forecasted enrollment by grade
+for the 2001-2002 to 2010-2011 school years. The forecasted enrollments are presented for each of the five
+scenarios considered in the report.
+
+                         RECENT ENROLLMENT AND POPULATION TRENDS
+
+The area within the boundaries of Portland Public Schools includes approximately two-thirds of the City of
+Portland, a small unincorporated area of Multnomah County, and very small portions of the cities of Lake
+Oswego and Beaverton. The school district includes 63 elementary schools, 17 middle schools, 10 high
+schools, and a variety of special programs and schools. The configuration of the grade levels for most
+elementary schools is kindergarten to grade 5; however, eight of the elementary schools have pre-
+kindergarten programs. Middle schools consist of grades 6 to 8. High schools consist of grades 9 to 12.
+
+Total enrollments in the Portland Public Schools increased from 52,400 in 1990 to 54,800 in 1996. From
+1997 to 1999, enrollments declined, to 52,300 in the 1999-2000 school year. Enrollments decreased the
+most in recent years for the kindergarten to grades 2 years, as illustrated in the following figure.
+
+                          Enrollment for Portland Public Schools by Grade Level
+                17,000
+
+                16,000
+
+                15,000
+                                                                                         k-2
+                14,000
+                                                                                         3-5
+                13,000                                                                   6-8
+
+                12,000                                                                   9-12
+
+                11,000
+
+                10,000
+                         90-91 91-92 92-93 93-94 94-95 95-96 96-97 97-98 98-99 99-00
+                                                School Year
+
+
+
+Our analysis begins by examining historic patterns of growth in the Portland Public Schools area since
+1990. These results are discussed more fully in a report entitled Changing Times, Changing Enrollments:
+How Recent Demographic Trends are Affecting Enrollments in Portland Public Schools, prepared in
+conjunction with this report on enrollment forecasts for the Portland Public Schools. We reached four main
+
+
+
+
+                                                       3
+conclusions in Changing Times, Changing Enrollments: How Recent Demographic Trends are Affecting
+Enrollments in Portland Public Schools:
+
+            First and foremost, public school enrollments have declined in recent years primarily
+             because there have been sizeable decreases in the number of students entering
+             kindergarten and the early elementary school grades. Smaller numbers of entering
+             students are, in turn, the result of substantial reductions in the number of births --
+             reductions that began in 1991. Because there were fewer births in the early 1990s,
+             fewer students enrolled in school in the late 1990s. The number of births declined in
+             the 1980s primarily because there were decreases in the number of younger couples
+             -- not because there were decreases in the average number of births per couples in
+             the 1980s.
+
+            The number of births has continued to decline in the 1990s. The lower number of
+             births in the second half of the decade has not yet affected school enrollments. But
+             they will add to declines in school enrollments in the future, starting after about
+             2002. Although there was net out-migration of school-age children, in the 1980s and
+             1990s, net out-migration of school-age children appears to have increased in the late
+             1990s, further reducing enrollments.
+
+            There is conflicting evidence from public, private, and home schooling data on
+             changes in public school capture rates (the proportion of school age children enrolled
+             in Portland Public Schools). Available data, however, suggest that changes in
+             capture rates have not been a major determinant of public school enrollment trends.
+
+            Increased international migration into the Portland metropolitan area has ameliorated
+             the decline in enrollments by adding several thousand foreign-born students to the
+             Portland Public Schools. Immigrant couples are contributing an increasing number
+             of births to the population. Births to immigrants partially counterbalance fertility
+             declines among native-born residents.
+
+Recent annual population growth rates for the Portland Public Schools area have fluctuated in the range of
+0.6 to 0.7 percent since 1990. During the period 1990 to 1999, the resident population in the area increased
+from 398,000 to 421,000, or an increase of 23,000.
+
+Population growth has apparently slacked since 1996, with annual increase of about 7,500 in the district in
+recent years. The population growth rate in the school district area is about the same as in the City of
+Portland.
+
+Most of the land area within the Portland Public Schools area has been developed. There have been,
+however, some “in-fill” developments with new residential construction. In addition, there have been some
+conversions of commercial structure for residential housing. In recent years, we estimate that there have
+been about 1,000 to 1,500 new units added to the housing stock in the Portland Public Schools area.
+
+                                        METHODS AND DATA
+
+This study relies on two approaches for making district-wide school enrollment forecasts: a cohort-
+component method and a housing unit method. Specific data sources are described in Appendix A.
+
+Cohort-Component Method
+
+This report primarily relies on a demographic forecasting method called “cohort-component method.” It
+models future populations and school enrollments as outcomes of demographic events that occur over time.
+These events include births, deaths, and migration into and out of the school district. The district
+population grows when there are births and in-migrants; the population decreases when there are deaths and
+out-migrants. These events occur in certain age groups, or birth cohorts. For example, people tend to
+
+
+                                                     4
+move most often in the ages 18 to 30 years. The elderly are more likely to die than younger persons. The
+demographic model is based on age-specific rates for births, deaths, and in- and out-migration. The model
+begins with the resident population in the Portland Public School area in 1990 and moves it through time to
+the present, and then forward to 2010. By making assumptions about the levels of births, deaths, and
+migration, we produce a population that serves as the basis for calculating the school-age population and
+the numbers of children attending Portland Public Schools.
+
+Most school-age children attend public schools; however, some children and youth attend private schools
+and others may attend schools outside of the district or be home-schooled. The model addresses this issue
+by calculating the proportion of school-age children “captured” or enrolled in the public schools, and
+making assumptions about future “capture rates.”
+
+The cohort-component method relies on the availability of accurate data on the age and sex composition of
+the population residing in the Portland Public School area. The most accurate local population data is from
+the U.S. Census of Population. Data from the 1990 census are used for the basis of the local population in
+this report. Data for births and deaths are from vital statistics reported for the Portland Public School area
+from 1990 to 1998, as collected by the Oregon Division of Vital Statistics. Data on net migration for the
+local area are taken from the 1990 census, a special household survey conducted by the U.S. Census
+Bureau in Multnomah County in 1996 (the 1996 American Community Survey), and annual population
+estimates prepared by the Population Research Center.
+
+We use the cohort-component method to develop the enrollment forecast for the Portland Public Schools
+district, starting with the initial population in 1990. The 1990 census population was organized into five-
+year age groups (e.g. 0-4, 5-9, and so on). Each age group was survived five years at a time, using
+appropriate survival probabilities by age and sex. These survival probabilities represent the likelihood of
+people surviving five years, taking mortality into account. The process is repeated for each five-year
+projection until 2010.
+
+During each five-year period, births occur to the resident population. The number of births in the Portland
+Public School district are calculated on the basis of the number of women in the childbearing years and the
+probability that they will have a live birth. The live birth probabilities are determined on the basis of the
+most recent birth registration data for the Portland Public School population. Newborns are “survived” into
+the population aged 0-4 for the five-year projection; afterwards, they survive through time like the rest of
+the population.
+
+The estimate of in-migration and out-migration rates is a challenge for local population forecasts. In
+reality, the model is based on net migration rates – the difference between the in- and out-migration rates.
+If there are more in- than out-migrants, then there is a net in-migration. If in-migrants are fewer than out-
+migrants, then there is a net out-migration. Net migration rates were calculated first for the Portland Public
+School population on the basis of the experience between the 1980 and 1990 censuses. The rates were then
+adjusted in order to produce a population by age and sex that was as close as possible to the population in
+the U.S. Census Bureau’s 1996 American Community Survey. The migration data were further modified
+in order to be as close as possible to current population estimates prepared by the Population Research
+Center and the actual enrollments experienced by the Portland Public Schools from 1990 to 2000.
+
+Housing Unit Method
+
+Because the cohort-component method does not explicitly account for such events as the construction of
+new housing in the area, a different version of the model was developed to adjust for the ways in which
+future housing trends would affect the local area population.
+
+We used data on reports by the City of Portland on the location of new residential housing, demolitions of
+older housing, and either conversions of commercial structures to residential housing or conversions of
+residential housing to commercial use for the Portland Public School area since 1990. Based on 1990
+census information on the number of residential units, this allows us to make adjustments of housing
+through 1999.
+
+
+
+                                                      5
+We made assumptions about changes in the number of persons per housing unit, vacancy rates, and the
+number of school-age children per housing by housing type (i.e., single or multiple unit structures). We
+also made assumptions about future housing change in the Portland Public School areas and forecast the
+implications for the number of school-age children. We used the results to double-check the projections
+that we obtained using the cohort-component method. The forecasts reported in this study rely on the
+cohort-component method, but they were compared to the housing unit methods to ensure that the two
+methods produce closely similar results.
+
+      SPECIFIC DEMOGRAPHIC ASSUMPTIONS UNDER FIVE FORECAST SCENARIOS
+
+We make a “current trends” school enrollment forecast for Portland Public Schools assuming that current
+fertility, mortality, and net migration will continue relatively unchanged for the next ten years. This further
+assumes that there will be about 1,500 housing units added each year within the Portland Public Schools
+area and that the age-sex profile of net migrants will remain relatively constant.
+
+Assumptions for Demographic Rates
+
+The five scenarios make different demographic assumptions for fertility, mortality, and migration.
+
+Fertility rates. Fertility rates have been relatively stable in Oregon communities for the past thirty years.
+There are variations, however, between communities. Based on recorded births for the population living in
+the Portland Public Schools area, the average number of children born to women in 1990 was about 2.0, or
+about the same as the average for the state of Oregon. The average number of children born apparently
+increased slightly, to about 2.04, in 1995. Since 1995, fertility rates have dropped considerably, reflecting
+the increasing proportion of single persons moving into Portland and the decreasing number of younger
+couples. The most recent birth data suggest that the average number of children born to women has fallen
+to about 1.7 in 1998. An overall fertility of 1.7 children is assumed for four scenarios: Recession, Current
+Trends, Gentrification, and Housing Turnover. For the Immigration scenario, we assume that fertility
+increases to 2.04 births per woman.
+
+Mortality rates. Survival rates for a population reflect the chances for a birth cohort surviving to the next
+five-year period. Survival rates are very high for younger ages and almost 100 percent of school-age
+children survive five-year periods. All scenarios presented in this report make the same assumptions about
+mortality. Even if we had made different assumptions about the plausible future course of mortality, they
+would have had only modest effects on the school enrollment forecasts because virtually all school-age
+children survive from one period to the next.
+
+Migration rates. Each of the five scenarios makes different assumptions about future trends in the volume
+and composition of net migrants. Migration assumptions are the most difficult to make for a local area
+population forecast. Migration is affected by employment opportunities, the availability and cost of
+housing – in Portland and in comparison to nearby areas -- and a variety of other social and economic
+factors that influenced decisions to move. For this reason, it is important to consider many factors in
+thinking about the likely future course of migration in the Portland Public Schools area.
+
+We develop estimates for migration rates for the 1990s in the same way for each of the five scenarios. We
+make an initial estimate of net migration based on a comparison of the population living in the Portland
+Public Schools area in 1980 and 1990.
+
+
+
+
+                                                      6
+Forecast Scenarios
+
+The population residing in the Portland Public School area is diverse and changing. We do not have a
+magic crystal ball that allows us to predict with any certainty what will happen in the future. For purposes
+of making enrollment forecasts, we made assumptions about what might happen to enrollments for five
+scenarios. These scenarios vary greatly. But they do not necessarily include all the complexities of factors
+that change in the future.
+
+The five scenarios presented here are:
+
+   Recession Scenario. This scenario assumes that a prolonged economic downturn occurs that reduces
+    net in-migration to about one-fifth of current levels, that is, from about 3,600 net in-migrants annually
+    to about 700 net in-migrants annually. We assume that the age-sex composition of net in-migrants will
+    remain the same as at present, that fertility and mortality rates will remain unchanged, and that the
+    proportion of school-age children enrolled in public schools will continue at present levels. The
+    assumptions made for this scenario imply that there would be about 300 housing units added annually
+    within the Portland Public School area. This is considerably less than what occurred during the 1990s.
+
+   Current Trends Scenario. This scenario assumes that the demographic trends occurring at present will
+    continue unchanged through 2010. The scenario also assumes that the proportion of school-age
+    children enrolled in the public schools will continue at present levels. The demographic assumptions
+    for this scenario imply that there will be about 1,500 housing units added each year in the Portland
+    Public School area. This is within the range of housing changes during recent years.
+
+   Gentrification Scenario. This scenario makes the assumption that the age composition of net migrants
+    into the Portland Public School residential area will change, with fewer young adults moving into the
+    area and more older adults leaving the area. The scenario assumes that the overall number of net in-
+    migrants, however, will be roughly the same as in the current trends model. Information for the 1990s
+    suggests that the proportion of school-age children enrolling in public schools decreased in areas
+    experiencing gentrification (residential areas experiencing a relatively rapid increase in family income
+    and housing values). Because of this observation, we assume slight decreases in public school capture
+    rates for the Gentrification Scenario. The demographic assumptions made for this scenario imply that
+    there would be about 1,900 housing units added each year to the existing residential housing stock.
+    This is about 400 to 1,000 more than was experienced during the 1990s in the Portland Public School
+    area.
+
+   Housing Turnover Scenario. This scenario resembles the Gentrification Scenario in that it assumes a
+    shift toward more in-migration of younger adults. It assumes, however, that there are no changes in
+    public school capture rates. This model is consistent with the notion that a greater proportion of older
+    adults may leave the Portland area as the overall population ages. This will make a greater number of
+    housing units available in the future for younger adults. The demographic assumptions made for this
+    scenario imply that there would be about 1,900 housing units added each year to the existing
+    residential housing stock. This is about 400 to 1,000 more than was observed during the 1990s in the
+    Portland Public School area.
+
+   Immigration Scenario. This scenario assumes that there will be a much larger volume of in-migration
+    of the foreign-born into the Portland Public School area. This will have four effects: (a) there will be a
+    greater number of in-migrants than at present; (b) there will be more younger adults entering the
+    population and more older adults leaving; (c) there will be moderate increases in fertility rates; and (d)
+    the proportion of school-age children enrolling in the public schools will increase slightly. At present,
+    immigrants in the Portland Public School area tend to be younger adults, they have slightly higher
+    fertility, and they are more likely to enroll their children in public schools. The demographic
+    assumptions made for this scenario imply that there would be about 1,900 housing units added each
+    year to the existing residential housing stock during the 2000-2005 period and 2,400 units added each
+    year during 2005-2010. This is considerably more additional housing added than was experienced
+    during the 1990s in the Portland Public School area.
+
+
+                                                      7
+                               OVERALL ENROLLMENT FORECASTS
+
+Five population and housing growth scenarios, as described above, are considered for the enrollment
+forecasts.
+
+Each of the five scenarios makes identical assumptions for trends from 1990 to 2000. They differ only in
+the assumptions made between 2000 and 2010. As a result, there are no differences in the enrollment
+trends from 1990 to 2000: each of the five scenarios reproduces the observed enrollment trends for the past
+decade.
+
+Enrollment forecasts for 2010 vary greatly for the five scenarios, ranging from 41,900 for the Recession
+Scenario, 45,600 for the Current Trends Scenario, 46,400 for the Gentrification Scenario, 46,600 for the
+Housing Turnover Scenario and 51,500 for the Immigration Scenario.
+
+There were 51,900 students enrolled in Portland Public Schools in the 2000-01 year. Under all scenarios
+considered here, there will be decreases in school enrollments. The decreases between 2000 and 2010
+range from 10,000 for the Recession Scenario, 6,300 for the Current Trends Scenario, 5,500 for the
+Gentrification Scenario, 5,300 for the Housing Turnover Scenario, and 400 for the Immigration Scenario.
+It seems obvious that public school enrollments are likely to decline in coming years. The extent of the
+decreases depends upon changes that will only become clearer in the next few years.
+
+The overall enrollment forecasts for each of the five scenarios are as follows:
+
+   Recession Scenario. Under this scenario, overall enrollments decrease by about 1,000 students each
+    year from the present to 2010. Such a scenario would reduce enrollments, dropping total district
+    enrollments by about one-fourth. The effects would be widespread, reducing enrollments in most
+    schools across the district.
+
+   Current Trends Scenario. If current trends continue, enrollments would continue to drop by about 500
+    to 800 each year. The results suggest that the decline would be fairly even over the coming decade,
+    with only small fluctuations each year. Overall, 2010 enrollments would be almost one-fifth smaller
+    than at present.
+
+   Gentrification Scenario. Gentrification would bring more young couples into the area, albeit with
+    slight decreases in the public school capture rates. The overall result is enrollments about 800 more
+    students in 2010 than under the Current Trends Scenario. There would be annual decreases in the
+    range of about 300 to 700 students under the Gentrification Scenario. Enrollments would shift,
+    however, under this scenario with some modest enrollment gains in areas undergoing gentrification.
+
+   Housing Turnover Scenario. Enrollments under this scenario would lead to about 1,000 more students
+    enrolled in the Portland Public Schools in 2010 than under the Current Trends Scenario. Enrollment
+    decreases would be experienced each year until 2010, although the decreases would level off at about
+    400 to 500 fewer students each year in the latter part of the decade.
+
+   Immigration Scenario. This scenario makes the greatest number of assumptions for future changes in
+    the five scenarios considered here. Nevertheless, the Immigration Scenario indicates enrollment
+    declines would continue until about 2005-2006, at which point more children would begin to enroll in
+    the public schools. By the end of the decade, in fact, enrollments would begin to increase by 400 to
+    500 students annually. Nevertheless, overall enrollments would still decrease between 2000 and 2010.
+
+The overall school enrollment forecasts, from kindergarten to grade 12, for the Portland Public Schools for
+the five scenarios are as follows:
+
+
+
+
+                                                      8
+Scenario:      Total    1990       1995      2000         2005     2010
+Enrollments
+Recession              52,363     54,350     51,926       46,949   41,861
+Current Trends         52,363     54,350     51,926       48,790   45,585
+Gentrification         52,363     54,350     51,926       49,006   46,421
+Housing Turnover       52,363     54,350     51,926       49,285   46,596
+Immigration            52,363     54,350     51,926       50,063   51,545
+
+
+                                ENROLLMENT FORECASTS BY GRADE
+
+In this part of the report, we present enrollment forecasts for selected grade categories: kindergarten to
+grade 2, grades 3 to 5, grades 6 to 8, and grades 9 to 12. Appendix B displays enrollment forecasts for each
+grade, from the present to 2010, for each of the five scenarios.
+
+Kindergarten to grade 2
+
+Enrollments in kindergarten to grade 2 fluctuated in the range of 13,300 to 13,800 during 1990 to 1996.
+Since 1996, K-2 enrollments have declined by about 1,700 students, to 11,700 in the 2000-01 school year.
+If current trends persist, K-2 enrollments will decrease by about 1,000 students, to a low of 10,500 in 2005,
+and then increase modestly to 11,300 students in 2010. Depending upon the scenario, K-2 enrollments
+range from 10,300 to 14,600 in 2010. Except for the Immigrant Scenario, K-2 enrollments will decrease
+between 2000 and 2010.
+
+Scenario:               1990       1995      2000         2005     2010
+Kindergarten to
+Grade 2
+Enrollments
+Recession              13,447     13,449     11,657       10,057   10,281
+Current Trends         13,447     13,449     11,657       10,527   11,329
+Gentrification         13,447     13,449     11,657       10,423   11,315
+Housing Turnover       13,447     13,449     11,657       10,715   11,632
+Immigration            13,447     13,449     11,657       11,040   14,580
+
+
+Grades 3 to 5
+
+Public school enrollments in grades 3 to 5 have varied in the range of 12,500 to 13,600 students during the
+past ten years. Grades 3 to 5 enrollments are likely to decline, however, in the coming years. If current
+conditions continue, enrollments will decrease steadily to 2010, reaching a level of about 10,000 in 2010 --
+2,300 fewer students than at present, and a decline of more than one-fifth from current enrollments. Grades
+3 to 5 enrollments are forecast to decline for each of the five scenarios, with 2010 enrollments ranging from
+9,100 to 11,800.
+
+Scenario: Grades 3      1990       1995      2000         2005     2010
+to 5 Enrollments
+Recession              12,548     12,619     12,281       9,799    9,084
+Current Trends         12,548     12,619     12,281       10,225   9,981
+Gentrification         12,548     12,619     12,281       10,315   10,086
+Housing Turnover       12,548     12,619     12,281       10,367   10,244
+Immigration            12,548     12,619     12,281       10,469   11,806
+
+
+
+
+                                                      9
+Grades 6 to 8
+
+Enrollments in grades 6 to 8 increased from 1990 to 1995, reaching a peak of 12,200 in the 1995-1996
+school year. Since 1995, enrollments have declined by about 1,000 students, to 11,300 in the 1999-2000
+school year. If current trends continue, grades 6 to 8 enrollments will fluctuate modestly around current
+levels until 2004. Afterwards, the Current Trends Scenario suggests that enrollments will decrease
+markedly, dropping by about 2,000 students, or about one-fifth, to 9,200 in 2010. Enrollment declines in
+grades 6 to 8 are found in each of the five scenarios, with enrollments in 2010 varying between 8,400 and
+9,800, depending upon the scenario.
+
+Scenario: Grades 6     1990      1995       2000         2005     2010
+to 8 Enrollments
+Recession             11,491    12,235     11,262        10,306   8,410
+Current Trends        11,491    12,235     11,262        10,715   9,171
+Gentrification        11,491    12,235     11,262        11,472   9,776
+Housing Turnover      11,491    12,235     11,262        10,788   9,399
+Immigration           11,491    12,235     11,262        10,937   9,517
+
+
+Grades 9 to 12
+
+High school enrollments in grades 9 to 12 increased from 13,600 in 1990 to about 15,600 in 1996. Since
+1996, enrollments have decreased by about 200 students, to 15,400 students in the 2000-01 school year. If
+current trends continue, grades 9 to 12 enrollments will decline by about 800 students between 2000 and
+2002, increase by about 1,400 students between 2003 and 2006, and decrease steadily by about 2,300
+students between 2006 and 2010, to about 13,700 students. Enrollments will decline in each of the five
+scenarios, reaching levels of 12,700 to 14,300 students in 2010, depending on the scenario.
+
+Scenario: Grades 9     1990      1995       2000         2005     2010
+to 12 Enrollments
+Recession             13,628    14,910     15,362        15,387   12,686
+Current Trends        13,628    14,910     15,362        15,924   13,705
+Gentrification        13,628    14,910     15,362        15,395   13,843
+Housing Turnover      13,628    14,910     15,362        16,014   13,921
+Immigration           13,628    14,910     15,362        16,217   14,242
+
+
+
+
+                                                    10
+                                               APPENDIX A
+
+Data Sources
+
+This report is based on data obtained from several sources, including:
+
+   Decennial Census. The decennial census is the only source of data collected for small areas across the
+    nation. We used 1980 and 1990 census data to calculate the population, by age and sex, residing in the
+    Portland Public School area. We compared the changes from 1980 to 1990 to develop an estimate of
+    the age-sex profile for net migrants.
+
+   American Community Survey. This is a new U.S. Census Bureau survey that is being tested in
+    Multnomah County and several other sites in the United States. It was begun in 1996, with a large
+    survey of households in Multnomah County, followed by smaller surveys in 1997 and following years.
+    The American Community Survey asks the same questions as the 1990 census. We used the 1990
+    Census and 1996 American Community Survey data to develop estimates of household and population
+    change, including estimates of net migration for the Portland Public School area. We relied on 1996,
+    1997, and 1998 American Community Survey information for analysis of foreign-born school-age
+    children.
+
+   Portland Public School Enrollment Data. Portland Public School staff furnished information on
+    enrollments for recent decades, including enrollments by grade for the past decade. We also obtained
+    data files on all students in 1993, 1996, and 1999 with their residential addresses. These data are
+    valuable for examining the in and out-flows of students in elementary school attendance areas.
+
+   Birth and Death Data. Information on births and deaths reported for the Portland Public School area
+    were obtained from the Oregon Health Division. The data were used for two purposes. One use was
+    for calculating overall fertility and mortality rates for the School District. These rates were used in the
+    demographic model. The second use was to note the residence of the births in order to examine the
+    correspondence between births and enrollment changes.
+
+   Immigration Data. The Immigration and Naturalization Service provides limited immigration data for
+    local areas. Their data are restricted to the numbers of legal immigrants and refugees who declare that
+    they intend to live in the metropolitan Portland area at the time of their arrival in the United States.
+    Most of these arrivals do, in fact, move to their intended place of residence. The INS data are
+    tabulated for countries-of-origin, providing information each year about how many legal immigrants
+    and refugees arrive in metropolitan Portland.
+
+   Private Schooling Data. We rely on two sources of information on private schooling for this report.
+    One source is from the Oregon Department of Education. These data originate from reports at the
+    local level about the number of students who attend private schools. A second source was obtained by
+    a survey that we conducted in February 2000. We phoned all known private schools in the Portland
+    area, requesting information about their enrollments and the places of residence for their students. We
+    compared this information to the reports obtained by the Oregon Department of Education.
+
+   Home Schooling Data. Information on the number of students in home schooling was obtained from
+    the Multnomah Educational Service Department.
+
+Demographic Model
+
+Our demographic enrollment model uses a "cohort-component" model, moving cohorts or age groups
+through time based on the components of birth, death, and migration. Specifically, the model takes a
+beginning population in the Portland Public School District by age and sex, and moves the population five-
+years at a time, subject to fertility, mortality, and migration. The model uses the following definition:
+
+
+
+
+                                                     11
+         Population in 1995 = Population in 1990 + Births - Deaths +/- Net In-Migration
+
+The next step in the model is to calculate school enrollment based on the number of children in each age
+group. To do this, we assign children and youth in the school ages, for single age groups, to grade levels,
+kindergarten to 12th grade, assuming that most children are enrolled in school. Using 1990 census data, we
+calculate a "capture rate" that expresses the proportion of children in a grade level that are enrolled in the
+Portland Public Schools, using 1990 school enrollment data.
+
+For the forecast, we used birth rates based on Multnomah County data published by the Oregon Health
+Division's vital statistics office. Death rates are from mortality rates for the State of Oregon.
+
+Net migration is a key variable for our analysis. We make an initial estimate based on a comparison of the
+Portland Public School District's 1980 and 1990 population by age and sex. We adjust the historical net in-
+migration data for Portland Public School District's population in order to predict adequately enrollment
+from 1990 to 1995. This "calibration" of the model is useful. It makes sure that the assumptions that we
+make about births, deaths, and migration correspond closely to actual changes in school enrollment from
+1990 to 1995.
+
+Project Staff
+
+This report involves the work of faculty and staff at Portland State University, including:
+ Barry Edmonston is the Director, Population Research Center, and Professor, School of Urban Studies
+    and Planning. He was responsible for all aspects of the study and the preparation of the final report.
+ Richard Lycan is Professor Emeritus of Geography, Population Research Center. He developed
+    population and fertility estimates, analysis of the relationship of housing and enrollments, and offered
+    his expertise for other data analyses.
+ Risa Proehl is Research Assistant at the Population Research Center. She developed the research on
+    population, enrollment, and migration trends and directed the data collection on private and home
+    schooling enrollments.
+
+The work for this report could not have been completed without the assistance and contributions of
+Portland Public School staff including Pam Brown, Cary Hampton, and Theresa White.
+
+Dozens of educational staff also cooperated with the work, providing enrollment figures for private schools
+operating in the metropolitan Portland area. Although these people are too numerous to list, we thank
+them for their cooperation and assistance.
+
+Our thanks also to Jennifer Woodward, Oregon Health Division, for her assistance in accessing the birth
+records for Multnomah County and to Bob Jones, Oregon Department of Education, who helped with the
+use of Oregon's private school data.
+
+
+
+
+                                                     12
+    APPENDIX B
+
+Five Supporting Tables
+
+
+
+
+         13
+        PPS: Recession Model                                                                                                                                                           12/27/00
+                                                                                                                                                                                         13:10
+        Enrollment by Grade and Year
+                                                                                                 Actual > Projected >
+          1990    1991    1992     1993     1994     1995     1996     1997     1998     1999         2000   2001    2002    2003    2004    2005    2006    2007     2008     2009       2010
+    K     4,412   4,473   4,599    4,350    4,398    4,509    4,460    4,099    3,931    3,700     3,743     3,771   3,671   3,574   3,480   3,388   3,415   3,441    3,468    3,496     3,523
+    1     4,589   4,658   4,691    4,607    4,535    4,559    4,566    4,570    4,354    4,103     3,859     3,651   3,652   3,526   3,415   3,332   3,273   3,323    3,360    3,387     3,413
+    2     4,446   4,554   4,497    4,476    4,390    4,382    4,383    4,393    4,372    4,173     4,055     3,788   3,570   3,554   3,426   3,337   3,290   3,252    3,301    3,326     3,344
+    3     4,483   4,513   4,596    4,352    4,299    4,278    4,323    4,296    4,244    4,153     4,118     3,933   3,668   3,450   3,441   3,341   3,285   3,250    3,199    3,224     3,232
+    4     4,193   4,465   4,415    4,422    4,163    4,200    4,111    4,125    4,109    4,135     4,127     3,998   3,804   3,537   3,332   3,339   3,259   3,201    3,143    3,062     3,066
+    5     3,871   4,236   4,493    4,282    4,258    4,141    4,137    3,959    4,003    3,973     4,036     3,957   3,788   3,574   3,312   3,119   3,127   3,041    2,962    2,878     2,786
+    6     4,009   3,928   4,201    4,287    4,104    4,140    4,085    4,002    3,769    3,835     3,896     3,887   3,755   3,566   3,357   3,112   2,932   2,931    2,830    2,733     2,642
+    7     3,824   3,964   3,846    4,008    4,125    3,992    3,995    3,869    3,873    3,614     3,732     3,921   3,880   3,748   3,576   3,385   3,150   2,967    2,954    2,839     2,733
+    8     3,658   3,808   3,953    3,743    3,906    4,104    4,024    3,991    3,815    3,831     3,634     3,873   4,063   4,049   3,955   3,809   3,625   3,378    3,179    3,161     3,035
+    9     3,838   3,896   4,429    4,490    4,315    4,327    4,670    4,634    4,533    4,316     4,286     3,761   4,041   4,312   4,377   4,330   4,189   3,987    3,711    3,490     3,469
+   10     3,639   3,623   3,690    3,803    3,852    3,920    4,013    4,196    4,112    4,075     4,005     4,039   3,574   3,900   4,221   4,309   4,245   4,082    3,870    3,598     3,381
+   11     3,237   3,383   3,248    3,271    3,421    3,423    3,570    3,511    3,642    3,783     3,671     3,845   3,859   3,409   3,705   3,965   3,984   3,880    3,715    3,522     3,274
+   12     2,914   2,954   3,099    2,959    3,189    3,240    3,326    3,199    3,343    3,303     3,400     2,833   2,938   2,943   2,589   2,783   2,931   2,911    2,822    2,702     2,562
+Other     1,249   1,235    838     1,007    1,054    1,137    1,162    1,194    1,253    1,348     1,364     1,400   1,400   1,400   1,400   1,400   1,400   1,400    1,400    1,400     1,400
+  K-2 13,447 13,685 13,787        13,433   13,323   13,449   13,408   13,062   12,657   11,976    11,657 11,210 10,894 10,654 10,321 10,057          9,978 10,017    10,130   10,208    10,281
+   3-5 12,548 13,215 13,504       13,056   12,720   12,619   12,572   12,380   12,356   12,261    12,281 11,888 11,259 10,561 10,085         9,799   9,671   9,492    9,303    9,164     9,084
+   6-8 11,491 11,700 12,000       12,038   12,135   12,235   12,103   11,862   11,457   11,280    11,262 11,680 11,698 11,362 10,889 10,306          9,707   9,276    8,963    8,733     8,410
+  9-12 13,628 13,856 14,466       14,523   14,777   14,910   15,580   15,540   15,630   15,477    15,362 14,478 14,412 14,564 14,893 15,387 15,349 14,860            14,118   13,312    12,686
+ Total 52,363 53,691 54,595       54,057   54,009   54,350   54,825   54,038   53,353   52,342    51,926 50,655 49,663 48,541 47,587 46,949 46,105 45,044            43,915   42,817    41,861
+
+
+
+
+                                                                                                 14
+            PPS: Current Trends
+            Model                                                                                                                                                               12/27/00
+
+                                                                                                                                                                                  13:17
+
+            Enrollment by Grade and Year
+                                                                                              Actual > Projected >
+              1990    1991    1992    1993    1994    1995    1996    1997    1998    1999       2000    2001    2002   2003    2004    2005    2006    2007    2008    2009      2010
+    K         4,412   4,473   4,599   4,350   4,398   4,509   4,460   4,099   3,931   3,700     3,743   3,806   3,740   3,676   3,612   3,550   3,613   3,676   3,741   3,807    3,874
+        1     4,589   4,658   4,691   4,607   4,535   4,559   4,566   4,570   4,354   4,103     3,859   3,672   3,715   3,622   3,540   3,487   3,460   3,551   3,628   3,696    3,764
+        2     4,446   4,554   4,497   4,476   4,390   4,382   4,383   4,393   4,372   4,173     4,055   3,810   3,619   3,645   3,548   3,489   3,476   3,472   3,565   3,631    3,691
+        3     4,483   4,513   4,596   4,352   4,299   4,278   4,323   4,296   4,244   4,153     4,118   3,956   3,718   3,527   3,560   3,492   3,468   3,467   3,449   3,514    3,562
+        4     4,193   4,465   4,415   4,422   4,163   4,200   4,111   4,125   4,109   4,135     4,127   4,021   3,856   3,617   3,436   3,486   3,439   3,411   3,383   3,329    3,368
+        5     3,871   4,236   4,493   4,282   4,258   4,141   4,137   3,959   4,003   3,973     4,036   3,980   3,840   3,655   3,418   3,246   3,295   3,238   3,183   3,122    3,051
+        6     4,009   3,928   4,201   4,287   4,104   4,140   4,085   4,002   3,769   3,835     3,896   3,909   3,807   3,647   3,464   3,239   3,078   3,114   3,037   2,960    2,887
+        7     3,824   3,964   3,846   4,008   4,125   3,992   3,995   3,869   3,873   3,614     3,732   3,943   3,932   3,831   3,687   3,520   3,304   3,138   3,162   3,068    2,980
+        8     3,658   3,808   3,953   3,743   3,906   4,104   4,024   3,991   3,815   3,831     3,634   3,893   4,115   4,134   4,072   3,955   3,797   3,568   3,386   3,407    3,303
+        9     3,838   3,896   4,429   4,490   4,315   4,327   4,670   4,634   4,533   4,316     4,286   3,780   4,090   4,397   4,499   4,486   4,377   4,202   3,945   3,741    3,762
+    10        3,639   3,623   3,690   3,803   3,852   3,920   4,013   4,196   4,112   4,075     4,005   4,058   3,615   3,973   4,332   4,457   4,427   4,294   4,105   3,849    3,647
+    11        3,237   3,383   3,248   3,271   3,421   3,423   3,570   3,511   3,642   3,783     3,671   3,864   3,904   3,474   3,803   4,102   4,154   4,080   3,940   3,767    3,532
+    12        2,914   2,954   3,099   2,959   3,189   3,240   3,326   3,199   3,343   3,303     3,400   2,847   2,972   3,000   2,658   2,879   3,056   3,061   2,993   2,891    2,764
+Other         1,249   1,235    838    1,007   1,054   1,137   1,162   1,194   1,253   1,348     1,364   1,400   1,400   1,400   1,400   1,400   1,400   1,400   1,400   1,400    1,400
+   K-2 13,447 13,685 13,787 13,433 13,323 13,449 13,408 13,062 12,657 11,976                   11,657 11,288 11,075 10,943 10,701 10,527 10,548 10,699 10,934 11,134 11,329
+   3-5 12,548 13,215 13,504 13,056 12,720 12,619 12,572 12,380 12,356 12,261                   12,281 11,957 11,414 10,799 10,414 10,225 10,202 10,116 10,015           9,965    9,981
+   6-8 11,491 11,700 12,000 12,038 12,135 12,235 12,103 11,862 11,457 11,280                   11,262 11,745 11,854 11,612 11,223 10,715 10,179         9,821   9,586   9,435    9,171
+  9-12 13,628 13,856 14,466 14,523 14,777 14,910 15,580 15,540 15,630 15,477                   15,362 14,549 14,581 14,844 15,293 15,924 16,015 15,636 14,983 14,248 13,705
+
+ Total 52,363 53,691 54,595 54,057 54,009 54,350 54,825 54,038 53,353 52,342                   51,926 50,939 50,324 49,598 49,031 48,790 48,344 47,672 46,918 46,182 45,585
+
+
+
+
+                                                                                                   15
+            PPS: Gentrification
+            Model                                                                                                                                                               12/27/00
+
+                                                                                                                                                                                  13:21
+
+            Enrollment by Grade and Year
+                                                                                              Actual > Projected >
+              1990    1991    1992    1993    1994    1995    1996    1997    1998    1999       2000    2001    2002   2003    2004    2005    2006    2007    2008    2009      2010
+    K         4,412   4,473   4,599   4,350   4,398   4,509   4,460   4,099   3,931   3,700     3,743   3,722   3,663   3,606   3,550   3,494   3,562   3,630   3,700   3,772    3,845
+        1     4,589   4,658   4,691   4,607   4,535   4,559   4,566   4,570   4,354   4,103     3,859   3,702   3,670   3,586   3,510   3,464   3,442   3,539   3,623   3,697    3,771
+        2     4,446   4,554   4,497   4,476   4,390   4,382   4,383   4,393   4,372   4,173     4,055   3,808   3,652   3,605   3,518   3,465   3,458   3,461   3,560   3,632    3,699
+        3     4,483   4,513   4,596   4,352   4,299   4,278   4,323   4,296   4,244   4,153     4,118   3,952   3,718   3,563   3,525   3,467   3,449   3,455   3,443   3,514    3,569
+        4     4,193   4,465   4,415   4,422   4,163   4,200   4,111   4,125   4,109   4,135     4,127   4,017   3,855   3,622   3,476   3,457   3,419   3,398   3,375   3,328    3,373
+        5     3,871   4,236   4,493   4,282   4,258   4,141   4,137   3,959   4,003   3,973     4,036   4,097   3,958   3,772   3,533   3,391   3,373   3,322   3,270   3,212    3,145
+        6     4,009   3,928   4,201   4,287   4,104   4,140   4,085   4,002   3,769   3,835     3,896   4,094   4,110   3,942   3,750   3,513   3,373   3,344   3,269   3,191    3,118
+        7     3,824   3,964   3,846   4,008   4,125   3,992   3,995   3,869   3,873   3,614     3,732   3,958   4,125   4,138   3,989   3,813   3,584   3,439   3,396   3,303    3,214
+        8     3,658   3,808   3,953   3,743   3,906   4,104   4,024   3,991   3,815   3,831     3,634   3,793   4,011   4,207   4,265   4,146   3,983   3,750   3,594   3,545    3,445
+        9     3,838   3,896   4,429   4,490   4,315   4,327   4,670   4,634   4,533   4,316     4,286   3,631   3,821   4,110   4,389   4,504   4,398   4,227   3,975   3,809    3,755
+    10        3,639   3,623   3,690   3,803   3,852   3,920   4,013   4,196   4,112   4,075     4,005   4,054   3,473   3,714   4,050   4,348   4,445   4,315   4,132   3,882    3,717
+    11        3,237   3,383   3,248   3,271   3,421   3,423   3,570   3,511   3,642   3,783     3,671   3,859   3,901   3,340   3,557   3,838   4,057   4,102   3,966   3,798    3,568
+    12        2,914   2,954   3,099   2,959   3,189   3,240   3,326   3,199   3,343   3,303     3,400   2,855   2,981   3,012   2,568   2,707   2,875   3,007   3,028   2,927    2,803
+Other         1,249   1,235    838    1,007   1,054   1,137   1,162   1,194   1,253   1,348     1,364   1,400   1,400   1,400   1,400   1,400   1,400   1,400   1,400   1,400    1,400
+   K-2 13,447 13,685 13,787 13,433 13,323 13,449 13,408 13,062 12,657 11,976                   11,657 11,232 10,985 10,797 10,578 10,423 10,462 10,630 10,883 11,101 11,315
+   3-5 12,548 13,215 13,504 13,056 12,720 12,619 12,572 12,380 12,356 12,261                   12,281 12,066 11,530 10,957 10,535 10,315 10,242 10,174 10,089 10,055 10,086
+   6-8 11,491 11,700 12,000 12,038 12,135 12,235 12,103 11,862 11,457 11,280                   11,262 11,844 12,246 12,288 12,004 11,472 10,941 10,533 10,260 10,039             9,776
+  9-12 13,628 13,856 14,466 14,523 14,777 14,910 15,580 15,540 15,630 15,477                   15,362 14,399 14,176 14,175 14,564 15,395 15,775 15,651 15,101 14,416 13,843
+
+ Total 52,363 53,691 54,595 54,057 54,009 54,350 54,825 54,038 53,353 52,342                   51,926 50,942 50,337 49,616 49,080 49,006 48,820 48,389 47,733 47,011 46,421
+
+
+
+
+                                                                                                  16
+            PPS: Housing Turnover
+            Model                                                                                                                                                               12/27/00
+
+                                                                                                                                                                                  13:24
+
+            Enrollment by Grade and Year
+                                                                                              Actual > Projected >
+              1990    1991    1992    1993    1994    1995    1996    1997    1998    1999       2000    2001    2002   2003    2004    2005    2006    2007    2008    2009      2010
+    K         4,412   4,473   4,599   4,350   4,398   4,509   4,460   4,099   3,931   3,700     3,743   3,849   3,789   3,730   3,672   3,615   3,684   3,755   3,828   3,902    3,977
+        1     4,589   4,658   4,691   4,607   4,535   4,559   4,566   4,570   4,354   4,103     3,859   3,677   3,763   3,675   3,598   3,550   3,528   3,627   3,713   3,789    3,865
+        2     4,446   4,554   4,497   4,476   4,390   4,382   4,383   4,393   4,372   4,173     4,055   3,814   3,628   3,696   3,605   3,551   3,543   3,547   3,648   3,722    3,790
+        3     4,483   4,513   4,596   4,352   4,299   4,278   4,323   4,296   4,244   4,153     4,118   3,959   3,725   3,540   3,614   3,552   3,535   3,540   3,528   3,601    3,657
+        4     4,193   4,465   4,415   4,422   4,163   4,200   4,111   4,125   4,109   4,135     4,127   4,024   3,863   3,629   3,454   3,545   3,504   3,482   3,459   3,410    3,457
+        5     3,871   4,236   4,493   4,282   4,258   4,141   4,137   3,959   4,003   3,973     4,036   3,983   3,848   3,668   3,435   3,270   3,358   3,305   3,254   3,197    3,130
+        6     4,009   3,928   4,201   4,287   4,104   4,140   4,085   4,002   3,769   3,835     3,896   3,913   3,816   3,661   3,483   3,262   3,105   3,178   3,105   3,030    2,961
+        7     3,824   3,964   3,846   4,008   4,125   3,992   3,995   3,869   3,873   3,614     3,732   3,948   3,943   3,847   3,708   3,545   3,331   3,169   3,230   3,140    3,055
+        8     3,658   3,808   3,953   3,743   3,906   4,104   4,024   3,991   3,815   3,831     3,634   3,899   4,127   4,153   4,095   3,981   3,826   3,601   3,423   3,484    3,383
+        9     3,838   3,896   4,429   4,490   4,315   4,327   4,670   4,634   4,533   4,316     4,286   3,784   4,101   4,414   4,521   4,512   4,406   4,235   3,982   3,783    3,850
+    10        3,639   3,623   3,690   3,803   3,852   3,920   4,013   4,196   4,112   4,075     4,005   4,062   3,622   3,986   4,351   4,480   4,454   4,325   4,141   3,889    3,693
+    11        3,237   3,383   3,248   3,271   3,421   3,423   3,570   3,511   3,642   3,783     3,671   3,868   3,913   3,486   3,821   4,126   4,184   4,114   3,978   3,809    3,577
+    12        2,914   2,954   3,099   2,959   3,189   3,240   3,326   3,199   3,343   3,303     3,400   2,850   2,979   3,010   2,671   2,897   3,080   3,089   3,025   2,925    2,801
+Other         1,249   1,235    838    1,007   1,054   1,137   1,162   1,194   1,253   1,348     1,364   1,400   1,400   1,400   1,400   1,400   1,400   1,400   1,400   1,400    1,400
+   K-2 13,447 13,685 13,787 13,433 13,323 13,449 13,408 13,062 12,657 11,976                   11,657 11,340 11,180 11,101 10,874 10,715 10,756 10,929 11,189 11,413 11,632
+   3-5 12,548 13,215 13,504 13,056 12,720 12,619 12,572 12,380 12,356 12,261                   12,281 11,966 11,435 10,836 10,504 10,367 10,396 10,327 10,241 10,209 10,244
+   6-8 11,491 11,700 12,000 12,038 12,135 12,235 12,103 11,862 11,457 11,280                   11,262 11,760 11,886 11,660 11,285 10,788 10,263         9,948   9,757   9,654    9,399
+  9-12 13,628 13,856 14,466 14,523 14,777 14,910 15,580 15,540 15,630 15,477                   15,362 14,564 14,614 14,896 15,364 16,014 16,124 15,762 15,126 14,407 13,921
+
+ Total 52,363 53,691 54,595 54,057 54,009 54,350 54,825 54,038 53,353 52,342                   51,926 51,030 50,516 49,894 49,427 49,285 48,938 48,366 47,713 47,082 46,596
+
+
+
+
+                                                                                                 17
+         PPS: Immigration
+         Model                                                                                                                                                                      12/27/00
+
+                                                                                                                                                                                      13:25
+
+         Enrollment by Grade and Year
+                                                                                               Actual > Projected >
+           1990   1991   1992    1993     1994     1995     1996     1997     1998     1999       2000    2001    2002    2003    2004    2005    2006    2007     2008     2009      2010
+        K 4,412 4,473 4,599      4,350    4,398    4,509    4,460    4,099    3,931    3,700     3,743   3,896    3,882   3,867   3,853   3,839   4,048   4,269    4,501    4,746    5,004
+        1 4,589 4,658 4,691      4,607    4,535    4,559    4,566    4,570    4,354    4,103     3,859   3,665    3,771   3,693   3,635   3,639   3,703   3,996    4,288    4,573    4,858
+        2 4,446 4,554 4,497      4,476    4,390    4,382    4,383    4,393    4,372    4,173     4,055   3,795    3,582   3,650   3,567   3,562   3,660   3,798    4,127    4,426    4,719
+        3 4,483 4,513 4,596      4,352    4,299    4,278    4,323    4,296    4,244    4,153     4,118   3,950    3,697   3,486   3,577   3,562   3,640   3,776    3,893    4,171    4,433
+        4 4,193 4,465 4,415      4,422    4,163    4,200    4,111    4,125    4,109    4,135     4,127   4,032    3,873   3,632   3,453   3,593   3,622   3,690    3,758    3,782    3,991
+        5 3,871 4,236 4,493      4,282    4,258    4,141    4,137    3,959    4,003    3,973     4,036   3,995    3,875   3,705   3,476   3,314   3,451   3,442    3,433    3,413    3,382
+        6 4,009 3,928 4,201      4,287    4,104    4,140    4,085    4,002    3,769    3,835     3,896   3,921    3,838   3,699   3,530   3,308   3,143   3,238    3,175    3,110    3,055
+        7 3,824 3,964 3,846      4,008    4,125    3,992    3,995    3,869    3,873    3,614     3,732   3,955    3,962   3,880   3,755   3,594   3,366   3,181    3,246    3,152    3,068
+        8 3,658 3,808 3,953      3,743    3,906    4,104    4,024    3,991    3,815    3,831     3,634   3,906    4,146   4,183   4,139   4,035   3,876   3,632    3,429    3,497    3,394
+        9 3,838 3,896 4,429      4,490    4,315    4,327    4,670    4,634    4,533    4,316     4,286   3,791    4,118   4,445   4,565   4,570   4,477   4,308    4,045    3,830    3,912
+    10 3,639 3,623 3,690         3,803    3,852    3,920    4,013    4,196    4,112    4,075     4,005   4,069    3,638   4,014   4,393   4,536   4,527   4,415    4,240    3,983    3,772
+    11 3,237 3,383 3,248         3,271    3,421    3,423    3,570    3,511    3,642    3,783     3,671   3,875    3,930   3,510   3,858   4,178   4,248   4,192    4,071    3,910    3,673
+    12 2,914 2,954 3,099         2,959    3,189    3,240    3,326    3,199    3,343    3,303     3,400   2,855    2,992   3,032   2,698   2,934   3,128   3,145    3,091    3,002    2,883
+Other     1,249 1,235     838    1,007    1,054    1,137    1,162    1,194    1,253    1,348     1,364   1,400    1,400   1,400   1,400   1,400   1,400   1,400    1,400    1,400    1,400
+   K-2 13,447 13,685 13,787     13,433   13,323   13,449   13,408   13,062   12,657   11,976    11,657 11,356    11,235 11,210 11,056 11,040 11,411 12,062        12,915   13,745 14,580
+   3-5 12,548 13,215 13,504     13,056   12,720   12,619   12,572   12,380   12,356   12,261    12,281 11,977    11,446 10,824 10,506 10,469 10,713 10,908        11,084   11,366 11,806
+   6-8 11,491 11,700 12,000     12,038   12,135   12,235   12,103   11,862   11,457   11,280    11,262 11,783    11,945 11,763 11,424 10,937 10,385 10,051         9,851    9,759    9,517
+  9-12 13,628 13,856 14,466     14,523   14,777   14,910   15,580   15,540   15,630   15,477    15,362 14,591    14,678 15,002 15,514 16,217 16,379 16,060        15,448   14,725 14,242
+
+ Total 52,363 53,691 54,595     54,057   54,009   54,350   54,825   54,038   53,353   52,342    51,926 51,107    50,704 50,199 49,900 50,063 50,289 50,481        50,698   50,995 51,545
+
+
+
+
+                                                                                                 18
+19
+

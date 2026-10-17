@@ -1,0 +1,662 @@
+Portland State University
+PDXScholar
+
+School District Enrollment Forecast Reports                                       Population Research Center
+
+
+July 2002
+
+
+The Path Ahead: Future Enrollments in Portland
+Public Schools, 2001-2010, Based on October 2001
+Enrollments
+Portland State University. Population Research Center
+
+
+
+
+Follow this and additional works at: https://pdxscholar.library.pdx.edu/enrollmentforecasts
+
+   Part of the Urban Studies and Planning Commons
+Let us know how access to this document benefits you.
+
+Recommended Citation
+Portland State University. Population Research Center, "The Path Ahead: Future Enrollments in Portland
+Public Schools, 2001-2010, Based on October 2001 Enrollments" (2002). School District Enrollment
+Forecast Reports. 24.
+https://pdxscholar.library.pdx.edu/enrollmentforecasts/24
+
+
+This Technical Report is brought to you for free and open access. It has been accepted for inclusion in School
+District Enrollment Forecast Reports by an authorized administrator of PDXScholar. Please contact us if we can
+make this document more accessible: pdxscholar@pdx.edu.
+            THE PATH AHEAD:
+
+       FUTURE ENROLLMENTS IN
+
+PORTLAND PUBLIC SCHOOLS, 2001 T0 2010
+
+    Based on October 2001 Enrollments
+
+
+    Prepared by the Population Research Center
+        College of Urban and Public Affairs
+             Portland State University
+
+
+
+
+           Barry Edmonston, Director
+
+           Population Research Center
+                The Urban Center
+            Portland State University
+            Portland, OR 97207-0751
+
+                 July 12, 2002
+                                                                   Table of Contents
+
+EXECUTIVE SUMMARY ............................................................................................................................ 1
+  Main Findings............................................................................................................................................. 1
+  Caveats ....................................................................................................................................................... 1
+INTRODUCTION .......................................................................................................................................... 3
+RECENT ENROLLMENT AND POPULATION TRENDS......................................................................... 3
+METHODS AND DATA ............................................................................................................................... 5
+  Cohort-Component Method ........................................................................................................................ 5
+  Housing Unit Method ................................................................................................................................. 6
+SPECIFIC DEMOGRAPHIC ASSUMPTIONS ............................................................................................ 6
+  Assumptions for Demographic Rates ......................................................................................................... 6
+  Forecast Scenario........................................................................................................................................ 7
+OVERALL ENROLLMENT FORECASTS .................................................................................................. 7
+ENROLLMENT FORECASTS BY GRADE ................................................................................................ 7
+  Kindergarten to grade 2 .............................................................................................................................. 7
+  Grades 3 to 5............................................................................................................................................... 8
+  Grades 6 to 8............................................................................................................................................... 8
+  Grades 9 to 12............................................................................................................................................. 8
+APPENDIX A ................................................................................................................................................ 9
+  Data Sources ............................................................................................................................................... 9
+  Demographic Model ................................................................................................................................... 9
+  Project Staff .............................................................................................................................................. 10
+APPENDIX B............................................................................................................................................... 11
+  Supporting Tables..................................................................................................................................... 11
+                                     THE PATH AHEAD:
+                                FUTURE SCHOOL ENROLLMENTS
+                           IN PORTLAND PUBLIC SCHOOLS, 2000 to 2010
+
+
+                                        EXECUTIVE SUMMARY
+
+
+This report provides a school enrollment forecast, including demographic information, for Portland Public
+Schools. The report considers several factors that are likely to affect the school district's enrollments
+between the present and 2010, including the future number of births, net migrants, and the proportion of
+school-age children and youth enrolled in the public schools.
+
+This is the third annual report that forecasts future enrollments for the Portland Public Schools. Previous
+annual reports were based on October 1999 and October 2000 enrollments; this report relies on October
+2001 enrollments.
+
+To take into account a variety of demographic and enrollment possibilities, this report describes an
+extrapolation of likely future trends for housing, population, and enrollment changes for the ten years
+between 2001 to 2010.
+
+Main Findings
+
+The main findings from the enrollment forecasts, presented in greater detail in this report, are as follows:
+
+   If the Current Trends scenario is taken for the next decade, overall public school enrollments will
+    decrease by about 200 to 500 students each year between 2001 and 2010. These annual decreases will
+    reduce total enrollments from 51,650 students in the 2001-02 school year to about 48,400 in the 2010-
+    2011 school year. This represents a decrease of about 6 to 7 percent in Portland Public Schools
+    enrollments.
+   In a previous report based on October 2000 enrollments, assumptions were made for five different
+    assumptions about future housing and population change in the Portland Public School area. This
+    work demonstrated that there is variation in the range of several thousand students in the forecasts for
+    2010. So, although the current trends forecast is for continuing decreases in school enrollments, there
+    are variations in the forecasts for the size of the declines. It is most likely that school enrollment
+    decreases will continue in the range of 200 to 500 students for the coming decade.
+   Enrollment decreases are likely to occur at all grade levels. If current trends continue, the heaviest
+    declines will occur in grades 3 to 5 and 6 to 8, with reductions of 8 to 9 percent from current levels
+    between the present and 2010. Grades 9 to 12 enrollments would decline by about 6 percent in the
+    same period. Kindergarten to grade 2 enrollments would remain about the same over the coming
+    decade.
+   The immediate outlook is for continued declines, on the order of 300 to 400 students annually, for
+    several years. The next three or four years will make apparent whether the Current Trends scenario is
+    likely to continue. If different conditions appear, then it would be appropriate to revise the enrollment
+    projections, taking into account new assumptions.
+
+Caveats
+
+Forecasting school enrollments, like forecasting anything else, is difficult because it is impossible to know
+all the conditions that will affect enrollments in the future. However, we all rely on forecasting to some
+extent: to decide what to wear by judging the look of the weather or how many schools are needed by
+fathoming the future course of school enrollments. When it comes down to it, we must rely on a forecast in
+order to make decisions today for future planning. Toward the goal of making plans for future enrollments
+in the Portland Public Schools, this report presents a demographic analysis to help make informed
+judgments.
+
+
+
+                                                      1
+Several cautions should be kept in mind in interpreting the enrollment forecasts in this report.
+
+First, the enrollments presented within each of the scenarios are derived from the assumptions themselves.
+But it is not possible to judge, at this time, which of the assumptions or combinations of assumptions may
+be closer to future events. For example, fertility rates are currently fairly low for the population residing in
+the Portland Public Schools area. Fertility rates are likely to change somewhat in the future, perhaps
+becoming a little higher or lower. Based on past trends, fertility rates are unlikely to change dramatically in
+the future. But even modest changes in fertility will influence future enrollments and would make a
+difference from an enrollment based exclusively on the continuation of current trends.
+
+Second, variations in forecasts become larger as time goes on. Most of the students who will enroll in
+Portland Public Schools next year are currently enrolled in the schools this year. This helps to make a more
+accurate forecast for enrollments next year. But, as years progress, enrollments depend increasingly on
+assumptions about the numbers of school-age children and youth that move into and out of the school
+district. We therefore become less confident about enrollment forecasts for longer periods of time.
+
+Finally, there is a temptation in interpreting several forecasts to ask: "Which is the correct forecast?"
+Asking such a question implies that there is need to pick one forecast at present and then base future plans
+on it. The more appropriate use of this report is to consider that there is likely to be some variation around
+the Current Trends forecast in this report and that we will want to update them as future conditions evolve.
+Instead of "picking and planning" right now for one outcome over the next ten years, we urge school
+officials and the public to "monitor and manage" the changing conditions that will affect future school
+enrollments. The Current Trend enrollment forecast presented in this report can best serve as a guideline in
+this process of monitoring and managing.
+
+
+
+
+                                                       2
+                                              INTRODUCTION
+
+This report presents the results of a study conducted by the Population Research Center to address the long-
+range planning needs of the Portland Public Schools. It provides annual enrollment forecasts by grade for
+the Portland Public School district from 2001 to 2010. In addition to the future enrollments that are
+expected from the continuation of current trends, four additional scenarios are presented. The study also
+provides enrollment forecasts for selected grades (K-2, 3-5, 6-8, and 9-12) for each year from 2001 to 2010.
+
+The report is divided into five parts. The first part describes recent enrollment and population trends. This
+is followed in part two by a description of the methods and data used in the development of the population
+and enrollment forecasts. Part three describes the specific demographic assumptions used, the
+circumstances that may change the assumptions and their effect on the forecasts. Part four presents
+enrollment forecasts, for all grade combined, for the school district. Finally, the fifth part shows enrollment
+forecasts for selected grades.
+
+There are also two appendices at the end of the report. Appendix A provides information on data sources,
+the demographic model, and project staff. Appendix B has five supporting tables that show observed
+enrollment by grade for the 1990-1991 to 2001-2002 school years and the forecasted enrollment by grade
+for the 2002-2003 to 2010-2011 school years.
+
+                         RECENT ENROLLMENT AND POPULATION TRENDS
+
+The area within the boundaries of Portland Public Schools includes approximately two-thirds of the City of
+Portland, a small unincorporated area of Multnomah County, and very small portions of the cities of Lake
+Oswego and Beaverton. The school district includes 63 elementary schools, 17 middle schools, 10 high
+schools, and a variety of special programs and schools. The configuration of the grade levels for most
+elementary schools is kindergarten to grade 5; however, eight of the elementary schools have pre-
+kindergarten programs. Middle schools consist of grades 6 to 8. High schools consist of grades 9 to 12.
+
+Total enrollments in the Portland Public Schools increased from 52,400 in 1990 to 54,800 in 1996. From
+1997 to 1999, enrollments declined, to 51,950 in the 2001-2002 school year. Enrollments decreased the
+most in recent years for the kindergarten to grades 2 years, as illustrated in the following figure.
+
+                          Enrollment for Portland Public Schools by Grade Level
+                17,000
+
+                16,000
+
+                15,000
+                                                                                           k-2
+                14,000
+                                                                                           3-5
+                13,000                                                                     6-8
+
+                12,000                                                                     9-12
+
+                11,000
+
+                10,000
+                         90-91 91-92 92-93 93-94 94-95 95-96 96-97 97-98 98-99 99-00
+                                                School Year
+
+
+
+Our analysis begins by examining historic patterns of growth in the Portland Public Schools area since
+1990. These results are discussed more fully in a report entitled Changing Times, Changing Enrollments:
+How Recent Demographic Trends are Affecting Enrollments in Portland Public Schools, prepared in
+conjunction with this report on enrollment forecasts for the Portland Public Schools and Comings and
+Goings Between the Censuses: Factors Affecting Portland Public School Enrollments, completed in 2002
+
+
+
+
+                                                       3
+and based on 1990 and 2000 census data. We reached four main conclusions from our analysis of past
+trends:
+
+            First and foremost, public school enrollments have declined in recent years primarily
+             because there have been sizeable decreases in the number of students entering
+             kindergarten and the early elementary school grades. Smaller numbers of entering
+             students are, in turn, the result of substantial reductions in the number of births --
+             reductions that began in 1991. Because there were fewer births in the early 1990s,
+             fewer students enrolled in school in the late 1990s. The number of births declined in
+             the 1980s primarily because there were decreases in the number of younger couples
+             -- not because there were decreases in the average number of births per couples in
+             the 1980s.
+
+            The number of births has continued to decline in the 1990s. The lower number of
+             births in the second half of the decade has not yet affected school enrollments. But
+             they will add to declines in school enrollments in the future, starting after about
+             2002. Although there was net out-migration of school-age children in the 1980s and
+             1990s, net out-migration of school-age children appears to have increased in the late
+             1990s, further reducing enrollments. The overall effect of a declining number of
+             births and continued out-migration of school-age children has been a decrease of
+             about 6,000 students between 1990 and 2000. Reductions in the number of births in
+             the Portland Public School attendance area has been the main factor causing lower
+             enrollments.
+
+            There is evidence from public, private, and home schooling data on changes in
+             public school capture rates (the proportion of school age children enrolled in
+             Portland Public Schools) that overall Portland Public School capture rates declined
+             between 1990 and 2000. Census data suggest that 86 percent of school-age children
+             in youth, in the kindergarten to grade 12 age groups, attended Portland Public
+             Schools in 1990 and that the rate decreased to 84 percent in 2000. The capture rate
+             between 1990 and 2000 apparently declined most for kindergarten to grade 2,
+             decreased modestly for grades 3 to 8, and increased modestly for grades 9 to 12. The
+             net effect of declining capture rates has been a decrease of about 1,400 students.
+
+            Increased international migration into the Portland metropolitan area has ameliorated
+             the decline in enrollments by adding several thousand foreign-born students to the
+             Portland Public Schools. Immigrant couples are contributing an increasing number
+             of births to the population. Births to immigrants partially counterbalance fertility
+             declines among native-born residents.
+
+Recent annual population growth rates for the Portland Public Schools area have fluctuated in the range of
+0.6 to 0.7 percent since 1990. During the period 1990 to 2001, the resident population in the area increased
+from 398,000 to 434,000, or an increase of 36,000.
+
+Population growth has apparently slacked since 1996, with annual increase of about 7,500 in the district in
+recent years. The population growth rate in the school district area is about the same as in the City of
+Portland.
+
+Most of the land area within the Portland Public Schools area has been developed. There have been,
+however, some “in-fill” developments with new residential construction. In addition, there have been some
+conversions of commercial structure for residential housing. In recent years, we estimate that there have
+been about 1,000 to 1,500 new units added to the housing stock in the Portland Public Schools area.
+
+
+
+
+                                                     4
+                                          METHODS AND DATA
+
+This study relies on two approaches for making district-wide school enrollment forecasts: a cohort-
+component method and a housing unit method. Specific data sources are described in Appendix A.
+
+Cohort-Component Method
+
+This report primarily relies on a demographic forecasting method called “cohort-component method.” It
+models future populations and school enrollments as outcomes of demographic events that occur over time.
+These events include births, deaths, and migration into and out of the school district. The district
+population grows when there are births and in-migrants; the population decreases when there are deaths and
+out-migrants. These events occur in certain age groups, or birth cohorts. For example, people tend to
+move most often in the ages 18 to 30 years. The elderly are more likely to die than younger persons. The
+demographic model is based on age-specific rates for births, deaths, and in- and out-migration. The model
+begins with the resident population in the Portland Public School area in 1990 and moves it through time to
+the present, and then forward to 2010. By making assumptions about the levels of births, deaths, and
+migration, we produce a population that serves as the basis for calculating the school-age population and
+the numbers of children attending Portland Public Schools.
+
+Most school-age children attend public schools; however, some children and youth attend private schools
+and others may attend schools outside of the district or be home-schooled. The model addresses this issue
+by calculating the proportion of school-age children “captured” or enrolled in the public schools, and
+making assumptions about future “capture rates.”
+
+The cohort-component method relies on the availability of accurate data on the age and sex composition of
+the population residing in the Portland Public School area. The most accurate local population data is from
+the U.S. Census of Population. Data from the 1990 and 2000 censuses are used for the basis of the local
+population in this report. Data for births and deaths are from vital statistics reported for the Portland Public
+School area from 1990 to 2000, as collected by the Oregon Division of Vital Statistics. Data on net
+migration for the local area are taken from the 1990 and 2000 censuses, a special household survey
+conducted by the U.S. Census Bureau in Multnomah County in 1996 (the 1996 American Community
+Survey), and annual population estimates prepared by the Population Research Center.
+
+We use the cohort-component method to develop the enrollment forecast for the Portland Public Schools
+district, starting with the initial population in 2000. The 2000 census population was organized into five-
+year age groups (for example, 0-4, 5-9, and so on). Each age group was survived five years at a time, using
+appropriate survival probabilities by age and sex. These survival probabilities represent the likelihood of
+people surviving five years, taking mortality into account. The process is repeated for each five-year
+projection until 2010.
+
+During each five-year period, births occur to the resident population. The number of births in the Portland
+Public School district are calculated on the basis of the number of women in the childbearing years and the
+probability that they will have a live birth. The live birth probabilities are determined on the basis of the
+most recent birth registration data for the Portland Public School population. Newborns are “survived” into
+the population aged 0-4 for the five-year projection; afterwards, they survive through time like the rest of
+the population.
+
+The estimate of in-migration and out-migration rates is a challenge for local population forecasts. In
+reality, the model is based on net migration rates – the difference between the in- and out-migration rates.
+If there are more in- than out-migrants, then there is a net in-migration. If in-migrants are fewer than out-
+migrants, then there is a net out-migration. Net migration rates were calculated first for the Portland Public
+School population on the basis of the experience between the 1990 and 2000 censuses. The rates were then
+adjusted in order to produce a population by age and sex that was as close as possible to the population in
+the U.S. Census Bureau’s 1996 American Community Survey and the 2000 decennial census. The
+migration data were further modified in order to be as close as possible to current population estimates
+
+
+
+
+                                                       5
+prepared by the Population Research Center and the actual enrollments experienced by the Portland Public
+Schools from 1990 to 2000.
+
+Housing Unit Method
+
+Because the cohort-component method does not explicitly account for such events as the construction of
+new housing in the area, a different version of the model was developed to adjust for the ways in which
+future housing trends would affect the local area population.
+
+We used data on reports by the City of Portland on the location of new residential housing, demolitions of
+older housing, and either conversions of commercial structures to residential housing or conversions of
+residential housing to commercial use for the Portland Public School area since 1990. Based on 2000
+census information on the number of residential units, this allows us to make adjustments of housing to the
+present.
+
+We made assumptions about changes in the number of persons per housing unit, vacancy rates, and the
+number of school-age children per housing by housing type (that is, single or multiple unit structures). We
+also made assumptions about future housing change in the Portland Public School areas and forecast the
+implications for the number of school-age children. We used the results to double-check the projections
+that we obtained using the cohort-component method. The forecasts reported in this study rely on the
+cohort-component method, but they were compared to the housing unit methods to ensure that the two
+methods produce closely similar results.
+
+                             SPECIFIC DEMOGRAPHIC ASSUMPTIONS
+
+We make a “current trends” school enrollment forecast for Portland Public Schools assuming that current
+fertility, mortality, and net migration will continue relatively unchanged for the next ten years. This further
+assumes that there will be about 1,500 housing units added each year within the Portland Public Schools
+area and that the age-sex profile of net migrants will remain relatively constant.
+
+Assumptions for Demographic Rates
+
+The enrollment forecast involves demographic assumptions for fertility, mortality, and migration.
+
+Fertility rates. Fertility rates have been relatively stable in Oregon communities for the past thirty years.
+There are variations, however, between communities. Based on recorded births for the population living in
+the Portland Public Schools area, the average number of children born to women in 1990 was about 2.0, or
+about the same as the average for the state of Oregon. The average number of children born apparently
+increased slightly, to about 2.04, in 1995. Since 1995, fertility rates have dropped considerably, reflecting
+the increasing proportion of single persons moving into Portland and the decreasing number of younger
+couples. The most recent birth data suggest that the average number of children born to women has fallen
+to about 1.7 in 1998. An overall fertility of 1.7 children is assumed for the forecast.
+
+Mortality rates. Survival rates for a population reflect the chances for a birth cohort surviving to the next
+five-year period. Survival rates are very high for younger ages and almost 100 percent of school-age
+children survive five-year periods. Even if we had made different assumptions about the plausible future
+course of mortality, they would have had only modest effects on the school enrollment forecasts because
+virtually all school-age children survive from one period to the next.
+
+Migration rates. Migration assumptions are the most difficult to make for a local area population forecast.
+Migration is affected by employment opportunities, the availability and cost of housing – in Portland and in
+comparison to nearby areas -- and a variety of other social and economic factors that influenced decisions
+to move. For this reason, it is important to consider many factors in thinking about the likely future course
+of migration in the Portland Public Schools area.
+
+
+
+
+                                                      6
+We make an initial estimate of net migration based on a comparison of the population living in the Portland
+Public Schools area in 1990 and 2000.
+
+Capture Rates. We assume that the capture rates (the proportion of school-age children and youth residing
+the Portland Public School attendance area who attend public schools) declined slightly between 1990 and
+2000, based on estimates using 1990 and 2000 census data. We assume that the 2000 capture rates remain
+unchanged for the enrollment projection period.
+
+Forecast Scenario
+
+The population residing in the Portland Public School area is diverse and changing. We do not have a
+magical crystal ball that allows us to predict with any certainty what will happen in the future. For
+purposes of making enrollment forecasts, we made assumptions about what might happen to enrollments
+assuming a continuation of current trends. We do not necessarily include all the complexities of factors that
+may change in the future.
+
+Specially, our Current Trends Scenario makes the following assumptions. This scenario assumes that the
+demographic trends occurring at present will continue unchanged through 2010. The scenario also assumes
+that the proportion of school-age children enrolled in the public schools will continue at present levels.
+The demographic assumptions for this scenario imply that there will be about 1,500 housing units added
+each year in the Portland Public School area. This is within the range of housing changes during recent
+years.
+
+                                OVERALL ENROLLMENT FORECASTS
+
+There were 51,650 students enrolled in Portland Public Schools in the 2001-02 year. Under the Current
+Trends scenario considered here, there will be decreases in school enrollments. It seems clear that public
+school enrollments are likely to decline in coming years. The extent of the decreases depends upon
+changes that will only become clearer in the next few years.
+
+If current trends continue, enrollments would continue to drop by about 200 to 500 each year. The results
+suggest that the decline would be fairly even over the coming decade, with only small fluctuations each
+year. Overall, 2010 enrollments would be more than five percent smaller than at present.
+
+The overall school enrollment forecasts, from kindergarten to grade 12, for the Portland Public Schools are
+as follows:
+
+
+Scenario:    Total      1990       1995      2000         2005      2010
+Enrollments
+Current Trends         52,363     54,350     51,926       50,338   48,383
+
+
+                                ENROLLMENT FORECASTS BY GRADE
+
+In this part of the report, we present enrollment forecasts for selected grade categories: kindergarten to
+grade 2, grades 3 to 5, grades 6 to 8, and grades 9 to 12. Appendix B displays enrollment forecasts for each
+grade, from the present to 2010.
+
+Kindergarten to grade 2
+
+Enrollments in kindergarten to grade 2 fluctuated in the range of 13,300 to 13,800 during 1990 to 1996.
+Since 1996, K-2 enrollments have declined by about 1,700 students, to 11,500 in the 2001-02 school year.
+If current trends persist, K-2 enrollments will remain at constant levels, dropping to 11,300 in 2005 and
+then increasing to 11,500 in 2010.
+
+
+
+                                                      7
+Scenario:               1990       1995      2000         2005     2010
+Kindergarten to
+Grade 2
+Enrollments
+Current Trends         13,447     13,449     11,657       11,295   11,512
+
+
+Grades 3 to 5
+
+Public school enrollments in grades 3 to 5 have varied in the range of 12,500 to 13,600 students during the
+past ten years. Grades 3 to 5 enrollments are likely to decline, however, in the coming years, from the level
+of 12,000 in 2001-2002. If current conditions continue, enrollments will decrease steadily to 2010,
+reaching a level of about 11,000 in 2010 -- 1,000 fewer students than at present, and a decline of 8 to 9
+percent from current enrollments.
+
+Scenario: Grades 3      1990       1995      2000         2005     2010
+to 5 Enrollments
+Current Trends         12,548     12,619     12,281       11,399   10,963
+
+
+Grades 6 to 8
+
+Enrollments in grades 6 to 8 increased from 1990 to 1995, reaching a peak of 12,200 in the 1995-1996
+school year. Since 1995, enrollments have declined by about 1,000 students, to 11,300 in the 2001-2002
+school year. If current trends continue, grades 6 to 8 enrollments will fluctuate modestly around current
+levels until 2004. Afterwards, the Current Trends Scenario suggests that enrollments will decrease
+markedly, dropping by about 1,000 students, or about 8 to 9 percent, to 10,300 in 2010.
+
+Scenario: Grades 6      1990       1995      2000         2005     2010
+to 8 Enrollments
+Current Trends         11,491     12,235     11,262       11,084   10,333
+
+
+Grades 9 to 12
+
+High school enrollments in grades 9 to 12 increased from 13,600 in 1990 to about 15,600 in 1996. Since
+1996, enrollments have decreased by about 300 students, to 15,300 students in the 2001-02 school year. If
+current trends continue, grades 9 to 12 enrollments will decline slightly during the next four to five years
+and then decrease steadily to about 14,300 students in 2010, an overall decrease of about 1,000 students
+between the 2001-2002 and 2010-2011 school years.
+
+Scenario: Grades 9      1990       1995      2000         2005     2010
+to 12 Enrollments
+Current Trends         13,628     14,910     15,362       15,189   14,260
+
+
+
+
+                                                      8
+                                               APPENDIX A
+
+Data Sources
+
+This report is based on data obtained from several sources, including:
+
+   Decennial Census. The decennial census is the only source of data collected for small areas across the
+    nation. We used 1990 and 2000 census data to calculate the population, by age and sex, residing in the
+    Portland Public School area. We compared the changes from 1990 to 2000 to develop an estimate of
+    the age-sex profile for net migrants.
+
+   American Community Survey. This is a new U.S. Census Bureau survey that is being tested in
+    Multnomah County and several other sites in the United States. It was begun in 1996, with a large
+    survey of households in Multnomah County, followed by smaller surveys in 1997 and following years.
+    The American Community Survey asks the same questions as the 1990 census. We used the 1990 and
+    2000 Censuses and 1996 American Community Survey data to develop estimates of household and
+    population change, including estimates of net migration for the Portland Public School area.
+
+   Portland Public School Enrollment Data. Portland Public School staff furnished information on
+    enrollments for recent decades, including enrollments by grade for the past decade. We also obtained
+    data files on all students in 1993 and 1996-2001 with their residential addresses. These data are
+    valuable for examining the in and out-flows of students in elementary school attendance areas.
+
+   Birth and Death Data. Information on births and deaths reported for the Portland Public School area
+    were obtained from the Oregon Health Division. The data were used for two purposes. One use was
+    for calculating overall fertility and mortality rates for the School District. These rates were used in the
+    demographic model. The second use was to note the residence of the births in order to examine the
+    correspondence between births and enrollment changes.
+
+   Immigration Data. The Immigration and Naturalization Service provides limited immigration data for
+    local areas. Their data are restricted to the numbers of legal immigrants and refugees who declare that
+    they intend to live in the metropolitan Portland area at the time of their arrival in the United States.
+    Most of these arrivals do, in fact, move to their intended place of residence. The INS data are
+    tabulated for countries-of-origin, providing information each year about how many legal immigrants
+    and refugees arrive in metropolitan Portland.
+
+   Private Schooling Data. We rely on two sources of information on private schooling for this report.
+    One source is from the Oregon Department of Education. These data originate from reports at the
+    local level about the number of students who attend private schools. A second source was obtained by
+    a survey that we conducted in February 2000. We phoned all known private schools in the Portland
+    area, requesting information about their enrollments and the places of residence for their students. We
+    compared this information to the reports obtained by the Oregon Department of Education.
+
+   Home Schooling Data. Information on the number of students in home schooling was obtained from
+    the Multnomah Educational Service Department.
+
+Demographic Model
+
+Our demographic enrollment model uses a "cohort-component" model, moving cohorts or age groups
+through time based on the components of birth, death, and migration. Specifically, the model takes a
+beginning population in the Portland Public School District by age and sex, and moves the population five-
+years at a time, subject to fertility, mortality, and migration. The model uses the following definition:
+
+         Population in 1995 = Population in 1990 + Births - Deaths +/- Net In-Migration
+
+
+
+
+                                                      9
+The next step in the model is to calculate school enrollment based on the number of children in each age
+group. To do this, we assign children and youth in the school ages, for single age groups, to grade levels,
+kindergarten to 12th grade, assuming that most children are enrolled in school. Using 2000 census data, we
+calculate a "capture rate" that expresses the proportion of children in a grade level that are enrolled in the
+Portland Public Schools, using 2000 school enrollment data.
+
+For the forecast, we used birth rates based on Multnomah County data published by the Oregon Health
+Division's vital statistics office. Death rates are from mortality rates for the State of Oregon.
+
+Net migration is a key variable for our analysis. We make an initial estimate based on a comparison of the
+Portland Public School District's 1990 and 2000 population by age and sex. We adjust the historical net in-
+migration data for Portland Public School District's population in order to predict adequately enrollment
+from 1990 to 2001. This "calibration" of the model is useful. It makes sure that the assumptions that we
+make about births, deaths, and migration correspond closely to actual changes in school enrollment from
+1990 to 2000.
+
+Project Staff
+
+This report involves the work of faculty and staff at Portland State University, including:
+ Barry Edmonston is the Director, Population Research Center, and Professor, School of Urban Studies
+    and Planning. He was responsible for all aspects of the study and the preparation of the final report.
+ Richard Lycan is Professor Emeritus of Geography, Population Research Center. He developed
+    population and fertility estimates, analysis of the relationship of housing and enrollments, and offered
+    his expertise for other data analyses.
+ Risa Proehl is Research Assistant at the Population Research Center. She developed the research on
+    population, enrollment, and migration trends and directed the data collection on private and home
+    schooling enrollments.
+
+The work for this report could not have been completed without the assistance and contributions of
+Portland Public School staff including Pam Brown, Cary Hampton, and Theresa White.
+
+Dozens of educational staff also cooperated with the work, providing enrollment figures for private schools
+operating in the metropolitan Portland area. Although these people are too numerous to list, we thank
+them for their cooperation and assistance.
+
+Our thanks also to Jennifer Woodward, Oregon Health Division, for her assistance in accessing the birth
+records for Multnomah County and to Bob Jones, Oregon Department of Education, who helped with the
+use of Oregon's private school data.
+
+
+
+
+                                                     10
+ APPENDIX B
+
+Supporting Tables
+
+
+
+
+       11
+PPS: Current Trends Model
+
+
+
+        Enrollment by Grade and Year
+                                                                                                              Actual > | | Projected >
+           1990     1991    1992       1993     1994     1995     1996     1997     1998     1999         2000     2001     2002         2003    2004     2005     2006     2007     2008     2009     2010
+   K      4,412    4,473    4,599      4,350    4,398    4,509    4,460    4,099    3,931    3,700        3,743    3,711    3,716    3,720       3,725    3,730    3,754    3,778    3,802    3,827    3,851
+   1      4,589    4,658    4,691      4,607    4,535    4,559    4,566    4,570    4,354    4,103        3,859    3,947    3,873    3,839       3,797    3,767    3,755    3,773    3,793    3,811    3,832
+   2      4,446    4,554    4,497      4,476    4,390    4,382    4,383    4,393    4,372    4,173        4,055    3,876    3,897    3,822       3,808    3,799    3,794    3,793    3,806    3,817    3,829
+   3      4,483    4,513    4,596      4,352    4,299    4,278    4,323    4,296    4,244    4,153        4,118    3,995    3,887    3,916       3,828    3,796    3,778    3,765    3,751    3,752    3,754
+   4      4,193    4,465    4,415      4,422    4,163    4,200    4,111    4,125    4,109    4,135        4,127    3,972    3,924    3,837       3,888    3,816    3,791    3,767    3,739    3,708    3,697
+   5      3,871    4,236    4,493      4,282    4,258    4,141    4,137    3,959    4,003    3,973        4,036    4,026    3,916    3,868       3,764    3,787    3,695    3,649    3,603    3,555    3,512
+   6      4,009    3,928    4,201      4,287    4,104    4,140    4,085    4,002    3,769    3,835        3,896    3,863    3,865    3,772       3,755    3,678    3,711    3,616    3,560    3,505    3,451
+   7      3,824    3,964    3,846      4,008    4,125    3,992    3,995    3,869    3,873    3,614        3,732    3,734    3,742    3,767       3,699    3,691    3,609    3,630    3,528    3,468    3,411
+   8      3,658    3,808    3,953      3,743    3,906    4,104    4,024    3,991    3,815    3,831        3,634    3,709    3,733    3,752       3,786    3,715    3,693    3,602    3,623    3,527    3,471
+   9      3,838    3,896    4,429      4,490    4,315    4,327    4,670    4,634    4,533    4,316        4,286    4,089    4,171    4,221       4,266    4,314    4,220    4,184    4,081    4,112    4,007
+  10      3,639    3,623    3,690      3,803    3,852    3,920    4,013    4,196    4,112    4,075        4,005    4,060    3,944    4,018       4,006    3,972    3,958    3,848    3,817    3,733    3,767
+  11      3,237    3,383    3,248      3,271    3,421    3,423    3,570    3,511    3,642    3,783        3,671    3,717    3,690    3,560       3,602    3,575    3,534    3,519    3,424    3,400    3,328
+  12      2,914    2,954    3,099      2,959    3,189    3,240    3,326    3,199    3,343    3,303        3,400    3,427    3,418    3,397       3,282    3,329    3,309    3,274    3,263    3,177    3,157
+Other     1,249    1,235     838       1,007    1,054    1,137    1,162    1,194    1,253    1,348        1,364    1,524    1,392    1,385       1,378    1,371    1,359    1,348    1,337    1,326    1,315
+
+
+ K-2     13,447   13,685   13,787   13,433     13,323   13,449   13,408   13,062   12,657   11,976    11,657      11,534   11,485   11,381      11,330   11,295   11,303   11,344   11,401   11,454   11,512
+  3-5    12,548   13,215   13,504   13,056     12,720   12,619   12,572   12,380   12,356   12,261    12,281      11,993   11,728   11,621      11,480   11,399   11,263   11,181   11,093   11,015   10,963
+  6-8    11,491   11,700   12,000   12,038     12,135   12,235   12,103   11,862   11,457   11,280    11,262      11,306   11,340   11,291      11,240   11,084   11,013   10,848   10,711   10,500   10,333
+ 9-12    13,628   13,856   14,466   14,523     14,777   14,909   15,580   15,540   15,630   15,477    15,362      15,293   15,223   15,196      15,156   15,189   15,021   14,825   14,585   14,422   14,260
+Other     1,249    1,235     838       1,007    1,054    1,137    1,162    1,194    1,253    1,348        1,364    1,524    1,392    1,385       1,378    1,371    1,359    1,348    1,337    1,326    1,315
+Total    52,363   53,691   54,595   54,057     54,009   54,349   54,825   54,038   53,353   52,342    51,926      51,650   51,168   50,874      50,584   50,338   49,960   49,545   49,126   48,717   48,383
+
+
+
+
+                                                                                                     12
+
