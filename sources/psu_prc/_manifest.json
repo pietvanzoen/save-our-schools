@@ -88,5 +88,20 @@
   "bytes": 564882,
   "sha256": "10b7181fce87d6317713d479a14980489cb54f53f6cf06b5eba0b3e93d9e8b82",
   "contents": "school totals: K-5 pp.63-64, 6-8 p.65, 9-12 p.66"
+ },
+ {
+  "path": "psu_prc/psu_prc_enrollment_forecast_2007-08_base_oct2006.pdf",
+  "title": "Portland Public Schools Enrollment Forecasts, 2007-08, Based on October 2006 Enrollments",
+  "publisher": "Population Research Center, Portland State University",
+  "report_date": "2007-08-01",
+  "base_enrollment": "Oct 2006",
+  "edition_label": "2007-08",
+  "url": null,
+  "landing_page": "https://pdxscholar.library.pdx.edu/enrollmentforecasts/26",
+  "obtained": "PDF attached by the user in chat 2026-10-16; landing-page URL is printed on the PDF cover page",
+  "added_at": "2026-10-16",
+  "bytes": 1006756,
+  "sha256": "680f5b0209aca17c893542446474b7c37e8766693107f2d5af0b84e0b32588fb",
+  "contents": "Appendix C school tables: K-2 pp.103-104, 3-5 pp.105-106, 6-8 pp.107-108, 9-12 p.109, Total K-12 by school pp.110-113 (history 2004-05 to 2006-07, forecast 2007-08 to 2015-16)"
  }
 ]
