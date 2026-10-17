@@ -8,7 +8,7 @@
 [NEWS:<id>]                -> the article URL in sources/news/index.jsonl
 [PPS:<path> p.N]           -> the original pps.net / Google Drive URL from sources/pps_net/_manifests (#page=N)
 [MTG:<date>/<meetingId>]   -> the BoardBook meeting agenda
-[AUDIO:<path>@H:MM:SS]     -> the archived transcript on GitHub
+[AUDIO:<path>@H:MM:SS]     -> the archived audio on GitHub ([AUDIO:<path>@L<n>] -> line n of the archived transcript)
 [LTR:<stem> L<n>]          -> the archived letter on GitHub (#L<n>)
 
 A tag becomes [TAG](url), so the tag text stays searchable. Tags already linked are left alone.
@@ -75,7 +75,9 @@ def url_for(tag):
         mid = body.split("/")[-1]
         return MTG.get(mid) or None
     if kind == "AUDIO":
-        stem = body.split("@")[0]
+        stem, _, at = body.partition("@")
+        if at.startswith("L"):  # transcript-only interview: line in the raw transcript
+            return GH + "sources/audio/" + stem + ".transcript.txt#" + at
         return GH + "sources/audio/" + stem + ".mp3"
     if kind == "LTR":
         m = re.match(r"(\S+)(?:\s+L(\d+))?", body)

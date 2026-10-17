@@ -1,0 +1,5 @@
+raw_label,label,role,evidence,confidence
+OPB,Dave Miller (host),"Host, OPB Think Out Loud","Raw transcript labels the host only as ""OPB""; Armstrong addresses him as ""Dave"" (L116); Dave Miller hosts Think Out Loud and hosted the Oct 13 segment this one follows up (""On Tuesday, we talked to the chair of the school board"", L2)",medium
+Dr. Kimberlee Armstrong,Kimberlee Armstrong (PPS Superintendent),"Superintendent, Portland Public Schools (guest)","Labeled by name in the raw transcript; introduced by the host as the superintendent (L4) and thanked by name at the end (L181, L187)",high
+Parent 1 Voicemail,Voicemail 1 (parent of two PPS students),"Member of the public: parent of two PPS students whose neighborhood school would close and whose focus-option school would be affected by boundary and program changes","Introduced by the host as a voicemail from a parent (L24); self-describes (L27)",high
+Parent 2 Voicemail,Voicemail 2 (Sellwood parent and PPS teacher),"Member of the public: Sellwood parent who is also a PPS teacher; asks what 360 students means for class size","Self-describes at L65",high

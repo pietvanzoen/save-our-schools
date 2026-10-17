@@ -17,7 +17,7 @@ and how board members and senior staff think and change positions over time. Rou
 2. `analysis/` is derived. Every factual claim carries a citation:
    - BoardBook doc: `[BB:<docId> p.<page>]` (page = PDF page; text files separate pages with \f)
    - Video: `[YT:<videoId>@H:MM:SS]` (timestamp from the transcript line)
-   - Audio: `[AUDIO:<path under sources/audio/ without .mp3>@H:MM:SS]` (turn start in `analysis/audio_transcripts/`)
+   - Audio: `[AUDIO:<path under sources/audio/ without .mp3>@H:MM:SS]` (turn start in `analysis/audio_transcripts/`); transcript-only interviews (no audio): `[AUDIO:<path without .transcript.txt>@L<line>]` (line in the raw transcript)
    - Meeting: `[MTG:<YYYY-MM-DD>/<meetingId>]`
    - pps.net / bond.pps.net files: `[PPS:<path under sources/>]` or full URL
    - Spreadsheet cells: `[PPS:<path under sources/>#<tab>!R<row>]` (row as in the xlsx; tab name as in the xlsx)

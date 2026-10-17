@@ -50,9 +50,11 @@ def rows():
         head = [l for l in txt.read_text().splitlines() if l.startswith("# ")]
         title = head[0][2:] if head else txt.stem
         audio = next((l.split("Audio: ", 1)[1] for l in head if l.startswith("# Audio: ")), "")
-        cite_base = re.sub(r"^sources/audio/|\.mp3$", "", audio) or txt.stem
+        cite = next((l.split("Cite: ", 1)[1] for l in head if l.startswith("# Cite: ")), "")
+        cite_base = cite or re.sub(r"^sources/audio/|\.mp3$", "", audio) or txt.stem
+        if cite and not audio.startswith("sources/"): audio = f"sources/audio/{cite}.transcript.txt"
         for line in txt.read_text().splitlines():
-            m = re.match(r"^\[(\d+:\d\d:\d\d)\] ([^:]+): (.*)$", line)
+            m = re.match(r"^\[(\d+:\d\d:\d\d|L\d+)\] ([^:]+): (.*)$", line)
             if m:
                 yield ("transcript", txt.name[:10], title, audio, f"[AUDIO:{cite_base}@{m.group(1)}]", f"{m.group(2)}: {m.group(3)}", m.group(2))
     # PDFs (page level)

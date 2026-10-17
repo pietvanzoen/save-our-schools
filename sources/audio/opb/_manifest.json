@@ -22,5 +22,26 @@
    "speakers": "analysis/audio_transcripts/speakers_2026-10-13_opb-think-out-loud.csv",
    "corrections_log": "analysis/audio_transcripts/corrections_2026-10-13_opb-think-out-loud.csv"
   }
+ },
+ {
+  "path": null,
+  "program": "Think Out Loud (OPB)",
+  "segment_title": "Portland Public Schools Superintendent answers questions about proposed school closures",
+  "segment_page": "https://www.opb.org/article/2026/10/16/portland-public-schools-superintendent-answers-questions-about-proposed-school-closures/",
+  "show_page": "https://www.opb.org/show/thinkoutloud/",
+  "air_date": "2026-10-16",
+  "guest_per_opb_page": "Kimberlee Armstrong, Superintendent, Portland Public Schools",
+  "audio": "Not archived. The OPB segment page (read 2026-10-16 via WebFetch; page dated Oct. 16, 2026, 1 p.m., byline Allison Frost) carries no audio file or transcript.",
+  "transcript": {
+   "raw_export": "audio/opb/2026-10-16_think-out-loud_pps-closures_kimberlee-armstrong.transcript.txt",
+   "raw_sha256": "bac9849f87c43d77280b064a341fdc0914d2e2be629841216290f6f2c9e819bb",
+   "raw_bytes": 20360,
+   "raw_provenance": "Plain-text, speaker-labeled transcript (no timestamps) attached by the repository owner in chat on 2026-10-16 with the OPB page as its source. Who produced it is not stated; it reads as machine speech-to-text with light speaker labeling. Not verified against the broadcast.",
+   "added_at": "2026-10-16",
+   "corrected": "analysis/audio_transcripts/2026-10-16_opb-think-out-loud_kimberlee-armstrong.txt",
+   "speakers": "analysis/audio_transcripts/speakers_2026-10-16_opb-think-out-loud.csv",
+   "corrections_log": "analysis/audio_transcripts/corrections_2026-10-16_opb-think-out-loud.csv",
+   "citation": "[AUDIO:opb/2026-10-16_think-out-loud_pps-closures_kimberlee-armstrong@L<line>] (line in the raw transcript where the turn starts)"
+  }
  }
 ]
