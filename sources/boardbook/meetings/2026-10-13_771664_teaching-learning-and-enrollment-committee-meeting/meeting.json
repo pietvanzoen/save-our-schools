@@ -6,7 +6,9 @@
  "meeting_type": "Committee (Teaching, Learning, and Enrollment Committee)",
  "location": "Dr. Matthew Prophet Education Center",
  "cancelled": false,
- "videos": [],
+ "videos": [
+  "https://www.youtube.com/watch?v=As3VpeDGx70&t=5217s"
+ ],
  "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=771664",
  "minutes_url": null,
  "supplementals_url": null,
@@ -33,10 +35,10 @@
    "description": "",
    "attachments": [
     {
-     "document_id": "14540954",
+     "document_id": "14549009",
      "name": "TLE Presentation: DLI Programs",
-     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14540954",
-     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14540954?org=915"
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14549009",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549009?org=915"
     }
    ]
   },

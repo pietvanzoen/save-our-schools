@@ -1,0 +1,149 @@
+{
+ "note": "Refresh of pps.net rightsizing pages and newly linked files, 2026-10-18. Snapshots are dated copies; the original files from 2026-10-11 are kept for comparison. Pages whose main text was unchanged (videos, segc-documents, timeline, how-could-your-school-be-impacted, feeder-patterns) were not re-saved. https://www.pps.net/fs/pages/46267 (maps) now returns 404.",
+ "files": [
+  {
+   "file": "sources/pps_net/rightsizing/rightsize_landing_2026-10-18.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsize",
+   "title": "Rightsize page snapshot: rightsize",
+   "found_on": "refresh 2026-10-18",
+   "fetched_at": "2026-10-18",
+   "sha256": "634c35232df321313751c02a90a2d5c08b99d4aada86e7199fe6c3670080e312",
+   "bytes": 155977,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "compare_with": "sources/pps_net/rightsizing/rightsize_landing.html"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/faq_2026-10-18.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/frequently-asked-questions",
+   "title": "Rightsize page snapshot: frequently-asked-questions",
+   "found_on": "refresh 2026-10-18",
+   "fetched_at": "2026-10-18",
+   "sha256": "ba6fa320152e08cc89e1e579ea18af2b92e26243b337c1b72bbed571b286e252",
+   "bytes": 112050,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "compare_with": "sources/pps_net/rightsizing/faq.html"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/presentations_2026-10-18.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+   "title": "Rightsize page snapshot: rightsizing-presentations",
+   "found_on": "refresh 2026-10-18",
+   "fetched_at": "2026-10-18",
+   "sha256": "0338e93f47971561df27c7a68b39a4c80c7f7f90eb28d6d7ecf8fdd3d46f382a",
+   "bytes": 109305,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "compare_with": "sources/pps_net/rightsizing/presentations.html"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/calendar_2026-10-18.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/calendar",
+   "title": "Rightsize page snapshot: calendar",
+   "found_on": "refresh 2026-10-18",
+   "fetched_at": "2026-10-18",
+   "sha256": "55cc9ce9004bf81b1a90df1ebdf4c1054603f706f82816904c6bbd5df0e16f1c",
+   "bytes": 106166,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "compare_with": "sources/pps_net/rightsizing/calendar.html"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/scenarios_2026-10-18.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+   "title": "Rightsize page snapshot: scenarios",
+   "found_on": "refresh 2026-10-18",
+   "fetched_at": "2026-10-18",
+   "sha256": "d7bc468d38a69c53e75090ec73794bddf4c1d3cab1c7eeb0eb96452e537e68c1",
+   "bytes": 93261,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "compare_with": "sources/pps_net/rightsizing/scenarios.html"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/dashboard_2026-10-18.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/dashboard",
+   "title": "Rightsize page snapshot: dashboard",
+   "found_on": "refresh 2026-10-18",
+   "fetched_at": "2026-10-18",
+   "sha256": "7ec1a9a53d42023131a3750f9da0918b75b4cdd57ae724b8de5fc2280e4669f1",
+   "bytes": 75994,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "compare_with": null,
+   "note": "Page embeds a Power BI report (District Rightsizing & School Boundary Proposal Dashboard): https://app.powerbi.com/view?r=eyJrIjoiZTYxZThjOWUtZDAyZS00YmFkLWI4YWUtOTZiOGUxOTAxNWMzIiwidCI6ImQwOGRmYzk0LWEyM2MtNDRlNC04YjhkLTRhYmM0MGRkYTlhZSIsImMiOjZ9&pageName=ced21964a71d5f543374 . Report data not archived."
+  },
+  {
+   "file": "sources/pps_net/rightsizing/presentations/2026-04-11_boe_engagement_session.pdf",
+   "url": "https://drive.google.com/file/d/1ciVxwPnTPL7gFBQ11HTqoYtJcA0ANt8u/view",
+   "title": "4/11/2026 - Rightsizing BOE Public Engagement Sessions",
+   "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+   "fetched_at": "2026-10-18",
+   "sha256": "11c46b7f82dfd94a18f21d80039cad84da8c5f227b745b4b822c14e84607d144",
+   "bytes": 3399014,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "1ciVxwPnTPL7gFBQ11HTqoYtJcA0ANt8u"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/presentations/2026-04-20_boe_engagement_session.pdf",
+   "url": "https://drive.google.com/file/d/151ifLsgOveYbBQXHZxTDy_pzG_065__f/view",
+   "title": "4/20/2026 - Rightsizing BOE Public Engagement Sessions",
+   "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+   "fetched_at": "2026-10-18",
+   "sha256": "0c5c64d5233508e8e4a43ec6501bdb89821803ba87c6e0f3d636060b94a88b13",
+   "bytes": 5353982,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "151ifLsgOveYbBQXHZxTDy_pzG_065__f"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/presentations/2026-04-22_boe_engagement_session.pdf",
+   "url": "https://drive.google.com/file/d/1_NcfKXP0dDaX0wUMdD1hmAslKsHVwYaX/view",
+   "title": "4/22/2026 - Rightsizing BOE Public Engagement Sessions",
+   "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+   "fetched_at": "2026-10-18",
+   "sha256": "d54e3bfcccbe7e6d8930739014f63a91b111f0abc161ae961719b5f4a12c41f4",
+   "bytes": 3998607,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "1_NcfKXP0dDaX0wUMdD1hmAslKsHVwYaX"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/presentations/2026-04-25_boe_engagement_session.pdf",
+   "url": "https://drive.google.com/file/d/1GnRQMGDT2ydlCYxZjRCmauilM4JWLHct/view",
+   "title": "4/25/2026 - Rightsizing BOE Public Engagement Sessions",
+   "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+   "fetched_at": "2026-10-18",
+   "sha256": "42faea7dc93873fb49e3037c9602387d9c2ec298e4a9490a0ddad957f3206c32",
+   "bytes": 3134760,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "1GnRQMGDT2ydlCYxZjRCmauilM4JWLHct"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/presentations/2026-04-27_boe_engagement_session.pdf",
+   "url": "https://drive.google.com/file/d/1McTx3QIFSwb0Iv7pYKnmExQFF6HNmKG1/view",
+   "title": "4/27/2026 - Rightsizing BOE Public Engagement Sessions",
+   "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+   "fetched_at": "2026-10-18",
+   "sha256": "f898bcc21bae7385c461447689e9da6407e397c1f0ea741062e3933524825db0",
+   "bytes": 3136215,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "1McTx3QIFSwb0Iv7pYKnmExQFF6HNmKG1"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/engagement/2026-04_engagement_poll_results.pdf",
+   "url": "https://drive.google.com/file/d/1TYEHlUBPRCOy3WL4qa1WfGpNuq53xEsa/view",
+   "title": "Poll Results (Board engagement poll, Apr 1-30, 2026)",
+   "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+   "fetched_at": "2026-10-18",
+   "sha256": "c790b9c0fd8c1611691daaa322958231683dfeef3d932a4f94e9f67ec15e5e38",
+   "bytes": 1067607,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "1TYEHlUBPRCOy3WL4qa1WfGpNuq53xEsa"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/engagement/2026-04_engagement_poll_results_summary.pdf",
+   "url": "https://drive.google.com/file/d/1n9p1JD1LFVEkipYa5Y9maikKvkJzaza-/view",
+   "title": "Summary of Poll Results",
+   "found_on": "https://www.pps.net/about/portland-public-schools-information/rightsize/rightsizing-presentations",
+   "fetched_at": "2026-10-18",
+   "sha256": "fdd5197d1276e04ae51befc102baf36b9a71de0d652b24e4aaf72eff7cd7a721",
+   "bytes": 1075563,
+   "method": "curl on the repository owner's linked computer (Drive files via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "1n9p1JD1LFVEkipYa5Y9maikKvkJzaza-"
+  }
+ ]
+}

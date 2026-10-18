@@ -1,0 +1,595 @@
+# Portland Public Schools Superintendent answers questions about proposed school closures
+# Video: https://www.youtube.com/watch?v=D3dVt33To7g
+# Source: YouTube captions (asr, en), fetched 2026-10-18T22:30:00Z | CORRECTED COPY: caption name fixes shown in [brackets] by tools/caption_fixes.py; raw text: sources/youtube/transcripts/2026-10-16_D3dVt33To7g.txt
+# BoardBook meeting(s): 
+# Link to a moment: https://www.youtube.com/watch?v=D3dVt33To7g&t=<seconds>s
+
+[0:00:00] This is Think Out Loud on OPB. I'm Dave
+[0:00:02] Miller. We end this week with a
+[0:00:04] follow-up to our conversation about the
+[0:00:05] proposals by the Portland Public School
+[0:00:07] District to close as many as 14 schools
+[0:00:10] along with major program consolidations
+[0:00:12] and changes to school boundaries. Nearly
+[0:00:15] 8,000 students in kindergarten through
+[0:00:17] eighth grade would have to change
+[0:00:18] schools under one of the potential
+[0:00:20] scenarios. On Tuesday, we talked to the
+[0:00:23] chair of the school board about this.
+[0:00:24] Today, we're joined by the
+[0:00:26] superintendent, Dr. Kimberly Armstrong.
+[0:00:28] She'll present her preferred alternative
+[0:00:30] to the board sometime month. Dr.
+[0:00:32] Armstrong, thanks very much for making
+[0:00:34] time for us.
+[0:00:34] >> Great. Thank you. I appreciate being
+[0:00:36] invited to Think Out Loud.
+[0:00:38] >> Very few issues that we've talked about
+[0:00:40] on this show have generated as much
+[0:00:42] feedback as this one. We're going to get
+[0:00:44] into specifics as we go, but
+[0:00:47] I sort of tried to just look at
+[0:00:48] everything and to boil down what I saw
+[0:00:50] as the two biggest issues that have come
+[0:00:52] up. And the two things that emerge to me
+[0:00:55] are first, please slow down. And second,
+[0:00:59] and this is related. It's give us more
+[0:01:01] data, more detail, more information so
+[0:01:04] that we can have faith in what you're
+[0:01:05] doing and have clarity about what this
+[0:01:08] will look like. So, I want to take these
+[0:01:10] one by one starting with the speed. What
+[0:01:13] do you say to families or to people
+[0:01:14] running for governor or currently
+[0:01:16] governor who say, "Slow this down."?
+[0:01:19] >> Yeah. Well, so closing schools,
+[0:01:22] consolidating schools is not a new
+[0:01:24] conversation in Portland. I like to
+[0:01:27] share the facts that we've had over 100
+[0:01:31] schools over the last 100 years. Um of
+[0:01:34] course, varying numbers in between that.
+[0:01:36] We've served over 80,000 students. We
+[0:01:40] have a school system right now that's
+[0:01:42] built to serve 80,000 students, and
+[0:01:45] that's just not our enrollment reality.
+[0:01:48] >> Okay, but that's not exactly that that's
+[0:01:50] a justification for the closure process,
+[0:01:54] but it doesn't directly address the
+[0:01:55] question about the speed at which this
+[0:01:57] is happening right now. What do you say
+[0:01:59] to people who say this is too important
+[0:02:03] to do at this pace?
+[0:02:05] >> Well, regarding the pace, we've been in
+[0:02:07] the conversation since April. It started
+[0:02:10] off with a resolution from the school
+[0:02:12] board directing me to get into this
+[0:02:14] work. They then had feedback sessions as
+[0:02:18] they developed their guiding principles,
+[0:02:20] and we have been in the details of that
+[0:02:23] work since the summer. And so, when I
+[0:02:27] hear like slow down and wait, I guess I
+[0:02:30] wonder like what are we waiting for? And
+[0:02:32] to go slower to do what? As we've been
+[0:02:35] processing, we're out in community, and
+[0:02:37] we're responding with information.
+[0:02:40] >> I want to play you a voicemail that came
+[0:02:41] in from a parent named Zach.
+[0:02:44] >> I am a parent of two kids in Portland
+[0:02:47] Public Schools. Their neighborhood
+[0:02:49] school is being slated to close. It's
+[0:02:52] two blocks from our house, and the
+[0:02:53] school they currently attend the focus
+[0:02:55] option.
+[0:02:56] Um that is also going to be affected by
+[0:02:58] boundary changes. So, they will be
+[0:03:01] um and program changes that'll end up
+[0:03:03] meaning that they'll be kicked out of
+[0:03:05] that focus option school.
+[0:03:07] >> This is just, you know, one family's
+[0:03:09] illustration, but it it shows to me how
+[0:03:12] how dramatic the changes are. The the
+[0:03:13] closure of a school two blocks away and
+[0:03:16] the end of of the focus option program
+[0:03:17] where this parent's kids currently
+[0:03:20] attend.
+[0:03:21] What do you think about the idea of
+[0:03:23] phasing in the closures and boundary
+[0:03:26] changes? So, say doing North and
+[0:03:28] Northeast Portland
+[0:03:30] next year, and then Southeast Portland
+[0:03:33] the year after, and then the West Side
+[0:03:35] the year after that, giving the district
+[0:03:37] time to really focus on the the needs of
+[0:03:41] of the affected communities
+[0:03:43] um
+[0:03:44] m- more fully uh as opposed to
+[0:03:47] distributing all of that support all at
+[0:03:51] once.
+[0:03:52] >> Yeah, I I absolutely agree. There will
+[0:03:54] be some things that are phased in and
+[0:03:57] that will be part of the final
+[0:03:59] recommendation.
+[0:04:00] I think we're in the active feedback
+[0:04:02] stage and so we're wanting families to
+[0:04:06] to show up and share their concerns,
+[0:04:08] give their ideas. The whole purpose of
+[0:04:10] getting the scenarios out is so that our
+[0:04:13] family, our communities, and our staff
+[0:04:15] can react to it.
+[0:04:17] >> I may maybe I had missed this, but I
+[0:04:18] wasn't aware that that was on the table.
+[0:04:21] So you're saying that it's it's likely
+[0:04:24] or possible that that the final scenario
+[0:04:28] that you put forward, that the board
+[0:04:29] votes on, will have a kind of phased-in
+[0:04:32] approach to closures and boundary
+[0:04:34] changes.
+[0:04:35] >> For some of them, yes. I mean, I'll give
+[0:04:37] the example of Sellwood Middle School.
+[0:04:40] That's slated to close in June of 2028,
+[0:04:44] not June of 2027. So, that's a whole
+[0:04:48] year and a half away. Also with
+[0:04:50] Marysville, the closure of that school.
+[0:04:52] That's slated to close in June of 2028,
+[0:04:55] not in June of 2027.
+[0:04:57] And as we're leaning in and listening to
+[0:05:00] community and hearing feedback, we're
+[0:05:02] thinking thoughtfully about um what's
+[0:05:05] coming up and that will seed the next
+[0:05:08] phase of work, which will lead to my
+[0:05:09] final recommendation.
+[0:05:12] >> I want to turn to that the other and and
+[0:05:15] absolutely related overarching issue
+[0:05:17] about data and information. Starting
+[0:05:20] with the data that you've been using to
+[0:05:22] to put together
+[0:05:24] this entire
+[0:05:27] scenario set of scenarios about
+[0:05:29] enrollment. The district hired an
+[0:05:32] outside firm when you did the the
+[0:05:34] Southeast boundary effort changes. Why
+[0:05:38] not hire an outside auditor now
+[0:05:41] to make sure that all the data that
+[0:05:43] you're basing these massive changes on
+[0:05:46] is accurate?
+[0:05:48] >> Yeah, so the data that we're basing the
+[0:05:50] changes on is from the Portland State
+[0:05:55] um university
+[0:05:56] >> demography world, yeah.
+[0:05:57] >> Right. And so we don't um question those
+[0:06:00] numbers. Now, I will say that when you
+[0:06:02] get into the individual schools, there
+[0:06:04] has been some fluctuation, right? Some
+[0:06:07] schools may be a little over, some may
+[0:06:09] be a little under, but in terms of our
+[0:06:11] actual enrollment as a system has not
+[0:06:14] been off. And I know that that has been
+[0:06:16] talked about. I've heard that in many
+[0:06:18] spaces, and I would love for someone to
+[0:06:21] show us the data where our numbers are
+[0:06:24] off based on PSU's data.
+[0:06:28] >> What's your definition of a
+[0:06:30] well-resourced school? The the your
+[0:06:33] definition of the right end result.
+[0:06:38] >> Yeah. Well, there's a few things. We're
+[0:06:42] not blending classes, you know, just to
+[0:06:44] be clear, and and I get this question
+[0:06:46] all the time. We have class sizes that
+[0:06:49] are over 30. We have class sizes that
+[0:06:51] are under 10. Yet our average is 24, 25.
+[0:06:57] That doesn't connect with a lot of
+[0:06:59] people because that may not be their
+[0:07:00] reality. And I think it shows the swing,
+[0:07:03] the differences that are happening
+[0:07:05] across our city in many of our
+[0:07:07] facilities. So, when we say
+[0:07:09] well-resourced, we're saying that we're
+[0:07:12] getting to a size of
+[0:07:15] 360. And some people do math and say,
+[0:07:17] "Oh, that's 60 per grade level." Well,
+[0:07:19] kiddos don't present in these perfect
+[0:07:21] numbers. We're saying two to three
+[0:07:23] classes for every grade level, where we
+[0:07:25] no longer have to blend. We'd like to
+[0:07:27] see supports like library, art, and
+[0:07:30] music, and other supports out there that
+[0:07:33] get at supporting our kiddos.
+[0:07:36] >> I want to play you a a voicemail that
+[0:07:39] came in because this gets to
+[0:07:42] what you're talking about there in terms
+[0:07:43] of class sizes.
+[0:07:44] >> Hi, this is Emily Vorhees. I live in
+[0:07:46] Sellwood and I'm a mama and a teacher in
+[0:07:50] PPS. What does 360 students mean in a
+[0:07:53] classroom? PPS says an elementary school
+[0:07:56] needs 360 kids in an elementary school
+[0:07:59] and that's about 60 kids per grade if
+[0:08:01] you break it down K through 5. Depending
+[0:08:03] on staffing, that means 18 classroom
+[0:08:05] teachers would be 20 kids or 15
+[0:08:08] classroom teachers would be 24 kids per
+[0:08:10] class or 12 teachers would mean around
+[0:08:13] 30 per class. So, which one is PPS
+[0:08:15] planning for at receiving schools and
+[0:08:18] will it put a class size cap in writing?
+[0:08:22] >> Yeah, I appreciate hearing that in in
+[0:08:25] the questions within it.
+[0:08:27] I mean, it's difficult to answer that
+[0:08:29] question when enrollment isn't that
+[0:08:32] perfect, right? Where
+[0:08:34] >> [clears throat]
+[0:08:34] >> we have 30 in first and 30 in second or
+[0:08:37] 60 in fifth and sixth. I mean, that is
+[0:08:41] some of the things that we're
+[0:08:42] experiencing when we're spreading out
+[0:08:45] all of our students across our system in
+[0:08:47] the many schools that we have in
+[0:08:49] different regions in our district. You
+[0:08:51] know, we appreciate the average of 24 25
+[0:08:55] um students in the class and we would
+[0:08:57] absolutely want to be there and at the
+[0:08:59] same time there's other
+[0:09:01] personnel that we want to have in
+[0:09:04] schools to be able to support students.
+[0:09:06] And so, it's a complicated question, but
+[0:09:09] here's what I'm committing to is that
+[0:09:11] when I put out the final recommendation
+[0:09:14] in early November, it will have the
+[0:09:16] staffing plan attached. And I I know
+[0:09:19] that that is something that people are
+[0:09:21] anxiously waiting for and we will have
+[0:09:24] that to go with the conversation on that
+[0:09:26] final recommendation.
+[0:09:28] >> This connects to some key questions that
+[0:09:31] came from an audit that the district
+[0:09:33] commission following the Southeast
+[0:09:35] Guiding Coalition work. It's It is
+[0:09:37] an audit
+[0:09:39] report that has gotten a lot of
+[0:09:41] attention from parents in the last
+[0:09:44] couple weeks. Two questions from the
+[0:09:46] audit of many stood out to me. The first
+[0:09:49] was what specific resources will
+[0:09:51] students gain in the receiving school
+[0:09:54] and the next is will students gain
+[0:09:56] access to additional specialists,
+[0:09:58] electives, intervention staff, and
+[0:10:00] counselors?
+[0:10:02] What can you tell us now about
+[0:10:06] what you will commit to in terms of the
+[0:10:10] the resources that these receiving
+[0:10:12] schools or or that all schools will
+[0:10:15] have?
+[0:10:16] >> Yeah, well, I appreciate the all schools
+[0:10:19] because it gives me the opportunity to
+[0:10:20] clarify something. It's not all of our
+[0:10:23] schools will be at that ideal Not all of
+[0:10:25] our elementary schools will be at that
+[0:10:27] ideal level of 360 or at middle school
+[0:10:30] the ideal level of 500. So, when we talk
+[0:10:33] about resource, we know that our first
+[0:10:36] immediate action is to stabilize. Once
+[0:10:39] we are stabilized and we're seeing those
+[0:10:42] numbers, we're able to resource
+[0:10:44] differently. Um what I can tell you that
+[0:10:46] I absolutely commit to is reinvesting
+[0:10:49] all of the funds from closures and
+[0:10:51] consolidations directly back into
+[0:10:53] schools.
+[0:10:55] >> What do you mean reinvesting the funds
+[0:10:58] from closure cuz cuz I I
+[0:11:00] I guess I mean as has been said many
+[0:11:02] times, this is not about
+[0:11:04] s- about saving money. This is about
+[0:11:07] putting existing money uh
+[0:11:10] to use in different ways.
+[0:11:12] >> reinvesting those funds. We're not We're
+[0:11:14] not reducing or or we're not closing or
+[0:11:16] we're not consolidating
+[0:11:18] um or changing uh the profile of a
+[0:11:20] school to save money to um you know,
+[0:11:24] reduce our deficit, which is 65 million
+[0:11:27] by the way. We're looking to reinvest
+[0:11:29] those funds so that we can have more
+[0:11:32] resources spread to fewer places, which
+[0:11:35] within itself then increases the number
+[0:11:38] of staff that we have in our buildings
+[0:11:40] and other supports.
+[0:11:41] >> But this this gets to one of the issues
+[0:11:42] that um
+[0:11:43] we were talking about with with the
+[0:11:44] chair of the board uh just a couple days
+[0:11:46] ago, which is that for parents who can
+[0:11:48] see very clearly what
+[0:11:50] um they would lose if their community
+[0:11:53] school or the school their their their
+[0:11:55] kids currently go to school if if it
+[0:11:56] were to close, those losses are are
+[0:11:59] really clear. And I think what's what is
+[0:12:01] really more vague and harder to to
+[0:12:04] understand is what they will gain. And
+[0:12:08] and even here you're I I I guess I
+[0:12:11] appreciate
+[0:12:12] your hesitation to to promise that
+[0:12:15] there's going to be another librarian at
+[0:12:18] at the school or another specialist or
+[0:12:20] or more electives because it seems like
+[0:12:22] you can't necessarily promise that, but
+[0:12:25] it makes it harder then for parents to
+[0:12:26] say to see what what they will gain if
+[0:12:30] and all they can see is what they will
+[0:12:32] lose.
+[0:12:33] >> Yeah, well and I think one of the
+[0:12:34] reasons why we're not able to get into
+[0:12:37] promises or those commitments is as you
+[0:12:40] know, we're funded per pupil. And also
+[0:12:43] our governor sets the state school fund
+[0:12:46] that goes into the legislative session
+[0:12:49] and they adopt their budget in June. So
+[0:12:52] many of the things that we have to do in
+[0:12:55] public education in terms of staffing
+[0:12:58] our schools and um communicating about
+[0:13:02] what we're able to do or not able to do
+[0:13:04] is um
+[0:13:05] based on that state school fund. So
+[0:13:08] we're committed to getting out with that
+[0:13:10] staffing picture and speaking more
+[0:13:12] clearly and definitive about those
+[0:13:14] resources after the election on November
+[0:13:17] 3rd.
+[0:13:18] >> We got this question in an email from
+[0:13:20] Megan Zern. She wrote, "Before selecting
+[0:13:22] schools for closure or restructuring,
+[0:13:24] did PPS model whether these changes
+[0:13:26] could accelerate enrollment losses as
+[0:13:29] families leave the district. She wrote,
+[0:13:31] "If so, where can the public review that
+[0:13:33] analysis? The district presents its
+[0:13:35] proposals as a response to declining
+[0:13:37] enrollment, but the changes themselves
+[0:13:39] may accelerate that decline."
+[0:13:42] What's your response?
+[0:13:43] >> Yeah, we actually will present that
+[0:13:46] information and we did build in a
+[0:13:48] percentage of loss for families that may
+[0:13:52] choose to opt out. We based it on the
+[0:13:54] information that we had on families that
+[0:13:58] opted out after other changes. As we
+[0:14:00] know, as I've said before, Portland has
+[0:14:02] closed over 30 schools in its history.
+[0:14:05] The other thing that I'll say
+[0:14:06] >> how significant I mean I maybe you don't
+[0:14:08] have the numbers in front of you right
+[0:14:09] now, but how significant do you think
+[0:14:11] that loss is going to be?
+[0:14:13] >> I don't think it will be as significant
+[0:14:16] as people are saying. You know, our
+[0:14:18] capture rate for Portland public has
+[0:14:21] been in the mid-80s and then
+[0:14:24] post-pandemic it dropped. That's when we
+[0:14:27] saw the largest drop to about mid-70s
+[0:14:31] and so
+[0:14:32] >> And it's still around there, right?
+[0:14:34] >> gone back up. It has not gone back up
+[0:14:36] and so within that we're looking at what
+[0:14:39] another percentage drop will be, but I
+[0:14:42] will tell you that even if we see a
+[0:14:45] swing and students and families choose
+[0:14:48] to return back to Portland that left
+[0:14:51] after the pandemic
+[0:14:53] hit, we'll still have enough schools and
+[0:14:55] seats. But here's what I want to say,
+[0:14:57] Dave, and I feel like this is perhaps
+[0:14:59] the most significant thing that I I want
+[0:15:02] people to hear and understand is that,
+[0:15:05] you know, we
+[0:15:07] got into the details of the work after
+[0:15:09] the board resolution and the guiding
+[0:15:11] principles. We put out the scenarios so
+[0:15:13] that our community, our staff, and our
+[0:15:15] families can react to give comment, to
+[0:15:20] ask questions, and we're in that phase
+[0:15:22] now. So, when I hear comments like slow
+[0:15:25] down or you don't have this information
+[0:15:28] or like maybe this is missing, okay,
+[0:15:31] we're capturing your thoughts and
+[0:15:32] comments. We're posting actively on our
+[0:15:35] website pps.net/rightsize
+[0:15:38] and we are answering questions. We're
+[0:15:40] out in community. Um but this is the
+[0:15:43] time to talk about those things that are
+[0:15:45] coming up.
+[0:15:45] >> What are examples of how the feedback
+[0:15:49] that has already come in has
+[0:15:53] changed your own thinking about how you
+[0:15:56] should proceed?
+[0:15:57] >> Yeah, it definitely has been shaping my
+[0:16:01] thoughts as I think about that final
+[0:16:03] recommendation. I'm looking between the
+[0:16:05] two scenarios A and B, looking at where
+[0:16:10] we're hearing a lot about whole
+[0:16:13] communities and the importance of those
+[0:16:16] whole communities even in some of our
+[0:16:17] program moves. I uh spend my time out in
+[0:16:21] communities in the morning and afternoon
+[0:16:23] hearing from families at schools and um
+[0:16:26] yesterday I had an opportunity to sit
+[0:16:28] with a community and hear directly from
+[0:16:31] them about our modeling and the way that
+[0:16:35] they're receiving it and when it and
+[0:16:37] they shared important things that I
+[0:16:39] immediately took back to the team and it
+[0:16:41] and it definitely is seeding my thoughts
+[0:16:46] for the final recommendation and what
+[0:16:48] that'll be.
+[0:16:49] >> You
+[0:16:50] do not want to tell us right now the any
+[0:16:53] of the specifics?
+[0:16:55] >> I The reason I ask this is because
+[0:16:57] the point you're trying to make is hey,
+[0:16:59] people are telling us to slow down, but
+[0:17:00] we're in the we're actually listening to
+[0:17:01] you right now and this is the way the
+[0:17:03] process should work and we're being
+[0:17:04] responsive and and so so give us like
+[0:17:08] have faith in us that we are listening
+[0:17:10] to you and and we are going to take your
+[0:17:14] input and it will actually have an
+[0:17:16] impact on us.
+[0:17:18] And I'm wondering if you can share with
+[0:17:20] us
+[0:17:22] an example of where that is actually
+[0:17:24] true.
+[0:17:25] >> Yeah, I love that question and I and I
+[0:17:27] would love to be able to share some of
+[0:17:29] my my initial thinking, but I'm not yet
+[0:17:32] ready to do that because there's more
+[0:17:33] engagement to go. We have a full day of
+[0:17:36] engagement this Saturday. Next Saturday,
+[0:17:38] we have a full day of engagement plus
+[0:17:41] all the days in between. Even this
+[0:17:43] afternoon, I'm going and sitting with
+[0:17:45] another school community and I'll hear
+[0:17:47] directly from them and all of that
+[0:17:49] information will be public in the themes
+[0:17:52] on November 4th at that board meeting
+[0:17:55] when we share out what we heard from
+[0:17:57] community and share some of that initial
+[0:17:59] thinking as I prepare to write that
+[0:18:01] final recommendation.
+[0:18:03] >> What do you think at this point is going
+[0:18:06] to be lost or sacrificed in the name of
+[0:18:11] in the hope for systemic improvement?
+[0:18:16] >> Yeah, I will tell you I am pretty
+[0:18:22] excited and committed to the promise of
+[0:18:26] public education in the city of
+[0:18:28] Portland. I think that Portland is a
+[0:18:32] beautiful, probably one of the most
+[0:18:35] beautiful in the Pacific Northwest. And
+[0:18:39] when I think of the closure of schools
+[0:18:43] and what that does to the community, um
+[0:18:46] the neighborhood, it is impactful and
+[0:18:49] horrible and and very sad to think
+[0:18:52] about. But that promise that I go back
+[0:18:54] to of saying like what would it mean for
+[0:18:57] us as a system to better support every
+[0:19:00] single one of our learners across the
+[0:19:02] city where we're no longer struggling to
+[0:19:05] fill a classroom of students and
+[0:19:08] resource properly. I've been in some
+[0:19:10] communities and I hear families and
+[0:19:13] staff say, but we're resource now. We
+[0:19:15] feel well resource. But well resource
+[0:19:18] doesn't always mean fully staffed. And
+[0:19:21] getting to a place where we can have the
+[0:19:23] resourcing and the staff to support our
+[0:19:26] learners is what is
+[0:19:30] what will make the most impact moving
+[0:19:32] forward.
+[0:19:32] >> Communities like Sunnyside
+[0:19:35] environmental school, a unique focus
+[0:19:37] option.
+[0:19:39] As you've heard I'm sure cuz cuz we've
+[0:19:41] heard from a lot of them so you must
+[0:19:43] have as well. They don't talk about
+[0:19:45] necessarily being well resource but they
+[0:19:47] they say that that whether it's students
+[0:19:49] or parents or teachers that it's
+[0:19:51] thriving and it's serving their students
+[0:19:53] well and and they say we're being
+[0:19:54] sacrificed for
+[0:19:57] for the district's notion of the greater
+[0:20:00] good. What do you say to them?
+[0:20:03] >> Well, I will say it's not just the
+[0:20:04] notion of the greater good but we're a
+[0:20:06] public school system and while I love
+[0:20:11] the energy and excitement and faith that
+[0:20:15] 81 school communities have
+[0:20:18] for their individual site, I need that
+[0:20:20] same energy, enthusiasm and love for our
+[0:20:24] system as a whole, right? We're serving
+[0:20:27] all 43,000 students, not 300 from this
+[0:20:31] location or 200 from this location or
+[0:20:34] 160 from that other location.
+[0:20:39] >> Can you tell us where you're leaning
+[0:20:40] right now in terms of the three
+[0:20:41] scenarios?
+[0:20:43] >> Yeah, well I
+[0:20:44] can share that I'm really compelled to
+[0:20:49] really dig deep
+[0:20:51] into scenario B and see where there are
+[0:20:56] some flexibility, some timelines, some
+[0:20:59] adjustments
+[0:21:01] that can be made in response to what's
+[0:21:03] coming up right now. So so I guess if I
+[0:21:06] were to just say completely
+[0:21:09] independent of team processing or or
+[0:21:12] where others may be at, I'm I'm
+[0:21:14] definitely leaning into scenario B and
+[0:21:17] and what I'm curious about what that
+[0:21:20] could mean for our city as we
+[0:21:22] contemplate changes there.
+[0:21:24] >> Why B right now
+[0:21:26] as opposed to A?
+[0:21:29] >> Yeah, I think with B what
+[0:21:31] >> And I should say, sorry. I I I I say
+[0:21:33] this question as if everybody listening
+[0:21:35] knows, but but B is is three fewer
+[0:21:38] school closures, right? It's It's 11
+[0:21:40] schools closed.
+[0:21:41] >> Yeah.
+[0:21:41] >> And C is is do nothing.
+[0:21:43] >> C is do nothing. And and and let me just
+[0:21:46] say C. C is do nothing right now. C
+[0:21:49] can't be do nothing forever. C just
+[0:21:52] delays the inevitable. So, I'm not into
+[0:21:55] delaying the inevitable. Um I will say
+[0:21:58] B, one of the things that we often think
+[0:22:00] about is the magnitude and the
+[0:22:02] complexity of change. I appreciate that
+[0:22:06] B's magnitude and complexity of change
+[0:22:08] isn't as great as scenario scenario A,
+[0:22:12] but it still gives the opportunity to
+[0:22:15] have 70% of our students or above in
+[0:22:19] schools that are sustainable. So, it's
+[0:22:22] you know, what's the the least amount
+[0:22:25] that we can do right now to promise an
+[0:22:27] opportunity for our students to be able
+[0:22:29] to thrive.
+[0:22:31] >> Kimberly Armstrong, thank you very much
+[0:22:32] for your time. I have a feeling we will
+[0:22:34] talk again about this.
+[0:22:35] >> I'm sure. Thank you.
+[0:22:36] >> Dr. Kimberly Armstrong is a
+[0:22:38] superintendent of Portland Public
+[0:22:40] Schools. Here is something very
+[0:22:41] different that we are working on for a
+[0:22:44] future show as we near Halloween. Ghost
+[0:22:46] tour operators lead guests on tours of
+[0:22:48] supposedly haunted places. We're going
+[0:22:50] to talk with two ghost tour operators in
+[0:22:53] Portland next week and we would love to
+[0:22:56] hear from you. Do you have your own
+[0:22:59] ghost story or a spooky unexplainable
+[0:23:02] experience? We want to hear all of it.
+[0:23:04] You can leave us a voicemail right now
+[0:23:06] at 503-293-1983.
+[0:23:09] Again, 503-293-1983.
+[0:23:12] You can also record a voice memo and
+[0:23:15] email it to us thinkoutloud@opb.org.
+[0:23:19] Thanks very much for tuning in to Think
+[0:23:22] Out Loud on OPB and KLCC this week. I'm
+[0:23:26] Dave Miller.
+[0:23:27] Have a great weekend.
+[0:23:32] >> [music]
+[0:23:36] >> Think Out Loud is supported by Steve and
+[0:23:39] [music] Jan Olive, the Rose E. Tucker
+[0:23:41] Charitable Trust, Michael Christian,
+[0:23:44] Andrew Kern, and Anna Sanford, and the
+[0:23:47] Jackson [music] Foundation.
+[0:23:53] >> [music]
+[0:24:00] [music]
+[0:24:14] [music]
+[0:24:29] [music]
+[0:24:36] [music]
+[0:24:44] [music]

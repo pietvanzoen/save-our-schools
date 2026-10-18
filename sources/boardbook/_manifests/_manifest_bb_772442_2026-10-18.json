@@ -1,0 +1,131 @@
+[
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/agenda.html",
+  "url": "/Public/Agenda/915?meeting=772442",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=772442",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 54263,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:30Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=772442",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=772442",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32852,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:31Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/public_notice_14565115.pdf",
+  "url": "/Documents/DownloadPDF/14565115?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14565115?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 222125,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:33Z",
+  "title": "public_notice pdf"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/attachments/14549578_PPS_Bond_Performance_Audit_Report_for_FY_24-25_and_FY_25-26_(1).pdf",
+  "url": "/Documents/DownloadPDF/14549578?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549578?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 12290570,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:34Z",
+  "title": "PPS Bond Performance Audit Report for FY 24-25 and FY 25-26 (1)",
+  "found_on": "5. 7:00 pm - Report: Bond Performance Audit - Year 7 & 8"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/attachments/14549577_2025-26_Division_22_Assurances_Report.pdf",
+  "url": "/Documents/DownloadPDF/14549577?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549577?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 1302334,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:37Z",
+  "title": "2025-26 Division 22 Assurances Report",
+  "found_on": "7. 8:30 pm - Division 22 Annual Report"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/attachments/14549626_Reso_7388_-_Expenditure_Contracts.docx.pdf",
+  "url": "/Documents/DownloadPDF/14549626?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549626?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 99699,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:38Z",
+  "title": "Reso 7388  - Expenditure Contracts.docx",
+  "found_on": "8.(a) Resolution 7388 - Expenditure Contracts"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/attachments/14549627_Reso_7389_-_Revenue_Contracts.docx.pdf",
+  "url": "/Documents/DownloadPDF/14549627?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549627?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 66685,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:39Z",
+  "title": "Reso 7389 - Revenue Contracts.docx",
+  "found_on": "8.(b) Resolution 7389 - Revenue Contracts"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/attachments/14549637_Resolution_7390_Seismic_Projects_2027_RFP.pdf",
+  "url": "/Documents/DownloadPDF/14549637?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549637?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 69470,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:41Z",
+  "title": "Resolution 7390 Seismic Projects 2027 RFP",
+  "found_on": "8.(c) Resolution 7390 - Seismic Construction Projects: Exemption from Competitive Bidding and Authorization for Use of Requests for Proposals Contracting Method"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/attachments/14549640_Staff_Report_to_Board__Seismic_Projects_2027_RFP.pdf",
+  "url": "/Documents/DownloadPDF/14549640?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549640?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 131285,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:42Z",
+  "title": "Staff Report to Board_ Seismic Projects 2027 RFP",
+  "found_on": "8.(c) Resolution 7390 - Seismic Construction Projects: Exemption from Competitive Bidding and Authorization for Use of Requests for Proposals Contracting Method"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/attachments/14549641_Draft_Findings_2027_Seismic_Projects.pdf",
+  "url": "/Documents/DownloadPDF/14549641?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549641?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 190051,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:43Z",
+  "title": "Draft Findings 2027 Seismic Projects",
+  "found_on": "8.(c) Resolution 7390 - Seismic Construction Projects: Exemption from Competitive Bidding and Authorization for Use of Requests for Proposals Contracting Method"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/attachments/14564830_Resolution_7391_-_Adoption_of_the_Minutes.pdf",
+  "url": "/Documents/DownloadPDF/14564830?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14564830?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 35957,
+  "error": "",
+  "fetched_at": "2026-10-18T22:13:44Z",
+  "title": "Resolution 7391 - Adoption of the Minutes",
+  "found_on": "8.(d) Resolution 7391 - Adoption of the Minutes"
+ }
+]

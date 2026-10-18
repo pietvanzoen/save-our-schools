@@ -45,6 +45,16 @@ Do this after each board meeting, and once a month to pick up newly posted minut
    python3 tools/build_attachment_index.py
    ```
 
+**Without a browser (Python, any machine that can reach BoardBook):** `tools/boardbook_crawl.py` does the same as the
+JS crawler. It writes the files and a per-meeting manifest under an output folder that mirrors `sources/`:
+```bash
+python3 tools/boardbook_crawl.py OUT --index sources/boardbook/boardbook_index_2025_2026.json --only <id> <id>
+```
+Copy `OUT/boardbook/meetings/*` into `sources/boardbook/meetings/`. Copy the new index over the old one, keeping any
+extra keys the old one had (`supp`, `minutesFiles`). Save each manifest as `_manifest_bb_<id>_<date>.json` so earlier
+manifests aren't overwritten. Then run step 5. The 2026-10-18 refresh ran this from the owner's computer, because the
+cloud sandbox cannot reach BoardBook.
+
 ### 1b. Meeting video transcripts
 1. Find new videos: the `vids` in the index, compared with `sources/youtube/videos_index.csv`.
 2. On any youtube.com page, in a foreground tab, paste `tools/browser/youtube_captions.js` and run:
@@ -58,6 +68,10 @@ Do this after each board meeting, and once a month to pick up newly posted minut
    python3 tools/ingest_transcript_exports.py exports.txt
    ```
    This writes the transcript `.txt/.tsv/.meta.json` files and rebuilds `videos_index.csv`.
+   Alternative used on 2026-10-18: run `yt-dlp --skip-download --write-info-json` for each video. Download the
+   `automatic_captions['en-orig']` json3 URL from the info JSON, then build the same record (`tsv` lines of
+   `tStartMs\tdDurationMs\ttext`, `meta`, `meetings`, `caption_kind`, `fetch_method`) and pass a JSON list to
+   `tools/write_transcripts.py`. YouTube returns 429 if you go fast, so pause a few seconds between videos.
 4. Check that the first lines are English. The script forces `lang=en`, but verify anyway.
 
 ### 1c. Corrected transcripts and search
