@@ -12,6 +12,7 @@ Everything here is derived from `sources/` and cites back to it. The citation fo
 | File | What it is | Use it for |
 |---|---|---|
 | `BRIEFING.md` | Capstone briefing: bottom line, Scenario A vs B, decision path, PPS's rationale, weak points, Board stances, next steps, top 15 sources, gaps | First read for anyone engaging with the decision |
+| `refresh_2026-10-18.md` | What the 2026-10-18 refresh added (BoardBook Oct 20 packet, Oct 13 committee and OPB/TV transcripts, news, pps.net FAQ rewrite, new dashboard, April engagement decks) and key findings |
 | `timeline.md` | Master timeline, Jan 2023 – Oct 2026 plus scheduled dates. One line per event; the 30 key events are bold | "When did X happen?" or "what came before Y?" |
 | `timeline_from_news.md` | Timeline as reported by news outlets (Sept 2024 – Oct 2026), with per-outlet figures | News framing; items not in primary documents. Verify before relying on them |
 | `_verification_report.md` | Independent fact-check: method, pass rates, 20 discrepancies, 25 corrections applied | Know which errors were fixed and how reliable each area is |

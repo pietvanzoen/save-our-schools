@@ -4,7 +4,7 @@ Evidence base: 8 transcript quotes in `quotes_all.jsonl` (4 high, 4 medium, 0 lo
 
 ## Roles, tenure
 
-- "Senior Director, PK-5 Core Academics" (minutes); co-lead of the rightsizing academics/activities/athletics work group (quote-record role) [MTG:2026-09-08/765500]; a former elementary principal (self-description, batch10 notes).
+- "Senior Director, PK-5 Core Academics" (minutes); co-lead of the rightsizing academics/activities/athletics work group (quote-record role) [MTG:2026-09-08/765500](https://meetings.boardbook.org/Public/Agenda/915?meeting=765500); a former elementary principal (self-description, batch10 notes).
 
 ## Position summary
 
@@ -16,6 +16,8 @@ Evidence base: 8 transcript quotes in `quotes_all.jsonl` (4 high, 4 medium, 0 lo
 ## How her thinking changed over time
 
 No change observed (June–Sept 2026).
+
+**Oct 13, 2026 (TLE committee): the case for whole-school DLI, with trade-offs named.** "any proposal to move programs is a proposal to move children and families and that there are trade-offs in any such proposal." [YT:As3VpeDGx70@0:31:33](https://www.youtube.com/watch?v=As3VpeDGx70&t=1893s) *(medium)* "We believe based on research and current PPS practice that where it is possible whole school model provides the optimal framework to deliver this critical factors reliably and at scale." [YT:As3VpeDGx70@0:42:01](https://www.youtube.com/watch?v=As3VpeDGx70&t=2521s) On co-located ELD staffing *(medium)*: "you can only divide one human being so many ways." [YT:As3VpeDGx70@1:13:13](https://www.youtube.com/watch?v=As3VpeDGx70&t=4393s) Analysis: no change in direction; the new element is the explicit acknowledgement of trade-offs.
 
 ## Voting record
 
@@ -35,3 +37,5 @@ Not applicable (staff).
   _Context (from the quote record):_ current minimum program is unsustainable
 - **2026-09-08** — "we have gotten I think too reductive about the number and maybe not told the story of where that number came from other than it aligns with the QEM." [YT:S-pk57P6f_o@0:51:01](https://www.youtube.com/watch?v=S-pk57P6f_o&t=3061s) *(medium-confidence attribution)*  
   _Context (from the quote record):_ 360 threshold is grounded in sections and staffing math
+- **2026-10-13** — "any proposal to move programs is a proposal to move children and families and that there are trade-offs in any such proposal." [YT:As3VpeDGx70@0:31:33](https://www.youtube.com/watch?v=As3VpeDGx70&t=1893s)  
+  _Context (from the quote record):_ acknowledges costs of program moves

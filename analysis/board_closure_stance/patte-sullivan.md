@@ -16,6 +16,8 @@ She is less firmly committed on **scale** (Scenario A or B) and on **specific fe
 
 **Analysis:** she sits in two different 4–3 coalitions. On bond oversight she votes with Splitt, Engelsman and La Forte [YT:SPwXuNlwP_U@2:43:39](https://www.youtube.com/watch?v=SPwXuNlwP_U&t=9819s). On rightsizing direction she is with Wang, DePass and Chase-Miller. That is why she is called the swing vote. On closures specifically, though, the record shows a steady pro-action trend, not a swing pattern.
 
+**Update (Oct 18, 2026): unchanged at +1.5.** On Oct 13 she asked how Robert Gray grows without West Sylvan students [YT:As3VpeDGx70@1:45:52](https://www.youtube.com/watch?v=As3VpeDGx70&t=6352s). At IGA the same day she said "we just have to get more money. Period." [YT:nkNf4ceJcj8@0:49:56](https://www.youtube.com/watch?v=nkNf4ceJcj8&t=2996s), about state funding rather than closures (not scored).
+
 **Trajectory:**
 
 | Period | Score | Stance |
@@ -65,6 +67,7 @@ Scores answer the question "if the Dec 15 vote were held that day". Attribution 
 | 2026-10-06 | "I guess I'm concerned about what will happen if we don't do this." Then: "I was at Maplewood the other day, fourth grade class of 32." [YT:zOUH2Jq7Owo@3:13:35](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11615s) [YT:zOUH2Jq7Owo@3:13:53](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11633s) | +2 | Rejects the status quo. Her example is a school that closes in both scenarios. |
 | 2026-10-06 | Her great-grandchild would attend a middle school she could not name; the captions give "Swood" after a prompt about "the one that Llewellen" (likely Sellwood MS, which closes in both scenarios; identification medium). "I talked to my grandson today, but I said we have to I think we have to do something." [YT:zOUH2Jq7Owo@3:14:38](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11678s) [YT:zOUH2Jq7Owo@3:15:02](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11702s) | +2 | Her personal stake did not change her position. Sellwood closes in 2028 under A and B [BB:14509719 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14509719?org=915#page=3). |
 | 2026-10-06 | "But I feel very strongly that something needs to be done. If we ignore it, it's going to happen later to be really difficult." Then: "we might want to make changes." And: "I also appreciate this work has to be done." [YT:zOUH2Jq7Owo@3:16:09](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11769s) [YT:zOUH2Jq7Owo@3:16:21](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11781s) [YT:zOUH2Jq7Owo@3:17:36](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11856s) | +2 | Her strongest statement. She expects amendments, not deferral. |
+| 2026-10-13 | TLE: "as far as I know there's no idea about bringing any West [Sylvan] students Robert Gray area how are they going um improve the numbers for Robert Gray." [YT:As3VpeDGx70@1:45:52](https://www.youtube.com/watch?v=As3VpeDGx70&t=6352s) | +1 | A feasibility question about the Southwest middle-school plan, not opposition. |
 
 ### Unconfirmed or excluded
 

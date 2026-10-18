@@ -5,7 +5,7 @@ Evidence base: 5 transcript quotes in `quotes_all.jsonl` (3 high, 2 medium, 0 lo
 
 ## Roles, tenure
 
-- "Senior Director 9-12 Core Academics" (BoardBook minutes); the batch10 quote record titles him "Senior Director, K-12 Programs and Pathways" (Sept 2026) [MTG:2026-09-08/765500].
+- "Senior Director 9-12 Core Academics" (BoardBook minutes); the batch10 quote record titles him "Senior Director, K-12 Programs and Pathways" (Sept 2026) [MTG:2026-09-08/765500](https://meetings.boardbook.org/Public/Agenda/915?meeting=765500).
 
 ## Position summary
 
@@ -15,7 +15,9 @@ Evidence base: 5 transcript quotes in `quotes_all.jsonl` (3 high, 2 medium, 0 lo
 
 ## How his thinking changed over time
 
-No change observed.
+No change observed (through Sept 2026).
+
+**Oct 13, 2026 (TLE committee): the cost case for 6–8 middle schools.** "we're currently subsidizing K8 middle grade programs with more than 20 FTEE just to ensure baseline core programming." [YT:As3VpeDGx70@1:28:21](https://www.youtube.com/watch?v=As3VpeDGx70&t=5301s) "That is a difference of roughly $1,700 per student driven entirely by structural scale rather than enhanced course offerings." [YT:As3VpeDGx70@1:31:35](https://www.youtube.com/watch?v=As3VpeDGx70&t=5495s) "grade configuration itself doesn't drive student learning, but it profoundly impacts student opportunity, course breath, and teacher working conditions." [YT:As3VpeDGx70@1:32:16](https://www.youtube.com/watch?v=As3VpeDGx70&t=5536s) Analysis: the slide says ~$1,750 (see `analysis/people/quotes/batch11_notes.md`). No change in direction.
 
 ## Voting record
 
@@ -33,7 +35,11 @@ Not applicable (staff).
   _Context (from the quote record):_ fractured staffing is a key harm rightsizing should fix
 - **2026-09-08** — "our hope is that it's less about having fewer staff and more about having more staff together working with our colleagues in dedicated school communities." [YT:S-pk57P6f_o@0:29:06](https://www.youtube.com/watch?v=S-pk57P6f_o&t=1746s) *(medium-confidence attribution)*  
   _Context (from the quote record):_ rightsizing aims at staff stability, not cuts
+- **2026-10-13** — "we're currently subsidizing K8 middle grade programs with more than 20 FTEE just to ensure baseline core programming." [YT:As3VpeDGx70@1:28:21](https://www.youtube.com/watch?v=As3VpeDGx70&t=5301s)  
+  _Context (from the quote record):_ K-8 middle grades are costly and thin
+- **2026-10-13** — "grade configuration itself doesn't drive student learning, but it profoundly impacts student opportunity, course breath, and teacher working conditions." [YT:As3VpeDGx70@1:32:16](https://www.youtube.com/watch?v=As3VpeDGx70&t=5536s)  
+  _Context (from the quote record):_ configuration matters for opportunity, not test scores
 
 ## News-reported quotes (secondary)
 
-- 2025-12-15 — "The opportunity now is to move from multiple individual partnerships to a coordinated learning ecosystem" [NEWS:NEWS-20251215-wweek-1] (https://www.wweek.com/news/schools/2025/12/15/pps-releases-initial-plans-to-scale-up-programming-at-jefferson-high-school/)
+- 2025-12-15 — "The opportunity now is to move from multiple individual partnerships to a coordinated learning ecosystem" [NEWS:NEWS-20251215-wweek-1](https://www.wweek.com/news/schools/2025/12/15/pps-releases-initial-plans-to-scale-up-programming-at-jefferson-high-school/) (https://www.wweek.com/news/schools/2025/12/15/pps-releases-initial-plans-to-scale-up-programming-at-jefferson-high-school/)

@@ -20,6 +20,8 @@
 
 **Current score (Oct 2026): +1, range 0 to +2.** She is very likely (my estimate is about 80%) to vote to adopt an amended closure package on Dec 15. She is unlikely to adopt Scenario A or B exactly as written, and she has never argued for deferral or for no closures.
 
+**Update (Oct 18, 2026): unchanged at +1.** Her only new statement (Oct 13 TLE, medium) asks what families leaving their schools gain [YT:As3VpeDGx70@1:09:39](https://www.youtube.com/watch?v=As3VpeDGx70&t=4179s).
+
 **Trajectory:**
 - +1 in fall 2025.
 - Peaked at +2 from February to April 2026, when she said "pull the band-aid off" and voted for Res. 7296 including "will".
@@ -75,6 +77,7 @@ Scores answer the Dec-15 question as of that date (+2 strongly for adopting clos
 | 2026-10-06 | "I hope that the folks here um understand like the the very real and perilous position that we're in as a school district and the trade-offs." [YT:zOUH2Jq7Owo@3:25:06](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12306s) *(medium)* | +1 | Wants "massaging of the scenarios" [YT:zOUH2Jq7Owo@3:25:21](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12321s) |
 | 2026-10-06 | "I don't I don't know that either of these scenarios like exactly as they're written is going to be where we land." [YT:zOUH2Jq7Owo@3:28:56](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12536s) *(medium)* | +1 | Expects an amended package |
 | 2026-10-06 | "could you please talk to us about Chiefs for Change and your involvement in Chiefs for Change?" [YT:zOUH2Jq7Owo@4:17:38](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15458s) (attribution per OPB's corrected report [NEWS:NEWS-20261007-opb-2](https://www.opb.org/article/2026/10/07/chiefs-for-change-and-school-closures-in-oregon/)) | +1 | Gives Armstrong a platform to rebut the privatization claims |
+| 2026-10-13 | TLE: "so what's in it for the folks who are going to be leaving their schools and moving into a new school? What is the gain for those folks?" [YT:As3VpeDGx70@1:09:39](https://www.youtube.com/watch?v=As3VpeDGx70&t=4179s) *(medium)* | +1 | Receiving-school guarantee theme; she asks, she does not oppose. |
 
 Attribution note for 10/6: the 3:24–3:29 turn is medium by seat order. The content strongly matches her: Woodlawn parent, a child with a physical disability whose neighborhood school is not accessible, and an educator [YT:zOUH2Jq7Owo@3:26:21](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12381s).
 
