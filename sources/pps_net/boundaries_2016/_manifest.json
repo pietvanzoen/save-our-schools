@@ -1,0 +1,89 @@
+{
+ "note": "2016 PPS boundary-change documents (Resolution 5256). Original pps.net Centricity URLs now return 404; each file was fetched from its Internet Archive Wayback Machine raw snapshot (id_) on 2026-10-18 via the user's linked computer. Snapshot timestamps were located with the archive.org availability and CDX APIs. Text: pdftotext -layout.",
+ "files": [
+  {
+   "file": "sources/pps_net/boundaries_2016/2016-05-17_board_packet.pdf",
+   "title": "PPS Board of Education, May 17, 2016 meeting packet (includes Resolution 5266 correcting Resolution 5256 boundary language)",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/219/05-17-16%20Final%20Packet.pdf",
+   "fetched_url": "https://web.archive.org/web/20240630081827id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/219/05-17-16%20Final%20Packet.pdf",
+   "wayback_timestamp": "20240630081827",
+   "fetch_date": "2026-10-18",
+   "sha256": "b820b975a6be385201ca92692508bce37d6538be91ec6419de1b99a56543ed66",
+   "bytes": 1155806,
+   "pages": 26,
+   "text": "sources/pps_net/boundaries_2016/2016-05-17_board_packet.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/2016-04-19_meeting_overview.pdf",
+   "title": "PPS Board of Education, Apr 19, 2016 meeting overview (Resolution 5256 adopted as amended)",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/219/04-19-16%20Meeting%20Overview.pdf",
+   "fetched_url": "https://web.archive.org/web/20240630102338id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/219/04-19-16%20Meeting%20Overview.pdf",
+   "wayback_timestamp": "20240630102338",
+   "fetch_date": "2026-10-18",
+   "sha256": "5288be4bab4693ea93e893e24cf01de8ccbfce4c593c9818a814ef83cf0da701",
+   "bytes": 36430,
+   "pages": 2,
+   "text": "sources/pps_net/boundaries_2016/2016-04-19_meeting_overview.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/2016-04-12_board_packet.pdf",
+   "title": "PPS Board of Education, Apr 12, 2016 meeting packet",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/219/04-12-16%20Final%20Packet.pdf",
+   "fetched_url": "https://web.archive.org/web/20240630095429id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/219/04-12-16%20Final%20Packet.pdf",
+   "wayback_timestamp": "20240630095429",
+   "fetch_date": "2026-10-18",
+   "sha256": "531df72e4707a95287412dbd32e8ef67e17d3cfe7cf888b89d5eaaf34e8e3f1d",
+   "bytes": 67889,
+   "pages": 15,
+   "text": "sources/pps_net/boundaries_2016/2016-04-12_board_packet.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/2016-01_west_side_boundary_proposal_2b.pdf",
+   "title": "West Side boundary proposal (V02 / Proposal 2b), early 2016",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/West-Side-Boundaries-V02-WEB.pdf",
+   "fetched_url": "https://web.archive.org/web/20170903060115id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/West-Side-Boundaries-V02-WEB.pdf",
+   "wayback_timestamp": "20170903060115",
+   "fetch_date": "2026-10-18",
+   "sha256": "7550c3b84ae1a2d62eb024d2d0a975e941718d27fc89b17b9fe4a5837dfda87e",
+   "bytes": 1129612,
+   "pages": 2,
+   "text": "sources/pps_net/boundaries_2016/2016-01_west_side_boundary_proposal_2b.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/2016_final_west_side_boundary_changes.pdf",
+   "title": "Final West Side boundary changes (Lincoln and Wilson clusters), Board Resolution No. 5256: summary and map",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Final-West-Side-boundary-changes-WEB.pdf",
+   "fetched_url": "https://web.archive.org/web/20170623060217id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Final-West-Side-boundary-changes-WEB.pdf",
+   "wayback_timestamp": "20170623060217",
+   "fetch_date": "2026-10-18",
+   "sha256": "6a02c879d4515edc095c9d129cec298b0f14324ba848494e9172f85f332df44b",
+   "bytes": 1368621,
+   "pages": 3,
+   "text": "sources/pps_net/boundaries_2016/2016_final_west_side_boundary_changes.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/2018_boundary_reconciliation_res5256.pdf",
+   "title": "Boundary Packet: 2018 staff recommendation reconciling Resolution 5256 middle/high school boundary language (Gray, West Sylvan, Lincoln, Wilson); Boundary Committee supported it June 14, 2018",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/219/Boundary%20Packet.pdf",
+   "fetched_url": "https://web.archive.org/web/20240613032710id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/219/Boundary%20Packet.pdf",
+   "wayback_timestamp": "20240613032710",
+   "fetch_date": "2026-10-18",
+   "sha256": "620924584f2d160ab0f6063799b28e0eca900d1688a3ebba6da3f9157b89cdec",
+   "bytes": 773424,
+   "pages": 5,
+   "text": "sources/pps_net/boundaries_2016/2018_boundary_reconciliation_res5256.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/2016_boundary_change_impact_chief_joseph_peninsula.pdf",
+   "title": "Internal stakeholder response to D-BRAC options for Chief Joseph and Peninsula (original file name 'Boundary change impact.pdf')",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Boundary%20change%20impact.pdf",
+   "fetched_url": "https://web.archive.org/web/20170624023317id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Boundary%20change%20impact.pdf",
+   "wayback_timestamp": "20170624023317",
+   "fetch_date": "2026-10-18",
+   "sha256": "de1c230f2090bf607417c771ab9992f947e130c2925c393cfef62acffbb9faa7",
+   "bytes": 197158,
+   "pages": 2,
+   "text": "sources/pps_net/boundaries_2016/2016_boundary_change_impact_chief_joseph_peninsula.pdf.txt"
+  }
+ ]
+}

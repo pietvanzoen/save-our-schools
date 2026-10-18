@@ -96,6 +96,17 @@ Analysis: how the letter's figures compare with the archive.
 - 2026-10-05 KATU: "Portland Public Schools proposes closing up to 14 schools amid declining enrollment" [NEWS:NEWS-20261005-katu-1] — KATU's release-night story details the counts in each scenario and lists receiving schools. Both scenarios move James John students to Sitton; James John parents described shock and a Sitton parent worried about crowding. Armstrong called considering any closure extraordinarily difficult and will ma…
 - 2026-10-05 KPTV/FOX12: "PPS proposes closing up to 14 schools as district faces $65M shortfall" [NEWS:NEWS-20261005-kptv-1] — FOX 12 reports the two scenarios against a $65 million shortfall, listing all closures under A and B and the shared changes (Odyssey to MLC, end of MLC grades 9-12, seven K-8s to K-5, dual-language programs relocated, Sunnyside losing its environmental focus). Armstrong said October would be used fo…
 
+## 2016 boundary change (Resolution 5256)
+
+The Board adopted Resolution 5256, "Attendance Area Changes for Lincoln and Wilson Cluster Schools", as amended on Apr 19, 2016 [PPS:pps_net/boundaries_2016/2016-04-19_meeting_overview.pdf p.2]. Staff brought it back on May 17, 2016 as Resolution 5266 "to correct some data inconsistencies and typos" [PPS:pps_net/boundaries_2016/2016-05-17_board_packet.pdf p.1]. Maplewood lost three areas:
+- **To Hayhurst:** "The area east of SW 35th Avenue and south of SW North Carolina St, and the area east of SW 31st Ave. and south of SW Nevada Ct." Current Maplewood students in these areas were guaranteed transfer to Jackson Middle School, and all Maplewood students were given priority to transfer to Hayhurst [PPS:pps_net/boundaries_2016/2016-05-17_board_packet.pdf p.21].
+- **To Rieke:** "the area located south of SW Caldew St. and east of SW 25th Ave". The resolution calls this "Additional overcrowding relief for Maplewood school" and says the area is less than a mile from Rieke, so bused students could walk or bike instead [PPS:pps_net/boundaries_2016/2016-05-17_board_packet.pdf p.21].
+- The same resolution moved Maplewood's middle-school feeder from Gray to Jackson beginning in 2017 [PPS:pps_net/boundaries_2016/2016-05-17_board_packet.pdf p.20].
+
+PPS's family summary of the change has a map labeling the "Maplewood to Hayhurst" and "Maplewood to Rieke" areas [PPS:pps_net/boundaries_2016/2016_final_west_side_boundary_changes.pdf p.2–3].
+
+Analysis: in 2016 PPS gave Maplewood overcrowding as the reason for shrinking its zone. In 2026, low enrollment is part of the case for closing it.
+
 ## Discrepancies and notes
 - D03: Markham in Scenario B: K-2 Intensive Skills Classroom (see `_discrepancies.md`)
 - C36: rightsizing_scenarios.csv corrected (A and B): Adds special-education program move (see `_discrepancies.md`)
