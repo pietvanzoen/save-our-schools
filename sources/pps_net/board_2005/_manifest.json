@@ -1,0 +1,175 @@
+{
+ "note": "PPS Board of Education materials, Dec 2004 - Mar 2005 (the 2005 Enrollment Data Analysis and the March 14, 2005 school-closure resolutions), plus the Mar 3, 2003 superintendent memo on FY03-04 closures. From the old PPS site (pps.k12.or.us / cms*.pps.k12.or.us), fetched from Internet Archive raw snapshots (id_) on 2026-10-19 via the repository owner's linked computer; URLs found with the Wayback CDX API. Board books are scanned: .pdf.ocr.txt is tesseract OCR (verify against the PDF before quoting).",
+ "files": [
+  {
+   "file": "sources/pps_net/board_2005/2003-03-03_supt_memo_school_closures_fy03-04.pdf",
+   "original_url": "http://www.pps.k12.or.us:80/news-c/school_closure0304.pdf",
+   "fetched_url": "https://web.archive.org/web/20051031164259id_/http://www.pps.k12.or.us:80/news-c/school_closure0304.pdf",
+   "wayback_timestamp": "20051031164259",
+   "fetch_date": "2026-10-19",
+   "sha256": "3de94f911c151106b0f28beefedccb6a006308b29474dab3ae6d53240633e879",
+   "bytes": 428570,
+   "text": "sources/pps_net/board_2005/2003-03-03_supt_memo_school_closures_fy03-04.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-01-10_minutes_regular.pdf",
+   "original_url": "http://www.pps.k12.or.us/depts-c/board/minutes/reg_1_10_05.pdf",
+   "fetched_url": "https://web.archive.org/web/20061009132157id_/http://www.pps.k12.or.us/depts-c/board/minutes/reg_1_10_05.pdf",
+   "wayback_timestamp": "20061009132157",
+   "fetch_date": "2026-10-19",
+   "sha256": "19311a46868e34eb57894dc283631077cf33d2203e032b1b6f0e002b85d76770",
+   "bytes": 71778,
+   "text": "sources/pps_net/board_2005/2005-01-10_minutes_regular.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-01-10_minutes_board_action.pdf",
+   "original_url": "http://www.pps.k12.or.us/depts-c/board/minutes/bam_1_10_05.pdf",
+   "fetched_url": "https://web.archive.org/web/20061009132002id_/http://www.pps.k12.or.us/depts-c/board/minutes/bam_1_10_05.pdf",
+   "wayback_timestamp": "20061009132002",
+   "fetch_date": "2026-10-19",
+   "sha256": "2676af0b746eea1eb32b5ee1c2b647624d0f29062e7bd69806dc90b202f592ec",
+   "bytes": 206807,
+   "text": "sources/pps_net/board_2005/2005-01-10_minutes_board_action.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-01-24_minutes_regular.pdf",
+   "original_url": "http://www.pps.k12.or.us/depts-c/board/minutes/reg_1_24_05.pdf",
+   "fetched_url": "https://web.archive.org/web/20061009132143id_/http://www.pps.k12.or.us/depts-c/board/minutes/reg_1_24_05.pdf",
+   "wayback_timestamp": "20061009132143",
+   "fetch_date": "2026-10-19",
+   "sha256": "88ca3b2cbdf1d6fba5a156989e2aba12af23a9b8e0ceb857950832184a45a185",
+   "bytes": 94214,
+   "text": "sources/pps_net/board_2005/2005-01-24_minutes_regular.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-01-24_minutes_board_action.pdf",
+   "original_url": "http://www.pps.k12.or.us/depts-c/board/minutes/bam_1_24_05.pdf",
+   "fetched_url": "https://web.archive.org/web/20061009132021id_/http://www.pps.k12.or.us/depts-c/board/minutes/bam_1_24_05.pdf",
+   "wayback_timestamp": "20061009132021",
+   "fetch_date": "2026-10-19",
+   "sha256": "6a01396ecbc055e73a220bd5a257928be4a86b7485fc59a4a1e1fecba0529d31",
+   "bytes": 211452,
+   "text": "sources/pps_net/board_2005/2005-01-24_minutes_board_action.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2004-12-13_minutes_regular.pdf",
+   "original_url": "http://www.pps.k12.or.us/depts-c/board/minutes/12_13_04_reg_MINUTES.pdf",
+   "fetched_url": "https://web.archive.org/web/20061009132207id_/http://www.pps.k12.or.us/depts-c/board/minutes/12_13_04_reg_MINUTES.pdf",
+   "wayback_timestamp": "20061009132207",
+   "fetch_date": "2026-10-19",
+   "sha256": "4c512f487b112005d276b0dbdc8b3be1e68a26a47edb42e2fe706fa112a55fb4",
+   "bytes": 84794,
+   "text": "sources/pps_net/board_2005/2004-12-13_minutes_regular.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2004-12-13_minutes_board_action.pdf",
+   "original_url": "http://www.pps.k12.or.us/depts-c/board/minutes/12_13_04_bam_MINUTES.pdf",
+   "fetched_url": "https://web.archive.org/web/20061009132015id_/http://www.pps.k12.or.us/depts-c/board/minutes/12_13_04_bam_MINUTES.pdf",
+   "wayback_timestamp": "20061009132015",
+   "fetch_date": "2026-10-19",
+   "sha256": "fee8e17e03bb2ffe60af37849b033edbee91ab6d7a7b2f04ab0761dbb4981cbc",
+   "bytes": 341218,
+   "text": "sources/pps_net/board_2005/2004-12-13_minutes_board_action.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2004-12-09_minutes_steering.pdf",
+   "original_url": "http://www.pps.k12.or.us/depts-c/board/minutes/12_09_04_steer_MINUTES.pdf",
+   "fetched_url": "https://web.archive.org/web/20061009131859id_/http://www.pps.k12.or.us/depts-c/board/minutes/12_09_04_steer_MINUTES.pdf",
+   "wayback_timestamp": "20061009131859",
+   "fetch_date": "2026-10-19",
+   "sha256": "e20682d7b20e442a76b41c79042cec70dca50b1c5d3b85fd80f90628e04535dc",
+   "bytes": 17272,
+   "text": "sources/pps_net/board_2005/2004-12-09_minutes_steering.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-02-14_board_book_part1.pdf",
+   "original_url": "http://cms10.pps.k12.or.us/.docs/pg/400/rid/10005/f/02_14_05_BB_part1.pdf",
+   "fetched_url": "https://web.archive.org/web/20061003000219id_/http://cms10.pps.k12.or.us/.docs/pg/400/rid/10005/f/02_14_05_BB_part1.pdf",
+   "wayback_timestamp": "20061003000219",
+   "fetch_date": "2026-10-19",
+   "sha256": "f1da414ed5b81d22a3cb659abda3a7b12391be3d9410c2665e52aaab6e56173b",
+   "bytes": 2740409,
+   "text": "sources/pps_net/board_2005/2005-02-14_board_book_part1.pdf.ocr.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-02-14_board_book_part2.pdf",
+   "original_url": "http://cms10.pps.k12.or.us/.docs/pg/400/rid/10006/f/02_14_05_BB_part2.pdf",
+   "fetched_url": "https://web.archive.org/web/20061002235741id_/http://cms10.pps.k12.or.us/.docs/pg/400/rid/10006/f/02_14_05_BB_part2.pdf",
+   "wayback_timestamp": "20061002235741",
+   "fetch_date": "2026-10-19",
+   "sha256": "0010586c1e3455dbcbacc80e28c6c7229275c0895c1dc1d214635ac53df6a840",
+   "bytes": 611239,
+   "text": "sources/pps_net/board_2005/2005-02-14_board_book_part2.pdf.ocr.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-02-28_board_book.pdf",
+   "original_url": "http://cms10.pps.k12.or.us/.docs/pg/400/rid/10010/f/BoardBook_02_28_05.pdf",
+   "fetched_url": "https://web.archive.org/web/20061003001858id_/http://cms10.pps.k12.or.us/.docs/pg/400/rid/10010/f/BoardBook_02_28_05.pdf",
+   "wayback_timestamp": "20061003001858",
+   "fetch_date": "2026-10-19",
+   "sha256": "4d1cdc0b2716215edc3eec5074c0690102654c6650f694dc48b161fbf362429e",
+   "bytes": 1965179,
+   "text": "sources/pps_net/board_2005/2005-02-28_board_book.pdf.ocr.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-02-28_minutes_regular.pdf",
+   "original_url": "http://cms10.pps.k12.or.us/.docs/pg/400/rid/10036/f/reg_2_28_05.pdf",
+   "fetched_url": "https://web.archive.org/web/20061003005436id_/http://cms10.pps.k12.or.us/.docs/pg/400/rid/10036/f/reg_2_28_05.pdf",
+   "wayback_timestamp": "20061003005436",
+   "fetch_date": "2026-10-19",
+   "sha256": "7214f0234ff107d9933a0827c9cf85703d577205dbeac3207ee42efaa6cc0b9c",
+   "bytes": 58021,
+   "text": "sources/pps_net/board_2005/2005-02-28_minutes_regular.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-02-28_minutes_board_action.pdf",
+   "original_url": "http://cms10.pps.k12.or.us/.docs/pg/400/rid/10016/f/bam_022805.pdf",
+   "fetched_url": "https://web.archive.org/web/20061003004417id_/http://cms10.pps.k12.or.us/.docs/pg/400/rid/10016/f/bam_022805.pdf",
+   "wayback_timestamp": "20061003004417",
+   "fetch_date": "2026-10-19",
+   "sha256": "051b9febc90a66dc5ddd1983136382042108414bbfe1a1f5dbc68aa14364bb1b",
+   "bytes": 161745,
+   "text": "sources/pps_net/board_2005/2005-02-28_minutes_board_action.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-03-14_minutes_regular.pdf",
+   "original_url": "http://cms10.pps.k12.or.us/.docs/pg/400/rid/10050/f/03_14_05_reg_MINUTES.pdf",
+   "fetched_url": "https://web.archive.org/web/20061003005424id_/http://cms10.pps.k12.or.us/.docs/pg/400/rid/10050/f/03_14_05_reg_MINUTES.pdf",
+   "wayback_timestamp": "20061003005424",
+   "fetch_date": "2026-10-19",
+   "sha256": "5e56a6b5772bf0e14168a6ed68663f3a7b1503f8a0ea9ea11539e87d3a9de352",
+   "bytes": 68593,
+   "text": "sources/pps_net/board_2005/2005-03-14_minutes_regular.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-03-14_minutes_board_action.pdf",
+   "original_url": "http://cms10.pps.k12.or.us/.docs/pg/400/rid/10017/f/bam_031405.pdf",
+   "fetched_url": "https://web.archive.org/web/20061003004421id_/http://cms10.pps.k12.or.us/.docs/pg/400/rid/10017/f/bam_031405.pdf",
+   "wayback_timestamp": "20061003004421",
+   "fetch_date": "2026-10-19",
+   "sha256": "dd1e6c0e4463026adb1881c616e26220e1a11492d0f19e5fcf9d0372abbc7e2c",
+   "bytes": 309929,
+   "text": "sources/pps_net/board_2005/2005-03-14_minutes_board_action.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005-03-14_board_book.pdf",
+   "original_url": "http://cms10.pps.k12.or.us/.docs/pg/400/rid/10015/f/03_14_05_BB.pdf",
+   "fetched_url": "https://web.archive.org/web/20061003001333id_/http://cms10.pps.k12.or.us/.docs/pg/400/rid/10015/f/03_14_05_BB.pdf",
+   "wayback_timestamp": "20061003001333",
+   "fetch_date": "2026-10-19",
+   "sha256": "8eb99c39017239df467f08f92617bf6c34d3279973eb83dd1452d602f66aa855",
+   "bytes": 1643866,
+   "text": "sources/pps_net/board_2005/2005-03-14_board_book.pdf.ocr.txt"
+  },
+  {
+   "file": "sources/pps_net/board_2005/2005_school_closure_letter_log_summary.pdf",
+   "original_url": "http://cms9.pps.k12.or.us/.docs/pg/400/rid/11430/f/School_Closure_Letter_Log_Summary.pdf",
+   "fetched_url": "https://web.archive.org/web/20061002235829id_/http://cms9.pps.k12.or.us/.docs/pg/400/rid/11430/f/School_Closure_Letter_Log_Summary.pdf",
+   "wayback_timestamp": "20061002235829",
+   "fetch_date": "2026-10-19",
+   "sha256": "e88d358cedc83016a7998550cc58cb465c591f2c4e72b6346d56f15f92bb0949",
+   "bytes": 19958,
+   "text": "sources/pps_net/board_2005/2005_school_closure_letter_log_summary.pdf.txt"
+  }
+ ]
+}
