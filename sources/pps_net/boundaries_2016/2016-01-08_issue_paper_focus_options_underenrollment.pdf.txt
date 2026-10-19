@@ -1,0 +1,543 @@
+              SYSTEM PLANNING AND PERFORMANCE - PORTLAND PUBLIC SCHOOLS
+
+                              FOCUS OPTION REVIEW PART I: IMPACT OF FOCUS OPTIONS ON
+                              UNDER-ENROLLMENT AT NEIGHBORHOOD SCHOOLS
+
+
+
+
+In 2013, the Superintendent’s Advisory Committee for Enrollment & Transfer (SACET) was tasked with
+developing recommendations to better align enrollment and transfer policies with the Portland Public
+Schools’ (PPS) strategic framework, and Racial Educational Equity Policy. In keeping with the
+Superintendent’s charge, SACET concentrated on focus option schools as described in the Education
+Options policy (6.10.022-P). Among the recommendations made by the committee in 2014 was to
+implement a quality review of District focus option schools, including dual language immersion
+programs, with the following objectives: 1) an explanation of the purpose of each focus option and the
+development of measures of success and an evaluation process (Recommendation 3.1 and 3.2) and 2) an
+examination of focus option locations as part of the district-wide boundary review, now called
+enrollment balancing (Recommendation 3.3).
+
+This issue paper contains preliminary analysis conducted by the System Planning and Performance
+department (SPP) to support the Education Options Review committee, the group charged with
+conducting the focus option review. This analysis will also be provided to the District-wide Boundary
+Review Advisory Committee (DBRAC) to assist with enrollment balancing and specifically with the goal of
+sizing neighborhood schools in order to provide equitable core programming to all students.
+
+This analysis addresses one theme: would changing the mix of focus options or how students access
+them alleviate under-enrollment or over-crowding at neighborhood schools? The role charter schools
+and community-based alternatives plays will also be reviewed. Specific questions to be addressed
+include:
+
+   1. Are there situations where focus option schools are contributing to under-enrollment at
+      neighborhood schools?
+   2. Are there situations where re-thinking the locations of focus option schools could help to
+      alleviate under-enrollment or over-crowding at neighborhood schools?
+   3. If fewer students attended focus options in the Southeast, where we see a disproportionate
+      number of focus option schools, would neighborhood schools in the Southeast become over-
+      crowded?
+   4. If there are focus option or alternative schools that should change locations to alleviate under-
+      enrollment or over-crowding issues, what buildings might be able to support these schools?
+
+
+                               EXECUTIVE SUMMARY – KEY FINDINGS
+
+
+   •    Relocating focus options is not a primary driver in alleviating under-enrollment: There are a
+       number of schools where the building cannot accommodate sufficient enrollment for its current
+       configuration. Even if fewer students were enrolled in focus option schools, it would not address
+       under-enrollment issues. This is true for Creston, Skyline, Marysville, Lee and potentially Vestal.
+
+
+SPP – Focus Option Analysis                                                                         Page 1
+   •   However, there is a risk to compounding current under-enrollment problems by re-locating
+       focus options to the North or Northeast due to the preponderance of Charter schools in these
+       areas: While the North and Northeast has few focus options, it has many charter schools.
+       Charter schools are an important factor in potential under-enrollment at neighborhood schools,
+       especially in those neighborhoods. Locating focus options in the North or Northeast could
+       potentially drain further enrollment from neighborhood schools, especially given the
+       preponderance of charter schools in the area.
+   •   Dual language immersion programs draw large numbers of students away from higher poverty
+       under-enrolled schools; however, DLI aims to serve underserved populations. Dual language
+       programs benefit underserved students, especially English Language Learners, and should be
+       located in areas where native speakers of the partner language reside.
+   •   For schools in the Southeast, the disproportionate number of educational options may be
+       alleviating overcrowding. Moving focus options out of the Southeast may increase overcrowding
+       at some neighborhood schools.
+   •   Relocating thematic focus option schools and other educational options has potential in certain
+       cases to simultaneously alleviate over-crowding and under-enrollment
+           • ACCESS: Relocating this alternative program could alleviate overcrowding on the split
+               campus Beverly Cleary school.
+           • Alliance: There may be potential for Alliance HS to become a single rather than split
+               campus school, which could free the Meek site for a different educational option.
+           • Creative Science: Relocating Creative Science could alleviate over-crowding and under-
+               enrollment in the Southeast if the current site converts to a neighborhood elementary
+               school feeding to a reconfigured middle school (such as Harrison Park).
+           • Metropolitan Learning Center (MLC): The MLC site could hold a 2-section K5 and could
+               alleviate overcrowding at Chapman, but could result in the creation of two smaller K5s
+               that would be at higher risk of not being able to sustainably offer the core program due to
+               their small size.
+           • Odyssey: Odyssey no longer fits into Hayhurst and needs a new location. Removing
+               Odyssey program from the Hayhurst facility, however, will result in under-enrollment at
+               Hayhurst. There may be opportunity on the west side to increase the size of Hayhurst’s
+               boundary, while also reducing over-crowding at Chapman.
+           • Richmond: It is not necessary to relocate Richmond in order to right-size neighborhood
+               schools. PPS could relocate the program and still find a solution resulting in right-sized
+               neighborhood schools within the region if there were other important reasons to do so.
+           • Sunnyside: It is not necessary to relocate the Sunnyside Environmental focus option to
+               right-size neighborhood schools. It is possible to develop a solution where Sunnyside
+               becomes a neighborhood school or focus option-only school if there are other critical
+               reasons for this change. However, there is not the opportunity for Sunnyside
+               Environmental to expand its district wide enrollment due to the neighborhood
+               enrollment.
+           • Winterhaven: Winterhaven’s building would not support a neighborhood 2 section K-8
+               and therefore, does not assist in alleviating over-crowding or under-enrollment at
+               neighborhood schools.
+
+
+SPP –Focus Option Analysis                                                                         Page 2
+   •   There are not many buildings that have enough classrooms available to house the programs
+       identified for relocation through enrollment balancing scenarios: ACCESS, Creative Science,
+       and Odyssey. Due to enrollment growth, PPS has fewer and fewer facilities available to house
+       district-wide programs. See page 12 for a summary of buildings that are not currently operating
+       as neighborhood or focus option locations and that have enough classrooms for these programs.
+
+
+                                               METHOD
+
+As part of enrollment balancing, we wanted to better understand the impact of focus options on the
+enrollment of neighborhood schools. We believe this analysis is especially timely given the primary goal
+of Enrollment Balancing: to right-size neighborhood schools in order to provide equitable core
+programming to students. This analysis focuses only on neighborhood schools that are under-enrolled
+or nearly under-enrolled—because it is these schools that have the most difficulty sustainably offering
+the core program—and on overcrowded neighborhood schools, as these schools face the most difficulty
+in having the physical space necessary to offer the core program.
+
+October 1, 2015 data was reviewed to determine if and how much focus option schools are affecting
+enrollment at the most under-enrolled schools. Other factors that might be contributing to a school’s
+low enrollment were reviewed. With the exception of Alliance and MLC, this analysis did not focus on
+high school focus option schools or programs.
+
+The focus of this analysis was overcrowding and under-enrollment at neighborhood schools. K-5 and K-
+8 Schools are considered under-enrolled if enrollment per grade is below 50 students per grade. Schools
+are considered overcrowded if their facility utilization (the number of classrooms divided by the number
+of teachers) is greater than 105%.
+
+Schools may be both overcrowded and under-enrolled if they have both fewer than 50 students were
+grade and have too few classrooms to accommodate these students.
+
+                         OVERVIEW OF CURRENT EDUCATIONAL OPTIONS
+
+Types of Educational Options
+
+Several types of programs and schools might be considered in-district “educational options”. For the
+purposes of this review, the following types of schools are considered focus options:
+
+Dual Language Immersion (DLI)
+
+These programs offer instruction in both English and a partner language. The priority of DLI programs
+are to close opportunity gaps for historically underserved students. PPS offers programs in Spanish,
+Japanese, Mandarin Chinese, Russian, and Vietnamese. Currently, all DLI programs are co-located with a
+neighborhood school except for Richmond, which is a standalone immersion school. Families apply for
+their students to attend DLI programs. Richmond, Ainsworth, Woodstock (in the process of converting
+to a two-way program) and West Sylvan are one-way dual language immersion programs that serve
+primarily English native speakers. All other DLI schools are two-way immersion programs that aim to
+
+
+SPP –Focus Option Analysis                                                                        Page 3
+serve both minority language and majority language students with each group modeling their native
+language for the other. James John, Rigler, Scott, and Sitton DLI programs serve only neighborhood
+families; no transfer slots are open to students from other neighborhoods.
+
+Thematic Focus Options
+
+These programs offer a unique curriculum around a theme. PPS currently offers programs that are both
+standalone and co-located with neighborhood schools in themes such as art, science, history, career and
+technical education. Two focus options, Sunnyside and Buckman, draw enrollment primarily from their
+neighborhoods with some spots made available for out-of-neighborhood applicants.
+
+Alternative Options
+
+For the purposes of this report and the educational option review, we are also including in-district
+alternatives including ACCESS, Alliance High School, and MLC. These options are not part of the PPS
+lottery; instead they have separate requirements (such as academic achievement and demonstrated
+need for alternative learning environment) and admission procedures.
+
+
+
+School                       Grades Quadrant Program/Need                    Access
+ACCESS at Rose City          1-8    NE       Highly gifted with              Application,
+Park                                         demonstrated need for           references
+                                             alternative environment
+Alliance                     10-12  NE       Alternative high schools at     Application,
+                                             Benson and Meek campuses        counselor
+                                                                             recommendation
+Ainsworth                    K-5     SW        Spanish Immersion             PPS Lottery
+Atkinson                     K-5     SE        Spanish Immersion             PPS Lottery
+Beach                        K-8     N         Spanish Immersion             PPS Lottery
+Beaumont                     6-8     NE        Spanish Immersion             PPS Lottery
+Benson                       9-12    NE        Thematic – Career Technical   PPS Lottery
+                                               Education
+Bridger                      K-8     SE        Spanish Immersion             PPS Lottery
+Buckman                      K-5     SE        Thematic – Arts               Guarantee for
+                                                                             neighborhood/
+                                                                             PPS Lottery
+César Chávez                 K-8     N         Spanish Immersion             PPS Lottery
+Creative Science             K-8     SE        Thematic – Science            PPS Lottery
+da Vinci Arts                6-8     NE        Thematic – Arts               PPS Lottery
+East/West Sylvan             6-8     SW        Spanish Immersion             PPS Lottery
+Hayhurst - Odyssey           K-8     SW        Thematic – History            PPS Lottery
+Hosford                      6-8     SE        Chinese Immersion             PPS Lottery
+James John                   K-5     N         Spanish Immersion             PPS Lottery
+Jefferson High School        9-12    N         Thematic - Middle College     Guarantee for
+
+
+SPP –Focus Option Analysis                                                                        Page 4
+                                         for Advanced Studies          Jefferson
+                                                                       neighborhood;
+                                                                       PPS Lottery
+Kelly                        K-5    SE   Russian Immersion             PPS Lottery
+King                         K-8    SE   Mandarin Immersion            PPS Lottery
+Lane                         6-8    SE   Russian Immersion             PPS Lottery
+Lent                         K-8    SE   Spanish Immersion             PPS Lottery
+Metropolitan Learning        K-12   NW   Parent/student interest in    Application
+Center (MLC)                             self-directed, experiential
+                                         learning
+Mt. Tabor                    6-8    SE   Japanese and Spanish          PPS Lottery
+                                         Immersion
+Richmond                     PK-5   SE   Japanese Immersion (entire    PPS Lottery
+                                         school)
+Rigler School                K-5    NE   Spanish Immersion             PPS Lottery
+Roseway Heights              K-8    NE   Vietnamese Immersion          PPS Lottery
+Scott Spanish                K-8    NE   Spanish Immersion             PPS Lottery
+Sitton Spanish               K-5    N    Spanish Immersion             PPS Lottery
+Sunnyside                    K-8    SE   Thematic - Environmental      Guarantee for
+Environmental                            Studies                       neighborhood/
+                                                                       PPS Lottery
+Winterhaven                  K-8    SE   Thematic - Math and           PPS Lottery
+                                         Science
+Woodstock                    K-5    SE   Chinese Immersion             PPS Lottery
+
+
+
+
+SPP –Focus Option Analysis                                                             Page 5
+How are Educational Options accessed?
+
+
+EDUCATIONAL       DISTRICT-WIDE          HYBRID – BOTH          100%                OTHER
+OPTION TYPE       LOTTERY                DISTRICT-WIDE          NEIGHBORHOOD
+                                         LOTTERY AND            BASED--LOTTERY
+                                         NEIGHBORHOOD
+                                         BASED
+THEMATIC           • Benson               • Sunnyside
+                   • DaVinci              • Buckman
+                   • Winterhaven          • Jefferson
+
+IMMERSION          • Richmond                                     • James John
+                   • Most DLI                                     • Rigler
+                     programs have                                • Scott
+                     lottery transfer                             • Sitton
+                     slots for
+                     neighborhood and
+                     non-neighborhood
+ALTERNATIVE                                                                          • Access
+                                                                                     • MLC
+                                                                                     • Alliance
+
+
+
+        IMPACT OF FOCUS OPTION SCHOOLS ON ENROLLMENT AT UNDER-ENROLLED
+                             NEIGHBORHOOD SCHOOLS
+
+K-5 and K-8 Schools are considered under-enrolled if enrollment per grade is below 50 students per
+grade. We also analyzed schools that were nearly under-enrolled, including Lee and Arleta (50.7
+students per grade) and Woodmere (52 students per grade).
+
+                       2015-16 Under-Enrolled or Nearly Under-Enrolled Schools
+
+
+
+
+SPP –Focus Option Analysis                                                                        Page 6
+Next, we examined the capture rates of each of these schools to determine if this was a factor in the
+school’s under-enrollment (as opposed to some other factor, such as a boundary drawn too small).
+
+                                      2015-16 Capture Rates and Ranks
+
+
+
+
+                                                                                 th
+                        Note. A full pie chart indicates that a school is within 75 percentile or
+                        above for capture rates. An empty pie chart indicates that a school
+                                    th
+                        is below 25 percentile. Includes Woodmere, which is near under-
+                        enrolled (52 students per grade).
+
+A total of 62 schools were analyzed. The “capture rate rank” indicates in what order a school’s capture
+rate ranked in comparison to the other 61 schools with grades K-8 for the 2015-16 school year.
+
+On average, under-enrolled schools appear to have lower capture rates compared to other schools. Of
+the twelve schools examined, 8 of them were below average. Six of the 12 schools (King, Peninsula,
+Creston, Vernon, Vestal, and Woodlawn) were in the bottom quartile. Skyline appears to be an outlier,
+as it is in the top quartile for capture rate.
+
+The next key question we addressed is where the uncaptured neighborhood students attend instead of
+their neighborhood school. If these students were attending their neighborhood schools, would under-
+enrollment issues be addressed?
+
+Below is a chart indicating the percent of students attending educational options, including focus option
+schools (i.e. DLI and thematic focus options) and in-district alternatives (such as ACCESS and MLC). The
+chart also lists facility “utilization” – above 105% is considered significantly over-crowded. Above 100% is
+considered over-crowded. It also outlines the percentage of students attending charter schools, another
+lottery based option for students (although PPS does not run this lottery).
+
+
+
+
+SPP –Focus Option Analysis                                                                           Page 7
+                      2015-16 Attending PPS Educational Options and Facility Utilization
+
+
+
+
+Note. Enrollment per grade and utilization shown is the estimate used in modeling scenarios for enrollment balancing.
+
+This chart showcases the following:
+
+    •   For some schools, their building is simply not right-sized to accommodate sufficient enrollment in
+        their current configuration. Even if fewer students were lost to alternative schools, they would
+        become overcrowded, because the buildings are too small to accommodate sufficient enrollment
+        in their current grade configuration. This is true for Creston, Skyline, Marysville and Lee.
+    •   Charter schools are an important factor in potential under-enrollment at neighborhood schools,
+        especially in the North and Northeast. Woodlawn loses more students to charter schools than it
+        does to other educational options. Further analysis on Woodlawn indicates that the school loses
+        only 17 students to thematic focus options and 57 students to Dual Language Immersion. Vernon
+        and Peninsula are also strongly impacted by charter schools. Locating additional focus options in
+        the North or Northeast could potentially drain further enrollment from neighborhood schools,
+        especially given the preponderance of charter schools in the area.
+
+
+                           Dual Language Immersion Versus Thematic Focus Options
+
+
+
+
+Note: Educational options includes DLI, thematic focus options, and district alternatives (e.g., ACCESS, MLC). Only DLI and
+focus options shown here for comparison. “Attending DLI” only designates students attending dual language immersion not
+
+
+
+
+SPP –Focus Option Analysis                                                                                              Page 8
+through their neighborhood school. For example, King neighborhood students attending King DLI are counted as attending
+their neighborhood school not counted in the dual language immersion column.
+
+For seven under-enrolled schools, the majority of neighborhood students attending educational options
+dual language programs outside of their neighborhood schools. These schools are Peninsula, Marysville,
+Creston, King, Whitman, Vernon, and Woodlawn. Of these seven schools, all are in higher poverty
+neighborhoods (ranging from 38% to 62% direct certification in 2014-15).
+
+Siting is important for dual language immersion programs. Co-located dual language immersion
+programs are sited to be proximal to native speakers of the partner language. A RAND study of dual
+language immersion programs in PPS schools suggested that DLI improves reading scores and the
+percentage of English Language Learners passing the English Language Proficiency Assessment (ELPA).
+
+             ARE THERE NEIGHBORHOOD SCHOOLS WHERE EDUCATIONAL OPTIONS
+                           ARE PREVENTING OVER-CROWDING?
+
+The following table shows the highest utilization schools and the number of students within each school
+neighborhood that attend educational options (including focus options, alternatives, and dual language
+programs outside of their neighborhood).
+
+                                     Schools with 100% or Higher Utilization
+
+
+
+
+Of the neighborhood schools in the above table, many would likely be more overcrowded if the students
+attending educational options were instead attending their neighborhood school.
+
+
+
+SPP –Focus Option Analysis                                                                                        Page 9
+However, we cannot assume that students attending educational options would switch to their
+neighborhood school if the educational option was relocated. Families might choose another option,
+such as a charter or private school instead. Similarly, we cannot assume that all students enrolled in an
+educational option will continue to enroll in that program if it is sited elsewhere.
+
+Focus Option Siting: A Closer Look at the Southeast
+
+In this section, we address the question: If fewer students attended focus options in the Southeast (e.g.,
+if focus options were re-sited elsewhere), where we see a disproportionate number of focus option
+schools, would Southeast neighborhood schools become overcrowded?
+
+Example: Bridger
+
+Twenty-eight percent of students (146 students) in the Bridger neighborhood are attending PPS focus
+options or alternative schools instead of Bridger, which is nearly overcrowded (104.7% utilization)
+according to the modeling used to develop enrollment balancing scenarios.
+
+                                  What Schools Do Bridger Neighborhood Students Attend?
+                                                                                      Number from Bridger
+                                         Schools/Programs                             Neighborhood
+                                                                                      Attending
+                        ACCESS                                                        8
+                        Buckman                                                       7
+Attending Educational
+
+
+
+
+                        Creative Science School                                       50
+                        Da Vinci                                                      7
+                        Odyssey                                                       1
+                        Sunnyside Environmental                                       7
+                        Winterhaven                                                   4
+Options
+
+
+
+
+                        Dual Language Immersion (not including Bridger)               62
+                        Total Students Attending Educational Options                  146
+                        Other Neighborhood School                                     85
+                        PPS Charter                                                   11
+                        Bridger (including Bridger DLI)                               273
+
+If all 146 students attending focus options and alternatives were to instead enroll at Bridger, their
+average enrollment per grade would jump from about 2 sections (average of 52.9 students per grade) to
+close to 3 sections per grade (average of 69.1 students per grade). These additional students need
+additional teachers. Because Bridger is already highly utilized, even one or two more teachers would
+cause Bridger to become overcrowded. Nearby focus options and alternatives play a role in alleviating
+Bridger’s overcrowding.
+
+
+
+
+SPP –Focus Option Analysis                                                                          Page 10
+Example: Sunnyside Environmental
+
+In another example, we explore the effects of Sunnyside becoming a neighborhood school. Sunnyside
+enrollment consists of both students from a neighborhood catchment and from PPS lottery applications.
+Sunnyside enrolled 574 students as of October 1, 2015, of which 360 are from the neighborhood and
+214 are from other schools.
+
+             Number of Transfers into Sunnyside
+
+Neighborhood                  Students from Neighborhood
+Hosford                                                 23
+Abernethy                                               19
+Mt Tabor                                                16
+Glencoe                                                 15
+Creston                                                 10
+Lee                                                     10
+Boise-Eliot/Humboldt                                     9
+Beverly Cleary                                           8
+Buckman                                                  8
+Sabin                                                    8
+Other Neighborhoods                                     88
+Sunnyside Environmental                                360
+
+If Sunnyside became a neighborhood school and the K-8 environmental focus option program was to
+relocate, we cannot be sure what the changes to Sunnyside’s capture rate would be as a neighborhood
+school. Depending on where the focus option relocated, it is also uncertain how many students—and
+from which neighborhoods—would enroll. However, we can see that Sunnyside primarily draws
+students from adjacent neighborhoods. If the focus option was relocated to, for example,
+North/Northeast Portland, it could draw similar numbers of students from proximate schools (for
+example, Hosford and Abernethy lose about 20 students each—close to a full class of students). If this
+was the case, already under-enrolled schools such as Woodlawn, Peninsula, and King could lose even
+more students and be even less able to sustainably provide the core program.
+
+                 ARE THERE EDUCATIONAL OPTIONS THAT COULD BE CHANGED
+                             TO ALLEVIATE OVERCROWDING?
+
+In some situations, moving educational options may alleviate overcrowding in co-located or nearby
+neighborhood schools. The next section summarizes opportunities and challenges at focus option and
+alternative sites.
+
+ACCESS
+
+ACCESS is a district-wide alternative program serving students with specific social and academic needs; it
+occupies 16 classrooms in the Rose City Park site, which is shared with Beverly Cleary, an overcrowded
+
+SPP –Focus Option Analysis                                                                        Page 11
+school split across Hollyrood, Fernwood, and Rose City Park campuses. Relocating ACCESS could alleviate
+overcrowding at Beverly Cleary through grade reconfiguration.
+
+Alliance
+
+Alliance High School is split across Benson and Meek campuses. It serves a high percentage of
+underserved students and may need to be relocated if they are not provided space as part of the Benson
+High School bond. To better serve the populations in these programs, a centrally located separate
+building or wing would be preferable.
+
+Creative Science School
+
+Relocating this focus option could open the Clark building to become an elementary school that could
+feed to a reconfigured middle school in the SE. These changes could alleviate overcrowding at Harrison
+Park and the nearly-overcrowded Bridger.
+
+Metropolitan Learning Center (MLC)
+
+This district-wide alternative serves students with specific educational needs. The MLC site is large
+enough to hold a 2-section K5 and is located near overcrowded Chapman ES. However, boundary
+changes alone would be enough to alleviate overcrowding in this region. Adding a new elementary
+school to this region would create two smaller, 2-section K5s that would be less able to absorb
+fluctuations in enrollment. Additionally, a similar sized site (approximately 21 rooms) would be needed
+to house MLC.
+
+Odyssey
+
+The K8 Odyssey program no longer fits at Hayhurst and needs a new location. Relocating Odyssey would
+result in under-enrollment at Hayhurst. There may be opportunities to increase the size of Hayhurst’s
+boundary while reducing overcrowding at Chapman.
+
+Richmond
+
+It is not necessary to relocate Richmond solely to right size nearby neighborhood schools. However, PPS
+could relocate the program and find a solution that would result in right-sized neighborhood schools if
+there were other important reasons to do so.
+
+Sunnyside Environmental
+
+It is not necessary to relocate Sunnyside solely to balance enrollment at nearby neighborhood schools.
+Like Richmond, PPS could relocate the focus option and find a solution that would result in right-sized
+neighborhood schools if there were other important reasons to do so.
+
+Winterhaven
+
+
+
+SPP –Focus Option Analysis                                                                        Page 12
+Winterhaven is located in a building that would not support a neighborhood 2 section K5 or K8 and
+therefore re-siting it does not assist in alleviating overcrowding or under-enrollment at neighborhood
+schools.
+
+
+
+       IF THERE ARE FOCUS OPTION OR ALTERNATIVE SCHOOLS THAT COULD CHANGE
+      LOCATIONS FOR ENROLLMENT BALANCING, WHAT BUILDINGS MIGHT BE ABLE TO
+                              SUPPORT THESE SCHOOLS?
+
+In the previous section, we identified focus options and alternatives that have the greatest opportunity
+to balance enrollment through relocation: ACCESS, Creative Science, and Odyssey. We examine which
+buildings could possibly house these educational options.
+
+
+
+
+Note. Sites with a green check have enough classrooms to fit the educational option. Sites with a yellow exclamation mark
+may possibly be able to house the educational option. This analysis is based on classrooms available only and does not take
+into consideration transportation access, location to populations served, or possible building improvements needed.
+
+
+All buildings listed, with the exception of East Sylvan, Humboldt, Kellogg and Smith are leased or are
+expected to be in use by PPS programs through at least the 2016-17 school year. A change in use for
+occupied buildings would likely result in displacement of other programs and services.
+
+
+
+
+SPP –Focus Option Analysis                                                                                           Page 13
+

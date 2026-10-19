@@ -84,6 +84,30 @@
    "bytes": 197158,
    "pages": 2,
    "text": "sources/pps_net/boundaries_2016/2016_boundary_change_impact_chief_joseph_peninsula.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/2016-01-08_issue_paper_focus_options_underenrollment.pdf",
+   "title": "SPP Focus Option Analysis: 'Focus Options and Underenrollment at Neighborhood Schools' issue paper (Jan 8, 2016; uses Oct 1, 2015 data)",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Issue_Paper__Focus_Options_and_Underenrollment_at_Neighborhood_Schools_1_8_16_final.pdf",
+   "fetched_url": "https://web.archive.org/web/20170623054657id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Issue_Paper__Focus_Options_and_Underenrollment_at_Neighborhood_Schools_1_8_16_final.pdf",
+   "wayback_timestamp": "20170623054657",
+   "fetch_date": "2026-10-18",
+   "sha256": "2385355d30cd15ce6c1f631bfd3080a03e36312d0bd6e7582cd99b0704b60bf8",
+   "bytes": 439779,
+   "pages": 13,
+   "text": "sources/pps_net/boundaries_2016/2016-01-08_issue_paper_focus_options_underenrollment.pdf.txt"
+  },
+  {
+   "file": "sources/pps_net/boundaries_2016/2011_hayhurst_focus_option_plan.pdf",
+   "title": "Hayhurst/Odyssey focus option plan (2011 template)",
+   "original_url": "https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Hayhurst_Focus_Option_Plan_-_2011_Template.3.pdf",
+   "fetched_url": "https://web.archive.org/web/20170623055327id_/https://www.pps.net/cms/lib/OR01913224/Centricity/Domain/182/Hayhurst_Focus_Option_Plan_-_2011_Template.3.pdf",
+   "wayback_timestamp": "20170623055327",
+   "fetch_date": "2026-10-18",
+   "sha256": "9ef52dffbe5194d7452110623b4b8b3c33442f4c481cf23e6f39c2c935d01456",
+   "bytes": 250529,
+   "pages": 6,
+   "text": "sources/pps_net/boundaries_2016/2011_hayhurst_focus_option_plan.pdf.txt"
   }
  ]
 }
