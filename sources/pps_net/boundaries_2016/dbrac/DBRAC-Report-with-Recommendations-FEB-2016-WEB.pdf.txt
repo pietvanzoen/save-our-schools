@@ -1,0 +1,1652 @@
+Recommendations on Balancing Enrollment
+in Portland Public Schools
+Prepared for Superintendent Carole Smith
+by the District-wide Boundary Review Advisory Committee
+Tuesday, February 9, 2016
+Recommendations on Balancing Enrollment
+in Portland Public Schools
+Prepared for Superintendent Carole Smith
+by the District-wide Boundary Review Advisory Committee
+Tuesday, February 9, 2016
+                            D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                                                                  Contents
+Overview .......................................................................................................................................6
+Context ..........................................................................................................................................7
+  History ................................................................................................................................................... 7
+  The opportunity: strong schools for all students .................................................................................. 7
+  Superintendent appoints advisory committee ..................................................................................... 8
+  Values Framework guides work ............................................................................................................ 9
+  Limitations of K-8 schools emerge ...................................................................................................... 10
+  K-8 reconfiguration takes center stage............................................................................................... 10
+  Shaping proposals for change ............................................................................................................. 11
+  Tension between timelines for East and West Side changes ............................................................. 12
+  Setting up schools for success ............................................................................................................ 13
+Recommendations ....................................................................................................................... 14
+  1. Criteria for reconfiguring K-8 schools ............................................................................................. 14
+       Introduction ....................................................................................................................................................................................14
+       Foundation for recommendations.........................................................................................................................................14
+       (I-K8) Recommendation & Exceptions ................................................................................................................................16
+       (II-K8) Urgency and Interim ....................................................................................................................................................17
+       (III-K8) Criteria: Implementation ..........................................................................................................................................18
+    2. Criteria for siting middle schools .................................................................................................... 20
+       Introduction ....................................................................................................................................................................................20
+       (I-MS) Recommendation............................................................................................................................................................20
+       (II-MS) Recommendation ..........................................................................................................................................................21
+       (III-MS) Recommendation ........................................................................................................................................................22
+    3. West side boundaries ..................................................................................................................... 24
+       Introduction ....................................................................................................................................................................................24
+       Timeline of proposals for addressing overcrowding Scenarios 1 and 2 ..............................................................24
+       (I-WS) Recommendation ...........................................................................................................................................................28
+       (II-WS) Boundary Change Guidance .....................................................................................................................................29
+       (III-WS) Implementation Guidance.......................................................................................................................................31
+Future Work ................................................................................................................................. 32
+Conclusion ................................................................................................................................... 33
+Appendices .................................................................................................................................. 35
+  List of DBRAC members ...................................................................................................................... 35
+  Vote Tallies.......................................................................................................................................... 41
+  Materials ............................................................................................................................................. 44
+
+
+
+
+                                                                                               5
+                   D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                                   Overview
+The District-wide Boundary Review Advisory Committee (DBRAC) hereby submits to the
+Superintendent our recommendations for the following:
+
+    1. Criteria and implementation guidance for reconfiguring K-8 schools.
+    2. Criteria and implementation guidance for siting middle schools.
+    3. West Side boundary changes and program relocation to address overcrowding.
+
+These recommendations are the culmination of fourteen months of collaboration for DBRAC,
+including 37 committee meetings and 18 community meetings, a joint effort with PPS and
+community partners in multiple languages.
+
+Partners included the Asian Pacific American Network of Oregon, Black Parent Initiative, Center for
+Intercultural Organizing, Community & Parents for Public Schools, Latino Network, NAYA Family
+Center and Portland Council PTA. Additional partners included the Portland Association of
+Teachers, Portland Association of Public School Administrators and the Superintendent’s Student
+Advisory Council. Guidance for the boundary review process was provided by the PSU Center for
+Public Policy.
+
+These recommendations respond to changes over time in demographics, funding, enrollment, and
+structure of PPS schools.
+
+In the following document the committee will provide:
+
+       Historical context for its decisions.
+       Concrete recommendations for K-8 and middle school reconfiguration, including exceptions
+        and implementation suggestions.
+       West Side boundary and program location recommendations.
+
+The committee will continue to work on boundary and school feeder patterns for the East side in
+the coming months. The East Side work will culminate in a recommendation to the Superintendent
+in June of 2016.
+
+
+
+
+                                                            6
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                                    Context
+
+History
+
+On Monday, Nov. 9, 2015, District-wide Boundary Review Advisory Committee members joined PPS
+leaders, staff and school board members in the Hosford Middle School Cafeteria at the first of what
+would become 18 community meetings. The objective: to gather feedback on scenarios for
+balancing enrollment for strong schools in every neighborhood.
+
+Many events led to this night. Among them: the passage of Ballot Measure 5 by Oregon voters, 25
+years earlier almost to the day.
+
+Measure 5 limited the property tax that school districts could levy and led the state to pool local tax
+money to divvy up statewide. For PPS, it meant sending millions of Portland property owners’
+dollars to districts that lacked a strong tax base - for the good of all Oregon students.
+
+Despite ongoing support for our schools through a local option levy, Measure 5 shifted the funding
+paradigm for PPS and helped set in motion dramatic structural changes in our schools.
+
+Budget shortfalls accelerated by tax limitation and exacerbated by declining enrollment and
+recession by the early 2000’s, led to school closures and consolidations. These included
+reconfiguring 37 schools. Most went from K-5’s and middle schools to K-8s. The goal: to consolidate
+students and preserve programs in a system where dollars, and hence teacher staffing, follows
+students.
+
+The K-8 model is recognized for supporting historically underserved students by allowing for
+relationship-building between staff and families over time.
+
+Yet uneven enrollment ultimately reinforced disparities across schools that fell along racial and
+socioeconomic lines exacerbated by historical housing practices, a liberal PPS transfer policy and
+space limitations of the school buildings themselves.
+
+
+The opportunity: strong schools for all students
+
+Today, enrollment and the Portland economy are steadily growing. On top of seven years of
+enrollment increases, demographers are forecasting another 5,000 students in PPS schools in next
+decade. While many schools, particularly K-8s, are under-enrolled, many other schools have
+become overcrowded.
+
+
+                                                           7
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Enrollment growth presents the opportunity to address not only overcrowding and under-
+enrollment but historic disparities in academic access.
+
+This opportunity - for strong schools for every student - was at the heart of the dialogue DBRAC
+and PPS launched that night, 25 years after the passage of Measure 5, in a middle school cafeteria
+overflowing with parents, teachers and students.
+
+District-wide boundary review became the answer to several years of PPS efforts to address
+program inequities by balancing enrollment in isolated pockets of the district, predominantly on
+Portland’s East Side.
+
+The last of these balancing efforts, in the Jefferson cluster of schools, ended in January 2013 with a
+clear message to PPS: if you want equity, it’s time to look at the school district as a whole.
+
+The Superintendent’s Advisory Committee on Enrollment and Transfer (SACET) assisted PPS in the
+first step, also called for by Jefferson community members: overhauling the transfer policy to
+strengthen neighborhood schools.
+
+In January 2015, the Portland School Board approved SACET and the Superintendent’s
+recommendations to end the neighborhood-to-neighborhood lottery that made it possible for
+families to live in one neighborhood but attend school in another. Now families seeking such
+transfers must make a case in a hardship petition.
+
+The next step, creating the District-wide Boundary Review Advisory Committee, was among the
+recommendations of the Center for Public Service at Portland State University. The center assisted
+PPS in framing this work, including partnering with PPS in Spring 2015 to conduct a survey of
+Portlanders’ values that should guide management of enrollment growth in our schools.
+
+The values survey, called PPS 2025, was completed by more than 4,000 Portlanders in multiple
+languages. Key among findings was the value Portlanders place on small class sizes and providing
+students with a robust range of course offerings, especially in grades 6-8, even if that meant
+students transitioning from a K-5 to a middle school in order to have more choice in classes.
+
+
+Superintendent appoints advisory committee
+
+Superintendent Carole Smith convened DBRAC, a combination of community volunteers and PPS
+staff, in November, 2014.
+
+
+
+
+                                                           8
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+The committee is a diverse group of PPS parent, alumni, community, teacher and principal leaders;
+educational, equity and operations administrators; school board members, and such technical
+experts as the chief planner for the City of Portland, the director of the PSU Population Research
+Center, the government affairs director for the Portland Metropolitan Association of Realtors and
+the equity manager for the Portland Housing Bureau.
+
+DBRAC’S job is to advise Superintendent Carole Smith on boundary change issues district-wide and
+align student assignment with the PPS Racial Educational Equity Policy. The policy, approved by the
+Portland School Board in June, 2011, was the district’s most substantive effort to drive closure of
+the racial educational opportunity gap since desegregation in the 1980s.
+
+
+Values Framework guides work
+
+The District-wide Boundary Review Advisory Committee crafted a Values Framework to guide its
+efforts to balance enrollment and articulate a transparent process for responding to future
+enrollment shifts. The framework was informed by findings from the PPS 2025 survey and aligned
+with the values of other stakeholder groups including SACET and the PPS Long Range Facilities
+Advisory Committee.
+
+The framework focuses on three core values: Equity, Access and Environment.
+
+Equity means applying a racial equity lens to policies and decision making; it also means ensuring
+that policy supports strong outcomes for demographic groups with a focus on such groups as
+English language learners, students in Special Education or the Talented and Gifted program,
+students of color and those in poverty.
+
+Access means that regardless of where you live in the city, all students would have access to
+equitable and effective academic programs, including enrichments/electives and support services
+that meet the needs of individual students.
+
+Environment means equitable access to programs, all school buildings should have the
+appropriate grade configuration, enrollment and physical support for programmatic needs that
+match the size of the facility.
+
+
+
+
+                                                           9
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+Limitations of K-8 schools emerge
+
+In August, 2015, PPS presented analysis to DBRAC concluding that K-5 and K-8s schools should
+have at least two, and preferably three, sections per grade level to offer students a minimum core
+program.
+
+This was especially true in K-8 schools where multiple teachers and classrooms are needed to offer
+a range of core and elective offerings to students in grades 6-8 -- grades that are key to preparing
+students for success in high school.
+
+Yet only 18 of the district’s 26 neighborhood K-8 schools have this level of enrollment.
+Furthermore, only seven of the K-8 school buildings themselves have sufficient classrooms to
+accommodate the preferred minimum enrollment of three sections per grade level.
+
+The findings were especially stark for historically underserved students in K-8 schools.
+
+Students of color and those in poverty are disproportionately likely to be in a K-8 with enrollment
+too low to offer the range of course offerings in the middle grades - from advanced (compacted)
+math to electives - that drives student success.
+
+Meanwhile, students who are white or not in poverty were more likely to be in large K-8s or middle
+schools teeming with course options. In addition, a PPS analysis showed that students in
+historically underserved racial groups who attended middle schools earned more academic credits
+by the end of ninth grade than students who attended K-8s (See appendix).
+
+The recognition that K-8 schools were shortchanging students, especially those of color, was a
+direct affront to the committee’s stated values and became a clarion call for change.
+
+
+K-8 reconfiguration takes center stage
+
+DBRAC recognized that boundary changes alone would not create equitable access to robust and
+rigorous programs for all students. Grade reconfiguration - shifting back from K-8s to mostly K-5s
+and middle schools - must be on the table.
+
+In addition to its Values Framework, the committee used Key Performance Indicators identified by
+PPS to help it weigh various scenarios, including:
+
+      Ensure that schools are not overcrowded and that projected enrollment supports an
+       adequate and equitable academic curriculum.
+
+
+
+
+                                                         10
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+      Promote safer routes to school, close proximity between school and home, and a sense of
+       community by keeping neighborhoods together.
+      Minimize transportation times and maximize conservation of such natural resources as
+       natural gas, oil, gasoline and electricity.
+      Minimize additional expenses for transportation and facility modifications.
+      Establish attendance areas that will not necessitate frequent changes.
+      Allow as many students as possible to continue together from one school to the next.
+      Aim to more closely reflect the broad range of language, cultural, and socio-economic
+       backgrounds of the PPS student body.
+      Consider the different learning needs of the student body.
+
+
+Shaping proposals for change
+
+On Oct. 29, 2016 PPS released Scenarios 1 and 2, first takes on dramatically changing the mix of K-
+8s and K-5/middle schools and boundary changes to relieve under-enrollment and overcrowding.
+
+DBRAC members then joined PPS at a series of community meetings on an unprecedented scale,
+starting Nov. 9 in the cafeteria at Southeast Portland’s Hosford Middle School.
+
+Signing on to support and promote the meetings were:
+
+      Asian Pacific American Network of Oregon (APANO)
+      Black Parent Initiative
+      Center for Intercultural Organizing (CIO)
+      Community & Parents for Public Schools
+      Latino Network
+      NAYA Family Center
+      Neighborhood House
+      Portland Council PTA
+
+APANO led a Cantonese language meeting with adults and a session with students; CIO facilitated
+two community meetings including cross-school, table-talk discussion, and Latino Network led a
+Spanish/English meeting at Chavez School, a Spanish only meeting at Madison High School, and a
+meeting with Latino middle schoolers.
+
+In addition, Black Parent Initiative and CIO held community meetings on their own using PPS
+materials.
+
+
+                                                         11
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+PPS staff created a website, video, and historical story map in English, Spanish, Vietnamese,
+Chinese, Russian and Somali and invited engagement from a wide range of PPS families with
+materials translated in multiple languages.
+
+More than 4,000 people attended 18 meetings - including sessions with Portland Association of
+Teachers members, PPS principals and students. More than 2,500 emailed their views and
+hundreds observed or participated in Facebook and Twitter town halls.
+
+
+Tension between timelines for East and West Side changes
+
+The complexity of how to reconfigure K-8 schools emerged as a central focus. The urgency,
+especially when applying an equity lens, influenced the committee’s process.
+
+Because all but one of the district’s neighborhood K-8 schools is are on Portland’s East Side, the
+initial focus was on the East Side school restructuring, with development of boundary-driven
+solutions to West Side overcrowding coming toward the end of the committee’s deliberations.
+
+In December, Superintendent Carole Smith offered guidance: if sweeping grade reconfiguration was
+the committee’s likely path, allowing time to plan and prepare for implementation would be crucial
+to successfully delivering newly configured programs for all students. DBRAC interpreted this to
+mean that most, or all, changes involving school re-configuration would be delayed until at least the
+beginning of the 2017-18 school year.
+
+Among the criticisms of the school district’s move to K-8s a decade earlier was the expedited and
+ill-funded implementation necessitated by deep budget cuts.
+
+DBRAC and the Superintendent are determined to learn from history.
+
+And so the committee’s immediate goal became to offer guidance on how to approach a K-8
+reconfiguration. Helping PPS land address the details of feeder patterns and boundaries would wait
+until May 2016 allowing for program planning and facilities upgrades to unfold over the following
+school year for implementation in fall 2017.
+
+The committee wrestled with having to delay - even for a few months - affording East Side families
+much-deserved certainty about their school assignments. However, due the size of the undertaking,
+and possibility that the Superintendent, or Board, could make changes to the high level
+recommendations for school re-configuration, it was not feasible to define the details of each
+neighborhood any earlier.
+
+
+
+
+                                                         12
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+The committee recognized that overcrowded schools on the West Side was an urgent issue that
+would require relief this coming fall. Also, due to the smaller number of schools on the West Side,
+and since no K8 to K5/middle school reconfigurations were being proposed on the West Side, this
+task was significantly less involved than reconfiguring the East Side.
+
+In late December, 2015, the committee turned its attention to Portland’s West Side.
+
+
+Setting up schools for success
+
+Today, the District-wide Boundary Review Advisory Committee submits the following
+recommendations for:
+
+      Criteria and implementation guidance for reconfiguring K-8 schools.
+      Criteria and implementation guidance for siting middle schools.
+      West Side boundary changes and program relocation to address overcrowding.
+
+The committee has agreed to reconvene to assist PPS in defining boundaries and feeder patterns
+this spring for reconfiguring K-8 schools into K-5 and middle schools. This timeline is intended to
+allow for family certainty as soon as possible and for sufficient facilities and program planning time,
+anticipating implementation starting in fall 2017 for most of the reconfigured programs.
+
+
+
+
+                                                         13
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                         Recommendations
+
+1. Criteria for reconfiguring K-8 schools
+
+Introduction
+Among the most powerful aspects of this process has been the participation of thousands of
+parents, students, teachers and community members across race, language and socio-economic
+status. The passion and expectations that Portland families expressed for their public schools
+speaks to the values of our larger community.
+
+Amid this cross-town conversation, the debate around reconfiguring K-8s became central to
+DBRAC’s mission of right-sizing schools with the goal of promoting strong academic programs in
+every school at every grade level.
+
+At community meetings, we heard from many K-8 schools - from Chavez to Laurelhurst to Skyline -
+that place great value in the K-8 model and wish to preserve it.
+
+Key factors were the ability for K-8 students to develop relationships with teachers over time and
+for families to find their place in a school, as well as to simplify transportation for families with
+multiple children and allow older students to assist younger siblings attending the same school.
+
+Yet we also heard from many school communities - notably from many K-8 teachers - that favor
+converting back to mostly K-5’s and middle schools to ensure the strongest education for all
+students.
+
+Most compelling was data presented to the committee that showed major disparities in the course
+offerings available to Grade 6-8 students in various schools. The key take-away was that students
+in middle schools, with 6 or more class sections per grade, had access to many more course
+offerings, such as advanced math, languages, arts, and technology, than Grade 6-8 students in K-8
+schools with fewer class sections per grade.
+
+The DBRAC applauds our community and our teachers for their investment in our schools. We
+acknowledge the weight of these decisions in view of such strong sentiments.
+
+Foundation for recommendations
+Our recommendations for reconfiguring K-8 schools are shaped by the following analysis and
+values:
+
+
+
+                                                          14
+             D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+   PPS facilities and core program analysis:
+       o   Preferred enrollment: PPS analysis shows that for a K-8 school to sustainably offer
+           a minimum core program it must have at least two and preferably three sections per
+           grade level. Sustainable means that the core program (including electives) can be
+           staffed through general fund dollars, without relying on a school’s equity allocation,
+           grants or parent fundraising which are intended to pay for added supports and
+           enrichments needed at the school.
+       o   Disproportionate access: Students of color and those in poverty are
+           disproportionately likely to be in a K-8 with enrollment smaller than the 2- to 3-
+           sections and are consequently unable to offer a robust and diverse course offering
+           that meets the needs of all students, including - advanced (compacted) math to
+           electives - that drives student success.
+                   Conversely, students who are white or not in poverty are more likely to be in
+                    large K-8s or middle schools offering a robust array of course options.
+       o   Disproportionate outcomes: PPS analysis showed that students in historically
+           underserved racial groups who attended middle schools earned more academic
+           credits by the end of ninth grade than students who attended K-8s. (See appendix)
+       o   Importance of robust program: Students with access to a range of core courses,
+           including support or acceleration in such areas as math and language arts, and a
+           range of electives including arts offerings, are more engaged and likely to reach their
+           potential.
+                   The more relevant a student’s education, the more likely he or she is to stay
+                    in school.
+                   Students are also more likely to try such offerings as band or choir in middle
+                    school than to start in high school.
+   Equity, Access and Environment
+       o   DBRAC prioritized a district-wide model (K-8s or K-5/MS) that can provide ALL
+           students with equitable access to effective and robust academic programs rather
+           than the ability of any single school to offer a robust program at its specific location.
+       o   DBRAC also considered how the larger attendance area of a middle school could
+           bring diverse communities together in one school rather than concentrating
+           affluence or poverty.
+
+
+
+
+                                                     15
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+           o   DBRAC considered how all schools could ensure access to the elements of student
+               success, including libraries, science labs, Special Education instruction and supports,
+               Talented & Gifted programming and support for emerging bilinguals.
+
+(I-K8) Recommendation & Exceptions
+Recommendation:
+      That Portland Public Schools return to a predominantly K-5 /middle school model.
+      That any schools remaining as K-8s must have sufficient enrollment and space, in one
+       building, to support three sections per grade at all levels and not impede the ability of other
+       schools to maintain enrollment sufficient to support a full K-5/middle school program.
+
+Exceptions:
+DBRAC recognizes a few exceptions to these criteria given the location of PPS school buildings.
+These exceptions include:
+
+   1. Instances in which a reconfigured school’s geographic location would result in a commute
+       time consistently greater than one hour and a potentially unsafe commute for students to
+       middle school. Only Skyline K-8 School meets this exception and should remain a K-8.
+   2. Instances in which a school building is under construction as a K-8 and includes contracts
+       with and commitments to outside partners integral to a unique program model. Faubion K-
+       8 School, which is under construction in partnership with the Concordia University 3 to
+       PhD program, meets this exception and should remain a K-8.
+   3. Non-neighborhood Focus Options and Alternative Schools. These programs are undergoing
+       review in a separate process.
+   4. In addition, we recognize that PPS is constrained by the size and location of its current
+       portfolios of buildings. When a final reconfiguration plan is developed, there may be K-8s
+       that continue to exist because there are no good options for conversion due to size of
+       building and availability of middle school space.
+
+(I-K8) DBRAC Endorsement
+DBRAC endorses this recommendation with the following vote:
+Yes - 20, No - 1, Abstention - 1, Non-votes - 3
+
+Dissenting opinion from member Scott Bailey: Superintendent Carole Smith initially told DBRAC
+that she would be making recommendations on which K-8 schools should be reconfigured to either
+K-5s or middle schools. The Superintendent then changed her mind and dumped the decision onto
+
+
+
+                                                         16
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+DBRAC. I believe that the Superintendent ducked her responsibility, and that reconfiguration
+decisions should have been made by professional educators based on educational criteria (along
+with building capacity). DBRAC heard testimony from a number of K-8 school communities that
+their K-8 was “working.” DBRAC members had no criteria to evaluate these schools. We further had
+no working models to even compare course offerings in K-8s with middle schools of different sizes.
+It took community members to expose the significant differences in program offerings across the
+district.
+
+(II-K8) Urgency and Interim
+The tension of urgency versus successful implementation:
+
+To allow for adequate planning and facilities work to support implementation that best serves
+students this time, we heed the guidance that Superintendent Smith offered to DBRAC in December
+that grade reconfiguration not be implemented until Fall 2017.
+
+Exceptions and stipulations for the interim
+However to address the urgency of students not going another year with inadequate programing,
+we offer the following exceptions and stipulations:
+
+Ockley Green - Jefferson Cluster
+If it is possible for PPS to deliver a robust middle school program at Ockley Green this fall, DBRAC
+believes it should do so.
+
+Family certainty
+       DBRAC accepts the District’s invitation to continue in an advisory role to these final steps in
+        this process.
+       DBRAC recommends that PPS quickly determine which schools would be K-5s and which
+        would be middle schools.
+       DBRAC is then committed to completing its guidance for boundary decisions and K-
+        5/middle school/high school feeder patterns by late May with the hope that PPS will
+        finalize decisions soon after.
+       DBRAC urges PPS to stick to this timeline to allow for facilities and program planning over
+        the summer and to provide families and staff with time to prepare for the transition.
+
+
+
+
+                                                          17
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Interim steps to support K-8 programs
+The DBRAC also recommends that PPS take steps to resolve program inequities at K-8s during the
+2016-17 school year while the larger reconfiguration is planned in order to immediately address
+student needs. These include:
+
+      To ensure equal instruction time at the middle school level regardless of grade
+       configuration, DBRAC asks that the District collaborate with both the Portland Association
+       of Teachers and principals this spring on a solution that ensures equal instruction time for
+       all middle grades students starting in fall 2016.
+      PPS should include in its budget for 2016-17, funding to add course offerings in K-8s not
+       currently offering a full program, even if it includes providing opportunities after school or
+       through transportation to another school.
+
+(II-K8) DBRAC Endorsement
+DBRAC endorses this recommendation with the following vote:
+Yes - 18, No - 3, Abstention - 1, Non-votes - 3
+
+Dissenting opinion from member Michele Arntz: The Superintendent should increase the
+number of parent representatives on DBRAC, commensurate with the relative number of high
+schools on Portland's East vs. West sides. These parents should have strong ties to East Side
+advocacy groups representing neighborhood schools. The Superintendent should also work to
+resolve both split-campus situations on the East Side for 2016-2017, which could include relocating
+ACCESS to Humboldt and/or some phasing of enrollment at Rose City Park.
+
+Dissenting opinion from member Scott Bailey: Beverly Cleary has been promised a resolution to
+their 3-campus overcrowding for years. Roseway Heights will be overcrowded next year as the
+Vietnamese immersion program grows another grade. I support, and I believe DBRAC should have
+supported, the opening of a K-5 school at Rose City Park in 2016. The school already has grades 1
+and 3 from Beverly Cleary. PPS should plan to open Rose City Park as a school in 2016, with enough
+students to relieve Beverly Cleary and Roseway Heights. Hire a principal, do the enrollment
+analysis, and figure it out. If necessary, move ACCESS to Humboldt (ideally, ACCESS would stay for
+another year to allow a more orderly transition). We know it’s going to happen, let’s get started
+now.
+
+(III-K8) Criteria: Implementation
+      Ensure adequate funding for facilities upgrades and program delivery
+
+
+
+                                                         18
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+      Ensure equitable access to program offerings - DBRAC recommends that sufficient budget
+       be allocated to ensure that all schools are funded to support a minimum of one foreign
+       language elective, one science/technology elective, one arts elective, and one PE elective per
+       grade, depending on the needs and interests of students in the school.
+
+(III-K8) DBRAC Endorsement
+DBRAC endorses this recommendation with the following vote:
+Yes - 20, No - 1, Abstention - 1, Non-votes - 3
+
+Concurring opinion from member Scott Bailey: Having DBRAC, with no real analysis, suggest a
+minimum programming for electives only underscores the lack of integration of the reconfiguration
+process with the educational side of the PPS administration.
+
+Concurring opinion from member Alice Perry: I applaud the efforts by the committee to ensure
+numerical equity as well as student and school community voice in the elective offerings.
+Historical inequity in offerings, however, has not been limited to the number of offerings but has
+also been reflected in the caliber and aspirational nature of offerings in some schools versus others.
+Therefore, the recommendation to ensure equitable access to program offerings did not go far
+enough in that it did not recommend the development of a standard or mechanism to monitor
+whether students have access to not just the number of programs, but also the same level of
+excellence in programming.
+
+Dissenting opinion from member Michele Arntz: The Superintendent should prioritize access to
+equitable programming for all students in grades K-12 (not just grades 6-8). This access should
+provide greater consistency in opportunities across and especially within feeder patterns; lists of
+current program offerings should be accessible via the PPS website. The Superintendent should
+reevaluate PPS' funding mechanisms, including the Local School Foundation funding that enables
+privatization of the public school system, to ensure equity beyond the minimum core program.
+
+
+
+
+                                                         19
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+2. Criteria for siting middle schools
+
+Introduction
+Perhaps the most compelling testimony we heard about the value of and a vision for middle schools
+came from our teachers. PPS collaborated with the Portland Association of Teachers to hold two
+teacher forums on Nov. 30 and Dec. 1 at PAT headquarters.
+
+Many of the teachers who attended, including DBRAC members Kim Wilson and Shannon Foxley,
+had experienced the K-8 conversion a decade ago and worked hard to make it a success. While
+many articulated the benefits of K-8s for relationship and community building, most spoke with
+great clarity about the richer options afforded students at middle schools, especially for historically
+underserved students.
+
+The teachers began to envision how to apply the benefits of K-8 schools to middle schools, including
+designing middle schools to help students foster familiarity and relationships with their class
+cohort and other students at the school, as well as to develop strong, positive relationships with
+educators such that each student is known. As Kim Wilson stated in the DBRAC middle school
+subcommittee, we can no longer have “middle schools as usual.”
+
+Teachers also made an important request to be invited to participate in planning the
+reconfiguration back to K-5s and middle schools. They were on the ground for the conversion a
+decade ago and are intimately familiar with what worked well and what did not. They want to use
+what they have learned to benefit students.
+
+(I-MS) Recommendation
+The selection of middle school locations and feeders should be based on having middle schools with
+a minimum enrollment that provides approximately six, 25-student sections per grade level (6th,
+7th and 8th). This is to afford a range of course offerings including electives, and advanced and
+support-level classes in such subjects as math. If a new middle school will take up to three school
+years to meet the target enrollment, the district shall provide supplemental resources so the school
+can offer programs and services expected of a middle school.
+
+(I-MS) DBRAC Endorsement
+DBRAC endorses this recommendation with the following vote:
+Yes - 19, No - 2, Abstention - 1, Non-votes - 3
+
+
+
+
+                                                          20
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Dissenting opinion from member Michele Arntz: The Superintendent should request an analysis
+of the number of classrooms needed to house stable Middle School enrollments, with equity
+integrated into the analysis (as was done for K8s and K5s). In cases where a building is used as a
+Middle School, and does not have enough classrooms to accommodate Equity FTE for supports and
+Ratio FTE for equitable elective programming, that site should receive modular buildings. Program
+locations, feeder patterns and boundaries should be selected that reduce the concentration of
+poverty (or wealth) within PPS' schools.
+
+Dissenting opinion from member Scott Bailey: The criterion calls for a minimum of 450 students
+at a middle school. I believe this is too few. The whole point of this exercise was to provide a wide
+range of course options to middle grade students. PPS has offered no evidence of what the actual
+range of course options might be at a 450-school middle school. The lack of educational analysis
+provided for DBRAC’s review is extremely disappointing.
+
+(II-MS) Recommendation
+The selection of middle school locations should be based on model B. However, there should be
+only two middle schools in the part of North Portland in which model B proposes three. This
+change is in response to the low forecast enrollment and community feedback.
+
+Note: Model B was a high-level analysis of potential middle school sites, feeder patterns and
+enrollment developed by PPS staff in response to D-BRAC suggestions and presented on January 9,
+2016.
+
+(II-MS) DBRAC Endorsement
+DBRAC endorses this recommendation with the following vote:
+Yes - 19, No - 0, Abstention - 3, Non-votes - 3
+
+
+
+
+                                                          21
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+(III-MS) Recommendation
+      To be able to successfully reconfigure the majority of K-8 schools beginning in fall 2017,
+       DBRAC recommends:
+      The District should prepare and implement transition plans for each new middle school.
+       These plans should provide for the resources, planning, time, and community input needed
+       to implement this effort successfully. The District should work with principals and teachers
+       to identify and incorporate elements required for successful transitions.
+      Certainty as to student assignment should be established for families by the end of the
+       2015-16 school year. (See K-8 recommendations)
+      The move to K-5s and middle schools must be planned, designed and resourced to preserve
+       the benefits of K-8s where possible. This includes:
+           o   Preserving the sense of children being "known" in their schools, including that each
+               child will have more than one strong relationship with staff members.
+           o   Approaches to consider include sixth-grade academies to help students root in
+               middle school and partnerships with feeder elementary schools such as reading
+               buddies or joint field trips or arts productions so that students and families feel
+               connected to both their K-5 and middle schools.
+      Both the Board and District must work with schools and families to ease transportation
+       between K-5s and middle schools.
+           o   The change from K-8 schools to K-5/6-8 schools can make transportation to and
+               from school a significant challenge for some families.
+           o   The distance and time to travel from home to school impacts whether a student can
+               walk, bike or help a sibling get to school, as well as whether parents can be actively
+               engaged in a school.
+           o   These issues are of particular concern for our undocumented immigrant families
+               who may lack of access to driver’s licenses.
+      The middle school committee concurs with K-8 committee’s recommendation to change
+       Ockley-Green back into a middle school for fall 2016 due to its unique readiness detailed in
+       the K-8 recommendations.
+
+(III-MS) DBRAC Endorsement
+DBRAC endorses this recommendation with the following vote:
+Yes - 20, No - 1, Abstention - 1, Non-votes - 3
+
+
+
+
+                                                         22
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Dissenting opinion from member Alice Perry: The recommendation to move to a primarily K-
+5/middle school system to ensure that all students receive robust preparation to be successful in
+high school was not an easy decision given parent concerns about community, safety, and
+transportation. While ultimately I believe it was the right decision, there were some caveats. In
+break out committee and in the large group we talked about the particular effect this would have on
+Latino families of undocumented or mixed status. I heard a commitment to address this problem. I
+feel this recommendation falls very short of the commitment we should be making to these
+students and their families. We cannot expect our students to learn and be successful if they are in
+fear for their parents. If they are successful in these circumstances, it will be in spite of us, not
+because of us. We cannot genuinely ask their parents to engage if at the same time we put up new
+barriers. We cannot lament a student’s life destabilized by separation and deportation if we do
+nothing to prevent it. The language in this recommendation, unfortunately, overtime became
+weaker not stronger despite repeated attempts to revise it to reflect the verbal commitments I
+heard committee members make. I believe PPS can and should do better by our Latino students
+and families.
+
+
+
+
+                                                          23
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+3. West side boundaries
+
+Introduction
+Enrollment patterns in West Side schools are influenced not only by demographics and building
+size but by the area’s hilly topography that creates additional transportation and boundary setting
+challenges.
+
+When funding shortfalls and enrollment decline impacted schools district-wide in the early 2000’s,
+PPS closed Smith School in Southwest Portland. Yet save for Skyline School, perched on the
+ridgeline in the still-rural corner of Northwest Portland, West Side neighborhood schools did not
+experience the shift to K-8s.
+
+As the Portland economy surged and enrollment began rebounding, several West Side schools grew
+overcrowded.
+
+By last fall enrollment at Chapman Elementary in Northwest Portland reached 674 students - some
+150 more students than the building would best accommodate - and fourth and fifth graders began
+eating lunch in their classrooms to cede precious cafeteria space to younger students.
+
+Meanwhile, Lincoln High School, flanking downtown Portland, turned half of its cafeteria into
+classrooms as yet another step to accommodate burgeoning enrollment.
+
+And at Hayhurst Elementary, among the West Side’s larger elementary school buildings, the co-
+located Odyssey K-8 focus school and Hayhurst neighborhood program were bursting at the seams
+as young families snatched up still relatively affordable homes.
+
+Timeline of proposals for addressing overcrowding
+Scenarios 1 and 2
+Scenarios I and 2, released Oct. 29, 2015, both addressed West Side overcrowding by moving a
+portion Chapman students to Ainsworth and Bridlemile and then splitting Bridlemile students
+between West Sylvan Middle School/Lincoln High School and Robert Gray Middle School/Wilson
+High School.
+
+Odyssey K-8 was proposed to move out of Hayhurst Elementary to the now-vacant East Sylvan
+building. Skyline was proposed to shift from a K-8 to a K-5.
+
+But the committee pointed out that the scenarios did not sufficiently relieve Chapman
+overcrowding. In addition, the Bridlemile community vehemently opposed the plan for a split
+
+
+
+
+                                                          24
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+feeder, an approach that the PPS Key Performance Indicators also cautioned against because of the
+impact on student friendships and community building in an elementary school.
+
+Scenario 2a: Revised West Side proposal presented Jan. 9
+
+In response, on Jan. 9, PPS presented the committee with Scenario 2a, a new proposal for the West
+Side. The proposal shifted:
+
+      Some Chapman students to Ainsworth.
+      Some Ainsworth students to Bridlemile & Rieke.
+      Some Rieke students to Bridlemile.
+      Some Bridlemile, Maplewood & Rieke students to Hayhurst.
+      Some Capitol Hill students to Stephenson.
+
+Those boundary changes also shifted middle school/high school assignment for portions of the
+existing Bridlemile and Ainsworth attendance areas to Gray/Wilson from Sylvan/Lincoln. And it
+retained aspects of Scenarios 1 and 2:
+
+      Assigning Maplewood Elementary to Jackson Middle School instead of Gray.
+      Moving the Odyssey K-8 program out of Hayhurst Elementary.
+      Retaining Skyline as a K-8 feeding Lincoln HS, after other discussions of shifting it to a K-5
+       potentially feeding George Middle School in North Portland.
+
+Community members immediately voiced concerns that the proposals fractured neighborhoods
+and created a cascade of impacts on multiple school communities untouched by the previous
+boundary proposals.
+
+Additional options
+At its Jan. 14 meeting, DBRAC called for a West Side community meeting and supported additional
+options presented by PPS that night for addressing acute overcrowding:
+
+      Possibly moving the Odyssey K-8 program to a building other than East Sylvan, such as
+       Jackson Middle School or the vacant Smith School.
+      Moving the Ainsworth Spanish Immersion Program to East Sylvan and then shifting the
+       middle grades program to Robert Gray Middle School and the high school program to
+       Wilson instead of West Sylvan Middle School and Lincoln High School.
+      Redrawing portions of the Chapman and Bridlemile elementary boundaries to attend
+       Ainsworth Elementary.
+
+
+
+                                                         25
+                   D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+        Changing the feeder pattern for all of the remaining Bridlemile boundary to Robert Gray
+         and Wilson from West Sylvan and Lincoln.
+
+Moving the Metropolitan Learning Center K-12 alternative school to a different building to allow for
+use of its building at 2033 NW Glisan St. resurfaced as an option following the Jan. 14 meeting.
+
+PPS sent an email update to all West Side families on Jan. 15, reiterating the Jan. 9 proposal and
+outlining the additional options. The email reminded families of a Jan. 19 West Side community
+meeting at Wilson High School and explained that this would be the final community meeting for
+giving input to DBRAC. More than 800 community members packed the cafeteria at Wilson to share
+their views. Interpretation in Spanish was provided for several families.
+
+Scenario 2b: Further revised proposal
+In its Jan. 21 committee meeting, DBRAC debriefed about the community feedback and discussed
+next steps. PPS staff used committee feedback to create Scenario 2b, which was presented to the
+West Side Boundary Subcommittee on Jan. 26, open to the media and simulcast at the PPS district
+office for the public.
+
+The revised proposal attempted to relieve Chapman overcrowding with less shifting between
+schools, provide greater relief for Lincoln and consider other program moves to accomplish these
+goals.
+
+The 2b proposal:
+
+        Moves the Ainsworth Spanish Immersion program to East Sylvan and retains its feeder
+         pattern into West Sylvan Middle School and Lincoln High School.
+        Moves the northwestern portion of Bridlemile to Ainsworth and reassigns the resulting
+         smaller Bridlemile boundary to Gray Middle School and Wilson High School.
+        Moves portions of Chapman’s northwestern and southeastern boundaries to Ainsworth.
+        Moves Odyssey from Hayhurst to Jackson Middle School.
+        Retains from the previous model that Maplewood shifts to feed Jackson Middle School
+         instead of Gray and the southeastern portion of the Capitol Hill boundary moves to
+         Stephenson.
+
+The proposal includes no boundary changes for Rieke and only a small shift of Maplewood
+boundary to Hayhurst.
+
+
+
+
+                                                           26
+                   D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+DBRAC response to 2b
+Overall the subcommittee agreed that Scenario 2b disrupts fewer communities and is a more
+sensible approach that meets the goals for relieving overcrowding more effectively than previous
+scenarios.
+
+The subcommittee endorsed most aspects of the proposal, specifically:
+
+      Moving Ainsworth Spanish Immersion to East Sylvan but keeping it in the Lincoln feeder
+       pattern. The subcommittee:
+             o   Was pleased to learn from staff that the East Sylvan location, on an interchange with
+                 Hwy. 26 directly accessible from Beaverton-Hillsdale Highway via Scholls Ferry
+                 Road, may offer better access for native Spanish speaking students from other parts
+                 of the west side.
+             o   Was satisfied that the move is consistent with district practice that the needs of
+                 neighborhood schools take precedence and focus option programs are movable.
+             o   Was satisfied that the East Sylvan building had the space and facilities to meet the
+                 needs of the Spanish Immersion program.
+             o   Supported maintaining the Lincoln feeder pattern to avoid additional disruption for
+                 a program that is being relocated, and due to a lack of language immersion
+                 programs at Gray and Wilson Schools.
+             o   The subcommittee acknowledged that while many community members opposed
+                 the proposed move, many others made the case that the move is appropriate.
+      Maplewood shifts to Jackson Middle School and a portion of Capitol Hill to Stephenson.
+      Bridlemile boundary changes and shift to Gray/Wilson. The subcommittee:
+             o   Supported shifting students who live near West Sylvan into the Ainsworth
+                 catchment, maintaining their Sylvan/Lincoln assignments.
+             o   Supported the ability of the remaining Bridlemile catchment to fit at Gray, a small
+                 middle school.
+             o   Yet asked that PPS possibly consider a less aggressive boundary change to avoid
+                 taking Bridlemile down to 62% utilization.
+
+Options left unconsidered
+The subcommittee also took note of PPS staff explanation for why other options suggested by
+community members were not considered:
+
+
+
+
+                                                           27
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+      Opening a second Spanish Immersion program on the West Side and not moving the
+       Ainsworth program:
+           o   While opening another SI program may be an option in the future, the district’s
+               priority now is expanding immersion in areas with the greatest concentration of
+               emerging bilingual students because of immersion programs’ proven ability to close
+               the achievement gap.
+           o   In addition, PPS is already challenged to find sufficient bilingual teachers to teach in
+               existing programs and starting a new program would not solve overcrowding issues
+               at Chapman for fall 2016.
+      Opening a new elementary school in East Sylvan:
+           o   The relief needed at Chapman is roughly 6 to 9 classrooms of students, not the 12
+               classrooms of students required to launch a new school with the minimum
+               preferred enrollment of two sections per grade.
+      Moving Metropolitan Learning Center in order to create a split campus for Chapman:
+           o   Again, the relief needed at Chapman would not fill a building.
+           o   PPS is in the process of resolving split campuses elsewhere in the district because of
+               the transportation, staffing, program delivery and family challenges they cause.
+      Moving Chapman students to East Side schools:
+           o   Moving across the river is not necessary to solve West Side overcrowding.
+           o   Moving across the river would impact boundary and reconfiguration work that is
+               not yet completed on the East Side.
+           o   New development in the formerly industrial portion of Northwest Portland,
+               including the U.S. Post Office and the Esco sites, should be earmarked for new school
+               boundaries that could include attending on the East Side.
+
+(I-WS) Recommendation
+Superintendent Smith should forward Scenario 2b , regarding West Side boundary configuration, to
+the School Board for implementation in the 2016 school year with the following exceptions:
+
+      Odyssey program location:
+   a. The committee recommends opening Smith School to relieve Hayhurst over other available
+       options. Odyssey would remain at Hayhurst for the 2016-17 school year and move for the
+       2017-18 school year. Details about potential co-location of other programs at Smith should
+       be worked out well in advance of the school’s opening.
+
+
+
+                                                         28
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+    b. The next order of preference is a move to Jackson Middle School beginning in the 2016
+        School Year. If such a move is made, it should be long-term, and not as a stop-gap while
+        Smith is being readied to re-open.
+    c. The committee is reluctant to recommend placing modular buildings at Hayhurst, due to
+        cost and time needed for construction.
+
+(I-WS) DBRAC Endorsement
+DBRAC endorses this recommendation with the following vote:
+Yes - 21, No - 1, Abstention - 0, Non-votes - 3
+
+Concurring opinion from member Scott Bailey: PPS should not have drawn boundaries on the
+west side without concurrently finishing a plan for the east side. I was against moving Chapman
+School students to eastside schools for a number of reasons, but a primary issue was that assigning
+them to an eastside school without knowing that school’s boundaries and capacity could have
+created problems down the line.
+
+Dissenting opinion from member Alice Perry: As DBRAC we agreed to see if we could
+reasonably solve the Westside overcrowding issues with boundary changes within the timeframe
+we have left to make a recommendation to Superintendent Carole Smith. While many committee
+members worked tirelessly with staff to draft the West side recommendation, I believe in our effort
+to resolve overcrowding, we undermined our commitment to equity. After the well-attended West
+Side meeting, I heard, as did other committee members, that many Latino families did not hear
+about the community meeting. Those Latino families at Ainsworth with more language access felt
+the proposal destabilized their school and program and relegates their children to a second rate
+facility. It was also reported that refugee families in schools with some of the highest poverty rates
+also did not hear about the meeting. Additionally, families reported not having material about the
+proposal available in their language thus limiting their ability to fully understand what was being
+proposed. Perhaps the recommendation that is being forwarded to Superintendent Smith will, in
+the end, be the best option. That remains to be seen. However, the damage we do as a committee
+and as PPS by taking short cuts in seeking underserved voices will have lasting negative impact on
+the district.
+
+(II-WS) Boundary Change Guidance
+The committee generally endorses the boundary changes described in Scenario 2b, but sees
+potential for small improvements in the following areas:
+
+
+
+
+                                                         29
+                   D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+   I.   Neighborhoods directly west of Chapman Elementary proposed to move to Ainsworth
+        should be reconsidered so that students who can walk to Chapman now remain in that
+        boundary.
+  II.   Hayhurst will be under-enrolled as a result of changes in Scenario 2b, while Maplewood will
+        exceed utilization by 2020. Additional boundary changes should be considered to better
+        balance enrollment between the two schools.
+ III.   Bridlemile will be underutilized as a result of changes in Scenario 2b. Small revisions
+        should be considered to better use the classrooms in that school, so long as the K-5
+        attendance boundary does not result in overcrowding at Gray Middle School.
+ IV.    Stephenson is experiencing growth and could be considered for additional boundary
+        changes.
+  V.    Minor shifts to optimize exact placement of boundary lines should be considered based on
+        community input and evaluation of any unintended negative impacts to students.
+
+(II-WS) DBRAC Endorsement
+DBRAC endorses this recommendation with the following vote:
+Yes - 20, No - 2, Abstention - 0, Non-votes - 3
+
+Dissenting opinion from member Alice Perry: As DBRAC we agreed to see if we could
+reasonably solve the West Side overcrowding issues with boundary changes within the timeframe
+we have left to make a recommendation to Superintendent Carole Smith. While many committee
+members worked tirelessly with staff to draft the West side recommendation, I believe in our effort
+to resolve overcrowding we undermined our commitment to equity. After the well-attended
+Westside meeting, I heard, as did other committee members, that many Latino families did not hear
+about the community meeting. Those Latino families at Ainsworth with more language access felt
+the proposal destabilized their school and program and relegates their children to a second rate
+facility. It was also reported that refugee families in schools with some of the highest poverty rates
+also did not hear about the meeting. Additionally, families reported not having material about the
+proposal available in their language thus limiting their ability to fully understand what was being
+proposed. Perhaps the recommendation that is being forwarded to Superintendent Smith will, in
+the end, be the best option. That remains to be seen. However, the damage we do as a committee
+and as PPS by taking short cuts in seeking underserved voices will have lasting negative impact on
+the district.
+
+
+
+
+                                                           30
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Concurring opinion from member Scott Bailey: My support for this recommendation is
+contingent on boundary changes and other adjustments (possibly adding portables to Robert Gray
+Middle School) that will ensure that Bridlemile and Hayhurst have enough students to be at a high
+capacity usage immediately.
+
+(III-WS) Implementation Guidance
+Wherever possible, the committee suggests following current PPS policy of allowing students to
+attend their current school to the highest grade.
+
+If there is a pressing need for more rapid shifts of students, potentially such as serious
+overcrowding and continuing growth at Chapman or Lincoln, exceptions to the policy should be
+considered. In the case that exceptions are determined to be required, extra effort and care should
+be taken to make the transition as smooth as possible and minimize any negative impacts to
+students/families that are required to change schools.
+
+(III-WS) DBRAC Endorsement
+DBRAC endorses this recommendation with the following vote:
+Yes - 21, No - 1, Abstention - 0, Non-votes - 3
+
+Guidance on focus option and alternative school locations
+
+Recommendations regarding K5/K8 changes do not include alternative and focus option schools.
+Furthermore, this document does not include recommendations regarding the siting of either
+Creative Science or ACCESS Academy, which will need to be incorporated into final
+recommendations. These recommendations may result in future changes to high school feeder
+patterns and boundaries.
+
+
+
+
+                                                          31
+                D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                             Future Work
+As the Superintendent’s proposal is implemented, a future version of DBRAC should remain to
+provide advice and guidance on implementation, and provide guidance on future issues. Tasks
+include:
+
+      K-8 to K-5/6-8 school reconfiguration
+      Other efforts around monitoring effectiveness of enrollment balancing changes
+
+Additional and unresolved questions
+
+   1. How will the K-8 and K-5/6-8 changes impact High School feeder patterns? We have looked
+       at specific grade bands at the lower grades, but need to keep in mind the whole system and
+       the impacts system-wide.
+   2. Will Sunnyside K-8 continue as a focus option or will it become a neighborhood school? The
+       answer would determine under which criteria it should be a K-5 or a K-8.
+
+
+
+
+                                                        32
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                                Conclusion
+We conclude our recommendations to Superintendent Carole Smith within days of another
+important 25th anniversary: the Feb. 11, 1991 boycott of PPS schools led by the Black United Front.
+
+Boycotters demanded that PPS confront the historic and persistent race-based achievement gap
+and the inequitable education offered to students of color in our schools. It was a cry that began
+many years before and that would only grow louder in years to follow.
+
+Since then, PPS has made progress, including board approval of the Racial Educational Equity Policy
+in 2011 that became a framing document for our work as a committee. Among other
+accomplishments, the PPS graduation rate is up overall and for nearly every underserved racial
+subgroup. Many high schools have closed the graduation rate gap altogether between white
+students and Latino and/or Black students.
+
+PPS has a long way to go. That the highest graduation rate overall for an historically underserved
+subgroup is 66% (African American students) underscores this.
+
+The DBRAC fully recognizes that balancing enrollment alone does not create the equitable
+programs that our community demands and all students deserve.
+
+An ongoing commitment to hiring and supporting strong principals and highly skilled educators;
+dismantling institutional racism; modernizing our school buildings through capital improvement
+bonds and adequately funding our schools are also required.
+
+The committee’s work over these past 14 months has been to direct the school district on structural
+adjustments that set up our schools to achieve these more difficult goals, for the good of our whole
+community.
+
+The committee looks to the effectiveness of High School System Design, implemented in 2011, as an
+indication that enrollment balancing at the K-8 level can provide an important foundation for
+school and student success:
+
+      Enrollment at previously under-enrolled high schools (Jefferson, Franklin, Madison and
+       Roosevelt) has solidly increased.
+      Every high school now offers a robust core program including advanced coursework, so that
+       access is no longer defined by a student’s zip code.
+
+
+
+
+                                                         33
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+      Since HSSD was implemented, all four previously under-enrolled schools have raised their
+       graduation rates by double digits.
+      That improvement includes Jefferson, which went from a 55% to an 80% graduation rate in
+       four years. (Jefferson changed from a comprehensive high school to a school-wide Middle
+       College focus program in partnership with Portland Community College and the nonprofit
+       Self Enhancement Inc. as part of system design in 2011. Jefferson’s target enrollment as a
+       focus school is 450-600. The school now has 524 students.)
+
+We want to personally thank the Portland community for your deep involvement and for walking -
+and at times running - alongside us. Your involvement in this at times very difficult process speaks
+to the commitment of our families to our public schools at a level that bodes well for our city.
+
+We look forward to assisting PPS in completing the final portions of this work to land the details of
+converting many of our K-8 schools back to K-5’s and middle schools to best serve our students.
+
+
+
+
+                                                         34
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                               Appendices
+
+List of DBRAC members
+
+Harriet Adair
+PPS Office of Early Learners
+Harriet Adair is the Assistant Superintendent for the Office of Early Learners and School Supports.
+She is a graduate of PPS and holds a doctorate from Brigham Young University. As a district leader
+for nearly forty years she has held many roles, including Principal of King Elementary and Whitaker
+Middle schools, Regional Administrator of several school clusters and Deputy Superintendent of K-
+8 programs.
+
+Michele Arntz
+Portland Council of Parent-Teacher Associations (PTA)
+Michele has lived in the Cully neighborhood for 12 years, moving to Portland after earning degrees
+from Reed College and the University of Illinois. She has two children in PPS and has been a PTA
+volunteer for six years. She serves as the Madison Cluster's Section VP for the Portland Council PTA
+and has advocated around fundraising, water quality, professional development, programming and
+enrollment balancing issues.
+
+Scott Bailey
+Superintendent's Advisory Committee on Enrollment and Transfer (SACET)
+Scott is a PPS graduate, the parent of two PPS graduates and the husband of a PPS teacher. He is a
+long-time school activist and current president of Community & Parents for Public Schools. Scott
+has served on numerous PPS committees over the past 16 years, including SACET and the recent
+bond committee. As a member of the Jefferson Critical Friends, he was part of a group that
+advocated for PPS to do a district-wide boundary review. Scott works as an economist.
+
+
+
+
+                                                         35
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Julia Esparza Brown
+PPS Board of Directors
+Julia Esparza Brown, PPS Board of Directors, Julie Esparza Brown, EdD, is an Associate Professor of
+Special Education in the Graduate School of Education at Portland State University (PSU), Portland,
+Oregon. Prior to joining the faculty at PSU, Dr. Brown worked in public schools as a bilingual special
+educator, bilingual teacher and school psychologist in Southern California and Washington. She has
+authored several publications on multi-tiered/response to intervention support systems and
+English Learners, bilingual assessment, culturally and linguistically appropriate positive behavior
+systems, and special education practices for English Learners.
+
+Margaret Calvert
+Portland Association of Public School Administrators (PAPSA)
+Margaret is in her fourth year as Principal of Jefferson High School Middle College for Advanced
+Studies. Other roles in the district have including Vice Principal at Jefferson, teacher on special
+assignment supporting high school mathematics instruction and learning, high school mathematics
+and social studies teacher, and high school basketball coach. She is a native of Wisconsin and moved
+to Portland in 1995. She is the parent of three current PPS students
+
+Maxine Fitzpatrick
+Coalition of Communities of Color
+Maxine Fitzpatrick has served as Executive Director of the Portland Community Reinvestment
+Initiatives for over 20 years. Over the past five years, she successfully integrated more than 300
+units of additional affordable rental housing formerly held by the now defunct Albina Community
+Development Corporation bringing PCRI’s portfolio of rental units to more than 700. She is leading
+PCRI on an ambitious plan to substantially increase additional units of affordable rental housing in
+North/Northeast Portland, an area where it is becoming increasingly more difficult to find
+affordable rental housing.
+
+Shannon Foxley
+Portland Association of Teachers (PAT)
+Shannon Foxley is a parent, school counselor and director at large for Portland Association of
+Teachers. She is in her 11th year as a professional school counselor and currently works at Rigler
+Elementary School, where her children attend.
+
+
+
+
+                                                          36
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Pamela Kislak
+Portland Council of Parent-Teacher Associations (PTA)
+Pamela has two children in PPS. Her deep involvement is school communities has included
+volunteering in classrooms, launching the ACCESS Academy Foundation, and serving as school PTA
+President. Professionally, Pamela is a strategy consultant to non-profit organizations. She also spent
+15 years working in educational technology. Originally from NYC, Pamela holds degrees from
+Dartmouth College and the University of California, Berkeley.
+
+Pam Knowles
+PPS Board of Directors
+Pam was elected to the PPS Board in 2011. She holds degrees from Oregon State University and
+Northwestern School of Law at Lewis and Clark College. Pam is employed by Oregon State
+University and has held positions at the Portland Business Alliance, Portland Center Stage and as a
+high school social studies teacher. Her volunteer service has included Board of Director positions
+for the Nike School Innovation Fund, Regional Arts and Culture Council and PTA president at
+Buckman Arts. She has three sons, all of whom were educated in PPS.
+
+Jane Leo
+Portland Metropolitan Association of Realtors (PMAR)
+Jane Leo is the Governmental Affairs Director for the Portland Metropolitan Association of
+Realtors® (PMAR), representing more than 6,500 Realtors® before the elected officials of 25 cities
+throughout the metropolitan area, as well as three county governments and Metro. She has been
+actively involved in legislative and political arenas for more than 30 years, including positions on
+the Wilsonville City Council and the Public Officials Compensation Commission. She is the parent of
+a current PPS student.
+
+Sarah Lewins
+Portland Association of Public School Administrators (PAPSA)
+Sarah Lewins is in her fourth year as Principal at Roseway Heights K-8 School. She has also served
+as Principal at Markham and Edwards elementary schools and as a special education program
+administrator. As a native Portlander, Sarah grew up in Southwest neighborhoods, attended
+Multnomah School (K-8) and graduated from Wilson. She continues to live in the same area, and her
+children are graduates of Wilson High School.
+
+
+
+
+                                                         37
+                 D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Tony Magliano
+PPS Operations Division
+Tony Magliano joined PPS in 2008 after retiring from the United States Marine Corps with 22 years
+of service. He served as Assistant Director of Custodial and Maintenance, Director of Facilities and
+Deputy Chief Operating Officer prior to his current role as Chief Operating Officer. Tony has a
+Master's degree in Information Technology Management from the Naval Post Graduate School and a
+Bachelor's degree in Business Administration from Oregon State University.
+
+Sheila Martin
+Portland State University Population Research Center
+Sheila Martin is Director of the Institute of Portland Metropolitan Studies and the Population
+Research Center at Portland State University. She is also a faculty member in the Nohad A. Toulan
+School of Urban Studies and Planning and the parent of a PPS student.
+
+Charles McGee
+Superintendent
+Named among the most influential African-Americans in Oregon, Charles has a lot to say about
+leadership, education and public service. In 2006, Charles ran for PPS Board and co-founded the
+Black Parent Initiative with his close friend Johnell Bell. He has spoken throughout the nation and
+Canada on various issues and topics pertaining to families experiencing poverty.
+
+Alexander "Sascha" Perrins
+PPS Office of Schools
+Alexander Perrins currently serves as the Senior Director for Pre K-12 Programs. Prior positions in
+PPS include Regional Administrator for the Lincoln and Roosevelt clusters and Principal of Jason
+Lee K-8 School from 2006- 2010.
+
+Alice Perry
+Superintendent
+Alice Perry is the granddaughter of Mexican immigrants from Monterrey and Durango; she
+identifies as Chicana/Irish American. She is the Transformative Youth Opportunities Director for
+Latino Network, with over 20 years of non-profit experience. Alice received a Bachelor of Arts in
+Anthropology from Pomona College and also studied in Ireland. She serves as the Board President
+of OrFIRST, a Parent Resource Center that provides training and support to families of children
+experiencing disabilities. Alice is the mother of four teenage boys. She is passionate about her
+community, social justice and especially her family.
+
+
+
+                                                         38
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Mike Pichay
+Coalition of Communities of Color
+Michael currently serves as an advisor and instructor at Portland Community College for the Future
+Connect program, which supports first generation and low-income students across Multnomah
+County. Prior to PCC, Michael worked as an admission officer for Stanford University and later as
+the Director of College Guidance for a Title I high school in East Harlem, NY. A Los Angeles native,
+Michael earned degrees from El Camino Community College and University of California, Berkeley.
+Most recently, he completed a Master Degree in Education from Harvard University.
+
+Michael Reunert
+Portland Council of Parent-Teacher Associations (PTA)
+Michael Reunert is the father of two daughters currently attending PPS. He is a past President of
+Rieke Elementary PTA and a member of the SWNI (Southwest Neighborhoods, Inc.) Schools
+Committee.
+
+Hector Roche
+PPS Office of Equity and Partnerships
+Hector Roche is Senior Equity Manager at PPS. Previous roles include Community Liaison for
+Multnomah County Chair Ted Wheeler and Manager of Staff and Organizational Development for
+the Multnomah County Health Department.
+
+Neisha Saxena
+Superintendent
+Neisha is a parent activist and SACET member. She is a former PTA President and Site Council
+member at Beaumont Middle School and a former Site Council member at Alameda Elementary
+School. She lives in the Grant
+
+Jason Trombley
+Superintendent's Advisory Committee on Enrollment and Transfer (SACET)
+Jason is a PPS graduate and a member of the Coalition of Communities of Color. His service to PPS
+includes co- chair or SACET, member of the Achievement Compact Advisory Committee and
+volunteer coach for the Lincoln High School constitution team.
+
+
+
+
+                                                          39
+                  D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Matthew Tschabold
+Portland Housing Bureau
+Matthew Tschabold is the Portland Housing Bureau's Equity & Policy Manager, where he leads the
+development of policies to aid PHB in removing systemic barriers to housing opportunity. Raised in
+Oregon, his background in urban policy, public finance and governance includes work for the State
+of Oregon in education and community development; for governments and institutions of Cambodia
+and Macedonia in governance, decentralization and public finance; urban policy and planning with
+various institutions in the City of New York; and democracy development in the United States Peace
+Corps.
+
+Max Tuttle Kendall Wilson
+Superintendent's Student Advisory Committee (Super SAC)
+Max Tuttle is a Madison High School senior and Co-Student Body President. Max attended Trillium
+Charter School for primary and middle education. He is a member of Madison's student council,
+along with varsity baseball and Constitution Team.
+
+Kim Wilson
+Portland Association of Teachers (PAT)
+Kim Wilson is a PPS graduate (Scott, Gregory Heights Middle School, & Madison High School). Her
+children attend Vernon K-8 School and she teaches 7th & 8th grade math at Scott K-8 School.
+
+Kendall Wilson
+Superintendent's Student Advisory Committee (Super SAC)
+Kendall is a senior at Grant High School. She is preparing to go out of state for college, and has
+"recently developed a passion for change and am starting to come out of my shell more and speak
+my mind as I have taken a few leadership positions."
+
+Joe Zehnder
+Portland Bureau of Planning and Sustainability
+Joe is Chief Planner for the Portland Bureau of Planning and Sustainability. He earned degrees from
+University of Illinois Champaign-Urbana and University of North Carolina at Chapel Hill. Prior to
+coming to Portland, Joe held city planner positions in Baltimore, Maryland and Montpelier,
+Vermont, and served as Deputy Commissioner for Planning and Development for the City of
+Chicago.
+
+
+
+
+                                                          40
+               D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+Vote Tallies
+
+
+
+
+                                                       41
+D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                        42
+D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                        43
+                D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+Materials
+
+Values Framework • View full online version (PDF)
+
+
+
+
+                                                        44
+               D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+How we developed the scenarios • View full document online (PDF)
+
+
+
+
+                                                       45
+                D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Scenarios 1 and 2 side-by-side comparison • View online version (PDF)
+
+
+
+
+                                                        46
+                D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+West Side Boundary Proposal: 2a (Jan. 9) • View online version of the proposal and map (PDF)
+
+
+
+
+                                                        47
+                D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+West Side Boundary Proposal: 2b • View online version of the proposal and map (PDF)
+
+
+
+
+                                                        48
+               D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+West side enrollment balancing: additional options
+
+
+
+
+                                                       49
+D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                        50
+               D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+K-8 and Middle School Comparisons by 6th Grade Cohort
+
+
+
+
+                                                       51
+               D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Mean Credits Earned by School by 6th Grade Cohort
+
+
+
+
+                                                       52
+              D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Mean Credits Earned by School by 6th Grade Cohort (sorted)
+
+
+
+
+                                                      53
+               D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+OPB analysis on grad rates
+
+
+
+
+                                                       54
+               D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+Credit Historgrams
+
+
+
+
+                                                       55
+D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                        56
+D-BRAC Recommendations on Enrollment Balancing Components • Tuesday, February 9, 2016
+
+
+
+
+                                        57
+

@@ -1,0 +1,82 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Grade progression rates (GPRs) measure the ratio of enrollment in a specific
+grade to the previous year’s enrollment in the previous grade. Some
+forecasters call them “cohort survival rates.” They incorporate migration,
+school choice, dropouts, and retention. The “5 yr avg” columns are averages
+of the most recent 5 years of grade progression rates, whereas the
+“baseline” columns contain the future assumptions for GPRs excluding the
+migration component. There is no baseline K-1 GPR because capture rates
+are used in the model for both kindergarten and 1st grade.
+
+
+
+
+                                                                               11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+Mean percentage difference shows bias. K-5 and 9-12 enrollments in 2014-15 were
+generally higher than forecast three years earlier, while 6-8 enrollments in 2014-15
+were generally lower than forecast. All other measures are absolute.
+
+
+
+
+                                                                                       47
+Mean percentage difference shows bias. K-5 and 9-12 enrollments in 2014-15 were
+generally higher than forecast three years earlier, while 6-8 enrollments in 2014-15
+were generally lower than forecast. All other measures are absolute.
+
+
+Because of the size difference in 6th-8th grade enrollment between middle schools
+and K-8 schools, the K-8 numeric differences are smaller, while percentage
+differences are larger.
+
+
+
+
+                                                                                       48
+49
+50
+
