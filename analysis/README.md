@@ -12,6 +12,7 @@ Everything here is derived from `sources/` and cites back to it. The citation fo
 | File | What it is | Use it for |
 |---|---|---|
 | `BRIEFING.md` | Capstone briefing: bottom line, Scenario A vs B, decision path, PPS's rationale, weak points, Board stances, next steps, top 15 sources, gaps | First read for anyone engaging with the decision |
+| `topics/septsa_rightsizing_report.md` | SEPTSA (Special Education PTSA) Oct 20, 2026 report: disability impacts of Scenarios A/B, 12 information requests, cross-checks against PPS data |
 | `topics/2016_boundary_changes.md` | The 2016 West Side boundary/program changes (Res. 5256/5266): justification, PSU forecasts used by staff, Maplewood forecast vs actual |
 | `topics/2005_closures.md` | The March 14, 2005 closure votes (Smith, Edwards, Richmond): resolutions, which PSU forecast they cited (March 2004 edition), the Smith case, savings claimed |
 | `refresh_2026-10-18.md` | What the 2026-10-18 refresh added (BoardBook Oct 20 packet, Oct 13 committee and OPB/TV transcripts, news, pps.net FAQ rewrite, new dashboard, April engagement decks) and key findings |

@@ -58,14 +58,14 @@ def rows():
             if m:
                 yield ("transcript", txt.name[:10], title, audio, f"[AUDIO:{cite_base}@{m.group(1)}]", f"{m.group(2)}: {m.group(3)}", m.group(2))
     # PDFs (page level)
-    for kind, base in [("boardbook", "sources/boardbook"), ("pps_net", "sources/pps_net"), ("bond", "sources/bond")]:
+    for kind, base in [("boardbook", "sources/boardbook"), ("pps_net", "sources/pps_net"), ("bond", "sources/bond"), ("community", "sources/community"), ("psu_prc", "sources/psu_prc")]:
         for txt in sorted((ROOT / base).rglob("*.pdf.txt")):
             ocr = Path(str(txt)[:-4] + ".ocr.txt")
             src = ocr if ocr.exists() else txt
             rel = str(txt.relative_to(ROOT))[:-4]
             date = (re.search(r"(20\d\d-\d\d-\d\d)", rel) or [None, ""])[1] if kind == "boardbook" else ""
             m = re.search(r"/(?:attachments|supplemental)/(\d+)_", rel) or re.search(r"/(?:minutes|public_notice)_(\d+)\.pdf", rel)
-            ref = f"[BB:{m.group(1)}" if (kind == "boardbook" and m) else f"[PPS:{rel}"
+            ref = f"[BB:{m.group(1)}" if (kind == "boardbook" and m) else (f"[COMM:{rel[len('sources/community/'):]}" if kind == "community" else f"[PPS:{rel[len('sources/'):]}" if kind == "psu_prc" else f"[PPS:{rel}")
             for i, page in enumerate(src.read_text(errors="ignore").split("\f"), 1):
                 if len(page.strip()) > 30:
                     yield (kind, date, Path(rel).name, rel, f"{ref} p.{i}]", re.sub(r"\s+", " ", page), "")

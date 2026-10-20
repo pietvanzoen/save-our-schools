@@ -1,0 +1,44 @@
+{
+ "publisher": "PPS Special Education PTSA (SEPTSA), 501(c)(3), septsa.org",
+ "note": "Community-organization report on PPS rightsizing, approved by SEPTSA members and delivered to the PPS Board, Rightsizing Committee and Superintendent on Oct 20, 2026 (per the report and page). Archived as published for research; SEPTSA asks readers to share it. Its numbers are SEPTSA's preliminary estimates from public PPS data, not verified by PPS.",
+ "files": [
+  {
+   "file": "sources/community/septsa/2026-10-20_septsa_rightsizing_report.pdf",
+   "url": "https://drive.google.com/file/d/18mXd3XOK7YCfoU1jsVkHoVxGqyggiObO/view",
+   "title": "PPS Rightsizing: Special Education Impacts and Information Requests (PDF, 36 pp.)",
+   "fetch_date": "2026-10-20",
+   "sha256": "3fcf8c921f83d5d5e29884cb92b67dd80baef6bdc4aeb58ca1d5812106f45a31",
+   "bytes": 4267295,
+   "method": "curl on the repository owner's linked computer",
+   "fetched_via": "https://drive.usercontent.google.com/download?id=18mXd3XOK7YCfoU1jsVkHoVxGqyggiObO"
+  },
+  {
+   "file": "sources/community/septsa/2026-10-20_septsa_rightsizing_report_gdoc.html",
+   "url": "https://docs.google.com/document/d/e/2PACX-1vQxLriAFy0ZexQ1vP1JXrvfLieHc_whzoX0tcD_tVRxkyQlyqvosJnwdMnG93gnwxjU2fMcbmjL7FVQ/pub",
+   "title": "Same report, published Google Doc (HTML; includes charts as images hosted by Google)",
+   "fetch_date": "2026-10-20",
+   "sha256": "9d9e379371c84c87a9621efa5afa480973244835d2ee2c219e9d4fb4edf1e8d5",
+   "bytes": 349597,
+   "method": "curl on the repository owner's linked computer"
+  },
+  {
+   "file": "sources/community/septsa/2026-10-20_septsa_rightsizing_report_page.html",
+   "url": "https://www.septsa.org/rightsizing-report",
+   "title": "SEPTSA web page announcing the report: summary of findings, requests, sample email, calls to action",
+   "fetch_date": "2026-10-20",
+   "sha256": "93c9ca20f891585812ebaab66fdd541ad799b97e73339def253c8c4ed3be4f01",
+   "bytes": 168699,
+   "method": "curl on the repository owner's linked computer"
+  },
+  {
+   "file": "sources/community/septsa/2026-10-20_septsa_sample_email_to_board.pdf",
+   "url": "https://docs.google.com/document/d/1Gevk2xSH1cRm3xXtAWXavFgUj57R9DyY-1-hdOHvOHo/edit",
+   "title": "Sample email to the School Board linked from the page (exported as PDF)",
+   "fetch_date": "2026-10-20",
+   "sha256": "579e09f590ba672456052953e379be1683839887234bc34628ad8461f7141dc5",
+   "bytes": 46527,
+   "method": "curl on the repository owner's linked computer",
+   "fetched_via": "https://docs.google.com/document/d/1Gevk2xSH1cRm3xXtAWXavFgUj57R9DyY-1-hdOHvOHo/export?format=pdf"
+  }
+ ]
+}

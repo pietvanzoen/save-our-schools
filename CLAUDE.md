@@ -28,6 +28,7 @@ and how board members and senior staff think and change positions over time. Rou
    - Spreadsheet cells: `[PPS:<path under sources/>#<tab>!R<row>]` (row as in the xlsx; tab name as in the xlsx)
    - News: `[NEWS:<id from sources/news/index.jsonl>]`
    - Correspondence (letters to the Board): `[LTR:<file stem under sources/correspondence/> L<line>]`
+   - Community-organization documents (PTAs, parent groups): `[COMM:<path under sources/community/> p.<page>]`; these are advocacy sources, so label their figures as the group's estimates
 3. Quotes must be verbatim from the source text. Transcripts are auto-captions: fix nothing inside the
    quote except obvious caption artifacts, and mark any repair with [brackets]. Keep each quote short and
    relevant (1–3 sentences). Never invent or "smooth" a quote.
