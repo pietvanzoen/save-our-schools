@@ -17,8 +17,8 @@ Sources: [`sources/pps_net/boundaries_2016/`](../../sources/pps_net/boundaries_2
   - relief for Chapman and a plan for "future expected residential growth" there;
   - a plan for overcrowding at Hayhurst (neighborhood program plus Odyssey) that would not leave the neighborhood program under-enrolled;
   - relief for Lincoln HS;
-  - "Enrollment relief for Capitol Hill and Maplewood schools that would allow both schools to avoid overcrowding for several years" [same p.19].
-- D-BRAC's February 2016 report framed the moment the same way. It noted "seven years of enrollment increases" and that "demographers are forecasting another 5,000 students in PPS schools in next decade" [PPS:pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf p.5](../../sources/pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf). It described Hayhurst and Odyssey as "bursting at the seams as young families snatched up still relatively affordable homes" [same p.22].
+  - "Enrollment relief for Capitol Hill and Maplewood schools that would allow both schools to avoid overcrowding for several years" [PPS:pps_net/boundaries_2016/2016-05-17_board_packet.pdf p.19](../../sources/pps_net/boundaries_2016/2016-05-17_board_packet.pdf).
+- D-BRAC's February 2016 report framed the moment the same way. It noted "seven years of enrollment increases" and that "demographers are forecasting another 5,000 students in PPS schools in next decade" [PPS:pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf p.5](../../sources/pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf). It described Hayhurst and Odyssey as "bursting at the seams as young families snatched up still relatively affordable homes" [PPS:pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf p.22](../../sources/pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf).
 - At the Jan 19, 2016 Wilson-cluster D-BRAC meeting, staff said December data "forecast even more crowding at Westside schools, including Chapman and Capitol Hill" [PPS:pps_net/boundaries_2016/dbrac/011916-DBRAC-Wilson.pdf p.2](../../sources/pps_net/boundaries_2016/dbrac/011916-DBRAC-Wilson.pdf).
 
 ## Were PSU forecasts cited?
@@ -29,7 +29,7 @@ Sources: [`sources/pps_net/boundaries_2016/`](../../sources/pps_net/boundaries_2
   - PSU's Charles Rynerson briefed D-BRAC on forecasting methods [PPS:pps_net/boundaries_2016/dbrac/DBRAC-Rynerson.Forecasting_Overview.pdf p.1](../../sources/pps_net/boundaries_2016/dbrac/DBRAC-Rynerson.Forecasting_Overview.pdf) (scanned; OCR text). The D-BRAC report lists the PSU Population Research Center among its expert presenters [PPS:pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf p.7](../../sources/pps_net/boundaries_2016/dbrac/DBRAC-Report-with-Recommendations-FEB-2016-WEB.pdf).
 
 ## What the 2016 forecast said about Maplewood, and what happened
-From the Superintendent's West Side tables, with figures as printed [PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.2](../../sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf) [same p.3]:
+From the Superintendent's West Side tables, with figures as printed [PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.2](../../sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf) [PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3](../../sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf):
 
 | | 2015-16 actual | 2020 forecast, no change | 2020 forecast, Superintendent's plan |
 |---|---|---|---|
@@ -38,7 +38,7 @@ From the Superintendent's West Side tables, with figures as printed [PPS:pps_net
 | Capitol Hill enrollment | 437 | 494 | 455 |
 | Capitol Hill utilization | 102.0% | 114.1% | 106.1% |
 
-- The table note adds: "Future overcrowding at Capitol Hill and Maplewood will be addressed with the re-opening of Smith School, potentially by the 2019-20 school year" [same p.3].
-- Actual October counts were Maplewood 374 (2019-20), 347 (2020-21) and 291 (2021-22), and Capitol Hill 416, 346 and 324 [BB:3996892 p.145](https://meetings.boardbook.org/Documents/DownloadPDF/3996892?org=915#page=145).
+- The table note adds: "Future overcrowding at Capitol Hill and Maplewood will be addressed with the re-opening of Smith School, potentially by the 2019-20 school year" [PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3](../../sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf).
+- Actual October counts were Maplewood 374 (2019-20), 347 (2020-21) and 291 (2021-22), and Capitol Hill 416, 346 and 324 [BB:3996892 p.145](../../sources/boardbook/meetings/2026-02-05_730080_audit-committee-meeting/attachments/3996892_FY25_PPS_FINAL_ACFR_1.28.26.pdf).
 - Analysis: Maplewood's 2020 forecast under the adopted plan (378) was close to its actual 2019-20 count (374), but both schools then fell sharply. The overcrowding that justified shrinking Maplewood's zone and planning to reopen Smith never arrived. Smith was not reopened and is still vacant.
 - Analysis: the logic ran the opposite way from 2026. In 2016 a growth forecast was the reason to shrink Maplewood's boundary. In 2026 a decline forecast is the reason to close it. Both rest on PSU-based projections five years out.
