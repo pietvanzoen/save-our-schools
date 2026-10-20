@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build sources/boardbook/attachments_index.csv: one row per attachment with meeting, agenda item,
-local paths, page count, text size and topic tags (keyword-based, for triage only)."""
+local paths, page count, text size and topic tags (keyword-based, for triage only).
+PDFs we archived that BoardBook no longer lists stay in the index, tagged unlisted_upstream."""
 import json, csv, re, subprocess
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
@@ -39,6 +40,20 @@ for mj in sorted(BB.glob("meetings/*/meeting.json")):
             add(a, it["title"], "agenda")
     for a in m.get("supplementals_files", []):
         add(a, "(supplemental resources)", "supplemental")
+    # Keep documents we archived that BoardBook no longer lists (deleted or replaced upstream).
+    listed = {r["pdf"] for r in rows}
+    listed_ids = {r["document_id"] for r in rows if r["meeting_id"] == m["meeting_id"]}
+    for sub, kind in (("attachments", "agenda"), ("supplemental", "supplemental")):
+        for pdf in sorted((d / sub).glob("*.pdf")):
+            if str(pdf.relative_to(ROOT)) in listed:
+                continue
+            doc, _, nm = pdf.stem.partition("_")
+            if doc in listed_ids:  # same document saved under a second filename
+                continue
+            add({"document_id": doc, "name": nm.replace("_", " "),
+                 "download_url": f"https://meetings.boardbook.org/Documents/DownloadPDF/{doc}?org=915"},
+                "(no longer listed on BoardBook; archived copy)", kind)
+            rows[-1]["tags"] = ";".join(filter(None, [rows[-1]["tags"], "unlisted_upstream"]))
 with open(BB / "attachments_index.csv", "w", newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0].keys())); w.writeheader(); w.writerows(rows)
 print(len(rows), "rows;", sum(1 for r in rows if r["pdf"]), "with local pdf")

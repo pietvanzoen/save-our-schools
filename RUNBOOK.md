@@ -50,7 +50,11 @@ JS crawler. It writes the files and a per-meeting manifest under an output folde
 ```bash
 python3 tools/boardbook_crawl.py OUT --index sources/boardbook/boardbook_index_2025_2026.json --only <id> <id>
 ```
-Copy `OUT/boardbook/meetings/*` into `sources/boardbook/meetings/`. Copy the new index over the old one, keeping any
+Bring it in with `python3 tools/safe_copy.py OUT` (never plain `cp`). Changed files are moved to `_prior/` first and
+logged in `sources/_versions_log.csv`. Then run `python3 tools/check_upstream.py --log` on the same machine. It records
+documents PPS has deleted in `sources/_removed_upstream.csv`, and `build_attachment_index.py` keeps those archived copies
+indexed with the tag `unlisted_upstream`. PPS deleted the Oct 20, 2026 Board question tracker a day after posting it.
+Older note on copying `OUT/boardbook/meetings/*`: Copy the new index over the old one, keeping any
 extra keys the old one had (`supp`, `minutesFiles`). Save each manifest as `_manifest_bb_<id>_<date>.json` so earlier
 manifests aren't overwritten. Then run step 5. The 2026-10-18 refresh ran this from the owner's computer, because the
 cloud sandbox cannot reach BoardBook.

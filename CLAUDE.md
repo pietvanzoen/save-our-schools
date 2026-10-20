@@ -14,6 +14,11 @@ and how board members and senior staff think and change positions over time. Rou
 ## Rules
 1. `sources/` is primary material. Never edit files there except to ADD new source files plus their
    provenance (URL + fetch date in a manifest or front matter). Do not paraphrase into sources/.
+   **Always keep originals.** PPS edits and deletes posted documents. Never overwrite or delete an archived file:
+   bring refreshed material in with `python3 tools/safe_copy.py <staging-dir>`, which moves any changed file to
+   `<dir>/_prior/` and logs it in `sources/_versions_log.csv`. Save every new document the first time it's seen,
+   even if it looks minor. After each refresh run `tools/check_upstream.py --log` (from a machine that can reach
+   BoardBook/Drive) and record disappearances in `sources/_removed_upstream.csv`.
 2. `analysis/` is derived. Every factual claim carries a citation:
    - BoardBook doc: `[BB:<docId> p.<page>]` (page = PDF page; text files separate pages with \f)
    - Video: `[YT:<videoId>@H:MM:SS]` (timestamp from the transcript line)
