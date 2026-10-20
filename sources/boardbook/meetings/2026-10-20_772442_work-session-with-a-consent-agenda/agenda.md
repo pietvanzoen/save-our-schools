@@ -23,6 +23,11 @@ Attachments:
 )
 PPS Bond Performance Audit Report for FY 24-25 and FY 25-26 (1)
 6. 7:30 pm - Update: Rightsizing
+Attachments:
+(
+1
+)
+10.20.26 BOE Meeting_Rightsizing
 7. 8:30 pm - Division 22 Annual Report
 Attachments:
 (

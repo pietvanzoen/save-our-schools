@@ -1,0 +1,35 @@
+[
+ {
+  "path": "boardbook/meetings/2026-10-20_772940_executive-session/agenda.html",
+  "url": "/Public/Agenda/915?meeting=772940",
+  "final_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=772940",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 37706,
+  "error": "",
+  "fetched_at": "2026-10-20T02:30:41Z",
+  "title": "agenda"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772940_executive-session/public_notice.html",
+  "url": "/Public/PublicNotice/915?meeting=772940",
+  "final_url": "https://meetings.boardbook.org/Documents/CustomPublicNoticeForMeeting/915?meeting=772940",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 32835,
+  "error": "",
+  "fetched_at": "2026-10-20T02:30:42Z",
+  "title": "public_notice"
+ },
+ {
+  "path": "boardbook/meetings/2026-10-20_772940_executive-session/public_notice_14576310.pdf",
+  "url": "/Documents/DownloadPDF/14576310?org=915",
+  "final_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14576310?org=915",
+  "status": 200,
+  "content_type": "application/pdf",
+  "bytes": 183085,
+  "error": "",
+  "fetched_at": "2026-10-20T02:30:43Z",
+  "title": "public_notice pdf"
+ }
+]

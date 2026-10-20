@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T22:13:57Z",
+ "generated": "2026-10-20T02:30:19Z",
  "source": "https://meetings.boardbook.org/public/Organization/915",
  "meetings": [
   {
@@ -9,6 +9,10 @@
    "loc": "Benson High School",
    "vids": [],
    "det": [
+    {
+     "t": "Supplemental Resources",
+     "h": "/Meeting/Supplementals/915?meeting=772442"
+    },
     {
      "t": "Public Notice",
      "h": "/Public/PublicNotice/915?meeting=772442"
@@ -23,6 +27,11 @@
      "file": "14549578",
      "name": "PPS Bond Performance Audit Report for FY 24-25 and FY 25-26 (1)",
      "item": "5. 7:00 pm - Report: Bond Performance Audit - Year 7 & 8"
+    },
+    {
+     "file": "14576326",
+     "name": "10.20.26 BOE Meeting_Rightsizing",
+     "item": "6. 7:30 pm - Update: Rightsizing"
     },
     {
      "file": "14549577",
@@ -68,6 +77,10 @@
    "loc": "Benson High School",
    "vids": [],
    "det": [
+    {
+     "t": "Public Notice",
+     "h": "/Public/PublicNotice/915?meeting=772940"
+    },
     {
      "t": "Agenda",
      "h": "/Public/Agenda/915?meeting=772940"
@@ -171,7 +184,7 @@
      "item": "6. 7:00 pm - Bond Accountability Committee Quarterly Report"
     },
     {
-     "file": "14493469",
+     "file": "14564716",
      "name": "Reso 7383 - Resolution to Adopt the Budget Calendar for 2027-28",
      "item": "7. 7:15 pm - Resolution to Adopt the Budget Calendar for 2027-28 (Resolution 7383) Vote - Public Comment Accepted"
     },

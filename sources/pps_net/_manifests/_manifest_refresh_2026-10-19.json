@@ -1,0 +1,53 @@
+{
+ "note": "Refresh 2026-10-19: changed/new rightsizing pages and linked files. Other rightsize pages unchanged since 2026-10-18. Translated Methodology PDFs (es, vi, zh, so, ru) not archived; ids in scenarios_2026-10-19.html.",
+ "files": [
+  {
+   "file": "sources/pps_net/rightsizing/scenarios_2026-10-19.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/scenarios",
+   "title": "Rightsize page snapshot: scenarios (adds Methodology and KPIs PDFs, What We Heard link)",
+   "fetched_at": "2026-10-19",
+   "sha256": "55364b8e19e0d61c7459c16c6e57b59ccca084e8d4111e0927d2b2b5dfdf3abb",
+   "bytes": 99204,
+   "method": "curl on the repository owner's linked computer (Drive via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/what_we_heard_2026-10-19.html",
+   "url": "https://www.pps.net/about/portland-public-schools-information/rightsize/what-we-heard",
+   "title": "Rightsize page: What We Heard (new)",
+   "fetched_at": "2026-10-19",
+   "sha256": "f975e0b77323d6040c73f895e593d8c602a746f3b77c99abd4c03ed1becf7d83",
+   "bytes": 77275,
+   "method": "curl on the repository owner's linked computer (Drive via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/methodology/rightsizing_methodology_2026-10.pdf",
+   "url": "https://drive.google.com/file/d/1WCaX4XADYzbLSpEivllhQ_U42kOLtHAr/view",
+   "title": "Rightsizing Methodology (English), linked from scenarios page",
+   "fetched_at": "2026-10-19",
+   "sha256": "7e73f3c26c766d5447ae702837e18a136aaac38798921ec62bb71f17136cb3ef",
+   "bytes": 585871,
+   "method": "curl on the repository owner's linked computer (Drive via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "1WCaX4XADYzbLSpEivllhQ_U42kOLtHAr"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/methodology/rightsizing_kpis_2026-10.pdf",
+   "url": "https://drive.google.com/file/d/1ady25ApLSDFhMXWHNEE2rtw0foQDqxx2/view",
+   "title": "Rightsizing Key Performance Indicators (PDF), linked from scenarios page",
+   "fetched_at": "2026-10-19",
+   "sha256": "949ba0953dc50e1bd85ecf7ad4915b61b80f28e5e7b3f065003367fdd8084d8f",
+   "bytes": 770397,
+   "method": "curl on the repository owner's linked computer (Drive via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "1ady25ApLSDFhMXWHNEE2rtw0foQDqxx2"
+  },
+  {
+   "file": "sources/pps_net/rightsizing/engagement/2026-10-05_to_12_engagement_recap_what_we_heard.pdf",
+   "url": "https://drive.google.com/file/d/15xE1Xo6VaeLSOopHvWghqEwTdp1graTT/view",
+   "title": "Rightsizing Engagement Recap: What We Heard, October 5-12, 2026 (Data & Accountability weekly memo)",
+   "fetched_at": "2026-10-19",
+   "sha256": "539e9367569e322f72fbb417b180eb9565ef47909ff88057cd62708d633e80e4",
+   "bytes": 409283,
+   "method": "curl on the repository owner's linked computer (Drive via drive.usercontent.google.com/download?id=<ID>&export=download&confirm=t)",
+   "drive_id": "15xE1Xo6VaeLSOopHvWghqEwTdp1graTT"
+  }
+ ]
+}

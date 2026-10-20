@@ -9,7 +9,7 @@
  "videos": [],
  "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=772442",
  "minutes_url": null,
- "supplementals_url": null,
+ "supplementals_url": "https://meetings.boardbook.org/Meeting/Supplementals/915?meeting=772442",
  "folder": "sources/boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda",
  "agenda_items": [
   {
@@ -59,7 +59,14 @@
    "title": "6. 7:30 pm - Update: Rightsizing",
    "depth": 0,
    "description": "",
-   "attachments": []
+   "attachments": [
+    {
+     "document_id": "14576326",
+     "name": "10.20.26 BOE Meeting_Rightsizing",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14576326",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14576326?org=915"
+    }
+   ]
   },
   {
    "agenda_item_id": "18965535",
@@ -163,6 +170,13 @@
    "depth": 0,
    "description": "",
    "attachments": []
+  }
+ ],
+ "supplementals_files": [
+  {
+   "document_id": "14576412",
+   "name": "Board Question Tracker - Google Sheets",
+   "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14576412?org=915"
   }
  ],
  "public_notice_files": [],
