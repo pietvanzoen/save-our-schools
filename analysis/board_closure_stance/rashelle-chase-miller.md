@@ -31,6 +31,8 @@
 - Monthly means of the scored points (`rashelle-chase-miller_scores.csv`): Mar 2026 1.6, Apr 1.5, May 1.25, Sep 1.1, Oct 1.0.
 - Analysis: her conditions have grown more specific, but none is framed as a reason to stop. In October she said she wants "massaging of the scenarios" [YT:zOUH2Jq7Owo@3:25:21](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12321s) *(medium)*.
 
+**Update (Oct 20, 2026 work session): +1 → +1.5 (range +1 to +2).** This was her strongest statement yet in favor of acting now. She said the status quo outcomes for focal students are "shocking" and get worse [YT:xByUlijpcnE@5:12:44](https://www.youtube.com/watch?v=xByUlijpcnE&t=18764s). On opponents: "And if your school is doing okay and your kids are doing okay, then you can afford to wait. But my kids cannot wait." [YT:xByUlijpcnE@5:13:40](https://www.youtube.com/watch?v=xByUlijpcnE&t=18820s). Also: "No one is coming to save us. This is our moment to make a change for our kids." [YT:xByUlijpcnE@5:15:43](https://www.youtube.com/watch?v=xByUlijpcnE&t=18943s). She answered La Forte's peer comparison with Oklahoma City (15) and Tulsa (17) [YT:xByUlijpcnE@6:31:36](https://www.youtube.com/watch?v=xByUlijpcnE&t=23496s). Her questions were about mitigating enrollment loss, not conditions for her vote [YT:xByUlijpcnE@5:17:49](https://www.youtube.com/watch?v=xByUlijpcnE&t=19069s).
+
 ## Timeline
 
 Scores answer the Dec-15 question as of that date (+2 strongly for adopting closures ... −2 strongly against/defer). *(medium)* = medium-confidence speaker attribution. The full rationale for each row is in the CSV.
@@ -78,6 +80,9 @@ Scores answer the Dec-15 question as of that date (+2 strongly for adopting clos
 | 2026-10-06 | "I don't I don't know that either of these scenarios like exactly as they're written is going to be where we land." [YT:zOUH2Jq7Owo@3:28:56](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12536s) *(medium)* | +1 | Expects an amended package |
 | 2026-10-06 | "could you please talk to us about Chiefs for Change and your involvement in Chiefs for Change?" [YT:zOUH2Jq7Owo@4:17:38](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=15458s) (attribution per OPB's corrected report [NEWS:NEWS-20261007-opb-2](https://www.opb.org/article/2026/10/07/chiefs-for-change-and-school-closures-in-oregon/)) | +1 | Gives Armstrong a platform to rebut the privatization claims |
 | 2026-10-13 | TLE: "so what's in it for the folks who are going to be leaving their schools and moving into a new school? What is the gain for those folks?" [YT:As3VpeDGx70@1:09:39](https://www.youtube.com/watch?v=As3VpeDGx70&t=4179s) *(medium)* | +1 | Receiving-school guarantee theme; she asks, she does not oppose. |
+| 2026-10-20 | "So you guys can sit here and talk about you don't like this plan, and it's too much, and it's too soon, and it's too fast. It is over[due] for so many of our kids." [YT:xByUlijpcnE@5:13:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=18806s); "The privilege in doing nothing is wild." [YT:xByUlijpcnE@5:14:08](https://www.youtube.com/watch?v=xByUlijpcnE&t=18848s) | +2 | Rejects 'too much, too fast' objections outright. |
+| 2026-10-20 | "No one is coming to save us. This is our moment to make a change for our kids." [YT:xByUlijpcnE@5:15:43](https://www.youtube.com/watch?v=xByUlijpcnE&t=18943s) | +2 | Urges acting now; no state rescue. |
+| 2026-10-20 | "Hey Virginia, um, just so you know, Oklahoma City did 15 and Tulsa did 17 school closures." [YT:xByUlijpcnE@6:31:36](https://www.youtube.com/watch?v=xByUlijpcnE&t=23496s) | +2 | Counters the 'unprecedented scale' argument. |
 
 Attribution note for 10/6: the 3:24–3:29 turn is medium by seat order. The content strongly matches her: Woodlawn parent, a child with a physical disability whose neighborhood school is not accessible, and an educator [YT:zOUH2Jq7Owo@3:26:21](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12381s).
 
@@ -125,6 +130,7 @@ Attribution note for 10/6: the 3:24–3:29 turn is medium by seat order. The con
    - March 8 *(medium)*: "during the MLC thing despite what I was grappling over internally ... my my public face was like we have to cut this much money" [YT:iY4k1Q8Y_yI@4:45:22](https://www.youtube.com/watch?v=iY4k1Q8Y_yI&t=17122s).
    - PPS then reversed the MLC decision within days [NEWS:NEWS-20260227-wweek-1](https://www.wweek.com/news/schools/2026/02/27/pps-backtracks-on-closure-of-metropolitan-learning-centers-high-school/). The October scenarios again end MLC 9–12 [BB:14505788 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14505788?org=915#page=2).
    - Analysis: she has said she will hold the board line in public even when privately unsure. Her October "either of these scenarios ... as they're written" remark [YT:zOUH2Jq7Owo@3:28:56](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=12536s) *(medium)* is therefore a deliberate, mild public signal of distance from staff's specifics, not from closures.
+- **Oct 20, 2026: from conditions to urgency.** Since May her emphasis was conditions and guarantees. On Oct 20 she argued that delay is a privilege and that "my kids cannot wait" [YT:xByUlijpcnE@5:13:40](https://www.youtube.com/watch?v=xByUlijpcnE&t=18820s). Analysis: this is a hardening toward adoption, not a reversal.
 
 ## Fixations / recurring themes
 

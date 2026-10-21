@@ -29,6 +29,8 @@ She is less firmly committed on **scale** (Scenario A or B) and on **specific fe
 | Sep 2026 | +1 | "I'm for it", conditioned on what rightsizing means |
 | Oct 2026 | +2 | "this work has to be done" |
 
+**Update (Oct 20, 2026 work session): +1.5 → +1 (range +1 to +2).** She was "heartened" that both scenarios raise the share of students in sustainable schools: "So that's what we're trying to do." [YT:xByUlijpcnE@5:06:57](https://www.youtube.com/watch?v=xByUlijpcnE&t=18417s). She also said "parts of the east side do need it" [YT:xByUlijpcnE@5:07:35](https://www.youtube.com/watch?v=xByUlijpcnE&t=18455s). But for the first time she questioned the closures on her own (west) side: "it almost seems like maybe the west side doesn't need it." [YT:xByUlijpcnE@5:07:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=18446s). She also floated keeping DLI in neighborhood schools through 5th grade [YT:xByUlijpcnE@5:05:00](https://www.youtube.com/watch?v=xByUlijpcnE&t=18300s). Analysis: this still points to a yes vote on a package. The likeliest amendments from her are fewer West-side closures (Maplewood, Stephenson) and changes to the DLI moves.
+
 ## Timeline
 
 Scores answer the question "if the Dec 15 vote were held that day". Attribution confidence is high unless the row says *(medium)*. Low-confidence attributions are excluded. The full scored list, with rationales, is in `patte-sullivan_scores.csv`.
@@ -68,6 +70,9 @@ Scores answer the question "if the Dec 15 vote were held that day". Attribution 
 | 2026-10-06 | Her great-grandchild would attend a middle school she could not name; the captions give "Swood" after a prompt about "the one that Llewellen" (likely Sellwood MS, which closes in both scenarios; identification medium). "I talked to my grandson today, but I said we have to I think we have to do something." [YT:zOUH2Jq7Owo@3:14:38](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11678s) [YT:zOUH2Jq7Owo@3:15:02](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11702s) | +2 | Her personal stake did not change her position. Sellwood closes in 2028 under A and B [BB:14509719 p.3](https://meetings.boardbook.org/Documents/DownloadPDF/14509719?org=915#page=3). |
 | 2026-10-06 | "But I feel very strongly that something needs to be done. If we ignore it, it's going to happen later to be really difficult." Then: "we might want to make changes." And: "I also appreciate this work has to be done." [YT:zOUH2Jq7Owo@3:16:09](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11769s) [YT:zOUH2Jq7Owo@3:16:21](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11781s) [YT:zOUH2Jq7Owo@3:17:36](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11856s) | +2 | Her strongest statement. She expects amendments, not deferral. |
 | 2026-10-13 | TLE: "as far as I know there's no idea about bringing any West [Sylvan] students Robert Gray area how are they going um improve the numbers for Robert Gray." [YT:As3VpeDGx70@1:45:52](https://www.youtube.com/watch?v=As3VpeDGx70&t=6352s) | +1 | A feasibility question about the Southwest middle-school plan, not opposition. |
+| 2026-10-20 | "Wow, I do not have a new plan, but I do have questions about this plan." [YT:xByUlijpcnE@5:04:12](https://www.youtube.com/watch?v=xByUlijpcnE&t=18252s); "could we keep the DLI in the neighborhood schools at least through 5th grade and then go into the middle schools more concentrated?" [YT:xByUlijpcnE@5:05:00](https://www.youtube.com/watch?v=xByUlijpcnE&t=18300s) | +1 | Amendment-minded questions, not opposition. |
+| 2026-10-20 | "I was really heartened to see that in both right-sizing scenarios, the number of students in a sustainable school goes up. So that's what we're trying to do." [YT:xByUlijpcnE@5:06:57](https://www.youtube.com/watch?v=xByUlijpcnE&t=18417s) | +2 | Endorses the scenarios' central goal. |
+| 2026-10-20 | "it almost seems like maybe the west side doesn't need it." [YT:xByUlijpcnE@5:07:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=18446s); "And it definitely looks like parts of the east side do need it." [YT:xByUlijpcnE@5:07:35](https://www.youtube.com/watch?v=xByUlijpcnE&t=18455s) | 0 | **New:** questions West-side closures (her zone) while backing East-side change. |
 
 ### Unconfirmed or excluded
 
@@ -112,6 +117,7 @@ Scores answer the question "if the Dec 15 vote were held that day". Attribution 
    - June 2026: reserve draws are "irresponsible" *(medium)* [YT:yinJ7KK-Bqc@5:08:49](https://www.youtube.com/watch?v=yinJ7KK-Bqc&t=18529s).
    - September 2026: closures are "really not saving money" *(medium)* [YT:uAf7l-ChjFo@4:22:49](https://www.youtube.com/watch?v=uAf7l-ChjFo&t=15769s).
    - October 2026: her case rests on class size and program stability [YT:zOUH2Jq7Owo@3:13:53](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=11633s).
+- **Oct 20, 2026: the West side.** On Oct 13 she asked how Robert Gray would grow. On Oct 20 she said "it almost seems like maybe the west side doesn't need it." [YT:xByUlijpcnE@5:07:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=18446s). Analysis: this is the first sign that she might vote to drop Maplewood/Stephenson from a package. It is not a move against closures overall.
 
 ## Fixations and recurring themes
 
@@ -241,3 +247,4 @@ Scores answer the question "if the Dec 15 vote were held that day". Attribution 
   - how she votes on amendments that drop Stephenson, Lewis or Rose City Park (the A-vs-B schools);
   - whether she backs Splitt's "no additions" commitment;
   - whether she separates the MLC 9–12 change (her former school) for a vote.
+- **West-side amendment.** Watch for her to move or support dropping Maplewood/Stephenson (Scenario A) or the Gray boundary change, and for the transportation/childcare analysis she asked for [YT:xByUlijpcnE@5:05:27](https://www.youtube.com/watch?v=xByUlijpcnE&t=18327s).

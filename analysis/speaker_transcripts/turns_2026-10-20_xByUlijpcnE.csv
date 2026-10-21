@@ -1,0 +1,732 @@
+start,end,seconds,speaker,role,confidence,evidence,vendor_tag,vendor_turns
+0:05:58,0:06:00,358,Unidentified,Speaker not identifiable from the recording,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,0
+0:06:00,0:06:02,360,Unidentified,Speaker not identifiable from the recording,high,vendor tag 'B' in this part of the meeting,B,1
+0:06:33,0:06:36,393,Unidentified,Speaker not identifiable from the recording,high,vendor tag 'B' in this part of the meeting,B,2
+0:06:37,0:06:41,397,Unidentified,Speaker not identifiable from the recording,high,vendor tag 'C' in this part of the meeting,C,3
+0:13:11,0:13:13,791,Unidentified,Speaker not identifiable from the recording,high,vendor tag 'B' in this part of the meeting,B,4
+0:47:31,0:47:32,2851,Unidentified,Speaker not identifiable from the recording,high,vendor tag 'B' in this part of the meeting,B,5
+0:47:32,0:47:32,2852,Unidentified,Speaker not identifiable from the recording,high,vendor tag 'D' in this part of the meeting,D,6
+1:03:20,1:03:26,3800,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,7
+1:03:26,1:03:26,3806,Unidentified,Speaker not identifiable from the recording,high,brief greeting from the room,F,8
+1:03:30,1:03:58,3810,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,9
+1:03:58,1:03:59,3838,Unidentified,Speaker not identifiable from the recording,high,brief greeting from the room,G,10
+1:04:01,1:06:46,3841,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,11
+1:06:47,1:06:52,4007,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,12
+1:07:03,1:12:41,4023,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,13
+1:12:41,1:12:42,4361,Unidentified,Speaker not identifiable from the recording,high,crosstalk/echo,B,14
+1:12:43,1:17:08,4363,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,15
+1:17:08,1:17:08,4628,Unidentified,Speaker not identifiable from the recording,high,crosstalk/echo,H,16
+1:17:09,1:17:09,4629,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,17
+1:17:12,1:17:13,4632,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,18
+1:17:17,1:17:29,4637,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,19
+1:17:30,1:17:41,4650,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,H,20 21
+1:17:42,1:17:43,4662,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,22
+1:17:44,1:19:06,4664,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,23
+1:19:10,1:21:44,4750,Lacey Beatty,Mayor of Beaverton (public comment),high,"self-identifies: 'I'm Lacey Beatty, the mayor of Beaverton'",H,24
+1:21:46,1:21:46,4906,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Eddie Wang,25
+1:21:53,1:21:58,4913,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,26
+1:22:02,1:22:02,4922,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,H,27
+1:22:03,1:22:12,4923,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,28
+1:22:12,1:22:12,4932,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,29
+1:22:13,1:22:14,4933,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,30
+1:22:14,1:22:17,4934,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,H,31
+1:22:20,1:22:20,4940,Unidentified,Speaker not identifiable from the recording,medium,fragment while the board manager calls speakers,Virginia La Forte,32
+1:22:23,1:22:24,4943,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,B,33
+1:22:24,1:22:25,4944,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,34
+1:22:26,1:22:28,4946,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,H,35
+1:22:40,1:22:47,4960,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,36
+1:22:47,1:22:47,4967,Student commenter 1,Lewis Elementary 4th grader,high,self-identifies as a 4th grade student at Lewis Elementary,G,37
+1:22:55,1:22:57,4975,Unidentified,Speaker not identifiable from the recording,low,no rule; vendor tag B,B,38
+1:22:58,1:23:30,4978,Student commenter 1,Lewis Elementary 4th grader,high,self-identifies as a 4th grade student at Lewis Elementary,G,39
+1:23:36,1:24:24,5016,Student commenter 1,Lewis Elementary 4th grader,high,self-identifies as a 4th grade student at Lewis Elementary,G,40 41 42
+1:24:25,1:24:25,5065,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Stephanie Engelsmen,43
+1:24:25,1:24:27,5065,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Eddie Wang,44
+1:24:44,1:24:47,5084,Student commenter 2,Sunnyside Environmental 2nd grader,high,self-identifies as a 2nd grader at Sunnyside,B,45
+1:24:50,1:24:56,5090,Student commenter 2,Sunnyside Environmental 2nd grader,high,self-identifies as a 2nd grader at Sunnyside,G,46
+1:24:57,1:24:58,5097,Unidentified,Speaker not identifiable from the recording,high,adult helper/microphone remark,H,47
+1:24:59,1:24:59,5099,Unidentified,Speaker not identifiable from the recording,high,adult helper/microphone remark,D,48
+1:25:00,1:25:43,5100,Student commenter 2,Sunnyside Environmental 2nd grader,high,self-identifies as a 2nd grader at Sunnyside,H,49
+1:25:46,1:26:06,5146,Student commenter 2,Sunnyside Environmental 2nd grader,high,self-identifies as a 2nd grader at Sunnyside,H,50 51 52
+1:26:11,1:26:18,5171,Unidentified,Speaker not identifiable from the recording,high,adult helper/microphone remark,B,53
+1:26:20,1:26:22,5180,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,54
+1:26:31,1:26:40,5191,Unidentified,Speaker not identifiable from the recording,low,no rule; vendor tag B,B,55
+1:26:40,1:26:52,5200,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,56
+1:26:54,1:26:57,5214,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,H,57
+1:27:13,1:29:05,5233,Student commenter 3,Sellwood Middle School student,high,self-identifies as a Sellwood Middle School student; vendor split one speaker across B/G,G,58 59 60 61 62 63 64 65
+1:29:12,1:29:14,5352,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Eddie Wang,66
+1:29:22,1:29:45,5362,Public commenter 1,Franklin/Kellogg parent; special education teacher,high,self-identifies,C,67
+1:29:49,1:31:45,5389,Public commenter 1,Franklin/Kellogg parent; special education teacher,high,self-identifies,C,68
+1:31:45,1:31:46,5505,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,B,69
+1:31:58,1:32:00,5518,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,70
+1:32:04,1:32:06,5524,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,B,71
+1:32:35,1:33:14,5555,Public commenter 2,Marysville Elementary school counselor,high,self-identifies as Marysville school counselor; vendor split one speaker across B/G/D,G,72 73 74 75 76
+1:33:17,1:34:42,5597,Public commenter 2,Marysville Elementary school counselor,high,self-identifies as Marysville school counselor; vendor split one speaker across B/G/D,B,77 78 79 80
+1:34:42,1:34:44,5682,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,B,81
+1:34:59,1:37:09,5699,Public commenter 3,Maplewood parent and local business owner,high,self-identifies; vendor tagged parts as H and Chase-Miller,N,82 83 84 85 86 87
+1:37:09,1:37:09,5829,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,G,88
+1:37:10,1:37:12,5830,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,B,89
+1:37:22,1:37:23,5842,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,H,90
+1:37:34,1:38:35,5854,Public commenter 4,Duniway Elementary parent,high,self-identifies as Duniway parent,B,91
+1:38:38,1:38:56,5918,Public commenter 4,Duniway Elementary parent,high,self-identifies as Duniway parent,B,92
+1:39:00,1:39:49,5940,Public commenter 4,Duniway Elementary parent,high,self-identifies as Duniway parent,B,93
+1:39:49,1:39:50,5989,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Rashelle Chase-Miller - 1,94
+1:39:50,1:39:57,5990,Public commenter 4,Duniway Elementary parent,high,self-identifies as Duniway parent,B,95
+1:39:57,1:39:57,5997,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,H,96
+1:40:09,1:40:10,6009,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,H,97
+1:40:11,1:42:14,6011,Public commenter 5,Retired teacher; Sellwood Middle School neighbor,high,self-identifies; vendor tagged half of this comment as 'Kimberlee Armstrong',C,98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113
+1:42:14,1:42:14,6134,Audience,Audience member(s),high,'Boo!' from the audience,B,114
+1:42:16,1:42:26,6136,Public commenter 5,Retired teacher; Sellwood Middle School neighbor,high,self-identifies; vendor tagged half of this comment as 'Kimberlee Armstrong',C,115 116
+1:42:35,1:42:38,6155,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Eddie Wang,117
+1:42:40,1:42:40,6160,Unidentified,Speaker not identifiable from the recording,medium,'next 2?',G,118
+1:42:42,1:42:45,6162,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,H,119
+1:43:03,1:45:03,6183,Public commenter 6,Maplewood Elementary parent,high,self-identifies as Maplewood parent; vendor split across O/H/B/N,O,120 121 122 123 124 125 126 127 128 129 130 131 132
+1:45:04,1:45:06,6304,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,O,133
+1:45:15,1:45:17,6315,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,B,134
+1:45:32,1:45:33,6332,Public commenter 7,Sabin and Tubman parent,high,self-identifies as Sabin and Tubman parent,B,135
+1:45:34,1:45:34,6334,Unidentified,Speaker not identifiable from the recording,medium,microphone check,Rashelle Chase-Miller - 1,136
+1:45:34,1:45:34,6334,Unidentified,Speaker not identifiable from the recording,medium,microphone check,Michelle DePass,137
+1:45:35,1:47:40,6335,Public commenter 7,Sabin and Tubman parent,high,self-identifies as Sabin and Tubman parent,H,138 139 140 141
+1:47:40,1:47:40,6460,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,O,142
+1:47:41,1:47:45,6461,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,B,143
+1:47:53,1:48:16,6473,Public commenter 8,Sunnyside Environmental parent,high,"self-identifies as Sunnyside Environmental parent; 'It works.' is part of her comment, mis-tagged Engelsman",H,144 145
+1:48:16,1:48:16,6496,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,D,146
+1:48:17,1:50:06,6497,Public commenter 8,Sunnyside Environmental parent,high,"self-identifies as Sunnyside Environmental parent; 'It works.' is part of her comment, mis-tagged Engelsman",B,147 148 149 150 151 152
+1:50:19,1:50:20,6619,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Eddie Wang,153
+1:50:20,1:50:26,6620,Rosanne Powell,Board Manager,medium,calls the next public commenters; chair addresses 'Ms. Powell' at 1:21:53 and 1:31:58,Virginia La Forte,154 155
+1:50:27,1:50:27,6627,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,D,156
+1:50:28,1:50:29,6628,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Eddie Wang,157
+1:50:35,1:50:43,6635,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,158
+1:50:44,1:50:52,6644,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,B,159
+1:50:53,1:50:54,6653,Alicia Chavez,"President, Portland Association of Teachers (union comment)",high,introduced by chair as the Portland Association of Teachers speaker; addresses the board as union,O,160
+1:50:57,1:52:03,6657,Alicia Chavez,"President, Portland Association of Teachers (union comment)",high,introduced by chair as the Portland Association of Teachers speaker; addresses the board as union,O,161
+1:52:08,1:52:11,6728,Alicia Chavez,"President, Portland Association of Teachers (union comment)",high,introduced by chair as the Portland Association of Teachers speaker; addresses the board as union,O,162
+1:52:14,1:53:10,6734,Alicia Chavez,"President, Portland Association of Teachers (union comment)",high,introduced by chair as the Portland Association of Teachers speaker; addresses the board as union,O,163
+1:53:15,1:53:30,6795,Alicia Chavez,"President, Portland Association of Teachers (union comment)",high,introduced by chair as the Portland Association of Teachers speaker; addresses the board as union,O,164
+1:53:33,1:56:56,6813,Alicia Chavez,"President, Portland Association of Teachers (union comment)",high,introduced by chair as the Portland Association of Teachers speaker; addresses the board as union,O,165
+1:56:56,1:56:56,7016,Audience,Audience member(s),high,"cheering ('Woohoo, you all!' mis-tagged as Armstrong)",Kimberlee Armstrong,166
+1:56:57,1:56:57,7017,Audience,Audience member(s),high,"cheering ('Woohoo, you all!' mis-tagged as Armstrong)",D,167
+1:57:01,1:58:18,7021,Alicia Chavez,"President, Portland Association of Teachers (union comment)",high,introduced by chair as the Portland Association of Teachers speaker; addresses the board as union,O,168
+1:58:18,1:58:21,7098,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,B,169
+1:58:29,1:58:30,7109,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,170
+1:58:38,1:58:48,7118,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,171
+1:58:49,1:59:10,7129,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,172
+1:59:10,1:59:10,7150,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,H,173
+1:59:11,1:59:11,7151,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,G,174
+1:59:15,1:59:17,7155,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,B,175
+1:59:20,1:59:20,7160,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,G,176
+1:59:25,1:59:45,7165,Deborah Kafoury,Chief of Staff,high,"self-identifies: 'I'm Deborah [Kafoury], Chief of Staff'; vendor tagged parts as DePass and Chase-Miller",B,177 178 179 180 181 182
+1:59:46,1:59:47,7186,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,D,183
+1:59:47,2:08:22,7187,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,vendor tag 'L' in this part of the meeting,L,184 185
+2:08:25,2:09:56,7705,Tom Mills,"Director of Mobility Planning & Policy, TriMet",medium,vendor tag 'L' in this part of the meeting,L,186 187 188
+2:09:58,2:10:05,7798,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,189
+2:10:08,2:10:09,7808,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,H,190
+2:10:10,2:10:33,7810,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,191
+2:10:34,2:10:35,7834,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,D,192
+2:10:35,2:10:52,7835,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,193
+2:10:53,2:11:57,7853,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,vendor tag 'L' in this part of the meeting,L,194
+2:11:57,2:12:01,7917,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,195
+2:12:02,2:12:27,7922,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,vendor tag 'L' in this part of the meeting,L,196
+2:12:27,2:12:34,7947,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,197
+2:12:35,2:12:35,7955,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,vendor tag 'L' in this part of the meeting,L,198
+2:12:36,2:12:37,7956,Unidentified,Speaker not identifiable from the recording,medium,fragment,Kimberlee Armstrong,199
+2:12:37,2:12:56,7957,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,vendor tag 'L' in this part of the meeting,L,200
+2:12:57,2:13:01,7977,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,201
+2:13:02,2:13:10,7982,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,vendor tag 'L' in this part of the meeting,L,202
+2:13:11,2:13:27,7991,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,203
+2:13:29,2:13:33,8009,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,vendor tag 'L' in this part of the meeting,L,204
+2:13:33,2:13:33,8013,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,B,205
+2:13:34,2:13:57,8014,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,vendor tag 'L' in this part of the meeting,L,206
+2:13:58,2:14:22,8038,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,207
+2:14:23,2:14:24,8063,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Eddie Wang,208
+2:14:24,2:14:24,8064,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,L,209
+2:14:26,2:15:07,8066,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,210
+2:15:08,2:15:08,8108,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,'You're welcome' replying to board thanks,Virginia La Forte,211
+2:15:10,2:15:12,8110,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,212
+2:15:12,2:15:41,8112,Christy Splitt,Board member,high,La Forte: 'I just want to echo what Director [Splitt] said' (2:15:58); self-describes as a government employee,H,213
+2:15:41,2:15:41,8141,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Rashelle Chase-Miller - 1,214
+2:15:41,2:15:42,8141,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,B,215
+2:15:43,2:15:44,8143,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Rashelle Chase-Miller - 1,216
+2:15:45,2:15:45,8145,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,L,217
+2:15:47,2:15:55,8147,Patte Sullivan,Board member,medium,remaining director; same vendor tag D used for Sullivan elsewhere,D,218
+2:15:57,2:15:58,8157,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,219
+2:15:58,2:16:19,8158,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,220
+2:16:20,2:16:20,8180,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,'You're welcome' replying to board thanks,D,221
+2:16:20,2:16:20,8180,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,H,222
+2:16:22,2:16:32,8182,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,223
+2:16:32,2:16:33,8192,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,Michelle DePass,224
+2:16:35,2:16:38,8195,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,225
+2:16:39,2:16:39,8199,Tom Mills,"Director of Mobility Planning & Policy, TriMet",high,vendor tag 'L' in this part of the meeting,L,226
+2:16:39,2:16:56,8199,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,227
+2:16:57,2:16:58,8217,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement; speaker not identifiable,L,228
+2:17:00,2:17:03,8220,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,229
+2:17:06,2:17:06,8226,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,230
+2:17:12,2:17:24,8232,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,231
+2:17:26,2:17:50,8246,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,232
+2:17:52,2:18:05,8272,Michelle Morrison,Chief Financial Officer,high,Armstrong invites CFO Michelle Morrison to introduce the auditors (2:17:26); mis-tagged Engelsman,Stephanie Engelsmen,233
+2:18:17,2:18:18,8297,Michelle Morrison,Chief Financial Officer,high,Armstrong invites CFO Michelle Morrison to introduce the auditors (2:17:26); mis-tagged Engelsman,Stephanie Engelsmen,234
+2:18:19,2:18:21,8299,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",high,self-identifies: 'My name is Kathy Brady. I'm a partner',B,235
+2:18:25,2:18:26,8305,Unidentified,Speaker not identifiable from the recording,medium,short interjection,Michelle DePass,236
+2:18:27,2:18:57,8307,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",high,self-identifies: 'My name is Kathy Brady. I'm a partner',B,237
+2:18:59,2:18:59,8339,Unidentified,Speaker not identifiable from the recording,medium,short interjection,H,238
+2:19:00,2:27:25,8340,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",high,self-identifies: 'My name is Kathy Brady. I'm a partner',B,239
+2:27:29,2:31:09,8849,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",high,self-identifies: 'My name is Kathy Brady. I'm a partner',B,240
+2:31:12,2:35:13,9072,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",high,self-identifies: 'My name is Kathy Brady. I'm a partner',B,241 242
+2:35:17,2:39:22,9317,Leanne Liu,"Director, Sjoberg Evashenk Consulting (bond auditor; name as spoken)",high,introduced by Brady; presents findings 1-5,G,243 244
+2:39:26,2:43:20,9566,Leanne Liu,"Director, Sjoberg Evashenk Consulting (bond auditor; name as spoken)",high,introduced by Brady; presents findings 1-5,G,245
+2:43:20,2:43:21,9800,Unidentified,Speaker not identifiable from the recording,medium,short interjection,D,246
+2:43:22,2:45:54,9802,Leanne Liu,"Director, Sjoberg Evashenk Consulting (bond auditor; name as spoken)",high,introduced by Brady; presents findings 1-5,G,247
+2:45:54,2:45:55,9954,Unidentified,Speaker not identifiable from the recording,medium,short interjection,B,248
+2:45:57,2:51:43,9957,Leanne Liu,"Director, Sjoberg Evashenk Consulting (bond auditor; name as spoken)",high,introduced by Brady; presents findings 1-5,G,249 250
+2:51:45,2:57:26,10305,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",high,"Liu: 'the last finding slides, which Cathy will share'",B,251
+2:57:29,2:57:34,10649,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,252
+2:57:39,2:57:44,10659,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,253
+2:57:45,2:57:54,10665,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,254
+2:57:54,2:57:55,10674,Unidentified,Speaker not identifiable from the recording,medium,short interjection,H,255
+2:57:55,2:58:13,10675,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,256
+2:58:14,2:59:02,10694,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,257
+2:59:02,2:59:33,10742,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,258
+2:59:36,3:01:53,10776,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,259 260
+3:01:56,3:02:11,10916,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,261
+3:02:11,3:02:11,10931,Unidentified,Speaker not identifiable from the recording,low,one-word acknowledgement,Stephanie Engelsmen,262
+3:02:13,3:02:30,10933,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,263
+3:02:31,3:02:53,10951,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,264
+3:02:54,3:02:59,10974,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,265
+3:03:02,3:03:02,10982,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answer mis-tagged,Rashelle Chase-Miller - 1,266
+3:03:02,3:03:08,10982,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,267
+3:03:09,3:03:27,10989,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,268 269 270
+3:03:28,3:03:42,11008,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,271 272
+3:03:44,3:03:58,11024,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,273
+3:04:00,3:04:12,11040,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,274
+3:04:13,3:04:22,11053,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,275
+3:04:23,3:04:23,11063,Unidentified,Speaker not identifiable from the recording,low,one-word acknowledgement,Stephanie Engelsmen,276
+3:04:24,3:04:24,11064,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,277
+3:04:34,3:04:46,11074,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,278
+3:04:50,3:04:55,11090,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,279
+3:04:57,3:05:07,11097,Christy Splitt,Board member,high,self-describes as government relations coordinator for a state agency and one of 3 board members behind the high school cost-savings resolution; La Forte/Engelsman/DePass/Chase-Miller/Wang speak under their own tags,H,280
+3:05:08,3:05:08,11108,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,281
+3:05:08,3:05:08,11108,Leanne Liu,"Director, Sjoberg Evashenk Consulting (bond auditor; name as spoken)",medium,vendor tag 'G' in this part of the meeting,G,282
+3:05:09,3:06:12,11109,Christy Splitt,Board member,high,self-describes as government relations coordinator for a state agency and one of 3 board members behind the high school cost-savings resolution; La Forte/Engelsman/DePass/Chase-Miller/Wang speak under their own tags,H,283
+3:06:12,3:06:12,11172,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,284
+3:06:12,3:07:10,11172,Christy Splitt,Board member,high,self-describes as government relations coordinator for a state agency and one of 3 board members behind the high school cost-savings resolution; La Forte/Engelsman/DePass/Chase-Miller/Wang speak under their own tags,H,285
+3:07:12,3:09:39,11232,Patte Sullivan,Board member,high,'As chair of the audit committee' (Sullivan chairs Audit),D,286
+3:09:41,3:09:42,11381,Janice Hansen,Board's internal performance auditor,medium,asked by Sullivan whether to speak now: 'I'll wait till after',B,287
+3:09:43,3:09:45,11383,Patte Sullivan,Board member,high,'As chair of the audit committee' (Sullivan chairs Audit),D,288
+3:09:49,3:10:00,11389,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,289
+3:10:02,3:10:03,11402,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,290
+3:10:04,3:10:04,11404,Unidentified,Speaker not identifiable from the recording,low,one-word acknowledgement,Stephanie Engelsmen,291
+3:10:04,3:10:24,11404,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,292
+3:10:25,3:10:39,11425,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,293
+3:10:40,3:10:48,11440,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,294
+3:10:49,3:10:53,11449,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,295
+3:10:54,3:10:55,11454,Patte Sullivan,Board member,high,'As chair of the audit committee' (Sullivan chairs Audit),D,296
+3:10:55,3:15:09,11455,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,297 298
+3:15:12,3:16:12,11712,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,299
+3:16:18,3:16:19,11778,Unidentified,Speaker not identifiable from the recording,low,fragment,G,300
+3:16:19,3:16:36,11779,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,301
+3:16:36,3:16:36,11796,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,Eddie Wang,302
+3:16:37,3:17:06,11797,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,303
+3:17:06,3:17:07,11826,Unidentified,Speaker not identifiable from the recording,low,fragment,B,304
+3:17:10,3:17:11,11830,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,305
+3:17:12,3:17:13,11832,Unidentified,Speaker not identifiable from the recording,low,fragment,D,306
+3:17:13,3:17:38,11833,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,307
+3:17:38,3:17:52,11858,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,308
+3:17:52,3:17:56,11872,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,309
+3:17:56,3:17:57,11876,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,310
+3:17:57,3:17:57,11877,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,311
+3:17:57,3:17:58,11877,Unidentified,Speaker not identifiable from the recording,low,one-word acknowledgement,D,312
+3:17:59,3:18:11,11879,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,313
+3:18:12,3:18:13,11892,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,314
+3:18:13,3:18:24,11893,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,315
+3:18:28,3:18:56,11908,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,316
+3:18:59,3:19:05,11939,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,317
+3:19:07,3:19:07,11947,Unidentified,Speaker not identifiable from the recording,low,fragment,G,318
+3:19:07,3:19:19,11947,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,319
+3:19:19,3:19:50,11959,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,320
+3:19:50,3:19:50,11990,Unidentified,Speaker not identifiable from the recording,low,acknowledgement,Michelle DePass,321
+3:19:51,3:19:59,11991,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,322
+3:20:00,3:20:00,12000,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,323
+3:20:00,3:20:01,12000,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,324
+3:20:02,3:20:42,12002,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,325
+3:20:43,3:21:20,12043,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,326
+3:21:22,3:21:31,12082,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,327
+3:21:32,3:21:34,12092,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,328
+3:21:34,3:21:37,12094,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,329
+3:21:38,3:21:38,12098,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answer mis-tagged,O,330
+3:21:44,3:21:44,12104,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,331
+3:21:48,3:22:29,12108,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,332 333
+3:22:29,3:22:30,12149,Unidentified,Speaker not identifiable from the recording,low,fragment,G,334
+3:22:30,3:22:46,12150,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,335
+3:22:47,3:23:31,12167,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,336
+3:23:32,3:23:36,12212,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,337
+3:23:37,3:23:37,12217,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,338
+3:23:37,3:23:54,12217,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,339
+3:23:59,3:24:09,12239,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,340
+3:24:12,3:25:07,12252,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,341 342
+3:25:11,3:26:04,12311,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,343
+3:26:08,3:26:46,12368,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,344
+3:26:50,3:28:25,12410,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,345
+3:28:26,3:28:35,12506,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,346
+3:28:35,3:28:40,12515,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,347
+3:28:42,3:28:48,12522,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,348
+3:28:48,3:28:48,12528,Unidentified,Speaker not identifiable from the recording,low,no rule; vendor tag H,H,349
+3:28:50,3:28:56,12530,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,350
+3:28:57,3:29:19,12537,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,351
+3:29:20,3:29:27,12560,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,352
+3:29:27,3:29:32,12567,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,353
+3:29:32,3:29:43,12572,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,354
+3:29:43,3:29:43,12583,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,355
+3:29:43,3:30:11,12583,Kimberlee Armstrong,Superintendent,medium,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,356 357
+3:30:12,3:30:13,12612,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering board questions,B,358
+3:30:14,3:30:32,12614,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,359
+3:30:34,3:30:47,12634,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,360 361
+3:30:50,3:32:00,12650,Greg DiLoreto,Bond Accountability Committee member,medium,called by chair ('Greg [DiLoreto]'); BAC member; vendor tagged half of his questions as Armstrong/Wang,B,362 363 364 365 366 367 368 369
+3:32:01,3:32:33,12721,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,turn split: question and answer in one vendor segment,B,369
+3:32:35,3:32:35,12755,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,370
+3:32:41,3:32:42,12761,Eddie Wang,Board Chair,high,calls 'Caroline?',Eddie Wang,371
+3:32:48,3:33:40,12768,Caroline Zavitkovski,Audit Committee community member,high,self-identifies: 'I'm Caroline [Zavitkovski]. I'm a community member on the Audit Committee',H,372
+3:33:40,3:33:41,12820,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering,B,373
+3:33:41,3:34:10,12821,Caroline Zavitkovski,Audit Committee community member,high,self-identifies: 'I'm Caroline [Zavitkovski]. I'm a community member on the Audit Committee',H,374
+3:34:10,3:34:58,12850,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering,B,375
+3:34:59,3:35:14,12899,Caroline Zavitkovski,Audit Committee community member,high,self-identifies: 'I'm Caroline [Zavitkovski]. I'm a community member on the Audit Committee',H,376
+3:35:15,3:35:29,12915,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering,B,377
+3:35:32,3:35:33,12932,Eddie Wang,Board Chair,medium,calls 'Kelly?',G,378
+3:35:34,3:36:33,12934,Kelly (BAC member),Bond Accountability Committee member (first name only as called),medium,self-identifies as a citizen member of the Bond Accountability Committee,B,379 380 381
+3:36:35,3:36:49,12995,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,turn split: question and answer in one vendor segment,B,381
+3:36:49,3:37:30,13009,Kelly (BAC member),Bond Accountability Committee member (first name only as called),medium,turn split: question and answer in one vendor segment,B,381 382 383
+3:37:32,3:37:50,13052,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,turn split: question and answer in one vendor segment,B,383
+3:37:55,3:38:19,13075,Kelly (BAC member),Bond Accountability Committee member (first name only as called),medium,turn split: question and answer in one vendor segment,B,384
+3:38:20,3:38:38,13100,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,turn split: question and answer in one vendor segment,B,384
+3:38:39,3:38:53,13119,Kelly (BAC member),Bond Accountability Committee member (first name only as called),medium,turn split: question and answer in one vendor segment,B,384
+3:38:53,3:39:01,13133,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,turn split: question and answer in one vendor segment,B,384
+3:39:09,3:39:14,13149,Eddie Wang,Board Chair,medium,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,385 386
+3:39:15,3:39:46,13155,Greg DiLoreto,Bond Accountability Committee member,medium,follow-up question by the BAC member called as 'Greg'; mis-tagged Armstrong,B,387 388 389 390 391 392 393
+3:39:47,3:40:31,13187,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor answering,B,394
+3:40:32,3:40:33,13232,Greg DiLoreto,Bond Accountability Committee member,medium,follow-up question by the BAC member called as 'Greg'; mis-tagged Armstrong,Kimberlee Armstrong,395
+3:40:37,3:40:41,13237,Unidentified,Speaker not identifiable from the recording,low,follow-up request,B,396
+3:40:42,3:40:53,13242,Stephanie Engelsman,Board member,medium,vendor tag kept,Stephanie Engelsmen,397
+3:40:53,3:40:56,13253,Patte Sullivan,Board member,high,Audit Committee chair; asks Janice to speak,D,398
+3:40:57,3:41:00,13257,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,399
+3:41:00,3:41:03,13260,Stephanie Engelsman,Board member,medium,vendor tag kept,Stephanie Engelsmen,400
+3:41:04,3:41:15,13264,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,vendor tag 'B' in this part of the meeting,B,401
+3:41:16,3:41:24,13276,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,402
+3:41:24,3:41:25,13284,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,auditor,H,403
+3:41:25,3:41:32,13285,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,404
+3:41:33,3:41:39,13293,Patte Sullivan,Board member,high,Audit Committee chair; asks Janice to speak,D,405
+3:41:45,3:42:29,13305,Janice Hansen,Board's internal performance auditor,high,Sullivan: 'I did want Janice to have a minute'; speaks as internal auditor,H,406 407 408
+3:42:31,3:43:09,13351,Virginia La Forte,Board member,high,'Can I respond to that real quick?' followed by La Forte's response,H,409 410
+3:43:14,3:43:25,13394,Patte Sullivan,Board member,high,Audit Committee chair; asks Janice to speak,D,411
+3:43:26,3:43:35,13406,Janice Hansen,Board's internal performance auditor,high,Sullivan: 'I did want Janice to have a minute'; speaks as internal auditor,H,412
+3:43:36,3:43:49,13416,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",medium,describes the bond auditor's past recommendation,B,413
+3:43:50,3:44:00,13430,Janice Hansen,Board's internal performance auditor,high,Sullivan: 'I did want Janice to have a minute'; speaks as internal auditor,H,414
+3:44:02,3:44:02,13442,Patte Sullivan,Board member,high,Audit Committee chair; asks Janice to speak,D,415
+3:44:04,3:44:06,13444,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,416
+3:44:11,3:44:15,13451,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,417
+3:44:16,3:44:25,13456,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,418
+3:44:25,3:44:26,13465,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",low,thanks,B,419
+3:44:26,3:44:30,13466,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,420
+3:44:30,3:44:31,13470,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",low,thanks,B,421
+3:44:36,3:44:43,13476,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,422
+3:44:43,3:44:44,13483,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",low,thanks,B,423
+3:53:45,3:54:07,14025,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,424
+3:54:09,3:54:24,14049,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,425
+3:54:28,3:54:30,14068,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,426
+3:54:30,3:54:31,14070,Unidentified,Speaker not identifiable from the recording,high,microphone check,B,427
+3:54:32,3:54:32,14072,Unidentified,Speaker not identifiable from the recording,high,microphone check,Virginia La Forte,428
+3:54:33,3:54:34,14073,Unidentified,Speaker not identifiable from the recording,high,microphone check,Kimberlee Armstrong,429
+3:54:34,3:54:37,14074,Unidentified,Speaker not identifiable from the recording,high,microphone check,B,430
+3:54:38,3:54:38,14078,Unidentified,Speaker not identifiable from the recording,high,microphone check,C,431
+3:54:38,3:54:39,14078,Unidentified,Speaker not identifiable from the recording,high,microphone check,G,432
+3:54:40,3:55:03,14080,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,433
+3:55:12,3:55:49,14112,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,434
+3:55:56,3:57:14,14156,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,435
+3:57:21,3:59:16,14241,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,436
+3:59:21,3:59:23,14361,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,437
+3:59:25,4:01:33,14365,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,438
+4:01:34,4:01:34,14494,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,D,439
+4:01:36,4:02:52,14496,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,440
+4:02:53,4:03:14,14573,Christy Splitt,Board member,high,Calvert later answers 'Director [Splitt]'s question about ... right mix of students' (4:25:53),H,441
+4:03:16,4:03:27,14596,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,442
+4:03:28,4:03:42,14608,Christy Splitt,Board member,high,Calvert later answers 'Director [Splitt]'s question about ... right mix of students' (4:25:53),H,443
+4:03:42,4:03:53,14622,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,444
+4:03:53,4:04:05,14633,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,445
+4:04:05,4:07:36,14645,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,446
+4:07:40,4:09:10,14860,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,447
+4:09:13,4:11:31,14953,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,448
+4:11:36,4:13:25,15096,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,449
+4:13:29,4:14:54,15209,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,450
+4:15:00,4:15:58,15300,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,451 452
+4:15:58,4:15:59,15358,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,453
+4:15:59,4:17:12,15359,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,454 455
+4:17:12,4:17:14,15432,Audience,Audience member(s),medium,"interjection from the room; chair: 'Please not interrupt, please'",Stephanie Engelsmen,456
+4:17:16,4:17:17,15436,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,457
+4:17:18,4:22:36,15438,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,458 459
+4:22:39,4:22:49,15759,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,460
+4:22:49,4:22:51,15769,Richard Smith,"Senior Director, Data & Accountability",high,explains Jackson/Gray boundary effect (Smith presents the west-side numbers),C,461
+4:22:51,4:22:52,15771,Unidentified,Speaker not identifiable from the recording,medium,,G,462
+4:22:53,4:23:33,15773,Richard Smith,"Senior Director, Data & Accountability",high,vendor tag 'C' in this part of the meeting,C,463
+4:23:33,4:25:53,15813,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,464
+4:25:53,4:26:19,15953,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,465
+4:26:23,4:26:29,15983,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,466
+4:26:29,4:26:30,15989,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,467
+4:26:31,4:26:31,15991,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,468
+4:26:32,4:26:36,15992,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,469
+4:26:37,4:26:38,15997,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,470
+4:26:38,4:26:45,15998,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,471
+4:26:45,4:27:16,16005,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,472
+4:27:16,4:27:38,16036,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,473
+4:27:41,4:34:04,16061,Richard Smith,"Senior Director, Data & Accountability",medium,vendor tag 'C' in this part of the meeting,C,474 475 476 477 478 479
+4:34:06,4:34:52,16446,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,480
+4:34:56,4:35:17,16496,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,481
+4:35:17,4:35:18,16517,Unidentified,Speaker not identifiable from the recording,low,"echoes '8,000 students' from the dais",Stephanie Engelsmen,482
+4:35:19,4:38:18,16519,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,483
+4:38:19,4:39:58,16699,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,484
+4:40:00,4:40:20,16800,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,485
+4:40:20,4:40:26,16820,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,486
+4:40:27,4:40:27,16827,Virginia La Forte,Board member,medium,'Got it' in La Forte's exchange,D,487
+4:40:28,4:40:30,16828,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,488
+4:40:32,4:40:36,16832,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,489
+4:40:37,4:40:49,16837,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,490
+4:40:49,4:40:50,16849,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,491
+4:40:51,4:40:51,16851,Unidentified,Speaker not identifiable from the recording,medium,turn split: question and answer in one vendor segment,B,492
+4:40:51,4:42:37,16851,Margaret Calvert,"Executive Director, School Planning & Modernization",low,turn split: question and answer in one vendor segment,B,492 493
+4:42:44,4:44:13,16964,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,494
+4:44:14,4:44:14,17054,Richard Smith,"Senior Director, Data & Accountability",high,vendor tag 'C' in this part of the meeting,C,495
+4:44:14,4:44:15,17054,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,496
+4:44:16,4:44:39,17056,Richard Smith,"Senior Director, Data & Accountability",high,data clarification (Access and da Vinci),C,497
+4:44:43,4:46:28,17083,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,498
+4:46:43,4:47:36,17203,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,499
+4:47:40,4:50:25,17260,Margaret Calvert,"Executive Director, School Planning & Modernization",medium,vendor tag 'N' in this part of the meeting,N,500 501 502
+4:50:25,4:50:25,17425,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,H,503
+4:50:28,4:51:41,17428,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,504
+4:51:42,4:51:43,17502,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,505
+4:51:45,4:52:08,17505,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,506
+4:52:10,4:52:14,17530,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,507
+4:52:14,4:52:17,17534,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,508
+4:52:18,4:52:19,17538,Unidentified,Speaker not identifiable from the recording,low,,F,509
+4:52:19,5:04:05,17539,Christy Splitt,Board member,high,"chair: 'We'll start with Director [Splitt]' (4:52:14); self-references ('Christy, I want to hear your ideas')",H,510
+5:04:06,5:04:06,18246,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,O,511
+5:04:09,5:04:10,18249,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,512
+5:04:12,5:05:24,18252,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,513
+5:05:27,5:06:54,18327,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,514 515
+5:06:57,5:07:05,18417,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,516
+5:07:05,5:07:05,18425,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,N,517
+5:07:05,5:07:31,18425,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,518
+5:07:31,5:07:32,18451,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,519
+5:07:35,5:08:21,18455,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,520
+5:08:21,5:08:21,18501,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,Rashelle Chase-Miller - 1,521
+5:08:21,5:08:23,18501,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,522
+5:08:24,5:08:25,18504,Jon Franco,Senior Chief of Operations,medium,asks Rosanne to bring up the slide,F,523
+5:08:25,5:08:30,18505,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,524
+5:08:32,5:09:00,18512,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,525
+5:09:00,5:09:01,18540,Kimberlee Armstrong,Superintendent,medium,,Kimberlee Armstrong,526
+5:09:01,5:09:02,18541,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,527
+5:09:04,5:09:04,18544,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,Rashelle Chase-Miller - 1,528
+5:09:04,5:09:04,18544,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,529
+5:09:05,5:09:05,18545,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,Michelle DePass,530
+5:09:06,5:09:06,18546,Kimberlee Armstrong,Superintendent,medium,,Kimberlee Armstrong,531
+5:09:08,5:10:10,18548,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,532
+5:10:10,5:10:14,18610,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,533
+5:10:14,5:10:52,18614,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,534
+5:10:53,5:10:53,18653,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,H,535
+5:10:53,5:11:07,18653,Richard Smith,"Senior Director, Data & Accountability",high,explains utilization of small buildings,C,536
+5:11:08,5:11:10,18668,Patte Sullivan,Board member,high,Calvert answers 'Director Sullivan' (5:08:32); 'I do not have a new plan' follows Splitt,D,537
+5:11:16,5:15:40,18676,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,538
+5:15:40,5:15:41,18940,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,539
+5:15:43,5:17:27,18943,Rashelle Chase-Miller,Board Vice-Chair,medium,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,540 541 542 543
+5:17:27,5:17:42,19047,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,544
+5:17:42,5:17:43,19062,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,Virginia La Forte,545
+5:17:43,5:17:43,19063,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,546
+5:17:44,5:18:00,19064,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,547
+5:18:04,5:18:34,19084,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,548
+5:18:36,5:18:36,19116,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,G,549
+5:18:36,5:20:10,19116,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,550
+5:20:11,5:20:15,19211,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,551
+5:20:16,5:20:17,19216,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,552
+5:20:18,5:20:58,19218,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,553
+5:20:58,5:20:59,19258,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,D,554
+5:20:59,5:21:44,19259,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,555
+5:21:46,5:21:46,19306,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,556
+5:21:47,5:21:49,19307,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,557
+5:21:50,5:21:51,19310,Unidentified,Speaker not identifiable from the recording,low,no rule; vendor tag G,G,558
+5:21:51,5:22:01,19311,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,559
+5:22:06,5:22:13,19326,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,560
+5:22:18,5:22:23,19338,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,561
+5:22:26,5:22:57,19346,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,562
+5:23:00,5:23:06,19380,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,563
+5:23:07,5:23:07,19387,Unidentified,Speaker not identifiable from the recording,medium,,L,564
+5:23:07,5:23:49,19387,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,565
+5:23:52,5:25:10,19432,Margaret Calvert,"Executive Director, School Planning & Modernization",high,"'Yes, we'll have Dr. Riesig come up as well... I'm gonna yield my time to Dr. [Hristić]'",N,566
+5:25:10,5:26:14,19510,Filip Hristić,Core Academics,medium,speaks after Calvert yields to Dr. Hristić; academic perspective on DLI,B,567 568
+5:26:15,5:26:29,19575,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,569
+5:26:32,5:26:32,19592,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,570
+5:26:33,5:26:44,19593,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,571
+5:26:45,5:27:31,19605,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,572
+5:27:34,5:27:35,19654,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,573
+5:27:38,5:28:00,19658,Eddie Wang,Board Chair,medium,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,574 575 576
+5:28:03,5:28:05,19683,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,577
+5:28:06,5:31:09,19686,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,578
+5:31:09,5:31:09,19869,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,L,579
+5:31:11,5:32:01,19871,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,580
+5:32:02,5:33:16,19922,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,581
+5:33:16,5:34:02,19996,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,582
+5:34:02,5:34:02,20042,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,L,583
+5:34:03,5:34:05,20043,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,584
+5:34:06,5:34:07,20046,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,L,585
+5:34:07,5:34:37,20047,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,586
+5:34:38,5:35:23,20078,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,587
+5:35:23,5:35:42,20123,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,588
+5:35:43,5:35:46,20143,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,589
+5:35:46,5:36:43,20146,Margaret Calvert,"Executive Director, School Planning & Modernization",high,,N,590
+5:36:44,5:37:13,20204,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,591
+5:37:15,5:38:06,20235,Margaret Calvert,"Executive Director, School Planning & Modernization",high,,N,592
+5:38:06,5:38:13,20286,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,593
+5:38:14,5:38:41,20294,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,594
+5:38:42,5:38:45,20322,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,595
+5:38:48,5:40:01,20328,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,596
+5:40:04,5:42:43,20404,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,597 598
+5:42:43,5:42:48,20563,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,599
+5:42:48,5:44:57,20568,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,600
+5:44:58,5:45:23,20698,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,601
+5:45:23,5:45:25,20723,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,602
+5:45:26,5:45:31,20726,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,603
+5:45:32,5:45:52,20732,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,604
+5:45:52,5:46:10,20752,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,605
+5:46:12,5:46:13,20772,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,606
+5:46:13,5:46:36,20773,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,607
+5:46:36,5:47:13,20796,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,608
+5:47:16,5:49:18,20836,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,609
+5:49:19,5:49:20,20959,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,610
+5:49:20,5:49:21,20960,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,611
+5:49:21,5:51:06,20961,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,612
+5:51:07,5:51:25,21067,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,613
+5:51:26,5:51:30,21086,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,614
+5:51:30,5:51:30,21090,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,615
+5:51:31,5:52:31,21091,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,616
+5:52:31,5:52:32,21151,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,617
+5:52:33,5:53:36,21153,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,618
+5:53:36,5:53:50,21216,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,619
+5:53:50,5:53:50,21230,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,620
+5:53:51,5:54:04,21231,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,621
+5:54:05,5:54:36,21245,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,622
+5:54:40,5:54:50,21280,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,623
+5:54:50,5:54:50,21290,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,624
+5:54:50,5:54:52,21290,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,625
+5:54:52,5:55:02,21292,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,626
+5:55:02,5:56:50,21302,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,627
+5:56:55,5:56:56,21415,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,628
+5:56:57,5:57:19,21417,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,629
+5:57:19,5:57:31,21439,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,630
+5:57:31,5:59:40,21451,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,631
+5:59:41,6:00:59,21581,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,632
+6:01:01,6:01:32,21661,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,633
+6:01:33,6:01:54,21693,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,634
+6:01:54,6:02:36,21714,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,635
+6:02:36,6:02:59,21756,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,636
+6:02:59,6:02:59,21779,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,637
+6:03:00,6:03:02,21780,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,638
+6:03:03,6:03:40,21783,Jon Franco,Senior Chief of Operations,high,vendor tag 'F' in this part of the meeting,F,639
+6:03:40,6:03:41,21820,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,640
+6:03:45,6:04:17,21825,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,641
+6:04:18,6:04:18,21858,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,642
+6:04:19,6:04:21,21859,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,643
+6:04:21,6:04:22,21861,Margaret Calvert,"Executive Director, School Planning & Modernization",low,,N,644
+6:04:26,6:04:27,21866,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,645
+6:04:31,6:04:56,21871,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,646
+6:04:56,6:05:39,21896,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,647
+6:05:39,6:05:54,21939,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,648
+6:05:58,6:06:16,21958,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,649 650
+6:06:16,6:06:26,21976,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,651
+6:06:28,6:06:51,21988,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,652
+6:06:51,6:07:33,22011,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,653
+6:07:33,6:07:34,22053,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,654
+6:07:35,6:07:47,22055,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,655
+6:07:47,6:08:20,22067,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,656
+6:08:20,6:08:32,22100,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,657
+6:08:32,6:09:14,22112,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,658 659 660
+6:09:22,6:09:23,22162,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,661
+6:09:28,6:09:28,22168,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,D,662
+6:09:28,6:09:31,22168,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,663
+6:09:32,6:09:32,22172,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,H,664
+6:09:36,6:13:52,22176,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,665 666 667 668 669
+6:13:55,6:13:55,22435,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,D,670
+6:13:56,6:15:02,22436,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,671
+6:15:02,6:15:02,22502,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,D,672
+6:15:02,6:15:03,22502,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,673
+6:15:04,6:15:52,22504,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,674
+6:15:53,6:15:53,22553,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,O,675
+6:15:59,6:16:00,22559,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,676
+6:16:02,6:16:28,22562,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,677
+6:16:35,6:16:57,22595,Virginia La Forte,Board member,medium,chair called Director La Forte; 'Hi.' precedes La Forte,Stephanie Engelsmen,678 679
+6:17:00,6:17:18,22620,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,680
+6:17:19,6:17:19,22639,Margaret Calvert,"Executive Director, School Planning & Modernization",medium,,N,681
+6:17:20,6:18:09,22640,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,682
+6:18:11,6:18:34,22691,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,683
+6:18:35,6:18:36,22715,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,684
+6:18:36,6:19:06,22716,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,685 686
+6:19:06,6:19:44,22746,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,687
+6:19:44,6:19:59,22784,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,688 689
+6:20:00,6:20:00,22800,Michelle DePass,Board member,low,'100%.' from the dais,Michelle DePass,690
+6:20:01,6:20:02,22801,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,691
+6:20:03,6:21:26,22803,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,692
+6:21:27,6:22:18,22887,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,693
+6:22:18,6:22:55,22938,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,694
+6:22:58,6:23:10,22978,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,695
+6:23:10,6:23:23,22990,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,696
+6:23:23,6:24:54,23003,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,697
+6:24:54,6:24:55,23094,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,698
+6:24:56,6:25:00,23096,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,699
+6:25:01,6:25:02,23101,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,H,700
+6:25:02,6:25:03,23102,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,D,701
+6:25:03,6:25:11,23103,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,702
+6:25:15,6:25:42,23115,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,703
+6:25:42,6:26:10,23142,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,704
+6:26:11,6:26:33,23171,Patte Sullivan,Board member,high,"Armstrong replies 'I think that's correct, Patty' (6:26:35)",D,705
+6:26:33,6:26:34,23193,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,H,706
+6:26:34,6:26:35,23194,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,707
+6:26:35,6:26:45,23195,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,708
+6:26:47,6:27:04,23207,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,709 710
+6:27:08,6:28:21,23228,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,711
+6:28:25,6:28:49,23305,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,712
+6:28:52,6:30:14,23332,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,713
+6:30:14,6:30:36,23414,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,714
+6:30:36,6:30:38,23436,Virginia La Forte,Board member,medium,La Forte's counting question,H,715
+6:30:38,6:30:42,23438,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,716
+6:30:42,6:30:57,23442,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,717
+6:30:57,6:31:34,23457,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,718
+6:31:36,6:31:43,23496,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,719
+6:31:46,6:31:47,23506,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,H,720
+6:31:47,6:31:50,23507,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,721
+6:31:58,6:31:58,23518,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,722
+6:31:59,6:32:03,23519,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,723
+6:32:05,6:32:05,23525,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,O,724
+6:32:05,6:32:05,23525,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,Michelle DePass,725
+6:32:05,6:32:05,23525,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,Stephanie Engelsmen,726
+6:32:06,6:32:06,23526,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,Eddie Wang,727
+6:32:07,6:32:14,23527,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,728
+6:32:16,6:32:17,23536,Unidentified,Speaker not identifiable from the recording,medium,short interjection; speaker not identifiable,B,729
+6:32:17,6:32:23,23537,Richard Smith,"Senior Director, Data & Accountability",high,data presenter; La Forte addresses him as 'Richard' (6:30:42),C,730 731
+6:32:24,6:32:30,23544,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,732 733
+6:32:30,6:33:00,23550,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,734 735
+6:33:01,6:33:02,23581,Unidentified,Speaker not identifiable from the recording,medium,staff correction 'November 1st',L,736
+6:33:03,6:33:04,23583,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,737
+6:33:08,6:33:09,23588,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,738
+6:33:16,6:33:26,23596,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,739
+6:33:29,6:33:49,23609,Christina Howard,Senior Chief,high,introduced by Armstrong; presents Division 22 then hands to Richard Smith,H,740
+6:33:52,6:33:54,23632,Unidentified,Speaker not identifiable from the recording,low,,B,741
+6:33:57,6:34:24,23637,Christina Howard,Senior Chief,high,introduced by Armstrong; presents Division 22 then hands to Richard Smith,H,742
+6:34:28,6:35:45,23668,Christina Howard,Senior Chief,high,introduced by Armstrong; presents Division 22 then hands to Richard Smith,H,743
+6:35:48,6:35:57,23748,Christina Howard,Senior Chief,high,introduced by Armstrong; presents Division 22 then hands to Richard Smith,H,744
+6:36:00,6:36:21,23760,Christina Howard,Senior Chief,high,introduced by Armstrong; presents Division 22 then hands to Richard Smith,H,745
+6:36:25,6:36:54,23785,Christina Howard,Senior Chief,high,introduced by Armstrong; presents Division 22 then hands to Richard Smith,H,746
+6:36:59,6:37:22,23819,Christina Howard,Senior Chief,high,introduced by Armstrong; presents Division 22 then hands to Richard Smith,H,747
+6:37:26,6:38:13,23846,Christina Howard,Senior Chief,high,introduced by Armstrong; presents Division 22 then hands to Richard Smith,H,748
+6:38:15,6:39:49,23895,Richard Smith,"Senior Director, Data & Accountability",high,vendor tag 'C' in this part of the meeting,C,749
+6:39:53,6:41:26,23993,Richard Smith,"Senior Director, Data & Accountability",high,vendor tag 'C' in this part of the meeting,C,750 751
+6:41:31,6:42:26,24091,Richard Smith,"Senior Director, Data & Accountability",high,vendor tag 'C' in this part of the meeting,C,752 753 754
+6:42:29,6:42:30,24149,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,755
+6:42:33,6:42:37,24153,Patte Sullivan,Board member,medium,chair: 'Let's start with Director Sullivan',H,756 757
+6:42:37,6:42:38,24157,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement,O,758
+6:42:38,6:42:38,24158,Patte Sullivan,Board member,medium,chair: 'Let's start with Director Sullivan',D,759
+6:42:40,6:42:41,24160,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,760
+6:42:42,6:42:42,24162,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement,G,761
+6:42:45,6:42:49,24165,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,762
+6:42:51,6:42:52,24171,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,763
+6:42:54,6:42:58,24174,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,764
+6:42:59,6:43:38,24179,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,765
+6:43:38,6:43:39,24218,Richard Smith,"Senior Director, Data & Accountability",high,vendor tag 'C' in this part of the meeting,C,766
+6:43:39,6:43:40,24219,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,767
+6:43:43,6:44:23,24223,Christy Splitt,Board member,medium,"last director to speak in the round (the six others spoke under their own tags); same tag H as Splitt's other turns; style and content (OSBA, 'civil disobedience') consistent with Splitt",H,768
+6:44:24,6:44:25,24264,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,769
+6:44:25,6:44:40,24265,Richard Smith,"Senior Director, Data & Accountability",high,,C,770
+6:44:40,6:44:42,24280,Christy Splitt,Board member,medium,"last director to speak in the round (the six others spoke under their own tags); same tag H as Splitt's other turns; style and content (OSBA, 'civil disobedience') consistent with Splitt",H,771
+6:44:46,6:44:47,24286,Richard Smith,"Senior Director, Data & Accountability",high,,C,772
+6:44:47,6:44:57,24287,Christy Splitt,Board member,medium,"last director to speak in the round (the six others spoke under their own tags); same tag H as Splitt's other turns; style and content (OSBA, 'civil disobedience') consistent with Splitt",H,773
+6:44:57,6:44:58,24297,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement,D,774
+6:44:58,6:45:06,24298,Christy Splitt,Board member,medium,"last director to speak in the round (the six others spoke under their own tags); same tag H as Splitt's other turns; style and content (OSBA, 'civil disobedience') consistent with Splitt",H,775
+6:45:06,6:45:06,24306,Rashelle Chase-Miller,Board Vice-Chair,high,vendor tag 'Rashelle Chase-Miller - 1' in this part of the meeting,Rashelle Chase-Miller - 1,776
+6:45:06,6:45:07,24306,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement,O,777
+6:45:07,6:45:09,24307,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,778
+6:45:09,6:45:10,24309,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement,G,779
+6:45:10,6:45:11,24310,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,780
+6:45:11,6:45:12,24311,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,781
+6:45:12,6:45:12,24312,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement,D,782
+6:45:12,6:45:15,24312,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,783
+6:45:15,6:45:16,24315,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,784
+6:45:17,6:45:33,24317,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,785
+6:45:39,6:45:39,24339,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,786
+6:45:40,6:45:40,24340,Unidentified,Speaker not identifiable from the recording,medium,short acknowledgement,H,787
+6:45:42,6:45:48,24342,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,788
+6:45:48,6:45:51,24348,Rosanne Powell,Board Manager,high,reports public comment sign-ups,B,789
+6:45:51,6:45:57,24351,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,790 791
+6:46:02,6:46:10,24362,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,792
+6:46:13,6:46:15,24373,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,793
+6:46:15,6:46:26,24375,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,794 795
+6:46:29,6:46:31,24389,Rosanne Powell,Board Manager,high,'I did miss that request' (La Forte addressed 'Rosanna'),B,796
+6:46:31,6:46:32,24391,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,797
+6:46:40,6:46:54,24400,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,798
+6:46:55,6:46:56,24415,Patte Sullivan,Board member,medium,turn split: question and answer in one vendor segment,D,799
+6:46:57,6:46:57,24417,Stephanie Engelsman,Board member,high,turn split: question and answer in one vendor segment,D,799
+6:46:58,6:47:05,24418,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,800 801
+6:47:07,6:47:07,24427,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,802
+6:47:07,6:47:21,24427,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,803
+6:47:24,6:48:05,24444,Public commenter 9,Native education advocate (comment on consent agenda),high,self-identifies; comment on the consent agenda,Michelle DePass,804 805 806
+6:48:08,6:48:39,24488,Public commenter 9,Native education advocate (comment on consent agenda),high,self-identifies; comment on the consent agenda,B,807
+6:48:40,6:48:40,24520,Audience,Audience member(s),medium,'Break it down.',D,808
+6:48:40,6:50:44,24520,Public commenter 9,Native education advocate (comment on consent agenda),high,self-identifies; comment on the consent agenda,B,809 810 811 812 813
+6:50:44,6:50:49,24644,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,814
+6:50:50,6:50:51,24650,Public commenter 9,Native education advocate (comment on consent agenda),high,self-identifies; comment on the consent agenda,Michelle DePass,815
+6:50:54,6:51:08,24654,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,816
+6:51:09,6:51:09,24669,Unidentified,Speaker not identifiable from the recording,medium,voice vote,G,817
+6:51:10,6:51:10,24670,Unidentified,Speaker not identifiable from the recording,medium,voice vote,H,818
+6:51:10,6:51:10,24670,Unidentified,Speaker not identifiable from the recording,medium,voice vote,L,819
+6:51:11,6:51:28,24671,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,820
+6:51:28,6:51:29,24688,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,821
+6:51:29,6:51:30,24689,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,822
+6:51:31,6:51:36,24691,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,823
+6:51:39,6:51:55,24699,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,824
+6:51:56,6:51:57,24716,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,H,825
+6:51:57,6:52:02,24717,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,826
+6:52:03,6:52:06,24723,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,B,827
+6:52:06,6:52:10,24726,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,828
+6:52:10,6:52:13,24730,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,B,829
+6:52:15,6:52:18,24735,Virginia La Forte,Board member,medium,La Forte's questioning,Stephanie Engelsmen,830
+6:52:19,6:52:25,24739,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,B,831 832
+6:52:25,6:52:26,24745,Virginia La Forte,Board member,medium,La Forte's questioning,Stephanie Engelsmen,833
+6:52:26,6:53:04,24746,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,B,834
+6:53:04,6:53:05,24784,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,835
+6:53:05,6:53:09,24785,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,836
+6:53:10,6:53:11,24790,Unidentified,Speaker not identifiable from the recording,low,no rule; vendor tag H,H,837
+6:53:11,6:53:16,24791,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,838
+6:53:17,6:53:52,24797,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,B,839 840
+6:53:52,6:53:58,24832,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,841
+6:54:00,6:54:01,24840,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,Kimberlee Armstrong,842
+6:54:01,6:54:04,24841,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,843
+6:54:04,6:54:05,24844,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,844
+6:54:05,6:54:09,24845,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,845
+6:54:10,6:54:13,24850,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,846
+6:54:14,6:54:15,24854,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,847
+6:54:19,6:54:40,24859,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,848
+6:54:43,6:54:46,24883,Unidentified,Speaker not identifiable from the recording,low,,H,849
+6:54:47,6:54:49,24887,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,B,850
+6:54:49,6:54:52,24889,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,851
+6:54:52,6:54:53,24892,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,B,852
+6:54:53,6:55:06,24893,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,853 854
+6:55:08,6:55:12,24908,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),medium,staff answering La Forte's questions on the seismic RFP,B,855
+6:55:13,6:55:18,24913,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,856
+6:55:18,6:55:26,24918,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,857
+6:55:26,6:55:38,24926,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,858
+6:55:38,6:55:40,24938,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,859
+6:55:40,6:55:45,24940,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,860
+6:55:46,6:55:52,24946,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,861
+6:55:52,6:55:57,24952,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,862
+6:55:57,6:55:57,24957,Michelle DePass,Board member,medium,answers chair's 'And Director DePass?',H,863
+6:55:57,6:55:58,24957,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,864
+6:55:58,6:55:59,24958,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,865
+6:55:59,6:56:06,24959,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,866
+6:56:06,6:56:06,24966,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,867
+6:56:07,6:56:07,24967,Michelle DePass,Board member,high,vendor tag 'Michelle DePass' in this part of the meeting,Michelle DePass,868
+6:56:07,6:56:21,24967,Eddie Wang,Board Chair,high,chair runs the vote ('Opposed?'),L,869 870
+6:56:21,6:56:33,24981,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,871
+6:56:34,6:56:49,24994,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,872
+6:56:50,6:56:50,25010,Virginia La Forte,Board member,high,vendor tag 'Virginia La Forte' in this part of the meeting,Virginia La Forte,873
+6:56:51,6:56:54,25011,Eddie Wang,Board Chair,high,vendor tag 'Eddie Wang' in this part of the meeting,Eddie Wang,874

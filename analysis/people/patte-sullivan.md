@@ -52,6 +52,8 @@ Evidence base: 61 transcript quotes in `quotes_all.jsonl` (48 high, 13 medium, 0
 
 Analysis: Sullivan moved from hedging (April "may") to the clearest late-cycle statement of necessity besides DePass. She is the member who sits in both 4–3 coalitions: with Splitt, La Forte and Engelsman on bond oversight (internal auditor), and with Wang, DePass and Chase-Miller on rightsizing direction.
 
+**Oct 20, 2026 (work session): supportive, with West-side and DLI doubts.** "I was really heartened to see that in both right-sizing scenarios, the number of students in a sustainable school goes up." [YT:xByUlijpcnE@5:06:57](https://www.youtube.com/watch?v=xByUlijpcnE&t=18417s) But "it almost seems like maybe the west side doesn't need it." [YT:xByUlijpcnE@5:07:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=18446s) She suggested keeping DLI in neighborhood schools through 5th grade [YT:xByUlijpcnE@5:05:00](https://www.youtube.com/watch?v=xByUlijpcnE&t=18300s).
+
 ## Voting record on key related votes
 
 | Date | Item | Result | Sullivan | Source |
@@ -134,6 +136,16 @@ Codes: Y = yes, N = no, A = abstain, X = absent, U = not recorded in the archive
   _Context (from the quote record):_ questions west-side balance of middle schools
 - **2026-10-13** — "We don't really get more money. We just spread it around differently. So, that's another reason we just have to get more money. Period." [YT:nkNf4ceJcj8@0:49:56](https://www.youtube.com/watch?v=nkNf4ceJcj8&t=2996s)  
   _Context (from the quote record):_ new revenue needed, not redistribution
+- **2026-10-20** — "Wow, I do not have a new plan, but I do have questions about this plan." [YT:xByUlijpcnE@5:04:12](https://www.youtube.com/watch?v=xByUlijpcnE&t=18252s)  
+  _Context (from the quote record):_ questions, not opposition
+- **2026-10-20** — "could we keep the DLI in the neighborhood schools at least through 5th grade and then go into the middle schools more concentrated?" [YT:xByUlijpcnE@5:05:00](https://www.youtube.com/watch?v=xByUlijpcnE&t=18300s)  
+  _Context (from the quote record):_ amend DLI moves
+- **2026-10-20** — "I was really heartened to see that in both right-sizing scenarios, the number of students in a sustainable school goes up. So that's what we're trying to do." [YT:xByUlijpcnE@5:06:57](https://www.youtube.com/watch?v=xByUlijpcnE&t=18417s)  
+  _Context (from the quote record):_ supports goal of scenarios
+- **2026-10-20** — "When I look at the west side, there's very little change in the percentage of students from any group attending sustainable schools with the change, especially in scenario B, nothing happens." [YT:xByUlijpcnE@5:07:05](https://www.youtube.com/watch?v=xByUlijpcnE&t=18425s)  
+  _Context (from the quote record):_ questions west-side closures
+- **2026-10-20** — "it almost seems like maybe the west side doesn't need it." [YT:xByUlijpcnE@5:07:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=18446s)  
+  _Context (from the quote record):_ questions west-side closures
 
 ## News-reported quotes (secondary)
 

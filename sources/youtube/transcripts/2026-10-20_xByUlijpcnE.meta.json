@@ -1,0 +1,23 @@
+{
+ "id": "xByUlijpcnE",
+ "fetched_at": "2026-10-21T17:12:00Z",
+ "meta": {
+  "videoId": "xByUlijpcnE",
+  "title": "2026-10-20  Board of Education  Work Session",
+  "lengthSeconds": "25048",
+  "author": "PPS Board of Education",
+  "uploadDate": "2026-10-21"
+ },
+ "meetings": "2026-10-20|772442",
+ "caption_kind": "vendor_stt",
+ "caption_lang": "en",
+ "n_lines": 4652,
+ "fetch_method": "Word-level speech-to-text export with automatic speaker tags (timestamps.json), supplied by the repository owner 2026-10-21; raw file archived at sources/youtube/vendor_transcripts/2026-10-20_xByUlijpcnE.timestamps.json. Lines here are the vendor's words regrouped into caption-length lines (no speaker tags; speaker-labeled copy in analysis/speaker_transcripts/). Title/length from yt-dlp metadata on the owner's linked computer, 2026-10-21.",
+ "url": "https://www.youtube.com/watch?v=xByUlijpcnE",
+ "boardbook_meetings": [
+  [
+   "2026-10-20",
+   "772442"
+  ]
+ ]
+}

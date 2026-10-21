@@ -1,0 +1,41 @@
+id,label,role,kind,turns,words,first_turn
+WANG,Eddie Wang,Board Chair,board,88,4082,1:03:20
+CM,Rashelle Chase-Miller,Board Vice-Chair,board,17,1481,2:16:22
+ENG,Stephanie Engelsman,Board member,board,73,4626,2:10:10
+LAF,Virginia La Forte,Board member,board,54,2777,2:15:58
+DEP,Michelle DePass,Board member,board,34,2098,1:17:42
+SPL,Christy Splitt,Board member,board,11,2954,2:15:12
+SUL,Patte Sullivan,Board member,board,22,1187,2:15:47
+ARM,Kimberlee Armstrong,Superintendent,staff,41,4419,1:06:47
+FRA,Jon Franco,Senior Chief of Operations,staff,16,1373,3:54:28
+CAL,Margaret Calvert,"Executive Director, School Planning & Modernization",staff,44,6717,3:59:25
+SMI,Richard Smith,"Senior Director, Data & Accountability",staff,31,3539,4:22:49
+HRI,Filip Hristić,Core Academics,staff,1,157,5:25:10
+HOW,Christina Howard,Senior Chief,staff,8,655,6:33:29
+KAF,Deborah Kafoury,Chief of Staff,staff,1,62,1:59:25
+MOR,Michelle Morrison,Chief Financial Officer,staff,2,47,2:17:52
+CLERK,Rosanne Powell,Board Manager,staff,13,113,1:17:30
+FAC,Facilities staff member,Presenting Res. 7390 (name not clear in the recording),staff,10,257,6:51:56
+MILLS,Tom Mills,"Director of Mobility Planning & Policy, TriMet",guest,12,1975,1:59:47
+BRADY,Catherine (Kathy) Brady,"Partner, Sjoberg Evashenk Consulting (bond auditor)",guest,50,4769,2:18:19
+LIU,Leanne Liu,"Director, Sjoberg Evashenk Consulting (bond auditor; name as spoken)",guest,5,2111,2:35:17
+HANSEN,Janice Hansen,Board's internal performance auditor,guest,4,151,3:09:41
+DIL,Greg DiLoreto,Bond Accountability Committee member,guest,3,289,3:30:50
+KELLY,Kelly (BAC member),Bond Accountability Committee member (first name only as called),guest,4,320,3:35:34
+ZAV,Caroline Zavitkovski,Audit Committee community member,guest,3,246,3:32:48
+BEATTY,Lacey Beatty,Mayor of Beaverton (public comment),official,1,447,1:19:10
+PAT,Alicia Chavez,"President, Portland Association of Teachers (union comment)",official,7,1037,1:50:53
+PC_LEWIS,Student commenter 1,Lewis Elementary 4th grader,public,3,205,1:22:47
+PC_SUNSTU,Student commenter 2,Sunnyside Environmental 2nd grader,public,4,168,1:24:44
+PC_SELLSTU,Student commenter 3,Sellwood Middle School student,public,1,341,1:27:13
+PC_KIM,Public commenter 1,Franklin/Kellogg parent; special education teacher,public,2,412,1:29:22
+PC_MARYS,Public commenter 2,Marysville Elementary school counselor,public,2,343,1:32:35
+PC_MAPLE1,Public commenter 3,Maplewood parent and local business owner,public,1,336,1:34:59
+PC_DUNI,Public commenter 4,Duniway Elementary parent,public,4,342,1:37:34
+PC_KEN,Public commenter 5,Retired teacher; Sellwood Middle School neighbor,public,2,349,1:40:11
+PC_MAPLE2,Public commenter 6,Maplewood Elementary parent,public,1,337,1:43:03
+PC_SABIN,Public commenter 7,Sabin and Tubman parent,public,2,398,1:45:32
+PC_SUNNY,Public commenter 8,Sunnyside Environmental parent,public,2,274,1:47:53
+PC_NATIVE,Public commenter 9,Native education advocate (comment on consent agenda),public,4,554,6:47:24
+AUD,Audience,Audience member(s),other,5,11,1:42:14
+UNK,Unidentified,Speaker not identifiable from the recording,other,143,346,0:05:58

@@ -1,0 +1,18 @@
+[
+ {
+  "file": "2026-10-20_xByUlijpcnE.timestamps.json",
+  "video_id": "xByUlijpcnE",
+  "video_url": "https://www.youtube.com/watch?v=xByUlijpcnE",
+  "video_title": "2026-10-20  Board of Education  Work Session",
+  "video_length_s": 25048,
+  "boardbook_meeting": "2026-10-20|772442",
+  "format": "JSON list of words: {text, start, end (ms into the video), confidence, speaker}. 52,305 words. Speaker tags are the vendor's automatic speaker separation: six are named (some wrongly) and the rest are letters reused for different people.",
+  "provenance": "Speech-to-text export supplied by the repository owner (tim@offpathgames.com) in chat on 2026-10-21 as 'timestamps.json'. Not fetched by us; vendor not stated.",
+  "received": "2026-10-21",
+  "sha256": "7ab8d6259a38b311ae1d6f6608a597268428d2dfb1583f6a2b6344177f2b078f",
+  "derived": [
+   "sources/youtube/transcripts/2026-10-20_xByUlijpcnE.{txt,tsv,meta.json}: the same words regrouped into caption-length lines (no speaker tags)",
+   "analysis/speaker_transcripts/2026-10-20_xByUlijpcnE.txt: speaker-labeled turns with every speaker re-checked (evidence in the CSVs next to it)"
+  ]
+ }
+]

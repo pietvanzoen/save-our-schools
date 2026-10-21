@@ -22,6 +22,7 @@ Everything here is derived from `sources/` and cites back to it. The citation fo
 | `_transcript_analysis_instructions.md` | Instructions given to the meeting-analysis agents | How `meetings/` and the quote batches were produced |
 | `README.md` | This index | — |
 | `transcripts_corrected/` | All meeting transcripts with caption mis-hearings of names fixed in [brackets], plus `corrections.csv` | Reading and quoting transcripts (search and `tools/window.py` use these) |
+| `speaker_transcripts/` | Speaker-labeled transcripts with every speaker re-checked (evidence and confidence per turn). First: the Oct 20, 2026 work session ([`2026-10-20_xByUlijpcnE.txt`](speaker_transcripts/2026-10-20_xByUlijpcnE.txt)) | Who said what at a meeting; checking an attribution |
 | `_published_pages.md` | Shareable pages built from the archive, with links | Republishing |
 
 ## topics/: cross-cutting syntheses
@@ -71,7 +72,7 @@ Everything here is derived from `sources/` and cites back to it. The citation fo
 
 ## meetings/: per-meeting summaries
 
-`meetings/<YYYY-MM-DD>_<videoId>.md` covers 106 meetings, Jan 2025 – Oct 2026. Each file has:
+`meetings/<YYYY-MM-DD>_<videoId>.md` covers 107 meetings, Jan 2025 – Oct 2026 (latest: [`2026-10-20_xByUlijpcnE.md`](meetings/2026-10-20_xByUlijpcnE.md), the Oct 20 work session, from a speaker-labeled vendor transcript). Each file has:
 - attendance, key documents, a summary, and a **Decisions & votes** table built from minutes or video roll calls;
 - sections on rightsizing, bond, seismic, facilities, and budget and enrollment;
 - public comment themes, notable quotes and a topics index with timestamps.

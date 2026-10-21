@@ -1,29 +1,31 @@
 # Board closure stance: where each member stands heading into the Dec 15, 2026 vote
 
 One file per voting board member, with a dated timeline, contradictions and shifts, fixations, weak points,
-what would move them, and watch items. Each member also has a `<slug>_scores.csv`; `all_scores.csv` combines them (254 scored points).
+what would move them, and watch items. Each member also has a `<slug>_scores.csv`; `all_scores.csv` combines them (289 scored points).
 Method: `_instructions.md`. Every quote was checked against transcripts; medium-confidence attributions are marked in each file.
 
 **Lean score:** if the vote were held that day, how likely is the member to vote to ADOPT a closure package
 (Scenario A, B, or an amended version that still closes schools)? The scale runs from +2 (strongly for) to −2 (strongly
 against, defer, or no closures). The scores are analytical judgments (Analysis), not predictions of record.
 
-## Current outlook (Oct 11, 2026)
+## Current outlook (updated Oct 20, 2026)
 
 | Member | Zone | Current | Range | Likely Dec 15 vote | One-line read |
 |---|---|---|---|---|---|
-| [Eddie Wang](eddie-wang.md) (Chair) | 7 | **+2** | +1 to +2 | Yes (A, B or amended) | Most explicit advocate: "if it means this and to get there means 20 closures, I'm fine" |
-| [Michelle DePass](michelle-depass.md) | 2 | **+2** | +1 to +2 | Yes; may move or second | "go big", rated 9.5 out of 10 on scale; savings are "not what we're trying to solve for" |
-| [Patte Sullivan](patte-sullivan.md) | 3 | **+1.5** | +1 to +2 | Yes, probably amended | Voted yes at every rightsizing step; Oct 6: "this work has to be done" |
-| [Rashelle Chase-Miller](rashelle-chase-miller.md) (Vice Chair) | 4 | **+1** | 0 to +2 | Yes on an amended package (~80%) | Wants "massaging of the scenarios", plus equity tests and well-resourced guarantees |
-| [Virginia La Forte](virginia-la-forte.md) | 5 | **0** | −1 to +1 | Undecided; amendments first | "can't make a decision without" the Nov 17 fiscal impact statement; objects to N/NE "school deserts" |
-| [Christy Splitt](christy-splitt.md) | 1 | **−1** | −2 to +1 | No on A as drawn; possible yes on a smaller package | "scalpel, not hammer"; A and B are "just too much"; Southwest objections |
-| [Stephanie Engelsman](stephanie-engelsman.md) | 6 | **−2** | −2 to −1 | No (~15–20% yes) | "to me this plan is mayhem"; class size is a precondition staff ruled out of scope |
+| [Eddie Wang](eddie-wang.md) (Chair) | 7 | **+2** | +1 to +2 | Yes (A, B or amended) | Relays parents who "would prefer Scenario A over Scenario B" (Oct 20); his "bottom line" is underserved students in well-enrolled schools |
+| [Michelle DePass](michelle-depass.md) | 2 | **+2** | +1 to +2 | Yes; may move or second | "I don't know how we cannot do something" (Oct 20); calls the "redlining" framing "misplaced and offensive" |
+| [Rashelle Chase-Miller](rashelle-chase-miller.md) (Vice Chair) | 4 | **+1.5** (was +1) | +1 to +2 | Yes | Oct 20: "my kids cannot wait"; "No one is coming to save us" |
+| [Patte Sullivan](patte-sullivan.md) | 3 | **+1** (was +1.5) | +1 to +2 | Yes, probably amended | "heartened" by the gains, but "maybe the west side doesn't need it"; DLI through 5th grade (Oct 20) |
+| [Christy Splitt](christy-splitt.md) | 1 | **0** (was −1) | −1 to +1 | Yes on a much smaller package; no on A/B | Oct 20: her own plan closes or merges the 6 smallest schools, phased |
+| [Virginia La Forte](virginia-la-forte.md) | 5 | **−1** (was 0) | −1 to +1 | Lean no or delay on A/B; amendments first | Oct 20: "I'm not sold"; asked for "breathing room" on the December date; Spanish DLI families |
+| [Stephanie Engelsman](stephanie-engelsman.md) | 6 | **−2** | −2 to −1 | No (~15–20% yes) | Oct 20: the scenarios do not "line up with what we require"; 12 of 14 closures split students |
 
 **Analysis, likely tally:** **4 to 5 votes to adopt some closure package** (Wang, DePass, Sullivan, Chase-Miller; La Forte if
 her cost and neighborhood conditions are met). Scenario A unamended looks closer to 4–3 or 5–2. A package trimmed toward B, with
 North/NE and Southwest fixes, could reach 5–2 or 6–1. A deferral motion has at most 1–3 votes on the current record. The real
 contest is **scale and amendments**, not whether to close.
+
+**Oct 20 update (Analysis):** the 4–3 shape is sharper. Wang, DePass, Chase-Miller and Sullivan argued for acting; Engelsman, La Forte and Splitt questioned the scale. Splitt's 6-building plan gives the skeptics a concrete smaller package, and Sullivan's "maybe the west side doesn't need it" is the clearest sign of a possible fifth vote for trimming the West-side closures. La Forte's request for "breathing room" is the first sign of a second director (after Engelsman) open to moving the date.
 
 ## Lean over time (average score by period; per-point data in `all_scores.csv`)
 
@@ -31,11 +33,11 @@ contest is **scale and amendments**, not whether to close.
 |---|---|---|---|---|---|---|
 | Wang | +1.0 | +1.45 | +1.67 | +1.0 | +1.67 | +2.0 |
 | DePass | +0.14 | +0.73 | +1.1 | +1.0 | +1.57 | +2.0 |
-| Sullivan | +0.33 | +0.67 | +0.5 | n/a | +0.88 | +2.0 |
-| Chase-Miller | +0.8 | +1.5 | +1.36 | +1.0 | +1.12 | +1.0 |
-| La Forte | +0.75 | +0.5 | +0.56 | 0.0 | +0.57 | −0.29 |
-| Splitt | +0.4 | +1.33 | +0.7 | +1.0 | −0.75 | −0.67 |
-| Engelsman | −0.5 | −0.75 | −0.38 | −1.0 | −0.88 | −1.25 |
+| Sullivan | +0.33 | +0.67 | +0.5 | n/a | +0.88 | +1.43 |
+| Chase-Miller | +0.8 | +1.5 | +1.36 | +1.0 | +1.12 | +1.43 |
+| La Forte | +0.75 | +0.5 | +0.56 | 0.0 | +0.57 | −0.43 |
+| Splitt | +0.4 | +1.33 | +0.7 | +1.0 | −0.75 | −0.3 |
+| Engelsman | −0.5 | −0.75 | −0.38 | −1.0 | −0.88 | −1.4 |
 
 **Turning points:**
 - **Mar 10, 2026:** Armstrong floats "five to 10 schools". Every member backs a districtwide, all-at-once process.
@@ -43,6 +45,7 @@ contest is **scale and amendments**, not whether to close.
 - **May 26, 2026:** guiding principles adopted 7–0. This is the high point of consensus.
 - **Sep 1, 2026:** staff modeling shows ~15–20 closures needed. Splitt flips to "scalpel", Engelsman hardens, DePass and Wang go bigger, Sullivan says "I'm for it".
 - **Oct 6, 2026:** scenarios released (14 / 11 closures). DePass and Sullivan move to "do something". La Forte, Splitt and Engelsman object to specific closures.
+- **Oct 20, 2026:** Splitt proposes her own 6-building alternative; Chase-Miller makes the strongest case yet for acting now; La Forte asks for "breathing room" on the date; Sullivan questions West-side closures; Engelsman says the scenarios fail board policy ([meeting notes](../meetings/2026-10-20_xByUlijpcnE.md)).
 
 ## What each member keeps coming back to
 

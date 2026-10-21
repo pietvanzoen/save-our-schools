@@ -56,6 +56,8 @@ Evidence base: 157 transcript quotes in `quotes_all.jsonl` (116 high, 37 medium,
 
 Analysis: Splitt's general support for consolidation is constant from June 2025. The reversal is on scale: she had framed her support around the "5 to 10" closures first discussed and moved to opposition once staff described roughly a quarter of schools (Sept 1, 2026). News coverage the next day quotes her as "more skeptical now than I was a week ago" [NEWS:NEWS-20260902-opb-1](https://www.opb.org/article/2026/09/02/portland-public-schools-rightsizing-close-schools-standardize-education).
 
+**Oct 20, 2026 (work session): from objecting to proposing.** She presented her own alternative: close or merge the 6 smallest buildings, drawn from the 13 schools forecast under 250 students; keep the 6-8 consolidation; let Sunnyside and Bridger middle-grade students stay together; and treat it as "a beginning of a phased approach" [YT:xByUlijpcnE@5:01:46](https://www.youtube.com/watch?v=xByUlijpcnE&t=18106s). She said only opposing the count would have been "like a dereliction of duty" [YT:xByUlijpcnE@5:03:39](https://www.youtube.com/watch?v=xByUlijpcnE&t=18219s).
+
 ## Voting record on key related votes
 
 | Date | Item | Result | Splitt | Source |
@@ -146,6 +148,16 @@ Codes: Y = yes, N = no, A = abstain, X = absent, U = not recorded in the archive
   _Context (from the quote record):_ notes West Hills excluded from rebalancing
 - **2026-10-13** — "where you're taking two focused schools and making them into one neighborhood school, could you have an arts and environment focus in a with a neighborhood population" [YT:As3VpeDGx70@1:38:01](https://www.youtube.com/watch?v=As3VpeDGx70&t=5881s) *(medium-confidence attribution)*  
   _Context (from the quote record):_ suggests preserving Sunnyside's focus inside a neighborhood school
+- **2026-10-20** — "I started to signal concern with just the percent of— the percentage of change for kids and also the amount of change for staff." [YT:xByUlijpcnE@4:52:52](https://www.youtube.com/watch?v=xByUlijpcnE&t=17572s)  
+  _Context (from the quote record):_ scale of A/B too large
+- **2026-10-20** — "So I have this concern about how much change management we can handle at the same time as we are reducing our central office" [YT:xByUlijpcnE@4:53:17](https://www.youtube.com/watch?v=xByUlijpcnE&t=17597s)  
+  _Context (from the quote record):_ implementation capacity concern
+- **2026-10-20** — "Really, I wanted to see like what's a neutral way that we can have a fewer number of buildings closed and a smaller number of students experiencing change at once" [YT:xByUlijpcnE@4:55:29](https://www.youtube.com/watch?v=xByUlijpcnE&t=17729s)  
+  _Context (from the quote record):_ offers smaller closure package
+- **2026-10-20** — "something that takes the 13th or the 13 schools that are under 250 students. And in the end, you end up with 3 schools under 250 students" [YT:xByUlijpcnE@4:56:59](https://www.youtube.com/watch?v=xByUlijpcnE&t=17819s)  
+  _Context (from the quote record):_ close the smallest schools first
+- **2026-10-20** — "I think that our smallest schools, frankly, they cost the district more. And at the same time, I don't think the students there benefit from being in the smaller schools." [YT:xByUlijpcnE@4:57:17](https://www.youtube.com/watch?v=xByUlijpcnE&t=17837s)  
+  _Context (from the quote record):_ supports closing smallest schools
 
 ## News-reported quotes (secondary)
 

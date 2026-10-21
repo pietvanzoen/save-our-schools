@@ -57,6 +57,8 @@ Evidence base: 113 transcript quotes in `quotes_all.jsonl` (91 high, 22 medium, 
 
 Analysis: Engelsman has never endorsed a magnitude. Her stance hardened from data requests (spring 2026) to calling the scenarios "mayhem" (Oct 2026). Her objections are specific (school deserts, bus times, SEGC schools hit twice, Sellwood; see `analysis/meetings/2026-10-06_zOUH2Jq7Owo.md` [MTG:2026-10-06/769955](https://meetings.boardbook.org/Public/Agenda/915?meeting=769955)), so targeted amendments are the only visible path to a yes. News quotes her saying boundary realignment, if sufficient, is "a great place to start" [NEWS:NEWS-20260903-wweek-1](https://www.wweek.com/news/schools/2026/09/03/heres-where-every-pps-board-member-stands-on-school-closures/).
 
+**Oct 20, 2026 (work session): policy-compliance objection.** "I do not think that these scenarios line up with what we require specifically." [YT:xByUlijpcnE@5:40:36](https://www.youtube.com/watch?v=xByUlijpcnE&t=20436s) She counted 12 of 14 Scenario A closures that split students [YT:xByUlijpcnE@5:41:18](https://www.youtube.com/watch?v=xByUlijpcnE&t=20478s), compared PPS's scale with Denver, Austin, Houston and Chicago [YT:xByUlijpcnE@5:52:47](https://www.youtube.com/watch?v=xByUlijpcnE&t=21167s), and questioned the equity lens [YT:xByUlijpcnE@5:56:05](https://www.youtube.com/watch?v=xByUlijpcnE&t=21365s) and the PERS-driven budget case [YT:xByUlijpcnE@6:06:02](https://www.youtube.com/watch?v=xByUlijpcnE&t=21962s).
+
 ## Voting record on key related votes
 
 | Date | Item | Result | Engelsman | Source |
@@ -139,6 +141,16 @@ Codes: Y = yes, N = no, A = abstain, X = absent, U = not recorded in the archive
   _Context (from the quote record):_ wants transportation costs with recommendation
 - **2026-10-13** — "you know, we needed 80 teachers, which is exactly the number that we had to lay off last year, and it cost us this amount of money" [YT:nkNf4ceJcj8@0:46:30](https://www.youtube.com/watch?v=nkNf4ceJcj8&t=2790s)  
   _Context (from the quote record):_ unfunded mandates crowd out other staff
+- **2026-10-20** — "I do not think that these scenarios line up with what we require specifically." [YT:xByUlijpcnE@5:40:36](https://www.youtube.com/watch?v=xByUlijpcnE&t=20436s)  
+  _Context (from the quote record):_ scenarios violate policy
+- **2026-10-20** — "there's 14 on there for A, and by my count, 12 of them 12 do not move together." [YT:xByUlijpcnE@5:41:18](https://www.youtube.com/watch?v=xByUlijpcnE&t=20478s)  
+  _Context (from the quote record):_ opposes split moves
+- **2026-10-20** — "it doesn't feel ethical or fiscally responsible to spend taxpayer money and then close a building." [YT:xByUlijpcnE@5:48:51](https://www.youtube.com/watch?v=xByUlijpcnE&t=20931s)  
+  _Context (from the quote record):_ opposes closing retrofitted buildings
+- **2026-10-20** — "Denver 1%, Austin 5%, Houston 2%, Chicago 3%. I don't want to be known as the district that blew the numbers out of the water compared to other districts" [YT:xByUlijpcnE@5:52:47](https://www.youtube.com/watch?v=xByUlijpcnE&t=21167s)  
+  _Context (from the quote record):_ scale too large
+- **2026-10-20** — "we couldn't get that right to get them all to school on time." [YT:xByUlijpcnE@5:53:24](https://www.youtube.com/watch?v=xByUlijpcnE&t=21204s)  
+  _Context (from the quote record):_ doubts implementation
 
 ## News-reported quotes (secondary)
 

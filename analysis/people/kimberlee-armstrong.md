@@ -69,6 +69,8 @@ Evidence base: 176 transcript quotes in `quotes_all.jsonl` (140 high, 33 medium,
 
 Analysis: Armstrong's direction has not changed since spring 2025. Her stated scale went from "five to 10" (Mar) to "one ... to 12" (Apr) to roughly 10–20 (Aug news, [NEWS:NEWS-20260826-wweek-1](https://www.wweek.com/news/schools/2026/08/26/pps-superintendent-says-district-could-close-up-to-20-schools/)) and 11–14 in the Oct scenarios (`analysis/topics/rightsizing.md`). Her stated rationale oscillated between "not a cost-saving strategy" (Apr) and budget stabilization (Apr 28, Jun 23).
 
+**Oct 20, 2026 (work session): first per-scenario savings.** "Closing school buildings is not about reducing the deficit." [YT:xByUlijpcnE@1:07:56](https://www.youtube.com/watch?v=xByUlijpcnE&t=4076s) She put Scenario A at about $14M in operating savings (about 97 FTE preserved) and B at about $11M (76 FTE), against about 223 FTE of school cuts with no closures, calling these "planning estimates, not final staffing decisions or guaranteed reinvestments" [YT:xByUlijpcnE@1:14:59](https://www.youtube.com/watch?v=xByUlijpcnE&t=4499s) [YT:xByUlijpcnE@1:15:39](https://www.youtube.com/watch?v=xByUlijpcnE&t=4539s). She said the recommendation will change: "Our thinking will be updated." [YT:xByUlijpcnE@6:14:07](https://www.youtube.com/watch?v=xByUlijpcnE&t=22447s)
+
 ## Voting record
 
 Not applicable: the superintendent does not vote. See the board members' profiles for the votes on her recommendations and on her contract (Res. 7371).
@@ -131,6 +133,16 @@ Not applicable: the superintendent does not vote. See the board members' profile
   _Context (from the quote record):_ rules out Scenario C
 - **2026-10-17** — "I don't think she said pause, but I heard the slow down, take the time to consider feedback. That's absolutely what we're doing." [YT:NadLYOURLtg@0:02:11](https://www.youtube.com/watch?v=NadLYOURLtg&t=131s)  
   _Context (from the quote record):_ reads Kotek letter as not requiring a pause
+- **2026-10-20** — "Closing school buildings is not about reducing the deficit. It is about concentrating resources to strengthen educational opportunities for students with fewer available dollars." [YT:xByUlijpcnE@1:07:56](https://www.youtube.com/watch?v=xByUlijpcnE&t=4076s)  
+  _Context (from the quote record):_ closures are not deficit reduction
+- **2026-10-20** — "Under the status quo, if we continue operating our current system without capturing savings from building closures, the school portion of the budget reduction would be equivalent to approximately 223 FTE." [YT:xByUlijpcnE@1:14:33](https://www.youtube.com/watch?v=xByUlijpcnE&t=4473s)  
+  _Context (from the quote record):_ status quo means deeper school cuts
+- **2026-10-20** — "Scenario A, which models 14 school building closures, estimates approximately $14 million in operational savings." [YT:xByUlijpcnE@1:14:59](https://www.youtube.com/watch?v=xByUlijpcnE&t=4499s)  
+  _Context (from the quote record):_ savings estimate
+- **2026-10-20** — "These are planning estimates, not final staffing decisions or guaranteed reinvestments." [YT:xByUlijpcnE@1:15:39](https://www.youtube.com/watch?v=xByUlijpcnE&t=4539s)  
+  _Context (from the quote record):_ hedges reinvestment
+- **2026-10-20** — "So maintaining every building does not mean protecting every classroom." [YT:xByUlijpcnE@1:15:56](https://www.youtube.com/watch?v=xByUlijpcnE&t=4556s)  
+  _Context (from the quote record):_ supports closures
 
 ## News-reported quotes (secondary)
 

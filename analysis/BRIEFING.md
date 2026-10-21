@@ -34,9 +34,10 @@ Corrections from `_verification_report.md` are applied. Two items supersede the 
 9. **Forecast risk is real.** The Southeast Guiding Coalition (SEGC) boundary process is PPS's last comparable exercise. Its projections "overestimated enrollment at 12 of 20 schools" [BB:3997427 p.6]. Fall 2026 enrollment is running about 700 below last year's count [BB:14493920 p.32].
 10. **The Board is split about 4–3 toward acting.**
     - Wang, DePass, Chase-Miller and Sullivan support acting at scale.
-    - Splitt wants a smaller package and no additions.
-    - La Forte is undecided pending cost data.
-    - Engelsman calls the plan "mayhem" [YT:zOUH2Jq7Owo@2:56:43] (`people/README.md`).
+    - Splitt wants a smaller package and no additions. On Oct 20 she proposed her own: close or merge the 6 smallest schools, phased [YT:xByUlijpcnE@5:02:25].
+    - La Forte is undecided pending cost data. On Oct 20 she said "I'm not sold" and asked for "breathing room" on the December date [YT:xByUlijpcnE@6:28:33] [YT:xByUlijpcnE@6:29:30].
+    - Engelsman calls the plan "mayhem" [YT:zOUH2Jq7Owo@2:56:43] (`people/README.md`). On Oct 20 she said the scenarios don't "line up with what we require" [YT:xByUlijpcnE@5:40:36].
+    - Oct 20 savings figures (Armstrong): A about $14M (about 97 FTE preserved), B about $11M (76 FTE), against about 223 FTE of school cuts with no closures [YT:xByUlijpcnE@1:14:33] [YT:xByUlijpcnE@1:14:59] (`meetings/2026-10-20_xByUlijpcnE.md`).
 
     **Analysis:** some package probably passes; its size and amendments are open.
 11. **Leverage points.**

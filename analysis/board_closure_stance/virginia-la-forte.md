@@ -44,6 +44,13 @@ For Oct 6, the batch notes say the La Forte/DePass assignment "could in principl
 
 These remain **medium** under the repo rules: the speaker is not named on camera.
 
+**Update (Oct 20, 2026 work session): 0 → −1 (range −1 to +1).**
+- **Against A/B as drafted:** "I have a very hard time believing that we can pull this off. I'm not saying that we can't, I'm just saying like, I'm not sold." [YT:xByUlijpcnE@6:28:33](https://www.youtube.com/watch?v=xByUlijpcnE&t=23313s)
+- **On timing:** she still wants "to do something this school year" but worries "we're not going to get there with the community by December 17th", and asked for "a little breathing room" [YT:xByUlijpcnE@6:29:13](https://www.youtube.com/watch?v=xByUlijpcnE&t=23353s) [YT:xByUlijpcnE@6:29:30](https://www.youtube.com/watch?v=xByUlijpcnE&t=23370s).
+- **Spanish DLI:** she says the plan "hinges on the Spanish DLI programs" [YT:xByUlijpcnE@6:20:03](https://www.youtube.com/watch?v=xByUlijpcnE&t=22803s) and that "there's got to be a compromise" [YT:xByUlijpcnE@6:22:50](https://www.youtube.com/watch?v=xByUlijpcnE&t=22970s).
+- **Peer comparison:** her figures (Chicago 4.1%, Philadelphia 4.2%, San Antonio 10% of students moved) [YT:xByUlijpcnE@6:28:10](https://www.youtube.com/watch?v=xByUlijpcnE&t=23290s).
+- Analysis: this is her closest approach yet to asking for a delay. A yes vote now depends on DLI changes and a later vote date.
+
 ## Timeline
 
 Scores answer the question: if the Dec 15 vote were held that day, how likely is she to adopt a closure package? The scale runs from +2 (strongly for) to −2 (strongly against or defer). *(medium)* marks a medium-confidence speaker attribution. The same rows are in `virginia-la-forte_scores.csv`. There, `confidence` is confidence in the score reading: it is capped at medium when the attribution is medium, and lowered when the statement is relayed or hedged.
@@ -90,6 +97,9 @@ Scores answer the question: if the Dec 15 vote were held that day, how likely is
 | 2026-10-13 | James John "definitely gave me significant pause because of the ripple effect that closure could potentially have on the viability of the neighborhood and its impact on North Portland as a whole." [YT:As3VpeDGx70@0:56:47](https://www.youtube.com/watch?v=As3VpeDGx70&t=3407s); she wants James John and Sitton compared "side by side" [YT:As3VpeDGx70@0:59:21](https://www.youtube.com/watch?v=As3VpeDGx70&t=3561s) | −1 | Objects to a North Portland closure that is in both A and B. |
 | 2026-10-13 | Rose City Park: "I thought we heard at one point that that building was off the table. So, I was surprised to see it." [YT:As3VpeDGx70@1:01:23](https://www.youtube.com/watch?v=As3VpeDGx70&t=3683s); "I don't want to be making decisions about site locations based on how attractive a site might be to someone." [YT:As3VpeDGx70@1:03:18](https://www.youtube.com/watch?v=As3VpeDGx70&t=3798s) | −1 | A second site-specific objection, plus a real-estate concern. |
 | 2026-10-13 | Middle grades: "I went through this process as a kid in fifth grade where my K8 converted to a K5 and then I went to a middle and I so I saw this firsthand that this is this is real" [YT:As3VpeDGx70@1:43:05](https://www.youtube.com/watch?v=As3VpeDGx70&t=6185s); *(medium)* "500 is not a large middle school by any means." [YT:As3VpeDGx70@1:44:46](https://www.youtube.com/watch?v=As3VpeDGx70&t=6286s) | +1 | Supports the K-8 to 6-8 consolidation in both scenarios. |
+| 2026-10-20 | "I think because the whole plan hinges on the Spanish DLI programs, like it basically is the anchor for moving everybody." [YT:xByUlijpcnE@6:20:03](https://www.youtube.com/watch?v=xByUlijpcnE&t=22803s); "I just feel like there's got to be a compromise. There's got to be a better way." [YT:xByUlijpcnE@6:22:50](https://www.youtube.com/watch?v=xByUlijpcnE&t=22970s) | −1 | DLI hub objection; wants a compromise. |
+| 2026-10-20 | "I have a very hard time believing that we can pull this off. I'm not saying that we can't, I'm just saying like, I'm not sold." [YT:xByUlijpcnE@6:28:33](https://www.youtube.com/watch?v=xByUlijpcnE&t=23313s) | −1 | Not sold on A/B scale. |
+| 2026-10-20 | "I want to make it with this board. I am worried that we're not going to get there with the community by December 17th" [YT:xByUlijpcnE@6:29:13](https://www.youtube.com/watch?v=xByUlijpcnE&t=23353s); "Is there any flexibility? Maybe I'm not asking for an answer right now to give ourselves just a little breathing room." [YT:xByUlijpcnE@6:29:30](https://www.youtube.com/watch?v=xByUlijpcnE&t=23370s) | −1 | **New:** asks about moving the vote date; still wants action this school year. |
 
 **Context votes (not scored; not closure-specific):**
 - 2026-06-23: no on the $13.12M school-staffing restoration (failed 1–6); yes on the 2026-27 budget [BB:3998082 p.4–5](https://meetings.boardbook.org/Documents/DownloadPDF/3998082?org=915#page=4).
@@ -141,6 +151,7 @@ Scores answer the question: if the Dec 15 vote were held that day, how likely is
    - 4/28 *(medium)*: "I do not know how I feel about this." [YT:j9PzUvPpSVA@4:44:15](https://www.youtube.com/watch?v=j9PzUvPpSVA&t=17055s)
    - 10/6 *(medium)*: "why wasn't there an option that eliminated focus options since they're pulling from our neighborhood schools?" [YT:zOUH2Jq7Owo@3:53:41](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14021s)
    - Throughout, she wants ACCESS expanded, not shrunk [YT:AAWpafO4vvQ@1:48:21](https://www.youtube.com/watch?v=AAWpafO4vvQ&t=6501s) [YT:zOUH2Jq7Owo@4:05:08](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=14708s).
+- **Oct 20, 2026: toward delay.** On Sept 1 she was "wide open" on magnitude. On Oct 13 she objected to specific sites. On Oct 20 she said she is "not sold" and asked for "breathing room" on the December date [YT:xByUlijpcnE@6:28:41](https://www.youtube.com/watch?v=xByUlijpcnE&t=23321s) [YT:xByUlijpcnE@6:29:40](https://www.youtube.com/watch?v=xByUlijpcnE&t=23380s). Analysis: this is conditional on timing and DLI changes, not a rejection of consolidation; she still wants "to do something this school year".
 
 ## Fixations / recurring themes
 
@@ -240,3 +251,4 @@ Scores answer the question: if the Dec 15 vote were held that day, how likely is
   - whether Peninsula, Sabin or Irvington changed;
   - any Tubman/new-middle-school language.
 - **12/15 vote.** She is an amendment-writer: she moved the A–F amendment on 4/14 and the OIPA and bond-audit amendments in June and September. Expect her to move or second targeted amendments (Peninsula, Skyline, ACCESS) before the final vote. Whether they pass may decide her vote.
+- **Vote date.** Watch whether she (or Engelsman) moves to postpone the Dec 15 vote, or whether staff offer a phased timeline instead [YT:xByUlijpcnE@6:29:30](https://www.youtube.com/watch?v=xByUlijpcnE&t=23370s).

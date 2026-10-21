@@ -59,6 +59,8 @@ Evidence base: 108 transcript quotes in `quotes_all.jsonl` (65 high, 38 medium, 
 
 Analysis: Chase-Miller's support for consolidation has been steady since November 2025. Her emphasis moved from scope and speed (March 2026) to equity mechanics and family guarantees (May–Sept 2026). Her October remarks signal she expects the final package to differ from either scenario.
 
+**Oct 20, 2026 (work session): urgency.** Her strongest case yet for acting: "And if your school is doing okay and your kids are doing okay, then you can afford to wait. But my kids cannot wait." [YT:xByUlijpcnE@5:13:40](https://www.youtube.com/watch?v=xByUlijpcnE&t=18820s); "No one is coming to save us." [YT:xByUlijpcnE@5:15:43](https://www.youtube.com/watch?v=xByUlijpcnE&t=18943s)
+
 ## Voting record on key related votes
 
 | Date | Item | Result | Chase-Miller | Source |
@@ -139,6 +141,16 @@ Leadership: Vice-Chair from July 2026; she moved Res. 7307 and co-moved Res. 722
   _Context (from the quote record):_ open to amended scenarios
 - **2026-10-13** — "it's apparent what what Chavez will be getting out of this. Um, so what's in it for the folks who are going to be leaving their schools and moving into a new school? What is the gain for those folks?" [YT:As3VpeDGx70@1:09:39](https://www.youtube.com/watch?v=As3VpeDGx70&t=4179s) *(medium-confidence attribution)*  
   _Context (from the quote record):_ asks for benefit to displaced DLI families
+- **2026-10-20** — "The number of our focal students who do not currently attend fully resourced schools is shocking, but what's worse is what those numbers become if we do nothing." [YT:xByUlijpcnE@5:12:44](https://www.youtube.com/watch?v=xByUlijpcnE&t=18764s)  
+  _Context (from the quote record):_ status quo unacceptable
+- **2026-10-20** — "So you guys can sit here and talk about you don't like this plan, and it's too much, and it's too soon, and it's too fast. It is over[due] for so many of our kids." [YT:xByUlijpcnE@5:13:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=18806s)  
+  _Context (from the quote record):_ supports acting now
+- **2026-10-20** — "And if your school is doing okay and your kids are doing okay, then you can afford to wait. But my kids cannot wait." [YT:xByUlijpcnE@5:13:40](https://www.youtube.com/watch?v=xByUlijpcnE&t=18820s)  
+  _Context (from the quote record):_ opposes delay
+- **2026-10-20** — "The privilege in doing nothing is wild." [YT:xByUlijpcnE@5:14:08](https://www.youtube.com/watch?v=xByUlijpcnE&t=18848s)  
+  _Context (from the quote record):_ opposes status quo
+- **2026-10-20** — "No one is coming to save us. This is our moment to make a change for our kids." [YT:xByUlijpcnE@5:15:43](https://www.youtube.com/watch?v=xByUlijpcnE&t=18943s)  
+  _Context (from the quote record):_ supports acting now
 
 ## News-reported quotes (secondary)
 

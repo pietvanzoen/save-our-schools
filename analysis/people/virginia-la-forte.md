@@ -61,6 +61,8 @@ After the Oct 6 meeting KPTV reported she had not decided her position [NEWS:NEW
 
 Analysis: La Forte combines openness to large consolidation with the board's strictest procedural and fiscal conditions. Her vote on the December package likely depends on the November fiscal impact statement and on N/NE neighborhood coverage (Peninsula/Kenton).
 
+**Oct 20, 2026 (work session): not sold, asks for time.** "I have a very hard time believing that we can pull this off. I'm not saying that we can't, I'm just saying like, I'm not sold." [YT:xByUlijpcnE@6:28:33](https://www.youtube.com/watch?v=xByUlijpcnE&t=23313s) She asked whether the December date has "any flexibility" [YT:xByUlijpcnE@6:29:30](https://www.youtube.com/watch?v=xByUlijpcnE&t=23370s), while still wanting "to do something this school year" [YT:xByUlijpcnE@6:29:13](https://www.youtube.com/watch?v=xByUlijpcnE&t=23353s). She centred Spanish-speaking DLI families: "the whole plan hinges on the Spanish DLI programs" [YT:xByUlijpcnE@6:20:03](https://www.youtube.com/watch?v=xByUlijpcnE&t=22803s).
+
 ## Voting record on key related votes
 
 | Date | Item | Result | Forte | Source |
@@ -143,6 +145,16 @@ Codes: Y = yes, N = no, A = abstain, X = absent, U = not recorded in the archive
   _Context (from the quote record):_ opposes choosing closures for real-estate value
 - **2026-10-13** — "I went through this process as a kid in fifth grade where my K8 converted to a K5 and then I went to a middle and I so I saw this firsthand that this is this is real" [YT:As3VpeDGx70@1:43:05](https://www.youtube.com/watch?v=As3VpeDGx70&t=6185s)  
   _Context (from the quote record):_ supports 6-8 middle school model
+- **2026-10-20** — "I would love to not receive these presentations at 5 o'clock the night before a meeting." [YT:xByUlijpcnE@6:16:38](https://www.youtube.com/watch?v=xByUlijpcnE&t=22598s)  
+  _Context (from the quote record):_ process objection
+- **2026-10-20** — "it felt like a little cherry-picked to tell a story like that that is real." [YT:xByUlijpcnE@6:18:36](https://www.youtube.com/watch?v=xByUlijpcnE&t=22716s)  
+  _Context (from the quote record):_ questions data presentation
+- **2026-10-20** — "I think because the whole plan hinges on the Spanish DLI programs, like it basically is the anchor for moving everybody." [YT:xByUlijpcnE@6:20:03](https://www.youtube.com/watch?v=xByUlijpcnE&t=22803s)  
+  _Context (from the quote record):_ DLI hubs central concern
+- **2026-10-20** — "I don't think what we have is going to work for these families. I am wondering if there is some flexibility to possibly do different things in different regions." [YT:xByUlijpcnE@6:21:11](https://www.youtube.com/watch?v=xByUlijpcnE&t=22871s)  
+  _Context (from the quote record):_ wants regional flexibility
+- **2026-10-20** — "I just feel like there's got to be a compromise. There's got to be a better way." [YT:xByUlijpcnE@6:22:50](https://www.youtube.com/watch?v=xByUlijpcnE&t=22970s)  
+  _Context (from the quote record):_ wants compromise
 
 ## News-reported quotes (secondary)
 

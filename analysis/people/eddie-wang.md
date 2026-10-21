@@ -61,6 +61,8 @@ Evidence base: 136 transcript quotes in `quotes_all.jsonl` (100 high, 35 medium,
 
 Analysis: Wang's direction has been stable since mid-2025 (pro-consolidation, districtwide, staff-led). The only notable movement is on focus options (from critic toward "policy solution") and on high-school capacity (Feb 2025).
 
+**Oct 20, 2026 (work session): leans A.** He relayed parents who "would prefer Scenario A over Scenario B" so they are not "back at this again" [YT:xByUlijpcnE@5:30:18](https://www.youtube.com/watch?v=xByUlijpcnE&t=19818s), and named underserved students in well-enrolled schools as his "bottom line" [YT:xByUlijpcnE@5:31:21](https://www.youtube.com/watch?v=xByUlijpcnE&t=19881s).
+
 ## Voting record on key related votes
 
 | Date | Item | Result | Wang | Source |
@@ -155,6 +157,16 @@ Leadership: elected/re-elected Chair Jan 2025, Jul 2025, Jan 2026, Jul 2026 (see
   _Context (from the quote record):_ admits board lacks requested impact data
 - **2026-10-13** — "that number was dropped to 14 because the thinking was that we would need to keep more resources to help those transitions and that's going to be expensive." [YT:kdPfX6KH05c@0:48:45](https://www.youtube.com/watch?v=kdPfX6KH05c&t=2925s)  
   _Context (from the quote record):_ transition capacity limited the number of closures
+- **2026-10-20** — "I think that the bottom line for me is just the number of historically underserved students that are going to be in a well-enrolled school, and, and that I don't want to see that go down." [YT:xByUlijpcnE@5:31:21](https://www.youtube.com/watch?v=xByUlijpcnE&t=19881s)  
+  _Context (from the quote record):_ supports scenarios on equity metric
+- **2026-10-20** — "they would prefer Scenario A over Scenario B because if Scenario B wasn't big enough, they're afraid they're just gonna be back at this again" [YT:xByUlijpcnE@5:30:18](https://www.youtube.com/watch?v=xByUlijpcnE&t=19818s)  
+  _Context (from the quote record):_ leans Scenario A
+- **2026-10-20** — "PPS is an entire system and we need to think systemically." [YT:xByUlijpcnE@5:29:27](https://www.youtube.com/watch?v=xByUlijpcnE&t=19767s)  
+  _Context (from the quote record):_ system-wide scope
+- **2026-10-20** — "I was one of the parents who signed on the opposition letter to [SEGC] because it was something that just did too little, period." [YT:xByUlijpcnE@5:29:53](https://www.youtube.com/watch?v=xByUlijpcnE&t=19793s)  
+  _Context (from the quote record):_ prefers one large change
+- **2026-10-20** — "when, especially when one side or the other starts becoming dangerously under-enrolled or under-enrolled, often there's competing of resources." [YT:xByUlijpcnE@5:28:47](https://www.youtube.com/watch?v=xByUlijpcnE&t=19727s)  
+  _Context (from the quote record):_ supports whole-school DLI
 
 ## News-reported quotes (secondary; from `_quotes_from_news.jsonl`)
 
