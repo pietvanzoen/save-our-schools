@@ -374,7 +374,7 @@ start,end,seconds,speaker,role,confidence,evidence,vendor_tag,vendor_turns
 4:26:38,4:26:45,15998,Stephanie Engelsman,Board member,high,vendor tag 'Stephanie Engelsmen' in this part of the meeting,Stephanie Engelsmen,471
 4:26:45,4:27:16,16005,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,472
 4:27:16,4:27:38,16036,Kimberlee Armstrong,Superintendent,high,vendor tag 'Kimberlee Armstrong' in this part of the meeting,Kimberlee Armstrong,473
-4:27:41,4:34:04,16061,Richard Smith,"Senior Director, Data & Accountability",medium,vendor tag 'C' in this part of the meeting,C,474 475 476 477 478 479
+4:27:41,4:34:04,16061,Richard Smith,"Senior Director, Data & Accountability",high,data presenter (introduced by Franco at 3:54:50; hands back to Margaret Calvert at 4:34:02); merged with a mis-tagged 'Next slide.',C,474 475 476 477 478 479
 4:34:06,4:34:52,16446,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,480
 4:34:56,4:35:17,16496,Margaret Calvert,"Executive Director, School Planning & Modernization",high,vendor tag 'N' in this part of the meeting,N,481
 4:35:17,4:35:18,16517,Unidentified,Speaker not identifiable from the recording,low,"echoes '8,000 students' from the dais",Stephanie Engelsmen,482

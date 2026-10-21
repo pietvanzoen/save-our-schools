@@ -67,14 +67,14 @@
 | Consent agenda: Res. 7388 (expenditure contracts), 7389 (revenue contracts), 7391 (minutes), with 7390 pulled at La Forte's request | Sullivan moved, Engelsman seconded | Approved 7–0 ("as amended") | [YT:xByUlijpcnE@6:46:24](https://www.youtube.com/watch?v=xByUlijpcnE&t=24384s) [YT:xByUlijpcnE@6:46:58](https://www.youtube.com/watch?v=xByUlijpcnE&t=24418s) [YT:xByUlijpcnE@6:51:11](https://www.youtube.com/watch?v=xByUlijpcnE&t=24671s) |
 | Res. 7390: exemption from competitive bidding; RFPs for the 2027 seismic projects | DePass moved, La Forte seconded | Approved 7–0 | [YT:xByUlijpcnE@6:51:11](https://www.youtube.com/watch?v=xByUlijpcnE&t=24671s) [YT:xByUlijpcnE@6:56:08](https://www.youtube.com/watch?v=xByUlijpcnE&t=24968s) |
 
-- **Res. 7390 discussion.** La Forte asked why these projects use RFPs instead of low bid. Staff said the deeper Holmes-report seismic work is more complex and must fit "very short summers", and that each project gets its own RFP [YT:xByUlijpcnE@6:51:39](https://www.youtube.com/watch?v=xByUlijpcnE&t=24699s). The five projects are Beverly Cleary–Fernwood, Capitol Hill, Richmond, Ainsworth and Kelly, none of which closes under A or B [BB:14549641 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14549641?org=915#page=2).
+- **Res. 7390 discussion.** La Forte asked why these projects use RFPs instead of low bid. Staff said the deeper Holmes-report seismic work is more complex and must fit "very short summers" [YT:xByUlijpcnE@6:52:26](https://www.youtube.com/watch?v=xByUlijpcnE&t=24746s), and that each project gets its own RFP [YT:xByUlijpcnE@6:54:47](https://www.youtube.com/watch?v=xByUlijpcnE&t=24887s). The five projects are Beverly Cleary–Fernwood, Capitol Hill, Richmond, Ainsworth and Kelly, none of which closes under A or B [BB:14549641 p.2](https://meetings.boardbook.org/Documents/DownloadPDF/14549641?org=915#page=2).
 - Analysis: the 7–0 consent vote does not bear on closures.
 
 ## Rightsizing / closures
 
 ### Superintendent's report (1:06:47–1:17:09)
 - **Enrollment.** Actual daily membership is projected to fall from about 42,312 to 41,164 in 2027-28 [YT:xByUlijpcnE@1:08:54](https://www.youtube.com/watch?v=xByUlijpcnE&t=4134s). Weighted ADM falls from 51,312 to 49,793 [YT:xByUlijpcnE@1:09:20](https://www.youtube.com/watch?v=xByUlijpcnE&t=4160s). PPS enrollment is down about 9.5% since 2020, against 6% statewide [YT:xByUlijpcnE@1:10:53](https://www.youtube.com/watch?v=xByUlijpcnE&t=4253s).
-- **The budget is a separate process.** "our budget reduction processing and our process and our rightsizing process are connected, but they are not the same process." The first model cuts about 8.1% across areas [YT:xByUlijpcnE@1:12:50](https://www.youtube.com/watch?v=xByUlijpcnE&t=4370s). The highlighted model takes more from operations ($13.5M) and central office ($9.6M) [YT:xByUlijpcnE@1:13:21](https://www.youtube.com/watch?v=xByUlijpcnE&t=4401s).
+- **The budget is a separate process.** "our budget reduction processing and our process and our rightsizing process are connected, but they are not the same process." [YT:xByUlijpcnE@1:11:16](https://www.youtube.com/watch?v=xByUlijpcnE&t=4276s) The first model cuts about 8.1% across areas [YT:xByUlijpcnE@1:12:50](https://www.youtube.com/watch?v=xByUlijpcnE&t=4370s). The highlighted model takes more from operations ($13.5M) and central office ($9.6M) [YT:xByUlijpcnE@1:13:21](https://www.youtube.com/watch?v=xByUlijpcnE&t=4401s).
 - **Her key line:** "So maintaining every building does not mean protecting every classroom." [YT:xByUlijpcnE@1:15:56](https://www.youtube.com/watch?v=xByUlijpcnE&t=4556s)
 - **Later in the evening:**
   - "This coming year is the biggest gap that we will see" [YT:xByUlijpcnE@6:04:56](https://www.youtube.com/watch?v=xByUlijpcnE&t=21896s);
@@ -204,7 +204,7 @@
 - **Closure savings:** A about $14M (about 97 FTE); B about $11M (about 76 FTE) [YT:xByUlijpcnE@1:14:59](https://www.youtube.com/watch?v=xByUlijpcnE&t=4499s) [YT:xByUlijpcnE@1:15:20](https://www.youtube.com/watch?v=xByUlijpcnE&t=4520s).
 - **ADMr:** 42,312 → 41,164; weighted ADM 51,312 → 49,793 [YT:xByUlijpcnE@1:08:54](https://www.youtube.com/watch?v=xByUlijpcnE&t=4134s).
 - **Attrition:** extended ADMw gives PPS "a little bit of a runway" on enrollment loss after closures [YT:xByUlijpcnE@5:18:19](https://www.youtube.com/watch?v=xByUlijpcnE&t=19099s).
-- **PERS and the deficit:** Armstrong says the deficit after 2027-28 should be from enrollment decline and "balanced out with attrition" [YT:xByUlijpcnE@6:04:56](https://www.youtube.com/watch?v=xByUlijpcnE&t=21896s).
+- **PERS and the deficit:** Armstrong says the deficit after 2027-28 should be from enrollment decline and "balanced out with attrition" [YT:xByUlijpcnE@6:05:19](https://www.youtube.com/watch?v=xByUlijpcnE&t=21919s).
 - Analysis: the 223/97/76 FTE figures are new. They are not in BoardBook doc 14576326, so check them against the Nov 17 fiscal impact statement.
 
 ## Public comment themes
