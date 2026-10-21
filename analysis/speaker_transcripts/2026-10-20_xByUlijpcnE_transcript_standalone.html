@@ -82,7 +82,10 @@ nav.rail a.k .tc { color: var(--key); }
 .seghead:first-child { margin-top: 0; }
 .seghead h3 { margin: 0; font-size: 17px; }
 .seghead .tc { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
-.turn { display: grid; grid-template-columns: 78px minmax(0, 1fr); gap: 4px 14px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.turn { display: grid; grid-template-columns: 78px minmax(0, 1fr); gap: 4px 14px; padding: 12px 0; border-bottom: 1px solid var(--line); scroll-margin-top: var(--bar-h, 140px); }
+.seghead { scroll-margin-top: var(--bar-h, 140px); }
+.turn.flash { outline: 2px solid var(--key); outline-offset: 4px; border-radius: 4px; }
+.turn:focus { outline: none; }
 .turn .tc { font-family: var(--font-mono); font-size: 12.5px; padding-top: 2px; }
 .turn .tc a { text-decoration: none; }
 .turn .tc a:hover { text-decoration: underline; }
@@ -285,13 +288,19 @@ footer .wrap { display: grid; gap: 6px; max-width: 1200px; }
     e.preventDefault();
     const r = rows[+a.dataset.jump];
     if (r.el.hidden) document.getElementById('reset').click();
-    r.el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -110);
+    const reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    r.el.scrollIntoView({ block: 'start', behavior: reduce ? 'auto' : 'smooth' });
+    r.el.tabIndex = -1; r.el.focus({ preventScroll: true });
+    r.el.classList.add('flash'); setTimeout(() => r.el.classList.remove('flash'), 1600);
   }));
   try {
     const s = JSON.parse(localStorage.getItem('oct20-filters') || 'null');
     if (s) { who.value = s.w || ''; seg.value = s.sg || ''; sch.value = s.sc || ''; keyonly.checked = !!s.k; hideminor.checked = s.m !== false;
       (s.t || []).forEach(t => { activeTags.add(t); const c = chips.querySelector(`[data-tag="${t}"]`); if (c) c.setAttribute('aria-pressed', 'true'); }); }
   } catch (e) {}
+  const bar = document.querySelector('.bar');
+  const setBarH = () => { const sticky = getComputedStyle(bar).position === 'sticky'; document.documentElement.style.setProperty('--bar-h', (sticky ? bar.offsetHeight + 16 : 16) + 'px'); };
+  setBarH(); window.addEventListener('resize', setBarH);
   apply();
   const h = location.hash.slice(1); if (/^t\d+$/.test(h)) { const el = document.getElementById(h); if (el) { el.hidden = false; el.scrollIntoView(); } }
 })();
