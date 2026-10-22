@@ -1,0 +1,77 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Hayhurst to Rieke shift area (Scenarios A and B)",
+    "description": "Hayhurst's southeast panhandle moved to Rieke in Scenarios A/B: SW Vermont St / SW Capitol Hwy (north), SW 25th Ave (east), SW Capitol Hwy (west), SW Troy St (south). Matches the status-quo vs A/B maps in sources/pps_net/rightsizing/school_impact/hayhurst.pdf p.4 and rieke.pdf p.4.",
+    "method": "Vertices taken from Portland Maps street centerlines (Public/Street_Centerlines layer 0) for SW Capitol Hwy, SW Vermont St, SW Troy St and SW 25th Ave; SW Capitol Hwy runs on the Vermont alignment between SW 25th and ~SW 29th. Drawn 2026-10-22.",
+    "crs": "WGS84 lon/lat"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.70253,
+       45.4761
+      ],
+      [
+       -122.70645,
+       45.47608
+      ],
+      [
+       -122.70772,
+       45.47527
+      ],
+      [
+       -122.70771,
+       45.4707
+      ],
+      [
+       -122.70788,
+       45.46978
+      ],
+      [
+       -122.70814,
+       45.46953
+      ],
+      [
+       -122.70857,
+       45.46922
+      ],
+      [
+       -122.70903,
+       45.46891
+      ],
+      [
+       -122.70928,
+       45.46879
+      ],
+      [
+       -122.71026,
+       45.46859
+      ],
+      [
+       -122.71164,
+       45.46843
+      ],
+      [
+       -122.71264,
+       45.46823
+      ],
+      [
+       -122.70256,
+       45.46829
+      ],
+      [
+       -122.70253,
+       45.4761
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

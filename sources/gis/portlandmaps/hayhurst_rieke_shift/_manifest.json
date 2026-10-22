@@ -1,0 +1,40 @@
+[
+ {
+  "path": "gis/portlandmaps/hayhurst_rieke_shift/taxlots.json",
+  "url": "https://www.portlandmaps.com/arcgis/rest/services/Public/Taxlots/MapServer/0/query",
+  "method": "POST",
+  "params": {
+   "where": "1=1",
+   "geometryType": "esriGeometryPolygon",
+   "inSR": "4326",
+   "spatialRel": "esriSpatialRelIntersects",
+   "outFields": "STATE_ID,RNO,PROPERTYID,OWNER1,SITEADDR,PROP_CODE,PRPCD_DESC,LANDUSE,YEARBUILT,BLDGSQFT,BEDROOMS,FLOORS,UNITS,A_T_ACRES",
+   "returnGeometry": "true",
+   "outSR": "4326",
+   "f": "json"
+  },
+  "geometry": "rings of analysis/data/hayhurst_to_rieke_shift_area.geojson (WGS84)",
+  "features": 347,
+  "fetched_at": "2026-10-22T17:02:35+00:00",
+  "sha256": "986d1322cd11d0d93c6ccc583597aa9102e842ef2558d7346be14bb21fffffd7"
+ },
+ {
+  "path": "gis/portlandmaps/hayhurst_rieke_shift/addresses.json",
+  "url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Address/MapServer/0/query",
+  "method": "POST",
+  "params": {
+   "where": "1=1",
+   "geometryType": "esriGeometryPolygon",
+   "inSR": "4326",
+   "spatialRel": "esriSpatialRelIntersects",
+   "outFields": "ADDRESS_FULL,ADDRESS_NUMBER,STREETNAME,UNIT,UNIT_TYPE,ADDR_TYPE,STATUS,TAXLOT_R_NUMBER,BLDG_ID,ADD_DATE",
+   "returnGeometry": "false",
+   "outSR": "4326",
+   "f": "json"
+  },
+  "geometry": "rings of analysis/data/hayhurst_to_rieke_shift_area.geojson (WGS84)",
+  "features": 644,
+  "fetched_at": "2026-10-22T17:02:35+00:00",
+  "sha256": "40cf840ebdec822f8b44b997d6f48ce62d768dada5fa927e04170f37a3e7c0e7"
+ }
+]

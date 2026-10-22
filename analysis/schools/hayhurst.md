@@ -68,5 +68,6 @@ Mentions in meeting notes (`analysis/meetings/`, 2026; 1 of 1 shown; citations a
 - 2025-05-10 Willamette Week: "Here Are the 19 PPS Elementary and Middle Schools in Unreinforced Masonry Buildings" [NEWS:NEWS-20250510-wweek-1] — WW lists the 19 PPS elementary and middle school facilities with unreinforced masonry, using the 2024 Holmes assessment, with URM-only retrofit estimates. The board's May 6, 2025 resolution allowed $100 million of bond funds for imminent-risk projects. A May 3 district memo put URM-only retrofits at…
 
 ## Discrepancies and notes
+- Hayhurst → Rieke shift: the moved area (SW Vermont/Capitol Hwy–25th–Troy) holds ≈585–655 homes incl. Stephens Creek Crossing and an estimated 50–90 current Hayhurst K-5 students; see `../topics/hayhurst_to_rieke_boundary_shift.md`
 - D25: Facts the PDFs add that are not in rightsizing.md (see `_discrepancies.md`)
 - C16: rightsizing_scenarios.csv corrected (A and B): Adds the Hayhurst-to-Rieke boundary adjustment (see `_discrepancies.md`)
