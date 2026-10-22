@@ -9,8 +9,9 @@ Data:
 **Bottom line (Analysis).**
 - About 123 Odyssey students live in Southwest neighborhoods whose drive gets longer under the move. These are Bridlemile, Hayhurst, Maplewood, Rieke and Forest Park (K-5), plus Gray and West Sylvan (6-8).
 - The drive roughly doubles for Hayhurst (3.8 → 7.5 mi) and Maplewood (4.0 → 7.8 mi).
-- **Neighborhood schools.** A distance model puts the number of SW elementary students who would shift back to neighborhood schools at about 17 (range 7–33), net of small gains for Markham and Capitol Hill.
-- **Hayhurst.** If Maplewood closes, about 11 (5–23) of these would land at Hayhurst.
+- **Assumption.** Half of Odyssey families leave when their drive doubles, with smaller losses where the drive grows less (method below).
+- **Neighborhood schools.** About **24** SW elementary students (range 17–33) shift back to neighborhood schools, net of small gains for Markham and Capitol Hill. About 15 middle schoolers (11–21) return to Gray and West Sylvan.
+- **Hayhurst.** If Maplewood closes, about **16** (11–23) of these would land at Hayhurst.
 - **What PPS assumes.** PPS projects Odyssey's enrollment as flat after the move (220 → 224), which implies no families leave because of it [PPS:pps_net/rightsizing/school_impact/odyssey.pdf p.4](https://drive.google.com/open?id=1cUaUTKyIFWmWzTghepiA3Ib6rEdVJIx0&usp=drive_copy).
 
 ## What PPS proposes
@@ -45,16 +46,21 @@ Analysis:
 ## Method (Analysis)
 - **Drive distances.** These come from the OSRM routing service on OpenStreetMap, run 2026-10-22. They go from each neighborhood school's address (a proxy for the neighborhood) to each site.
 - **Times are free-flow.** Peak-hour trips into NW Portland via US-26 and I-405 will take longer.
-- **Model.** A negative-binomial regression of Odyssey students on log drive distance, with log residents as offset, fitted to all 2024 and 2025 neighborhoods.
-- **Elasticity range used:**
+- **Distance response.** Each neighborhood's Odyssey count after the move is today's count × (MLC distance / East Sylvan distance)^b.
+  - **Central case: b ≈ −1.03.** This is set so that half of Hayhurst and Maplewood Odyssey families leave when their drive roughly doubles (ratio ≈ 1.95). The same b applies to every neighborhood, so a smaller increase means a smaller loss.
+  - The fitted models bracket it.
 
-  | Case | Elasticity | Model behind it |
-  |---|---|---|
-  | Low | −0.23 | west-side neighborhoods only (not significant) |
-  | Central | −0.65 (SE 0.25) | all neighborhoods, with a west-side indicator |
-  | High | −1.87 | all neighborhoods, no indicator (overstates, because it mixes in the east/west difference) |
+  | Case | b | Hayhurst and Maplewood families leaving | Model behind it |
+  |---|---|---|---|
+  | Low | −0.65 (SE 0.25) | ~35% | Negative-binomial regression of Odyssey students on log drive distance, with log residents as offset and a west-side indicator, fitted to all 2024 and 2025 neighborhoods |
+  | Central | −1.03 | 50% | Assumption: half leave when the drive doubles |
+  | High | −1.87 | ~70% | Same regression without the west-side indicator. It overstates, because it mixes in the east/west difference |
 
-- **Projection.** Each neighborhood's expected Odyssey count after the move is today's count × (MLC distance / East Sylvan distance)^elasticity.
+  - A west-side-only fit gives a weaker, non-significant effect (b ≈ −0.23). As noted above, distance alone explains little within the west side.
+- **Why 50%.** Three things push toward a larger response than the low case:
+  - free-flow times understate peak-hour trips across downtown to NW Glisan;
+  - the move itself is a natural point for families to reconsider;
+  - neighborhoods more than 6 miles from Odyssey today send about 0.25% of their students, against about 6–7% from Hayhurst and Maplewood.
 - **Where leavers go.** Leavers return to their neighborhood school at the rate that neighborhood's other PPS students attend it, which is 75–91%. The rest are assumed to go elsewhere, including other options or leaving PPS.
 - **Not modeled:**
   - current Odyssey families who stay through 8th grade, which spreads the change over several years;
@@ -64,31 +70,16 @@ Analysis:
 
 | Neighborhood | Odyssey (Oct 2025) | Drive to East Sylvan → MLC | Leave Odyssey | Back to neighborhood school |
 |---|---|---|---|---|
-| Hayhurst (K-5) | 26 | 3.8 → 7.5 mi (10 → 17 min) | 9 (4–19) | 7 (3–15) |
-| Maplewood (K-5) | 18 | 4.0 → 7.8 mi (11 → 16 min) | 6 (3–13) | 6 (2–11) |
-| Bridlemile (K-5) | 24 | 2.9 → 4.1 mi (8 → 14 min) | 5 (2–11) | 4 (2–10) |
-| Rieke (K-5) | 13 | 5.1 → 6.3 mi | 2 (1–4) | 1.5 (0.5–4) |
-| Forest Park (K-5) | 6 | 4.2 → 6.3 mi | 1 (0.5–3) | 1 (0.5–3) |
-| Markham (K-5) | 24 | 9.4 → 7.9 mi | −3 (gain) | −2 |
+| Hayhurst (K-5) | 26 | 3.8 → 7.5 mi (10 → 17 min) | 13 (9–19) | 10.5 (7–15) |
+| Maplewood (K-5) | 18 | 4.0 → 7.8 mi (11 → 16 min) | 9 (6–13) | 8 (5.5–11) |
+| Bridlemile (K-5) | 24 | 2.9 → 4.1 mi (8 → 14 min) | 7 (5–11) | 6 (4–10) |
+| Rieke (K-5) | 13 | 5.1 → 6.3 mi | 2.5 (2–4) | 2 (1.5–3.5) |
+| Forest Park (K-5) | 6 | 4.2 → 6.3 mi | 2 (1.5–3) | 2 (1–3) |
+| Markham (K-5) | 24 | 9.4 → 7.9 mi | −5 (gain) | −3.5 |
 | Capitol Hill (K-5) | 6 | 8.2 → 6.7 mi | −1 (gain) | −1 |
-| West Sylvan (6-8) | 17 | 1.7 → 5.3 mi | 9 (4–15) | 8 (3–13) |
-| Gray (6-8) | 19 | 4.7 → 6.7 mi | 4 (2–9) | 3 (1–8) |
-| Jackson (6-8) | 35 | 9.7 → 8.2 mi | −4 (gain) | −4 |
+| **SW K-5, net** | | | | **24 (17–33)** |
+| West Sylvan (6-8) | 17 | 1.7 → 5.3 mi | 12 (9–15) | 10 (8–13) |
+| Gray (6-8) | 19 | 4.7 → 6.7 mi | 6 (4–9) | 5 (3–8) |
+| Jackson (6-8) | 35 | 9.7 → 8.2 mi | −7 (gain) | −6 |
 
-**If Maplewood closes,** its returning students split between Hayhurst (70%) and Rieke (30%). That puts about 11 (5–23) at Hayhurst. None of this is in Hayhurst's projection of 472 for 2027-28 [PPS:pps_net/rightsizing/school_impact/hayhurst.pdf p.4](https://drive.google.com/open?id=1BwsMTqcVksEx0je_XtPcti9pgFLBE_TP&usp=drive_copy).
-
-## Alternative used in the Maplewood email: half of families leave when the drive doubles (Analysis)
-This scenario sets the elasticity so that 50% of Hayhurst and Maplewood Odyssey families leave: (7.5/3.8 ≈ 7.8/4.0 ≈ 1.95)^b = 0.5, which gives b ≈ −1.03. The same b is then applied to every neighborhood.
-
-| Neighborhood | Leave Odyssey | Back to neighborhood school |
-|---|---|---|
-| Hayhurst | 13.1 | 10.5 |
-| Maplewood | 8.9 | 7.8 |
-| Bridlemile | 7.2 | 6.3 |
-| Rieke | 2.5 | 2.2 |
-| Forest Park | 2.0 | 1.8 |
-| Markham / Capitol Hill / Stephenson (closer) | −6.3 | −4.7 |
-| **SW K-5, net** | | **≈ 24** |
-| Gray + West Sylvan (6-8) | 17.5 | 15.1 |
-
-**Hayhurst, if Maplewood closes:** 10.5 + 70% × 7.8 ≈ **16**.
+**If Maplewood closes,** its returning students split between Hayhurst (70%) and Rieke (30%). That puts about **16 (11–23)** at Hayhurst: 10.5 + 70% × 7.8. None of this is in Hayhurst's projection of 472 for 2027-28 [PPS:pps_net/rightsizing/school_impact/hayhurst.pdf p.4](https://drive.google.com/open?id=1BwsMTqcVksEx0je_XtPcti9pgFLBE_TP&usp=drive_copy).
