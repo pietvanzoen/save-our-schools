@@ -88,6 +88,12 @@ Analysis: how the letter's figures compare with the archive.
 - **$1.5M seismic.** This matches KGW's report of about $1.5M of roof-level seismic work at Maplewood [NEWS:NEWS-20261009-kgw-1](https://www.kgw.com/article/news/education/18-million-spent-upgrading-portland-schools-that-could-now-close/283-72bc82cb-b20b-4c76-935a-a31c6af11f03). The 2024 Holmes assessment lists "2015 roof-only seismic upgrades" [BB:3991109 p.108](https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=108). Maplewood's highest building-part risk score is 7.5 [BB:3991109 p.221](https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=221).
 - **"Major structural seismic improvements are complete… gym and cafeteria."** In the archived bond pages, this September 2026 wording is the update for **Vernon**, not Maplewood [PPS:sources/bond/pages/seismic_improvements.html](https://bond.pps.net/seismic-improvements). The letter may have mixed up the two schools.
 - **"Second-lowest outstanding retrofit cost."** In the Holmes cost summary, Maplewood's estimated complete retrofit is $3,435,000. Eight other sites on that table are lower, though some are not elementary or K-8 schools [BB:3991109 p.13](https://meetings.boardbook.org/Documents/DownloadPDF/3991109?org=915#page=13). The archive has no other ranking of 48 schools, so this claim cannot be confirmed from what is here.
+- **Housing check (2026-10-22).** City of Portland permits within 1 mile of Maplewood, issued Jan 2022 to Oct 2, 2026, add up to **269 new units**:
+  - 136 units from residential permits: 84 single-family, 31 townhouse, 15 ADUs, 6 duplex;
+  - 133 units from two apartment permits: 121 units at 4525 SW California St (2022) and 12 at 7921 SW Old Capitol Hwy (2023).
+  - Through 2025 the total is 239. Excluding ADUs it is 254.
+  - Analysis: this broadly supports Rep. Grayber's figure of 246. It covers City permits only, and Raleigh Crest's homes are not yet permitted, so they are not included.
+  - Source: `sources/gis/portlandmaps/maplewood_1mi_permits/`.
 - **Housing.** At the Oct 6 meeting, staff said Rieke rises to 311 "thanks to some housing that's being developed" [YT:zOUH2Jq7Owo@2:22:55](https://www.youtube.com/watch?v=zOUH2Jq7Owo&t=8575s). The "net gain of 12 students" figure for Raleigh Crest does not appear in the archive.
 
 ## News

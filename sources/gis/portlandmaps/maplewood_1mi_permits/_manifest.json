@@ -1,0 +1,23 @@
+{
+ "note": "City of Portland BDS new-construction permits issued 2022-01-01 to 2026-10-22 within 1 mile (1609.34 m) of Maplewood Elementary (7452 SW 52nd Ave; point -122.7298675, 45.4714989 from OpenStreetMap Nominatim). Queried 2026-10-22 from the repository owner's linked computer. City of Portland permits only: any part of the circle in Washington County is not covered.",
+ "files": [
+  {
+   "file": "sources/gis/portlandmaps/maplewood_1mi_permits/residential_permits_since_2022.json",
+   "url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit_Residential_Construction/MapServer/15/query",
+   "layer": "Public/BDS_Permit_Residential_Construction/MapServer/15 (2005-Current Residential Construction Permit)",
+   "query": "where=ISSUED >= DATE '2022-01-01'; geometry=point; distance=1609.34 m; outFields=*",
+   "fetched_at": "2026-10-22",
+   "sha256": "c27aa92cc878ab995650d8c51290f5d462c72a19007767ede98c01b07e61eb65",
+   "records": 135
+  },
+  {
+   "file": "sources/gis/portlandmaps/maplewood_1mi_permits/commercial_permits_since_2022.json",
+   "url": "https://www.portlandmaps.com/arcgis/rest/services/Public/BDS_Permit_Commercial_Construction/MapServer/15/query",
+   "layer": "Public/BDS_Permit_Commercial_Construction/MapServer/15 (2005-Current Commercial Construction Permit)",
+   "query": "where=ISSUED >= DATE '2022-01-01'; geometry=point; distance=1609.34 m; outFields=*",
+   "fetched_at": "2026-10-22",
+   "sha256": "781293f170ad07d9f6c37e559c119fb7b41952907604c8d22ef4d303267d41f2",
+   "records": 4
+  }
+ ]
+}
