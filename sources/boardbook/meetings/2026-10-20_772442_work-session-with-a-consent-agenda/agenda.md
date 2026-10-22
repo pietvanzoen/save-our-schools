@@ -31,9 +31,11 @@ Attachments:
 7. 8:30 pm - Division 22 Annual Report
 Attachments:
 (
-1
+3
 )
-2025-26 Division 22 Assurances Report
+2025-26 Division 22 Assurances Report FINAL
+2025-26 Required Instructional Time and Exemption Board Report
+PPS 2025-26 Compliance Report - Oregon Public School Standards
 8. 9:00 pm - Consent Agenda: Resolutions 7388 through 7391
 Vote- Public Comment Accepted
 8.(a) Resolution 7388 - Expenditure Contracts
@@ -64,5 +66,6 @@ Attachments:
 Resolution 7391 - Adoption of the Minutes
 9. 9:05 pm - Other Business, Committee Referrals, and Future Agenda Items
 10. 9:10 pm - Adjourn
+11. Superintendent's Report
 Web Viewer
 << Back to the Public Page for Portland Public Schools

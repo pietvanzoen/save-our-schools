@@ -58,6 +58,8 @@ Analysis: Splitt's general support for consolidation is constant from June 2025.
 
 **Oct 20, 2026 (work session): from objecting to proposing.** She presented her own alternative: close or merge the 6 smallest buildings, drawn from the 13 schools forecast under 250 students; keep the 6-8 consolidation; let Sunnyside and Bridger middle-grade students stay together; and treat it as "a beginning of a phased approach" [YT:xByUlijpcnE@5:01:46](https://www.youtube.com/watch?v=xByUlijpcnE&t=18106s). She said only opposing the count would have been "like a dereliction of duty" [YT:xByUlijpcnE@5:03:39](https://www.youtube.com/watch?v=xByUlijpcnE&t=18219s).
 
+**Oct 20, 2026 (Oregonian): the six schools.** Her memo, shared with The Oregonian, names the six closures: Creston, Buckman, Woodmere, Sabin, Irvington and Peninsula. Creston would merge with Arleta (not Atkinson), part of Sabin would go to Vernon, part of Woodmere to Lewis, Spanish DLI would stay co-located pending a districtwide committee, and Southwest would get a boundary process among eight elementaries instead of closing Stephenson or Maplewood [NEWS:NEWS-20261020-oregonian-1](https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html).
+
 ## Voting record on key related votes
 
 | Date | Item | Result | Splitt | Source |

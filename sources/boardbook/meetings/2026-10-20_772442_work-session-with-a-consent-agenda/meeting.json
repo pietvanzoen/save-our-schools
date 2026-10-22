@@ -6,7 +6,9 @@
  "meeting_type": "Working",
  "location": "Benson High School",
  "cancelled": false,
- "videos": [],
+ "videos": [
+  "https://www.youtube.com/watch?v=SHPKPJyRfX0"
+ ],
  "agenda_url": "https://meetings.boardbook.org/Public/Agenda/915?meeting=772442",
  "minutes_url": null,
  "supplementals_url": "https://meetings.boardbook.org/Meeting/Supplementals/915?meeting=772442",
@@ -75,10 +77,22 @@
    "description": "",
    "attachments": [
     {
-     "document_id": "14549577",
-     "name": "2025-26 Division 22 Assurances Report",
-     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14549577",
-     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14549577?org=915"
+     "document_id": "14581091",
+     "name": "2025-26 Division 22 Assurances Report FINAL",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14581091",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14581091?org=915"
+    },
+    {
+     "document_id": "14580600",
+     "name": "2025-26 Required Instructional Time and Exemption Board Report",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14580600",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14580600?org=915"
+    },
+    {
+     "document_id": "14581086",
+     "name": "PPS 2025-26 Compliance Report - Oregon Public School Standards",
+     "viewer_url": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/915?file=14581086",
+     "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14581086?org=915"
     }
    ]
   },
@@ -170,9 +184,22 @@
    "depth": 0,
    "description": "",
    "attachments": []
+  },
+  {
+   "agenda_item_id": "19000033",
+   "title": "11. Superintendent's Report",
+   "depth": 0,
+   "description": "",
+   "attachments": []
   }
  ],
- "supplementals_files": [],
+ "supplementals_files": [
+  {
+   "document_id": "14580488",
+   "name": "26-10-19 Q&A Document (1)",
+   "download_url": "https://meetings.boardbook.org/Documents/DownloadPDF/14580488?org=915"
+  }
+ ],
  "public_notice_files": [],
  "public_notice_document_id": "14565115",
  "public_notice_pdf": "sources/boardbook/meetings/2026-10-20_772442_work-session-with-a-consent-agenda/public_notice_14565115.pdf",
