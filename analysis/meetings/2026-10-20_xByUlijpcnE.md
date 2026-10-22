@@ -206,6 +206,11 @@
 - **Attrition:** extended ADMw gives PPS "a little bit of a runway" on enrollment loss after closures [YT:xByUlijpcnE@5:18:19](https://www.youtube.com/watch?v=xByUlijpcnE&t=19099s).
 - **PERS and the deficit:** Armstrong says the deficit after 2027-28 should be from enrollment decline and "balanced out with attrition" [YT:xByUlijpcnE@6:05:19](https://www.youtube.com/watch?v=xByUlijpcnE&t=21919s).
 - Analysis: the 223/97/76 FTE figures are new. They are not in BoardBook doc 14576326, so check them against the Nov 17 fiscal impact statement.
+- **Oregonian report (Oct 21)** [NEWS:NEWS-20261021-oregonian-1](https://www.oregonlive.com/education/2026/10/closing-schools-could-save-about-1-million-per-building-portland-public-schools-superintendent-says.html): the paper adds figures that are not spoken on the recording (likely from Armstrong's slides):
+  - with no closures, about $32M of the $65M falls on school staff;
+  - even under Scenario A, about $18M in school-building cuts remain, roughly 126 fewer FTE, plus about $32M from central office, operations and special programs.
+  - Analysis: these match the spoken figures: $32M − $14M = $18M, and 223 − 97 = 126 FTE.
+  - The same reporter's Oct 20 story, "2 Portland Public Schools board members pitch alternatives to closing 14 schools", is not in the archive. One of the two is presumably Splitt.
 
 ## Public comment themes
 Eleven general comments: three students, eight adults. Plus the Beaverton mayor, the PAT president, and one comment on the consent agenda.
