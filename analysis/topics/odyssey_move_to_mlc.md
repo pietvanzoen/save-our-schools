@@ -76,3 +76,19 @@ Analysis:
 | Jackson (6-8) | 35 | 9.7 → 8.2 mi | −4 (gain) | −4 |
 
 **If Maplewood closes,** its returning students split between Hayhurst (70%) and Rieke (30%). That puts about 11 (5–23) at Hayhurst. None of this is in Hayhurst's projection of 472 for 2027-28 [PPS:pps_net/rightsizing/school_impact/hayhurst.pdf p.4](https://drive.google.com/open?id=1BwsMTqcVksEx0je_XtPcti9pgFLBE_TP&usp=drive_copy).
+
+## Alternative used in the Maplewood email: half of families leave when the drive doubles (Analysis)
+This scenario sets the elasticity so that 50% of Hayhurst and Maplewood Odyssey families leave: (7.5/3.8 ≈ 7.8/4.0 ≈ 1.95)^b = 0.5, which gives b ≈ −1.03. The same b is then applied to every neighborhood.
+
+| Neighborhood | Leave Odyssey | Back to neighborhood school |
+|---|---|---|
+| Hayhurst | 13.1 | 10.5 |
+| Maplewood | 8.9 | 7.8 |
+| Bridlemile | 7.2 | 6.3 |
+| Rieke | 2.5 | 2.2 |
+| Forest Park | 2.0 | 1.8 |
+| Markham / Capitol Hill / Stephenson (closer) | −6.3 | −4.7 |
+| **SW K-5, net** | | **≈ 24** |
+| Gray + West Sylvan (6-8) | 17.5 | 15.1 |
+
+**Hayhurst, if Maplewood closes:** 10.5 + 70% × 7.8 ≈ **16**.
