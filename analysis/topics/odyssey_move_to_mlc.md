@@ -7,10 +7,10 @@ Data:
 - [`data/school_drive_distances_odyssey.csv`](../data/school_drive_distances_odyssey.csv): drive distances for 61 schools.
 
 **Bottom line (Analysis).**
-- About 123 Odyssey students live in Southwest neighborhoods whose drive gets longer under the move. These are Bridlemile, Hayhurst, Maplewood, Rieke and Forest Park (K-5), plus Gray and West Sylvan (6-8).
+- About 117 Odyssey students live in Southwest neighborhoods whose drive gets longer under the move. These are Bridlemile, Hayhurst, Maplewood and Rieke (K-5), plus Gray and West Sylvan (6-8). Another 6 live in Forest Park, in Northwest Portland.
 - The drive roughly doubles for Hayhurst (3.8 → 7.5 mi) and Maplewood (4.0 → 7.8 mi).
 - **Assumption.** Half of Odyssey families leave when their drive doubles, with smaller losses where the drive grows less (method below).
-- **Neighborhood schools.** About **24** SW elementary students (range 17–33) shift back to neighborhood schools, net of small gains for Markham and Capitol Hill. About 15 middle schoolers (11–21) return to Gray and West Sylvan.
+- **Neighborhood schools.** About **22** SW elementary students (range 16–31) shift back to neighborhood schools, net of small gains for Markham and Capitol Hill. About 15 middle schoolers (11–21) return to Gray and West Sylvan.
 - **Hayhurst.** If Maplewood closes, about **16** (11–23) of these would land at Hayhurst.
 - **What PPS assumes.** PPS projects Odyssey's enrollment as flat after the move (220 → 224), which implies no families leave because of it [PPS:pps_net/rightsizing/school_impact/odyssey.pdf p.4](https://drive.google.com/open?id=1cUaUTKyIFWmWzTghepiA3Ib6rEdVJIx0&usp=drive_copy).
 
@@ -74,10 +74,10 @@ Analysis:
 | Maplewood (K-5) | 18 | 4.0 → 7.8 mi (11 → 16 min) | 9 (6–13) | 8 (5.5–11) |
 | Bridlemile (K-5) | 24 | 2.9 → 4.1 mi (8 → 14 min) | 7 (5–11) | 6 (4–10) |
 | Rieke (K-5) | 13 | 5.1 → 6.3 mi | 2.5 (2–4) | 2 (1.5–3.5) |
-| Forest Park (K-5) | 6 | 4.2 → 6.3 mi | 2 (1.5–3) | 2 (1–3) |
+| Forest Park (K-5, Northwest; not in SW total) | 6 | 4.2 → 6.3 mi | 2 (1.5–3) | 2 (1–3) |
 | Markham (K-5) | 24 | 9.4 → 7.9 mi | −5 (gain) | −3.5 |
 | Capitol Hill (K-5) | 6 | 8.2 → 6.7 mi | −1 (gain) | −1 |
-| **SW K-5, net** | | | | **24 (17–33)** |
+| **SW K-5, net** (excludes Forest Park) | | | | **22 (16–31)** |
 | West Sylvan (6-8) | 17 | 1.7 → 5.3 mi | 12 (9–15) | 10 (8–13) |
 | Gray (6-8) | 19 | 4.7 → 6.7 mi | 6 (4–9) | 5 (3–8) |
 | Jackson (6-8) | 35 | 9.7 → 8.2 mi | −7 (gain) | −6 |
