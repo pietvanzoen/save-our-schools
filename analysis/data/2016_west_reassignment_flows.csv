@@ -1,0 +1,12 @@
+from_school,to_school,students,basis,source,note
+Maplewood,(all),48,PPS table,[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],"# Neighborhood Reassigned Out; reassigned in = 0; same 48/0 in Dir. Kohnstamm scenario tables [PPS:pps_net/boundaries_2016/dbrac/Dir._Kohnstamm_Scenario.pdf p.4]; resident students if fully implemented 2015-16, not enrolled students moved"
+Maplewood,Rieke,14,Analysis (balanced flows),[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],"Rieke reassigned in = 14; Maplewood is the only remaining source sending students to Rieke; Custer Park change (Directors memo 4/15/16 p.3) may shift a few students between the Hayhurst and Rieke pieces"
+Maplewood,Hayhurst,34,Analysis (balanced flows),[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],"48 - 14; also Hayhurst in 77 - Rieke 19 - Bridlemile 24"
+Rieke,Hayhurst,19,Analysis (balanced flows),[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],Rieke reassigned out = 19
+Bridlemile,Hayhurst,24,Analysis (balanced flows),[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],"Bridlemile reassigned out = 24; small area south of Beaverton-Hillsdale Hwy [PPS:pps_net/boundaries_2016/dbrac/3-29-16-Super-Final-Recommendations-March-29-16.pdf p.21]"
+Capitol Hill,Stephenson,63,Analysis (balanced flows),[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],Capitol Hill out 63 = Stephenson in 63
+Chapman,Ainsworth,97,Analysis (balanced flows),[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],Chapman out 158 = Ainsworth 97 + Bridlemile 44 + Forest Park 17
+Chapman,Bridlemile,44,Analysis (balanced flows),[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],
+Chapman,Forest Park,17,Analysis (balanced flows),[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],
+West Sylvan,Gray,7,Analysis (balanced flows),[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],middle-school flow
+Hayhurst (Odyssey),East Sylvan,222,PPS table,[PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3],"Hayhurst out 222 = East Sylvan in 222; PPS note: Hayhurst/East Sylvan counts include focus option enrollment"

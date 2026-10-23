@@ -11,6 +11,46 @@ Sources: [`sources/pps_net/boundaries_2016/`](../../sources/pps_net/boundaries_2
   - changed middle-school feeders (Maplewood to Jackson).
   - It also told staff to "Prepare to re-open Smith School as a K-5 school, with a projected launch of fall, 2019" [PPS:pps_net/boundaries_2016/2016-05-17_board_packet.pdf p.21](../../sources/pps_net/boundaries_2016/2016-05-17_board_packet.pdf). (See [2005_closures.md](2005_closures.md): Smith was closed in 2005.)
 
+## How many students Maplewood lost, and where they went
+
+Data: [`data/2016_west_reassignment_flows.csv`](../data/2016_west_reassignment_flows.csv).
+
+**PPS's count: 48 out, none in.** The Superintendent's West Side KPI tables list Maplewood at "# Neighborhood Reassigned Out" 48 and "# Neighborhood Reassigned In" 0 [PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3](../../sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf). The tables for Director Kohnstamm's scenario, the version the board adopted, show the same 48 and 0 [PPS:pps_net/boundaries_2016/dbrac/Dir._Kohnstamm_Scenario.pdf p.4](../../sources/pps_net/boundaries_2016/dbrac/Dir._Kohnstamm_Scenario.pdf).
+- **What the count measures.** PPS's note says the columns "represent the number of students reassigned in or out of the neighborhood (not the number of students currently enrolled at the school) if fully implemented 2015-16" [PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3](../../sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf).
+  - So 48 is the number of students living in the moved areas, measured against 2015-16.
+  - It is not the number of enrolled students forced to switch. Current students could stay, and their younger siblings had a transfer path.
+- **Effect on Maplewood's projections.** Same tables, p.2 [PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.2](../../sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf):
+  - **2015-16:** 359 under the old boundary, 325 under the new one.
+  - **2020 forecast:** 404 under the old boundary, 378 under the new one.
+
+**The split between Hayhurst and Rieke (Analysis).** PPS does not publish it, but the reassignment table balances: 541 students out and 541 in [PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3](../../sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf). Matching each school's outflow to an inflow:
+
+| Flow | Students | How it is matched |
+|---|---|---|
+| Chapman → Ainsworth, Bridlemile, Forest Park | 158 = 97 + 44 + 17 | Chapman's 158 out equals those three schools' combined inflow |
+| Capitol Hill → Stephenson | 63 | Equal out and in; the resolution moves part of Capitol Hill to Stephenson |
+| West Sylvan → Gray | 7 | Middle-school flow |
+| Hayhurst (Odyssey) → East Sylvan | 222 | "For Hayhurst and East Sylvan, the number reassigned in/out includes focus option program enrollment" |
+| **Maplewood → Rieke** | **≈14** | Rieke's 14 in. Maplewood is the only remaining source that sends students to Rieke |
+| Rieke → Hayhurst | 19 | |
+| Bridlemile → Hayhurst | 24 | The recommendation moves "a small area south of Beaverton-Hillsdale Highway" from Bridlemile to Hayhurst |
+| **Maplewood → Hayhurst** | **≈34** | Hayhurst's 77 in, minus 19 from Rieke and 24 from Bridlemile; also 48 − 14 |
+
+- **What PPS's text supports.** The Superintendent's March 29 recommendation names portions of "Bridlemile, Capitol Hill, Maplewood and Rieke" going to Hayhurst and "a portion of the Maplewood attendance area" going to Rieke [PPS:pps_net/boundaries_2016/dbrac/3-29-16-Super-Final-Recommendations-March-29-16.pdf p.21](../../sources/pps_net/boundaries_2016/dbrac/3-29-16-Super-Final-Recommendations-March-29-16.pdf).
+  - Capitol Hill is named among the areas going to Hayhurst. But its 63 students out exactly equal Stephenson's 63 in, so the table counts no Capitol Hill students going to Hayhurst. Analysis: that piece was probably small or had no resident students in 2015-16.
+  - The matching assumes the flows the documents describe and no others. For example, it assumes no Rieke students moved to Stephenson.
+- **Caveat: Custer Park.**
+  - That March recommendation also said "Custer Park would be added to the Hayhurst boundary" (same page).
+  - Board members then asked staff to model moving a small part of Maplewood near Custer Park to Rieke instead: "Rieke was selected instead of Hayhurst, because the area is less than one mile to Rieke" [PPS:pps_net/boundaries_2016/dbrac/Directors_scenarios_memo_4.15.16.final.pdf p.3](../../sources/pps_net/boundaries_2016/dbrac/Directors_scenarios_memo_4.15.16.final.pdf). That is the adopted "south of SW Caldew St. and east of SW 25th Ave" area.
+  - The memo's 2020 table leaves Maplewood unchanged (404 in both columns) and shows Rieke falling from 392 to 387 (same page). So it cannot be used to size the Custer Park piece.
+  - The split of the 48 may therefore have moved a few students from the Hayhurst side to the Rieke side. The total stays 48 in both the March and April tables.
+- **Land area (Analysis).** Comparing 2013-14 attendance areas (NCES School Attendance Boundary Survey) with 2025-26 areas (City of Portland School Boundaries layer):
+  - about **73 acres** moved from Maplewood to Hayhurst;
+  - about **22 acres** moved from Maplewood to Rieke;
+  - Hayhurst also gained 32 acres from Rieke and 19 from Bridlemile.
+  - Source: the "SW Portland Boundary Overlay" map built Oct 13, 2026 (https://claude.ai/artifact/Szm7RriX6DisJVycLzPet3). The boundary data is not yet archived in this repo.
+- **What happened next.** Maplewood enrolled 384 in fall 2016, above both projections [BB:3996892 p.145](../../sources/boardbook/meetings/2026-02-05_730080_audit-committee-meeting/attachments/3996892_FY25_PPS_FINAL_ACFR_1.28.26.pdf).
+
 ## The justification: growth and overcrowding
 - The resolution's recitals open with "seven straight years of student enrollment growth." They describe a rise in schools with insufficient classroom space alongside schools too small to offer the core program [PPS:pps_net/boundaries_2016/2016-05-17_board_packet.pdf p.19](../../sources/pps_net/boundaries_2016/2016-05-17_board_packet.pdf).
 - The named West Side needs were:

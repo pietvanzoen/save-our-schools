@@ -113,6 +113,8 @@ The Board adopted Resolution 5256, "Attendance Area Changes for Lincoln and Wils
 - **To Rieke:** "the area located south of SW Caldew St. and east of SW 25th Ave". The resolution calls this "Additional overcrowding relief for Maplewood school" and says the area is less than a mile from Rieke, so bused students could walk or bike instead [PPS:pps_net/boundaries_2016/2016-05-17_board_packet.pdf p.21](https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/boundaries_2016/2016-05-17_board_packet.pdf).
 - The same resolution moved Maplewood's middle-school feeder from Gray to Jackson beginning in 2017 [PPS:pps_net/boundaries_2016/2016-05-17_board_packet.pdf p.20](https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/boundaries_2016/2016-05-17_board_packet.pdf).
 
+PPS's 2016 tables count 48 Maplewood-neighborhood students reassigned out and none in [PPS:pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf p.3](https://github.com/timaelliott/save-our-schools/blob/main/sources/pps_net/boundaries_2016/dbrac/Quadrant_KPIs_SuptRecommendationsWest.pdf). Analysis: balancing that table puts about 34 of them at Hayhurst and about 14 at Rieke. See [2016_boundary_changes.md](../topics/2016_boundary_changes.md#how-many-students-maplewood-lost-and-where-they-went).
+
 PPS's family summary of the change has a map labeling the "Maplewood to Hayhurst" and "Maplewood to Rieke" areas [PPS:pps_net/boundaries_2016/2016_final_west_side_boundary_changes.pdf p.2–3].
 
 Analysis: in 2016 PPS gave Maplewood overcrowding as the reason for shrinking its zone. In 2026, low enrollment is part of the case for closing it.
