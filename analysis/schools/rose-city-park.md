@@ -20,7 +20,7 @@ PPS's wording, "What is being proposed?" [PPS:pps_net/rightsizing/school_impact/
 
 **Board-member alternatives and advocacy (Oct 20, 2026):**
 - Splitt's alternative "Scenario D" (memo reported Oct 20) would keep this school open for now [NEWS:NEWS-20261020-oregonian-1](https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html).
-- Safe Structures PPS asks where the bond money for Rose City Park's planned full seismic retrofit would go if it closes [NEWS:NEWS-20261020-wweek-1](https://www.wweek.com/news/schools/2026/10/20/parent-group-asks-pps-for-seismic-bond-spending-plan-amid-rightsizing/).
+- Safe Structures PPS asks where the bond money for Rose City Park's planned full seismic retrofit would go if it closes [NEWS:NEWS-20261020-wweek-1](https://www.wweek.com/news/schools/2026/10/20/parent-group-asks-pps-for-seismic-bond-spending-plan-amid-rightsizing/). The letter notes it is one of only two full-campus retrofits in the bond's first round [COMM:safe_structures_pps/2026-10-20_safe_structures_pps_letter_rightsizing_seismic.pdf p.2](../../sources/community/safe_structures_pps/2026-10-20_safe_structures_pps_letter_rightsizing_seismic.pdf).
 
 ## Receiving / sending relationships
 - **A:** students/programs go to: Scott (neighborhood, 100%); Vestal (Vietnamese DLI); programs out: Vietnamese DLI -> Vestal [PPS:pps_net/rightsizing/school_impact/rose_city_park.pdf p.3](https://drive.google.com/open?id=1PuP0VaaG1rh4xC7Sjx4fkwHYGH_ZFJzH&usp=drive_copy)
