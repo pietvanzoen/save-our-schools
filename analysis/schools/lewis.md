@@ -21,6 +21,7 @@ PPS's wording, "What is being proposed?" [PPS:pps_net/rightsizing/school_impact/
 **Board-member alternatives and advocacy (Oct 20, 2026):**
 - Splitt's alternative "Scenario D" (memo reported Oct 20) would keep this school open for now [NEWS:NEWS-20261020-oregonian-1](https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html).
 - Scenario D would also send some Woodmere students to Lewis to balance its enrollment [NEWS:NEWS-20261020-oregonian-1](https://www.oregonlive.com/education/2026/10/2-portland-public-schools-board-members-pitch-alternatives-to-closing-14-schools.html). Safe Structures PPS lists Lewis among proposed closures that have had recent seismic investment [NEWS:NEWS-20261020-wweek-1](https://www.wweek.com/news/schools/2026/10/20/parent-group-asks-pps-for-seismic-bond-spending-plan-amid-rightsizing/).
+- Lewis received $1.5M in state seismic grant money in 2017. Business Oregon told WW it is unlikely to pursue a default remedy because the ten-year condition is nearly over [NEWS:NEWS-20261016-wweek-1](https://www.wweek.com/news/schools/2026/10/16/by-closing-marysville-elementary-pps-could-be-at-risk-of-defaulting-on-a-state-contract/).
 
 ## Receiving / sending relationships
 - **A:** students/programs go to: Duniway (neighborhood); pathway: Brentwood MS -> Cleveland HS; special education: Communication Behavior classroom -> Woodstock [PPS:pps_net/rightsizing/school_impact/lewis.pdf p.3](https://drive.google.com/open?id=18liV8xTahqAn_NAnjl4B_1BwSqhRoXhE&usp=drive_copy)
