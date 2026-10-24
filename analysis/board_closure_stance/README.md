@@ -14,7 +14,7 @@ against, defer, or no closures). The scores are analytical judgments (Analysis),
 |---|---|---|---|---|---|
 | [Eddie Wang](eddie-wang.md) (Chair) | 7 | **+2** | +1 to +2 | Yes (A, B or amended) | Relays parents who "would prefer Scenario A over Scenario B" (Oct 20); his "bottom line" is underserved students in well-enrolled schools |
 | [Michelle DePass](michelle-depass.md) | 2 | **+2** | +1 to +2 | Yes; may move or second | "I don't know how we cannot do something" (Oct 20); calls the "redlining" framing "misplaced and offensive" |
-| [Rashelle Chase-Miller](rashelle-chase-miller.md) (Vice Chair) | 4 | **+1.5** (was +1) | +1 to +2 | Yes | Oct 20: "my kids cannot wait"; "No one is coming to save us" |
+| [Rashelle Chase-Miller](rashelle-chase-miller.md) (Vice Chair) | 4 | **+2** (was +1.5) | +1.5 to +2 | Yes | Oct 21 podcast: "80% of our historically underserved students" in fully resourced schools under A; expects "Some hybrid" [AUDIO:schmidt_show/2026-10-21_show-your-math_rashelle-chase-miller.transcript@0:41:23] |
 | [Patte Sullivan](patte-sullivan.md) | 3 | **+1** (was +1.5) | +1 to +2 | Yes, probably amended | "heartened" by the gains, but "maybe the west side doesn't need it"; DLI through 5th grade (Oct 20) |
 | [Christy Splitt](christy-splitt.md) | 1 | **0** (was −1) | −1 to +1 | Yes on a much smaller package; no on A/B | Oct 20: her own plan closes or merges the 6 smallest schools, phased |
 | [Virginia La Forte](virginia-la-forte.md) | 5 | **−1** (was 0) | −1 to +1 | Lean no or delay on A/B; amendments first | Oct 20: "I'm not sold"; asked for "breathing room" on the December date; Spanish DLI families |

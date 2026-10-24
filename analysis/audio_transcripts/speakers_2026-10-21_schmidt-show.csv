@@ -1,0 +1,8 @@
+speaker_id,label,role,evidence,confidence
+SPEAKER_01,Mike Schmidt (host),"Host, The Schmidt Show PDX; former Multnomah County District Attorney","Self-identifies at 0:01:06 (""I'm Mike Schmidt, former Multnomah DA""); conducts the interview; listed as host on the episode page",high
+SPEAKER_03,Rashelle Chase-Miller (PPS Board vice chair),"PPS Board of Education, Zone 4 (North Portland), vice chair (guest)","Introduced by the host as the guest at 0:07:07; describes her own board service, North Portland zone, SMART Reading job and sons in PPS; named as guest on the episode page",high
+SPEAKER_02,Elinor Jones (news segment),"Portland Mercury Trash Report writer (""Also this week"" news segment)","Introduced by the host at 0:02:28; says she is on the Portland Mercury Trash Report (0:06:59); spelled Elinor on the episode page",high
+SPEAKER_00,Sponsor ad (Corbett Hill Wellness),"Pre-recorded sponsor message (Corbett Hill Wellness Center)","Introduced by the host as the show sponsor at 0:00:04, 0:30:40 and 1:03:13; identical ad format each time",high
+NONE,[music],"Music bed (no speaker)","Segment labeled [music] with no speaker id",high
+@0:17:00,Mike Schmidt (host),"Diarization error","One-word ""Congratulations."" assigned to the sponsor-ad voice; it follows the host noting she is vice chair, so it is the host (or crosstalk)",medium
+@0:25:40,Rashelle Chase-Miller (PPS Board vice chair),"Diarization error","One-word ""Yeah."" assigned to the news-segment voice in the middle of the interview; Jones does not appear after 0:07:06",medium

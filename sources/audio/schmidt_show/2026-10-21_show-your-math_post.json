@@ -1,0 +1,44 @@
+{
+ "id": 221357555,
+ "title": "Show Your Math",
+ "subtitle": "14 Schools, 6,000 Fewer Students, and One Hard Vote",
+ "slug": "show-your-math",
+ "canonical_url": "https://www.schmidtshowpdx.com/p/show-your-math",
+ "post_date": "2026-10-21T14:01:33.146Z",
+ "updated_at": "2026-10-21T14:01:34.097Z",
+ "type": "podcast",
+ "audience": "everyone",
+ "podcast_url": "https://api.substack.com/api/v1/audio/upload/e61cffee-3965-495d-ae09-10657840f2e8/src",
+ "podcast_duration": 3832.7903,
+ "description": "14 Schools, 6,000 Fewer Students, and One Hard Vote",
+ "search_engine_description": null,
+ "wordcount": 530,
+ "publishedBylines": [
+  {
+   "name": "Mike Schmidt",
+   "handle": "schmidtshowpdx"
+  }
+ ],
+ "podcastUpload": {
+  "id": "e61cffee-3965-495d-ae09-10657840f2e8",
+  "created_at": "2026-10-21T04:31:49.909Z",
+  "duration": 3832.7903,
+  "media_type": "audio",
+  "primary_file_size": 61325208
+ },
+ "videoUpload": {
+  "id": "cdefbae8-d5ab-4939-8566-e9c79e276693",
+  "name": "riverside_edit_02 - schmidt show ep 14_tyler's_studio.mp4",
+  "created_at": "2026-10-21T04:24:42.098Z",
+  "duration": 3832.7732,
+  "media_type": "video",
+  "primary_file_size": 1903957557
+ },
+ "transcription": {
+  "media_upload_id": "e61cffee-3965-495d-ae09-10657840f2e8",
+  "created_at": "2026-10-21T04:32:21.022Z",
+  "status": "transcribed",
+  "approved_at": "2026-10-21T04:37:34.170Z"
+ },
+ "note": "Episode metadata from the Substack post API (https://www.schmidtshowpdx.com/api/v1/posts/show-your-math), fetched 2026-10-24. The show-notes body is not stored (publisher text)."
+}

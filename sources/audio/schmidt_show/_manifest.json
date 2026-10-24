@@ -1,0 +1,33 @@
+[
+ {
+  "path": null,
+  "program": "The Schmidt Show PDX (Substack podcast; host Mike Schmidt)",
+  "episode_title": "Show Your Math",
+  "episode_subtitle": "14 Schools, 6,000 Fewer Students, and One Hard Vote",
+  "episode_page": "https://www.schmidtshowpdx.com/p/show-your-math",
+  "published": "2026-10-21T14:01:33Z",
+  "duration_seconds": 3832.79,
+  "guest": "Rashelle Chase-Miller, PPS Board vice chair (Zone 4, North Portland); news segment by Elinor Jones",
+  "audio": "Not archived. The episode audio (Substack podcast upload, about 61 MB MP3) is at the episode's podcast_url in the post metadata file.",
+  "metadata_file": {
+   "path": "audio/schmidt_show/2026-10-21_show-your-math_post.json",
+   "source": "https://www.schmidtshowpdx.com/api/v1/posts/show-your-math",
+   "fetched": "2026-10-24",
+   "note": "Subset of the Substack post API response; show-notes body omitted."
+  },
+  "transcript": {
+   "raw_export": "audio/schmidt_show/2026-10-21_show-your-math_rashelle-chase-miller.transcript.json",
+   "raw_sha256": "c96e9c92e28bd077b1125e14386f764d4f89f2cbf39b3344ae2f97fb701a6608",
+   "raw_bytes": 135551,
+   "word_level_export": "audio/schmidt_show/2026-10-21_show-your-math_rashelle-chase-miller.transcript_words.json",
+   "word_level_sha256": "ffafa8e93d740477b51e46da1e9b38eac444a4ce20dbcd57d535fa9d7fa4b676",
+   "raw_provenance": "Substack's automatic transcription of the podcast upload (status 'transcribed', approved 2026-10-21T04:37Z), the transcript linked from the episode page. Fetched 2026-10-24 from the transcription's substackcdn.com captions URLs (unaligned segments and word-aligned versions) by curl on the repository owner's computer. 1,107 segments, speakers SPEAKER_00-03. Machine output: not verified against the audio.",
+   "corrected": "analysis/audio_transcripts/2026-10-21_schmidt-show_rashelle-chase-miller.txt",
+   "speakers": "analysis/audio_transcripts/speakers_2026-10-21_schmidt-show.csv",
+   "corrections_log": "analysis/audio_transcripts/corrections_2026-10-21_schmidt-show.csv",
+   "builder": "python3 tools/substack_transcript.py",
+   "citation": "[AUDIO:schmidt_show/2026-10-21_show-your-math_rashelle-chase-miller.transcript@H:MM:SS] (turn start)",
+   "name_corrections": "Raw transcript spells the guest 'Rochelle'/'Rachelle Chase Miller'; corrected to [Rashelle Chase-Miller] in the corrected copy only. 'profit center' (district headquarters, being sold to Albina Vision Trust) is corrected to [BESC] by inference from context."
+  }
+ }
+]
